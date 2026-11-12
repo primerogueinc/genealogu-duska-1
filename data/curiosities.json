@@ -752,5 +752,38 @@
   "translation": "(English)",
   "why": "Forty-four years in Canada, and the funeral was among his own.",
   "tone": "sad"
+ },
+ {
+  "id": "C-085",
+  "doc": "D-011-106",
+  "source": "S-287",
+  "title": "Married on the 10th, widowed on the 17th",
+  "text": "Anna Hrešková of Vysoká married a man named Puchlák on 10 November 1925. The census gives the day she was widowed as 17 November 1925, one week later. In 1930 she is back in her father's house with a son, Juraj Puchlák, born on 2 June 1926.",
+  "original": "Puchláková Anna | dcéra | 2/VIII 1901 | vdova | 10/XI 1925 | 17/XI 1925",
+  "translation": "Anna Puchláková, daughter, born 2 August 1901, widow; married 10 November 1925; widowed 17 November 1925",
+  "why": "Three dates in a census column, and a whole marriage.",
+  "tone": "sad"
+ },
+ {
+  "id": "C-086",
+  "doc": "D-011-85",
+  "source": "S-280",
+  "title": "Born in America, counted in Iňačovce",
+  "text": "The birthplace column on one Iňačovce sheet does not name a village. For Alžbeta Kniežo, born in 1901, it ends with the word 'Amerika'. Her parents had gone out, had a daughter and come home, and in 1919 she married into the village. In 1930 her own husband was the one away.",
+  "original": "[...] Amerika",
+  "translation": "[a place], America",
+  "why": "Emigration ran both ways, and across two generations of one household.",
+  "tone": "history"
+ },
+ {
+  "id": "C-087",
+  "doc": "D-011-79",
+  "source": "S-280",
+  "title": "Demková, Danková",
+  "text": "The owner filed one Iňačovce sheet as the house of Maria Demková. The clerk wrote Danková. It is the third time in this archive that a Danko has been taken for a Duska or a Demko: one letter apart in a hurried hand, and no relation.",
+  "original": "Danková Maria",
+  "translation": "Maria Danková",
+  "why": "The same trap, sprung on a careful collector twice and on this agent once.",
+  "tone": "funny"
  }
 ]

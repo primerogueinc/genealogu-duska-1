@@ -7006,5 +7006,89 @@
   "relation": "Named as a son in his father's death notice (D-006-20). Status unknown: name only.",
   "route": "duska",
   "route_note": ""
+ },
+ {
+  "id": "K-590",
+  "name": "Barbora Dušková",
+  "vitals": "b. 26 Dec 186[7], Iňačovce; Reformed; m. 1 Jul 1887; widowed 14 Jan 1914; alone at Iňačovce 28 in 1930",
+  "proof": "documented",
+  "sources": [
+   "S-280"
+  ],
+  "relation": "Probably Borbála Dzurina, widow of Mihály Duska (FG-41; H-069).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-591",
+  "name": "Michal Demko",
+  "vitals": "b. 28 Aug 1882 at Vysoká; Greek Catholic; at Iňačovce 117 in 1930",
+  "proof": "documented",
+  "sources": [
+   "S-280"
+  ],
+  "relation": "Head in D-011-84. Probably Ahn 18, father of Maria Demko.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-592",
+  "name": "Zuzanna Demková",
+  "vitals": "b. 28 Apr 1901, Iňačovce; m. 3 Feb 1919",
+  "proof": "documented",
+  "sources": [
+   "S-280"
+  ],
+  "relation": "Second wife of Michal Demko (D-011-84).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-593",
+  "name": "Juraj Demko",
+  "vitals": "b. 17 Sep 1911, Iňačovce",
+  "proof": "documented",
+  "sources": [
+   "S-280"
+  ],
+  "relation": "Son of Michal Demko (D-011-84); a brother of Maria Demko if the head is Ahn 18.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-594",
+  "name": "Maria Kočišová",
+  "vitals": "b. 15 Aug 1863; Roman Catholic; m. 10 Nov 1879; widow; 'mother-in-law' at Iňačovce 117 in 1930",
+  "proof": "documented",
+  "sources": [
+   "S-280"
+  ],
+  "relation": "D-011-84. Perhaps Mária Knyezső, mother of Mária Kocsis (Ahn 19).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-595",
+  "name": "Ján Demko",
+  "vitals": "b. 15 Apr 1875, Vysoká; Greek Catholic; at Vysoká 165 in 1930",
+  "proof": "documented",
+  "sources": [
+   "S-287"
+  ],
+  "relation": "D-011-109. Probably the János baptised 29 Mar 1875, brother of Ahn 18.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-596",
+  "name": "Michal Kočiš",
+  "vitals": "b. 20 Sep 1879, Iňačovce; at Iňačovce 69 in 1930",
+  "proof": "documented",
+  "sources": [
+   "S-280"
+  ],
+  "relation": "D-011-82. The Mihály Kocsis baptised in 1879 (FG-27).",
+  "route": "demko",
+  "route_note": ""
  }
 ]

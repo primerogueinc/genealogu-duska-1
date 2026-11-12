@@ -1729,6 +1729,41 @@
    "S-277",
    "S-278"
   ],
+  "committed_utc": "2026-11-12T09:48:56Z"
+ },
+ {
+  "id": "B-037",
+  "date": "2026-11-12",
+  "title": "The census of 1930 in nine other villages",
+  "folder": "F-011",
+  "files": 46,
+  "blurb": "Read ledger v19, unchanged. The 46 census sheets left unread two batches ago: Čičarovce, Iňačovce, Maťovce, a village the owner calls Mogyoros, Palín, Pavlovce, Veľké Kapušany, Veľké Slemence and Vysoká. They were read quickly, from reduced images and for the left-hand columns only, and each is abstracted, not transcribed. One sheet is a Duska: Barbora Dušková, a Reformed widow alone at Iňačovce 28, married 1887 and widowed on 14 January 1914, probably the wife of the Reformed Mihály Duska of the 1890s. Everything else belongs to the other line or to neither. The find of the batch is for the Demko agent. At Iňačovce 117 lives Michal Demko, born at Vysoká in August 1882: the father of Maria Demko. He has a second wife, married in 1919, a son of 1911 by the first, and in the house a widowed mother-in-law named Kočišová, born 1863, who may be the mother of his first wife. At Vysoká a Ján Demko born in April 1875 is very probably his brother. Eighteen Iňačovce sheets are of the Knyezso family, written Kňežo, and the rest are Kocsis, Hreško and four Jewish households named Schwarz, which the owner gathered across five villages for a reason not stated. Three of his labels misname the household, one of them a Danko filed as a Demko. 18 sheets are held, either for a child born after 1926 or because their lower rows were not read. Curiosities: 3",
+  "raised": [
+   "H-069",
+   "H-070"
+  ],
+  "resolved": [],
+  "revised": [],
+  "people_added": [
+   "K-590",
+   "K-591",
+   "K-592",
+   "K-593",
+   "K-594",
+   "K-595",
+   "K-596"
+  ],
+  "sources_added": [
+   "S-279",
+   "S-280",
+   "S-281",
+   "S-282",
+   "S-283",
+   "S-284",
+   "S-285",
+   "S-286",
+   "S-287"
+  ],
   "committed_utc": null
  }
 ]

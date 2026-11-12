@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-036. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-037. Read ledger v19.
+
+## 000000000000000000000000000000. B-037 (12 Nov): the remaining 46 census sheets; one for my line, 41 for Demko
+
+`DUS:D-011-67` to `-112`. Read ledger v19. Abstracted from the left-hand columns only (`DUS:DEC-118`); 18 held. For my line: one Reformed Duska widow at Iňačovce (`DUS:H-069`). For Demko: Ahn 18 at Iňačovce 117 with a second wife and a Kočišová mother-in-law (`DUS:H-070`, routed), and a brother at Vysoká. Nothing is pending on my side. Ten of Kevin's own-authored files remain held unopened, awaiting your ruling.
 
 ## 00000000000000000000000000000. B-036 (12 Nov): the rest of the pile: Ahn 8's death, Ahn 4's marriage, Ahn 5 by name
 

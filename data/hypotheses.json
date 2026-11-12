@@ -504,6 +504,11 @@
     "batch": "B-007",
     "effect": "65% to 70%",
     "note": "György Demkó of Viszoka had the same wife, Mária Hreskó, from 1857 to 1882. A move to Gönyű and a new wife by 1895 is unlikely. Held at the X-009 cap; the Demko agent should still rule out a second marriage."
+   },
+   {
+    "batch": "B-037",
+    "effect": "no change",
+    "note": "Vysoká in 1930 has four Demko houses (8, 164, 165, 170) and Iňačovce one (117), whose head was born at Vysoká."
    }
   ],
   "question": "X-Q-04"
@@ -1008,6 +1013,11 @@
     "batch": "B-025",
     "effect": "no change",
     "note": "A Gergely Kocsis holds a full holding at Solymos in the urbarial table (D-011-04, no. 8), and a Joannes Kocsis half of one at Csicser (D-011-05). Routed to the Demko agent."
+   },
+   {
+    "batch": "B-037",
+    "effect": "no change",
+    "note": "The 1930 census has a widow Maria Kočišová, born 1863, married 1879, as mother-in-law in Michal Demko's house (D-011-84). If she is Mária Knyezső, she was 23 at the birth of the Mária of 1887. Routed to Demko (H-070)."
    }
   ],
   "necronym_risk": "unresolved"
@@ -1789,6 +1799,43 @@
     "batch": "B-036",
     "effect": "raised at 60",
     "note": "Raised from the death notice."
+   }
+  ]
+ },
+ {
+  "id": "H-069",
+  "statement": "Barbora Dušková, Reformed widow of Iňačovce 28 in 1930, is Borbála Dzurina, and her husband, who died on 14 January 1914, was the Reformed Mihály Duska of Solymos 44.",
+  "confidence": 65,
+  "basis": "The only Duska on the eighteen Iňačovce sheets; Reformed; a Borbála; married in 1887, six years before the one baptism in hand for that couple (189[3]). The sheet does not give her maiden name or her husband's name.",
+  "test": "The Reformed burial entry of January 1914; the Reformed marriage entry of 1 July 1887.",
+  "status": "open",
+  "raised": "B-037",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-037",
+    "effect": "raised at 65",
+    "note": "Raised from the census sheet D-011-80."
+   }
+  ]
+ },
+ {
+  "id": "H-070",
+  "statement": "Michal Demko of Iňačovce 117 in 1930, born 28 August 1882 at Vysoká, is the father of Maria Demko (Ahn 18); Zuzanna, married 1919, is his second wife; and the widow Maria Kočišová in his house is the mother of his first wife, Mária Kocsis.",
+  "confidence": 60,
+  "basis": "A Mihály Demkó was baptised at Viszoka in August 1882 (the baptism has the 19th, the census the 28th), and the Demko agent's record of 1906 has him at Solymos with a wife Mária Kocsis. A son of 1911 predates the marriage of 1919. 'Mother-in-law' with the surname Kočišová, born 1863 and married 1879, fits Mária Knyezső, mother of the Mária Kocsis born in 1887.",
+  "test": "The burial of Mária Kocsis between 1911 and 1919; the marriage entry of 3 February 1919, which should call him a widower and name Zuzanna's parents.",
+  "status": "open",
+  "raised": "B-037",
+  "resolved": null,
+  "resolution": null,
+  "route": "demko",
+  "log": [
+   {
+    "batch": "B-037",
+    "effect": "raised at 60",
+    "note": "Routed to the Demko agent, who owns Ahn 18 and 19."
    }
   ]
  }

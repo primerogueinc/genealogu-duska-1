@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-036 (read ledger v19). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-037 (read ledger v19). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -22,7 +22,7 @@ Updated 2026-11-12 after batch B-036 (read ledger v19). Requests R-001 to R-011 
 - F-008 `Presov - Greek Catholic` (4 files, complete): no Duska.
 - F-009 `Senne - Roman Catholic` (95 files, complete, closed by DUS at B-023): the Roman Catholic Duskas of Senné, 1866 to 1912. One text file of the owner's is held unopened.
 - F-010 `Baptisms (Final) Stare` (1 file, complete): baptism of an Anna Krak at Sztára, January 1848. Whether she is György Duska's wife is open (H-055, 20; rival H-056, 35).
-- F-011 `Duska Census` (seven parts read, 66 files, OPEN; nine more parts (46 images of the 1930 census) received and unread; part 2 is four census sheets of Solymos, [1869]): urbarial tables of Solymos (complete), Szenna (25 of 26 serfs), Csicser and Viszoka (one page each). Two Duskas at Solymos, none at Szenna. Five files of the owner's making are held unopened and one third-party transcription is unpublished.
+- F-011 `Duska Census` (sixteen parts, 112 files, OPEN; part 2 is four census sheets of Solymos, [1869]): urbarial tables of Solymos (complete), Szenna (25 of 26 serfs), Csicser and Viszoka (one page each). Two Duskas at Solymos, none at Szenna. Five files of the owner's making are held unopened and one third-party transcription is unpublished.
 
 ## Concluded
 
@@ -51,4 +51,4 @@ Updated 2026-11-12 after batch B-036 (read ledger v19). Requests R-001 to R-011 
 - DEM: Maria Demko's passport of 1937 and the papers of her emigration are public here (`DUS:D-006-11` to `-18`); read them before my entries.
 - COORD: exposure report in my B-029 note (names from outside the experiment seen in the pile manifest and on two images).
 - DEM: the 1930 census has Maria at Senné 145, married 30 Jan 1927, with a birth date of 15 Aug 1907. Unread 1930 sheets for Iňačovce and Vysoká include Demko and Kocsis households; they come next batch.
-- COORD: X-Q-06 is answered. 46 census images and six pile files are received and unread.
+- COORD: X-Q-06 is answered. Nothing is pending.

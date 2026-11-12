@@ -13234,5 +13234,1817 @@
     "english": "A small cut of one baptism entry of 1890, which the Sorter describes as a Duska father at Senné. By its file name it is the entry already read as D-009-84: Miklós, born 28 November 1890, son of György Duska the younger and Erzsébet Schwarz. The file name adds 'from Czech Origins', the same words as on the 1892 marriage image: probably the name of the service the owner took both from. Not re-read line by line."
    }
   ]
+ },
+ {
+  "id": "D-011-67",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-279",
+  "file": "Cicarovce_-_1_-_House_of_Henrich_Schwarz.png",
+  "sha256": "a4d693040105b7f2a6719ef2273991105e5d1f36282db262940448077f70c62d",
+  "wide": true,
+  "title": "Census of 1930, Čičarovce, house ?: Henrich Schwarz",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Cicarovce - 1 - House of Henrich Schwarz",
+  "family": null,
+  "route": "places",
+  "part": "1930 CICAROVCE WHOLE",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Čičarovce",
+   "page_or_image": "house ?",
+   "obtained": "From the owner's desktop folder '1930 CICAROVCE WHOLE', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house ?",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Henrich Schwarcz, general merchant, Jewish, born 15 June 1902 at Vysoká nad Uhom, in Čičarovce since 9 May 1929; his wife Regina, born 16 May 1906 at Čičarovce, married 1929; their son Béla, born 1930.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Henrich Schwarcz, general merchant, Jewish, born 15 June 1902 at Vysoká nad Uhom, in Čičarovce since 9 May 1929; his wife Regina, born 16 May 1906 at Čičarovce, married 1929; their son Béla, born 1930."
+   }
+  ],
+  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+ },
+ {
+  "id": "D-011-68",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-279",
+  "file": "Cicarovce_-_2_-_House_of_Gyula_Kocsis.png",
+  "sha256": "22f2e6b321ad1eda0d9950e020bc196915bf77841f3a92525d33289075321f65",
+  "wide": true,
+  "title": "Census of 1930, Čičarovce, house ?: Gyula Kocsis",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Cicarovce - 2 - House of Gyula Kocsis",
+  "family": null,
+  "route": "demko",
+  "part": "1930 CICAROVCE WHOLE",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Čičarovce",
+   "page_or_image": "house ?",
+   "obtained": "From the owner's desktop folder '1930 CICAROVCE WHOLE', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house ?",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Gyula Kocsis, shoemaker, Reformed, Hungarian, born 16 November 1902, in the village since 1903; his wife Erzsébet, born 9 April 1904 at Čičarovce, married 20 February 1926; her mother Erzsébet Vincze, widow, born 20 March 1872.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Gyula Kocsis, shoemaker, Reformed, Hungarian, born 16 November 1902, in the village since 1903; his wife Erzsébet, born 9 April 1904 at Čičarovce, married 20 February 1926; her mother Erzsébet Vincze, widow, born 20 March 1872."
+   }
+  ]
+ },
+ {
+  "id": "D-011-69",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-279",
+  "file": "Cicarovce_-_3_-_House_of_F_Kocsis.png",
+  "sha256": "a7a5612be8a0d10c62aa1bcb2fb24fee5b927a7cc14d4b53bdffff0d238fd0e6",
+  "wide": true,
+  "title": "Census of 1930, Čičarovce, house ?: F Kocsis",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Cicarovce - 3 - House of F Kocsis",
+  "family": null,
+  "route": "demko",
+  "part": "1930 CICAROVCE WHOLE",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Čičarovce",
+   "page_or_image": "house ?",
+   "obtained": "From the owner's desktop folder '1930 CICAROVCE WHOLE', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house ?",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Ferenc Kocsis, widower, farmer, Reformed, Hungarian, born 19 November 1857 at Čičarovce; his widowed daughter-in-law Zsuzsanna, born 7 January 1888, married 2 February 1904; grandchildren István (19 January 1905), Gyula (October 1911) and Julia (May 1914).",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Ferenc Kocsis, widower, farmer, Reformed, Hungarian, born 19 November 1857 at Čičarovce; his widowed daughter-in-law Zsuzsanna, born 7 January 1888, married 2 February 1904; grandchildren István (19 January 1905), Gyula (October 1911) and Julia (May 1914)."
+   }
+  ]
+ },
+ {
+  "id": "D-011-70",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-279",
+  "file": "Cicarovce_-_4_-_House_of_Unknown_Kocsis.png",
+  "sha256": "f167bf05a9fd06229876d3676ba1247c84c13d52ba04431de8c2a3752e2d3b9f",
+  "wide": true,
+  "title": "Census of 1930, Čičarovce, house ?: Unknown Kocsis",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Cicarovce - 4 - House of Unknown Kocsis",
+  "family": null,
+  "route": "demko",
+  "part": "1930 CICAROVCE WHOLE",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Čičarovce",
+   "page_or_image": "house ?",
+   "obtained": "From the owner's desktop folder '1930 CICAROVCE WHOLE', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house ?",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Sándor Kocsis, farmer, Roman Catholic, Hungarian, born 30 [December] 1900, in the village since 8 October 1919; his wife Mária, born 2 April 1898 at Čičarovce, married October 1919; children Erzsébet (14 June 1922) and Albert (born 1930); his mother-in-law Mária Szotak, widow, born 5 May 1873. The owner's label calls the head 'unknown'.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Sándor Kocsis, farmer, Roman Catholic, Hungarian, born 30 [December] 1900, in the village since 8 October 1919; his wife Mária, born 2 April 1898 at Čičarovce, married October 1919; children Erzsébet (14 June 1922) and Albert (born 1930); his mother-in-law Mária Szotak, widow, born 5 May 1873. The owner's label calls the head 'unknown'."
+   }
+  ],
+  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+ },
+ {
+  "id": "D-011-71",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-_1_-_House_of_Jan_Knyerso.png",
+  "sha256": "23a93cf862e019aa68b62c128b793d85197f2a7af9936533c2df99ee36a37c7c",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 146: Jan Knyerso",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce - 1 - House of Jan Knyerso",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 146",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 146",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Ján Kňežo, Greek Catholic, born 10 February 1881; his wife Anna, Roman Catholic, born 5 February 1881, married 6 May 1900. A second household: Ján Kňežo, born 9 December 1906, and his wife Alžbeta, born 14 October 1909 at Porostov, married 25 October 1928; the grandmother Anna Kňežo, widow, born 28 May 1850, married 12 September 1868, widowed September 1928. A sixth row was not read.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Ján Kňežo, Greek Catholic, born 10 February 1881; his wife Anna, Roman Catholic, born 5 February 1881, married 6 May 1900. A second household: Ján Kňežo, born 9 December 1906, and his wife Alžbeta, born 14 October 1909 at Porostov, married 25 October 1928; the grandmother Anna Kňežo, widow, born 28 May 1850, married 12 September 1868, widowed September 1928. A sixth row was not read."
+   }
+  ],
+  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+ },
+ {
+  "id": "D-011-72",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-_10_-_House_of_Jurar_Knyerso.png",
+  "sha256": "f410283d2d275ad8ff434f01e9d9527ec5b8b351f3a525a4c6727ea7e893eaf3",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 129: Jurar Knyerso",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce - 10 - House of Jurar Knyerso",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 129",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 129",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Juraj Kňežo, Reformed, born December 1861; his wife Anna, born 30 June 1868, married February 1888; their grandson Juraj, born 30 March 1913.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Juraj Kňežo, Reformed, born December 1861; his wife Anna, born 30 June 1868, married February 1888; their grandson Juraj, born 30 March 1913."
+   }
+  ]
+ },
+ {
+  "id": "D-011-73",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-_11_-_House_of_Pavel_Knyerso.png",
+  "sha256": "389dee4d042b05ac3683dbed7aa63fcb4b6a1c3bac39d12a9ed8a3a515dffd0d",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 3: Pavel Knyerso",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce - 11 - House of Pavel Knyerso",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 3",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 3",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Pavel Kniežo the younger, Reformed, born 20 February 1871; his wife Zuzana, born 15 August 1877, married 10 February 1895. A second household: Ján Kniežo, born 8 July 1897; his wife Mária née Eštok, born 1 January 1900, married 19 April 1920; their son Ján, born 13 October 1926. A sixth row was not read.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Pavel Kniežo the younger, Reformed, born 20 February 1871; his wife Zuzana, born 15 August 1877, married 10 February 1895. A second household: Ján Kniežo, born 8 July 1897; his wife Mária née Eštok, born 1 January 1900, married 19 April 1920; their son Ján, born 13 October 1926. A sixth row was not read."
+   }
+  ],
+  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+ },
+ {
+  "id": "D-011-74",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-_12_-_House_of_Janos_Knyerso.png",
+  "sha256": "5c1419f3ba688cad09071fcb310cac4ec0c61b609c66d7b58ab7c64b93d774c3",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 17: Janos Knyerso",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce - 12 - House of Janos Knyerso",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 17",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 17",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Ján Kniežo, also called Kontra, Reformed, born 13 March 1886; his wife Anna, born 26 November 1894 at Blatné Remety [?], married 21 February 1911; children Štefan (3 September 1921), Andrej (5 January 1925) and Anna (born 1927). A sixth row was not read.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Ján Kniežo, also called Kontra, Reformed, born 13 March 1886; his wife Anna, born 26 November 1894 at Blatné Remety [?], married 21 February 1911; children Štefan (3 September 1921), Andrej (5 January 1925) and Anna (born 1927). A sixth row was not read."
+   }
+  ],
+  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+ },
+ {
+  "id": "D-011-75",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-_13_-_House_of_Juraj_Knyerso.png",
+  "sha256": "44a32153abdf349f6acb543adac58efc64cb2582b0540e52ccb21faf35d24382",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 14: Juraj Knyerso",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce - 13 - House of Juraj Knyerso",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 14",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 14",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Juraj Kniežo, Reformed, born 3 April 1856; his wife Anna, Greek Catholic, born 15 August 1860, married 15 January 1878, six children, five living; a daughter-in-law Anna, born 13 December 1888, married 14 November 1907; a granddaughter Anna Onderko, born 31 October 1910, married 1927.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Juraj Kniežo, Reformed, born 3 April 1856; his wife Anna, Greek Catholic, born 15 August 1860, married 15 January 1878, six children, five living; a daughter-in-law Anna, born 13 December 1888, married 14 November 1907; a granddaughter Anna Onderko, born 31 October 1910, married 1927."
+   }
+  ]
+ },
+ {
+  "id": "D-011-76",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-_14_-_House_of_Borbala_Duskova.png",
+  "sha256": "6f89c178452d7c0b4c0739d4f1bbc636122b3c11f323c93ed26db135a30ab4b1",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 28: Borbala Duskova",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce - 14 - House of Borbala Duskova",
+  "family": null,
+  "route": "duska",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 28",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 28",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Barbora Dušková, alone in the house: head of the flat, born 26 December 186[7] at Iňačovce, a widow, married on 1 July 1887, widowed on 14 January 1914, mother of two; Reformed. She is very probably Borbála Dzurina, wife of the Reformed Mihály Duska whose son Mihály was baptised in 189[3] at Solymos 44 (FG-41). If so, that Mihály Duska died on 14 January 1914.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Barbora Dušková, alone in the house: head of the flat, born 26 December 186[7] at Iňačovce, a widow, married on 1 July 1887, widowed on 14 January 1914, mother of two; Reformed. She is very probably Borbála Dzurina, wife of the Reformed Mihály Duska whose son Mihály was baptised in 189[3] at Solymos 44 (FG-41). If so, that Mihály Duska died on 14 January 1914."
+   }
+  ]
+ },
+ {
+  "id": "D-011-77",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-_2_-_House_of_Michal_Knyerso.png",
+  "sha256": "029c31234d473e020ba0fe6e072b7b793c241ac8a2e4c1cb89346c8d3e444213",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 145: Michal Knyerso",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce - 2 - House of Michal Knyerso",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 145",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 145",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Michal Kňežo, Greek Catholic, born 30 July 1882; his wife Maria, Roman Catholic, born 15 July 1885 at Jastrabie, married September 1904; their married daughter Maria Bačistová, born 5 September 1905; his father, born 12 September 1858, given name not read; his mother Anna, born 12 October 1860, married October 1881.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Michal Kňežo, Greek Catholic, born 30 July 1882; his wife Maria, Roman Catholic, born 15 July 1885 at Jastrabie, married September 1904; their married daughter Maria Bačistová, born 5 September 1905; his father, born 12 September 1858, given name not read; his mother Anna, born 12 October 1860, married October 1881."
+   }
+  ]
+ },
+ {
+  "id": "D-011-78",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-_3_-_House_of_Jan_Knyerso_distinct_from_1.png",
+  "sha256": "8ae8baeab4668088c49821f72091493bd18bdde92da0649f520e6e37608eab6a",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 144: Jan Knyerso distinct from 1",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce - 3 - House of Jan Knyerso distinct from 1",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 144",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 144",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Ján Kňežo, Reformed, born 15 June 1881; his wife Anna, born 14 December 1885, married 15 July 1902. A second household: Ján Tomovčík, born 8 February 1903 at Jastrabie; his wife Maria, born 8 February 1908, married 10 September 1925; their son Ján, born 25 October 1926. A sixth row was not read.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Ján Kňežo, Reformed, born 15 June 1881; his wife Anna, born 14 December 1885, married 15 July 1902. A second household: Ján Tomovčík, born 8 February 1903 at Jastrabie; his wife Maria, born 8 February 1908, married 10 September 1925; their son Ján, born 25 October 1926. A sixth row was not read."
+   }
+  ],
+  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+ },
+ {
+  "id": "D-011-79",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-_4_-_House_of_Maria_Demkova.png",
+  "sha256": "8b9e4f408fb684d0175ecf5f172c3b0af290b785a4b56a27b12ed46f739bc700",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 167: Maria Demkova",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce - 4 - House of Maria Demkova",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 167",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 167",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "The owner's label says Demková; the sheet reads Danková. Maria Danková, born 8 December 1891, married 24 May 1912, her husband not in the house; sons Juraj Danko (3 July 1914) and Ján (13 August 1918); her mother Anna Kňežová, widow, born 14 June 1848, married 16 February 1872, widowed 1910.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "The owner's label says Demková; the sheet reads Danková. Maria Danková, born 8 December 1891, married 24 May 1912, her husband not in the house; sons Juraj Danko (3 July 1914) and Ján (13 August 1918); her mother Anna Kňežová, widow, born 14 June 1848, married 16 February 1872, widowed 1910."
+   }
+  ]
+ },
+ {
+  "id": "D-011-80",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-_5_-_House_of_Jan_Knyerso.png",
+  "sha256": "cbb80b57172893e88afae798663dfd4e5ec6eca7822f38d42e37ff8168335b05",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 165: Jan Knyerso",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce - 5 - House of Jan Knyerso",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 165",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 165",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Ján Kňežo, Reformed, born 5 December 1900; his wife Anna, born 24 December 1904 at Blatné Remety, married 8 September 1919; daughters Anna (10 May 1924) and Maria (16 May 1926); his mother Anna, widow, born 25 December 1870 at Hažín, married 10 June 1890, widowed 17 November 1922, ten children, eight living. A sixth row was not read.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Ján Kňežo, Reformed, born 5 December 1900; his wife Anna, born 24 December 1904 at Blatné Remety, married 8 September 1919; daughters Anna (10 May 1924) and Maria (16 May 1926); his mother Anna, widow, born 25 December 1870 at Hažín, married 10 June 1890, widowed 17 November 1922, ten children, eight living. A sixth row was not read."
+   }
+  ],
+  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+ },
+ {
+  "id": "D-011-81",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-_6-_House_of_Maria_Adamova_Note_Kocsis_X_3.png",
+  "sha256": "117ae11f7d5b77f6469a3d3c2a845e16b6e17b4607f9de5ae1db73cc5f4680aa",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 84: Maria Adamova Note Kocsis X 3",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce - 6- House of Maria Adamova Note Kocsis X 3",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 84",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 84",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Maria Adamová, born 23 October 1882, married 1 October 1900; her son-in-law Michal Kočiš, born 12 April 1906; her daughter Maria Kočišová, born 27 January 1913, married 18 June 1929; a grandson Michal Kočiš, born 1930.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Maria Adamová, born 23 October 1882, married 1 October 1900; her son-in-law Michal Kočiš, born 12 April 1906; her daughter Maria Kočišová, born 27 January 1913, married 18 June 1929; a grandson Michal Kočiš, born 1930."
+   }
+  ],
+  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+ },
+ {
+  "id": "D-011-82",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-_7_-_Home_of_Michal_Kocsis.png",
+  "sha256": "653dff19674e2b956c1b77ac43240e956061a29dd8d48a3876e3b6c8f7f4449f",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 69: Michal Kocsis",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce - 7 - Home of Michal Kocsis",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 69",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 69",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Michal Kočiš, born 20 September 1879 at Iňačovce; his wife Anna, born 15 December 1885, married 20 February 1905, three children; son Ján (21 March 1910) and daughter Anna (20 January 1916). His birth date is, to the day, that of Mihály, son of György Kocsis and Anna Ivanko, baptised at Solymos 85 in 1879 (D-005, FG-27).",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Michal Kočiš, born 20 September 1879 at Iňačovce; his wife Anna, born 15 December 1885, married 20 February 1905, three children; son Ján (21 March 1910) and daughter Anna (20 January 1916). His birth date is, to the day, that of Mihály, son of György Kocsis and Anna Ivanko, baptised at Solymos 85 in 1879 (D-005, FG-27)."
+   }
+  ]
+ },
+ {
+  "id": "D-011-83",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-_8_-_Home_of_Juraj_Kocsis.png",
+  "sha256": "f98e5646537e8e46a8ec6a00360a4dae19ecd97653cf845916395098509c2ed4",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 108: Juraj Kocsis",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce - 8 - Home of Juraj Kocsis",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 108",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 108",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Juraj Kočiš, Greek Catholic, born 8 February 1882; his wife Barbora, Roman Catholic, born 6 October 1888, married 20 February 1905, five children, two living; Michal (7 October 1909), Anna (25 October 1920), Maria (6 December 1924).",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Juraj Kočiš, Greek Catholic, born 8 February 1882; his wife Barbora, Roman Catholic, born 6 October 1888, married 20 February 1905, five children, two living; Michal (7 October 1909), Anna (25 October 1920), Maria (6 December 1924)."
+   }
+  ]
+ },
+ {
+  "id": "D-011-84",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-_9_-_House_of_Michal_Demko.png",
+  "sha256": "06fbdf9e61f73a7196b0d54cf53a20dd76d4df58612116f5ddcbfb3282c90014",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 117: Michal Demko",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce - 9 - House of Michal Demko",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 117",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 117",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Michal Demko, head and owner, Greek Catholic, born 28 August 1882 at Vysoká in the Veľké Kapušany district, living in Iňačovce since 19[0.]; his wife Zuzanna, born 28 April 1901 at Iňačovce, married on 3 February 1919, two children; Juraj Demko, son, born 17 September 1911; Anna Demková, daughter, born 12 November 1924; and Maria Kočišová, entered as mother-in-law, Roman Catholic, a widow, born 15 August 1863, married on 10 November 1879, three children, two living. This is the father of Maria Demko, Ahn 18: Mihály Demkó, baptised at Viszoka in August 1882. The sheet shows him with a second wife, married in 1919, when his daughter Maria was twelve, and with a son of 1911 by the first. The widow Maria Kočišová, born 1863 and married 1879, is of the right age to be Mária Knyezső, wife of Mihály Kocsis of Solymos 19 and mother of the Mária Kocsis born in 1887: his first wife's mother. Whether Zuzanna is her daughter too is not said. All of this is the Demko agent's to rule on.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Michal Demko, head and owner, Greek Catholic, born 28 August 1882 at Vysoká in the Veľké Kapušany district, living in Iňačovce since 19[0.]; his wife Zuzanna, born 28 April 1901 at Iňačovce, married on 3 February 1919, two children; Juraj Demko, son, born 17 September 1911; Anna Demková, daughter, born 12 November 1924; and Maria Kočišová, entered as mother-in-law, Roman Catholic, a widow, born 15 August 1863, married on 10 November 1879, three children, two living. This is the father of Maria Demko, Ahn 18: Mihály Demkó, baptised at Viszoka in August 1882. The sheet shows him with a second wife, married in 1919, when his daughter Maria was twelve, and with a son of 1911 by the first. The widow Maria Kočišová, born 1863 and married 1879, is of the right age to be Mária Knyezső, wife of Mihály Kocsis of Solymos 19 and mother of the Mária Kocsis born in 1887: his first wife's mother. Whether Zuzanna is her daughter too is not said. All of this is the Demko agent's to rule on."
+   }
+  ]
+ },
+ {
+  "id": "D-011-85",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-16_-_House_of_Juraj_Knyerso.png",
+  "sha256": "9d28d0abefcd9afff27b5f0653a974e231db30c361f29b0fc97d95944839e538",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 31: Juraj Knyerso",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce -16 - House of Juraj Knyerso",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 31",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 31",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Juraj Kniežo, Reformed, born 5 March 1896; his wife Anna, born 16 April 1894, married 9 May 1921; daughters Anna (26 February 1922) and Maria (born 1929); his father Michal Kniežo, widower, born 22 July 1857. A seventh row was not read.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Juraj Kniežo, Reformed, born 5 March 1896; his wife Anna, born 16 April 1894, married 9 May 1921; daughters Anna (26 February 1922) and Maria (born 1929); his father Michal Kniežo, widower, born 22 July 1857. A seventh row was not read."
+   }
+  ],
+  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+ },
+ {
+  "id": "D-011-86",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-17_-_House_of_Alabeta_Knyerso.png",
+  "sha256": "11894301cc45821ec9c2dad8cbe90190ed9449461035a9f160e19caaef9f7581",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 82: Alabeta Knyerso",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce -17 - House of Alabeta Knyerso",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 82",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 82",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Alžbeta Kniežo, head of the household, her husband absent: born 8 January 1901 in America, by the birthplace column; married 24 May 1919 and in Iňačovce since that day; Evangelical. Children Juraj (20 December 1920) and Alžbeta (16 April 1925), Reformed.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Alžbeta Kniežo, head of the household, her husband absent: born 8 January 1901 in America, by the birthplace column; married 24 May 1919 and in Iňačovce since that day; Evangelical. Children Juraj (20 December 1920) and Alžbeta (16 April 1925), Reformed."
+   }
+  ]
+ },
+ {
+  "id": "D-011-87",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_-18_-_House_of_Janos_Kynerso.png",
+  "sha256": "6b9038daa7000e4109fc6e9c00f8abb07aef1210fb92abd482639e556503980f",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 134: Janos Kynerso",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce -18 - House of Janos Kynerso",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 134",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 134",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Ján Kňežo, Reformed, born 17 December 1893; his wife Maria, born 28 September 1896 in the Sobrance district, married 21 June 1918; Ján (3 August 1920) and Anna (6 December 1922).",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Ján Kňežo, Reformed, born 17 December 1893; his wife Maria, born 28 September 1896 in the Sobrance district, married 21 June 1918; Ján (3 August 1920) and Anna (6 December 1922)."
+   }
+  ]
+ },
+ {
+  "id": "D-011-88",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-280",
+  "file": "Inacovce_15_-_House_of_Michael_Knyerso.png",
+  "sha256": "99cefc9cf236f317b9572db61ef29cf0ba696b7f2983d9e6c7363236336b9901",
+  "wide": true,
+  "title": "Census of 1930, Iňačovce, house 27: Michael Knyerso",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Inacovce 15 - House of Michael Knyerso",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Inacovce Whole",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Iňačovce",
+   "page_or_image": "house 27",
+   "obtained": "From the owner's desktop folder '1930 Inacovce Whole', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 27",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Michal Kniežo, Reformed, born 17 September 1899; his wife Anna, born 31 March 1901 at Hažín, married 17 May 1919; Michal (24 May 1923) and Anna (12 May 1926); his mother Anna, widow, born 19 March 1869, married 17 February 1891, widowed 23 July 1907. Any rows below the fifth were not read.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Michal Kniežo, Reformed, born 17 September 1899; his wife Anna, born 31 March 1901 at Hažín, married 17 May 1919; Michal (24 May 1923) and Anna (12 May 1926); his mother Anna, widow, born 19 March 1869, married 17 February 1891, widowed 23 July 1907. Any rows below the fifth were not read."
+   }
+  ],
+  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+ },
+ {
+  "id": "D-011-89",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-281",
+  "file": "Matovce_-_1-_House_of_Maria_Kocsis.png",
+  "sha256": "23174063a70fda9ae0d913fce99dd8c9806e28dae38debfb2bee7dab45f00257",
+  "wide": true,
+  "title": "Census of 1930, Maťovce, house 103: Maria Kocsis",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Matovce - 1- House of Maria Kocsis",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Ma'Tvoce",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Maťovce",
+   "page_or_image": "house 103",
+   "obtained": "From the owner's desktop folder '1930 Ma'Tvoce', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 103",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Mária, wife of János Kocsis, née Barancsák, head of the household, born 14 [March] 1895; children János (1916), Ilona (16 April 1919), Mária (17 September 1921), Gyula (14 August 1924). A sixth row was not read. The columns to the right are mostly empty on this sheet.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Mária, wife of János Kocsis, née Barancsák, head of the household, born 14 [March] 1895; children János (1916), Ilona (16 April 1919), Mária (17 September 1921), Gyula (14 August 1924). A sixth row was not read. The columns to the right are mostly empty on this sheet."
+   }
+  ],
+  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+ },
+ {
+  "id": "D-011-90",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-281",
+  "file": "Matovce_-_2_-_House_of_Filip_Schwarz.png",
+  "sha256": "5ffcfb8425bd280adcbbb9b2a1a7a9f6b8917304c1be479d3803123edc7641a6",
+  "wide": true,
+  "title": "Census of 1930, Maťovce, house 112: Filip Schwarz",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Matovce - 2 - House of Filip Schwarz",
+  "family": null,
+  "route": "places",
+  "part": "1930 Ma'Tvoce",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Maťovce",
+   "page_or_image": "house 112",
+   "obtained": "From the owner's desktop folder '1930 Ma'Tvoce', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 112",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Fülöp Schwarz, house owner, Jewish, born 15 October 1850, in Maťovce since 1 August 1885; his wife Záli Schön, born 31 March 1852, married 15 June 1870, seven children, five living.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Fülöp Schwarz, house owner, Jewish, born 15 October 1850, in Maťovce since 1 August 1885; his wife Záli Schön, born 31 March 1852, married 15 June 1870, seven children, five living."
+   }
+  ]
+ },
+ {
+  "id": "D-011-91",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-281",
+  "file": "MaTovce_-_3_-_House_of_Istan_Caps_See_Anna_Kocsis.png",
+  "sha256": "15008f325bdbe17ab7b7514a8854543e4f1d0ce5ae1442c640b7923d84cf6cf7",
+  "wide": true,
+  "title": "Census of 1930, Maťovce, house 2[.]: Istan Caps See Anna Kocsis",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "MaTovce - 3 - House of Istan Caps See Anna Kocsis",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Ma'Tvoce",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Maťovce",
+   "page_or_image": "house 2[.]",
+   "obtained": "From the owner's desktop folder '1930 Ma'Tvoce', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 2[.]",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "István Čáp, house owner, Roman Catholic, Hungarian, born 28 February 1871 at Maťovce; his wife Anna Kocsis, born 7 January 1866, married 18 March 1895, ten children, six living; their son István, born 24 October 1903; his wife Mária, born 12 January 1912, married 14 September 1930.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "István Čáp, house owner, Roman Catholic, Hungarian, born 28 February 1871 at Maťovce; his wife Anna Kocsis, born 7 January 1866, married 18 March 1895, ten children, six living; their son István, born 24 October 1903; his wife Mária, born 12 January 1912, married 14 September 1930."
+   }
+  ]
+ },
+ {
+  "id": "D-011-92",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-282",
+  "file": "Mogyoros_-_1_-_House_of_Edward_Martoric_see_Beti_Schwarz.png",
+  "sha256": "6010153f92c1bc21fee365005e711c92713ab718835438fba8bd4f43075814fb",
+  "wide": true,
+  "title": "Census of 1930, 'Mogyoros', house 43: Edward Martoric see Beti Schwarz",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Mogyoros - 1 - House of Edward Martoric see Beti Schwarz",
+  "family": null,
+  "route": "places",
+  "part": "1930 Mogyoros",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), 'Mogyoros'",
+   "page_or_image": "house 43",
+   "obtained": "From the owner's desktop folder '1930 Mogyoros', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 43",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Eduard Markovič, Jewish, born 15 May 1901, in the village since October 1928; his wife Szerén Lefkovič, born 2 June 1901; his mother-in-law Beti Schwarcz, widow, born 20 November 1870, married 20 February 1890, widowed 1922, five children.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Eduard Markovič, Jewish, born 15 May 1901, in the village since October 1928; his wife Szerén Lefkovič, born 2 June 1901; his mother-in-law Beti Schwarcz, widow, born 20 November 1870, married 20 February 1890, widowed 1922, five children."
+   }
+  ]
+ },
+ {
+  "id": "D-011-93",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-282",
+  "file": "Mogyoros_-_2_-_House_of_Janos_Kocsis.png",
+  "sha256": "2bfdfa8a96cb90d3528ce6f2703aa5a637aa48a17a1b9c8ab1b1f4314e737249",
+  "wide": true,
+  "title": "Census of 1930, 'Mogyoros', house ?: Janos Kocsis",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Mogyoros - 2 - House of Janos Kocsis",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Mogyoros",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), 'Mogyoros'",
+   "page_or_image": "house ?",
+   "obtained": "From the owner's desktop folder '1930 Mogyoros', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house ?",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "János Kocsis, born 16 June 1888, in the village since January 1928; his wife Barbara, born 2 February 1889, ten children, three living; Albert (1918), Maria (22 September 1920), János (20 November 1922). Any further rows were not read.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "János Kocsis, born 16 June 1888, in the village since January 1928; his wife Barbara, born 2 February 1889, ten children, three living; Albert (1918), Maria (22 September 1920), János (20 November 1922). Any further rows were not read."
+   }
+  ],
+  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+ },
+ {
+  "id": "D-011-94",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-283",
+  "file": "Palin_-_1_-_House_of_Zuzanna_Hreskova.png",
+  "sha256": "d514d74588ddc4a049330eeecae4c0d0aa5abefe936e0c4d7c28e7377432d949",
+  "wide": true,
+  "title": "Census of 1930, Palín, house 133: Zuzanna Hreskova",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Palin - 1 - House of Zuzanna Hreskova",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Palin",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Palín",
+   "page_or_image": "house 133",
+   "obtained": "From the owner's desktop folder '1930 Palin', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 133",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Zuzana Hrešková née [V]ircíková, widow, Reformed, born 18 January 1876 at Palín, married 23 November 1896, widowed 18 February 1929, eight children, two living; daughters Alžbeta (14 December 1906, divorced in 1928), Barbara Kováčová (23 October 1910, divorced in 1929) and Helena (9 June 1915); a granddaughter Jolana Kováčová, born 1929. A sixth row was not read.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Zuzana Hrešková née [V]ircíková, widow, Reformed, born 18 January 1876 at Palín, married 23 November 1896, widowed 18 February 1929, eight children, two living; daughters Alžbeta (14 December 1906, divorced in 1928), Barbara Kováčová (23 October 1910, divorced in 1929) and Helena (9 June 1915); a granddaughter Jolana Kováčová, born 1929. A sixth row was not read."
+   }
+  ],
+  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+ },
+ {
+  "id": "D-011-95",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-284",
+  "file": "Pavlovce_-_1_-_House_of_Jan_Hresko.png",
+  "sha256": "8c4119b25d2f483d8bef2cf01f3d9f4604a6fac984eddf5c577da52e90d659b9",
+  "wide": true,
+  "title": "Census of 1930, Pavlovce nad Uhom, house 347: Jan Hresko",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Pavlovce - 1 - House of Jan Hresko",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Pavlovce",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Pavlovce nad Uhom",
+   "page_or_image": "house 347",
+   "obtained": "From the owner's desktop folder '1930 Pavlovce', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 347",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Ján Hreško, Roman Catholic, born 3 April 1877 at Veľké Kapušany, in Pavlovce since March 1901; his wife Maria, born 12 September 1882, married March 1901, six children, one living by the form; Ján (October 1911), Maria (14 May 1915), Andrej (5 December 1917). A sixth row was not read.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Ján Hreško, Roman Catholic, born 3 April 1877 at Veľké Kapušany, in Pavlovce since March 1901; his wife Maria, born 12 September 1882, married March 1901, six children, one living by the form; Ján (October 1911), Maria (14 May 1915), Andrej (5 December 1917). A sixth row was not read."
+   }
+  ],
+  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+ },
+ {
+  "id": "D-011-96",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-285",
+  "file": "VK_-_1_-_House_of_Janos_Kocsis.png",
+  "sha256": "724afc0d0301266f8185a920de617d58a7bc4872b02b81b132c3d74cb860d2dc",
+  "wide": true,
+  "title": "Census of 1930, Veľké Kapušany, house 344: Janos Kocsis",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "VK - 1 - House of Janos Kocsis",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Velke Kapusany",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Veľké Kapušany",
+   "page_or_image": "house 344",
+   "obtained": "From the owner's desktop folder '1930 Velke Kapusany', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 344",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "János Kocsis, born 28 May 1853, and his wife Teréz, born 25 November 1860; Roman Catholic, Hungarian; a farmer.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "János Kocsis, born 28 May 1853, and his wife Teréz, born 25 November 1860; Roman Catholic, Hungarian; a farmer."
+   }
+  ]
+ },
+ {
+  "id": "D-011-97",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-285",
+  "file": "VK_-_2_-_House_of_Janos_Kocsis.png",
+  "sha256": "5290ae3f08e8acabb75ab8be8063dd14796374babd5e718b5b42de3bd867a8d3",
+  "wide": true,
+  "title": "Census of 1930, Veľké Kapušany, house 354: Janos Kocsis",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "VK - 2 - House of Janos Kocsis",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Velke Kapusany",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Veľké Kapušany",
+   "page_or_image": "house 354",
+   "obtained": "From the owner's desktop folder '1930 Velke Kapusany', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 354",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "The owner is Sándor Kocsis (the label says János): born 1894; his wife Juliana, born 1897, married 9 November 1913; children Ilona (1914), András (1919), Ilona (9 February 1923), Sándor (born 1927) and Margit (born 1929). Roman Catholic, Hungarian.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "The owner is Sándor Kocsis (the label says János): born 1894; his wife Juliana, born 1897, married 9 November 1913; children Ilona (1914), András (1919), Ilona (9 February 1923), Sándor (born 1927) and Margit (born 1929). Roman Catholic, Hungarian."
+   }
+  ],
+  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+ },
+ {
+  "id": "D-011-98",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-285",
+  "file": "VK_-_3_-_House_of_Jozef_Kocsis.png",
+  "sha256": "c019822abe06003f9f2d4d62d577959112572da8f8f1bb159561f4329bf880d1",
+  "wide": true,
+  "title": "Census of 1930, Veľké Kapušany, house 26: Jozef Kocsis",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "VK - 3 - House of Jozef Kocsis",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Velke Kapusany",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Veľké Kapušany",
+   "page_or_image": "house 26",
+   "obtained": "From the owner's desktop folder '1930 Velke Kapusany', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 26",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Headed 'Nagykapos', house 26. József Kocsis, born 1865; his wife Mária Bertics, born 1876, married 1890; their son József, born 19 March 1891. A second household: István Kocsis, born 1 March 1895; his wife Erzsébet Gurály, born 16 March 1903, married 1920; Irén (11 March 1922) and István (1924). Roman Catholic, Hungarian.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Headed 'Nagykapos', house 26. József Kocsis, born 1865; his wife Mária Bertics, born 1876, married 1890; their son József, born 19 March 1891. A second household: István Kocsis, born 1 March 1895; his wife Erzsébet Gurály, born 16 March 1903, married 1920; Irén (11 March 1922) and István (1924). Roman Catholic, Hungarian."
+   }
+  ]
+ },
+ {
+  "id": "D-011-99",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-286",
+  "file": "VS_-_1_-_House_of_Ann_Schwarz.png",
+  "sha256": "8ea0fcc48f86205d2a16608f8a32fa85c7bb79a1823b6184d3d1efe173257839",
+  "wide": true,
+  "title": "Census of 1930, Veľké Slemence, house 130: Ann Schwarz",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "VS - 1 - House of Ann Schwarz",
+  "family": null,
+  "route": "places",
+  "part": "1930 Velke Semence",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Veľké Slemence",
+   "page_or_image": "house 130",
+   "obtained": "From the owner's desktop folder '1930 Velke Semence', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 130",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Áron Schvarcz, Jewish, born 22 November 1864; his wife Záli, born 15 June 1869, married 1892, four children, two living; daughters Rozália (22 March 1907) and Borbála (18 October 1910). The owner's label reads the head as 'Ann'.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Áron Schvarcz, Jewish, born 22 November 1864; his wife Záli, born 15 June 1869, married 1892, four children, two living; daughters Rozália (22 March 1907) and Borbála (18 October 1910). The owner's label reads the head as 'Ann'."
+   }
+  ]
+ },
+ {
+  "id": "D-011-100",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-287",
+  "file": "Vysoka_-_1_-_House_of_Andrej_Hresko.png",
+  "sha256": "14947736499ae91c9ca921f628e6dc84906d7a826cebd931a8e0f02a894866af",
+  "wide": true,
+  "title": "Census of 1930, Vysoká nad Uhom, house 174: Andrej Hresko",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Vysoka - 1 - House of Andrej Hresko",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Vysoka",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Vysoká nad Uhom",
+   "page_or_image": "house 174",
+   "obtained": "From the owner's desktop folder '1930 Vysoka', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 174",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Andrej Hreško, also called Kováč, Roman Catholic, born 1 January 18[9]4; his wife Zuzana, born 17 March 1899, married 13 February 1919; children Andrej (17 August 1920), Ján (15 July 1922), Maria (11 January 1925); and Ján Kováč, born 5 December 1860, with his wife Maria, born 3 January 1869, married 8 February 1887.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Andrej Hreško, also called Kováč, Roman Catholic, born 1 January 18[9]4; his wife Zuzana, born 17 March 1899, married 13 February 1919; children Andrej (17 August 1920), Ján (15 July 1922), Maria (11 January 1925); and Ján Kováč, born 5 December 1860, with his wife Maria, born 3 January 1869, married 8 February 1887."
+   }
+  ]
+ },
+ {
+  "id": "D-011-101",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-287",
+  "file": "Vysoka_-_10_-_House_of_Andrej_Hresko.png",
+  "sha256": "c287e7d82f64e2e1bad1e876d2937e7bd53fb7f98e00b4eba39dbf83b4b8a90e",
+  "wide": true,
+  "title": "Census of 1930, Vysoká nad Uhom, house 162: Andrej Hresko",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Vysoka - 10 - House of Andrej Hresko",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Vysoka",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Vysoká nad Uhom",
+   "page_or_image": "house 162",
+   "obtained": "From the owner's desktop folder '1930 Vysoka', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 162",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Andrej Hreško, Roman Catholic, born 24 November 1872; his wife Maria, born 20 May 1876, married 15 October 1895; a daughter-in-law Anna, born 6 November 1908, married 27 November 1927; a daughter Zuzana, born 8 August 1910; a granddaughter Anna, born 1928.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Andrej Hreško, Roman Catholic, born 24 November 1872; his wife Maria, born 20 May 1876, married 15 October 1895; a daughter-in-law Anna, born 6 November 1908, married 27 November 1927; a daughter Zuzana, born 8 August 1910; a granddaughter Anna, born 1928."
+   }
+  ],
+  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+ },
+ {
+  "id": "D-011-102",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-287",
+  "file": "Vysoka_-_11_-_House_of_Juraj_Hresko.png",
+  "sha256": "0383395c89b20d8ed612058c6efd0e439bc311e4e81cad97cc8361b9d9612dfd",
+  "wide": true,
+  "title": "Census of 1930, Vysoká nad Uhom, house 163: Juraj Hresko",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Vysoka - 11 - House of Juraj Hresko",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Vysoka",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Vysoká nad Uhom",
+   "page_or_image": "house 163",
+   "obtained": "From the owner's desktop folder '1930 Vysoka', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 163",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Juraj Hreško, Roman Catholic, born 15 May 1869; his wife Anna, born 20 October 1867, married 15 November 1887; their son Juraj, born 3 April 1897; his wife Anna, born 18 March 1900, married 15 February 1918; granddaughters Anna (18 March 1920) and Maria (8 December 1923).",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Juraj Hreško, Roman Catholic, born 15 May 1869; his wife Anna, born 20 October 1867, married 15 November 1887; their son Juraj, born 3 April 1897; his wife Anna, born 18 March 1900, married 15 February 1918; granddaughters Anna (18 March 1920) and Maria (8 December 1923)."
+   }
+  ]
+ },
+ {
+  "id": "D-011-103",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-287",
+  "file": "Vysoka_-_12_-_House_of_Maria_Hresko.png",
+  "sha256": "34ed7c8498b99193403ea5396c39253b1750d9db71f7f0f83ff3e1b1fc801fcb",
+  "wide": true,
+  "title": "Census of 1930, Vysoká nad Uhom, house 161: Maria Hresko",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Vysoka - 12 - House of Maria Hresko",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Vysoka",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Vysoká nad Uhom",
+   "page_or_image": "house 161",
+   "obtained": "From the owner's desktop folder '1930 Vysoka', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 161",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Maria Hrešková, alone: born 1 January 1856 at Palín, a widow, married 7 July 1876 and in Vysoká since then, widowed November 1908, seven children, six living; Roman Catholic.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Maria Hrešková, alone: born 1 January 1856 at Palín, a widow, married 7 July 1876 and in Vysoká since then, widowed November 1908, seven children, six living; Roman Catholic."
+   }
+  ]
+ },
+ {
+  "id": "D-011-104",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-287",
+  "file": "Vysoka_-_13_-_House_of_Borbara_Demkova.png",
+  "sha256": "13b7fa091e73b97723bff351cb6b1e181e0bf10b94522943baf7fc21ffbc4d9d",
+  "wide": true,
+  "title": "Census of 1930, Vysoká nad Uhom, house 8: Borbara Demkova",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Vysoka - 13 - House of Borbara Demkova",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Vysoka",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Vysoká nad Uhom",
+   "page_or_image": "house 8",
+   "obtained": "From the owner's desktop folder '1930 Vysoka', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 8",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "The widow Barbora Hrobáková, entered also as Demková, Greek Catholic, born 10 April 1879, married 20 June 1904, widowed 25 March 1915; her sons Michal Hrobák (15 February 1912) and Ján (22 November 1914).",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "The widow Barbora Hrobáková, entered also as Demková, Greek Catholic, born 10 April 1879, married 20 June 1904, widowed 25 March 1915; her sons Michal Hrobák (15 February 1912) and Ján (22 November 1914)."
+   }
+  ]
+ },
+ {
+  "id": "D-011-105",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-287",
+  "file": "Vysoka_-_2-_Houe_of_Michal_Hresko.png",
+  "sha256": "0299bad76d3abde9e9be5b45097a4574d1b5413375b73df515a69339dfda4f1a",
+  "wide": true,
+  "title": "Census of 1930, Vysoká nad Uhom, house 171: Vysoka - 2- Houe of Michal Hresko",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Vysoka - 2- Houe of Michal Hresko",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Vysoka",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Vysoká nad Uhom",
+   "page_or_image": "house 171",
+   "obtained": "From the owner's desktop folder '1930 Vysoka', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 171",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Michal Hreško, Roman Catholic, born 22 March 1885; his wife Zuzana, born 18 November 1885 in another village, married 1905; Anna (6 August 1921) and Ján (3 September 1923).",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Michal Hreško, Roman Catholic, born 22 March 1885; his wife Zuzana, born 18 November 1885 in another village, married 1905; Anna (6 August 1921) and Ján (3 September 1923)."
+   }
+  ]
+ },
+ {
+  "id": "D-011-106",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-287",
+  "file": "Vysoka_-_3_-_House_of_Andrej_Demko.png",
+  "sha256": "ec6ccbbed989a31632c648d0da7d95f626ca7bd9d4ed1aaf16e682d5c226a909",
+  "wide": true,
+  "title": "Census of 1930, Vysoká nad Uhom, house 170: Andrej Demko",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Vysoka - 3 - House of Andrej Demko",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Vysoka",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Vysoká nad Uhom",
+   "page_or_image": "house 170",
+   "obtained": "From the owner's desktop folder '1930 Vysoka', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 170",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Andrej Demko, Greek Catholic, born 20 April 190[9]; his wife Anna, Roman Catholic, born 11 November 1910, married 1928; a son Andrej, born 1929; his mother Maria Demková, widow, born 15 July 1863, married in the 1880s, widowed December 1929, five children, two living.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Andrej Demko, Greek Catholic, born 20 April 190[9]; his wife Anna, Roman Catholic, born 11 November 1910, married 1928; a son Andrej, born 1929; his mother Maria Demková, widow, born 15 July 1863, married in the 1880s, widowed December 1929, five children, two living."
+   }
+  ],
+  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+ },
+ {
+  "id": "D-011-107",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-287",
+  "file": "Vysoka_-_4_-_House_of_Andrej_Hresko.png",
+  "sha256": "59d0010e0e93b1cf5cf740ae9cfb8123a2d5fea947e6d3eb2288966011ac2269",
+  "wide": true,
+  "title": "Census of 1930, Vysoká nad Uhom, house 167: Andrej Hresko",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Vysoka - 4 - House of Andrej Hresko",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Vysoka",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Vysoká nad Uhom",
+   "page_or_image": "house 167",
+   "obtained": "From the owner's desktop folder '1930 Vysoka', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 167",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Andrej Hreško, Roman Catholic, born 20 October 1869; his wife Alžbeta, born 20 November 1873, married 3 November 1892; their daughter Anna Puchláková, born 2 August 1901, married on 10 November 1925 and widowed a week later, on 17 November; sons Ján (15 June 1908) and Michal (8 August 1911); a grandson Juraj Puchlák, born 2 June 1926.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Andrej Hreško, Roman Catholic, born 20 October 1869; his wife Alžbeta, born 20 November 1873, married 3 November 1892; their daughter Anna Puchláková, born 2 August 1901, married on 10 November 1925 and widowed a week later, on 17 November; sons Ján (15 June 1908) and Michal (8 August 1911); a grandson Juraj Puchlák, born 2 June 1926."
+   }
+  ]
+ },
+ {
+  "id": "D-011-108",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-287",
+  "file": "Vysoka_-_5_-_House_of_Albelta_Hresko.png",
+  "sha256": "d2fee5323e63336262716f133a039fadc8dbb1f320165753004665d62c72ee01",
+  "wide": true,
+  "title": "Census of 1930, Vysoká nad Uhom, house 166: Albelta Hresko",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Vysoka - 5 - House of Albelta Hresko",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Vysoka",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Vysoká nad Uhom",
+   "page_or_image": "house 166",
+   "obtained": "From the owner's desktop folder '1930 Vysoka', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 166",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Alžbeta Hrešková, alone: born 18 November 1865, a widow, married 27 July 1884, widowed 15 June 1910, three children, none living.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Alžbeta Hrešková, alone: born 18 November 1865, a widow, married 27 July 1884, widowed 15 June 1910, three children, none living."
+   }
+  ]
+ },
+ {
+  "id": "D-011-109",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-287",
+  "file": "Vysoka_-_6_-_House_of_Jan_Demko.png",
+  "sha256": "c469e36c657036d74d63e546a9cef7cc5f7693fc314f5c0337847977b6cb78b2",
+  "wide": true,
+  "title": "Census of 1930, Vysoká nad Uhom, house 165: Jan Demko",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Vysoka - 6 - House of Jan Demko",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Vysoka",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Vysoká nad Uhom",
+   "page_or_image": "house 165",
+   "obtained": "From the owner's desktop folder '1930 Vysoka', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 165",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Ján Demko, Greek Catholic, born 15 April 1875 at Vysoká; his wife Maria, Roman Catholic, born 5 July 1878, married 10 February 1897, ten children, six living; their son Juraj, born 18 September 1908, and his wife Maria, born 10 March 1911, married 1 October 1929; sons Michal (16 August 1914), Andrej (11 July 1916) and Ján (20 June 1919). A János Demkó was baptised at Viszoka on 29 March 1875, son of György Demkó and Mária Hreskó (D-004-08): very probably this man, a brother of Maria Demko's father.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Ján Demko, Greek Catholic, born 15 April 1875 at Vysoká; his wife Maria, Roman Catholic, born 5 July 1878, married 10 February 1897, ten children, six living; their son Juraj, born 18 September 1908, and his wife Maria, born 10 March 1911, married 1 October 1929; sons Michal (16 August 1914), Andrej (11 July 1916) and Ján (20 June 1919). A János Demkó was baptised at Viszoka on 29 March 1875, son of György Demkó and Mária Hreskó (D-004-08): very probably this man, a brother of Maria Demko's father."
+   }
+  ]
+ },
+ {
+  "id": "D-011-110",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-287",
+  "file": "Vysoka_-_7_-_House_of_Anna_Hreskova.png",
+  "sha256": "5a85445debf4344179b96db4bc9360d941011e6ad9d9f76283b20223eb912b97",
+  "wide": true,
+  "title": "Census of 1930, Vysoká nad Uhom, house 204: Anna Hreskova",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Vysoka - 7 - House of Anna Hreskova",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Vysoka",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Vysoká nad Uhom",
+   "page_or_image": "house 204",
+   "obtained": "From the owner's desktop folder '1930 Vysoka', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 204",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Anna Hrešková, widow, born 14 October 1880 in another village, married February 1908 and in Vysoká since then, widowed 26 February 1926; her son Ján (16 January 1912) and daughter Anna (3 April 1920).",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Anna Hrešková, widow, born 14 October 1880 in another village, married February 1908 and in Vysoká since then, widowed 26 February 1926; her son Ján (16 January 1912) and daughter Anna (3 April 1920)."
+   }
+  ]
+ },
+ {
+  "id": "D-011-111",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-287",
+  "file": "Vysoka_-_7_-_House_of_Stefan_Hresko.png",
+  "sha256": "7b5917a2464f63e7f602bebce6ba15ef272397a712b976469c9ea62390412499",
+  "wide": true,
+  "title": "Census of 1930, Vysoká nad Uhom, house 195: Stefan Hresko",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Vysoka - 7 - House of Stefan Hresko",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Vysoka",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Vysoká nad Uhom",
+   "page_or_image": "house 195",
+   "obtained": "From the owner's desktop folder '1930 Vysoka', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 195",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Štefan Hreško, Roman Catholic, born 3 November 1882; his wife Anna, born 20 October 1879; a son-in-law Jozef Bálint, born 6 June 1906, and daughter Anna Bálintová, born 10 November 1908, married 1928; a granddaughter Anna, born 1930; a son Štefan, born 20 October 1912. The owner numbered two files '7'.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Štefan Hreško, Roman Catholic, born 3 November 1882; his wife Anna, born 20 October 1879; a son-in-law Jozef Bálint, born 6 June 1906, and daughter Anna Bálintová, born 10 November 1908, married 1928; a granddaughter Anna, born 1930; a son Štefan, born 20 October 1912. The owner numbered two files '7'."
+   }
+  ],
+  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+ },
+ {
+  "id": "D-011-112",
+  "folder": "F-011",
+  "batch": "B-037",
+  "source": "S-287",
+  "file": "Vysoka_-_9_-__House_of_Maria_Demkova.png",
+  "sha256": "9d68aa0adf028d3d205f7b666da28a69473224b599846c3e2a6edba70f0602d5",
+  "wide": true,
+  "title": "Census of 1930, Vysoká nad Uhom, house 164: Maria Demkova",
+  "span": "night of 1 to 2 December 1930",
+  "language": "Slovak or Hungarian",
+  "collector_label": "Vysoka - 9 -  House of Maria Demkova",
+  "family": null,
+  "route": "demko",
+  "part": "1930 Vysoka",
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record shown in D-011-41",
+   "fond_or_film": "Sčítanie ľudu 1930 (census of 1930), household sheets; box and sheet numbers not read",
+   "book": "Popisný hárok (household sheet), Vysoká nad Uhom",
+   "page_or_image": "house 164",
+   "obtained": "From the owner's desktop folder '1930 Vysoka', sent through chat. A screen capture of the Slovakiana portal's viewer."
+  },
+  "entries": [
+   {
+    "no": "house 164",
+    "date": "1 to 2 Dec 1930",
+    "from": "Census household sheet (original record, screen capture)",
+    "abstract": "Maria Demková, Greek Catholic, widow, born 10 November 1885 in another village, married 1903 and in Vysoká since then, widowed 20 September 1929; her son Juraj (9 September 1910) and daughter Alžbeta (8 June 1916).",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
+    "original": "[not transcribed line by line in this pass]",
+    "english": "Maria Demková, Greek Catholic, widow, born 10 November 1885 in another village, married 1903 and in Vysoká since then, widowed 20 September 1929; her son Juraj (9 September 1910) and daughter Alžbeta (8 June 1916)."
+   }
+  ]
  }
 ]

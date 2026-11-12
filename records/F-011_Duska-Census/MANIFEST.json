@@ -1,7 +1,7 @@
 {
   "folder_id": "F-011",
   "desktop_path": "Duska Census",
-  "note": "Part 1 of the folder, '1767 - Urbanarium' (the owner's spelling): 8 image files and one word-processor file, which is held unopened. Received through chat upload. Part 2, '1869 Solymos Census Full': four photographs of a screen (full size, taken from the archive file the owner sent), four screenshots of the same, and six files not published (see 'held'). Part 3, '1921 Census Folder': two maps of Ung county and one guide document (held, summarised). Part 4, '1930 - BESA Whole Folder': one census sheet. Parts 5 and 6, '1930 Senne' (15) and '1930 Senne Second Pass' (20). Nine more parts of the 1930 census (46 images) are listed under 'pending': received, checksummed, not yet read, and no image copied until each has been checked for people born less than 100 years ago. Part 16, '1940 Senne' (12 screen captures). Five word-processor lists ('Initial List for Filip') are held unopened.",
+  "note": "Part 1 of the folder, '1767 - Urbanarium' (the owner's spelling): 8 image files and one word-processor file, which is held unopened. Received through chat upload. Part 2, '1869 Solymos Census Full': four photographs of a screen (full size, taken from the archive file the owner sent), four screenshots of the same, and six files not published (see 'held'). Part 3, '1921 Census Folder': two maps of Ung county and one guide document (held, summarised). Part 4, '1930 - BESA Whole Folder': one census sheet. Parts 5 and 6, '1930 Senne' (15) and '1930 Senne Second Pass' (20). Parts 7 to 15, the 1930 census for nine other villages (46 images), read at B-037.",
   "files": [
     {
       "file": "Andref_Duska_in_Solymos.png",
@@ -618,6 +618,410 @@
       "received": "2026-11-12",
       "via": "chat upload",
       "part": 16
+    },
+    {
+      "file": "Cicarovce_-_1_-_House_of_Henrich_Schwarz.png",
+      "sha256": "a4d693040105b7f2a6719ef2273991105e5d1f36282db262940448077f70c62d",
+      "bytes": 1433381,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 CICAROVCE WHOLE",
+      "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Cicarovce_-_2_-_House_of_Gyula_Kocsis.png",
+      "sha256": "22f2e6b321ad1eda0d9950e020bc196915bf77841f3a92525d33289075321f65",
+      "bytes": 1352163,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 CICAROVCE WHOLE"
+    },
+    {
+      "file": "Cicarovce_-_3_-_House_of_F_Kocsis.png",
+      "sha256": "a7a5612be8a0d10c62aa1bcb2fb24fee5b927a7cc14d4b53bdffff0d238fd0e6",
+      "bytes": 1191737,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 CICAROVCE WHOLE"
+    },
+    {
+      "file": "Cicarovce_-_4_-_House_of_Unknown_Kocsis.png",
+      "sha256": "f167bf05a9fd06229876d3676ba1247c84c13d52ba04431de8c2a3752e2d3b9f",
+      "bytes": 1134907,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 CICAROVCE WHOLE",
+      "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Inacovce_-_1_-_House_of_Jan_Knyerso.png",
+      "sha256": "23a93cf862e019aa68b62c128b793d85197f2a7af9936533c2df99ee36a37c7c",
+      "bytes": 1540616,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole",
+      "held": "its lower rows were not read in this pass and may show a person born after 1926",
+      "file_in_repo": false
+    },
+    {
+      "file": "Inacovce_-_10_-_House_of_Jurar_Knyerso.png",
+      "sha256": "f410283d2d275ad8ff434f01e9d9527ec5b8b351f3a525a4c6727ea7e893eaf3",
+      "bytes": 1230795,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole"
+    },
+    {
+      "file": "Inacovce_-_11_-_House_of_Pavel_Knyerso.png",
+      "sha256": "389dee4d042b05ac3683dbed7aa63fcb4b6a1c3bac39d12a9ed8a3a515dffd0d",
+      "bytes": 1657943,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole",
+      "held": "its lower rows were not read in this pass and may show a person born after 1926",
+      "file_in_repo": false
+    },
+    {
+      "file": "Inacovce_-_12_-_House_of_Janos_Knyerso.png",
+      "sha256": "5c1419f3ba688cad09071fcb310cac4ec0c61b609c66d7b58ab7c64b93d774c3",
+      "bytes": 1233230,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole",
+      "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Inacovce_-_13_-_House_of_Juraj_Knyerso.png",
+      "sha256": "44a32153abdf349f6acb543adac58efc64cb2582b0540e52ccb21faf35d24382",
+      "bytes": 1260484,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole"
+    },
+    {
+      "file": "Inacovce_-_14_-_House_of_Borbala_Duskova.png",
+      "sha256": "6f89c178452d7c0b4c0739d4f1bbc636122b3c11f323c93ed26db135a30ab4b1",
+      "bytes": 1123506,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole"
+    },
+    {
+      "file": "Inacovce_-_2_-_House_of_Michal_Knyerso.png",
+      "sha256": "029c31234d473e020ba0fe6e072b7b793c241ac8a2e4c1cb89346c8d3e444213",
+      "bytes": 1309017,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole"
+    },
+    {
+      "file": "Inacovce_-_3_-_House_of_Jan_Knyerso_distinct_from_1.png",
+      "sha256": "8ae8baeab4668088c49821f72091493bd18bdde92da0649f520e6e37608eab6a",
+      "bytes": 1356846,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole",
+      "held": "its lower rows were not read in this pass and may show a person born after 1926",
+      "file_in_repo": false
+    },
+    {
+      "file": "Inacovce_-_4_-_House_of_Maria_Demkova.png",
+      "sha256": "8b9e4f408fb684d0175ecf5f172c3b0af290b785a4b56a27b12ed46f739bc700",
+      "bytes": 1476820,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole"
+    },
+    {
+      "file": "Inacovce_-_5_-_House_of_Jan_Knyerso.png",
+      "sha256": "cbb80b57172893e88afae798663dfd4e5ec6eca7822f38d42e37ff8168335b05",
+      "bytes": 1556271,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole",
+      "held": "its lower rows were not read in this pass and may show a person born after 1926",
+      "file_in_repo": false
+    },
+    {
+      "file": "Inacovce_-_6-_House_of_Maria_Adamova_Note_Kocsis_X_3.png",
+      "sha256": "117ae11f7d5b77f6469a3d3c2a845e16b6e17b4607f9de5ae1db73cc5f4680aa",
+      "bytes": 1226562,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole",
+      "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Inacovce_-_7_-_Home_of_Michal_Kocsis.png",
+      "sha256": "653dff19674e2b956c1b77ac43240e956061a29dd8d48a3876e3b6c8f7f4449f",
+      "bytes": 1003353,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole"
+    },
+    {
+      "file": "Inacovce_-_8_-_Home_of_Juraj_Kocsis.png",
+      "sha256": "f98e5646537e8e46a8ec6a00360a4dae19ecd97653cf845916395098509c2ed4",
+      "bytes": 1552348,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole"
+    },
+    {
+      "file": "Inacovce_-_9_-_House_of_Michal_Demko.png",
+      "sha256": "06fbdf9e61f73a7196b0d54cf53a20dd76d4df58612116f5ddcbfb3282c90014",
+      "bytes": 1417166,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole"
+    },
+    {
+      "file": "Inacovce_-16_-_House_of_Juraj_Knyerso.png",
+      "sha256": "9d28d0abefcd9afff27b5f0653a974e231db30c361f29b0fc97d95944839e538",
+      "bytes": 1383739,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole",
+      "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Inacovce_-17_-_House_of_Alabeta_Knyerso.png",
+      "sha256": "11894301cc45821ec9c2dad8cbe90190ed9449461035a9f160e19caaef9f7581",
+      "bytes": 1089972,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole"
+    },
+    {
+      "file": "Inacovce_-18_-_House_of_Janos_Kynerso.png",
+      "sha256": "6b9038daa7000e4109fc6e9c00f8abb07aef1210fb92abd482639e556503980f",
+      "bytes": 1273215,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole"
+    },
+    {
+      "file": "Inacovce_15_-_House_of_Michael_Knyerso.png",
+      "sha256": "99cefc9cf236f317b9572db61ef29cf0ba696b7f2983d9e6c7363236336b9901",
+      "bytes": 1303675,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Inacovce Whole",
+      "held": "its lower rows were not read in this pass and may show a person born after 1926",
+      "file_in_repo": false
+    },
+    {
+      "file": "Matovce_-_1-_House_of_Maria_Kocsis.png",
+      "sha256": "23174063a70fda9ae0d913fce99dd8c9806e28dae38debfb2bee7dab45f00257",
+      "bytes": 1059710,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Ma'Tvoce",
+      "held": "its lower rows were not read in this pass and may show a person born after 1926",
+      "file_in_repo": false
+    },
+    {
+      "file": "Matovce_-_2_-_House_of_Filip_Schwarz.png",
+      "sha256": "5ffcfb8425bd280adcbbb9b2a1a7a9f6b8917304c1be479d3803123edc7641a6",
+      "bytes": 1321110,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Ma'Tvoce"
+    },
+    {
+      "file": "MaTovce_-_3_-_House_of_Istan_Caps_See_Anna_Kocsis.png",
+      "sha256": "15008f325bdbe17ab7b7514a8854543e4f1d0ce5ae1442c640b7923d84cf6cf7",
+      "bytes": 1399494,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Ma'Tvoce"
+    },
+    {
+      "file": "Mogyoros_-_1_-_House_of_Edward_Martoric_see_Beti_Schwarz.png",
+      "sha256": "6010153f92c1bc21fee365005e711c92713ab718835438fba8bd4f43075814fb",
+      "bytes": 1358666,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Mogyoros"
+    },
+    {
+      "file": "Mogyoros_-_2_-_House_of_Janos_Kocsis.png",
+      "sha256": "2bfdfa8a96cb90d3528ce6f2703aa5a637aa48a17a1b9c8ab1b1f4314e737249",
+      "bytes": 1248755,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Mogyoros",
+      "held": "its lower rows were not read in this pass and may show a person born after 1926",
+      "file_in_repo": false
+    },
+    {
+      "file": "Palin_-_1_-_House_of_Zuzanna_Hreskova.png",
+      "sha256": "d514d74588ddc4a049330eeecae4c0d0aa5abefe936e0c4d7c28e7377432d949",
+      "bytes": 1264779,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Palin",
+      "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Pavlovce_-_1_-_House_of_Jan_Hresko.png",
+      "sha256": "8c4119b25d2f483d8bef2cf01f3d9f4604a6fac984eddf5c577da52e90d659b9",
+      "bytes": 1455644,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Pavlovce",
+      "held": "its lower rows were not read in this pass and may show a person born after 1926",
+      "file_in_repo": false
+    },
+    {
+      "file": "VK_-_1_-_House_of_Janos_Kocsis.png",
+      "sha256": "724afc0d0301266f8185a920de617d58a7bc4872b02b81b132c3d74cb860d2dc",
+      "bytes": 1297593,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Velke Kapusany"
+    },
+    {
+      "file": "VK_-_2_-_House_of_Janos_Kocsis.png",
+      "sha256": "5290ae3f08e8acabb75ab8be8063dd14796374babd5e718b5b42de3bd867a8d3",
+      "bytes": 1474317,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Velke Kapusany",
+      "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)",
+      "file_in_repo": false
+    },
+    {
+      "file": "VK_-_3_-_House_of_Jozef_Kocsis.png",
+      "sha256": "c019822abe06003f9f2d4d62d577959112572da8f8f1bb159561f4329bf880d1",
+      "bytes": 1486037,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Velke Kapusany"
+    },
+    {
+      "file": "VS_-_1_-_House_of_Ann_Schwarz.png",
+      "sha256": "8ea0fcc48f86205d2a16608f8a32fa85c7bb79a1823b6184d3d1efe173257839",
+      "bytes": 1368676,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Velke Semence"
+    },
+    {
+      "file": "Vysoka_-_1_-_House_of_Andrej_Hresko.png",
+      "sha256": "14947736499ae91c9ca921f628e6dc84906d7a826cebd931a8e0f02a894866af",
+      "bytes": 1292297,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Vysoka"
+    },
+    {
+      "file": "Vysoka_-_10_-_House_of_Andrej_Hresko.png",
+      "sha256": "c287e7d82f64e2e1bad1e876d2937e7bd53fb7f98e00b4eba39dbf83b4b8a90e",
+      "bytes": 1263713,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Vysoka",
+      "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Vysoka_-_11_-_House_of_Juraj_Hresko.png",
+      "sha256": "0383395c89b20d8ed612058c6efd0e439bc311e4e81cad97cc8361b9d9612dfd",
+      "bytes": 1381560,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Vysoka"
+    },
+    {
+      "file": "Vysoka_-_12_-_House_of_Maria_Hresko.png",
+      "sha256": "34ed7c8498b99193403ea5396c39253b1750d9db71f7f0f83ff3e1b1fc801fcb",
+      "bytes": 816148,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Vysoka"
+    },
+    {
+      "file": "Vysoka_-_13_-_House_of_Borbara_Demkova.png",
+      "sha256": "13b7fa091e73b97723bff351cb6b1e181e0bf10b94522943baf7fc21ffbc4d9d",
+      "bytes": 944854,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Vysoka"
+    },
+    {
+      "file": "Vysoka_-_2-_Houe_of_Michal_Hresko.png",
+      "sha256": "0299bad76d3abde9e9be5b45097a4574d1b5413375b73df515a69339dfda4f1a",
+      "bytes": 1194272,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Vysoka"
+    },
+    {
+      "file": "Vysoka_-_3_-_House_of_Andrej_Demko.png",
+      "sha256": "ec6ccbbed989a31632c648d0da7d95f626ca7bd9d4ed1aaf16e682d5c226a909",
+      "bytes": 945063,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Vysoka",
+      "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Vysoka_-_4_-_House_of_Andrej_Hresko.png",
+      "sha256": "59d0010e0e93b1cf5cf740ae9cfb8123a2d5fea947e6d3eb2288966011ac2269",
+      "bytes": 1083352,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Vysoka"
+    },
+    {
+      "file": "Vysoka_-_5_-_House_of_Albelta_Hresko.png",
+      "sha256": "d2fee5323e63336262716f133a039fadc8dbb1f320165753004665d62c72ee01",
+      "bytes": 1107308,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Vysoka"
+    },
+    {
+      "file": "Vysoka_-_6_-_House_of_Jan_Demko.png",
+      "sha256": "c469e36c657036d74d63e546a9cef7cc5f7693fc314f5c0337847977b6cb78b2",
+      "bytes": 1387881,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Vysoka"
+    },
+    {
+      "file": "Vysoka_-_7_-_House_of_Anna_Hreskova.png",
+      "sha256": "5a85445debf4344179b96db4bc9360d941011e6ad9d9f76283b20223eb912b97",
+      "bytes": 1112482,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Vysoka"
+    },
+    {
+      "file": "Vysoka_-_7_-_House_of_Stefan_Hresko.png",
+      "sha256": "7b5917a2464f63e7f602bebce6ba15ef272397a712b976469c9ea62390412499",
+      "bytes": 1049941,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Vysoka",
+      "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Vysoka_-_9_-__House_of_Maria_Demkova.png",
+      "sha256": "9d68aa0adf028d3d205f7b666da28a69473224b599846c3e2a6edba70f0602d5",
+      "bytes": 1166382,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "1930 Vysoka"
     }
   ],
   "held": [
@@ -737,376 +1141,6 @@
       "via": "chat upload",
       "held": "the owner's own list of census households drawn up for a transcriber; not opened (blind rule, X-011 item 1). The transcriber's given name in the file name is withheld.",
       "file_in_repo": false
-    }
-  ],
-  "pending": [
-    {
-      "part": "1930 CICAROVCE WHOLE",
-      "file": "Cicarovce_-_1_-_House_of_Henrich_Schwarz.png",
-      "sha256": "a4d693040105b7f2a6719ef2273991105e5d1f36282db262940448077f70c62d",
-      "bytes": 1433381,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 CICAROVCE WHOLE",
-      "file": "Cicarovce_-_2_-_House_of_Gyula_Kocsis.png",
-      "sha256": "22f2e6b321ad1eda0d9950e020bc196915bf77841f3a92525d33289075321f65",
-      "bytes": 1352163,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 CICAROVCE WHOLE",
-      "file": "Cicarovce_-_3_-_House_of_F_Kocsis.png",
-      "sha256": "a7a5612be8a0d10c62aa1bcb2fb24fee5b927a7cc14d4b53bdffff0d238fd0e6",
-      "bytes": 1191737,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 CICAROVCE WHOLE",
-      "file": "Cicarovce_-_4_-_House_of_Unknown_Kocsis.png",
-      "sha256": "f167bf05a9fd06229876d3676ba1247c84c13d52ba04431de8c2a3752e2d3b9f",
-      "bytes": 1134907,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-_1_-_House_of_Jan_Knyerso.png",
-      "sha256": "23a93cf862e019aa68b62c128b793d85197f2a7af9936533c2df99ee36a37c7c",
-      "bytes": 1540616,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-_10_-_House_of_Jurar_Knyerso.png",
-      "sha256": "f410283d2d275ad8ff434f01e9d9527ec5b8b351f3a525a4c6727ea7e893eaf3",
-      "bytes": 1230795,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-_11_-_House_of_Pavel_Knyerso.png",
-      "sha256": "389dee4d042b05ac3683dbed7aa63fcb4b6a1c3bac39d12a9ed8a3a515dffd0d",
-      "bytes": 1657943,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-_12_-_House_of_Janos_Knyerso.png",
-      "sha256": "5c1419f3ba688cad09071fcb310cac4ec0c61b609c66d7b58ab7c64b93d774c3",
-      "bytes": 1233230,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-_13_-_House_of_Juraj_Knyerso.png",
-      "sha256": "44a32153abdf349f6acb543adac58efc64cb2582b0540e52ccb21faf35d24382",
-      "bytes": 1260484,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-_14_-_House_of_Borbala_Duskova.png",
-      "sha256": "6f89c178452d7c0b4c0739d4f1bbc636122b3c11f323c93ed26db135a30ab4b1",
-      "bytes": 1123506,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-_2_-_House_of_Michal_Knyerso.png",
-      "sha256": "029c31234d473e020ba0fe6e072b7b793c241ac8a2e4c1cb89346c8d3e444213",
-      "bytes": 1309017,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-_3_-_House_of_Jan_Knyerso_distinct_from_1.png",
-      "sha256": "8ae8baeab4668088c49821f72091493bd18bdde92da0649f520e6e37608eab6a",
-      "bytes": 1356846,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-_4_-_House_of_Maria_Demkova.png",
-      "sha256": "8b9e4f408fb684d0175ecf5f172c3b0af290b785a4b56a27b12ed46f739bc700",
-      "bytes": 1476820,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-_5_-_House_of_Jan_Knyerso.png",
-      "sha256": "cbb80b57172893e88afae798663dfd4e5ec6eca7822f38d42e37ff8168335b05",
-      "bytes": 1556271,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-_6-_House_of_Maria_Adamova_Note_Kocsis_X_3.png",
-      "sha256": "117ae11f7d5b77f6469a3d3c2a845e16b6e17b4607f9de5ae1db73cc5f4680aa",
-      "bytes": 1226562,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-_7_-_Home_of_Michal_Kocsis.png",
-      "sha256": "653dff19674e2b956c1b77ac43240e956061a29dd8d48a3876e3b6c8f7f4449f",
-      "bytes": 1003353,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-_8_-_Home_of_Juraj_Kocsis.png",
-      "sha256": "f98e5646537e8e46a8ec6a00360a4dae19ecd97653cf845916395098509c2ed4",
-      "bytes": 1552348,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-_9_-_House_of_Michal_Demko.png",
-      "sha256": "06fbdf9e61f73a7196b0d54cf53a20dd76d4df58612116f5ddcbfb3282c90014",
-      "bytes": 1417166,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-16_-_House_of_Juraj_Knyerso.png",
-      "sha256": "9d28d0abefcd9afff27b5f0653a974e231db30c361f29b0fc97d95944839e538",
-      "bytes": 1383739,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-17_-_House_of_Alabeta_Knyerso.png",
-      "sha256": "11894301cc45821ec9c2dad8cbe90190ed9449461035a9f160e19caaef9f7581",
-      "bytes": 1089972,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_-18_-_House_of_Janos_Kynerso.png",
-      "sha256": "6b9038daa7000e4109fc6e9c00f8abb07aef1210fb92abd482639e556503980f",
-      "bytes": 1273215,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Inacovce Whole",
-      "file": "Inacovce_15_-_House_of_Michael_Knyerso.png",
-      "sha256": "99cefc9cf236f317b9572db61ef29cf0ba696b7f2983d9e6c7363236336b9901",
-      "bytes": 1303675,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Ma'Tvoce",
-      "file": "Matovce_-_1-_House_of_Maria_Kocsis.png",
-      "sha256": "23174063a70fda9ae0d913fce99dd8c9806e28dae38debfb2bee7dab45f00257",
-      "bytes": 1059710,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Ma'Tvoce",
-      "file": "Matovce_-_2_-_House_of_Filip_Schwarz.png",
-      "sha256": "5ffcfb8425bd280adcbbb9b2a1a7a9f6b8917304c1be479d3803123edc7641a6",
-      "bytes": 1321110,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Ma'Tvoce",
-      "file": "MaTovce_-_3_-_House_of_Istan_Caps_See_Anna_Kocsis.png",
-      "sha256": "15008f325bdbe17ab7b7514a8854543e4f1d0ce5ae1442c640b7923d84cf6cf7",
-      "bytes": 1399494,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Mogyoros",
-      "file": "Mogyoros_-_1_-_House_of_Edward_Martoric_see_Beti_Schwarz.png",
-      "sha256": "6010153f92c1bc21fee365005e711c92713ab718835438fba8bd4f43075814fb",
-      "bytes": 1358666,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Mogyoros",
-      "file": "Mogyoros_-_2_-_House_of_Janos_Kocsis.png",
-      "sha256": "2bfdfa8a96cb90d3528ce6f2703aa5a637aa48a17a1b9c8ab1b1f4314e737249",
-      "bytes": 1248755,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Palin",
-      "file": "Palin_-_1_-_House_of_Zuzanna_Hreskova.png",
-      "sha256": "d514d74588ddc4a049330eeecae4c0d0aa5abefe936e0c4d7c28e7377432d949",
-      "bytes": 1264779,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Pavlovce",
-      "file": "Pavlovce_-_1_-_House_of_Jan_Hresko.png",
-      "sha256": "8c4119b25d2f483d8bef2cf01f3d9f4604a6fac984eddf5c577da52e90d659b9",
-      "bytes": 1455644,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Velke Kapusany",
-      "file": "VK_-_1_-_House_of_Janos_Kocsis.png",
-      "sha256": "724afc0d0301266f8185a920de617d58a7bc4872b02b81b132c3d74cb860d2dc",
-      "bytes": 1297593,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Velke Kapusany",
-      "file": "VK_-_2_-_House_of_Janos_Kocsis.png",
-      "sha256": "5290ae3f08e8acabb75ab8be8063dd14796374babd5e718b5b42de3bd867a8d3",
-      "bytes": 1474317,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Velke Kapusany",
-      "file": "VK_-_3_-_House_of_Jozef_Kocsis.png",
-      "sha256": "c019822abe06003f9f2d4d62d577959112572da8f8f1bb159561f4329bf880d1",
-      "bytes": 1486037,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Velke Semence",
-      "file": "VS_-_1_-_House_of_Ann_Schwarz.png",
-      "sha256": "8ea0fcc48f86205d2a16608f8a32fa85c7bb79a1823b6184d3d1efe173257839",
-      "bytes": 1368676,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Vysoka",
-      "file": "Vysoka_-_1_-_House_of_Andrej_Hresko.png",
-      "sha256": "14947736499ae91c9ca921f628e6dc84906d7a826cebd931a8e0f02a894866af",
-      "bytes": 1292297,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Vysoka",
-      "file": "Vysoka_-_10_-_House_of_Andrej_Hresko.png",
-      "sha256": "c287e7d82f64e2e1bad1e876d2937e7bd53fb7f98e00b4eba39dbf83b4b8a90e",
-      "bytes": 1263713,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Vysoka",
-      "file": "Vysoka_-_11_-_House_of_Juraj_Hresko.png",
-      "sha256": "0383395c89b20d8ed612058c6efd0e439bc311e4e81cad97cc8361b9d9612dfd",
-      "bytes": 1381560,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Vysoka",
-      "file": "Vysoka_-_12_-_House_of_Maria_Hresko.png",
-      "sha256": "34ed7c8498b99193403ea5396c39253b1750d9db71f7f0f83ff3e1b1fc801fcb",
-      "bytes": 816148,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Vysoka",
-      "file": "Vysoka_-_13_-_House_of_Borbara_Demkova.png",
-      "sha256": "13b7fa091e73b97723bff351cb6b1e181e0bf10b94522943baf7fc21ffbc4d9d",
-      "bytes": 944854,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Vysoka",
-      "file": "Vysoka_-_2-_Houe_of_Michal_Hresko.png",
-      "sha256": "0299bad76d3abde9e9be5b45097a4574d1b5413375b73df515a69339dfda4f1a",
-      "bytes": 1194272,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Vysoka",
-      "file": "Vysoka_-_3_-_House_of_Andrej_Demko.png",
-      "sha256": "ec6ccbbed989a31632c648d0da7d95f626ca7bd9d4ed1aaf16e682d5c226a909",
-      "bytes": 945063,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Vysoka",
-      "file": "Vysoka_-_4_-_House_of_Andrej_Hresko.png",
-      "sha256": "59d0010e0e93b1cf5cf740ae9cfb8123a2d5fea947e6d3eb2288966011ac2269",
-      "bytes": 1083352,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Vysoka",
-      "file": "Vysoka_-_5_-_House_of_Albelta_Hresko.png",
-      "sha256": "d2fee5323e63336262716f133a039fadc8dbb1f320165753004665d62c72ee01",
-      "bytes": 1107308,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Vysoka",
-      "file": "Vysoka_-_6_-_House_of_Jan_Demko.png",
-      "sha256": "c469e36c657036d74d63e546a9cef7cc5f7693fc314f5c0337847977b6cb78b2",
-      "bytes": 1387881,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Vysoka",
-      "file": "Vysoka_-_7_-_House_of_Anna_Hreskova.png",
-      "sha256": "5a85445debf4344179b96db4bc9360d941011e6ad9d9f76283b20223eb912b97",
-      "bytes": 1112482,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Vysoka",
-      "file": "Vysoka_-_7_-_House_of_Stefan_Hresko.png",
-      "sha256": "7b5917a2464f63e7f602bebce6ba15ef272397a712b976469c9ea62390412499",
-      "bytes": 1049941,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
-    },
-    {
-      "part": "1930 Vysoka",
-      "file": "Vysoka_-_9_-__House_of_Maria_Demkova.png",
-      "sha256": "9d68aa0adf028d3d205f7b666da28a69473224b599846c3e2a6edba70f0602d5",
-      "bytes": 1166382,
-      "received": "2026-11-12",
-      "status": "received, not yet read; image not copied"
     }
   ]
 }
