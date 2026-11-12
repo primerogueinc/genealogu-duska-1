@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-023. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-024. Read ledger v19.
+
+## 00000000000000000. B-024 (12 Nov): one strip from Sztára; a label of Kevin's that I do not follow
+
+Folder `DUS:F-010`, one strip: baptism of Anna Krak, [9] Jan 1848, Sztára, daughter of János Krak (R.K.) and Mária [Z]ebro. Kevin's folder is named "Baptisms (Final) Stare", which tells me his tree makes her the wife of György Duska the elder. Logged as prior PR-8, no weight (X-004). My odds: the Sztára girl 20 (`DUS:H-055`), the Jesztreb girl of October 1848 35 (`DUS:H-056`), someone else 45. For the scorer: if Kevin's tree has the Sztára parents, my file will not match it unless a marriage or burial record turns up; that is a difference of evidence, not of reading.
 
 ## 0000000000000000. B-023 (12 Nov): housekeeping on Kevin's word; two of his files kept shut; three more pile files
 

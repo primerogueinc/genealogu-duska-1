@@ -1386,6 +1386,29 @@
    "S-235",
    "S-236"
   ],
+  "committed_utc": "2026-11-12T08:12:30Z"
+ },
+ {
+  "id": "B-024",
+  "date": "2026-11-12",
+  "title": "One strip from Sztára: an Anna Krak of 1848, and a rival for her",
+  "folder": "F-010",
+  "files": 1,
+  "blurb": "Read ledger v19, unchanged. The owner sent a folder of one strip, marked full, named 'Baptisms (Final) Stare'. It is a Hungarian baptism entry, the first under the heading for 1848: Anna, daughter of János Krak, Roman Catholic, and Mária [Z]ebro, of Sztára, a village about 26 km from Senné. The folder's name says the owner takes this for the baptism of Anna Krak, the Greek Catholic wife of György Duska the elder, and that he considers the search finished. That is logged as something known beforehand and given no weight. On the evidence here it is the weaker of two candidates. An earlier folder holds another Anna Krak born the same year, in October, at Jesztreb, 4 km from Senné and in a Greek Catholic book, also the daughter of a János Krak. Nothing in the archive says which girl, if either, married György Duska; her marriage entry would. So two hypotheses are raised: the Sztára girl at 20 in 100 and the Jesztreb girl at 35. She is in Michal Duska's line only if he is the boy of 1903, so none of this moves the main question. The Places agent is asked which church's book this strip comes from. The owner also said a 'Duska Census' folder is beginning and that his word files may be inaccurate; that is for the next batch. Curiosities: 2",
+  "raised": [
+   "H-055",
+   "H-056"
+  ],
+  "resolved": [],
+  "revised": [],
+  "people_added": [
+   "K-535",
+   "K-536",
+   "K-537"
+  ],
+  "sources_added": [
+   "S-237"
+  ],
   "committed_utc": null
  }
 ]

@@ -1,0 +1,16 @@
+{
+  "folder_id": "F-010",
+  "desktop_path": "Baptisms (Final) Stare",
+  "note": "One file; the owner marked the folder '[full]'. Received through chat upload.",
+  "files": [
+    {
+      "file": "Baptism_of_Anna_Krak.jpg",
+      "sha256": "0bdb66477cb1eacd81f5a1366e628871d2109209ada78ece0231af2c1e79d848",
+      "bytes": 70281,
+      "pixels": "1154x394",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 1
+    }
+  ]
+}

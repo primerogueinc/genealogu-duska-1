@@ -1,139 +1,152 @@
 [
-  {
-    "id": "F-001",
-    "desktop_path": "Documents/Genealogy/Duska Misc/Senne Interesting Pages",
-    "described_as": "Folder 1. Duska Misc / Senne Interesting Pages. Closed for now (Kevin, 12 Nov 2026); he may reopen it.",
-    "status": "complete",
-    "first_seen": "2026-11-11",
-    "completed": "2026-11-12",
-    "files_received": 10,
-    "batches": [
-      "B-001"
-    ],
-    "archive_path": "records/F-001_Duska-Misc_Senne-Interesting-Pages/"
-  },
-  {
-    "id": "F-002",
-    "desktop_path": "Documents/Genealogy/Duska and Demko Leads/Cicarovce",
-    "described_as": "First substantive item. Full file, given with no context. The same file is going to a second chat for a parallel rebuild.",
-    "status": "complete",
-    "first_seen": "2026-11-11",
-    "completed": "2026-11-11",
-    "files_received": 1,
-    "batches": [
-      "B-002"
-    ],
-    "archive_path": "records/F-002_Duska-and-Demko-Leads_Cicarovce/"
-  },
-  {
-    "id": "F-003",
-    "desktop_path": "Duska Baptisms/Belza (Kosice) - Greek Catholic",
-    "described_as": "Duska Baptisms / Belza (Kosice), Greek Catholic. Full folder.",
-    "status": "complete",
-    "first_seen": "2026-11-11",
-    "completed": "2026-11-11",
-    "files_received": 2,
-    "batches": [
-      "B-004"
-    ],
-    "archive_path": "records/F-003_Duska-Baptisms_Belza-Kosice-Greek-Catholic/"
-  },
-  {
-    "id": "F-004",
-    "desktop_path": "Duska Baptisms/Cicarovce",
-    "described_as": "Duska Baptisms / Cicarovce. Full folder.",
-    "status": "complete",
-    "first_seen": "2026-11-12",
-    "completed": "2026-11-12",
-    "files_received": 20,
-    "batches": [
-      "B-007"
-    ],
-    "archive_path": "records/F-004_Duska-Baptisms_Cicarovce/"
-  },
-  {
-    "id": "F-005",
-    "desktop_path": "Duska Baptisms/Inacovce (Solymos) - Greek Catholic",
-    "described_as": "Duska Baptisms / Inacovce (Solymos), Greek Catholic. Five parts, 58 files. Kevin called the fifth the final batch.",
-    "status": "complete",
-    "first_seen": "2026-11-12",
-    "completed": "2026-11-12",
-    "files_received": 58,
-    "batches": [
-      "B-009",
-      "B-011",
-      "B-013"
-    ],
-    "archive_path": "records/F-005_Duska-Baptisms_Inacovce-Solymos-Greek-Catholic/",
-    "catalogue_lead": "L-017"
-  },
-  {
-    "id": "F-X01",
-    "desktop_path": "DEMKO DOCUMENTS (given to the Demko agent, not to this one)",
-    "described_as": "Three of ten files, copied from the Demko agent's repository at 57861ad under ruling X-012 because they bear on the Duska line.",
-    "status": "complete",
-    "first_seen": "2026-11-12",
-    "completed": "2026-11-12",
-    "files_received": 3,
-    "batches": [
-      "B-009"
-    ],
-    "archive_path": "records/F-X01_Demko-Documents_cross-review/"
-  },
-  {
-    "id": "F-006",
-    "desktop_path": "AAAA Unclassified (received through the Sorter's piles, not from the owner directly)",
-    "described_as": "The owner's mixed folder. A sorting agent divides it into piles in a private repository; this agent reads the pile for the Duska line and the pile for both lines (rulings X-019, X-020). At private commit 2e9dd04 the Duska pile was empty and the shared pile held one file. The pile is the sorter's label: a prior, not evidence. At private commit 4f16658 the Duska pile held four files: a gravestone photograph, a marriage register page of 1892, a screenshot of the Senné baptism register in an online viewer, and a page of burials of 1831 to 1841. At b9e7b06 three more: a census household (image kept), a page from an online family tree (held unopened) and a newspaper print of 1911 (held; transcribed in part).",
-    "status": "open",
-    "first_seen": "2026-11-12",
-    "files_received": 8,
-    "batches": [
-      "B-016",
-      "B-022",
-      "B-023"
-    ],
-    "archive_path": "records/F-006_AAAA-Unclassified_sorter-piles/ (manifest only; the image is held)",
-    "private_commit_read": "2e9dd04; 4f16658; b9e7b06"
-  },
-  {
-    "id": "F-007",
-    "desktop_path": "Inacovce - Reformed (the owner wrote 'Reformed Catholic')",
-    "described_as": "Given in four parts as 'Inacovce - Reformed Catholic', 45 files. The owner called the fourth part final. Baptism entries from a Reformed (Calvinist) register for Solymos, the Hungarian name of Iňačovce, 1825 to 1921. Whether it sits under 'Duska Baptisms' on his desktop was not said.",
-    "status": "complete",
-    "first_seen": "2026-11-12",
-    "completed": "2026-11-12",
-    "files_received": 45,
-    "batches": [
-      "B-017"
-    ],
-    "archive_path": "records/F-007_Duska-Baptisms_Inacovce-Reformed/"
-  },
-  {
-    "id": "F-008",
-    "desktop_path": "Presov - Greek Catholic",
-    "described_as": "Given as 'Presov - Greek Catholic FULL', 4 files. Baptisms from the Greek Catholic parish of Eperjes (Prešov), 1804 to 1822, in Latin. No Duska.",
-    "status": "complete",
-    "first_seen": "2026-11-12",
-    "completed": "2026-11-12",
-    "files_received": 4,
-    "batches": [
-      "B-019"
-    ],
-    "archive_path": "records/F-008_Presov-Greek-Catholic/"
-  },
-  {
-    "id": "F-009",
-    "desktop_path": "Senne - Roman Catholic",
-    "described_as": "Given in eight parts as 'Senne - Roman Catholic', 95 image files, with one text document that is held unopened. Closed by this agent on the owner's word to judge as it saw fit: his file names run from 'Andras' to 'Zsuzsanna' and end with the volume's first page. Baptism entries from the Roman Catholic register of Senné (Szenna; Ungszenna by 1906), 1866 to 1912.",
-    "status": "complete",
-    "first_seen": "2026-11-12",
-    "files_received": 95,
-    "batches": [
-      "B-020",
-      "B-021",
-      "B-022"
-    ],
-    "archive_path": "records/F-009_Senne-Roman-Catholic/",
-    "completed": "2026-11-12"
-  }
+ {
+  "id": "F-001",
+  "desktop_path": "Documents/Genealogy/Duska Misc/Senne Interesting Pages",
+  "described_as": "Folder 1. Duska Misc / Senne Interesting Pages. Closed for now (Kevin, 12 Nov 2026); he may reopen it.",
+  "status": "complete",
+  "first_seen": "2026-11-11",
+  "completed": "2026-11-12",
+  "files_received": 10,
+  "batches": [
+   "B-001"
+  ],
+  "archive_path": "records/F-001_Duska-Misc_Senne-Interesting-Pages/"
+ },
+ {
+  "id": "F-002",
+  "desktop_path": "Documents/Genealogy/Duska and Demko Leads/Cicarovce",
+  "described_as": "First substantive item. Full file, given with no context. The same file is going to a second chat for a parallel rebuild.",
+  "status": "complete",
+  "first_seen": "2026-11-11",
+  "completed": "2026-11-11",
+  "files_received": 1,
+  "batches": [
+   "B-002"
+  ],
+  "archive_path": "records/F-002_Duska-and-Demko-Leads_Cicarovce/"
+ },
+ {
+  "id": "F-003",
+  "desktop_path": "Duska Baptisms/Belza (Kosice) - Greek Catholic",
+  "described_as": "Duska Baptisms / Belza (Kosice), Greek Catholic. Full folder.",
+  "status": "complete",
+  "first_seen": "2026-11-11",
+  "completed": "2026-11-11",
+  "files_received": 2,
+  "batches": [
+   "B-004"
+  ],
+  "archive_path": "records/F-003_Duska-Baptisms_Belza-Kosice-Greek-Catholic/"
+ },
+ {
+  "id": "F-004",
+  "desktop_path": "Duska Baptisms/Cicarovce",
+  "described_as": "Duska Baptisms / Cicarovce. Full folder.",
+  "status": "complete",
+  "first_seen": "2026-11-12",
+  "completed": "2026-11-12",
+  "files_received": 20,
+  "batches": [
+   "B-007"
+  ],
+  "archive_path": "records/F-004_Duska-Baptisms_Cicarovce/"
+ },
+ {
+  "id": "F-005",
+  "desktop_path": "Duska Baptisms/Inacovce (Solymos) - Greek Catholic",
+  "described_as": "Duska Baptisms / Inacovce (Solymos), Greek Catholic. Five parts, 58 files. Kevin called the fifth the final batch.",
+  "status": "complete",
+  "first_seen": "2026-11-12",
+  "completed": "2026-11-12",
+  "files_received": 58,
+  "batches": [
+   "B-009",
+   "B-011",
+   "B-013"
+  ],
+  "archive_path": "records/F-005_Duska-Baptisms_Inacovce-Solymos-Greek-Catholic/",
+  "catalogue_lead": "L-017"
+ },
+ {
+  "id": "F-X01",
+  "desktop_path": "DEMKO DOCUMENTS (given to the Demko agent, not to this one)",
+  "described_as": "Three of ten files, copied from the Demko agent's repository at 57861ad under ruling X-012 because they bear on the Duska line.",
+  "status": "complete",
+  "first_seen": "2026-11-12",
+  "completed": "2026-11-12",
+  "files_received": 3,
+  "batches": [
+   "B-009"
+  ],
+  "archive_path": "records/F-X01_Demko-Documents_cross-review/"
+ },
+ {
+  "id": "F-006",
+  "desktop_path": "AAAA Unclassified (received through the Sorter's piles, not from the owner directly)",
+  "described_as": "The owner's mixed folder. A sorting agent divides it into piles in a private repository; this agent reads the pile for the Duska line and the pile for both lines (rulings X-019, X-020). At private commit 2e9dd04 the Duska pile was empty and the shared pile held one file. The pile is the sorter's label: a prior, not evidence. At private commit 4f16658 the Duska pile held four files: a gravestone photograph, a marriage register page of 1892, a screenshot of the Senné baptism register in an online viewer, and a page of burials of 1831 to 1841. At b9e7b06 three more: a census household (image kept), a page from an online family tree (held unopened) and a newspaper print of 1911 (held; transcribed in part).",
+  "status": "open",
+  "first_seen": "2026-11-12",
+  "files_received": 8,
+  "batches": [
+   "B-016",
+   "B-022",
+   "B-023"
+  ],
+  "archive_path": "records/F-006_AAAA-Unclassified_sorter-piles/ (manifest only; the image is held)",
+  "private_commit_read": "2e9dd04; 4f16658; b9e7b06"
+ },
+ {
+  "id": "F-007",
+  "desktop_path": "Inacovce - Reformed (the owner wrote 'Reformed Catholic')",
+  "described_as": "Given in four parts as 'Inacovce - Reformed Catholic', 45 files. The owner called the fourth part final. Baptism entries from a Reformed (Calvinist) register for Solymos, the Hungarian name of Iňačovce, 1825 to 1921. Whether it sits under 'Duska Baptisms' on his desktop was not said.",
+  "status": "complete",
+  "first_seen": "2026-11-12",
+  "completed": "2026-11-12",
+  "files_received": 45,
+  "batches": [
+   "B-017"
+  ],
+  "archive_path": "records/F-007_Duska-Baptisms_Inacovce-Reformed/"
+ },
+ {
+  "id": "F-008",
+  "desktop_path": "Presov - Greek Catholic",
+  "described_as": "Given as 'Presov - Greek Catholic FULL', 4 files. Baptisms from the Greek Catholic parish of Eperjes (Prešov), 1804 to 1822, in Latin. No Duska.",
+  "status": "complete",
+  "first_seen": "2026-11-12",
+  "completed": "2026-11-12",
+  "files_received": 4,
+  "batches": [
+   "B-019"
+  ],
+  "archive_path": "records/F-008_Presov-Greek-Catholic/"
+ },
+ {
+  "id": "F-009",
+  "desktop_path": "Senne - Roman Catholic",
+  "described_as": "Given in eight parts as 'Senne - Roman Catholic', 95 image files, with one text document that is held unopened. Closed by this agent on the owner's word to judge as it saw fit: his file names run from 'Andras' to 'Zsuzsanna' and end with the volume's first page. Baptism entries from the Roman Catholic register of Senné (Szenna; Ungszenna by 1906), 1866 to 1912.",
+  "status": "complete",
+  "first_seen": "2026-11-12",
+  "files_received": 95,
+  "batches": [
+   "B-020",
+   "B-021",
+   "B-022"
+  ],
+  "archive_path": "records/F-009_Senne-Roman-Catholic/",
+  "completed": "2026-11-12"
+ },
+ {
+  "id": "F-010",
+  "desktop_path": "Baptisms (Final) Stare",
+  "described_as": "One image strip, marked '[full]' by the owner: the baptism of an Anna Krak at Sztára (Staré) in January 1848.",
+  "status": "complete",
+  "first_seen": "2026-11-12",
+  "files_received": 1,
+  "batches": [
+   "B-024"
+  ],
+  "archive_path": "records/F-010_Baptisms-Final_Stare/",
+  "completed": "2026-11-12"
+ }
 ]

@@ -1233,6 +1233,11 @@
     "batch": "B-022",
     "effect": "no change",
     "note": "The marriage entry of 1892 gives Anna Krak's origin as a place read 'I[sk]e' [?], not Jesztreb or Szenna. If that is Iske (Ižkovce), she is not of the Jesztreb Kraks. The identification of the place is recalled, not sourced, and is sent to the Places agent."
+   },
+   {
+    "batch": "B-024",
+    "effect": "no change",
+    "note": "A Krak baptism from Sztára is now in the archive as well. H-050 says she belongs to the Kraks of Jesztreb and Szenna; H-055 and H-056 now put the two named girls side by side."
    }
   ]
  },
@@ -1311,8 +1316,49 @@
     "batch": "B-022",
     "effect": "raised at 55",
     "note": "Shown at the weakest link it rests on, with the chain listed (X-009 as amended in ledger v19). Nobody above Ahn 8 is entered on the tree."
+   },
+   {
+    "batch": "B-024",
+    "effect": "no change",
+    "note": "The identity of Anna Krak's parents (H-055, H-056) would add a generation above this one. It does not touch the links this one rests on."
    }
   ],
   "question": "X-Q-06"
+ },
+ {
+  "id": "H-055",
+  "statement": "Anna Krak, Greek Catholic wife of György Duska the elder of Senné, is the Anna baptised in January 1848 at Sztára, daughter of János Krak and Mária [Z]ebro.",
+  "confidence": 20,
+  "basis": "The name, and an age that fits: she would be 18 at the birth of her first known child in March 1866. This is the owner's own identification (PR-8), which carries no weight. Against it: the father is marked Roman Catholic and she is Greek Catholic in every Senné entry; Sztára is about 26 km from Senné in another county; and an Anna Krak was born the same year at Jesztreb, 4 km from Senné, in a Greek Catholic book (H-056). The word after her name in the 1892 marriage entry is not read as Sztára.",
+  "test": "Her marriage to György Duska (about 1864 to 1866), which should name her parents or her village; her burial with an age; the church this Sztára book belongs to.",
+  "status": "open",
+  "raised": "B-024",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-024",
+    "effect": "raised at 20",
+    "note": "Raised because the owner filed this strip as her baptism. Nothing on the strip joins it to Senné."
+   }
+  ]
+ },
+ {
+  "id": "H-056",
+  "statement": "Anna Krak, Greek Catholic wife of György Duska the elder of Senné, is the Anna born on 14 October [1848] at Jesztreb, daughter of János Krak, cottar, and Zsuzsanna Michalko.",
+  "confidence": 35,
+  "basis": "Same name, Greek Catholic book, a village 4 km from Senné whose Krak baptisms the owner collected with the Duska ones (H-050). She would be 17 at the birth of the first known child in March 1866, which is young but not rare. No record joins the two.",
+  "test": "As for H-055.",
+  "status": "open",
+  "raised": "B-024",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-024",
+    "effect": "raised at 35",
+    "note": "The rival to H-055, from a strip read at B-008. The remaining 45 in 100 is an Anna Krak not yet seen."
+   }
+  ]
  }
 ]

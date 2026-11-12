@@ -1,437 +1,459 @@
 [
-  {
-    "id": "C-001",
-    "doc": "D-001-07",
-    "title": "The husband who walked out in 1829",
-    "text": "Ten years after Ludovicus Szathmáry left his wife Catharina Tóth and their four children, the church was still circulating his description across two dioceses: short, lean, pale, black-haired, a bad left eye, three languages besides his own. His wife's theory was that he got tired of home life and went back to the religion and the county he came from."
-  },
-  {
-    "id": "C-002",
-    "doc": "D-001-06",
-    "title": "A seminarian goes missing",
-    "text": "Franciscus Pap Vásárhelyi left the seminary on 21 May 1839 and did not come back. The vicar general asked every parish priest in the diocese to keep an eye out."
-  },
-  {
-    "id": "C-003",
-    "doc": "D-001-06",
-    "title": "Priests skipping the district meeting",
-    "text": "The May 1839 meeting at N. Kapos was so thinly attended that the vicar general demanded written excuses from every absentee."
-  },
-  {
-    "id": "C-004",
-    "doc": "D-001-05",
-    "title": "Homework on kinship",
-    "text": "The canon-law thesis for 1839 made every priest in the diocese explain stem, degree and line of consanguinity in writing. It is the same arithmetic this rebuild runs on."
-  },
-  {
-    "id": "C-005",
-    "doc": "D-001-03",
-    "title": "A price list for sacraments",
-    "text": "Parishioners complained about fees often enough that in February 1838 the bishop fixed one tariff for the whole diocese, from banns to funeral sermons, with weddings and burials priced by social standing."
-  },
-  {
-    "id": "C-006",
-    "doc": "D-001-04",
-    "title": "The red silk veil",
-    "text": "Between two diocesan circulars someone recorded a local event: on 25 August 1838 Miss Theresia Kulin gave the church a red silk veil worked with flowers. It is the only entry in the ten pages that was written about the parish itself."
-  },
-  {
-    "id": "C-007",
-    "doc": "D-001-01",
-    "title": "Reading list by decree",
-    "text": "The bishop doubled as a subscription agent: a Kassa bookseller's Hungarian edition of a French polemic on the Church of England, a Czech theological journal from Prague, a Pécs bishop's sermons. Each district was expected to buy at least one copy."
-  },
-  {
-    "id": "C-008",
-    "doc": "D-001-02",
-    "title": "An underage wedding reaches Buda",
-    "text": "A schoolmaster's son was married too young, the case went up to the Lieutenancy Council, and every parish got a reminder about the lawful age for marriage. Names in this entry are read with low confidence."
-  },
-  {
-    "id": "C-009",
-    "doc": "D-003-01",
-    "title": "A Slovak form filled in Hungarian",
-    "text": "The Belža entries survive as a later hand copy on a pre-printed Slovak form. The copyist ignored the printed headings, wrote Hungarian ones above them, and put legitimacy in the religion column and sex in the column meant for place of birth."
-  },
-  {
-    "id": "C-010",
-    "doc": null,
-    "title": "A village of boats and geese",
-    "text": "From the Senné municipal history (lead L-012): when the rivers flooded, villagers dammed the hollows and took the fish as the water fell, and hunted deer and hares stranded on hummocks from dugout boats. Every family is said to have owned a boat into the interwar years, and the village goose flock ran to nearly six thousand birds until 1975."
-  },
-  {
-    "id": "C-011",
-    "doc": null,
-    "title": "A fisherman from Lake Constance",
-    "text": "The same history says a Swiss fisherman was brought to Senné in the 1930s by the Sztáray family and introduced long seine nets to the marsh."
-  },
-  {
-    "id": "C-012",
-    "doc": "D-004-18",
-    "title": "Twins, two crosses, and the name used again",
-    "text": "György Demkó and Mária Hreskó had twin boys in May 1873, Mihály and János. Both names carry a cross in the register. The couple named a son János in 1875 and a son Mihály in 1882."
-  },
-  {
-    "id": "C-013",
-    "doc": "D-004-17",
-    "title": "Two pages too early",
-    "text": "Above the 1873 baptism of Mihály Hornyák the clerk admits the entry was written two pages ahead of where it belonged."
-  },
-  {
-    "id": "C-014",
-    "doc": "D-004-13",
-    "title": "One register, three scripts",
-    "text": "The same parish book is kept in Latin in 1831, Hungarian from 1834, and Cyrillic in 1857, when the priest of Lekárt entered a Viszoka baptism. The death note beside it, six weeks later, is back in Latin letters."
-  },
-  {
-    "id": "C-015",
-    "doc": "D-004-05",
-    "title": "Baptised by the other rite, with permission",
-    "text": "In 1831 Georgius Demko, son of a Greek Catholic father, was baptised by the Latin-rite parish priest of Pálóc, who noted that he had the consent of the local parish priest."
-  },
-  {
-    "id": "C-016",
-    "doc": "D-X01-01",
-    "title": "A seventeen-year-old gets his papers",
-    "text": "The certificate that proves Štefan Duska's parents was issued at Senné on 19 August 1947, with a revenue stamp and the parish seal, when he was seventeen. Three years later his mother was buried in Montréal."
-  },
-  {
-    "id": "C-017",
-    "doc": "D-005-03",
-    "title": "Alona, who was Anna",
-    "text": "The owner filed the 1816 Krak baptism under the name Alona. The child in the entry is Anna."
-  },
-  {
-    "id": "C-018",
-    "doc": "D-005-02",
-    "title": "András twice",
-    "text": "János Kóreny and Mária Krak of Jesztreb baptised a son András in 1844 and another, entered in Cyrillic as Andrej, in 1852."
-  },
-  {
-    "id": "C-019",
-    "doc": "D-005-04",
-    "title": "A date that corrects its own label",
-    "text": "A file labelled \"maybe 1876\" carries a note that the child died on 27 February 1870, two days after the baptism."
-  },
-  {
-    "id": "C-020",
-    "doc": "D-005-18",
-    "title": "The page header at last",
-    "text": "After thirty-odd strips cut from the middle of pages, one includes the printed Hungarian headings of the register: running number, month and day of birth and of baptism, name, sex, legitimacy, parents' names with religion and standing, residence and house number, godparents, baptising priest, remarks."
-  },
-  {
-    "id": "C-021",
-    "doc": "D-005-17",
-    "title": "Borbála twice, by two mothers",
-    "text": "Pál Kocsis of Solymos baptised a Borbála in 1843 with Anna Cservenyák and another Borbála in 1846 with Mária Iv[a]ncsák. The simplest reading is a wife and a daughter lost within three years."
-  },
-  {
-    "id": "C-022",
-    "doc": "D-005-22",
-    "title": "Twins need four godparents",
-    "text": "The Demko twins of June 1877 at Jesztreb were given a pair of godparents each."
-  },
-  {
-    "id": "C-023",
-    "doc": "D-005-32",
-    "title": "\"Look at parents, maybe incest\"",
-    "text": "The owner flagged a baptism of 1846 whose parents are Mihály Krak and Anna Krak. The godparents give it away: they are the pair who stand for every child of Mihály Bodnár and Anna Krak. The husband was written under his wife's surname once, and the name stuck to their son."
-  },
-  {
-    "id": "C-024",
-    "doc": "D-005-52",
-    "title": "A correction two generations late",
-    "text": "Beside the 1877 baptism of a son of 'Janko Krak', someone later wrote in Slovak: the father's correct name is Bodnár. The register was kept in Hungarian; the note is from after 1918."
-  },
-  {
-    "id": "C-025",
-    "doc": "D-005-34",
-    "title": "Dusko and Danko in one line",
-    "text": "In January 1894 the priest of Solymos wrote the mother as Dusko Mária and the godmother as Danko Mária, one above the other. It is the cleanest proof in the folder that these are two surnames, and it sank a reading this rebuild had made."
-  },
-  {
-    "id": "C-026",
-    "doc": "D-005-54",
-    "title": "A Duska of the third church",
-    "text": "Anna Duska of Solymos, a mother in 1894, is entered as Reformed. With Greek Catholic Dusko men at Szenna and a Roman Catholic Michal Duska in 1929, the surname turns up in all three churches of the two villages."
-  },
-  {
-    "id": "C-027",
-    "doc": "D-005-39",
-    "title": "Married in time for the second child",
-    "text": "Mihály Demko and Anna Jaros had Mária in February 1888, entered as illegitimate. A note says she was legitimised in 1889, the year their next child was baptised as legitimate."
-  },
-  {
-    "id": "C-028",
-    "doc": "D-005-58",
-    "title": "An entry with parents and no child",
-    "text": "At the end of 1870 the clerk filled in the parents, house and godparents for row 49, then wrote 1871 across the empty cells and started the numbering again. The child turns up three rows later as no. 4 of the new year: Anna, born 12 January."
-  },
-  {
-    "id": "C-029",
-    "doc": "D-006-01",
-    "title": "A family tree with 'preview' stamped across it",
-    "text": "The one file in the shared pile is a designer's chart of another family, with photographs, a coat of arms and a ribbon, and the Slovak word for 'preview' printed over it five times. Somebody was shown what a finished tree could look like before paying for one. Whether it was the owner is not known."
-  },
-  {
-    "id": "C-030",
-    "doc": "D-007-28",
-    "title": "Loursemis",
-    "text": "The owner's file name for a girl baptised in 1888 is 'Loursemis Duska'. The clerk wrote Zsuzsanna with a looped Zs and a long tail, and read cold it does look like Loursemis. She is plain Susan."
-  },
-  {
-    "id": "C-031",
-    "doc": "D-007-08",
-    "title": "A boy from somewhere called Bradenville",
-    "text": "Tucked under a December baptism at Solymos is a row for a child born far away, to a father the clerk calls a labourer instead of a farmer, with godparents nobody else in the book has and a note that it was copied from a certificate. The file name does not mention him."
-  },
-  {
-    "id": "C-032",
-    "doc": "D-007-33",
-    "title": "Mária, no, Mihály",
-    "text": "In January 1904 the pastor wrote 'Mária' in the name column for a boy, struck it out and wrote 'Mihály' above. The same couple's last child, ten months earlier, was a Mária."
-  },
-  {
-    "id": "C-033",
-    "doc": "D-007-39",
-    "title": "Thoma is a girl",
-    "text": "The strip filed as 'Thoma Duska 1832' has L for leány, girl, in the sex column and a name that reads Anna. No Thomas is in sight."
-  },
-  {
-    "id": "C-034",
-    "doc": "D-007-19",
-    "title": "The wrong wife",
-    "text": "In 1882 the clerk entered another woman's name as the mother of Mihály Duska's son, crossed the whole of it out and wrote Ilona."
-  },
-  {
-    "id": "C-035",
-    "doc": "D-008-04",
-    "source": "S-134",
-    "title": "The priest's little son",
-    "text": "The father in this 1809 baptism is 'the Very Reverend Mr Stephanus Demko, parish priest of Körösfő'. Greek Catholic parish clergy married, so a priest's child in the baptism book is ordinary. What is odd is that the entry gives the father his full style, the godfather his ('most illustrious'), the godmother hers and her husband's name, and the mother nothing at all.",
-    "original": "filiolus A. Rdi Dni Stephani Demko Parochi Körösfőensis",
-    "translation": "little son of the Very Reverend Mr Stephanus Demko, parish priest of Körösfő",
-    "why": "A married priest named Demko, and a mother left out of her own child's baptism entry.",
-    "tone": "odd"
-  },
-  {
-    "id": "C-036",
-    "doc": "D-008-02",
-    "source": "S-132",
-    "title": "Baptised and confirmed in one go",
-    "text": "Each of these Prešov entries says the infant was 'baptised and confirmed'. In the Greek rite the priest anoints the child at baptism, so a baby a day old is confirmed, where a Roman Catholic neighbour waited years for a bishop.",
-    "original": "baptisavit, et Confirmavit Andream",
-    "translation": "baptised and confirmed Andreas",
-    "why": "It is the one phrase that shows at a glance which church a Latin entry comes from.",
-    "tone": "history"
-  },
-  {
-    "id": "C-037",
-    "doc": "D-009-06",
-    "source": "S-140",
-    "title": "A death written beside a baptism, seventy-two years later",
-    "text": "Andreas Duska was baptised at Senné in 1868. In the remarks column of the same line, in a later hand and in another style of date, someone has added a cross and '1940. VIII. 22'. The parish was still going back to its Hungarian-era baptism book to close out lives in the Second World War.",
-    "original": "+ 1940. VIII. 22",
-    "translation": "died 22 August 1940",
-    "why": "One line of a register spans a whole life and three states.",
-    "tone": "history"
-  },
-  {
-    "id": "C-038",
-    "doc": "D-009-08",
-    "source": "S-142",
-    "title": "Szenna becomes Ungszenna",
-    "text": "Up to 1900 the priest writes the village as Szenna. By 1907 every line says Ungszenna, the county's name bolted on the front: the Hungarian state had gone through its villages giving each a name no other shared. Part 2 narrows it: the priest still writes Szenna in June 1903 and Ungszenna in May 1906.",
-    "original": "Ungszenna",
-    "translation": "Senné in Ung county",
-    "why": "A date for the rename can be read straight off the strips: after June 1903, by May 1906.",
-    "tone": "history"
-  },
-  {
-    "id": "C-039",
-    "doc": "D-009-04",
-    "source": "S-138",
-    "title": "The sexton's son",
-    "text": "The father of the boy baptised in October 1910 is entered as 'r.k. egyházfi', the Roman Catholic church's own sexton, so the priest was baptising his bell-ringer's child. The owner's file name has the surname as Harucsak; on the strip it looks more like Hankuscsik.",
-    "original": "r.k. egyházfi Ungszenna",
-    "translation": "Roman Catholic sexton, of Ungszenna",
-    "why": "An occupation that only the church register would bother to record so exactly.",
-    "tone": "odd"
-  },
-  {
-    "id": "C-040",
-    "doc": "D-009-08",
-    "source": "S-142",
-    "title": "Three daughters named Anna",
-    "text": "András Duska of house 73 baptised an Anna in July 1898, who lived nineteen days; an Anna in September 1899; and an Anna, a twin, in July 1907, who died at two. Her twin Susanna died on 29 October 1918, aged eleven. He had already buried a twelve-day-old son András in 1893 and named the next boy András.",
-    "original": "meghalt 1898. júl. 30. / + 1909. szept. 20 / + 1918. okt. 29.",
-    "translation": "died 30 July 1898 / died 20 September 1909 / died 29 October 1918",
-    "why": "The reuse of a dead child's name, three times over in one household, with the dates beside each.",
-    "tone": "sad"
-  },
-  {
-    "id": "C-041",
-    "doc": "D-009-02",
-    "source": "S-136",
-    "title": "The bishop's visit, noted mid-page",
-    "text": "Under the April 1893 baptisms a line runs across the columns: at the church visitation of 6 June 1893. The visitor read the book this far and it was marked.",
-    "original": "1893. év junius 6án [tartott] egyházi látogatáskor",
-    "translation": "at the church visitation held on 6 June 1893",
-    "why": "It dates the moment an inspector had this very page open.",
-    "tone": "history"
-  },
-  {
-    "id": "C-042",
-    "doc": "D-009-18",
-    "source": "S-152",
-    "title": "One man, three spellings, two jobs",
-    "text": "The husband of Mária Nyemcsik is a farmer at house 47 in 1896 and the church's sexton at house 64 in 1910. The owner's two file names spell him Haurcosnak and Harucsak; the strips look like Hankosnák and Hankuscsik. The godparents, András Raskóczki and Zsuzsanna Tkács, are the same both times, which is how it is known to be one man.",
-    "original": "Hankos[n]ák András rk. gazd. (1896); Hankuscsik András, r.k. egyházfi (1910)",
-    "translation": "András Hankosnák, Roman Catholic farmer (1896); András Hankuscsik, Roman Catholic sexton (1910)",
-    "why": "A surname nobody, clerk or collector, could settle on.",
-    "tone": "funny"
-  },
-  {
-    "id": "C-043",
-    "doc": "D-009-17",
-    "source": "S-151",
-    "title": "Duska or Drska?",
-    "text": "The owner's own file name asks the question. The father is a miller called János, and the third letter of his surname is a single hooked stroke that this clerk uses for both u and r. Five years earlier the same priest entered another miller of the village as Duska, without doubt.",
-    "original": "D[u]ska János rk. molnár Szenna",
-    "translation": "János D[u]ska, Roman Catholic miller, of Szenna",
-    "why": "Whether Senné had one milling family or two turns on one pen stroke.",
-    "tone": "odd"
-  },
-  {
-    "id": "C-044",
-    "doc": "D-009-94",
-    "source": "S-228",
-    "title": "Recovered from the Calvinists, 1718",
-    "text": "The first page of the Senné register is headed 'Memoria digna', worth remembering, and lists every parish priest since 'the church was recovered from the Calvinists in 1718'. So the Roman Catholic parish of Senné had been a Reformed church. In the next village, Solymos, the Reformed kept theirs, and that is where the other Duskas are.",
-    "original": "post recuperatam a Calvinis 1718. Ecclesiam",
-    "translation": "after the church was recovered from the Calvinists in 1718",
-    "why": "One line explains why one surname sits in a Catholic book in one village and a Calvinist book in the next.",
-    "tone": "history"
-  },
-  {
-    "id": "C-045",
-    "doc": "D-009-94",
-    "source": "S-228",
-    "title": "Burnt by a malicious man at eleven at night",
-    "text": "Under the long tenure of Georgius Balás the list of priests turns into a chronicle: windows mended, a new organ, and on 28 October 1865 at eleven at night something consumed by fire 'through a malicious man'. Six years later a new bell was blessed by the bishop, and one for Solymos with it.",
-    "original": "1865. 28. Octobris hora 11. nocturna [...] per malignum hominem igne absumptis",
-    "translation": "on 28 October 1865 at the eleventh hour of the night [...] consumed by fire through a malicious man",
-    "why": "Arson in the parish, recorded by the priest in the front of the baptism book.",
-    "tone": "history"
-  },
-  {
-    "id": "C-046",
-    "doc": "D-009-70",
-    "source": "S-204",
-    "title": "Kocsis the coachman",
-    "text": "In December 1911 the father of the child is 'Kocsis János, r.k. kocsis': János Coachman, Roman Catholic, coachman. The clerk writes the word twice in a row, once with a capital.",
-    "original": "Kocsis János, r.k. kocsis",
-    "translation": "János Kocsis, Roman Catholic, coachman",
-    "why": "A surname and a trade that are the same word, side by side.",
-    "tone": "funny"
-  },
-  {
-    "id": "C-047",
-    "doc": "D-009-42",
-    "source": "S-176",
-    "title": "Baptised by the midwife",
-    "text": "Where the priest's name should stand in the entry of 30 April 1887 is 'Belej Terézia, szülésznő', the midwife. There are no godparents. The child, György Nyemcsik, was born, baptised and dead on the one day.",
-    "original": "Belej Terézia szülésznő ... + 1887 apr. 30",
-    "translation": "Terézia Belej, midwife ... died 30 April 1887",
-    "why": "The one entry in the folder where a woman is the officiant, and why.",
-    "tone": "sad"
-  },
-  {
-    "id": "C-048",
-    "doc": "D-009-88",
-    "source": "S-222",
-    "title": "Two sets of Duska twins in a fortnight",
-    "text": "János Duska's wife bore twin girls on 29 and 30 June 1907, one each side of midnight. András Duska's wife bore twin girls on 13 July. Of the four, one died that August, one in 1908, one in 1909 and the last on 29 October 1918, aged eleven.",
-    "original": "Zsuzsanna, Borbála } ikrek ... Anna, Susanna } ikrek",
-    "translation": "Zsuzsanna and Borbála, twins ... Anna and Susanna, twins",
-    "why": "Four cousins born within fifteen days, with their deaths written beside them.",
-    "tone": "sad"
-  },
-  {
-    "id": "C-049",
-    "doc": "D-009-44",
-    "source": "S-178",
-    "title": "Made legitimate by permit no. 1125",
-    "text": "A boy baptised as illegitimate has the word altered to 'legitimate' and a remark signed by the priest: legitimised by his parents' later marriage, by leave of the diocesan authority, no. 1125 of 20 July 1895. If the owner's year for the baptism is right, the boy was twenty-two when the book was corrected.",
-    "original": "Utólagos házasság által törvényesíttetett. Egyh. m. Hatóság 1895. jul. 20. 1125. sz. engedély alapján.",
-    "translation": "Legitimised by subsequent marriage, on permit no. 1125 of the diocesan authority, 20 July 1895.",
-    "why": "The bishop's office had to give a numbered permit before one word in a village register could be changed.",
-    "tone": "odd"
-  },
-  {
-    "id": "C-050",
-    "doc": "D-009-52",
-    "source": "S-186",
-    "title": "A mother with two surnames, and a daughter who got the wrong one",
-    "text": "The clerk enters János Nyemcsik's wife as 'Hresko, otherwise Minarcsin'. When her daughter Anna Nyemcsik married András Duska and had children, the priest wrote her down as Anna Minarcsin for seven years: her mother's second name, not her father's. From 1903 he wrote Nyemecz.",
-    "original": "Hresko másk. Minarcsin Erzsébet",
-    "translation": "Erzsébet Hresko, otherwise Minarcsin",
-    "why": "It made one wife look like two. Logged as hypothesis H-051 as well.",
-    "tone": "odd"
-  },
-  {
-    "id": "C-051",
-    "doc": "D-009-28",
-    "source": "S-162",
-    "title": "Files that are not what they say",
-    "text": "In this delivery 'György Duska 1887' is a boy named Pál, 'György Kocsis 1887' is a girl named Anna, the twins of '1807' were born in 1907, 'Senne Baptisms pg 2' is page 1 again, two strips filed under Krak read Mraz, and 'Anna Tkacs Nyemcsik 1866' shows a Mária Mihalyó of 1886 with no Tkács or Nyemcsik in sight.",
-    "original": "(the owner's file names)",
-    "translation": "(the owner's file names)",
-    "why": "A reminder, six times over, to read the strip and not the label.",
-    "tone": "funny"
-  },
-  {
-    "id": "C-052",
-    "doc": "D-006-05",
-    "source": "S-233",
-    "title": "Buried with singing, or with a sermon",
-    "text": "The Reformed burial book of the 1830s has a column for how each person was buried. Most were buried 'with singing'. Some, Pál Duska among them in 1838, 'with a sermon'. A few got both. The column before it gives the illness: old age, fever, dropsy.",
-    "original": "Eltemettetések módja: Énekszóval / Tanítással",
-    "translation": "Manner of burial: with singing / with a sermon",
-    "why": "A register that records not only who died but how much ceremony they were given.",
-    "tone": "history"
-  },
-  {
-    "id": "C-053",
-    "doc": "D-006-03",
-    "source": "S-231",
-    "title": "'From Czech Origins'",
-    "text": "The owner's file name for the 1892 marriage page says it comes 'from Czech Origins'. The page is a printed Hungarian form, filled in for a village that was then in Hungary and is now in Slovakia. Nothing on it is Czech.",
-    "original": "Anna_Nyemco_and_Andras_Duska_Marriage_from_Czech_Origins",
-    "translation": "(file name)",
-    "why": "A label that names a country the record never belonged to.",
-    "tone": "funny"
-  },
-  {
-    "id": "C-054",
-    "doc": "D-006-07",
-    "source": "S-235",
-    "title": "A census read off a photograph of a screen",
-    "text": "The owner's copy of the census sheet is a photograph of a computer monitor: the weave of the screen's pixels runs across the page and an editing tool's magic-wand cursor sits in the corner. Somebody could see the sheet and could not download it.",
-    "original": "(image)",
-    "translation": "(image)",
-    "why": "The record is real and the copy is three removes from the paper: sheet, scan, screen, camera.",
-    "tone": "funny"
-  },
-  {
-    "id": "C-055",
-    "doc": "D-006-08",
-    "source": "S-236",
-    "title": "Annie Duska and the hotel gas plant",
-    "text": "On 16 January 1911 the gas lighting plant of the Hubbard hotel at Niobrara, Nebraska, exploded. Four people were killed, an Annie Duska among them, and the fire that followed burned the hotel. An Ohio paper ran it the next day in nine lines. Who she was is not known here.",
-    "original": "FOUR KILLED IN EXPL[OSION] ... Niobrara, Neb., Jan. 16.",
-    "translation": "(English)",
-    "why": "The only Duska in the archive to reach a newspaper, and the only one found west of the Mississippi.",
-    "tone": "sad"
-  }
+ {
+  "id": "C-001",
+  "doc": "D-001-07",
+  "title": "The husband who walked out in 1829",
+  "text": "Ten years after Ludovicus Szathmáry left his wife Catharina Tóth and their four children, the church was still circulating his description across two dioceses: short, lean, pale, black-haired, a bad left eye, three languages besides his own. His wife's theory was that he got tired of home life and went back to the religion and the county he came from."
+ },
+ {
+  "id": "C-002",
+  "doc": "D-001-06",
+  "title": "A seminarian goes missing",
+  "text": "Franciscus Pap Vásárhelyi left the seminary on 21 May 1839 and did not come back. The vicar general asked every parish priest in the diocese to keep an eye out."
+ },
+ {
+  "id": "C-003",
+  "doc": "D-001-06",
+  "title": "Priests skipping the district meeting",
+  "text": "The May 1839 meeting at N. Kapos was so thinly attended that the vicar general demanded written excuses from every absentee."
+ },
+ {
+  "id": "C-004",
+  "doc": "D-001-05",
+  "title": "Homework on kinship",
+  "text": "The canon-law thesis for 1839 made every priest in the diocese explain stem, degree and line of consanguinity in writing. It is the same arithmetic this rebuild runs on."
+ },
+ {
+  "id": "C-005",
+  "doc": "D-001-03",
+  "title": "A price list for sacraments",
+  "text": "Parishioners complained about fees often enough that in February 1838 the bishop fixed one tariff for the whole diocese, from banns to funeral sermons, with weddings and burials priced by social standing."
+ },
+ {
+  "id": "C-006",
+  "doc": "D-001-04",
+  "title": "The red silk veil",
+  "text": "Between two diocesan circulars someone recorded a local event: on 25 August 1838 Miss Theresia Kulin gave the church a red silk veil worked with flowers. It is the only entry in the ten pages that was written about the parish itself."
+ },
+ {
+  "id": "C-007",
+  "doc": "D-001-01",
+  "title": "Reading list by decree",
+  "text": "The bishop doubled as a subscription agent: a Kassa bookseller's Hungarian edition of a French polemic on the Church of England, a Czech theological journal from Prague, a Pécs bishop's sermons. Each district was expected to buy at least one copy."
+ },
+ {
+  "id": "C-008",
+  "doc": "D-001-02",
+  "title": "An underage wedding reaches Buda",
+  "text": "A schoolmaster's son was married too young, the case went up to the Lieutenancy Council, and every parish got a reminder about the lawful age for marriage. Names in this entry are read with low confidence."
+ },
+ {
+  "id": "C-009",
+  "doc": "D-003-01",
+  "title": "A Slovak form filled in Hungarian",
+  "text": "The Belža entries survive as a later hand copy on a pre-printed Slovak form. The copyist ignored the printed headings, wrote Hungarian ones above them, and put legitimacy in the religion column and sex in the column meant for place of birth."
+ },
+ {
+  "id": "C-010",
+  "doc": null,
+  "title": "A village of boats and geese",
+  "text": "From the Senné municipal history (lead L-012): when the rivers flooded, villagers dammed the hollows and took the fish as the water fell, and hunted deer and hares stranded on hummocks from dugout boats. Every family is said to have owned a boat into the interwar years, and the village goose flock ran to nearly six thousand birds until 1975."
+ },
+ {
+  "id": "C-011",
+  "doc": null,
+  "title": "A fisherman from Lake Constance",
+  "text": "The same history says a Swiss fisherman was brought to Senné in the 1930s by the Sztáray family and introduced long seine nets to the marsh."
+ },
+ {
+  "id": "C-012",
+  "doc": "D-004-18",
+  "title": "Twins, two crosses, and the name used again",
+  "text": "György Demkó and Mária Hreskó had twin boys in May 1873, Mihály and János. Both names carry a cross in the register. The couple named a son János in 1875 and a son Mihály in 1882."
+ },
+ {
+  "id": "C-013",
+  "doc": "D-004-17",
+  "title": "Two pages too early",
+  "text": "Above the 1873 baptism of Mihály Hornyák the clerk admits the entry was written two pages ahead of where it belonged."
+ },
+ {
+  "id": "C-014",
+  "doc": "D-004-13",
+  "title": "One register, three scripts",
+  "text": "The same parish book is kept in Latin in 1831, Hungarian from 1834, and Cyrillic in 1857, when the priest of Lekárt entered a Viszoka baptism. The death note beside it, six weeks later, is back in Latin letters."
+ },
+ {
+  "id": "C-015",
+  "doc": "D-004-05",
+  "title": "Baptised by the other rite, with permission",
+  "text": "In 1831 Georgius Demko, son of a Greek Catholic father, was baptised by the Latin-rite parish priest of Pálóc, who noted that he had the consent of the local parish priest."
+ },
+ {
+  "id": "C-016",
+  "doc": "D-X01-01",
+  "title": "A seventeen-year-old gets his papers",
+  "text": "The certificate that proves Štefan Duska's parents was issued at Senné on 19 August 1947, with a revenue stamp and the parish seal, when he was seventeen. Three years later his mother was buried in Montréal."
+ },
+ {
+  "id": "C-017",
+  "doc": "D-005-03",
+  "title": "Alona, who was Anna",
+  "text": "The owner filed the 1816 Krak baptism under the name Alona. The child in the entry is Anna."
+ },
+ {
+  "id": "C-018",
+  "doc": "D-005-02",
+  "title": "András twice",
+  "text": "János Kóreny and Mária Krak of Jesztreb baptised a son András in 1844 and another, entered in Cyrillic as Andrej, in 1852."
+ },
+ {
+  "id": "C-019",
+  "doc": "D-005-04",
+  "title": "A date that corrects its own label",
+  "text": "A file labelled \"maybe 1876\" carries a note that the child died on 27 February 1870, two days after the baptism."
+ },
+ {
+  "id": "C-020",
+  "doc": "D-005-18",
+  "title": "The page header at last",
+  "text": "After thirty-odd strips cut from the middle of pages, one includes the printed Hungarian headings of the register: running number, month and day of birth and of baptism, name, sex, legitimacy, parents' names with religion and standing, residence and house number, godparents, baptising priest, remarks."
+ },
+ {
+  "id": "C-021",
+  "doc": "D-005-17",
+  "title": "Borbála twice, by two mothers",
+  "text": "Pál Kocsis of Solymos baptised a Borbála in 1843 with Anna Cservenyák and another Borbála in 1846 with Mária Iv[a]ncsák. The simplest reading is a wife and a daughter lost within three years."
+ },
+ {
+  "id": "C-022",
+  "doc": "D-005-22",
+  "title": "Twins need four godparents",
+  "text": "The Demko twins of June 1877 at Jesztreb were given a pair of godparents each."
+ },
+ {
+  "id": "C-023",
+  "doc": "D-005-32",
+  "title": "\"Look at parents, maybe incest\"",
+  "text": "The owner flagged a baptism of 1846 whose parents are Mihály Krak and Anna Krak. The godparents give it away: they are the pair who stand for every child of Mihály Bodnár and Anna Krak. The husband was written under his wife's surname once, and the name stuck to their son."
+ },
+ {
+  "id": "C-024",
+  "doc": "D-005-52",
+  "title": "A correction two generations late",
+  "text": "Beside the 1877 baptism of a son of 'Janko Krak', someone later wrote in Slovak: the father's correct name is Bodnár. The register was kept in Hungarian; the note is from after 1918."
+ },
+ {
+  "id": "C-025",
+  "doc": "D-005-34",
+  "title": "Dusko and Danko in one line",
+  "text": "In January 1894 the priest of Solymos wrote the mother as Dusko Mária and the godmother as Danko Mária, one above the other. It is the cleanest proof in the folder that these are two surnames, and it sank a reading this rebuild had made."
+ },
+ {
+  "id": "C-026",
+  "doc": "D-005-54",
+  "title": "A Duska of the third church",
+  "text": "Anna Duska of Solymos, a mother in 1894, is entered as Reformed. With Greek Catholic Dusko men at Szenna and a Roman Catholic Michal Duska in 1929, the surname turns up in all three churches of the two villages."
+ },
+ {
+  "id": "C-027",
+  "doc": "D-005-39",
+  "title": "Married in time for the second child",
+  "text": "Mihály Demko and Anna Jaros had Mária in February 1888, entered as illegitimate. A note says she was legitimised in 1889, the year their next child was baptised as legitimate."
+ },
+ {
+  "id": "C-028",
+  "doc": "D-005-58",
+  "title": "An entry with parents and no child",
+  "text": "At the end of 1870 the clerk filled in the parents, house and godparents for row 49, then wrote 1871 across the empty cells and started the numbering again. The child turns up three rows later as no. 4 of the new year: Anna, born 12 January."
+ },
+ {
+  "id": "C-029",
+  "doc": "D-006-01",
+  "title": "A family tree with 'preview' stamped across it",
+  "text": "The one file in the shared pile is a designer's chart of another family, with photographs, a coat of arms and a ribbon, and the Slovak word for 'preview' printed over it five times. Somebody was shown what a finished tree could look like before paying for one. Whether it was the owner is not known."
+ },
+ {
+  "id": "C-030",
+  "doc": "D-007-28",
+  "title": "Loursemis",
+  "text": "The owner's file name for a girl baptised in 1888 is 'Loursemis Duska'. The clerk wrote Zsuzsanna with a looped Zs and a long tail, and read cold it does look like Loursemis. She is plain Susan."
+ },
+ {
+  "id": "C-031",
+  "doc": "D-007-08",
+  "title": "A boy from somewhere called Bradenville",
+  "text": "Tucked under a December baptism at Solymos is a row for a child born far away, to a father the clerk calls a labourer instead of a farmer, with godparents nobody else in the book has and a note that it was copied from a certificate. The file name does not mention him."
+ },
+ {
+  "id": "C-032",
+  "doc": "D-007-33",
+  "title": "Mária, no, Mihály",
+  "text": "In January 1904 the pastor wrote 'Mária' in the name column for a boy, struck it out and wrote 'Mihály' above. The same couple's last child, ten months earlier, was a Mária."
+ },
+ {
+  "id": "C-033",
+  "doc": "D-007-39",
+  "title": "Thoma is a girl",
+  "text": "The strip filed as 'Thoma Duska 1832' has L for leány, girl, in the sex column and a name that reads Anna. No Thomas is in sight."
+ },
+ {
+  "id": "C-034",
+  "doc": "D-007-19",
+  "title": "The wrong wife",
+  "text": "In 1882 the clerk entered another woman's name as the mother of Mihály Duska's son, crossed the whole of it out and wrote Ilona."
+ },
+ {
+  "id": "C-035",
+  "doc": "D-008-04",
+  "source": "S-134",
+  "title": "The priest's little son",
+  "text": "The father in this 1809 baptism is 'the Very Reverend Mr Stephanus Demko, parish priest of Körösfő'. Greek Catholic parish clergy married, so a priest's child in the baptism book is ordinary. What is odd is that the entry gives the father his full style, the godfather his ('most illustrious'), the godmother hers and her husband's name, and the mother nothing at all.",
+  "original": "filiolus A. Rdi Dni Stephani Demko Parochi Körösfőensis",
+  "translation": "little son of the Very Reverend Mr Stephanus Demko, parish priest of Körösfő",
+  "why": "A married priest named Demko, and a mother left out of her own child's baptism entry.",
+  "tone": "odd"
+ },
+ {
+  "id": "C-036",
+  "doc": "D-008-02",
+  "source": "S-132",
+  "title": "Baptised and confirmed in one go",
+  "text": "Each of these Prešov entries says the infant was 'baptised and confirmed'. In the Greek rite the priest anoints the child at baptism, so a baby a day old is confirmed, where a Roman Catholic neighbour waited years for a bishop.",
+  "original": "baptisavit, et Confirmavit Andream",
+  "translation": "baptised and confirmed Andreas",
+  "why": "It is the one phrase that shows at a glance which church a Latin entry comes from.",
+  "tone": "history"
+ },
+ {
+  "id": "C-037",
+  "doc": "D-009-06",
+  "source": "S-140",
+  "title": "A death written beside a baptism, seventy-two years later",
+  "text": "Andreas Duska was baptised at Senné in 1868. In the remarks column of the same line, in a later hand and in another style of date, someone has added a cross and '1940. VIII. 22'. The parish was still going back to its Hungarian-era baptism book to close out lives in the Second World War.",
+  "original": "+ 1940. VIII. 22",
+  "translation": "died 22 August 1940",
+  "why": "One line of a register spans a whole life and three states.",
+  "tone": "history"
+ },
+ {
+  "id": "C-038",
+  "doc": "D-009-08",
+  "source": "S-142",
+  "title": "Szenna becomes Ungszenna",
+  "text": "Up to 1900 the priest writes the village as Szenna. By 1907 every line says Ungszenna, the county's name bolted on the front: the Hungarian state had gone through its villages giving each a name no other shared. Part 2 narrows it: the priest still writes Szenna in June 1903 and Ungszenna in May 1906.",
+  "original": "Ungszenna",
+  "translation": "Senné in Ung county",
+  "why": "A date for the rename can be read straight off the strips: after June 1903, by May 1906.",
+  "tone": "history"
+ },
+ {
+  "id": "C-039",
+  "doc": "D-009-04",
+  "source": "S-138",
+  "title": "The sexton's son",
+  "text": "The father of the boy baptised in October 1910 is entered as 'r.k. egyházfi', the Roman Catholic church's own sexton, so the priest was baptising his bell-ringer's child. The owner's file name has the surname as Harucsak; on the strip it looks more like Hankuscsik.",
+  "original": "r.k. egyházfi Ungszenna",
+  "translation": "Roman Catholic sexton, of Ungszenna",
+  "why": "An occupation that only the church register would bother to record so exactly.",
+  "tone": "odd"
+ },
+ {
+  "id": "C-040",
+  "doc": "D-009-08",
+  "source": "S-142",
+  "title": "Three daughters named Anna",
+  "text": "András Duska of house 73 baptised an Anna in July 1898, who lived nineteen days; an Anna in September 1899; and an Anna, a twin, in July 1907, who died at two. Her twin Susanna died on 29 October 1918, aged eleven. He had already buried a twelve-day-old son András in 1893 and named the next boy András.",
+  "original": "meghalt 1898. júl. 30. / + 1909. szept. 20 / + 1918. okt. 29.",
+  "translation": "died 30 July 1898 / died 20 September 1909 / died 29 October 1918",
+  "why": "The reuse of a dead child's name, three times over in one household, with the dates beside each.",
+  "tone": "sad"
+ },
+ {
+  "id": "C-041",
+  "doc": "D-009-02",
+  "source": "S-136",
+  "title": "The bishop's visit, noted mid-page",
+  "text": "Under the April 1893 baptisms a line runs across the columns: at the church visitation of 6 June 1893. The visitor read the book this far and it was marked.",
+  "original": "1893. év junius 6án [tartott] egyházi látogatáskor",
+  "translation": "at the church visitation held on 6 June 1893",
+  "why": "It dates the moment an inspector had this very page open.",
+  "tone": "history"
+ },
+ {
+  "id": "C-042",
+  "doc": "D-009-18",
+  "source": "S-152",
+  "title": "One man, three spellings, two jobs",
+  "text": "The husband of Mária Nyemcsik is a farmer at house 47 in 1896 and the church's sexton at house 64 in 1910. The owner's two file names spell him Haurcosnak and Harucsak; the strips look like Hankosnák and Hankuscsik. The godparents, András Raskóczki and Zsuzsanna Tkács, are the same both times, which is how it is known to be one man.",
+  "original": "Hankos[n]ák András rk. gazd. (1896); Hankuscsik András, r.k. egyházfi (1910)",
+  "translation": "András Hankosnák, Roman Catholic farmer (1896); András Hankuscsik, Roman Catholic sexton (1910)",
+  "why": "A surname nobody, clerk or collector, could settle on.",
+  "tone": "funny"
+ },
+ {
+  "id": "C-043",
+  "doc": "D-009-17",
+  "source": "S-151",
+  "title": "Duska or Drska?",
+  "text": "The owner's own file name asks the question. The father is a miller called János, and the third letter of his surname is a single hooked stroke that this clerk uses for both u and r. Five years earlier the same priest entered another miller of the village as Duska, without doubt.",
+  "original": "D[u]ska János rk. molnár Szenna",
+  "translation": "János D[u]ska, Roman Catholic miller, of Szenna",
+  "why": "Whether Senné had one milling family or two turns on one pen stroke.",
+  "tone": "odd"
+ },
+ {
+  "id": "C-044",
+  "doc": "D-009-94",
+  "source": "S-228",
+  "title": "Recovered from the Calvinists, 1718",
+  "text": "The first page of the Senné register is headed 'Memoria digna', worth remembering, and lists every parish priest since 'the church was recovered from the Calvinists in 1718'. So the Roman Catholic parish of Senné had been a Reformed church. In the next village, Solymos, the Reformed kept theirs, and that is where the other Duskas are.",
+  "original": "post recuperatam a Calvinis 1718. Ecclesiam",
+  "translation": "after the church was recovered from the Calvinists in 1718",
+  "why": "One line explains why one surname sits in a Catholic book in one village and a Calvinist book in the next.",
+  "tone": "history"
+ },
+ {
+  "id": "C-045",
+  "doc": "D-009-94",
+  "source": "S-228",
+  "title": "Burnt by a malicious man at eleven at night",
+  "text": "Under the long tenure of Georgius Balás the list of priests turns into a chronicle: windows mended, a new organ, and on 28 October 1865 at eleven at night something consumed by fire 'through a malicious man'. Six years later a new bell was blessed by the bishop, and one for Solymos with it.",
+  "original": "1865. 28. Octobris hora 11. nocturna [...] per malignum hominem igne absumptis",
+  "translation": "on 28 October 1865 at the eleventh hour of the night [...] consumed by fire through a malicious man",
+  "why": "Arson in the parish, recorded by the priest in the front of the baptism book.",
+  "tone": "history"
+ },
+ {
+  "id": "C-046",
+  "doc": "D-009-70",
+  "source": "S-204",
+  "title": "Kocsis the coachman",
+  "text": "In December 1911 the father of the child is 'Kocsis János, r.k. kocsis': János Coachman, Roman Catholic, coachman. The clerk writes the word twice in a row, once with a capital.",
+  "original": "Kocsis János, r.k. kocsis",
+  "translation": "János Kocsis, Roman Catholic, coachman",
+  "why": "A surname and a trade that are the same word, side by side.",
+  "tone": "funny"
+ },
+ {
+  "id": "C-047",
+  "doc": "D-009-42",
+  "source": "S-176",
+  "title": "Baptised by the midwife",
+  "text": "Where the priest's name should stand in the entry of 30 April 1887 is 'Belej Terézia, szülésznő', the midwife. There are no godparents. The child, György Nyemcsik, was born, baptised and dead on the one day.",
+  "original": "Belej Terézia szülésznő ... + 1887 apr. 30",
+  "translation": "Terézia Belej, midwife ... died 30 April 1887",
+  "why": "The one entry in the folder where a woman is the officiant, and why.",
+  "tone": "sad"
+ },
+ {
+  "id": "C-048",
+  "doc": "D-009-88",
+  "source": "S-222",
+  "title": "Two sets of Duska twins in a fortnight",
+  "text": "János Duska's wife bore twin girls on 29 and 30 June 1907, one each side of midnight. András Duska's wife bore twin girls on 13 July. Of the four, one died that August, one in 1908, one in 1909 and the last on 29 October 1918, aged eleven.",
+  "original": "Zsuzsanna, Borbála } ikrek ... Anna, Susanna } ikrek",
+  "translation": "Zsuzsanna and Borbála, twins ... Anna and Susanna, twins",
+  "why": "Four cousins born within fifteen days, with their deaths written beside them.",
+  "tone": "sad"
+ },
+ {
+  "id": "C-049",
+  "doc": "D-009-44",
+  "source": "S-178",
+  "title": "Made legitimate by permit no. 1125",
+  "text": "A boy baptised as illegitimate has the word altered to 'legitimate' and a remark signed by the priest: legitimised by his parents' later marriage, by leave of the diocesan authority, no. 1125 of 20 July 1895. If the owner's year for the baptism is right, the boy was twenty-two when the book was corrected.",
+  "original": "Utólagos házasság által törvényesíttetett. Egyh. m. Hatóság 1895. jul. 20. 1125. sz. engedély alapján.",
+  "translation": "Legitimised by subsequent marriage, on permit no. 1125 of the diocesan authority, 20 July 1895.",
+  "why": "The bishop's office had to give a numbered permit before one word in a village register could be changed.",
+  "tone": "odd"
+ },
+ {
+  "id": "C-050",
+  "doc": "D-009-52",
+  "source": "S-186",
+  "title": "A mother with two surnames, and a daughter who got the wrong one",
+  "text": "The clerk enters János Nyemcsik's wife as 'Hresko, otherwise Minarcsin'. When her daughter Anna Nyemcsik married András Duska and had children, the priest wrote her down as Anna Minarcsin for seven years: her mother's second name, not her father's. From 1903 he wrote Nyemecz.",
+  "original": "Hresko másk. Minarcsin Erzsébet",
+  "translation": "Erzsébet Hresko, otherwise Minarcsin",
+  "why": "It made one wife look like two. Logged as hypothesis H-051 as well.",
+  "tone": "odd"
+ },
+ {
+  "id": "C-051",
+  "doc": "D-009-28",
+  "source": "S-162",
+  "title": "Files that are not what they say",
+  "text": "In this delivery 'György Duska 1887' is a boy named Pál, 'György Kocsis 1887' is a girl named Anna, the twins of '1807' were born in 1907, 'Senne Baptisms pg 2' is page 1 again, two strips filed under Krak read Mraz, and 'Anna Tkacs Nyemcsik 1866' shows a Mária Mihalyó of 1886 with no Tkács or Nyemcsik in sight.",
+  "original": "(the owner's file names)",
+  "translation": "(the owner's file names)",
+  "why": "A reminder, six times over, to read the strip and not the label.",
+  "tone": "funny"
+ },
+ {
+  "id": "C-052",
+  "doc": "D-006-05",
+  "source": "S-233",
+  "title": "Buried with singing, or with a sermon",
+  "text": "The Reformed burial book of the 1830s has a column for how each person was buried. Most were buried 'with singing'. Some, Pál Duska among them in 1838, 'with a sermon'. A few got both. The column before it gives the illness: old age, fever, dropsy.",
+  "original": "Eltemettetések módja: Énekszóval / Tanítással",
+  "translation": "Manner of burial: with singing / with a sermon",
+  "why": "A register that records not only who died but how much ceremony they were given.",
+  "tone": "history"
+ },
+ {
+  "id": "C-053",
+  "doc": "D-006-03",
+  "source": "S-231",
+  "title": "'From Czech Origins'",
+  "text": "The owner's file name for the 1892 marriage page says it comes 'from Czech Origins'. The page is a printed Hungarian form, filled in for a village that was then in Hungary and is now in Slovakia. Nothing on it is Czech.",
+  "original": "Anna_Nyemco_and_Andras_Duska_Marriage_from_Czech_Origins",
+  "translation": "(file name)",
+  "why": "A label that names a country the record never belonged to.",
+  "tone": "funny"
+ },
+ {
+  "id": "C-054",
+  "doc": "D-006-07",
+  "source": "S-235",
+  "title": "A census read off a photograph of a screen",
+  "text": "The owner's copy of the census sheet is a photograph of a computer monitor: the weave of the screen's pixels runs across the page and an editing tool's magic-wand cursor sits in the corner. Somebody could see the sheet and could not download it.",
+  "original": "(image)",
+  "translation": "(image)",
+  "why": "The record is real and the copy is three removes from the paper: sheet, scan, screen, camera.",
+  "tone": "funny"
+ },
+ {
+  "id": "C-055",
+  "doc": "D-006-08",
+  "source": "S-236",
+  "title": "Annie Duska and the hotel gas plant",
+  "text": "On 16 January 1911 the gas lighting plant of the Hubbard hotel at Niobrara, Nebraska, exploded. Four people were killed, an Annie Duska among them, and the fire that followed burned the hotel. An Ohio paper ran it the next day in nine lines. Who she was is not known here.",
+  "original": "FOUR KILLED IN EXPL[OSION] ... Niobrara, Neb., Jan. 16.",
+  "translation": "(English)",
+  "why": "The only Duska in the archive to reach a newspaper, and the only one found west of the Mississippi.",
+  "tone": "sad"
+ },
+ {
+  "id": "C-056",
+  "doc": "D-010-01",
+  "source": "S-237",
+  "title": "Two Anna Kraks in one year, each a János Krak's daughter",
+  "text": "An Anna Krak was baptised at Sztára in January 1848, daughter of a János Krak. Another Anna Krak was born at Jesztreb in October 1848, daughter of another János Krak. One woman of that name later married György Duska of Senné. The owner's folder says 'Final' on the first; the second lived an hour's walk from the groom.",
+  "original": "Anna törv. | Krak János R.K. / [Z]ebro Maria | Sztárai lakosok",
+  "translation": "Anna, legitimate. János Krak, Roman Catholic, and Mária [Z]ebro, residents of Sztára.",
+  "why": "A same-name, same-year, same-father's-name pair is the classic way to attach the wrong parents to a bride.",
+  "tone": "odd"
+ },
+ {
+  "id": "C-057",
+  "doc": "D-010-01",
+  "source": "S-237",
+  "title": "The first baptism of 1848",
+  "text": "The entry stands directly under the year heading '1848dik év'. Ten weeks later Pest rose, and in April the diet abolished serfdom. This Anna was born under one order of things and grew up under another.",
+  "original": "1848dik év",
+  "translation": "The year 1848",
+  "why": "The date on the page is the hinge year of the century for every peasant family in these books.",
+  "tone": "history"
+ }
 ]

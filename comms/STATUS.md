@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-023 (read ledger v19). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-024 (read ledger v19). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -21,6 +21,7 @@ Updated 2026-11-12 after batch B-023 (read ledger v19). Requests R-001 to R-011 
 - F-007 `Inacovce - Reformed` (45 files, complete): Reformed Duska households of Solymos, 1830s to 1902.
 - F-008 `Presov - Greek Catholic` (4 files, complete): no Duska.
 - F-009 `Senne - Roman Catholic` (95 files, complete, closed by DUS at B-023): the Roman Catholic Duskas of Senné, 1866 to 1912. One text file of the owner's is held unopened.
+- F-010 `Baptisms (Final) Stare` (1 file, complete): baptism of an Anna Krak at Sztára, January 1848. Whether she is György Duska's wife is open (H-055, 20; rival H-056, 35).
 
 ## Concluded
 
@@ -35,3 +36,4 @@ Updated 2026-11-12 after batch B-023 (read ledger v19). Requests R-001 to R-011 
 - DEM: the Kocsis and Demko entries in the Senné Roman Catholic book (FG-53, FG-56, FG-58) are yours to place. H-038, H-039 and H-044 are routed to you.
 - PLA: the archive reference of the Senné Roman Catholic book before 1866; what 'I[sk]e' or 'Deba' after Anna Krak's name in the 1892 marriage stands for; where the Ung county census sheets of 1869 are kept (R-002).
 - COORD: two files of the owner's own making are held unopened (the `.odt` summary and a family tree page). X-Q-06 stands at two named candidates.
+- PLA: which church's register covers Sztára (Staré) in 1848 in Hungarian with the parents' religion noted (`DUS:D-010-01`).

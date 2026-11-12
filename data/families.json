@@ -1,1217 +1,1233 @@
 [
-  {
-    "id": "FG-01",
-    "husband": "György Demkó",
-    "wife": "Mária Hreskó",
-    "rite": "He Greek Catholic. She Roman Catholic in 1873 to 1882. In 1857 her rite mark was first read here as Greek Catholic; the Demko agent reads it as Roman Catholic, and on a second look that is the likelier reading.",
-    "homes": "Viszoka 79 (1857); [Feke]temező [?] 33 (1873); Viszoka 121 (1875, 1879); Viszoka 132 (1882)",
-    "children": [
-      "Mária, b. 2 Jan 1857, d. 15 Feb 1857",
-      "Mihály and János, twins, b. 29 May [1873], both marked with a cross",
-      "János, b. 29 Mar 1875",
-      "Borbála, b. 23 Apr [1879]",
-      "Mihály, b. 19 Aug 1882"
-    ],
-    "note": "Whether the couple of 1857 is the couple of 1873 to 1882 is hypothesis H-022. No child is recorded here between 1857 and 1873. Names reused after a death: Mihály (1873, then 1882) and János (1873, then 1875). The four are kept as four people.",
-    "route": "demko",
-    "documents": [
-      "D-002-01",
-      "D-004-03",
-      "D-004-08",
-      "D-004-13",
-      "D-004-16",
-      "D-004-18"
-    ],
-    "route_note": "Demko agent"
-  },
-  {
-    "id": "FG-02",
-    "husband": "János Demkó",
-    "wife": "Szlekár, given as Anna in 1874 and Mária in 1877, 1879 and 1883",
-    "rite": "Both Greek Catholic",
-    "homes": "Viszoka (1874); Viszoka 141 (1877); Viszoka 120 (1879); Viszoka (1883)",
-    "children": [
-      "Anna, b. 13 Oct [1874]",
-      "Erzsébet, b. 10 Apr [1877]",
-      "János, b. 2 Mar [1879], d. 14 Mar 1879",
-      "Zsuzsánna, b. 6 Jan 1883"
-    ],
-    "note": "House 120 in 1879 is next door to György Demkó at 121. One wife under two given names, or two wives, is not settled. Under ruling X-017 the change of the mother's given name between 1874 and 1877 is read as a possible second marriage, perhaps to a sister, until a record shows one wife.",
-    "route": "demko",
-    "documents": [
-      "D-004-02",
-      "D-004-04",
-      "D-004-09",
-      "D-004-20"
-    ],
-    "route_note": "Demko agent"
-  },
-  {
-    "id": "FG-03",
-    "husband": "György Demko",
-    "wife": "Anna Samudovszki [?]",
-    "rite": "He Greek Catholic",
-    "homes": "Viszoka",
-    "children": [
-      "György, b. Sept [1834]",
-      "János, b. [1838]"
-    ],
-    "note": "Under ruling X-017 a change of mother between baptisms to one father is a second marriage until shown to be a second man: see H-031.",
-    "route": "demko",
-    "documents": [
-      "D-004-06",
-      "D-004-07"
-    ],
-    "route_note": "Demko agent"
-  },
-  {
-    "id": "FG-04",
-    "husband": "Georg. Demko",
-    "wife": "Barbara Cs[encsarik?]",
-    "rite": "He Greek Catholic",
-    "homes": "Viszoka",
-    "children": [
-      "Georgius, b. [1831]"
-    ],
-    "note": "A second father named György Demko at Viszoka in the same years as FG-03, or the same man with an earlier wife. Under ruling X-017 a change of mother between baptisms to one father is a second marriage until shown to be a second man: see H-031.",
-    "route": "demko",
-    "documents": [
-      "D-004-05"
-    ],
-    "route_note": "Demko agent"
-  },
-  {
-    "id": "FG-05",
-    "husband": "György Demko",
-    "wife": "Mária Vaszil [?]",
-    "rite": "Greek Catholic",
-    "homes": "Viszoka",
-    "children": [
-      "Mária, b. [1840]"
-    ],
-    "note": "May be the father of FG-03 or FG-04 with a later wife, or a third man. Under ruling X-017 a change of mother between baptisms to one father is a second marriage until shown to be a second man: see H-031.",
-    "route": "demko",
-    "documents": [
-      "D-004-12"
-    ],
-    "route_note": "Demko agent"
-  },
-  {
-    "id": "FG-06",
-    "husband": "György Tirpák",
-    "wife": "Mária Demko",
-    "rite": "Both Greek Catholic",
-    "homes": "Viszoka",
-    "children": [
-      "Maria, b. Oct [1832]",
-      "János, b. [1835]",
-      "Mihály, b. [1839]"
-    ],
-    "note": "A Demko daughter of the generation born about 1800 to 1812.",
-    "route": "demko",
-    "documents": [
-      "D-004-10",
-      "D-004-15",
-      "D-004-19"
-    ],
-    "route_note": "Demko agent"
-  },
-  {
-    "id": "FG-07",
-    "husband": "István Kocsis",
-    "wife": "Erzsébet Dubics",
-    "rite": "He Greek Catholic, she Roman Catholic",
-    "homes": "Mogyorós (1832); Nagy[...] (1836)",
-    "children": [
-      "Maria, b. [1832]",
-      "Julianna, b. 27 Jan [1836]"
-    ],
-    "note": "No stated link to a Demko or a Duska. Why the owner kept the Kocsis entries is not known. Since B-009: Kocsis is the maiden name of Ahn 19 by the Demko agent's 1906 civil record (DM-D-008 @57861ad), which is why the owner kept Kocsis entries.",
-    "route": "demko",
-    "documents": [
-      "D-004-11",
-      "D-004-14"
-    ],
-    "route_note": "Duska agent keeps; Places agent for the villages"
-  },
-  {
-    "id": "FG-08",
-    "husband": "Pál Hornyák",
-    "wife": "Erzsébet Kocsis",
-    "rite": "He Greek Catholic, she Reformed",
-    "homes": "Csicser 90",
-    "children": [
-      "Mihály, b. 15 May 1873"
-    ],
-    "note": "A second Kocsis record, a generation after FG-07. Since B-009: Kocsis is the maiden name of Ahn 19 by the Demko agent's 1906 civil record (DM-D-008 @57861ad), which is why the owner kept Kocsis entries.",
-    "route": "demko",
-    "documents": [
-      "D-004-17"
-    ],
-    "route_note": "Duska agent keeps"
-  },
-  {
-    "id": "FG-09",
-    "husband": "György Szulák",
-    "wife": "Mária Hre[k]ó",
-    "rite": "Both Greek Catholic",
-    "homes": "Tán. [?]; sponsors of Viszoka",
-    "children": [
-      "Anna, b. 7 May [1872]"
-    ],
-    "note": "The owner's file name calls the child Anna Demko. The strip does not show that name.",
-    "route": "demko",
-    "documents": [
-      "D-004-01"
-    ],
-    "route_note": "Demko agent, to check against the full page"
-  },
-  {
-    "id": "FG-10",
-    "husband": "János Koren (Kóreny, Koreň); written Hrin [?] in [1839] and [1841]",
-    "wife": "Mária Krak",
-    "rite": "Greek Catholic",
-    "homes": "Jesztreb (Jastrabie)",
-    "children": [
-      "János, b. 17 Jun [1837]",
-      "Mihály, b. 11 May [1839] (father written Hrin)",
-      "Anna, b. 21 May [1841] (father written Hrin)",
-      "András, b. 24 Oct [1844]",
-      "Maria, b. 15 Jul [label says 1868; probably the 1840s]",
-      "Zuzanna, b. 10 Feb [1851]",
-      "Andrej, b. 26 Nov [1852]"
-    ],
-    "note": "One wife, Maria Krak, one village, and the same godparents throughout (Mihály Fedor and Anna Mraz), so the fathers written Koren and Hrin are taken as one man (H-034). Two sons named András; the first probably died.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-005-01",
-      "D-005-02",
-      "D-005-29",
-      "D-005-31",
-      "D-005-42",
-      "D-005-47",
-      "D-005-57"
-    ]
-  },
-  {
-    "id": "FG-11",
-    "husband": "Lucas Krak",
-    "wife": "Zuzanna",
-    "rite": "Greek rite",
-    "homes": "Jesztreb",
-    "children": [
-      "Michael, bapt. [1814]",
-      "Anna, bapt. [1816]"
-    ],
-    "note": "The earliest Krak in the folder.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-005-03",
-      "D-005-46"
-    ]
-  },
-  {
-    "id": "FG-12",
-    "husband": "Mihály Bodnár; entered as Mihály Krak in [1846]",
-    "wife": "Anna Krak",
-    "rite": "Both Greek Catholic",
-    "homes": "Jesztreb",
-    "children": [
-      "György, b. 21 Apr [1844]",
-      "János, b. 26 Oct [1846]",
-      "János, b. 11 Jul [label says 1868]",
-      "Anna, b. 22 Jun [1853]"
-    ],
-    "note": "Landholding farmer. Godparents Pál Mraz and Erzsébet Hmily throughout. The husband took, or was given, his wife's surname in one entry, and his son János is 'Krak' in the 1870s with a later note that the correct name is Bodnár (FG-23, H-033). Two sons named János.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-005-07",
-      "D-005-23",
-      "D-005-26",
-      "D-005-32"
-    ]
-  },
-  {
-    "id": "FG-13",
-    "husband": "János (Joannes) Szmeriga",
-    "wife": "Zsuzsi (Susana) Demko",
-    "rite": "Both Greek Catholic",
-    "homes": "Jesztreb; house 29 [or 23] in 1864",
-    "children": [
-      "György, b. 5 Apr [1845]",
-      "András, b. 13 Nov [1864]"
-    ],
-    "note": "Nineteen years between the two baptisms, with the same godparents, Mihály Holubik and Zsuzsi Mraz, so one couple. Landholding farmer in 1845.",
-    "route": "demko",
-    "route_note": "",
-    "documents": [
-      "D-005-21",
-      "D-005-05"
-    ]
-  },
-  {
-    "id": "FG-14",
-    "husband": "Joannes Sirko [?]",
-    "wife": "Elisab. Demko",
-    "rite": "Greek Catholic book",
-    "homes": "Szenna",
-    "children": [
-      "Andreas, b. 10 Dec [1861]"
-    ],
-    "note": "A Demko woman married into Senné by 1861.",
-    "route": "demko",
-    "route_note": "",
-    "documents": [
-      "D-005-06"
-    ]
-  },
-  {
-    "id": "FG-15",
-    "husband": "Michael (Miso, Mihály) Demko",
-    "wife": "Maria Lazár (Lazór)",
-    "rite": "Both Greek Catholic",
-    "homes": "Jesztreb 28 (1864), 32 (1866), 54 (1871), 33 (1875), [8]2 (1877), 47 (1884), 64 (1885)",
-    "children": [
-      "Maria, b. 21 Aug [1864]",
-      "Michael, b. 14 or 15 Mar 1866",
-      "Anna, b. 12 Jan [1871] (first begun as row 49 of 1870)",
-      "Susanna, b. 12 May [1875], d. 10 Apr 1876",
-      "János and György, twins, b. 27 Jun 1877",
-      "Erzsébet, b. 13 Aug [1884], d. 11 Feb 1885",
-      "János, b. 21 Dec [1885]"
-    ],
-    "note": "One cottar couple over twenty-one years and seven house numbers. A Joannes Krak is godfather in 1875. The Michael of 1866 is a candidate for the 'Mihály Demko the younger' of FG-16. Two sons named János (1877 twin, 1885).",
-    "route": "demko",
-    "route_note": "",
-    "documents": [
-      "D-005-08",
-      "D-005-18",
-      "D-005-22",
-      "D-005-27",
-      "D-005-38",
-      "D-005-45",
-      "D-005-56",
-      "D-005-58"
-    ]
-  },
-  {
-    "id": "FG-16",
-    "husband": "Mihály Demko the younger",
-    "wife": "Anna Jaros",
-    "rite": "Both Greek Catholic",
-    "homes": "Jesztreb; house 71 in [1889]",
-    "children": [
-      "Mária, b. 11 Feb [1888], born illegitimate, legitimised 1889",
-      "Anna, b. 26 Nov [1889], d. 17 Mar 1891"
-    ],
-    "note": "Called 'the younger' in [1889]. The couple's first child was entered as illegitimate in February [1888] and legitimised in 1889, so they married between the two baptisms. Not the Mihály Demkó and Anna Batronszki of the Demko agent's 'maybe' strip, who are another couple in another village.",
-    "route": "demko",
-    "route_note": "",
-    "documents": [
-      "D-005-09",
-      "D-005-39"
-    ]
-  },
-  {
-    "id": "FG-17",
-    "husband": "János Danko",
-    "wife": "Mari Csizmár in 1877; Mária Nyemcsik in [1896]",
-    "rite": "He Greek Catholic. Csizmár Greek Catholic; Nyemcsik Roman Catholic",
-    "homes": "Szenna 72 (1877); Szenna 90 ([1896])",
-    "children": [
-      "Anna, b. 26 Nov 1877",
-      "Mihály, b. 1 Nov [1896]"
-    ],
-    "note": "Not a Duska family: the surname is Danko. One man with two wives, or a father and son of the same name; nineteen years separate the entries.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-005-10",
-      "D-005-53"
-    ]
-  },
-  {
-    "id": "FG-18",
-    "husband": "Joannes [D]enko [?]",
-    "wife": "[not read]",
-    "rite": "He Greek Catholic",
-    "homes": "Szenna",
-    "children": [
-      "Andreas, b. 25 Feb, d. 27 Feb 1870"
-    ],
-    "note": "Surname faint; more likely Danko than Demko or Dusko now that a Danko family is documented at Szenna.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-005-04"
-    ]
-  },
-  {
-    "id": "FG-19",
-    "husband": "János Kocsis",
-    "wife": "Anna Kováts [or Hováts]; her given name read as Mária [?] in 1875",
-    "rite": "He Greek Catholic, she Roman Catholic",
-    "homes": "Solymos 13 (1877); 13 or 73 (1875)",
-    "children": [
-      "Anna, b. 18 Mar [1875]",
-      "Anna, b. 16 Apr 1877"
-    ],
-    "note": "Two daughters named Anna two years apart: the first very probably died. Same godparents both times, Mihály Knyezső and Anna Ádám, born Hutkó. A candidate couple for the parents of Mária Kocsis, Ahn 19, born at Solymos about 1886 (Demko agent, DM-H-025).",
-    "route": "demko",
-    "route_note": "",
-    "documents": [
-      "D-005-11",
-      "D-005-12"
-    ]
-  },
-  {
-    "id": "FG-20",
-    "husband": "Mihály Kocsis",
-    "wife": "Mária Knyezso",
-    "rite": "He Greek Catholic, she Roman Catholic",
-    "homes": "Solymos 19",
-    "children": [
-      "Mária, b. 27 Feb [1887]",
-      "Anna, b. 19 Oct [1889]"
-    ],
-    "note": "Mother's surname now clear: Knyezso, Roman Catholic. Their Mária of 1887 is the nearest fit in the archive for Mária Kocsis, mother of Maria Demko (H-038).",
-    "route": "demko",
-    "route_note": "",
-    "documents": [
-      "D-005-13",
-      "D-005-43"
-    ]
-  },
-  {
-    "id": "FG-21",
-    "husband": "Pál Kocsis",
-    "wife": "Anna Cservenyák in [1843]; Mária Iv[a]ncsák [?] in [1846]",
-    "rite": "All Greek Catholic",
-    "homes": "Solymos",
-    "children": [
-      "Borbála, b. 20 Jul [1843] (mother Cservenyák)",
-      "Borbála, b. 5 [Sept?] [1846] (mother read Iv[a]ncsák)",
-      "Mihály, b. 20 Nov [1847] (mother Cservenyák)"
-    ],
-    "note": "Anna Cservenyák is the mother before and after the entry of [1846]. So the B-011 reading of a first wife who died does not hold: either two men named Pál Kocsis lived at Solymos or the [1846] mother was misread.",
-    "route": "demko",
-    "route_note": "",
-    "documents": [
-      "D-005-16",
-      "D-005-17",
-      "D-005-50"
-    ]
-  },
-  {
-    "id": "FG-22",
-    "husband": "János Krak",
-    "wife": "Zsuzs. Michalko",
-    "rite": "Greek Catholic book",
-    "homes": "Jesztreb; house [6]5 in [1853]",
-    "children": [
-      "Maria, b. 16 Aug [1844]",
-      "Anna, b. 14 Oct [1848]",
-      "Ioann, b. 6 Feb [1853] (mother read with doubt)"
-    ],
-    "note": "Cottar.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-005-15",
-      "D-005-33",
-      "D-005-44"
-    ]
-  },
-  {
-    "id": "FG-23",
-    "husband": "János (Janko) Krak, properly Bodnár by a later note",
-    "wife": "Anna Mraz",
-    "rite": "He Greek Catholic, she Roman Catholic",
-    "homes": "Jesztreb 19 (1871, 1877, 1880); 20 (1876)",
-    "children": [
-      "Anna, b. 17 Nov [1871]",
-      "Georgius, b. 4 May 1876, d. 28 Aug 1876",
-      "Mihály, b. 14 Aug 1877",
-      "József, b. 18 Feb 1880"
-    ],
-    "note": "A later hand wrote beside the 1877 entry, in Slovak, that the father's correct name is Bodnár. He is taken to be a son of Mihály Bodnár and Anna Krak (FG-12), known by his mother's family name. He stands godfather to a Demko child in 1875.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-005-14",
-      "D-005-20",
-      "D-005-37",
-      "D-005-52"
-    ]
-  },
-  {
-    "id": "FG-24",
-    "husband": "Georgius Szeman",
-    "wife": "Maria Nyemcsik",
-    "rite": "Both Greek Catholic",
-    "homes": "Nagy Szere[tva] 68",
-    "children": [
-      "Georgius, b. 2 Mar [1862]"
-    ],
-    "note": "No link to any other family in the archive is visible. The owner labelled the file with the mother's surname.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-005-19"
-    ]
-  },
-  {
-    "id": "FG-25",
-    "husband": "György (Georgius, Gyuri) Dusko / Duska",
-    "wife": "Mária Hornyák; read [Prachovnyik?] in [1869]",
-    "rite": "He Greek Catholic, she Roman Catholic",
-    "homes": "house 79, village not read ([1869]); Szenna 31 ([1874]); Solymos 31 (1877)",
-    "children": [
-      "Mihail, b. 5 Sep [1869] (faint; surname and mother doubtful)",
-      "Maria, b. 10 Oct [1874]",
-      "György, b. 30 Mar 1877"
-    ],
-    "note": "The one Duska household the archive follows across several baptisms. Godparents come from the Szabó and Adam families each time. A Joannes of [1872] at Nagy Szeretva may be theirs but is kept apart (FG-31).",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-005-24",
-      "D-005-40",
-      "D-005-48"
-    ]
-  },
-  {
-    "id": "FG-26",
-    "husband": "Mihály Dusko",
-    "wife": "Maria Szokol[...] [?]",
-    "rite": "He Greek Catholic, she Roman Catholic",
-    "homes": "Szenna",
-    "children": [
-      "János, b. 16 Jun [1846]"
-    ],
-    "note": "The earliest Dusko in the archive. A generation older than György Dusko.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-005-28"
-    ]
-  },
-  {
-    "id": "FG-27",
-    "husband": "György Kocsis",
-    "wife": "Anna Ivanko",
-    "rite": "Both Greek Catholic",
-    "homes": "Solymos 85 (1879), 111 (1885), 107 ([1891])",
-    "children": [
-      "Mihály, b. 20 Sep 1879",
-      "János, b. 10 Jan 1885",
-      "Pál, b. 29 Jun [1891]"
-    ],
-    "note": "A third Kocsis household at Solymos in the 1880s. No daughter Mária among the strips kept.",
-    "route": "demko",
-    "route_note": "",
-    "documents": [
-      "D-005-30",
-      "D-005-51",
-      "D-005-55"
-    ]
-  },
-  {
-    "id": "FG-28",
-    "husband": "Mihály Kucserávecz",
-    "wife": "Mária Dusko",
-    "rite": "He Greek Catholic, she Roman Catholic",
-    "homes": "Jesztreb",
-    "children": [
-      "János, b. 5 Jan 1894"
-    ],
-    "note": "She may be the Maria Duska baptised in [1874] (H-037).",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-005-34"
-    ]
-  },
-  {
-    "id": "FG-29",
-    "husband": "János Koczák",
-    "wife": "Zuzánna Kepej",
-    "rite": "He Greek Catholic, she Roman Catholic",
-    "homes": "Jesztreb 1",
-    "children": [
-      "György, b. 11 Feb [1882]"
-    ],
-    "note": "Filed by the owner as Kocsis. No link to the Kocsis families of Solymos is visible.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-005-25"
-    ]
-  },
-  {
-    "id": "FG-30",
-    "husband": "Gergely Knyezso",
-    "wife": "Borbála Halász",
-    "rite": "He Greek Catholic, she Roman Catholic",
-    "homes": "Solymos 97",
-    "children": [
-      "János, b. 5 May [1886], d. 13 Dec 1892"
-    ],
-    "note": "Knyezso is the maiden name of the wife of Mihály Kocsis (FG-20).",
-    "route": "demko",
-    "route_note": "",
-    "documents": [
-      "D-005-35"
-    ]
-  },
-  {
-    "id": "FG-31",
-    "husband": "Georgius Du[s]ko or Danko",
-    "wife": "Maria Hrechovszk[i] [?]",
-    "rite": "She Roman Catholic",
-    "homes": "Nagy Szeretva 48",
-    "children": [
-      "Joannes, b. 22 Apr [1872]"
-    ],
-    "note": "Kept apart from FG-25: different village, different godparents, and a surname that may be Danko.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-005-36"
-    ]
-  },
-  {
-    "id": "FG-32",
-    "husband": "Mihály Holos",
-    "wife": "Mária Demko",
-    "rite": "Both Greek Catholic",
-    "homes": "Jesztreb 40 ([1890]); 34 ([1891])",
-    "children": [
-      "Mihály, b. 21 Jul [1890], d. 16 Jan 1891",
-      "Mária, b. 2 Dec [1891], d. 4 Feb 1894"
-    ],
-    "note": "Houseless cottar. She may be the Maria Demko baptised at Jesztreb in [1864] (FG-15).",
-    "route": "demko",
-    "route_note": "",
-    "documents": [
-      "D-005-41",
-      "D-005-49"
-    ]
-  },
-  {
-    "id": "FG-33",
-    "husband": "Mihály Ilyko",
-    "wife": "Anna Duska",
-    "rite": "He Greek Catholic, she Reformed",
-    "homes": "Solymos 43",
-    "children": [
-      "Mihály, b. 17 Jun [1894]"
-    ],
-    "note": "A Duska of the Reformed church. Iňačovce had a Reformed congregation.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-005-54"
-    ]
-  },
-  {
-    "id": "FG-34",
-    "husband": "András Duska (Dusko)",
-    "wife": "Borbála Plyuksa [Pluchta]",
-    "rite": "Reformed",
-    "homes": "Solymos; no house numbers in these years",
-    "children": [
-      "Susanna, bapt. 12 May [1829]",
-      "Anna [?], bapt. 1 Feb 1832",
-      "János, b. 25 May [1834]",
-      "Susanna, b. 21 Jan [1837]",
-      "Mihály, b. 25 Jul [1840]",
-      "Borbála, bapt. 20 May [1843]"
-    ],
-    "note": "The earliest Duska household in the archive. Two daughters named Susanna, eight years apart: the first is presumed to have died (rule 20). The mother's surname is written Plyuksa; a Pluchta family stands godparent to the next generation.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-007-12",
-      "D-007-23",
-      "D-007-34",
-      "D-007-38",
-      "D-007-39",
-      "D-007-43"
-    ]
-  },
-  {
-    "id": "FG-35",
-    "husband": "János Duska (Dusko)",
-    "wife": "Anna Hura",
-    "rite": "Reformed",
-    "homes": "Solymos 33 ([1852], 1857)",
-    "children": [
-      "Anna, bapt. 8 Sep [1841]",
-      "János, bapt. 8 Jun [1844]",
-      "János, b. 23 Aug [1852]",
-      "György, b. 17 Jul 1857"
-    ],
-    "note": "A second Duska couple of the same years as FG-34; János is not the János of 1834, who was seven in 1841. Two sons named János. Commoner in 1852, cottar in 1857.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-007-04",
-      "D-007-16",
-      "D-007-24",
-      "D-007-25"
-    ]
-  },
-  {
-    "id": "FG-36",
-    "husband": "György Duska",
-    "wife": "[N...] Zsuzsanna",
-    "rite": "Reformed",
-    "homes": "Solymos",
-    "children": [
-      "György, bapt. 11 Apr 1847"
-    ],
-    "note": "One washed-out entry. A third Duska father of the 1840s.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-007-14"
-    ]
-  },
-  {
-    "id": "FG-37",
-    "husband": "András Dusko",
-    "wife": "Erzsébet Ková[cs] [?]",
-    "rite": "Reformed",
-    "homes": "Solymos 44 ([1852])",
-    "children": [
-      "György, b. 10 Apr [1852]"
-    ],
-    "note": "Either András of FG-34 with a second wife, nine years after his last child by Borbála, or a younger András. A change of mother is a second marriage until a second man is shown (rule 20). House 44 is a Duska house again in 189[3].",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-007-15"
-    ]
-  },
-  {
-    "id": "FG-38",
-    "husband": "János Dusko",
-    "wife": "Anna Kitko (Kitzka; written Minda once and corrected)",
-    "rite": "Reformed",
-    "homes": "Solymos 27 ([1863]), 24 ([1867], [1870]), 23 ([1872]), 34 ([1873], 1876)",
-    "children": [
-      "János, b. 1 Nov [1863]",
-      "Mihály, b. 3 Oct [1867]",
-      "György, b. 17 Jul [1870]",
-      "András, b. 8 Nov [1872]",
-      "Zsuzsanna, b. 9 Oct [1873]",
-      "György, b. 11 Apr 1876"
-    ],
-    "note": "The godparents János Hressan and his wife stand at every baptism. Two sons named György. The father may be the János of [1834] (FG-34) or either János of FG-35.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-007-01",
-      "D-007-17",
-      "D-007-18",
-      "D-007-30",
-      "D-007-41",
-      "D-007-44"
-    ]
-  },
-  {
-    "id": "FG-39",
-    "husband": "Mihály Dusko (Duska), 'the younger' in [1882]",
-    "wife": "Ilona Mihalko",
-    "rite": "Reformed",
-    "homes": "Solymos 33",
-    "children": [
-      "Anna, b. 17 Nov [1871]",
-      "Mihály, b. 24 Sep [1873]",
-      "György, b. 10 Jan [1882]"
-    ],
-    "note": "At house 33, where János Duska and Anna Hura lived in the 1850s. 'The younger' implies an older Mihály Duska alive in 1882. The Anna of [1871] may be the Reformed Anna Duska who is a mother at Solymos 43 in the Greek Catholic book in 1894.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-007-05",
-      "D-007-19",
-      "D-007-35"
-    ]
-  },
-  {
-    "id": "FG-40",
-    "husband": "György Duska",
-    "wife": "Zsuzsanna Valyocsik",
-    "rite": "Reformed",
-    "homes": "Solymos 26 [?] (1883), 37 [?] ([1888])",
-    "children": [
-      "György, b. 1 Feb 1883",
-      "Zsuzsanna, b. 21 Apr [1888]"
-    ],
-    "note": "The father may be the György of 1857 (FG-35), of [1852] (FG-37) or of 1847 (FG-36).",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-007-20",
-      "D-007-28"
-    ]
-  },
-  {
-    "id": "FG-41",
-    "husband": "Mihály Duska",
-    "wife": "Borbála Dzurina",
-    "rite": "Reformed",
-    "homes": "Solymos 44",
-    "children": [
-      "Mihály, b. 29 Jan 189[3]"
-    ],
-    "note": "The father may be the Mihály of [1867] (FG-38). The child is one of two candidates in this folder for Michal Duska, Ahn 8 (H-041).",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-007-36"
-    ]
-  },
-  {
-    "id": "FG-42",
-    "husband": "György Duska, labourer",
-    "wife": "Mária Vaszilyo [?]",
-    "rite": "Reformed",
-    "homes": "a place written 'Bradenville' [?]",
-    "children": [
-      "Mihály, b. 8 [October?] [1902]"
-    ],
-    "note": "A family living away from the village, whose child was entered in the home book from a certificate. The father may be the György of 1876 or [1870] (FG-38) or of [1882] (FG-39). The child is the other candidate for Ahn 8 (H-040).",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-007-08"
-    ]
-  },
-  {
-    "id": "FG-43",
-    "husband": "János Kudrócs (from 1896)",
-    "wife": "Zsuzsanna Duska, of Solymos 44",
-    "rite": "Reformed",
-    "homes": "Solymos 44 ([1893]), 11 ([1897])",
-    "children": [
-      "János, b. [1893], illegitimate, legitimised 4 May 1896",
-      "Anna, b. 21 Nov [1897]"
-    ],
-    "note": "Also filed here, without being joined to the couple: Anna, b. 24 Feb [1898], daughter of Mihály Ku[...]s and a Zsuzsánna Duska; and János, b. 15 Apr [1920], illegitimate son of a Zsuzsanna Duska, who may be the Zsuzsanna of [1888] (FG-40). Three women of one name are possible.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-007-02",
-      "D-007-03",
-      "D-007-26",
-      "D-007-27"
-    ]
-  },
-  {
-    "id": "FG-44",
-    "husband": "Mihály [Marczincsák] Elecsko [?]",
-    "wife": "Anna Duska",
-    "rite": "Reformed",
-    "homes": "Solymos",
-    "children": [
-      "Mária, b. 25 Mar [1903]",
-      "Mihály, b. 23 Jan 1904"
-    ],
-    "note": "The children are not Duskas; the owner's labels call them so. The husband's surname is written two ways.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-007-29",
-      "D-007-33"
-    ]
-  },
-  {
-    "id": "FG-45",
-    "husband": "Knyezso households of Solymos (several men)",
-    "wife": "see children",
-    "rite": "Reformed",
-    "homes": "Solymos 47, 46 [?], 5[6], 41, 59, 82, 64, 44, 99",
-    "children": [
-      "György Knyezso and Anna Kontra: Anna 1892, György 1894",
-      "György Knyezso and Anna Tomócsik: György 1890",
-      "György Knyezso and Mária Dzurina: Zsuzsanna 1888",
-      "György Knyezso and Anna Dzurina: Anna 1910",
-      "Mihály Knyezso and Erzsébet Sárik: Anna 1884",
-      "Mihály Knyezso and Anna Onderko: Mihály 1890, Zsuzsanna 1897",
-      "Mihály Knyezso and Erzsébet Sipos: Pál 1904",
-      "Mihály Knyezso Estók and Zsuzsanna Dzurina: Mihály 1904",
-      "János Knyezso the younger and Anna Verbószk[i]: Anna 1902",
-      "János Knyezső and Mária Estók: Anna 1921"
-    ],
-    "note": "Twelve strips the owner labels 'Nyemcsik'. Every one reads Knyezso. Knyezső is the surname of the mother of the Mária Kocsis born at Solymos 19 in [1887] (D-005-43), who is a candidate for the mother of Maria Demko's mother. Sent to the Demko agent.",
-    "route": "demko",
-    "route_note": "",
-    "documents": [
-      "D-007-07",
-      "D-007-08",
-      "D-007-09",
-      "D-007-10",
-      "D-007-11",
-      "D-007-21",
-      "D-007-22",
-      "D-007-31",
-      "D-007-32",
-      "D-007-37",
-      "D-007-42",
-      "D-007-45"
-    ]
-  },
-  {
-    "id": "FG-46",
-    "husband": "Andreas Nyemcsik, clerk at Eperjes",
-    "wife": "Anna",
-    "rite": "Both Greek Catholic",
-    "homes": "Eperjes (Prešov)",
-    "children": [
-      "Andreas, bapt. 30 Jul [1822]"
-    ],
-    "note": "A real Nyemcsik, unlike the twelve 'Nyemcsik' strips of folder F-007, which read Knyezso. A town clerk's family in the bishop's city, about 60 km from Senné. No link to either line is shown.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-008-01",
-      "D-008-02"
-    ]
-  },
-  {
-    "id": "FG-47",
-    "husband": "György Duska the elder (idősb)",
-    "wife": "(1) Anna Krak, Greek Catholic; (2) Mária Kozej, Greek Catholic",
-    "rite": "He Roman Catholic, she Greek Catholic",
-    "homes": "Szenna 6",
-    "children": [
-      "By Anna Krak: Anna, b. 17 Mar [1866]",
-      "Andreas, b. [1868], d. 22 Aug 1940; married Anna Nyemcsik on 18 Jan 1892 (D-006-03)",
-      "György, b. 10 Feb [1872], d. 8 Jul 1875",
-      "Maria, b. 7 Aug [1875]",
-      "By Mária Kozej: György, b. 18 Jan [1880]",
-      "Anna and Maria, twins, b. 14 Dec 1883, each marked with a cross"
-    ],
-    "note": "A Roman Catholic cottar of Senné, house 6, called 'the elder' from 1875 to tell him from the György Duska 'the younger' who lived in the same house (FG-48). His first wife's last child is of August 1875 and his second wife's first of January 1880: a second marriage, on the rule that a change of mother is a remarriage until two men are shown (H-052). His son András is named as his son, and Anna Krak's, in the marriage entry of 1892. If Michal Duska is András's son Mihály of 1903 (H-046), this couple are Michal's grandparents.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-009-06",
-      "D-009-10",
-      "D-009-11",
-      "D-009-33",
-      "D-009-34",
-      "D-009-63",
-      "D-009-90"
-    ]
-  },
-  {
-    "id": "FG-48",
-    "husband": "György Duska the younger",
-    "wife": "Erzsébet Schwarz (Schwarcz), of Ribnicze",
-    "rite": "He Roman Catholic, she Greek Catholic",
-    "homes": "Szenna 5 ([1872], [1879]), 6 ([1877], [1880] to 1890)",
-    "children": [
-      "Mihály, b. 9 Nov [1872] (house 5; the father's name is smudged)",
-      "János, b. 4 Aug [1877]",
-      "Anna, b. 21 Jul [1879] (house 5)",
-      "György, b. 8 Feb [1880]",
-      "András, b. 22 Sep [1882]",
-      "József, b. 29 May 1885, d. 18 Aug 1950",
-      "Pál, b. 28 Oct 1887",
-      "Miklós, b. 28 Nov 1890"
-    ],
-    "note": "György Duska 'the younger' and Erzsébet Schwarz of Alsó-Ribnicze: eight children in eighteen years, the same godfather, János Muha, almost throughout. He shares house 6 with György Duska the elder; how the two are related is not stated anywhere. He cannot be a son of the elder György and Anna Krak, whose first known child is of 1866. The mother's rite is written Greek Catholic in the 1870s and Roman Catholic from 1885.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-009-01",
-      "D-009-13",
-      "D-009-35",
-      "D-009-36",
-      "D-009-60",
-      "D-009-75",
-      "D-009-84",
-      "D-009-93"
-    ]
-  },
-  {
-    "id": "FG-49",
-    "husband": "András Duska (b. [1868], d. 22 Aug 1940), 'the younger' in 1903",
-    "wife": "Anna Nyemcsik (b. 24 Aug [1872]); written Minarcsin 1893 to 1899 and Nyemecz 1903 to 1912",
-    "rite": "Roman Catholic",
-    "homes": "Szenna 73 (1893 to 1896), 92 (1898), 7[1 or 3] (1899), 79 (1903), 98 (1905); Ungszenna 73 (1907), 138 (1910, 1912)",
-    "children": [
-      "András, b. 17 Apr 1893, d. 29 Apr 1893",
-      "János, b. 23 May 1894",
-      "András, b. 3 Jun 1896",
-      "György and Anna, twins, b. 11 Jul 1898, d. 8 Dec and 30 Jul 1898",
-      "Anna, b. 19 Sep 1899",
-      "Mihály, b. 3 Jul 1903 (no death noted)",
-      "Mária, b. 28 May 1905, d. 12 Feb 1908",
-      "Anna and Susanna, twins, b. 13 Jul 1907, d. 20 Sep 1909 and 29 Oct 1918",
-      "György, b. 17 Feb 1910; married 8 Jun 1937",
-      "József, b. 5 Jan 1912, d. 27 Sep 1913"
-    ],
-    "note": "Married at Senné on 18 January 1892: András Duska, cottar, 24, son of György Duska and Anna Krak; Anna Nyemcsik, 19, daughter of János Nyemcsik and Erzsébet Hresko (D-006-03). The wife's mother is 'Hresko alias Minarcsin' in her own children's baptisms, which is why the wife is entered as Minarcsin in the 1890s; from 1903 the priest writes Nyemecz. One couple, thirteen children in nineteen years, seven dead in childhood by the notes in the book. Two sets of twins. Their son Mihály, born 3 July 1903, is the leading candidate for Michal Duska, Ahn 8 (H-046).",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-009-02",
-      "D-009-03",
-      "D-009-08",
-      "D-009-15",
-      "D-009-16",
-      "D-009-32",
-      "D-009-37",
-      "D-009-38",
-      "D-009-46",
-      "D-009-59",
-      "D-009-66",
-      "D-009-79",
-      "D-006-03"
-    ]
-  },
-  {
-    "id": "FG-50",
-    "husband": "Mihály Duska, miller (entered once, in 1895, as 'the younger György')",
-    "wife": "Anna Halász",
-    "rite": "Roman Catholic",
-    "homes": "Szenna 1 (1895 to 1898), 5 (1902)",
-    "children": [
-      "Anna, b. 9 Oct 1895",
-      "Mihály, b. 6 Dec 1896 (no death noted)",
-      "Mária, b. 18 Sep 1898",
-      "Zsuzsánna, b. 25 May 1902"
-    ],
-    "note": "The miller of Senné. Three entries name him Mihály; the first, of 1895, names him 'if. Duska György' with the same wife, house and trade, which is taken as the clerk's slip. He may be the Mihály of November [1872] (FG-48), who would be 23 in 1895 and whose parents lived at house 5, where the miller is found in 1902 (H-053). His son Mihály of 1896 is the second candidate for Michal Duska, Ahn 8 (H-047).",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-009-14",
-      "D-009-64",
-      "D-009-82",
-      "D-009-87"
-    ]
-  },
-  {
-    "id": "FG-51",
-    "husband": "András Duska",
-    "wife": "Anna Jakuvics [?]",
-    "rite": "He Roman Catholic, she Greek Catholic",
-    "homes": "Jesztreb",
-    "children": [
-      "Anna, b. 16 Aug [1875]"
-    ],
-    "note": "A Roman Catholic Duska living at Jesztreb, in the Senné book. Too old to be the András of [1868].",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-009-12"
-    ]
-  },
-  {
-    "id": "FG-52",
-    "husband": "Nyemcsik of Senné (two entries)",
-    "wife": "see children",
-    "rite": "Roman Catholic",
-    "homes": "Szenna 47 ([1866], 1896), 79 ([1872]), 89 ([1878]), 63 (1903); Ungszenna 64 (1910); Nagyszeretva 44 (1908)",
-    "children": [
-      "Michael Nyemcsik and Anna (Maria) Obsitnyik, house 47: Andreas [1866], Georgius [1869] d. 1870",
-      "János Nyemcsik and Mária (Anna) Szalontai: János 1888 (116), Mihály 1890 (109), György 1897 (109), Anna 1903 (63)",
-      "János Nyemcsik of Barkó and Zsuzsanna Kozé: György 1887, baptised by the midwife, died the same day",
-      "János Nyemcsik and Anna Komarik [?], Nagyszeretva: János [1881]",
-      "János Nyemcsik and Susanna Kuslár, Nagyszeretva: János 1904 d. 1906, Anna 1908",
-      "György Nyemcsik the younger and Mária Basiszta: Anna [1878]",
-      "Pál Nyemcsik and Zuzsanna Vasko, Pályin: Mihály [1878] d. 1879",
-      "András Hankosnák and Mária Nyemcsik: Anna 1896 (47), Zsuzsanna 1901 (8), János 1905 d. 1908 (79), András 1910 (64)"
-    ],
-    "note": "The other Nyemcsik households of the Senné Roman Catholic book, apart from the couple in FG-57. At least four men named János. Mária Nyemcsik, wife of Hankosnák, lives at house 47 (the house of Michael Nyemcsik) in 1896 and at house 79 (the house of János Nyemcsik and Erzsébet Hresko) in 1905.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-009-07",
-      "D-009-04",
-      "D-009-18",
-      "D-009-24",
-      "D-009-26",
-      "D-009-27",
-      "D-009-31",
-      "D-009-42",
-      "D-009-43",
-      "D-009-48",
-      "D-009-53",
-      "D-009-54",
-      "D-009-55",
-      "D-009-80",
-      "D-009-83",
-      "D-009-89"
-    ]
-  },
-  {
-    "id": "FG-53",
-    "husband": "János Demko, carpenter (and an older János Demko, cottar)",
-    "wife": "Mária Ivanko alias Malyko, of Lasztomér; (the older man:) Ilona Mihalyo",
-    "rite": "He Roman Catholic, she Greek Catholic",
-    "homes": "Szenna 99 ([1873]); 72 [?] (1896), 92 (1897), 87 (1900), 113 (1901)",
-    "children": [
-      "János Demko and Ilona Mihalyo: János, b. 18 Jan [1873], legitimised under a permit of 20 Jul 1895",
-      "János Demko, carpenter, and Mária Ivanko: Mária 1896; János 1897 d. 1898; Anna 1900; János 1901 d. 1902"
-    ],
-    "note": "Roman Catholic Demkos of Senné. The carpenter of 1896 to 1901 may be the boy of [1873], whose birth was legitimised in July 1895, nine months before the carpenter's first child was baptised. The carpenter's wife has two surnames, Malyko and Ivanko. None is shown to be kin to Maria Demko of Solymos.",
-    "route": "demko",
-    "route_note": "",
-    "documents": [
-      "D-009-09",
-      "D-009-44",
-      "D-009-45",
-      "D-009-62",
-      "D-009-92"
-    ]
-  },
-  {
-    "id": "FG-54",
-    "husband": "János Duska",
-    "wife": "Anna Opsitnyik",
-    "rite": "Roman Catholic",
-    "homes": "Szenna 115 (1900, 1903), 105 (1905); Ungszenna 53 (1907)",
-    "children": [
-      "Anna, b. 31 May 1900",
-      "Mária, b. 19 Jul 1903",
-      "János, b. 2 Apr 1905",
-      "Zsuzsanna and Borbála, twins, b. 29 and 30 Jun 1907, d. 17 Jul 1908 and 21 Aug 1907"
-    ],
-    "note": "The surname is Duska: three later entries write it plainly, which settles the 'Duska or Drska' of 1900. Miller in 1900, cottar in 1903, farmer from 1905. He may be the János of [1877] (FG-48). No son Mihály among the strips.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-009-17",
-      "D-009-47",
-      "D-009-65",
-      "D-009-88"
-    ]
-  },
-  {
-    "id": "FG-55",
-    "husband": "János Marczinyik (Marczinko)",
-    "wife": "Anna Duska",
-    "rite": "Roman Catholic",
-    "homes": "Solymos 35",
-    "children": [
-      "Anna, b. 29 Dec [1876]",
-      "Mária, b. Jan 1879"
-    ],
-    "note": "A Roman Catholic Duska woman married at Solymos, the Reformed Duskas' village.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-009-22",
-      "D-009-72"
-    ]
-  },
-  {
-    "id": "FG-56",
-    "husband": "Kocsis households of Senné (two men)",
-    "wife": "see children",
-    "rite": "Roman Catholic",
-    "homes": "Szenna 93, 90, 83, 32, 23, 21, 103, 95, 94, 101, 109; Ungszenna 23",
-    "children": [
-      "Georgius Kocsis and Maria Bumbera: Michael [1867] d. 1949 (93)",
-      "György Kocsis and Maria Valyo: Maria [1871] (90)",
-      "György Kocsis and Erzsébet Marczinko: György [1882] (83), Maria 1884 (32), Anna 1887 (23), János 1889 (21), Borbála 1892 (21)",
-      "János Kocsis and Anna Halász: János 1888 d. 1888 (103), György 1889 (95), Anna 1891 d. 1894 (94), Anna 1906 d. 1908 (101)",
-      "Mihály Kocsis and Anna Dzvonyik: Anna 1895 (95), Mária 1906 (109)",
-      "János Kocsis, coachman, and Mária Praskai: Mária 1911 (Ungszenna 23)"
-    ],
-    "note": "Roman Catholic Kocsis families at Senné, next door to each other in the 1890s. The Kocsis of the Demko line are Greek Catholic, of Solymos. This Anna Halász is the wife of János Kocsis from 1891 to 1906, so the Anna Halász who is wife of the miller György Duska in 1895 (FG-50) is another woman or a misreading.",
-    "route": "demko",
-    "route_note": "",
-    "documents": [
-      "D-009-19",
-      "D-009-20",
-      "D-009-21",
-      "D-009-29",
-      "D-009-39",
-      "D-009-40",
-      "D-009-41",
-      "D-009-49",
-      "D-009-50",
-      "D-009-67",
-      "D-009-68",
-      "D-009-69",
-      "D-009-70",
-      "D-009-76"
-    ]
-  },
-  {
-    "id": "FG-57",
-    "husband": "János Nyemcsik",
-    "wife": "Erzsébet Hresko, alias Minarcsin",
-    "rite": "Roman Catholic",
-    "homes": "Szenna 79 ([1866] to [1872]), 77 ([1875])",
-    "children": [
-      "Maria, b. 23 Jan [1866]",
-      "Michael, b. 28 Jul 1868, d. 8 Aug 1868",
-      "Anna, b. 24 Aug [1872]; married András Duska on 18 Jan 1892",
-      "János, b. 22 Jul [1875], d. 15 Apr 1879"
-    ],
-    "note": "The parents of Anna Nyemcsik, wife of András Duska (FG-49). The mother's alias, Minarcsin, is the name under which her daughter is entered at her own children's baptisms in the 1890s. If Michal Duska is the Mihály of 1903 (H-046), this couple are his mother's parents.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-009-23",
-      "D-009-52",
-      "D-009-73",
-      "D-009-77",
-      "D-009-78",
-      "D-006-03",
-      "D-006-04"
-    ]
-  },
-  {
-    "id": "FG-58",
-    "husband": "Mihály Marczinko (Marcinko)",
-    "wife": "Mária Kocsis",
-    "rite": "Roman Catholic",
-    "homes": "Szenna 27 (1891), 23 (1901), 37 (1904); Ungszenna 35 (1906), 27 (1909)",
-    "children": [
-      "Mária, b. 9 Mar 1891",
-      "János, b. 14 Apr 1901",
-      "György, b. 12 Jan 1904",
-      "Borbála, b. 5 Nov 1906; married 24 Nov 1947",
-      "András, b. 3 Feb 1909, d. 14 Oct 1925"
-    ],
-    "note": "A Roman Catholic Kocsis wife at Senné. Not shown to be kin to the Greek Catholic Kocsis of Solymos.",
-    "route": "demko",
-    "route_note": "",
-    "documents": [
-      "D-009-05",
-      "D-009-30",
-      "D-009-51",
-      "D-009-71",
-      "D-009-91"
-    ]
-  },
-  {
-    "id": "FG-59",
-    "husband": "József Duska",
-    "wife": "Anna Halahan, Greek Catholic",
-    "rite": "He Roman Catholic",
-    "homes": "Ungszenna 42",
-    "children": [
-      "József, b. 31 Oct 1910"
-    ],
-    "note": "The father may be the József of 1885 (FG-48), who died in 1950.",
-    "route": "duska",
-    "route_note": "",
-    "documents": [
-      "D-009-58"
-    ]
-  }
+ {
+  "id": "FG-01",
+  "husband": "György Demkó",
+  "wife": "Mária Hreskó",
+  "rite": "He Greek Catholic. She Roman Catholic in 1873 to 1882. In 1857 her rite mark was first read here as Greek Catholic; the Demko agent reads it as Roman Catholic, and on a second look that is the likelier reading.",
+  "homes": "Viszoka 79 (1857); [Feke]temező [?] 33 (1873); Viszoka 121 (1875, 1879); Viszoka 132 (1882)",
+  "children": [
+   "Mária, b. 2 Jan 1857, d. 15 Feb 1857",
+   "Mihály and János, twins, b. 29 May [1873], both marked with a cross",
+   "János, b. 29 Mar 1875",
+   "Borbála, b. 23 Apr [1879]",
+   "Mihály, b. 19 Aug 1882"
+  ],
+  "note": "Whether the couple of 1857 is the couple of 1873 to 1882 is hypothesis H-022. No child is recorded here between 1857 and 1873. Names reused after a death: Mihály (1873, then 1882) and János (1873, then 1875). The four are kept as four people.",
+  "route": "demko",
+  "documents": [
+   "D-002-01",
+   "D-004-03",
+   "D-004-08",
+   "D-004-13",
+   "D-004-16",
+   "D-004-18"
+  ],
+  "route_note": "Demko agent"
+ },
+ {
+  "id": "FG-02",
+  "husband": "János Demkó",
+  "wife": "Szlekár, given as Anna in 1874 and Mária in 1877, 1879 and 1883",
+  "rite": "Both Greek Catholic",
+  "homes": "Viszoka (1874); Viszoka 141 (1877); Viszoka 120 (1879); Viszoka (1883)",
+  "children": [
+   "Anna, b. 13 Oct [1874]",
+   "Erzsébet, b. 10 Apr [1877]",
+   "János, b. 2 Mar [1879], d. 14 Mar 1879",
+   "Zsuzsánna, b. 6 Jan 1883"
+  ],
+  "note": "House 120 in 1879 is next door to György Demkó at 121. One wife under two given names, or two wives, is not settled. Under ruling X-017 the change of the mother's given name between 1874 and 1877 is read as a possible second marriage, perhaps to a sister, until a record shows one wife.",
+  "route": "demko",
+  "documents": [
+   "D-004-02",
+   "D-004-04",
+   "D-004-09",
+   "D-004-20"
+  ],
+  "route_note": "Demko agent"
+ },
+ {
+  "id": "FG-03",
+  "husband": "György Demko",
+  "wife": "Anna Samudovszki [?]",
+  "rite": "He Greek Catholic",
+  "homes": "Viszoka",
+  "children": [
+   "György, b. Sept [1834]",
+   "János, b. [1838]"
+  ],
+  "note": "Under ruling X-017 a change of mother between baptisms to one father is a second marriage until shown to be a second man: see H-031.",
+  "route": "demko",
+  "documents": [
+   "D-004-06",
+   "D-004-07"
+  ],
+  "route_note": "Demko agent"
+ },
+ {
+  "id": "FG-04",
+  "husband": "Georg. Demko",
+  "wife": "Barbara Cs[encsarik?]",
+  "rite": "He Greek Catholic",
+  "homes": "Viszoka",
+  "children": [
+   "Georgius, b. [1831]"
+  ],
+  "note": "A second father named György Demko at Viszoka in the same years as FG-03, or the same man with an earlier wife. Under ruling X-017 a change of mother between baptisms to one father is a second marriage until shown to be a second man: see H-031.",
+  "route": "demko",
+  "documents": [
+   "D-004-05"
+  ],
+  "route_note": "Demko agent"
+ },
+ {
+  "id": "FG-05",
+  "husband": "György Demko",
+  "wife": "Mária Vaszil [?]",
+  "rite": "Greek Catholic",
+  "homes": "Viszoka",
+  "children": [
+   "Mária, b. [1840]"
+  ],
+  "note": "May be the father of FG-03 or FG-04 with a later wife, or a third man. Under ruling X-017 a change of mother between baptisms to one father is a second marriage until shown to be a second man: see H-031.",
+  "route": "demko",
+  "documents": [
+   "D-004-12"
+  ],
+  "route_note": "Demko agent"
+ },
+ {
+  "id": "FG-06",
+  "husband": "György Tirpák",
+  "wife": "Mária Demko",
+  "rite": "Both Greek Catholic",
+  "homes": "Viszoka",
+  "children": [
+   "Maria, b. Oct [1832]",
+   "János, b. [1835]",
+   "Mihály, b. [1839]"
+  ],
+  "note": "A Demko daughter of the generation born about 1800 to 1812.",
+  "route": "demko",
+  "documents": [
+   "D-004-10",
+   "D-004-15",
+   "D-004-19"
+  ],
+  "route_note": "Demko agent"
+ },
+ {
+  "id": "FG-07",
+  "husband": "István Kocsis",
+  "wife": "Erzsébet Dubics",
+  "rite": "He Greek Catholic, she Roman Catholic",
+  "homes": "Mogyorós (1832); Nagy[...] (1836)",
+  "children": [
+   "Maria, b. [1832]",
+   "Julianna, b. 27 Jan [1836]"
+  ],
+  "note": "No stated link to a Demko or a Duska. Why the owner kept the Kocsis entries is not known. Since B-009: Kocsis is the maiden name of Ahn 19 by the Demko agent's 1906 civil record (DM-D-008 @57861ad), which is why the owner kept Kocsis entries.",
+  "route": "demko",
+  "documents": [
+   "D-004-11",
+   "D-004-14"
+  ],
+  "route_note": "Duska agent keeps; Places agent for the villages"
+ },
+ {
+  "id": "FG-08",
+  "husband": "Pál Hornyák",
+  "wife": "Erzsébet Kocsis",
+  "rite": "He Greek Catholic, she Reformed",
+  "homes": "Csicser 90",
+  "children": [
+   "Mihály, b. 15 May 1873"
+  ],
+  "note": "A second Kocsis record, a generation after FG-07. Since B-009: Kocsis is the maiden name of Ahn 19 by the Demko agent's 1906 civil record (DM-D-008 @57861ad), which is why the owner kept Kocsis entries.",
+  "route": "demko",
+  "documents": [
+   "D-004-17"
+  ],
+  "route_note": "Duska agent keeps"
+ },
+ {
+  "id": "FG-09",
+  "husband": "György Szulák",
+  "wife": "Mária Hre[k]ó",
+  "rite": "Both Greek Catholic",
+  "homes": "Tán. [?]; sponsors of Viszoka",
+  "children": [
+   "Anna, b. 7 May [1872]"
+  ],
+  "note": "The owner's file name calls the child Anna Demko. The strip does not show that name.",
+  "route": "demko",
+  "documents": [
+   "D-004-01"
+  ],
+  "route_note": "Demko agent, to check against the full page"
+ },
+ {
+  "id": "FG-10",
+  "husband": "János Koren (Kóreny, Koreň); written Hrin [?] in [1839] and [1841]",
+  "wife": "Mária Krak",
+  "rite": "Greek Catholic",
+  "homes": "Jesztreb (Jastrabie)",
+  "children": [
+   "János, b. 17 Jun [1837]",
+   "Mihály, b. 11 May [1839] (father written Hrin)",
+   "Anna, b. 21 May [1841] (father written Hrin)",
+   "András, b. 24 Oct [1844]",
+   "Maria, b. 15 Jul [label says 1868; probably the 1840s]",
+   "Zuzanna, b. 10 Feb [1851]",
+   "Andrej, b. 26 Nov [1852]"
+  ],
+  "note": "One wife, Maria Krak, one village, and the same godparents throughout (Mihály Fedor and Anna Mraz), so the fathers written Koren and Hrin are taken as one man (H-034). Two sons named András; the first probably died.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-005-01",
+   "D-005-02",
+   "D-005-29",
+   "D-005-31",
+   "D-005-42",
+   "D-005-47",
+   "D-005-57"
+  ]
+ },
+ {
+  "id": "FG-11",
+  "husband": "Lucas Krak",
+  "wife": "Zuzanna",
+  "rite": "Greek rite",
+  "homes": "Jesztreb",
+  "children": [
+   "Michael, bapt. [1814]",
+   "Anna, bapt. [1816]"
+  ],
+  "note": "The earliest Krak in the folder.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-005-03",
+   "D-005-46"
+  ]
+ },
+ {
+  "id": "FG-12",
+  "husband": "Mihály Bodnár; entered as Mihály Krak in [1846]",
+  "wife": "Anna Krak",
+  "rite": "Both Greek Catholic",
+  "homes": "Jesztreb",
+  "children": [
+   "György, b. 21 Apr [1844]",
+   "János, b. 26 Oct [1846]",
+   "János, b. 11 Jul [label says 1868]",
+   "Anna, b. 22 Jun [1853]"
+  ],
+  "note": "Landholding farmer. Godparents Pál Mraz and Erzsébet Hmily throughout. The husband took, or was given, his wife's surname in one entry, and his son János is 'Krak' in the 1870s with a later note that the correct name is Bodnár (FG-23, H-033). Two sons named János.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-005-07",
+   "D-005-23",
+   "D-005-26",
+   "D-005-32"
+  ]
+ },
+ {
+  "id": "FG-13",
+  "husband": "János (Joannes) Szmeriga",
+  "wife": "Zsuzsi (Susana) Demko",
+  "rite": "Both Greek Catholic",
+  "homes": "Jesztreb; house 29 [or 23] in 1864",
+  "children": [
+   "György, b. 5 Apr [1845]",
+   "András, b. 13 Nov [1864]"
+  ],
+  "note": "Nineteen years between the two baptisms, with the same godparents, Mihály Holubik and Zsuzsi Mraz, so one couple. Landholding farmer in 1845.",
+  "route": "demko",
+  "route_note": "",
+  "documents": [
+   "D-005-21",
+   "D-005-05"
+  ]
+ },
+ {
+  "id": "FG-14",
+  "husband": "Joannes Sirko [?]",
+  "wife": "Elisab. Demko",
+  "rite": "Greek Catholic book",
+  "homes": "Szenna",
+  "children": [
+   "Andreas, b. 10 Dec [1861]"
+  ],
+  "note": "A Demko woman married into Senné by 1861.",
+  "route": "demko",
+  "route_note": "",
+  "documents": [
+   "D-005-06"
+  ]
+ },
+ {
+  "id": "FG-15",
+  "husband": "Michael (Miso, Mihály) Demko",
+  "wife": "Maria Lazár (Lazór)",
+  "rite": "Both Greek Catholic",
+  "homes": "Jesztreb 28 (1864), 32 (1866), 54 (1871), 33 (1875), [8]2 (1877), 47 (1884), 64 (1885)",
+  "children": [
+   "Maria, b. 21 Aug [1864]",
+   "Michael, b. 14 or 15 Mar 1866",
+   "Anna, b. 12 Jan [1871] (first begun as row 49 of 1870)",
+   "Susanna, b. 12 May [1875], d. 10 Apr 1876",
+   "János and György, twins, b. 27 Jun 1877",
+   "Erzsébet, b. 13 Aug [1884], d. 11 Feb 1885",
+   "János, b. 21 Dec [1885]"
+  ],
+  "note": "One cottar couple over twenty-one years and seven house numbers. A Joannes Krak is godfather in 1875. The Michael of 1866 is a candidate for the 'Mihály Demko the younger' of FG-16. Two sons named János (1877 twin, 1885).",
+  "route": "demko",
+  "route_note": "",
+  "documents": [
+   "D-005-08",
+   "D-005-18",
+   "D-005-22",
+   "D-005-27",
+   "D-005-38",
+   "D-005-45",
+   "D-005-56",
+   "D-005-58"
+  ]
+ },
+ {
+  "id": "FG-16",
+  "husband": "Mihály Demko the younger",
+  "wife": "Anna Jaros",
+  "rite": "Both Greek Catholic",
+  "homes": "Jesztreb; house 71 in [1889]",
+  "children": [
+   "Mária, b. 11 Feb [1888], born illegitimate, legitimised 1889",
+   "Anna, b. 26 Nov [1889], d. 17 Mar 1891"
+  ],
+  "note": "Called 'the younger' in [1889]. The couple's first child was entered as illegitimate in February [1888] and legitimised in 1889, so they married between the two baptisms. Not the Mihály Demkó and Anna Batronszki of the Demko agent's 'maybe' strip, who are another couple in another village.",
+  "route": "demko",
+  "route_note": "",
+  "documents": [
+   "D-005-09",
+   "D-005-39"
+  ]
+ },
+ {
+  "id": "FG-17",
+  "husband": "János Danko",
+  "wife": "Mari Csizmár in 1877; Mária Nyemcsik in [1896]",
+  "rite": "He Greek Catholic. Csizmár Greek Catholic; Nyemcsik Roman Catholic",
+  "homes": "Szenna 72 (1877); Szenna 90 ([1896])",
+  "children": [
+   "Anna, b. 26 Nov 1877",
+   "Mihály, b. 1 Nov [1896]"
+  ],
+  "note": "Not a Duska family: the surname is Danko. One man with two wives, or a father and son of the same name; nineteen years separate the entries.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-005-10",
+   "D-005-53"
+  ]
+ },
+ {
+  "id": "FG-18",
+  "husband": "Joannes [D]enko [?]",
+  "wife": "[not read]",
+  "rite": "He Greek Catholic",
+  "homes": "Szenna",
+  "children": [
+   "Andreas, b. 25 Feb, d. 27 Feb 1870"
+  ],
+  "note": "Surname faint; more likely Danko than Demko or Dusko now that a Danko family is documented at Szenna.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-005-04"
+  ]
+ },
+ {
+  "id": "FG-19",
+  "husband": "János Kocsis",
+  "wife": "Anna Kováts [or Hováts]; her given name read as Mária [?] in 1875",
+  "rite": "He Greek Catholic, she Roman Catholic",
+  "homes": "Solymos 13 (1877); 13 or 73 (1875)",
+  "children": [
+   "Anna, b. 18 Mar [1875]",
+   "Anna, b. 16 Apr 1877"
+  ],
+  "note": "Two daughters named Anna two years apart: the first very probably died. Same godparents both times, Mihály Knyezső and Anna Ádám, born Hutkó. A candidate couple for the parents of Mária Kocsis, Ahn 19, born at Solymos about 1886 (Demko agent, DM-H-025).",
+  "route": "demko",
+  "route_note": "",
+  "documents": [
+   "D-005-11",
+   "D-005-12"
+  ]
+ },
+ {
+  "id": "FG-20",
+  "husband": "Mihály Kocsis",
+  "wife": "Mária Knyezso",
+  "rite": "He Greek Catholic, she Roman Catholic",
+  "homes": "Solymos 19",
+  "children": [
+   "Mária, b. 27 Feb [1887]",
+   "Anna, b. 19 Oct [1889]"
+  ],
+  "note": "Mother's surname now clear: Knyezso, Roman Catholic. Their Mária of 1887 is the nearest fit in the archive for Mária Kocsis, mother of Maria Demko (H-038).",
+  "route": "demko",
+  "route_note": "",
+  "documents": [
+   "D-005-13",
+   "D-005-43"
+  ]
+ },
+ {
+  "id": "FG-21",
+  "husband": "Pál Kocsis",
+  "wife": "Anna Cservenyák in [1843]; Mária Iv[a]ncsák [?] in [1846]",
+  "rite": "All Greek Catholic",
+  "homes": "Solymos",
+  "children": [
+   "Borbála, b. 20 Jul [1843] (mother Cservenyák)",
+   "Borbála, b. 5 [Sept?] [1846] (mother read Iv[a]ncsák)",
+   "Mihály, b. 20 Nov [1847] (mother Cservenyák)"
+  ],
+  "note": "Anna Cservenyák is the mother before and after the entry of [1846]. So the B-011 reading of a first wife who died does not hold: either two men named Pál Kocsis lived at Solymos or the [1846] mother was misread.",
+  "route": "demko",
+  "route_note": "",
+  "documents": [
+   "D-005-16",
+   "D-005-17",
+   "D-005-50"
+  ]
+ },
+ {
+  "id": "FG-22",
+  "husband": "János Krak",
+  "wife": "Zsuzs. Michalko",
+  "rite": "Greek Catholic book",
+  "homes": "Jesztreb; house [6]5 in [1853]",
+  "children": [
+   "Maria, b. 16 Aug [1844]",
+   "Anna, b. 14 Oct [1848]",
+   "Ioann, b. 6 Feb [1853] (mother read with doubt)"
+  ],
+  "note": "Cottar.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-005-15",
+   "D-005-33",
+   "D-005-44"
+  ]
+ },
+ {
+  "id": "FG-23",
+  "husband": "János (Janko) Krak, properly Bodnár by a later note",
+  "wife": "Anna Mraz",
+  "rite": "He Greek Catholic, she Roman Catholic",
+  "homes": "Jesztreb 19 (1871, 1877, 1880); 20 (1876)",
+  "children": [
+   "Anna, b. 17 Nov [1871]",
+   "Georgius, b. 4 May 1876, d. 28 Aug 1876",
+   "Mihály, b. 14 Aug 1877",
+   "József, b. 18 Feb 1880"
+  ],
+  "note": "A later hand wrote beside the 1877 entry, in Slovak, that the father's correct name is Bodnár. He is taken to be a son of Mihály Bodnár and Anna Krak (FG-12), known by his mother's family name. He stands godfather to a Demko child in 1875.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-005-14",
+   "D-005-20",
+   "D-005-37",
+   "D-005-52"
+  ]
+ },
+ {
+  "id": "FG-24",
+  "husband": "Georgius Szeman",
+  "wife": "Maria Nyemcsik",
+  "rite": "Both Greek Catholic",
+  "homes": "Nagy Szere[tva] 68",
+  "children": [
+   "Georgius, b. 2 Mar [1862]"
+  ],
+  "note": "No link to any other family in the archive is visible. The owner labelled the file with the mother's surname.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-005-19"
+  ]
+ },
+ {
+  "id": "FG-25",
+  "husband": "György (Georgius, Gyuri) Dusko / Duska",
+  "wife": "Mária Hornyák; read [Prachovnyik?] in [1869]",
+  "rite": "He Greek Catholic, she Roman Catholic",
+  "homes": "house 79, village not read ([1869]); Szenna 31 ([1874]); Solymos 31 (1877)",
+  "children": [
+   "Mihail, b. 5 Sep [1869] (faint; surname and mother doubtful)",
+   "Maria, b. 10 Oct [1874]",
+   "György, b. 30 Mar 1877"
+  ],
+  "note": "The one Duska household the archive follows across several baptisms. Godparents come from the Szabó and Adam families each time. A Joannes of [1872] at Nagy Szeretva may be theirs but is kept apart (FG-31).",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-005-24",
+   "D-005-40",
+   "D-005-48"
+  ]
+ },
+ {
+  "id": "FG-26",
+  "husband": "Mihály Dusko",
+  "wife": "Maria Szokol[...] [?]",
+  "rite": "He Greek Catholic, she Roman Catholic",
+  "homes": "Szenna",
+  "children": [
+   "János, b. 16 Jun [1846]"
+  ],
+  "note": "The earliest Dusko in the archive. A generation older than György Dusko.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-005-28"
+  ]
+ },
+ {
+  "id": "FG-27",
+  "husband": "György Kocsis",
+  "wife": "Anna Ivanko",
+  "rite": "Both Greek Catholic",
+  "homes": "Solymos 85 (1879), 111 (1885), 107 ([1891])",
+  "children": [
+   "Mihály, b. 20 Sep 1879",
+   "János, b. 10 Jan 1885",
+   "Pál, b. 29 Jun [1891]"
+  ],
+  "note": "A third Kocsis household at Solymos in the 1880s. No daughter Mária among the strips kept.",
+  "route": "demko",
+  "route_note": "",
+  "documents": [
+   "D-005-30",
+   "D-005-51",
+   "D-005-55"
+  ]
+ },
+ {
+  "id": "FG-28",
+  "husband": "Mihály Kucserávecz",
+  "wife": "Mária Dusko",
+  "rite": "He Greek Catholic, she Roman Catholic",
+  "homes": "Jesztreb",
+  "children": [
+   "János, b. 5 Jan 1894"
+  ],
+  "note": "She may be the Maria Duska baptised in [1874] (H-037).",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-005-34"
+  ]
+ },
+ {
+  "id": "FG-29",
+  "husband": "János Koczák",
+  "wife": "Zuzánna Kepej",
+  "rite": "He Greek Catholic, she Roman Catholic",
+  "homes": "Jesztreb 1",
+  "children": [
+   "György, b. 11 Feb [1882]"
+  ],
+  "note": "Filed by the owner as Kocsis. No link to the Kocsis families of Solymos is visible.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-005-25"
+  ]
+ },
+ {
+  "id": "FG-30",
+  "husband": "Gergely Knyezso",
+  "wife": "Borbála Halász",
+  "rite": "He Greek Catholic, she Roman Catholic",
+  "homes": "Solymos 97",
+  "children": [
+   "János, b. 5 May [1886], d. 13 Dec 1892"
+  ],
+  "note": "Knyezso is the maiden name of the wife of Mihály Kocsis (FG-20).",
+  "route": "demko",
+  "route_note": "",
+  "documents": [
+   "D-005-35"
+  ]
+ },
+ {
+  "id": "FG-31",
+  "husband": "Georgius Du[s]ko or Danko",
+  "wife": "Maria Hrechovszk[i] [?]",
+  "rite": "She Roman Catholic",
+  "homes": "Nagy Szeretva 48",
+  "children": [
+   "Joannes, b. 22 Apr [1872]"
+  ],
+  "note": "Kept apart from FG-25: different village, different godparents, and a surname that may be Danko.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-005-36"
+  ]
+ },
+ {
+  "id": "FG-32",
+  "husband": "Mihály Holos",
+  "wife": "Mária Demko",
+  "rite": "Both Greek Catholic",
+  "homes": "Jesztreb 40 ([1890]); 34 ([1891])",
+  "children": [
+   "Mihály, b. 21 Jul [1890], d. 16 Jan 1891",
+   "Mária, b. 2 Dec [1891], d. 4 Feb 1894"
+  ],
+  "note": "Houseless cottar. She may be the Maria Demko baptised at Jesztreb in [1864] (FG-15).",
+  "route": "demko",
+  "route_note": "",
+  "documents": [
+   "D-005-41",
+   "D-005-49"
+  ]
+ },
+ {
+  "id": "FG-33",
+  "husband": "Mihály Ilyko",
+  "wife": "Anna Duska",
+  "rite": "He Greek Catholic, she Reformed",
+  "homes": "Solymos 43",
+  "children": [
+   "Mihály, b. 17 Jun [1894]"
+  ],
+  "note": "A Duska of the Reformed church. Iňačovce had a Reformed congregation.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-005-54"
+  ]
+ },
+ {
+  "id": "FG-34",
+  "husband": "András Duska (Dusko)",
+  "wife": "Borbála Plyuksa [Pluchta]",
+  "rite": "Reformed",
+  "homes": "Solymos; no house numbers in these years",
+  "children": [
+   "Susanna, bapt. 12 May [1829]",
+   "Anna [?], bapt. 1 Feb 1832",
+   "János, b. 25 May [1834]",
+   "Susanna, b. 21 Jan [1837]",
+   "Mihály, b. 25 Jul [1840]",
+   "Borbála, bapt. 20 May [1843]"
+  ],
+  "note": "The earliest Duska household in the archive. Two daughters named Susanna, eight years apart: the first is presumed to have died (rule 20). The mother's surname is written Plyuksa; a Pluchta family stands godparent to the next generation.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-007-12",
+   "D-007-23",
+   "D-007-34",
+   "D-007-38",
+   "D-007-39",
+   "D-007-43"
+  ]
+ },
+ {
+  "id": "FG-35",
+  "husband": "János Duska (Dusko)",
+  "wife": "Anna Hura",
+  "rite": "Reformed",
+  "homes": "Solymos 33 ([1852], 1857)",
+  "children": [
+   "Anna, bapt. 8 Sep [1841]",
+   "János, bapt. 8 Jun [1844]",
+   "János, b. 23 Aug [1852]",
+   "György, b. 17 Jul 1857"
+  ],
+  "note": "A second Duska couple of the same years as FG-34; János is not the János of 1834, who was seven in 1841. Two sons named János. Commoner in 1852, cottar in 1857.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-007-04",
+   "D-007-16",
+   "D-007-24",
+   "D-007-25"
+  ]
+ },
+ {
+  "id": "FG-36",
+  "husband": "György Duska",
+  "wife": "[N...] Zsuzsanna",
+  "rite": "Reformed",
+  "homes": "Solymos",
+  "children": [
+   "György, bapt. 11 Apr 1847"
+  ],
+  "note": "One washed-out entry. A third Duska father of the 1840s.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-007-14"
+  ]
+ },
+ {
+  "id": "FG-37",
+  "husband": "András Dusko",
+  "wife": "Erzsébet Ková[cs] [?]",
+  "rite": "Reformed",
+  "homes": "Solymos 44 ([1852])",
+  "children": [
+   "György, b. 10 Apr [1852]"
+  ],
+  "note": "Either András of FG-34 with a second wife, nine years after his last child by Borbála, or a younger András. A change of mother is a second marriage until a second man is shown (rule 20). House 44 is a Duska house again in 189[3].",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-007-15"
+  ]
+ },
+ {
+  "id": "FG-38",
+  "husband": "János Dusko",
+  "wife": "Anna Kitko (Kitzka; written Minda once and corrected)",
+  "rite": "Reformed",
+  "homes": "Solymos 27 ([1863]), 24 ([1867], [1870]), 23 ([1872]), 34 ([1873], 1876)",
+  "children": [
+   "János, b. 1 Nov [1863]",
+   "Mihály, b. 3 Oct [1867]",
+   "György, b. 17 Jul [1870]",
+   "András, b. 8 Nov [1872]",
+   "Zsuzsanna, b. 9 Oct [1873]",
+   "György, b. 11 Apr 1876"
+  ],
+  "note": "The godparents János Hressan and his wife stand at every baptism. Two sons named György. The father may be the János of [1834] (FG-34) or either János of FG-35.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-007-01",
+   "D-007-17",
+   "D-007-18",
+   "D-007-30",
+   "D-007-41",
+   "D-007-44"
+  ]
+ },
+ {
+  "id": "FG-39",
+  "husband": "Mihály Dusko (Duska), 'the younger' in [1882]",
+  "wife": "Ilona Mihalko",
+  "rite": "Reformed",
+  "homes": "Solymos 33",
+  "children": [
+   "Anna, b. 17 Nov [1871]",
+   "Mihály, b. 24 Sep [1873]",
+   "György, b. 10 Jan [1882]"
+  ],
+  "note": "At house 33, where János Duska and Anna Hura lived in the 1850s. 'The younger' implies an older Mihály Duska alive in 1882. The Anna of [1871] may be the Reformed Anna Duska who is a mother at Solymos 43 in the Greek Catholic book in 1894.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-007-05",
+   "D-007-19",
+   "D-007-35"
+  ]
+ },
+ {
+  "id": "FG-40",
+  "husband": "György Duska",
+  "wife": "Zsuzsanna Valyocsik",
+  "rite": "Reformed",
+  "homes": "Solymos 26 [?] (1883), 37 [?] ([1888])",
+  "children": [
+   "György, b. 1 Feb 1883",
+   "Zsuzsanna, b. 21 Apr [1888]"
+  ],
+  "note": "The father may be the György of 1857 (FG-35), of [1852] (FG-37) or of 1847 (FG-36).",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-007-20",
+   "D-007-28"
+  ]
+ },
+ {
+  "id": "FG-41",
+  "husband": "Mihály Duska",
+  "wife": "Borbála Dzurina",
+  "rite": "Reformed",
+  "homes": "Solymos 44",
+  "children": [
+   "Mihály, b. 29 Jan 189[3]"
+  ],
+  "note": "The father may be the Mihály of [1867] (FG-38). The child is one of two candidates in this folder for Michal Duska, Ahn 8 (H-041).",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-007-36"
+  ]
+ },
+ {
+  "id": "FG-42",
+  "husband": "György Duska, labourer",
+  "wife": "Mária Vaszilyo [?]",
+  "rite": "Reformed",
+  "homes": "a place written 'Bradenville' [?]",
+  "children": [
+   "Mihály, b. 8 [October?] [1902]"
+  ],
+  "note": "A family living away from the village, whose child was entered in the home book from a certificate. The father may be the György of 1876 or [1870] (FG-38) or of [1882] (FG-39). The child is the other candidate for Ahn 8 (H-040).",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-007-08"
+  ]
+ },
+ {
+  "id": "FG-43",
+  "husband": "János Kudrócs (from 1896)",
+  "wife": "Zsuzsanna Duska, of Solymos 44",
+  "rite": "Reformed",
+  "homes": "Solymos 44 ([1893]), 11 ([1897])",
+  "children": [
+   "János, b. [1893], illegitimate, legitimised 4 May 1896",
+   "Anna, b. 21 Nov [1897]"
+  ],
+  "note": "Also filed here, without being joined to the couple: Anna, b. 24 Feb [1898], daughter of Mihály Ku[...]s and a Zsuzsánna Duska; and János, b. 15 Apr [1920], illegitimate son of a Zsuzsanna Duska, who may be the Zsuzsanna of [1888] (FG-40). Three women of one name are possible.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-007-02",
+   "D-007-03",
+   "D-007-26",
+   "D-007-27"
+  ]
+ },
+ {
+  "id": "FG-44",
+  "husband": "Mihály [Marczincsák] Elecsko [?]",
+  "wife": "Anna Duska",
+  "rite": "Reformed",
+  "homes": "Solymos",
+  "children": [
+   "Mária, b. 25 Mar [1903]",
+   "Mihály, b. 23 Jan 1904"
+  ],
+  "note": "The children are not Duskas; the owner's labels call them so. The husband's surname is written two ways.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-007-29",
+   "D-007-33"
+  ]
+ },
+ {
+  "id": "FG-45",
+  "husband": "Knyezso households of Solymos (several men)",
+  "wife": "see children",
+  "rite": "Reformed",
+  "homes": "Solymos 47, 46 [?], 5[6], 41, 59, 82, 64, 44, 99",
+  "children": [
+   "György Knyezso and Anna Kontra: Anna 1892, György 1894",
+   "György Knyezso and Anna Tomócsik: György 1890",
+   "György Knyezso and Mária Dzurina: Zsuzsanna 1888",
+   "György Knyezso and Anna Dzurina: Anna 1910",
+   "Mihály Knyezso and Erzsébet Sárik: Anna 1884",
+   "Mihály Knyezso and Anna Onderko: Mihály 1890, Zsuzsanna 1897",
+   "Mihály Knyezso and Erzsébet Sipos: Pál 1904",
+   "Mihály Knyezso Estók and Zsuzsanna Dzurina: Mihály 1904",
+   "János Knyezso the younger and Anna Verbószk[i]: Anna 1902",
+   "János Knyezső and Mária Estók: Anna 1921"
+  ],
+  "note": "Twelve strips the owner labels 'Nyemcsik'. Every one reads Knyezso. Knyezső is the surname of the mother of the Mária Kocsis born at Solymos 19 in [1887] (D-005-43), who is a candidate for the mother of Maria Demko's mother. Sent to the Demko agent.",
+  "route": "demko",
+  "route_note": "",
+  "documents": [
+   "D-007-07",
+   "D-007-08",
+   "D-007-09",
+   "D-007-10",
+   "D-007-11",
+   "D-007-21",
+   "D-007-22",
+   "D-007-31",
+   "D-007-32",
+   "D-007-37",
+   "D-007-42",
+   "D-007-45"
+  ]
+ },
+ {
+  "id": "FG-46",
+  "husband": "Andreas Nyemcsik, clerk at Eperjes",
+  "wife": "Anna",
+  "rite": "Both Greek Catholic",
+  "homes": "Eperjes (Prešov)",
+  "children": [
+   "Andreas, bapt. 30 Jul [1822]"
+  ],
+  "note": "A real Nyemcsik, unlike the twelve 'Nyemcsik' strips of folder F-007, which read Knyezso. A town clerk's family in the bishop's city, about 60 km from Senné. No link to either line is shown.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-008-01",
+   "D-008-02"
+  ]
+ },
+ {
+  "id": "FG-47",
+  "husband": "György Duska the elder (idősb)",
+  "wife": "(1) Anna Krak, Greek Catholic; (2) Mária Kozej, Greek Catholic",
+  "rite": "He Roman Catholic, she Greek Catholic",
+  "homes": "Szenna 6",
+  "children": [
+   "By Anna Krak: Anna, b. 17 Mar [1866]",
+   "Andreas, b. [1868], d. 22 Aug 1940; married Anna Nyemcsik on 18 Jan 1892 (D-006-03)",
+   "György, b. 10 Feb [1872], d. 8 Jul 1875",
+   "Maria, b. 7 Aug [1875]",
+   "By Mária Kozej: György, b. 18 Jan [1880]",
+   "Anna and Maria, twins, b. 14 Dec 1883, each marked with a cross"
+  ],
+  "note": "A Roman Catholic cottar of Senné, house 6, called 'the elder' from 1875 to tell him from the György Duska 'the younger' who lived in the same house (FG-48). His first wife's last child is of August 1875 and his second wife's first of January 1880: a second marriage, on the rule that a change of mother is a remarriage until two men are shown (H-052). His son András is named as his son, and Anna Krak's, in the marriage entry of 1892. If Michal Duska is András's son Mihály of 1903 (H-046), this couple are Michal's grandparents.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-009-06",
+   "D-009-10",
+   "D-009-11",
+   "D-009-33",
+   "D-009-34",
+   "D-009-63",
+   "D-009-90"
+  ]
+ },
+ {
+  "id": "FG-48",
+  "husband": "György Duska the younger",
+  "wife": "Erzsébet Schwarz (Schwarcz), of Ribnicze",
+  "rite": "He Roman Catholic, she Greek Catholic",
+  "homes": "Szenna 5 ([1872], [1879]), 6 ([1877], [1880] to 1890)",
+  "children": [
+   "Mihály, b. 9 Nov [1872] (house 5; the father's name is smudged)",
+   "János, b. 4 Aug [1877]",
+   "Anna, b. 21 Jul [1879] (house 5)",
+   "György, b. 8 Feb [1880]",
+   "András, b. 22 Sep [1882]",
+   "József, b. 29 May 1885, d. 18 Aug 1950",
+   "Pál, b. 28 Oct 1887",
+   "Miklós, b. 28 Nov 1890"
+  ],
+  "note": "György Duska 'the younger' and Erzsébet Schwarz of Alsó-Ribnicze: eight children in eighteen years, the same godfather, János Muha, almost throughout. He shares house 6 with György Duska the elder; how the two are related is not stated anywhere. He cannot be a son of the elder György and Anna Krak, whose first known child is of 1866. The mother's rite is written Greek Catholic in the 1870s and Roman Catholic from 1885.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-009-01",
+   "D-009-13",
+   "D-009-35",
+   "D-009-36",
+   "D-009-60",
+   "D-009-75",
+   "D-009-84",
+   "D-009-93"
+  ]
+ },
+ {
+  "id": "FG-49",
+  "husband": "András Duska (b. [1868], d. 22 Aug 1940), 'the younger' in 1903",
+  "wife": "Anna Nyemcsik (b. 24 Aug [1872]); written Minarcsin 1893 to 1899 and Nyemecz 1903 to 1912",
+  "rite": "Roman Catholic",
+  "homes": "Szenna 73 (1893 to 1896), 92 (1898), 7[1 or 3] (1899), 79 (1903), 98 (1905); Ungszenna 73 (1907), 138 (1910, 1912)",
+  "children": [
+   "András, b. 17 Apr 1893, d. 29 Apr 1893",
+   "János, b. 23 May 1894",
+   "András, b. 3 Jun 1896",
+   "György and Anna, twins, b. 11 Jul 1898, d. 8 Dec and 30 Jul 1898",
+   "Anna, b. 19 Sep 1899",
+   "Mihály, b. 3 Jul 1903 (no death noted)",
+   "Mária, b. 28 May 1905, d. 12 Feb 1908",
+   "Anna and Susanna, twins, b. 13 Jul 1907, d. 20 Sep 1909 and 29 Oct 1918",
+   "György, b. 17 Feb 1910; married 8 Jun 1937",
+   "József, b. 5 Jan 1912, d. 27 Sep 1913"
+  ],
+  "note": "Married at Senné on 18 January 1892: András Duska, cottar, 24, son of György Duska and Anna Krak; Anna Nyemcsik, 19, daughter of János Nyemcsik and Erzsébet Hresko (D-006-03). The wife's mother is 'Hresko alias Minarcsin' in her own children's baptisms, which is why the wife is entered as Minarcsin in the 1890s; from 1903 the priest writes Nyemecz. One couple, thirteen children in nineteen years, seven dead in childhood by the notes in the book. Two sets of twins. Their son Mihály, born 3 July 1903, is the leading candidate for Michal Duska, Ahn 8 (H-046).",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-009-02",
+   "D-009-03",
+   "D-009-08",
+   "D-009-15",
+   "D-009-16",
+   "D-009-32",
+   "D-009-37",
+   "D-009-38",
+   "D-009-46",
+   "D-009-59",
+   "D-009-66",
+   "D-009-79",
+   "D-006-03"
+  ]
+ },
+ {
+  "id": "FG-50",
+  "husband": "Mihály Duska, miller (entered once, in 1895, as 'the younger György')",
+  "wife": "Anna Halász",
+  "rite": "Roman Catholic",
+  "homes": "Szenna 1 (1895 to 1898), 5 (1902)",
+  "children": [
+   "Anna, b. 9 Oct 1895",
+   "Mihály, b. 6 Dec 1896 (no death noted)",
+   "Mária, b. 18 Sep 1898",
+   "Zsuzsánna, b. 25 May 1902"
+  ],
+  "note": "The miller of Senné. Three entries name him Mihály; the first, of 1895, names him 'if. Duska György' with the same wife, house and trade, which is taken as the clerk's slip. He may be the Mihály of November [1872] (FG-48), who would be 23 in 1895 and whose parents lived at house 5, where the miller is found in 1902 (H-053). His son Mihály of 1896 is the second candidate for Michal Duska, Ahn 8 (H-047).",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-009-14",
+   "D-009-64",
+   "D-009-82",
+   "D-009-87"
+  ]
+ },
+ {
+  "id": "FG-51",
+  "husband": "András Duska",
+  "wife": "Anna Jakuvics [?]",
+  "rite": "He Roman Catholic, she Greek Catholic",
+  "homes": "Jesztreb",
+  "children": [
+   "Anna, b. 16 Aug [1875]"
+  ],
+  "note": "A Roman Catholic Duska living at Jesztreb, in the Senné book. Too old to be the András of [1868].",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-009-12"
+  ]
+ },
+ {
+  "id": "FG-52",
+  "husband": "Nyemcsik of Senné (two entries)",
+  "wife": "see children",
+  "rite": "Roman Catholic",
+  "homes": "Szenna 47 ([1866], 1896), 79 ([1872]), 89 ([1878]), 63 (1903); Ungszenna 64 (1910); Nagyszeretva 44 (1908)",
+  "children": [
+   "Michael Nyemcsik and Anna (Maria) Obsitnyik, house 47: Andreas [1866], Georgius [1869] d. 1870",
+   "János Nyemcsik and Mária (Anna) Szalontai: János 1888 (116), Mihály 1890 (109), György 1897 (109), Anna 1903 (63)",
+   "János Nyemcsik of Barkó and Zsuzsanna Kozé: György 1887, baptised by the midwife, died the same day",
+   "János Nyemcsik and Anna Komarik [?], Nagyszeretva: János [1881]",
+   "János Nyemcsik and Susanna Kuslár, Nagyszeretva: János 1904 d. 1906, Anna 1908",
+   "György Nyemcsik the younger and Mária Basiszta: Anna [1878]",
+   "Pál Nyemcsik and Zuzsanna Vasko, Pályin: Mihály [1878] d. 1879",
+   "András Hankosnák and Mária Nyemcsik: Anna 1896 (47), Zsuzsanna 1901 (8), János 1905 d. 1908 (79), András 1910 (64)"
+  ],
+  "note": "The other Nyemcsik households of the Senné Roman Catholic book, apart from the couple in FG-57. At least four men named János. Mária Nyemcsik, wife of Hankosnák, lives at house 47 (the house of Michael Nyemcsik) in 1896 and at house 79 (the house of János Nyemcsik and Erzsébet Hresko) in 1905.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-009-07",
+   "D-009-04",
+   "D-009-18",
+   "D-009-24",
+   "D-009-26",
+   "D-009-27",
+   "D-009-31",
+   "D-009-42",
+   "D-009-43",
+   "D-009-48",
+   "D-009-53",
+   "D-009-54",
+   "D-009-55",
+   "D-009-80",
+   "D-009-83",
+   "D-009-89"
+  ]
+ },
+ {
+  "id": "FG-53",
+  "husband": "János Demko, carpenter (and an older János Demko, cottar)",
+  "wife": "Mária Ivanko alias Malyko, of Lasztomér; (the older man:) Ilona Mihalyo",
+  "rite": "He Roman Catholic, she Greek Catholic",
+  "homes": "Szenna 99 ([1873]); 72 [?] (1896), 92 (1897), 87 (1900), 113 (1901)",
+  "children": [
+   "János Demko and Ilona Mihalyo: János, b. 18 Jan [1873], legitimised under a permit of 20 Jul 1895",
+   "János Demko, carpenter, and Mária Ivanko: Mária 1896; János 1897 d. 1898; Anna 1900; János 1901 d. 1902"
+  ],
+  "note": "Roman Catholic Demkos of Senné. The carpenter of 1896 to 1901 may be the boy of [1873], whose birth was legitimised in July 1895, nine months before the carpenter's first child was baptised. The carpenter's wife has two surnames, Malyko and Ivanko. None is shown to be kin to Maria Demko of Solymos.",
+  "route": "demko",
+  "route_note": "",
+  "documents": [
+   "D-009-09",
+   "D-009-44",
+   "D-009-45",
+   "D-009-62",
+   "D-009-92"
+  ]
+ },
+ {
+  "id": "FG-54",
+  "husband": "János Duska",
+  "wife": "Anna Opsitnyik",
+  "rite": "Roman Catholic",
+  "homes": "Szenna 115 (1900, 1903), 105 (1905); Ungszenna 53 (1907)",
+  "children": [
+   "Anna, b. 31 May 1900",
+   "Mária, b. 19 Jul 1903",
+   "János, b. 2 Apr 1905",
+   "Zsuzsanna and Borbála, twins, b. 29 and 30 Jun 1907, d. 17 Jul 1908 and 21 Aug 1907"
+  ],
+  "note": "The surname is Duska: three later entries write it plainly, which settles the 'Duska or Drska' of 1900. Miller in 1900, cottar in 1903, farmer from 1905. He may be the János of [1877] (FG-48). No son Mihály among the strips.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-009-17",
+   "D-009-47",
+   "D-009-65",
+   "D-009-88"
+  ]
+ },
+ {
+  "id": "FG-55",
+  "husband": "János Marczinyik (Marczinko)",
+  "wife": "Anna Duska",
+  "rite": "Roman Catholic",
+  "homes": "Solymos 35",
+  "children": [
+   "Anna, b. 29 Dec [1876]",
+   "Mária, b. Jan 1879"
+  ],
+  "note": "A Roman Catholic Duska woman married at Solymos, the Reformed Duskas' village.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-009-22",
+   "D-009-72"
+  ]
+ },
+ {
+  "id": "FG-56",
+  "husband": "Kocsis households of Senné (two men)",
+  "wife": "see children",
+  "rite": "Roman Catholic",
+  "homes": "Szenna 93, 90, 83, 32, 23, 21, 103, 95, 94, 101, 109; Ungszenna 23",
+  "children": [
+   "Georgius Kocsis and Maria Bumbera: Michael [1867] d. 1949 (93)",
+   "György Kocsis and Maria Valyo: Maria [1871] (90)",
+   "György Kocsis and Erzsébet Marczinko: György [1882] (83), Maria 1884 (32), Anna 1887 (23), János 1889 (21), Borbála 1892 (21)",
+   "János Kocsis and Anna Halász: János 1888 d. 1888 (103), György 1889 (95), Anna 1891 d. 1894 (94), Anna 1906 d. 1908 (101)",
+   "Mihály Kocsis and Anna Dzvonyik: Anna 1895 (95), Mária 1906 (109)",
+   "János Kocsis, coachman, and Mária Praskai: Mária 1911 (Ungszenna 23)"
+  ],
+  "note": "Roman Catholic Kocsis families at Senné, next door to each other in the 1890s. The Kocsis of the Demko line are Greek Catholic, of Solymos. This Anna Halász is the wife of János Kocsis from 1891 to 1906, so the Anna Halász who is wife of the miller György Duska in 1895 (FG-50) is another woman or a misreading.",
+  "route": "demko",
+  "route_note": "",
+  "documents": [
+   "D-009-19",
+   "D-009-20",
+   "D-009-21",
+   "D-009-29",
+   "D-009-39",
+   "D-009-40",
+   "D-009-41",
+   "D-009-49",
+   "D-009-50",
+   "D-009-67",
+   "D-009-68",
+   "D-009-69",
+   "D-009-70",
+   "D-009-76"
+  ]
+ },
+ {
+  "id": "FG-57",
+  "husband": "János Nyemcsik",
+  "wife": "Erzsébet Hresko, alias Minarcsin",
+  "rite": "Roman Catholic",
+  "homes": "Szenna 79 ([1866] to [1872]), 77 ([1875])",
+  "children": [
+   "Maria, b. 23 Jan [1866]",
+   "Michael, b. 28 Jul 1868, d. 8 Aug 1868",
+   "Anna, b. 24 Aug [1872]; married András Duska on 18 Jan 1892",
+   "János, b. 22 Jul [1875], d. 15 Apr 1879"
+  ],
+  "note": "The parents of Anna Nyemcsik, wife of András Duska (FG-49). The mother's alias, Minarcsin, is the name under which her daughter is entered at her own children's baptisms in the 1890s. If Michal Duska is the Mihály of 1903 (H-046), this couple are his mother's parents.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-009-23",
+   "D-009-52",
+   "D-009-73",
+   "D-009-77",
+   "D-009-78",
+   "D-006-03",
+   "D-006-04"
+  ]
+ },
+ {
+  "id": "FG-58",
+  "husband": "Mihály Marczinko (Marcinko)",
+  "wife": "Mária Kocsis",
+  "rite": "Roman Catholic",
+  "homes": "Szenna 27 (1891), 23 (1901), 37 (1904); Ungszenna 35 (1906), 27 (1909)",
+  "children": [
+   "Mária, b. 9 Mar 1891",
+   "János, b. 14 Apr 1901",
+   "György, b. 12 Jan 1904",
+   "Borbála, b. 5 Nov 1906; married 24 Nov 1947",
+   "András, b. 3 Feb 1909, d. 14 Oct 1925"
+  ],
+  "note": "A Roman Catholic Kocsis wife at Senné. Not shown to be kin to the Greek Catholic Kocsis of Solymos.",
+  "route": "demko",
+  "route_note": "",
+  "documents": [
+   "D-009-05",
+   "D-009-30",
+   "D-009-51",
+   "D-009-71",
+   "D-009-91"
+  ]
+ },
+ {
+  "id": "FG-59",
+  "husband": "József Duska",
+  "wife": "Anna Halahan, Greek Catholic",
+  "rite": "He Roman Catholic",
+  "homes": "Ungszenna 42",
+  "children": [
+   "József, b. 31 Oct 1910"
+  ],
+  "note": "The father may be the József of 1885 (FG-48), who died in 1950.",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-009-58"
+  ]
+ },
+ {
+  "id": "FG-60",
+  "husband": "János Krak, Roman Catholic",
+  "wife": "Mária [Z]ebro",
+  "rite": "He Roman Catholic; hers not stated unless 'R.K.' covers both",
+  "homes": "Sztára (Staré)",
+  "children": [
+   "Anna, bapt. [9] Jan 1848"
+  ],
+  "note": "Known from one strip. Sztára is about 26 km north-west of Senné, in Zemplén county. Not shown to be kin to the Kraks of Jesztreb (FG-11, FG-12, FG-22, FG-23).",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-010-01"
+  ]
+ }
 ]
