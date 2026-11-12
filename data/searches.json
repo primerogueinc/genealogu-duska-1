@@ -1,0 +1,47 @@
+[
+  {
+    "id": "SR-01",
+    "date": "2026-11-11",
+    "batch": "B-000",
+    "where": "Open web search",
+    "for": "Obituaries, cemetery entries and immigration records for the surname Duska in Montréal and Québec; the surname with Senné, Iňačovce and Demko; the 1869 census for Ung county; parish registers for Senné",
+    "found": "Leads L-001 to L-005. One search snippet from Kevin's own site (PR-6). Nothing that names Ahn 4 or Ahn 8.",
+    "note": "Run before ruling X-011. Several queries combined the surname with the villages, which that ruling now forbids. None has been run since."
+  },
+  {
+    "id": "SR-02",
+    "date": "2026-11-11",
+    "batch": "B-000",
+    "where": "Two fetch calls to Kevin's own genealogy site: its home page and its article on Senné house 73",
+    "for": "His published lineage, before the blind rule was set",
+    "found": "This agent's working notes from that moment record both calls as blocked, with no page content returned. The tool output is no longer available to re-check. Nothing from the site beyond the search snippet in PR-6 entered this repo.",
+    "note": "Answer to contamination log item C-03."
+  },
+  {
+    "id": "SR-03",
+    "date": "2026-11-11",
+    "batch": "B-000",
+    "where": "One fetch call to a Slovak Spectator opinion piece about a Canadian family reclaiming Slovak citizenship",
+    "for": "Whether it concerned this family; the search snippet mentioned a trip to Slovakia with a father named John",
+    "found": "Nothing was taken from it and nothing entered this repo. Whether it concerns this family was not established. The tool output is no longer available to re-check.",
+    "note": "Reported for the contamination log."
+  },
+  {
+    "id": "SR-04",
+    "date": "2026-11-11",
+    "batch": "B-000",
+    "where": "This Project's earlier chats",
+    "for": "Duska, Demko, Senné",
+    "found": "Nothing.",
+    "note": ""
+  },
+  {
+    "id": "SR-05",
+    "date": "2026-11-12",
+    "batch": "B-005",
+    "where": "Background research task (open web, catalogues, indexes)",
+    "for": "Origin and spread of the surnames Duska and Demko and allied names; the names in historical lists for Senné, Iňačovce, Viszoka and the Belža villages; emigration to Canada and the US; parish and archive holdings; the Senné municipal website's history of the village",
+    "found": "Pending when this batch was committed.",
+    "note": "Permitted by Kevin (S-000-4). Anything written by Kevin is excluded and will be listed if met."
+  }
+]

@@ -156,7 +156,7 @@ $("lineage-body").innerHTML = DATA.people.slice().sort((a, b) => a.ahnentafel - 
     <div>${pill(p.proof)}</div></div>`;
 }).join("");
 
-$("cand-body").innerHTML = DATA.candidates.map(k => row(k.id, `<div class="head"><h3>${esc(k.name)}</h3>${pill(k.proof)}</div><div class="meta">${esc(k.vitals)} &middot; evidence ${k.sources.map(esc).join(", ")}</div><p>${esc(k.relation)}</p>`)).join("");
+$("cand-body").innerHTML = DATA.candidates.map(k => row(k.id, `<div class="head"><h3>${esc(k.name)}</h3>${pill(k.proof)}</div><div class="meta">${esc(k.vitals)} &middot; evidence ${k.sources.map(esc).join(", ")}</div><p>${esc(k.relation)}</p>${k.route ? `<div class="meta">Route: <b>${esc(k.route)}</b></div>` : ""}`)).join("");
 
 $("batches-body").innerHTML = DATA.batches.slice().reverse().map(b => row(b.id,
   `<div class="head"><h3>${esc(b.title)}</h3><span class="meta">${esc(b.date)}${b.folder ? " &middot; folder " + esc(b.folder) : ""} &middot; ${b.files} files</span></div>

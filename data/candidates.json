@@ -7,7 +7,8 @@
     "sources": [
       "S-002"
     ],
-    "relation": "Unplaced. Candidate father (H-012) or brother (H-013) of Maria Demko, Ahn 9."
+    "relation": "Unplaced. Candidate father (H-012) or brother (H-013) of Maria Demko, Ahn 9.",
+    "route": "Demko agent places the person; household sent to the Places agent"
   },
   {
     "id": "K-002",
@@ -17,7 +18,8 @@
     "sources": [
       "S-002"
     ],
-    "relation": "Father of K-001. Unplaced."
+    "relation": "Father of K-001. Unplaced.",
+    "route": "Demko agent places the person; household sent to the Places agent"
   },
   {
     "id": "K-003",
@@ -27,7 +29,8 @@
     "sources": [
       "S-002"
     ],
-    "relation": "Mother of K-001. Unplaced. Godmother Anna Hreskó is probably her kin."
+    "relation": "Mother of K-001. Unplaced. Godmother Anna Hreskó is probably her kin.",
+    "route": "Demko agent places the person; household sent to the Places agent"
   },
   {
     "id": "K-004",
@@ -37,7 +40,8 @@
     "sources": [
       "S-003"
     ],
-    "relation": "Unplaced. A Demko born in the Košice area, about 80 km west of Viszoka. Belongs to the Demko agent to place."
+    "relation": "Unplaced. A Demko born in the Košice area, about 80 km west of Viszoka. Belongs to the Demko agent to place.",
+    "route": "Demko agent places the person; household sent to the Places agent"
   },
   {
     "id": "K-005",
@@ -47,7 +51,8 @@
     "sources": [
       "S-003"
     ],
-    "relation": "Father of K-004. Same name and rite as K-002 of Viszoka, but a different wife and county (H-016)."
+    "relation": "Father of K-004. Same name and rite as K-002 of Viszoka, but a different wife and county (H-016).",
+    "route": "Demko agent places the person; household sent to the Places agent"
   },
   {
     "id": "K-006",
@@ -57,7 +62,8 @@
     "sources": [
       "S-003"
     ],
-    "relation": "Mother of K-004. Unplaced."
+    "relation": "Mother of K-004. Unplaced.",
+    "route": "Demko agent places the person; household sent to the Places agent"
   },
   {
     "id": "K-007",
@@ -67,7 +73,8 @@
     "sources": [
       "S-004"
     ],
-    "relation": "Unplaced. No stated link to a Duska or a Demko. Surname resembles Hreskó (H-017)."
+    "relation": "Unplaced. No stated link to a Duska or a Demko. Surname resembles Hreskó (H-017).",
+    "route": "Duska agent keeps the person; household sent to the Places agent"
   },
   {
     "id": "K-008",
@@ -77,7 +84,8 @@
     "sources": [
       "S-004"
     ],
-    "relation": "Father of K-007. Unplaced."
+    "relation": "Father of K-007. Unplaced.",
+    "route": "Duska agent keeps the person; household sent to the Places agent"
   },
   {
     "id": "K-009",
@@ -87,6 +95,106 @@
     "sources": [
       "S-004"
     ],
-    "relation": "Mother of K-007. Unplaced."
+    "relation": "Mother of K-007. Unplaced.",
+    "route": "Duska agent keeps the person; household sent to the Places agent"
+  },
+  {
+    "id": "K-010",
+    "name": "Mihály Varga",
+    "vitals": "Roman Catholic; godfather at Viszoka, 20 Aug 1882",
+    "proof": "documented",
+    "sources": [
+      "S-002"
+    ],
+    "relation": "Godfather of K-001. Shares his given name with the child.",
+    "route": "Demko agent (associate of the Viszoka household)"
+  },
+  {
+    "id": "K-011",
+    "name": "Anna Hreskó",
+    "vitals": "Roman Catholic; godmother at Viszoka, 20 Aug 1882",
+    "proof": "documented",
+    "sources": [
+      "S-002"
+    ],
+    "relation": "Godmother of K-001. Probably kin of the mother, K-003.",
+    "route": "Demko agent (probable kin of Mária Hreskó)"
+  },
+  {
+    "id": "K-012",
+    "name": "[...] Csurgovich [?]",
+    "vitals": "Officiant of the baptism of 20 Aug 1882",
+    "proof": "documented",
+    "sources": [
+      "S-002"
+    ],
+    "relation": "Priest. Reading uncertain. Identifying him and his parish settles which book the entry is from (H-015).",
+    "route": "Places agent (which parish he served)"
+  },
+  {
+    "id": "K-013",
+    "name": "András Kucsera",
+    "vitals": "b. 1 Apr 1895, bapt. 7 Apr 1895; illegitimate",
+    "proof": "documented",
+    "sources": [
+      "S-003"
+    ],
+    "relation": "Next entry after K-004 on the same strip. No known link.",
+    "route": "Duska agent keeps the person; household sent to the Places agent"
+  },
+  {
+    "id": "K-014",
+    "name": "Anna Kucsera",
+    "vitals": "Greek Catholic, servant, of [...]falva 5 in 1895",
+    "proof": "documented",
+    "sources": [
+      "S-003"
+    ],
+    "relation": "Mother of K-013. Father not named.",
+    "route": "Duska agent keeps the person; household sent to the Places agent"
+  },
+  {
+    "id": "K-015",
+    "name": "János Dudrik (the younger)",
+    "vitals": "b. 5 Sep [1894], bapt. 6 Sep [1894], Gönyű (Gyňov) 2",
+    "proof": "documented",
+    "sources": [
+      "S-004"
+    ],
+    "relation": "Next entry after K-007 on the same strip. No known link.",
+    "route": "Duska agent keeps the person; household sent to the Places agent"
+  },
+  {
+    "id": "K-016",
+    "name": "János Dudrik (the elder)",
+    "vitals": "Greek Catholic, landholding farmer, of Gönyű 2 in 1894",
+    "proof": "documented",
+    "sources": [
+      "S-004"
+    ],
+    "relation": "Father of K-015. A neighbour of the Demko household at Gönyű 24.",
+    "route": "Duska agent keeps the person; household sent to the Places agent"
+  },
+  {
+    "id": "K-017",
+    "name": "Erzsébet Petrila",
+    "vitals": "Roman Catholic, of Gönyű 2 in 1894",
+    "proof": "documented",
+    "sources": [
+      "S-004"
+    ],
+    "relation": "Mother of K-015.",
+    "route": "Duska agent keeps the person; household sent to the Places agent"
+  },
+  {
+    "id": "K-018",
+    "name": "Theresia Kulin",
+    "vitals": "Noblewoman, of K. Sz[eretva?]; gave a silk veil on 25 Aug 1838",
+    "proof": "documented",
+    "sources": [
+      "S-001"
+    ],
+    "relation": "Benefactor named in the Folder 1 copy-book. The one local person in those ten pages.",
+    "route": "Duska agent keeps the person; household sent to the Places agent"
   }
 ]

@@ -113,12 +113,13 @@
         "effect": "45% to 50%",
         "note": "Entry 33 of this batch is a daughter of a Greek Catholic father and a Roman Catholic mother, entered in what the folder calls a Greek Catholic book. Between the two Catholic rites the daughters-follow-mother default was not always kept, so a Demko daughter could well be in a Greek Catholic book."
       }
-    ]
+    ],
+    "question": "X-Q-01"
   },
   {
     "id": "H-007",
     "statement": "The record cited as the 1869 census (PR-3) does not come from the standard FamilySearch Slovakia 1869 collection.",
-    "confidence": 80,
+    "confidence": 70,
     "basis": "L-004: surviving 1869 sheets in that collection are reported to exclude Ung county. The record may be from another archive, another year, or a Zemplén village.",
     "test": "The image itself: archive, fond, film or DGS number, and the village named on the sheet.",
     "status": "supported",
@@ -130,6 +131,11 @@
         "batch": "B-004",
         "effect": "65% to 80%",
         "note": "Places agent: the 1869 sheets for Ung county are held at the Berehove branch of the Zakarpattia archive, offline, not on FamilySearch. That fits a record found outside the standard collection."
+      },
+      {
+        "batch": "B-005",
+        "effect": "80% to 70%",
+        "note": "Ruling X-009: without the record and its archive reference, a claim resting on context is capped at 70."
       }
     ]
   },
@@ -166,7 +172,7 @@
   {
     "id": "H-010",
     "statement": "The copy-book belongs to the Roman Catholic parish of Senné itself and was filmed with the Senné register (L-001).",
-    "confidence": 75,
+    "confidence": 70,
     "basis": "Only the folder name says Senné. The text fits any parish of the Nagykapos district. The Kulin gift note of 1838 is the one local entry.",
     "test": "Film or DGS number and image numbers (R-001); the title board at the start of the film item.",
     "status": "open",
@@ -178,6 +184,11 @@
         "batch": "B-004",
         "effect": "60% to 75%",
         "note": "Places agent: Senné was a Roman Catholic parish under Szatmár from 1804, and Stretavka (Kis-Szeretva) was its filial in 1734, so the Kulin note fits a Senné parishioner."
+      },
+      {
+        "batch": "B-005",
+        "effect": "75% to 70%",
+        "note": "Ruling X-009: capped at 70 until the film or archive reference is in hand."
       }
     ]
   },
@@ -202,7 +213,7 @@
   {
     "id": "H-012",
     "statement": "Mihály Demkó (b. 1882) is the father of Maria Demko, Ahn 9. That would make him Ahn 18 and György Demkó and Mária Hreskó Ahn 36 and 37.",
-    "confidence": 25,
+    "confidence": 30,
     "basis": "The owner filed this under leads and named the file for Mihály, which is what a researcher does with a person on the line. A man born in 1882 fits as father of a woman whose son was born c. 1925-1942.",
     "test": "Maria Demko's birth or marriage record naming her father; any record giving her age.",
     "status": "open",
@@ -219,13 +230,19 @@
         "batch": "B-004",
         "effect": "30% to 25%",
         "note": "Both files in this folder are from 1894-1895. If that window reflects a birth year the owner had for Maria Demko (H-019), Mihály, born 1882, cannot be her father."
+      },
+      {
+        "batch": "B-005",
+        "effect": "25% to 30%",
+        "note": "Ruling X-004 (ledger v2): the owner's labels and filing are priors and move nothing on their own. The B-004 cut that rested on H-019 is undone."
       }
-    ]
+    ],
+    "question": "X-Q-03"
   },
   {
     "id": "H-013",
     "statement": "Maria Demko is a sister of Mihály: a daughter of György Demkó and Mária Hreskó of Viszoka, born c. 1885-1900.",
-    "confidence": 25,
+    "confidence": 20,
     "basis": "Rival to H-012. The same couple could have had a daughter Maria in those years.",
     "test": "Search the same register for other children of this couple, 1875-1900.",
     "status": "open",
@@ -237,20 +254,27 @@
         "batch": "B-004",
         "effect": "20% to 25%",
         "note": "Same reasoning: a birth around 1894-1895 fits a daughter of György Demkó and Mária Hreskó."
+      },
+      {
+        "batch": "B-005",
+        "effect": "25% to 20%",
+        "note": "Same ruling. The B-004 rise that rested on H-019 is undone."
       }
-    ]
+    ],
+    "question": "X-Q-03"
   },
   {
     "id": "H-014",
     "statement": "Maria Demko was born after 1 October 1895, and the record in Uzhhorod is the county copy of a civil birth registration, not a church book.",
     "confidence": 35,
-    "basis": "Hungary began civil registration in October 1895 and second copies went to the county seat, which for Ung county was Ungvár. That explains an Uzhhorod location for a village now in Slovakia. Rival to H-006.",
+    "basis": "Hungary began civil registration in October 1895 and second copies went to the county seat, which for Ung county was Ungvár. That explains an Uzhhorod location for a village now in Slovakia. Rival to H-006. This rule is recalled from training, not sourced (X-010); it can only suggest a test.",
     "test": "Maria's year of birth; the fond and series title of the Uzhhorod record.",
     "status": "open",
     "raised": "B-002",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [],
+    "question": "X-Q-01"
   },
   {
     "id": "H-015",
@@ -267,20 +291,33 @@
         "batch": "B-003",
         "effect": "70% to 35%",
         "note": "The Demko agent reads the officiant as Csurgovich, and on a second look so do I. That is a Greek Catholic clerical surname in this region. Under the 1868 law a son followed his father's church, and the father is Greek Catholic. The book is more likely Greek Catholic."
+      },
+      {
+        "batch": "B-005",
+        "effect": "35% to 35%",
+        "note": "Ruling X-010: that Csurgovich is a Greek Catholic clerical surname is recalled from training, not sourced. No further movement on the name alone. Test: identify the priest and his parish in 1882."
       }
-    ]
+    ],
+    "question": "X-Q-02"
   },
   {
     "id": "H-016",
     "statement": "György Demko of Gönyű 24 (1895) is a different man from György Demkó of Viszoka 132 (1882), and the two households are different Demko families.",
-    "confidence": 75,
+    "confidence": 65,
     "basis": "Different wife (Katalin Jobbágy against Mária Hreskó), different county (Abaúj-Torna against Ung), about 80 km apart, both settled farmers. Demko and György are both common.",
     "test": "Marriage entry of György Demko and Katalin Jobbágy, giving his age, birthplace and whether he was a widower.",
     "status": "open",
     "raised": "B-004",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-005",
+        "effect": "75% to 65%",
+        "note": "Coordinator, X-Q-04: one man with two marriages has not been ruled out. Held at 65 until the Demko agent tests it."
+      }
+    ],
+    "question": "X-Q-04"
   },
   {
     "id": "H-017",
@@ -304,7 +341,13 @@
     "raised": "B-004",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-005",
+        "effect": "65% to 65%",
+        "note": "Rests on a folder name, which ruling X-004 treats as a prior. Kept on the board as a question about the archive, and it moves no other entry. Kevin has since said that everything given to this agent comes from his Duska folder (S-000-3)."
+      }
+    ]
   },
   {
     "id": "H-019",
@@ -316,6 +359,13 @@
     "raised": "B-004",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-005",
+        "effect": "30% to 30%",
+        "note": "Rests on which files the owner kept, a prior under ruling X-004. It moves no other entry until a record gives Maria Demko's age."
+      }
+    ],
+    "question": "X-Q-03"
   }
 ]

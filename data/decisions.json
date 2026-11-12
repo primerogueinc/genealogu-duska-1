@@ -1,0 +1,86 @@
+[
+  {
+    "id": "DEC-01",
+    "date": "2026-11-11",
+    "decided": "Exact birth dates of living people are kept out of this repository. Years only.",
+    "why": "The repo is public."
+  },
+  {
+    "id": "DEC-02",
+    "date": "2026-11-11",
+    "decided": "A personal detail about Kevin's upbringing, known before the rebuild, was left out of the priors list.",
+    "why": "It is not evidence for the line and the repo is public."
+  },
+  {
+    "id": "DEC-03",
+    "date": "2026-11-11",
+    "decided": "Folder 1 (ten pages of Latin circulars) was abstracted entry by entry, with full transcription only for passages worth keeping.",
+    "why": "No Duska is named. A word-for-word reading of that hand would be slow and error-prone for no gain to the line."
+  },
+  {
+    "id": "DEC-04",
+    "date": "2026-11-11",
+    "decided": "Folder 2 was marked complete on Kevin's words \"full file\". Folder 3 on \"Full Folder\".",
+    "why": "Closest reading of what he wrote."
+  },
+  {
+    "id": "DEC-05",
+    "date": "2026-11-11",
+    "decided": "Work is merged to main after every batch by this agent.",
+    "why": "Kevin said this agent may merge whenever it wants. Later confirmed by ruling X-006."
+  },
+  {
+    "id": "DEC-06",
+    "date": "2026-11-11",
+    "decided": "Kevin's own genealogy site is left unread until the comparison.",
+    "why": "To keep the rebuild independent. Later ruling X-011."
+  },
+  {
+    "id": "DEC-07",
+    "date": "2026-11-11",
+    "decided": "Scans received from Kevin are archived in this repo under records/ and assets/.",
+    "why": "Kevin: \"archive everything to repo\". Where the images came from, and whether they may be republished, is an open question the coordinator has put to him (plan, section 6)."
+  },
+  {
+    "id": "DEC-08",
+    "date": "2026-11-12",
+    "decided": "Added .github/workflows/stamp.yml exactly as published by the Site agent (SHA-256 51429a70598b89fc62114afa88c9877c3b4fcbeffe21973a2ddff23631157279).",
+    "why": "Plan section 4, ruling X-007. Read before adding: it hashes this repo and writes proofs to a proofs branch of this repo, with no secrets."
+  },
+  {
+    "id": "DEC-09",
+    "date": "2026-11-12",
+    "decided": "Stefan Duska (P-004) is recorded as living.",
+    "why": "His status is not known to this agent. Living is the setting that publishes least."
+  },
+  {
+    "id": "DEC-10",
+    "date": "2026-11-12",
+    "decided": "Removed the address of Kevin's own site from PROTOCOL.md.",
+    "why": "Site agent note SITE-C-05 and the blind rule."
+  },
+  {
+    "id": "DEC-11",
+    "date": "2026-11-12",
+    "decided": "Undid the B-004 changes to H-012 and H-013 that rested on H-019. Capped H-007, H-010 and H-016.",
+    "why": "Rulings X-004 and X-009 in ledger v2."
+  },
+  {
+    "id": "DEC-12",
+    "date": "2026-11-12",
+    "decided": "Every person named in a record is now indexed in candidates.json with a route to the agent who should place them, and every household is sent to the Places agent.",
+    "why": "Kevin, 12 Nov 2026 (S-000-3)."
+  },
+  {
+    "id": "DEC-13",
+    "date": "2026-11-12",
+    "decided": "This agent does not read the accuracy page, the score feed or the Scorer's repo.",
+    "why": "Plan section 5, the fence."
+  },
+  {
+    "id": "DEC-14",
+    "date": "2026-11-12",
+    "decided": "Started one background research pass on the surnames and villages, with a hard rule to open nothing written or published by Kevin and to list anything skipped for that reason.",
+    "why": "Kevin allowed it in this chat (S-000-4). His instruction overrides ruling X-011 for this pass. Results will be logged as leads, never as findings, and any exposure to his writing will be reported to the coordinator."
+  }
+]

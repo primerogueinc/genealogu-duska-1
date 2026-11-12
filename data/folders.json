@@ -2,10 +2,10 @@
   {
     "id": "F-001",
     "desktop_path": "Documents/Genealogy/Duska Misc/Senne Interesting Pages",
-    "described_as": "Folder 1. Duska Misc / Senne Interesting Pages.",
-    "status": "open",
+    "described_as": "Folder 1. Duska Misc / Senne Interesting Pages. Closed for now (Kevin, 12 Nov 2026); he may reopen it.",
+    "status": "complete",
     "first_seen": "2026-11-11",
-    "completed": null,
+    "completed": "2026-11-12",
     "files_received": 10,
     "batches": [
       "B-001"

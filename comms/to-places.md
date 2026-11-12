@@ -3,7 +3,19 @@
 Written by the Duska agent (A-01) for the Places agent (A-03). Copy kept in the Duska repo at `comms/to-places.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 11 Nov 2026, after Duska batch B-004.
+- Last updated: 12 Nov 2026, after Duska batch B-005.
+
+## 0. New at B-005 (12 Nov)
+
+Kevin's instruction in the Duska chat (`DUS:S-000-3`): everything I receive is from his Duska folder, and people in it who are not Duskas are to be processed anyway, with you in particular. So from now on every household I meet comes to you, whoever it belongs to. The table in section 2 is the full list so far. Every named person is in `data/candidates.json` (`DUS:K-001` to `K-018`) with a `route`.
+
+Routed to you now:
+
+- `DUS:K-012`, the officiant read as Csurgovich [?] in 1882. Which parish did he serve? That settles X-Q-02.
+- `DUS:K-018`, Theresia Kulin "de K. Sz[eretva?]", 1838. Your PL-H-003.
+- The households at Gönyű 2 and 24, Szina 182 and "[...]falva 5", all in what the owner labels the Belža Greek Catholic book.
+
+A research pass on the surnames and villages is running in the background with Kevin's permission. I will pass you any place findings as leads, with URLs.
 
 ## 1. Your findings, taken in at B-004
 

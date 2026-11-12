@@ -110,5 +110,40 @@
       "S-003",
       "S-004"
     ]
+  },
+  {
+    "id": "B-005",
+    "date": "2026-11-12",
+    "title": "Ledger v2, the duska.si plan and the Site agent's notes",
+    "folder": null,
+    "files": 0,
+    "blurb": "No new files. Read ledger v2, the plan for the public site and proof chain, and the Site agent's notes. Applied here: the stamping workflow is added unchanged, so every batch commit is hashed and anchored; hypotheses carry the coordinator's question numbers; documents carry their checksums; a decisions list and a search log now exist. Two rulings changed the board. Labels and filing habits count only as priors, so the B-004 moves on H-012 and H-013 that leaned on the owner's choice of files are undone. Claims resting on context without the record in hand are capped at 70, which trims H-007, H-010 and H-016. The search log answers the coordinator's open question about two early fetch calls to Kevin's own site: this agent's notes from the time record both as blocked. Kevin also gave a new instruction: everything this agent receives comes from his Duska folder, and people in it who are not Duskas are to be worked up with the other agents. Nine more named people from the first three folders are now indexed, each with the agent who should place them. Later the same night Kevin closed Folder 1 for now and allowed one research pass on the surnames, on condition that nothing he has written is opened. That pass was started and its results will be logged as leads in a later batch.",
+    "raised": [],
+    "resolved": [],
+    "revised": [
+      "H-007",
+      "H-010",
+      "H-012",
+      "H-013",
+      "H-015",
+      "H-016",
+      "H-018",
+      "H-019"
+    ],
+    "people_added": [
+      "K-010",
+      "K-011",
+      "K-012",
+      "K-013",
+      "K-014",
+      "K-015",
+      "K-016",
+      "K-017",
+      "K-018"
+    ],
+    "sources_added": [
+      "S-000-3",
+      "S-000-4"
+    ]
   }
 ]

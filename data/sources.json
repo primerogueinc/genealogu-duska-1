@@ -46,5 +46,21 @@
     "title": "Baptism of Mária Hriczko, entry 33, born and baptised 29 Aug [1894]",
     "extract": "Father József Hriczko, Greek Catholic, cottar. Mother Erzsébet Kocsis, Roman Catholic. Residence Szina (Seňa), house 182. Legitimate. Entry 34 on the same strip is an unrelated child.",
     "reliability": "Derivative, as S-003. The year is not on the strip and comes from the file name. Parish comes from the folder name only."
+  },
+  {
+    "id": "S-000-3",
+    "batch": "B-005",
+    "type": "Statement by the subject",
+    "title": "Kevin J.S. Duska Jr., Duska chat, 12 Nov 2026",
+    "extract": "Everything handed to this agent comes from his Duska folder. People in it who are not named Duska are to be processed anyway, working with the other agents and the Places agent in particular.",
+    "reliability": "First-hand, heard directly. It describes how his archive is organised, which is an owner's label under ruling X-004."
+  },
+  {
+    "id": "S-000-4",
+    "batch": "B-005",
+    "type": "Statement by the subject",
+    "title": "Kevin J.S. Duska Jr., Duska chat, 12 Nov 2026: research permission",
+    "extract": "This agent may run a deep research pass on the surnames, provided it looks at nothing he has written on the web. He adds that the Senné municipal website tells an interesting story about the village. He also closed Folder 1 for now.",
+    "reliability": "First-hand, heard directly."
   }
 ]

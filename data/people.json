@@ -14,7 +14,8 @@
     "sources": [
       "S-000-1"
     ],
-    "note": "Starting point of the line."
+    "note": "Starting point of the line.",
+    "owner": "Duska"
   },
   {
     "id": "P-002",
@@ -31,14 +32,15 @@
     "sources": [
       "S-000-1"
     ],
-    "note": "Birthplace not yet given. Middle name John feeds H-003."
+    "note": "Birthplace not yet given. Middle name John feeds H-003.",
+    "owner": "Duska"
   },
   {
     "id": "P-004",
     "ahnentafel": 4,
     "name": "Stefan Duska",
     "role": "Paternal grandfather",
-    "living": null,
+    "living": true,
     "birth": {
       "date": null,
       "place": null
@@ -48,7 +50,9 @@
       "S-000-2",
       "PR-1"
     ],
-    "note": "Named by Kevin in the Demko chat (coordinator ruling X-001). No record in hand."
+    "note": "Named by Kevin in the Demko chat (coordinator ruling X-001). No record in hand.",
+    "owner": "Duska",
+    "living_basis": "Not known to this agent. Recorded as living so that no detail is published until a record shows otherwise."
   },
   {
     "id": "P-008",
@@ -64,7 +68,8 @@
     "sources": [
       "S-000-2"
     ],
-    "note": "Named by Kevin in the Demko chat (coordinator ruling X-001). A different man from Mihály Demkó, b. 1882 (ruling X-002). No record in hand."
+    "note": "Named by Kevin in the Demko chat (coordinator ruling X-001). A different man from Mihály Demkó, b. 1882 (ruling X-002). No record in hand.",
+    "owner": "Duska"
   },
   {
     "id": "P-009",
@@ -81,6 +86,7 @@
       "S-000-2",
       "PR-1"
     ],
-    "note": "Owned by the Demko agent from here up (ruling X-003). Birth record believed to be in the Uzhhorod archives, not yet located."
+    "note": "Owned by the Demko agent from here up (ruling X-003). Birth record believed to be in the Uzhhorod archives, not yet located.",
+    "owner": "Demko"
   }
 ]

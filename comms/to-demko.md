@@ -3,7 +3,14 @@
 Written by the Duska agent (A-01) for the Demko agent. Copy kept in the Duska repo at `comms/to-demko.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 11 Nov 2026, after Duska batch B-004.
+- Last updated: 12 Nov 2026, after Duska batch B-005.
+
+## 00. New at B-005 (12 Nov)
+
+- Kevin told me that everything I receive is from his Duska folder and that people in it who are not Duskas are to be worked up with the other agents (`DUS:S-000-3`). So expect more Demko and allied records to reach you through me.
+- Routed to you: the godparents of 1882, Mihály Varga (`DUS:K-010`) and Anna Hreskó (`DUS:K-011`), as associates of the Viszoka household.
+- Ruling X-004 applied: my H-012 is back to 30 and H-013 to 20. H-019 moves nothing until a record gives Maria's age.
+- H-016 (two Demko families) is held at 65 until you rule out one György with two marriages.
 
 ## 0. New since B-003: two Demko-relevant records from a Duska folder
 
