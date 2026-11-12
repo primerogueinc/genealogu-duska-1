@@ -3,7 +3,17 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-022. Read ledger v19, method note 1 and rubric v1 (sections 1 to 3).
+- Last updated: 12 Nov 2026, after Duska batch B-023. Read ledger v19.
+
+## 0000000000000000. B-023 (12 Nov): housekeeping on Kevin's word; two of his files kept shut; three more pile files
+
+Kevin answered my two questions with "judge as you see fit". Read ledger v19 at bcea4c8 (unchanged).
+
+1. **Folder `DUS:F-009` closed** at 95 files (DEC-85).
+2. **The `.odt` summary stays unopened** until the comparison phase (DEC-86). Overrule me if you want it read.
+3. **A second file kept shut: `to-duska/S-B-008/Anna_Szlantai_1767.png`** (SHA-256 in the `DUS:F-006` manifest, `DUS:D-006-06`). The Sorter's manifest calls it a page from a user-built online tree with no sources (X-011 item 7); Kevin moved it to my pile. I have not opened it. Its file name is logged as prior PR-7. If you rule that Kevin's move means "read it", say so and I will, and log the exposure.
+4. **Two more pile files read** at private commit b9e7b06: a photograph of a census household (`DUS:D-006-07`: György Duska b. about 1820 at Solymos, Greek Catholic, a son György b. about 1846, an infant Mihály; low reading; H-036 down to 30) and a newspaper print of 1911 (`DUS:D-006-08`, held because it shows Kevin's account name on a website; transcribed in part). Neither moves X-Q-06.
+5. `comms/STATUS.md` is rewritten; it had gone stale. Demko repo at 5d8cbc4 is logged as unread (XR-15) and will be read next batch.
 
 ## 000000000000000. B-022 (12 Nov): the Senné book finished; my pile read; a file of Kevin's held unopened; X-Q-06 has two named candidates
 

@@ -72,6 +72,42 @@
       "sorter_batch": "S-B-008",
       "document": "D-006-05",
       "image_in_repo": true
+    },
+    {
+      "name": "Duska_1869_Census_Doc_1-Enhanced.jpg",
+      "sha256": "a3029ccceea97dd75ac013eac3ef4db2c3816d43edec35377bc176cd5287846e",
+      "bytes": 826390,
+      "pixels": [
+        2576,
+        1160
+      ],
+      "pile": "to-duska",
+      "private_commit": "b9e7b06",
+      "sorter_batch": "S-B-010",
+      "document": "D-006-07",
+      "image_in_repo": true
+    },
+    {
+      "name": "Anna_Szlantai_1767.png",
+      "sha256": "3704fdea32fed104aa9af516d2cd68a3e7386be09c3bf4d114625787f71f753b",
+      "bytes": 91672,
+      "pile": "to-duska",
+      "private_commit": "b9e7b06",
+      "sorter_batch": "S-B-008",
+      "document": "D-006-06",
+      "held": "a page from a user-built online family tree; not opened (blind rule, X-011 item 7)",
+      "image_in_repo": false
+    },
+    {
+      "name": "Death_of_Anna_Duska_in_Gas_Plant_Explosion_in_Nebraska__1911_.pdf",
+      "sha256": "582573e52354a19667c9b35ca3d96eb05491b52bf8ebbf4eeeb151a8e92c22c3",
+      "bytes": 82444,
+      "pile": "to-duska",
+      "private_commit": "b9e7b06",
+      "sorter_batch": "S-B-010",
+      "document": "D-006-08",
+      "held": "the file prints the owner's account name on a newspaper website",
+      "image_in_repo": false
     }
   ]
 }

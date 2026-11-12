@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-022 (read ledger v19). Requests R-001 to R-011 are released to the owner. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-023 (read ledger v19). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -17,23 +17,21 @@ Updated 2026-11-12 after batch B-022 (read ledger v19). Requests R-001 to R-011 
 - F-008 `Presov - Greek Catholic` (4 files, complete): Latin baptisms at Eperjes, 1804 to 1822; a Nyemcsik, a Kocsis, and the son of a priest named Demko. No Duska.
 - F-009 `Senne - Roman Catholic` (eight parts, 95 files, open until the owner closes it; one text document held unopened): Roman Catholic Duskas of Senné, 1866 to 1912. Two baptisms of a Mihály Duska: 1896 (the miller's son) and 1903 (son of András Duska and Anna Nyemcsik). Ahn 8 is one of them: H-046 (1903) 55, H-047 (1896) 22.
 - F-006, pile `to-duska/` at 4f16658 (4 files): the marriage of András Duska and Anna Nyemcsik, 1892; a second photograph of Mary Demko's gravestone; a screenshot of the Senné register with its catalogue path; Reformed burials at Solymos, 1831 to 1841.
+- F-006 `AAAA Unclassified` through the Sorter's piles (8 files so far, open): D-006-01, -06 and -08 are held (name and SHA-256 only); -06 is not opened.
+- F-007 `Inacovce - Reformed` (45 files, complete): Reformed Duska households of Solymos, 1830s to 1902.
+- F-008 `Presov - Greek Catholic` (4 files, complete): no Duska.
+- F-009 `Senne - Roman Catholic` (95 files, complete, closed by DUS at B-023): the Roman Catholic Duskas of Senné, 1866 to 1912. One text file of the owner's is held unopened.
 
 ## Concluded
 
-- Direct line: Ahn 1 and 2 by Kevin's statement. Ahn 4 Štefan (b. 1929, Senné 160), Ahn 8 Michal (Mike) Duska and Ahn 9 Maria Demko documented by the 1947 certificate, the gravestone and the 1966 deed.
-- Ahn 9 is Maria Demko by Kevin's prior statement. No record yet.
-- H-009 solved: Folder 1 is not a register.
-- H-015 refuted: the 1882 strip is from the Čičarovce Greek Catholic register.
-- Mária Hreskó was already a mother in January 1857.
+- Ahn 4 Štefan Duska, b. 21 Oct 1929 at Senné 160, son of Michal Duska, Roman Catholic cottar, and Maria Demko (documented).
+- Michal Duska (Ahn 8) was born at Senné and baptised Roman Catholic: H-030, 70, supported.
+- Two baptisms fit him: Mihály, b. 3 Jul 1903, son of András Duska and Anna Nyemcsik (H-046, 55); Mihály, b. 6 Dec 1896, son of the miller Mihály Duska and Anna Halász (H-047, 22). Not decided.
+- András Duska (1868 to 1940) is a son of György Duska the elder and Anna Krak, and married Anna Nyemcsik on 18 Jan 1892 (H-048, H-051, both 70).
+- The 'Inacovce Reformed' strips are the Reformed register kept in the Lúčky parish (H-043, 70).
 
 ## Open questions that touch other agents
 
-- DEM: is Mihály Demkó (b. 1882) the father of Maria Demko (H-012, 25%) or her brother (H-013, 8%)?
-- DEM: was Maria Demko born after October 1895 (H-014)?
-- PLA: which parish served Viszoka in 1882, and is the Čičarovce register Roman Catholic or Greek Catholic (H-015, now 35% for Roman Catholic)?
-- PLA: did Senné have its own Roman Catholic parish in 1837, or was it a filial (H-010)?
-- DEM: are the Gönyű Demkos (1895) a different family from the Viszoka Demkos (H-016)? Is Hriczko a variant of Hreskó (H-017)?
-- PLA: was Belža a Greek Catholic parish covering Gyňov and Seňa in 1894-1895?
-- COORD: one case against the daughters-follow-mother default (see comms/to-coordinator.md).
-- ALL: every named person in my folders is indexed in data/candidates.json with a route. A background research pass on the surnames is running with Kevin's permission; results will be logged as leads.
-- DEM: folders F-003 and F-004 here are yours by content. Route codes are on every document, family and person. Cross-review of your repo at 035aef0 found nothing for the Duska line.
+- DEM: the Kocsis and Demko entries in the Senné Roman Catholic book (FG-53, FG-56, FG-58) are yours to place. H-038, H-039 and H-044 are routed to you.
+- PLA: the archive reference of the Senné Roman Catholic book before 1866; what 'I[sk]e' or 'Deba' after Anna Krak's name in the 1892 marriage stands for; where the Ung county census sheets of 1869 are kept (R-002).
+- COORD: two files of the owner's own making are held unopened (the `.odt` summary and a family tree page). X-Q-06 stands at two named candidates.

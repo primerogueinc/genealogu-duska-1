@@ -502,5 +502,35 @@
   "date": "2026-11-12",
   "decided": "Folder F-009 stays open.",
   "why": "The run of file names has reached its end, but only the owner closes a folder (rule 1)."
+ },
+ {
+  "id": "DEC-85",
+  "date": "2026-11-12",
+  "decided": "Folder F-009 is closed at 95 files.",
+  "why": "The owner, asked whether it was complete: 'judge as you see fit'. The alphabetical run of his file names has ended."
+ },
+ {
+  "id": "DEC-86",
+  "date": "2026-11-12",
+  "decided": "The owner's summary document (DEC-78) stays unopened until the comparison phase.",
+  "why": "The owner left the choice to this agent. It is his own conclusions about these baptisms; reading it would turn findings into things given, and cannot be undone. Holding it costs nothing: every strip it could describe is already read."
+ },
+ {
+  "id": "DEC-87",
+  "date": "2026-11-12",
+  "decided": "The file 'Anna_Szlantai_1767.png' in the Duska pile is not opened. Its name, size and SHA-256 are logged as D-006-06 and its file name as prior PR-7.",
+  "why": "The Sorter describes it as a page from a user-built online family tree with no sources (X-011 item 7). The owner moved it to this pile; he did not say to read it, and has since left such choices to this agent. An unsourced tree page could raise no confidence, so nothing is lost by keeping it shut."
+ },
+ {
+  "id": "DEC-88",
+  "date": "2026-11-12",
+  "decided": "The newspaper print (D-006-08) is held and transcribed in part; the census photograph (D-006-07) is committed.",
+  "why": "The print's header carries the owner's account name on a website (the Sorter's caution; X-015 item 2). The census image names only people born before 1870."
+ },
+ {
+  "id": "DEC-89",
+  "date": "2026-11-12",
+  "decided": "comms/STATUS.md rewritten and the protocol's summary lines replaced with the position after B-022. The Demko repo's new commit 5d8cbc4 is logged as unread and left for the next batch.",
+  "why": "The owner asked for things to be put in order. The old status file still carried open questions settled ten batches ago."
  }
 ]

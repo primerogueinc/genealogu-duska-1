@@ -1918,5 +1918,29 @@
     "title": "Burials at Solymos, Reformed register, page 133, 1831 to 1841: György Dusko (1833) and Pál Duska (1838)",
     "extract": "A two-page spread of a handwritten burial register with Hungarian headings: date of death and of burial, name, age in years, months and days, illness, and manner of burial. The surnames on it (Kenderes, Kudrócs, Knyezso, Dzvonyik, Kolyibás) are those of the Reformed baptisms of Solymos in folder F-007, so this is taken to be the Reformed burial book of the same place; the image carries no title. Two entries name the family. Under 1833, no. 3: György Dusko, buried 27 February, aged 29. Under 1838, no. 2: Pál Duska, buried in May, aged 68; the illness reads as dropsy (vízibetegség) and he was buried 'with a sermon' (tanítással). The image is small and the writing is at the limit of what it will bear: names and ages are read, days and causes are doubtful. Pál Duska, born about 1770, is the oldest person of the surname in the archive.",
     "reliability": "Reading level: low. The pile it came from is the sorter's label and is not evidence."
+  },
+  {
+    "id": "S-234",
+    "batch": "B-023",
+    "type": "Screenshot of an online family tree page (derivative, unsourced; not opened)",
+    "title": "A screenshot of a profile page from an online family tree, not opened",
+    "extract": "Not opened and not read. The Sorter's manifest describes it as a screenshot of a person's profile page in a user-built family tree on a genealogy website, marked 'Sources: No sources', naming several Duskas. The Sorter held it back and the owner moved it to this pile. A page from a compiled tree with no sources could not move any confidence here, and the tree may be the owner's own, which this rebuild is to be compared with. So it stays closed until the comparison phase. Only its file name, size and SHA-256 are recorded; the file name is the owner's label and is logged as prior PR-7.",
+    "reliability": "Not opened; no reading."
+  },
+  {
+    "id": "S-235",
+    "batch": "B-023",
+    "type": "Census household form, photograph of a screen (original record, poor image)",
+    "title": "Census household of György Duska, Greek Catholic, born at Solymos: a photograph of a screen, [1869]",
+    "extract": "A photograph of a computer screen showing one household on a printed Hungarian census form. Five people: György Duska, male, born about 1820, at Solymos in Ung county; a woman Zsuzsanna, born about 1820; György Duska, male, born about 1846, at Solymos, with the note that he works beside his father; a woman whose name begins with P, born about 1845; and Mihály Duska, male, born in a year ending in 9, read as 1869. All five have the same religion, read as Greek Catholic. The photograph is blurred: surnames and sexes are read, the years are doubtful to a digit, and the village, house number and page are not in the picture. That it is the census of 1869 is the owner's label; the form and the youngest birth year agree with it. It looks like a father and mother, their married son and his wife, and an infant grandson. A Mihail Dusko was baptised in the Iňačovce Greek Catholic book in September [1869], son of György Dusko (D-005, FG-25); his mother there is Mária Hornyák, which does not match the fourth name here.",
+    "reliability": "Reading level: low. The year is the owner's label. The pile is the sorter's label and is not evidence."
+  },
+  {
+    "id": "S-236",
+    "batch": "B-023",
+    "type": "Newspaper report (derivative source, printed far from the event), as a print from a newspaper archive",
+    "title": "Newspaper report of an explosion at Niobrara, Nebraska, that killed an Annie Duska, January 1911",
+    "extract": "A one-page print of a clipping from an Ohio newspaper, the Telegraph-Forum of Bucyrus, 17 January 1911, page 4. A report from Niobrara, Nebraska, dated 16 January: the gas lighting plant of the Hubbard hotel exploded and four people died, among them an Annie Duska; a fire followed and burned the hotel. The clipping is cut off down its right edge, so her name is complete only in the title the owner gave it. Nothing in it says where she came from, how old she was or whose kin she was. The file is held because its header carries the owner's account name on the newspaper site; the report itself is transcribed here in part.",
+    "reliability": "A wire report reprinted in another state; names may be garbled. Reading level: medium."
   }
 ]

@@ -9847,5 +9847,127 @@
         "english": "A two-page spread of a handwritten burial register with Hungarian headings: date of death and of burial, name, age in years, months and days, illness, and manner of burial. The surnames on it (Kenderes, Kudrócs, Knyezso, Dzvonyik, Kolyibás) are those of the Reformed baptisms of Solymos in folder F-007, so this is taken to be the Reformed burial book of the same place; the image carries no title. Two entries name the family. Under 1833, no. 3: György Dusko, buried 27 February, aged 29. Under 1838, no. 2: Pál Duska, buried in May, aged 68; the illness reads as dropsy (vízibetegség) and he was buried 'with a sermon' (tanítással). The image is small and the writing is at the limit of what it will bear: names and ages are read, days and causes are doubtful. Pál Duska, born about 1770, is the oldest person of the surname in the archive."
       }
     ]
+  },
+  {
+    "id": "D-006-06",
+    "folder": "F-006",
+    "batch": "B-023",
+    "source": "S-234",
+    "file": "Anna_Szlantai_1767.png",
+    "sha256": "3704fdea32fed104aa9af516d2cd68a3e7386be09c3bf4d114625787f71f753b",
+    "wide": true,
+    "held": "a page from a user-built online family tree; not opened (blind rule, X-011 item 7)",
+    "title": "A screenshot of a profile page from an online family tree, not opened",
+    "span": "unknown",
+    "language": "unknown",
+    "collector_label": "Anna Szlantai 1767",
+    "family": null,
+    "route": "duska",
+    "pile": "to-duska",
+    "private_commit": "b9e7b06",
+    "provenance": {
+      "archive": "none",
+      "fond_or_film": "unknown",
+      "book": "not applicable",
+      "page_or_image": "not opened",
+      "obtained": "From the owner's folder 'AAAA Unclassified', through the Sorter's pile 'to-duska' in the private repository at commit b9e7b06 (Sorter batch S-B-008). How the owner obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "unknown",
+        "from": "Screenshot of an online family tree page (derivative, unsourced; not opened)",
+        "abstract": "Not opened and not read. The Sorter's manifest describes it as a screenshot of a person's profile page in a user-built family tree on a genealogy website, marked 'Sources: No sources', naming several Duskas. The Sorter held it back and the owner moved it to this pile. A page from a compiled tree with no sources could not move any confidence here, and the tree may be the owner's own, which this rebuild is to be compared with. So it stays closed until the comparison phase. Only its file name, size and SHA-256 are recorded; the file name is the owner's label and is logged as prior PR-7.",
+        "reading": "n/a"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Not transcribed.",
+        "original": "[not opened]",
+        "english": "Not opened and not read. The Sorter's manifest describes it as a screenshot of a person's profile page in a user-built family tree on a genealogy website, marked 'Sources: No sources', naming several Duskas. The Sorter held it back and the owner moved it to this pile. A page from a compiled tree with no sources could not move any confidence here, and the tree may be the owner's own, which this rebuild is to be compared with. So it stays closed until the comparison phase. Only its file name, size and SHA-256 are recorded; the file name is the owner's label and is logged as prior PR-7."
+      }
+    ]
+  },
+  {
+    "id": "D-006-07",
+    "folder": "F-006",
+    "batch": "B-023",
+    "source": "S-235",
+    "file": "Duska_1869_Census_Doc_1-Enhanced.jpg",
+    "sha256": "a3029ccceea97dd75ac013eac3ef4db2c3816d43edec35377bc176cd5287846e",
+    "wide": true,
+    "title": "Census household of György Duska, Greek Catholic, born at Solymos: a photograph of a screen, [1869]",
+    "span": "[1869, by the owner's label]",
+    "language": "Hungarian",
+    "collector_label": "Duska 1869 Census Doc 1-Enhanced",
+    "family": "FG-25",
+    "route": "duska",
+    "pile": "to-duska",
+    "private_commit": "b9e7b06",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Printed Hungarian census household form; the 1869 census by the owner's label",
+      "page_or_image": "one household; village and house number not shown",
+      "obtained": "From the owner's folder 'AAAA Unclassified', through the Sorter's pile 'to-duska' in the private repository at commit b9e7b06 (Sorter batch S-B-010). How the owner obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "1 to 5",
+        "date": "[1869]",
+        "from": "Census household form, photograph of a screen (original record, poor image)",
+        "abstract": "A photograph of a computer screen showing one household on a printed Hungarian census form. Five people: György Duska, male, born about 1820, at Solymos in Ung county; a woman Zsuzsanna, born about 1820; György Duska, male, born about 1846, at Solymos, with the note that he works beside his father; a woman whose name begins with P, born about 1845; and Mihály Duska, male, born in a year ending in 9, read as 1869. All five have the same religion, read as Greek Catholic. The photograph is blurred: surnames and sexes are read, the years are doubtful to a digit, and the village, house number and page are not in the picture. That it is the census of 1869 is the owner's label; the form and the youngest birth year agree with it. It looks like a father and mother, their married son and his wife, and an infant grandson. A Mihail Dusko was baptised in the Iňačovce Greek Catholic book in September [1869], son of György Dusko (D-005, FG-25); his mother there is Mária Hornyák, which does not match the fourth name here.",
+        "reading": "low"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "As far as it can be read. Square brackets mark doubtful or supplied readings.",
+        "original": "[printed Hungarian census household form; headings cut off] || 1 | 1 | Duska György | férfi | 18[20] | g. kath. | [...] | [...] | Ma[gyarország] Ungh Solymos || 2 | [Duska?] Zsuzsanna | nő | 18[20] | g. kath. | [...] | [háziasszony?] | [J...] || 3 | Duska György | férfi | 18[46] | g. kath. | [...] | apja mellett dolgoz[ik] | Solymos || 4 | P[...] Zsuzsa [?] | nő | 18[45] | g. kath. | [...] | | [N...] || 5 | Duska Mihály | férfi | 18[6]9 | g. kath. | | | [Solymos?]",
+        "english": "A photograph of a computer screen showing one household on a printed Hungarian census form. Five people: György Duska, male, born about 1820, at Solymos in Ung county; a woman Zsuzsanna, born about 1820; György Duska, male, born about 1846, at Solymos, with the note that he works beside his father; a woman whose name begins with P, born about 1845; and Mihály Duska, male, born in a year ending in 9, read as 1869. All five have the same religion, read as Greek Catholic. The photograph is blurred: surnames and sexes are read, the years are doubtful to a digit, and the village, house number and page are not in the picture. That it is the census of 1869 is the owner's label; the form and the youngest birth year agree with it. It looks like a father and mother, their married son and his wife, and an infant grandson. A Mihail Dusko was baptised in the Iňačovce Greek Catholic book in September [1869], son of György Dusko (D-005, FG-25); his mother there is Mária Hornyák, which does not match the fourth name here."
+      }
+    ]
+  },
+  {
+    "id": "D-006-08",
+    "folder": "F-006",
+    "batch": "B-023",
+    "source": "S-236",
+    "file": "Death_of_Anna_Duska_in_Gas_Plant_Explosion_in_Nebraska__1911_.pdf",
+    "sha256": "582573e52354a19667c9b35ca3d96eb05491b52bf8ebbf4eeeb151a8e92c22c3",
+    "wide": true,
+    "held": "the file prints the owner's account name on a newspaper website",
+    "title": "Newspaper report of an explosion at Niobrara, Nebraska, that killed an Annie Duska, January 1911",
+    "span": "report dated 16 January 1911; printed 17 January 1911",
+    "language": "English",
+    "collector_label": "Death of Anna Duska in Gas Plant Explosion in Nebraska  1911 ",
+    "family": null,
+    "route": "duska",
+    "pile": "to-duska",
+    "private_commit": "b9e7b06",
+    "provenance": {
+      "archive": "a newspaper archive website, by the print's footer",
+      "fond_or_film": "unknown",
+      "book": "Telegraph-Forum, Bucyrus, Ohio",
+      "page_or_image": "17 January 1911, page 4",
+      "obtained": "From the owner's folder 'AAAA Unclassified', through the Sorter's pile 'to-duska' in the private repository at commit b9e7b06 (Sorter batch S-B-010). How the owner obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "report dated 16 January 1911; printed 17 January 1911",
+        "from": "Newspaper report (derivative source, printed far from the event), as a print from a newspaper archive",
+        "abstract": "A one-page print of a clipping from an Ohio newspaper, the Telegraph-Forum of Bucyrus, 17 January 1911, page 4. A report from Niobrara, Nebraska, dated 16 January: the gas lighting plant of the Hubbard hotel exploded and four people died, among them an Annie Duska; a fire followed and burned the hotel. The clipping is cut off down its right edge, so her name is complete only in the title the owner gave it. Nothing in it says where she came from, how old she was or whose kin she was. The file is held because its header carries the owner's account name on the newspaper site; the report itself is transcribed here in part.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "As written, in part.",
+        "original": "Telegraph-Forum (Bucyrus, Ohio), 17 Jan 1911, Tue, page 4. || FOUR KILLED IN EXPL[OSION] | Gas Plant Blows Up, D[...] Nebraska Hotel. | Niobrara, Neb., Jan. 16.—A[n explo]sion of the gas lighting plan[t ...] Hubbard hotel caused the [...] M. W. Kimball, Annie Dus[ka ...] [the right-hand edge of the column is cut off in the clipping]",
+        "english": "A one-page print of a clipping from an Ohio newspaper, the Telegraph-Forum of Bucyrus, 17 January 1911, page 4. A report from Niobrara, Nebraska, dated 16 January: the gas lighting plant of the Hubbard hotel exploded and four people died, among them an Annie Duska; a fire followed and burned the hotel. The clipping is cut off down its right edge, so her name is complete only in the title the owner gave it. Nothing in it says where she came from, how old she was or whose kin she was. The file is held because its header carries the owner's account name on the newspaper site; the report itself is transcribed here in part."
+      }
+    ]
   }
 ]

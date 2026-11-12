@@ -238,6 +238,11 @@
     "batch": "B-008",
     "effect": "70% unchanged",
     "note": "Places agent, 12 Nov: two more reports place the Ung county 1869 sheets in the Zakarpattia archive, one giving the Berehove branch, fond 7/2. Already at the cap."
+   },
+   {
+    "batch": "B-023",
+    "effect": "no change",
+    "note": "An image of a census household is now in hand (D-006-07), so the owner's census find is real. It is a photograph of a screen with no village, page or archive on it, so where the Ung county sheets are kept is no better known than before. Stays at the cap."
    }
   ]
  },
@@ -865,6 +870,11 @@
     "batch": "B-022",
     "effect": "lowered from 8 to 2",
     "note": "The Senné book supplies its own grandparents for both candidates. Rivals for Michal's parentage now sum to 85."
+   },
+   {
+    "batch": "B-023",
+    "effect": "no change",
+    "note": "The Greek Catholic household of György Duska now has a census form: grandfather, father and an infant Mihály of [1869]. That Mihály would be 60 in 1929; he is not Michal."
    }
   ],
   "necronym_risk": "unresolved",
@@ -873,7 +883,7 @@
  {
   "id": "H-036",
   "statement": "György Dusko, husband of Mária Hornyák, is a son of Mihály Dusko and Maria Szokol[...], born about 1838 to 1848.",
-  "confidence": 40,
+  "confidence": 30,
   "basis": "Same rare surname, same village, same pattern of a Greek Catholic husband with a Roman Catholic wife, one generation apart.",
   "test": "György's marriage entry, about 1865 to 1869, naming his father.",
   "status": "open",
@@ -885,6 +895,11 @@
     "batch": "B-017",
     "effect": "no change",
     "note": "A György Duska is a father in the Reformed book in 1847 and another in 1883. They are Reformed; the György of this hypothesis is Greek Catholic. Kept apart."
+   },
+   {
+    "batch": "B-023",
+    "effect": "lowered from 40 to 30",
+    "note": "The census household has a György Duska born about 1846 working 'beside his father', and the father on the form is a György born about 1820, not a Mihály. If the younger man is the husband of Mária Hornyák, he is not Mihály Dusko's son. The reading is low and the wife's name on the form does not match, so this is a nudge, not a refutation."
    }
   ]
  },
@@ -969,6 +984,11 @@
     "batch": "B-022",
     "effect": "lowered from 15 to 4",
     "note": "Two Roman Catholic candidates at Senné now stand ahead of the Reformed boy of 'Bradenville'."
+   },
+   {
+    "batch": "B-023",
+    "effect": "no change",
+    "note": "A newspaper print in the pile reports an Annie Duska killed at Niobrara, Nebraska, in January 1911 (D-006-08). It shows the surname in the United States nine years after the 'Bradenville' birth and nothing more."
    }
   ],
   "necronym_risk": "unresolved",

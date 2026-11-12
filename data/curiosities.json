@@ -411,5 +411,27 @@
     "translation": "(file name)",
     "why": "A label that names a country the record never belonged to.",
     "tone": "funny"
+  },
+  {
+    "id": "C-054",
+    "doc": "D-006-07",
+    "source": "S-235",
+    "title": "A census read off a photograph of a screen",
+    "text": "The owner's copy of the census sheet is a photograph of a computer monitor: the weave of the screen's pixels runs across the page and an editing tool's magic-wand cursor sits in the corner. Somebody could see the sheet and could not download it.",
+    "original": "(image)",
+    "translation": "(image)",
+    "why": "The record is real and the copy is three removes from the paper: sheet, scan, screen, camera.",
+    "tone": "funny"
+  },
+  {
+    "id": "C-055",
+    "doc": "D-006-08",
+    "source": "S-236",
+    "title": "Annie Duska and the hotel gas plant",
+    "text": "On 16 January 1911 the gas lighting plant of the Hubbard hotel at Niobrara, Nebraska, exploded. Four people were killed, an Annie Duska among them, and the fire that followed burned the hotel. An Ohio paper ran it the next day in nine lines. Who she was is not known here.",
+    "original": "FOUR KILLED IN EXPL[OSION] ... Niobrara, Neb., Jan. 16.",
+    "translation": "(English)",
+    "why": "The only Duska in the archive to reach a newspaper, and the only one found west of the Mississippi.",
+    "tone": "sad"
   }
 ]

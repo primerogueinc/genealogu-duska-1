@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-022.
+- Last updated: 12 Nov 2026, after Duska batch B-023.
+
+## 00000000. New at B-023
+
+No field added. Two more documents carry `held` (`DUS:D-006-06`, `-08`), so they have no image. Priors now run to PR-7.
 
 ## 0000000. New at B-021 and B-022
 

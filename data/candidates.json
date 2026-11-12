@@ -6291,5 +6291,53 @@
     "relation": "Burial in D-006-05.",
     "route": "duska",
     "route_note": ""
+  },
+  {
+    "id": "K-531",
+    "name": "György Duska",
+    "vitals": "b. about 1820 at Solymos; Greek Catholic; head of a household in the [1869] census",
+    "proof": "documented",
+    "sources": [
+      "S-235"
+    ],
+    "relation": "Person 1 in D-006-07.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-532",
+    "name": "György Duska",
+    "vitals": "b. about 1846 at Solymos; Greek Catholic; works beside his father, [1869]",
+    "proof": "documented",
+    "sources": [
+      "S-235"
+    ],
+    "relation": "Person 3 in D-006-07. May be the György Dusko who has children by Mária Hornyák from [1869] (FG-25).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-533",
+    "name": "Mihály Duska",
+    "vitals": "b. [1869]; Greek Catholic; youngest in the household of D-006-07",
+    "proof": "documented",
+    "sources": [
+      "S-235"
+    ],
+    "relation": "Person 5 in D-006-07. May be the Mihail baptised 5 Sep [1869] (FG-25).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-534",
+    "name": "Annie Duska",
+    "vitals": "d. 16 Jan 1911 in a hotel explosion at Niobrara, Nebraska",
+    "proof": "lead",
+    "sources": [
+      "S-236"
+    ],
+    "relation": "Named in a newspaper report (D-006-08). Not shown to be kin to anyone in this archive.",
+    "route": "duska",
+    "route_note": ""
   }
 ]

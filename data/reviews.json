@@ -152,5 +152,16 @@
   "holds": "No commit since the last pass (XR-13).",
   "found_for_duska_line": "Nothing new.",
   "sent_to_demko": "From folder F-009 parts 3 to 8: five more Demko strips (a János Demko of [1873] legitimised in 1895, and three more children of the carpenter János Demko and Mária Ivanko alias Malyko), fourteen Kocsis strips and five Marczinko strips with a Kocsis mother. From the pile: a second photograph of the gravestone of Mary Demko (D-006-02), which sits in a pile it does not read."
+ },
+ {
+  "id": "XR-15",
+  "batch": "B-023",
+  "date": "2026-11-12",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "5d8cbc4",
+  "read": "head of main only: a new commit exists and is not yet read in full",
+  "holds": "Not yet read. To be read at the start of the next batch.",
+  "found_for_duska_line": "Not yet known.",
+  "sent_to_demko": "Nothing new."
  }
 ]

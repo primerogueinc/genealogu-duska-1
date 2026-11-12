@@ -1361,6 +1361,31 @@
    "S-232",
    "S-233"
   ],
+  "committed_utc": "2026-11-12T07:59:08Z"
+ },
+ {
+  "id": "B-023",
+  "date": "2026-11-12",
+  "title": "Putting things in order: a folder closed, two files kept shut, and three more from the pile",
+  "folder": "F-006",
+  "files": 3,
+  "blurb": "Read ledger v19, unchanged. Asked whether the Senné folder was complete and whether to open his own summary of it, the owner said to judge as this agent saw fit. Two judgments follow. The Senné Roman Catholic folder is closed at 95 files: its names run from A to Z. And the owner's summary stays unopened. It is his own account of these baptisms, the very thing this rebuild is to be measured against, and reading it could not be undone. Three more files had reached the pile in the private repository. One is a page from an online family tree, which the sorter had held back and the owner moved across. It is kept shut for the same reason: a tree page with no sources proves nothing, and it may be his tree. Its file name is logged as something known beforehand. The second is the owner's census find, at last: a photograph of a computer screen showing a household of five, headed by a György Duska born about 1820 at Solymos, with a son György born about 1846 'working beside his father' and an infant Mihály. They are Greek Catholic, the Iňačovce family of an earlier folder, and not Michal's people on the present reading. The image is too blurred to give years to the digit and shows no village or archive. The third is a nine-line newspaper report of January 1911: a hotel gas plant exploded at Niobrara, Nebraska, and an Annie Duska was among the four dead. Nothing ties her to this family. The status file and the protocol's summary of where the line stands are rewritten. No confidence about Michal moved. Curiosities: 2",
+  "raised": [],
+  "resolved": [],
+  "revised": [
+   "H-036"
+  ],
+  "people_added": [
+   "K-531",
+   "K-532",
+   "K-533",
+   "K-534"
+  ],
+  "sources_added": [
+   "S-234",
+   "S-235",
+   "S-236"
+  ],
   "committed_utc": null
  }
 ]
