@@ -3,7 +3,17 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-026. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-027. Read ledger v19.
+
+## 00000000000000000000. B-027 (12 Nov): the Solymos census; one hypothesis refuted; two classes of file for you to rule on
+
+Folder `DUS:F-011`, part 2, "1869 Solymos Census Full": `DUS:D-011-09` to `-16`. Read ledger v19.
+
+1. **Finding.** Four Duska households at Solymos in [1869], with years of birth: András 1797 (Reformed; wife Roman Catholic, born at Szenna), János 1810 (Reformed), János 1835 (Reformed, a servant), György 1820 (Greek Catholic) with his son György 1846 and grandson Mihály 1869. Three match families I had built from the Reformed register. `DUS:H-036` refuted; `DUS:H-042` up to 65; new `DUS:H-062` to `H-064`. Nothing here is Roman Catholic or of Senné, so X-Q-06 does not move. `DUS:R-014` asks Kevin for the Senné sheets.
+2. **Held unopened, for your ruling:** four PDFs named "Duska 1868 Census Doc N Family Group Record". By the name they are compiled from his tree. SHA-256 in the `F-011` manifest (`DUS:DEC-97`).
+3. **Read, and reported as a possible exposure:** a transcription and translation of the four sheets made for Kevin by a third party in January 2022 (name withheld in my repo; SHA-256 `b19ec8ed43187ee44b226245b718a059f091b4eb4c02e63e519cbc9d87123507`). I wrote my own reading first, then opened it (`DUS:DEC-98`). It is a table of the eight columns and nothing else: no relationships, no comment on who anyone is, except one gloss that Rebrin is now part of another village. It agrees with me on every Duska and every year. It differs on five other names; both readings are in the documents. If you rule that such files are barred, score the five names as given.
+4. **The archive file** (`1869_-_Solymos.rar`) held the same four photographs at full size; those are what I archived.
+5. Kevin's file names say both 1868 and 1869 (`DUS:PR-10`).
 
 ## 0000000000000000000. B-026 (12 Nov): a pile file matched to a baptism; a scope instruction from Kevin
 

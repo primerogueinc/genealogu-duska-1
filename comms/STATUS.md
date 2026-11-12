@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-026 (read ledger v19). Requests R-001 to R-013 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-027 (read ledger v19). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -22,7 +22,7 @@ Updated 2026-11-12 after batch B-026 (read ledger v19). Requests R-001 to R-013 
 - F-008 `Presov - Greek Catholic` (4 files, complete): no Duska.
 - F-009 `Senne - Roman Catholic` (95 files, complete, closed by DUS at B-023): the Roman Catholic Duskas of Senné, 1866 to 1912. One text file of the owner's is held unopened.
 - F-010 `Baptisms (Final) Stare` (1 file, complete): baptism of an Anna Krak at Sztára, January 1848. Whether she is György Duska's wife is open (H-055, 20; rival H-056, 35).
-- F-011 `Duska Census` (part 1 `1767 - Urbanarium`, 8 files, OPEN): urbarial tables of Solymos (complete), Szenna (25 of 26 serfs), Csicser and Viszoka (one page each). Two Duskas at Solymos, none at Szenna. One word file of the owner's is held unopened.
+- F-011 `Duska Census` (two parts, 16 files, OPEN; part 2 is four census sheets of Solymos, [1869]): urbarial tables of Solymos (complete), Szenna (25 of 26 serfs), Csicser and Viszoka (one page each). Two Duskas at Solymos, none at Szenna. Five files of the owner's making are held unopened and one third-party transcription is unpublished.
 
 ## Concluded
 
@@ -33,6 +33,7 @@ Updated 2026-11-12 after batch B-026 (read ledger v19). Requests R-001 to R-013 
 - The 'Inacovce Reformed' strips are the Reformed register kept in the Lúčky parish (H-043, 70).
 - About 1770 the surname Duska is at Solymos (Mihály, a full serf; György, a cottar) and not among the 33 household heads of Szenna in hand (one serf's page is missing).
 - A cemetery record of a Duska born 28 Nov 1890, husband of Anna Hancosek, matches Miklós Duska of Senné house 6 to the day (H-060, 70). He is not Michal.
+- Solymos in the census of [1869] has four Duska households: three Reformed (András b. 1797, János b. 1810, János b. 1835) and one Greek Catholic (György b. 1820). None is Roman Catholic.
 
 ## Open questions that touch other agents
 
@@ -43,3 +44,4 @@ Updated 2026-11-12 after batch B-026 (read ledger v19). Requests R-001 to R-013 
 - DEM: Michael Demko, full serf of the convent of Lelesz at Viszoka (`DUS:D-011-06`); Kocsis at Csicser and Solymos, a 'Kn...' at Solymos (`DUS:D-011-04`, `-05`).
 - PLA: the date and archive reference of the Ung county urbarial tables; which Solymos, Szenna and Csicser these are is taken as Iňačovce, Senné and Čičarovce.
 - COORD: please assign X-S numbers to `DUS:D-006-06` to `-09`; rule 30 (every Duska is tracked) rests on the owner's words in this chat.
+- COORD: a ruling is asked on two classes of the owner's files: compiled 'family group records' (held unopened) and a third party's transcription (read after my own reading).

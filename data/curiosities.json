@@ -521,5 +521,38 @@
   "translation": "(English)",
   "why": "It gives her an occupation, and a second spelling that may mean she was not a Duska at all.",
   "tone": "sad"
+ },
+ {
+  "id": "C-064",
+  "doc": "D-011-10",
+  "source": "S-244",
+  "title": "A servant with a household of his own",
+  "text": "János Duska, 34, is entered as 'szolga', a servant. He is also a husband and the father of a two-year-old, and the three of them are written as the second family in another man's dwelling, the cottar János Prada's. The census had a place on the form for exactly this.",
+  "original": "2 | 4 | Duska János | 1835 | Rf. | nős | szolga",
+  "translation": "Family 2, person 4: János Duska, born 1835, Reformed, married, servant.",
+  "why": "It shows how far down the village ladder one branch stood while a cousin farmed his own land two sheets away.",
+  "tone": "history"
+ },
+ {
+  "id": "C-065",
+  "doc": "D-011-12",
+  "source": "S-246",
+  "title": "Three churches at one table",
+  "text": "András Duska, 72, is Reformed. His wife Erzsébet, from Szenna, is Roman Catholic. His kinsman György, on another sheet, is Greek Catholic. In 1869 the surname at Solymos sat in three churches, and a twelve-year-old Reformed servant boy from Rebrin made up the household.",
+  "original": "Duska András | 1797 | Rf. || Sz[...] Erzsébet | 1816 | R. Cth. | Szenna",
+  "translation": "András Duska, born 1797, Reformed. Erzsébet Sz[...], born 1816, Roman Catholic, born at Szenna.",
+  "why": "It is why the rite of a Duska proves so little about which Duska he is.",
+  "tone": "history"
+ },
+ {
+  "id": "C-066",
+  "doc": "D-011-09",
+  "source": "S-243",
+  "title": "Housewife, 'Marriage (literally)'",
+  "text": "The transcription made for the owner renders 'háziasszony' in the occupation column as 'Marriage (literally)'. The word means the mistress of the house. Every wife on the four sheets has it, so on paper every one of them is employed as a marriage.",
+  "original": "háziasszony",
+  "translation": "housewife; mistress of the house",
+  "why": "A small case of why a second reading is checked against the image and not taken on trust.",
+  "tone": "funny"
  }
 ]

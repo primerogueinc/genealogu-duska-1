@@ -474,13 +474,14 @@
    "Maria, b. 10 Oct [1874]",
    "György, b. 30 Mar 1877"
   ],
-  "note": "The one Duska household the archive follows across several baptisms. Godparents come from the Szabó and Adam families each time. A Joannes of [1872] at Nagy Szeretva may be theirs but is kept apart (FG-31).",
+  "note": "The one Duska household the archive follows across several baptisms. Godparents come from the Szabó and Adam families each time. A Joannes of [1872] at Nagy Szeretva may be theirs but is kept apart (FG-31). Census of [1869] (D-011-09): this György was born in 1846, son of György Duska (b. 1820), and his wife then was a Zsuzsanna born 1848, whose surname matches the doubtful reading of 1869. Mária Hornyák, mother in [1874] and 1877, is then a second wife (H-062).",
   "route": "duska",
   "route_note": "",
   "documents": [
    "D-005-24",
    "D-005-40",
-   "D-005-48"
+   "D-005-48",
+   "D-011-09"
   ]
  },
  {
@@ -631,7 +632,7 @@
    "Mihály, b. 25 Jul [1840]",
    "Borbála, bapt. 20 May [1843]"
   ],
-  "note": "The earliest Duska household in the archive. Two daughters named Susanna, eight years apart: the first is presumed to have died (rule 20). The mother's surname is written Plyuksa; a Pluchta family stands godparent to the next generation.",
+  "note": "The earliest Duska household in the archive. Two daughters named Susanna, eight years apart: the first is presumed to have died (rule 20). The mother's surname is written Plyuksa; a Pluchta family stands godparent to the next generation. Census of [1869] (D-011-12): an András Duska, born 1797, Reformed, with a wife Erzsébet born 1816 (H-063).",
   "route": "duska",
   "route_note": "",
   "documents": [
@@ -640,7 +641,8 @@
    "D-007-34",
    "D-007-38",
    "D-007-39",
-   "D-007-43"
+   "D-007-43",
+   "D-011-12"
   ]
  },
  {
@@ -655,14 +657,15 @@
    "János, b. 23 Aug [1852]",
    "György, b. 17 Jul 1857"
   ],
-  "note": "A second Duska couple of the same years as FG-34; János is not the János of 1834, who was seven in 1841. Two sons named János. Commoner in 1852, cottar in 1857.",
+  "note": "A second Duska couple of the same years as FG-34; János is not the János of 1834, who was seven in 1841. Two sons named János. Commoner in 1852, cottar in 1857. Census of [1869] (D-011-11): János born 1810, Anna born 1820, with sons Mihály (1850) and György (1857).",
   "route": "duska",
   "route_note": "",
   "documents": [
    "D-007-04",
    "D-007-16",
    "D-007-24",
-   "D-007-25"
+   "D-007-25",
+   "D-011-11"
   ]
  },
  {
@@ -690,11 +693,12 @@
   "children": [
    "György, b. 10 Apr [1852]"
   ],
-  "note": "Either András of FG-34 with a second wife, nine years after his last child by Borbála, or a younger András. A change of mother is a second marriage until a second man is shown (rule 20). House 44 is a Duska house again in 189[3].",
+  "note": "Either András of FG-34 with a second wife, nine years after his last child by Borbála, or a younger András. A change of mother is a second marriage until a second man is shown (rule 20). House 44 is a Duska house again in 189[3]. Census of [1869] (D-011-12): András Duska, born 1797, and Erzsébet, Roman Catholic, born 1816 at Szenna; the third party reads her surname as Szakács [?]. The György of [1852] is not in the household.",
   "route": "duska",
   "route_note": "",
   "documents": [
-   "D-007-15"
+   "D-007-15",
+   "D-011-12"
   ]
  },
  {
@@ -711,7 +715,7 @@
    "Zsuzsanna, b. 9 Oct [1873]",
    "György, b. 11 Apr 1876"
   ],
-  "note": "The godparents János Hressan and his wife stand at every baptism. Two sons named György. The father may be the János of [1834] (FG-34) or either János of FG-35.",
+  "note": "The godparents János Hressan and his wife stand at every baptism. Two sons named György. The father may be the János of [1834] (FG-34) or either János of FG-35. Census of [1869] (D-011-10): János born 1835, a servant, lodging as a second family in János Prada's dwelling, with Anna and Mihály (1867). The János of [1863] is absent.",
   "route": "duska",
   "route_note": "",
   "documents": [
@@ -720,7 +724,8 @@
    "D-007-18",
    "D-007-30",
    "D-007-41",
-   "D-007-44"
+   "D-007-44",
+   "D-011-10"
   ]
  },
  {
@@ -1229,6 +1234,23 @@
   "route_note": "",
   "documents": [
    "D-010-01"
+  ]
+ },
+ {
+  "id": "FG-61",
+  "husband": "György Duska, b. 1820 at Solymos",
+  "wife": "Zsuzsanna Pl[uch]ta, b. 1820 at [G]é[z]sény",
+  "rite": "Both Greek Catholic",
+  "homes": "Solymos ([1869])",
+  "children": [
+   "György, b. 1846; married by [1869] to Zsuzsanna Pra[ch]onyik [?], b. 1848; their son Mihály b. 1869 (FG-25)"
+  ],
+  "note": "Known from the census sheet alone. The only Greek Catholic Duska household at Solymos in [1869]; the other three are Reformed. The wife's surname is that of Borbála Pluchta, first wife of the Reformed András Duska (FG-34).",
+  "route": "duska",
+  "route_note": "",
+  "documents": [
+   "D-011-09",
+   "D-006-07"
   ]
  }
 ]

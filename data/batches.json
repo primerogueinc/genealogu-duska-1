@@ -1472,6 +1472,45 @@
    "S-000-8",
    "S-242"
   ],
+  "committed_utc": "2026-11-12T08:26:10Z"
+ },
+ {
+  "id": "B-027",
+  "date": "2026-11-12",
+  "title": "The Solymos census: four Duska households, three churches",
+  "folder": "F-011",
+  "files": 8,
+  "blurb": "Read ledger v19, unchanged. The owner sent the second part of the census folder, marked full: four household sheets of the Hungarian census of 1869 for Solymos, as photographs of a computer screen, with small screenshots of each. The full-size photographs came inside an archive file, which was unpacked in an empty folder. Read from the images first, the sheets give every Duska household of the village with years of birth. András, born 1797, Reformed, a farmer, with a Roman Catholic wife born at Senné. János, born 1810, Reformed, a farmer, with sons Mihály and György. János, born 1835, Reformed, a servant lodging with his wife and small son in another man's house. And György, born 1820, Greek Catholic, with his married son György, born 1846, and a grandson Mihály born that year. Three of the four match families already built from the Reformed register, which raises the hypothesis that those families are one from 55 to 65. One earlier hypothesis is refuted: the younger György was thought to be a son of a Mihály Dusko, and the sheet says he works beside his father, György. Three new hypotheses cover two second marriages and a possible common father, Pál, who died in 1838. None of these people is Michal's ancestor on present evidence: the Roman Catholic Duskas are at Senné, and the Senné sheets are not in the folder. They are now asked for, since they would say where the two György Duskas of Senné were born. Six files are not published. Four are 'family group records', pages compiled from the owner's own tree, and were not opened. One is a transcription made for him by a third party; it was opened only after this reading was written, agrees on every Duska, and differs on five other names, which are given side by side. The folder stays open. Curiosities: 3",
+  "raised": [
+   "H-062",
+   "H-063",
+   "H-064"
+  ],
+  "resolved": [
+   "H-036"
+  ],
+  "revised": [
+   "H-042"
+  ],
+  "people_added": [
+   "K-556",
+   "K-557",
+   "K-558",
+   "K-559",
+   "K-560",
+   "K-561",
+   "K-562",
+   "K-563",
+   "K-564",
+   "K-565",
+   "K-566"
+  ],
+  "sources_added": [
+   "S-243",
+   "S-244",
+   "S-245",
+   "S-246"
+  ],
   "committed_utc": null
  }
 ]

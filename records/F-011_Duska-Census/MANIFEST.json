@@ -1,7 +1,7 @@
 {
   "folder_id": "F-011",
   "desktop_path": "Duska Census",
-  "note": "Part 1 of the folder, '1767 - Urbanarium' (the owner's spelling): 8 image files and one word-processor file, which is held unopened. Received through chat upload.",
+  "note": "Part 1 of the folder, '1767 - Urbanarium' (the owner's spelling): 8 image files and one word-processor file, which is held unopened. Received through chat upload. Part 2, '1869 Solymos Census Full': four photographs of a screen (full size, taken from the archive file the owner sent), four screenshots of the same, and six files not published (see 'held').",
   "files": [
     {
       "file": "Andref_Duska_in_Solymos.png",
@@ -74,6 +74,90 @@
       "received": "2026-11-12",
       "via": "chat upload",
       "part": 1
+    },
+    {
+      "file": "Duska_1869_Census_Doc_1.jpg",
+      "sha256": "4a5f1f70c026e61b9ba435d3a1a5f9ef085b683876813827e498cf362091ad83",
+      "bytes": 3809642,
+      "pixels": "4032x1816",
+      "received": "2026-11-12",
+      "via": "chat upload, inside the archive file 1869_-_Solymos.rar",
+      "part": 2,
+      "chat_copy_sha256": "5afd8a57e68b21c611c66b95af107fb00493992111ec566a11f6aafabed389f7",
+      "chat_copy_note": "The same photograph was also attached to the chat, which reduced it to 2576 pixels wide; that copy is not kept.",
+      "web_copy": "reduced to 2400 pixels wide under assets/pages/F-011/"
+    },
+    {
+      "file": "Duska_1869_Census_Doc_2.jpg",
+      "sha256": "45d8889549efb8e1a598c63d131d35a45849da65bc9e21d92437a43681227e0b",
+      "bytes": 3523244,
+      "pixels": "4032x1816",
+      "received": "2026-11-12",
+      "via": "chat upload, inside the archive file 1869_-_Solymos.rar",
+      "part": 2,
+      "chat_copy_sha256": "022e388ebf1775fd50c454c3b26afb1fa43e1af5ca5d85d322cc818d429a068e",
+      "chat_copy_note": "The same photograph was also attached to the chat, which reduced it to 2576 pixels wide; that copy is not kept.",
+      "web_copy": "reduced to 2400 pixels wide under assets/pages/F-011/"
+    },
+    {
+      "file": "Duska_1869_Census_Doc_3.jpg",
+      "sha256": "fbdaeb56cf060adc421d30e6e2ca01b392c6ca1cd2bc0ba24e7f0f1b9e3e5872",
+      "bytes": 3910607,
+      "pixels": "4032x1816",
+      "received": "2026-11-12",
+      "via": "chat upload, inside the archive file 1869_-_Solymos.rar",
+      "part": 2,
+      "chat_copy_sha256": "abfff981f2453cc5ad1cb6b88e291963bf5b25ebac0df990aa17f5b85d593105",
+      "chat_copy_note": "The same photograph was also attached to the chat, which reduced it to 2576 pixels wide; that copy is not kept.",
+      "web_copy": "reduced to 2400 pixels wide under assets/pages/F-011/"
+    },
+    {
+      "file": "Duska_1869_Census_Doc_4.jpg",
+      "sha256": "bdf3fbafecf81fb51803ecec7f8950524b37d8c9c4b43cb6693ed23c9d37c4d5",
+      "bytes": 3936534,
+      "pixels": "4032x1816",
+      "received": "2026-11-12",
+      "via": "chat upload, inside the archive file 1869_-_Solymos.rar",
+      "part": 2,
+      "chat_copy_sha256": "2115a6d5c3ff280b8a84c807ad387ebf6db10f3f46eef3527962288a6fe33786",
+      "chat_copy_note": "The same photograph was also attached to the chat, which reduced it to 2576 pixels wide; that copy is not kept.",
+      "web_copy": "reduced to 2400 pixels wide under assets/pages/F-011/"
+    },
+    {
+      "file": "Duska_Census_Doc_1_Screenshot.png",
+      "sha256": "d00adaaa7136bd028b0863c7c069571f3e43fb32ec1b36597cf75492c4f9f73c",
+      "bytes": 577213,
+      "pixels": "939x310",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Duska_Census_Doc_2_Screenshot.png",
+      "sha256": "f27672d0d29c0e9b4d53e9bd7ae425cb997087d45708eebc974a45b557351b07",
+      "bytes": 613082,
+      "pixels": "932x353",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Duska_Census_Doc_3_screenshot.png",
+      "sha256": "9858a6908ca6131d0eaa9c5a8281aec44cb9e6f28fbdb96493c9268811c8625b",
+      "bytes": 419718,
+      "pixels": "946x227",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Duska_Census_Doc_4_screenshot.png",
+      "sha256": "5c4338598ed60f8c05837918723c71a2431c3c39cd3bcd454f0a6be53825fb90",
+      "bytes": 296912,
+      "pixels": "920x163",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
     }
   ],
   "held": [
@@ -84,6 +168,60 @@
       "received": "2026-11-12",
       "via": "chat upload",
       "held": "a word-processor file of the owner's own making; not opened (blind rule, X-011 item 1). The owner says such files 'may be inaccurate'.",
+      "file_in_repo": false
+    },
+    {
+      "file": "Duska_1868_Census_Doc_1_Family_Group_Record.pdf",
+      "sha256": "247afa6836302ec1179bc09ee601ac3b861c28bbd2fbf9fb9b32a1ea00bc07d5",
+      "bytes": 770839,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "a 'family group record', by its name a page compiled from the owner's own tree; not opened (blind rule, X-011 item 1)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Duska_1868_Census_Doc_2_Family_Group_Record.pdf",
+      "sha256": "4dac39cb7b55a95b6712b56dde75a7cf9ce9fe205399fb88a0cfe02b46dd90f7",
+      "bytes": 475983,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "a 'family group record', by its name a page compiled from the owner's own tree; not opened (blind rule, X-011 item 1)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Duska_1868_Census_Doc_3_Family_Group_Record.pdf",
+      "sha256": "55d202f3a55f2ad80f142769a4563e5f8b30439912549a7b5b35a7802229231e",
+      "bytes": 415931,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "a 'family group record', by its name a page compiled from the owner's own tree; not opened (blind rule, X-011 item 1)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Duska_1868_Census_Doc_4_Family_Group_Record.pdf",
+      "sha256": "3258d425cdcb3270b252dc6adf848c45bdd6ebbf5d361537adfda64251b7a5de",
+      "bytes": 465974,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "a 'family group record', by its name a page compiled from the owner's own tree; not opened (blind rule, X-011 item 1)",
+      "file_in_repo": false
+    },
+    {
+      "file": "NAME_WITHHELD_Transcription_and_Translation.docx",
+      "sha256": "b19ec8ed43187ee44b226245b718a059f091b4eb4c02e63e519cbc9d87123507",
+      "bytes": 18399,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "a transcription and translation of the four sheets made for the owner by a third party, whose name is in the file name (X-016 item 7). Opened after this agent's own reading and used as a second reading; not published.",
+      "file_in_repo": false
+    },
+    {
+      "file": "1869_-_Solymos.rar",
+      "sha256": "386b7a6664c583e48854a5d1db55692081b39779d07d490bd1f065f077e64dab",
+      "bytes": 15137021,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "the archive file the four full-size photographs came in; they are kept unpacked, so the container is not",
       "file_in_repo": false
     }
   ]

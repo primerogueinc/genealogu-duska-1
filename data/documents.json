@@ -9917,7 +9917,7 @@
     "no": "1 to 5",
     "date": "[1869]",
     "from": "Census household form, photograph of a screen (original record, poor image)",
-    "abstract": "A photograph of a computer screen showing one household on a printed Hungarian census form. Five people: György Duska, male, born about 1820, at Solymos in Ung county; a woman Zsuzsanna, born about 1820; György Duska, male, born about 1846, at Solymos, with the note that he works beside his father; a woman whose name begins with P, born about 1845; and Mihály Duska, male, born in a year ending in 9, read as 1869. All five have the same religion, read as Greek Catholic. The photograph is blurred: surnames and sexes are read, the years are doubtful to a digit, and the village, house number and page are not in the picture. That it is the census of 1869 is the owner's label; the form and the youngest birth year agree with it. It looks like a father and mother, their married son and his wife, and an infant grandson. A Mihail Dusko was baptised in the Iňačovce Greek Catholic book in September [1869], son of György Dusko (D-005, FG-25); his mother there is Mária Hornyák, which does not match the fourth name here.",
+    "abstract": "A photograph of a computer screen showing one household on a printed Hungarian census form. Five people: György Duska, male, born about 1820, at Solymos in Ung county; a woman Zsuzsanna, born about 1820; György Duska, male, born about 1846, at Solymos, with the note that he works beside his father; a woman whose name begins with P, born about 1845; and Mihály Duska, male, born in a year ending in 9, read as 1869. All five have the same religion, read as Greek Catholic. The photograph is blurred: surnames and sexes are read, the years are doubtful to a digit, and the village, house number and page are not in the picture. That it is the census of 1869 is the owner's label; the form and the youngest birth year agree with it. It looks like a father and mother, their married son and his wife, and an infant grandson. A Mihail Dusko was baptised in the Iňačovce Greek Catholic book in September [1869], son of György Dusko (D-005, FG-25); his mother there is Mária Hornyák, which does not match the fourth name here. [B-027: the same sheet is now in hand at full size as D-011-09, where the two wives' names and birthplaces are read further: Zsuzsanna Pl[uch]ta of [G]é[z]sény and Zsuzsanna Pra[ch]onyik [?], born 1848.]",
     "reading": "low"
    }
   ],
@@ -10365,6 +10365,318 @@
     "label": "The filled fields, as printed.",
     "original": "Défunt || DÉTAIL | No. concession : 01965 | Section : FT | Nom : Duska | Prénom : Mikalis | Date de naissance : 1890-11-28 | No. contact : C1990926108248D | No. nécrologie : 5146 | Date du décès : 1100-01-01 | Date de réception : 1965-11-28 || Informations complémentaires | Prénom du conjoint(e) : Anna | Nom conjoint(e) : Hancosek | Date des funéraille : 1100-01-01 | Date de crémation : 1100-01-01 | Date d'inhumation : 1100-01-01 | Famille assiste à l'inhumation : oui | Type de cercueil ou d'urne à l'arrivée : Cercueil en bois || [father's and mother's names, place of death, reference person: blank]",
     "english": "A printout in French from a cemetery's records system, made on 2 January 2022. Deceased: Duska, given name written Mikalis. Date of birth 28 November 1890. Spouse: Anna Hancosek. Section FT, plot 01965. Received on 28 November 1965; a wooden coffin; the family attended the burial. The dates of death, funeral and burial all hold the value 1 January 1100, which is the system's stand-in for 'not entered'. Parents, place of death and the cemetery's own name are not on the page. The received date falls on his 75th birthday and its year repeats the plot number, so it may be a real date or a made-up one; the birth date is the only date here that can be checked, and it matches a baptism in the archive to the day: Miklós Duska, born 28 November 1890 at Szenna 6 (D-009-84)."
+   }
+  ]
+ },
+ {
+  "id": "D-011-09",
+  "folder": "F-011",
+  "batch": "B-027",
+  "source": "S-243",
+  "file": "Duska_1869_Census_Doc_1.jpg",
+  "sha256": "4a5f1f70c026e61b9ba435d3a1a5f9ef085b683876813827e498cf362091ad83",
+  "wide": true,
+  "title": "Census household of György Duska, Greek Catholic, Solymos, [1869]",
+  "span": "[1869]",
+  "language": "Hungarian",
+  "collector_label": "Duska 1869 Census Doc 1",
+  "family": "FG-61",
+  "route": "duska",
+  "part": 2,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed household sheet of the Hungarian census of [1869]",
+   "page_or_image": "one dwelling; no village heading or house number in the picture",
+   "obtained": "From the owner's desktop folder 'Duska Census', part '1869 Solymos Census Full', sent through chat inside an archive file. A photograph of a computer screen showing the sheet in an online viewer; which website is not shown."
+  },
+  "entries": [
+   {
+    "no": "dwelling 1",
+    "date": "[1869]",
+    "from": "Census household sheet (original record, photograph of a screen)",
+    "abstract": "One dwelling, one family, all Greek Catholic. György Duska, born 1820 at Solymos in Ung county, married, a farmer. Zsuzsanna, his wife, born 1820, whose surname is read Pl[uch]ta (the third party reads 'Plynhta') and whose birthplace is read as Gézsény. György Duska, born 1846 at Solymos, married, 'works beside his father'. Zsuzsanna, his wife, born 1848, surname read Pra[ch]onyik with doubt (the third party: 'Prahonyík'), birthplace beginning N and not read. Mihály Duska, born 1869 at Solymos. This is the sheet of D-006-07, here at full size. It ties to the Iňačovce Greek Catholic book: a Mihail was baptised there on 5 September [1869] to a György Dusko and a mother read at the time as [Prachovnyik?] (FG-25). The sheet is a printed Hungarian census form: running number of the dwelling and of the person; name; sex; year of birth; religion; marital state; occupation; birthplace. The owner's files call it 1868 in some names and 1869 in others; the youngest person entered was born in 1869. No village heading, house number or archive reference is in the picture; the owner's folder says Solymos. Reading level low: a photograph of a screen. A transcription the owner commissioned from a third party was opened only after this reading was written down; where it differs, both are given.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As far as it can be read. Square brackets mark doubtful or supplied readings.",
+    "original": "1 | 1 | Duska György | férfi | 1820 | g. kath. | nős | gazdálkod[ik] | Ma. O., Ungh, Solymos || 2 | Pl[uch]ta Zsuzsanna | nő | 1820 | g. kath. | férjes | háziasszony | [G]é[z]sény || 3 | Duska György | férfi | 1846 | g. kath. | nős | apja mellett dolgoz[ik] | Solymos || 4 | Pra[ch]onyik [?] Zsuzsa[nna] | nő | 1848 | g. kath. | férjes | u. a. | N[...] || 5 | Duska Mihály | férfi | 1869 | g. kath. | | | Solymos",
+    "english": "One dwelling, one family, all Greek Catholic. György Duska, born 1820 at Solymos in Ung county, married, a farmer. Zsuzsanna, his wife, born 1820, whose surname is read Pl[uch]ta (the third party reads 'Plynhta') and whose birthplace is read as Gézsény. György Duska, born 1846 at Solymos, married, 'works beside his father'. Zsuzsanna, his wife, born 1848, surname read Pra[ch]onyik with doubt (the third party: 'Prahonyík'), birthplace beginning N and not read. Mihály Duska, born 1869 at Solymos. This is the sheet of D-006-07, here at full size. It ties to the Iňačovce Greek Catholic book: a Mihail was baptised there on 5 September [1869] to a György Dusko and a mother read at the time as [Prachovnyik?] (FG-25)."
+   }
+  ]
+ },
+ {
+  "id": "D-011-10",
+  "folder": "F-011",
+  "batch": "B-027",
+  "source": "S-244",
+  "file": "Duska_1869_Census_Doc_2.jpg",
+  "sha256": "45d8889549efb8e1a598c63d131d35a45849da65bc9e21d92437a43681227e0b",
+  "wide": true,
+  "title": "Census dwelling of János Prada, with János Duska, Reformed servant, as a second family, Solymos, [1869]",
+  "span": "[1869]",
+  "language": "Hungarian",
+  "collector_label": "Duska 1869 Census Doc 2",
+  "family": "FG-38",
+  "route": "duska",
+  "part": 2,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed household sheet of the Hungarian census of [1869]",
+   "page_or_image": "one dwelling; no village heading or house number in the picture",
+   "obtained": "From the owner's desktop folder 'Duska Census', part '1869 Solymos Census Full', sent through chat inside an archive file. A photograph of a computer screen showing the sheet in an online viewer; which website is not shown."
+  },
+  "entries": [
+   {
+    "no": "dwelling 1 and 2",
+    "date": "[1869]",
+    "from": "Census household sheet (original record, photograph of a screen)",
+    "abstract": "One dwelling, two families. The first: János Prada, born 1832, Greek Catholic cottar, born outside the village (the third party reads 'Budvár'); his wife Zsuzsanna Ol[á]zsik [?], born 1838; their daughter Mária, born 1864. The second: János Duska, born 1835 at Solymos, Reformed, married, a servant; his wife Anna, born 18[4]5, Reformed, surname read Ki[tk]a (the third party: 'Kikura'); Mihály Duska, born 1867. This is the couple of the Reformed register, János Dusko and Anna Kitko (FG-38), whose Mihály was baptised on 3 October [1867]. Their János of November [1863] is not in the household, so he had died or was elsewhere. The father's birth year fits the János baptised on 25 May [1834] to András Duska and Borbála Pluchta. The sheet is a printed Hungarian census form: running number of the dwelling and of the person; name; sex; year of birth; religion; marital state; occupation; birthplace. The owner's files call it 1868 in some names and 1869 in others; the youngest person entered was born in 1869. No village heading, house number or archive reference is in the picture; the owner's folder says Solymos. Reading level low: a photograph of a screen. A transcription the owner commissioned from a third party was opened only after this reading was written down; where it differs, both are given.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As far as it can be read. Square brackets mark doubtful or supplied readings.",
+    "original": "1 | 1 | Prada János | férfi | 1832 | g. kath. | nős | zsellér | [Zemplén?], B[...] || 2 | Ol[á]zsik [?] Zsuzsanna | nő | 1838 | g. kath. | férjes | háziasszony | Solymos || 3 | Prada Mária | nő | 1864 | g. kath. | hajadon | | Solymos || 2 | 4 | Duska János | férfi | 1835 | Rf. | nős | szolga | Solymos || 5 | Ki[tk]a Anna | nő | 18[4]5 | Rf. | férjes | házinő [?] | [...] || 6 | Duska Mihály | férfi | 1867 | Rf. | | | Solymos",
+    "english": "One dwelling, two families. The first: János Prada, born 1832, Greek Catholic cottar, born outside the village (the third party reads 'Budvár'); his wife Zsuzsanna Ol[á]zsik [?], born 1838; their daughter Mária, born 1864. The second: János Duska, born 1835 at Solymos, Reformed, married, a servant; his wife Anna, born 18[4]5, Reformed, surname read Ki[tk]a (the third party: 'Kikura'); Mihály Duska, born 1867. This is the couple of the Reformed register, János Dusko and Anna Kitko (FG-38), whose Mihály was baptised on 3 October [1867]. Their János of November [1863] is not in the household, so he had died or was elsewhere. The father's birth year fits the János baptised on 25 May [1834] to András Duska and Borbála Pluchta."
+   }
+  ]
+ },
+ {
+  "id": "D-011-11",
+  "folder": "F-011",
+  "batch": "B-027",
+  "source": "S-245",
+  "file": "Duska_1869_Census_Doc_3.jpg",
+  "sha256": "fbdaeb56cf060adc421d30e6e2ca01b392c6ca1cd2bc0ba24e7f0f1b9e3e5872",
+  "wide": true,
+  "title": "Census household of János Duska, Reformed, Solymos, [1869]",
+  "span": "[1869]",
+  "language": "Hungarian",
+  "collector_label": "Duska 1869 Census Doc 3",
+  "family": "FG-35",
+  "route": "duska",
+  "part": 2,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed household sheet of the Hungarian census of [1869]",
+   "page_or_image": "one dwelling; no village heading or house number in the picture",
+   "obtained": "From the owner's desktop folder 'Duska Census', part '1869 Solymos Census Full', sent through chat inside an archive file. A photograph of a computer screen showing the sheet in an online viewer; which website is not shown."
+  },
+  "entries": [
+   {
+    "no": "dwelling 1",
+    "date": "[1869]",
+    "from": "Census household sheet (original record, photograph of a screen)",
+    "abstract": "One dwelling, one family, all Reformed. János Duska, born 1810 at Solymos, married, a farmer. Anna, his wife, born 1820, surname read [H]ura (the third party: 'Stura'), birthplace not read. Mihály Duska, born 1850, unmarried, working for his father. György Duska, born 1857. This is the couple János Duska and Anna Hura of the Reformed register (FG-35), whose György was born on 17 July 1857. The Mihály of 1850 has no baptism strip in the archive; he is the right age to be 'Mihály Dusko the younger' who has children by Ilona Mihalko in the same house 33 from [1871]. The sheet is a printed Hungarian census form: running number of the dwelling and of the person; name; sex; year of birth; religion; marital state; occupation; birthplace. The owner's files call it 1868 in some names and 1869 in others; the youngest person entered was born in 1869. No village heading, house number or archive reference is in the picture; the owner's folder says Solymos. Reading level low: a photograph of a screen. A transcription the owner commissioned from a third party was opened only after this reading was written down; where it differs, both are given.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As far as it can be read. Square brackets mark doubtful or supplied readings.",
+    "original": "1 | 1 | Duska János | férfi | 1810 | Rf. | nős | gazdálkod[ik] | M. O., Ungh, Solymos || 2 | [H]ura Anna | nő | 1820 | Rf. | férjes | háziasszony | [...]ska || 3 | Duska Mihály | férfi | 1850 | Rf. | nőtlen | atyjánál [szolgál] | Solymos || 4 | Duska György | férfi | 1857 | Rf. | u. a. | | Solymos || [a red tick in the margin]",
+    "english": "One dwelling, one family, all Reformed. János Duska, born 1810 at Solymos, married, a farmer. Anna, his wife, born 1820, surname read [H]ura (the third party: 'Stura'), birthplace not read. Mihály Duska, born 1850, unmarried, working for his father. György Duska, born 1857. This is the couple János Duska and Anna Hura of the Reformed register (FG-35), whose György was born on 17 July 1857. The Mihály of 1850 has no baptism strip in the archive; he is the right age to be 'Mihály Dusko the younger' who has children by Ilona Mihalko in the same house 33 from [1871]."
+   }
+  ]
+ },
+ {
+  "id": "D-011-12",
+  "folder": "F-011",
+  "batch": "B-027",
+  "source": "S-246",
+  "file": "Duska_1869_Census_Doc_4.jpg",
+  "sha256": "bdf3fbafecf81fb51803ecec7f8950524b37d8c9c4b43cb6693ed23c9d37c4d5",
+  "wide": true,
+  "title": "Census household of András Duska, Reformed, with a Roman Catholic wife born at Szenna, Solymos, [1869]",
+  "span": "[1869]",
+  "language": "Hungarian",
+  "collector_label": "Duska 1869 Census Doc 4",
+  "family": "FG-34",
+  "route": "duska",
+  "part": 2,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed household sheet of the Hungarian census of [1869]",
+   "page_or_image": "one dwelling; no village heading or house number in the picture",
+   "obtained": "From the owner's desktop folder 'Duska Census', part '1869 Solymos Census Full', sent through chat inside an archive file. A photograph of a computer screen showing the sheet in an online viewer; which website is not shown."
+  },
+  "entries": [
+   {
+    "no": "dwelling 1",
+    "date": "[1869]",
+    "from": "Census household sheet (original record, photograph of a screen)",
+    "abstract": "One dwelling. András Duska, born 1797 at Solymos, Reformed, married, a farmer: the oldest Duska with a stated year of birth in the archive. Erzsébet, his wife, born 1816 at Szenna, Roman Catholic; her surname begins Sz and is not read (the third party: 'Szakács???'). András Br[a]ny[á]k [?], born 1857 at Rebrin, Reformed, unmarried, a servant boy of twelve. An András Duska has children by Borbála Pluchta from 1829 to 1843 (FG-34) and an András Dusko has a son by an Erzsébet in 1852 (FG-37): one man of this age would fit both. The sheet is a printed Hungarian census form: running number of the dwelling and of the person; name; sex; year of birth; religion; marital state; occupation; birthplace. The owner's files call it 1868 in some names and 1869 in others; the youngest person entered was born in 1869. No village heading, house number or archive reference is in the picture; the owner's folder says Solymos. Reading level low: a photograph of a screen. A transcription the owner commissioned from a third party was opened only after this reading was written down; where it differs, both are given.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As far as it can be read. Square brackets mark doubtful or supplied readings.",
+    "original": "1 | 1 | Duska András | férfi | 1797 | Rf. | nős | gazdálkod[ik] | Ungh, Solymos || 2 | Sz[...] Erzsébet | nő | 1816 | R. Cth. | férjes | háziasszony | Szenna || 3 | Br[a]ny[á]k [?] András | férfi | 1857 | Rf. | nőtlen | szolga | Rebrin[y] || [a red tick in the margin]",
+    "english": "One dwelling. András Duska, born 1797 at Solymos, Reformed, married, a farmer: the oldest Duska with a stated year of birth in the archive. Erzsébet, his wife, born 1816 at Szenna, Roman Catholic; her surname begins Sz and is not read (the third party: 'Szakács???'). András Br[a]ny[á]k [?], born 1857 at Rebrin, Reformed, unmarried, a servant boy of twelve. An András Duska has children by Borbála Pluchta from 1829 to 1843 (FG-34) and an András Dusko has a son by an Erzsébet in 1852 (FG-37): one man of this age would fit both."
+   }
+  ]
+ },
+ {
+  "id": "D-011-13",
+  "folder": "F-011",
+  "batch": "B-027",
+  "source": "S-243",
+  "file": "Duska_Census_Doc_1_Screenshot.png",
+  "sha256": "d00adaaa7136bd028b0863c7c069571f3e43fb32ec1b36597cf75492c4f9f73c",
+  "wide": true,
+  "title": "Screenshot of census sheet 1 (the same image as D-011-09)",
+  "span": "[1869]",
+  "language": "Hungarian",
+  "collector_label": "Duska Census Doc 1 Screenshot",
+  "family": "FG-61",
+  "route": "duska",
+  "part": 2,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed household sheet of the Hungarian census of [1869]",
+   "page_or_image": "a crop of the owner's photograph",
+   "obtained": "From the owner's desktop folder 'Duska Census', sent through chat. A screenshot made by the owner from his own photograph."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "[1869]",
+    "from": "Census household sheet (screenshot of a photograph of a screen)",
+    "abstract": "A small screenshot of the same photograph as D-011-09, cropped to the written rows. Nothing can be read here that is not read there.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "See the full-size image.",
+    "original": "[see D-011-09]",
+    "english": "A small screenshot of the same photograph as D-011-09, cropped to the written rows. Nothing can be read here that is not read there."
+   }
+  ]
+ },
+ {
+  "id": "D-011-14",
+  "folder": "F-011",
+  "batch": "B-027",
+  "source": "S-244",
+  "file": "Duska_Census_Doc_2_Screenshot.png",
+  "sha256": "f27672d0d29c0e9b4d53e9bd7ae425cb997087d45708eebc974a45b557351b07",
+  "wide": true,
+  "title": "Screenshot of census sheet 2 (the same image as D-011-10)",
+  "span": "[1869]",
+  "language": "Hungarian",
+  "collector_label": "Duska Census Doc 2 Screenshot",
+  "family": "FG-38",
+  "route": "duska",
+  "part": 2,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed household sheet of the Hungarian census of [1869]",
+   "page_or_image": "a crop of the owner's photograph",
+   "obtained": "From the owner's desktop folder 'Duska Census', sent through chat. A screenshot made by the owner from his own photograph."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "[1869]",
+    "from": "Census household sheet (screenshot of a photograph of a screen)",
+    "abstract": "A small screenshot of the same photograph as D-011-10, cropped to the written rows. Nothing can be read here that is not read there.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "See the full-size image.",
+    "original": "[see D-011-10]",
+    "english": "A small screenshot of the same photograph as D-011-10, cropped to the written rows. Nothing can be read here that is not read there."
+   }
+  ]
+ },
+ {
+  "id": "D-011-15",
+  "folder": "F-011",
+  "batch": "B-027",
+  "source": "S-245",
+  "file": "Duska_Census_Doc_3_screenshot.png",
+  "sha256": "9858a6908ca6131d0eaa9c5a8281aec44cb9e6f28fbdb96493c9268811c8625b",
+  "wide": true,
+  "title": "Screenshot of census sheet 3 (the same image as D-011-11)",
+  "span": "[1869]",
+  "language": "Hungarian",
+  "collector_label": "Duska Census Doc 3 screenshot",
+  "family": "FG-35",
+  "route": "duska",
+  "part": 2,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed household sheet of the Hungarian census of [1869]",
+   "page_or_image": "a crop of the owner's photograph",
+   "obtained": "From the owner's desktop folder 'Duska Census', sent through chat. A screenshot made by the owner from his own photograph."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "[1869]",
+    "from": "Census household sheet (screenshot of a photograph of a screen)",
+    "abstract": "A small screenshot of the same photograph as D-011-11, cropped to the written rows. Nothing can be read here that is not read there.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "See the full-size image.",
+    "original": "[see D-011-11]",
+    "english": "A small screenshot of the same photograph as D-011-11, cropped to the written rows. Nothing can be read here that is not read there."
+   }
+  ]
+ },
+ {
+  "id": "D-011-16",
+  "folder": "F-011",
+  "batch": "B-027",
+  "source": "S-246",
+  "file": "Duska_Census_Doc_4_screenshot.png",
+  "sha256": "5c4338598ed60f8c05837918723c71a2431c3c39cd3bcd454f0a6be53825fb90",
+  "wide": true,
+  "title": "Screenshot of census sheet 4 (the same image as D-011-12)",
+  "span": "[1869]",
+  "language": "Hungarian",
+  "collector_label": "Duska Census Doc 4 screenshot",
+  "family": "FG-34",
+  "route": "duska",
+  "part": 2,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed household sheet of the Hungarian census of [1869]",
+   "page_or_image": "a crop of the owner's photograph",
+   "obtained": "From the owner's desktop folder 'Duska Census', sent through chat. A screenshot made by the owner from his own photograph."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "[1869]",
+    "from": "Census household sheet (screenshot of a photograph of a screen)",
+    "abstract": "A small screenshot of the same photograph as D-011-12, cropped to the written rows. Nothing can be read here that is not read there.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "See the full-size image.",
+    "original": "[see D-011-12]",
+    "english": "A small screenshot of the same photograph as D-011-12, cropped to the written rows. Nothing can be read here that is not read there."
    }
   ]
  }

@@ -6299,9 +6299,10 @@
   "vitals": "b. about 1820 at Solymos; Greek Catholic; head of a household in the [1869] census",
   "proof": "documented",
   "sources": [
-   "S-235"
+   "S-235",
+   "S-243"
   ],
-  "relation": "Person 1 in D-006-07.",
+  "relation": "Person 1 in D-006-07. The same sheet at full size is D-011-09.",
   "route": "duska",
   "route_note": ""
  },
@@ -6311,9 +6312,10 @@
   "vitals": "b. about 1846 at Solymos; Greek Catholic; works beside his father, [1869]",
   "proof": "documented",
   "sources": [
-   "S-235"
+   "S-235",
+   "S-243"
   ],
-  "relation": "Person 3 in D-006-07. May be the György Dusko who has children by Mária Hornyák from [1869] (FG-25).",
+  "relation": "Person 3 in D-006-07. May be the György Dusko who has children by Mária Hornyák from [1869] (FG-25). The same sheet at full size is D-011-09.",
   "route": "duska",
   "route_note": ""
  },
@@ -6323,9 +6325,10 @@
   "vitals": "b. [1869]; Greek Catholic; youngest in the household of D-006-07",
   "proof": "documented",
   "sources": [
-   "S-235"
+   "S-235",
+   "S-243"
   ],
-  "relation": "Person 5 in D-006-07. May be the Mihail baptised 5 Sep [1869] (FG-25).",
+  "relation": "Person 5 in D-006-07. May be the Mihail baptised 5 Sep [1869] (FG-25). The same sheet at full size is D-011-09.",
   "route": "duska",
   "route_note": ""
  },
@@ -6593,5 +6596,137 @@
   "relation": "Spouse named in the cemetery record D-006-09. The surname is close to Hankos[n]ák and Hankuscsik, a Roman Catholic family of Senné in the 1890s and 1900s (FG-52); that is a likeness, not a link.",
   "route": "duska",
   "route_note": ""
+ },
+ {
+  "id": "K-556",
+  "name": "Zsuzsanna Pl[uch]ta",
+  "vitals": "b. 1820 at [G]é[z]sény; Greek Catholic; wife of György Duska (b. 1820), Solymos, [1869]",
+  "proof": "documented",
+  "sources": [
+   "S-243"
+  ],
+  "relation": "Person 2 in D-011-09.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-557",
+  "name": "Zsuzsanna Pra[ch]onyik [?]",
+  "vitals": "b. 1848; Greek Catholic; wife of György Duska (b. 1846), Solymos, [1869]",
+  "proof": "documented",
+  "sources": [
+   "S-243"
+  ],
+  "relation": "Person 4 in D-011-09. Probably the mother read [Prachovnyik?] at the baptism of Mihail, 5 Sep [1869] (FG-25).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-558",
+  "name": "János Duska",
+  "vitals": "b. 1835 at Solymos; Reformed; servant; a second family in the dwelling of János Prada, [1869]",
+  "proof": "documented",
+  "sources": [
+   "S-244"
+  ],
+  "relation": "Person 4 in D-011-10. Husband of Anna Kitko (FG-38); probably the János baptised 25 May [1834] (FG-34).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-559",
+  "name": "Anna Ki[tk]a",
+  "vitals": "b. 18[4]5; Reformed; wife of János Duska (b. 1835)",
+  "proof": "documented",
+  "sources": [
+   "S-244"
+  ],
+  "relation": "Person 5 in D-011-10; the Anna Kitko of FG-38.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-560",
+  "name": "János Duska",
+  "vitals": "b. 1810 at Solymos; Reformed; farmer, [1869]",
+  "proof": "documented",
+  "sources": [
+   "S-245"
+  ],
+  "relation": "Person 1 in D-011-11. Husband of Anna Hura (FG-35).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-561",
+  "name": "Anna [H]ura",
+  "vitals": "b. 1820; Reformed; wife of János Duska (b. 1810)",
+  "proof": "documented",
+  "sources": [
+   "S-245"
+  ],
+  "relation": "Person 2 in D-011-11.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-562",
+  "name": "Mihály Duska",
+  "vitals": "b. 1850 at Solymos; Reformed; unmarried, working for his father, [1869]",
+  "proof": "documented",
+  "sources": [
+   "S-245"
+  ],
+  "relation": "Person 3 in D-011-11. Probably 'Mihály Dusko the younger', husband of Ilona Mihalko from [1871] (FG-39).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-563",
+  "name": "András Duska",
+  "vitals": "b. 1797 at Solymos; Reformed; farmer, [1869]",
+  "proof": "documented",
+  "sources": [
+   "S-246"
+  ],
+  "relation": "Person 1 in D-011-12. The oldest Duska with a stated birth year. Probably the husband of Borbála Pluchta (FG-34) and of Erzsébet (FG-37).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-564",
+  "name": "Erzsébet Sz[...]",
+  "vitals": "b. 1816 at Szenna; Roman Catholic; wife of András Duska (b. 1797), Solymos, [1869]",
+  "proof": "documented",
+  "sources": [
+   "S-246"
+  ],
+  "relation": "Person 2 in D-011-12. A Senné woman in a Solymos Duska house.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-565",
+  "name": "András Br[a]ny[á]k [?]",
+  "vitals": "b. 1857 at Rebrin; Reformed; servant in the house of András Duska, [1869]",
+  "proof": "documented",
+  "sources": [
+   "S-246"
+  ],
+  "relation": "Person 3 in D-011-12.",
+  "route": "places",
+  "route_note": "A household for the gazetteer."
+ },
+ {
+  "id": "K-566",
+  "name": "János Prada",
+  "vitals": "b. 1832; Greek Catholic cottar of Solymos, [1869]; wife Zsuzsanna Ol[á]zsik [?], daughter Mária b. 1864",
+  "proof": "documented",
+  "sources": [
+   "S-244"
+  ],
+  "relation": "Head of the dwelling in D-011-10 where János Duska's family lodged.",
+  "route": "places",
+  "route_note": "A household for the gazetteer."
  }
 ]

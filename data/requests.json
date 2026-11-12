@@ -11,7 +11,7 @@
   "id": "R-002",
   "status": "raised",
   "raised": "B-000",
-  "text": "The image or citation behind the 1869 census find, to settle H-007. Part answered at B-023: an image is in hand (D-006-07). Still wanted: the village, house number and archive reference of the sheet, and a sharper copy.",
+  "text": "The image or citation behind the 1869 census find, to settle H-007. Part answered at B-023: an image is in hand (D-006-07). Still wanted: the village, house number and archive reference of the sheet, and a sharper copy. B-027: all four Solymos sheets are in hand at full size. Still wanted: the website or archive they were viewed on.",
   "raised_with_owner": "2026-11-12",
   "rank": 5
  },
@@ -99,6 +99,14 @@
   "status": "raised",
   "raised": "B-026",
   "text": "For the cemetery record FT 01965: which cemetery it is, how you got the printout, and a photograph of the stone if there is one. Any record of Miklós (Nicholas, Mike?) Duska and Anna Hancosek in Canada: marriage, death, a passenger list.",
+  "raised_with_owner": "2026-11-12",
+  "rank": 2
+ },
+ {
+  "id": "R-014",
+  "status": "raised",
+  "raised": "B-027",
+  "text": "The census sheets of the same count for Senné (Szenna), above all houses 5 and 6, where György Duska the elder and György Duska the younger lived. They would give both men's years and places of birth, and so say whether the Senné Duskas were born at Solymos.",
   "raised_with_owner": "2026-11-12",
   "rank": 2
  }

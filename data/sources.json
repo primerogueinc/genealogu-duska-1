@@ -1998,5 +1998,37 @@
   "title": "Cemetery record of 'Mikalis' Duska, born 28 November 1890, husband of Anna Hancosek",
   "extract": "A printout in French from a cemetery's records system, made on 2 January 2022. Deceased: Duska, given name written Mikalis. Date of birth 28 November 1890. Spouse: Anna Hancosek. Section FT, plot 01965. Received on 28 November 1965; a wooden coffin; the family attended the burial. The dates of death, funeral and burial all hold the value 1 January 1100, which is the system's stand-in for 'not entered'. Parents, place of death and the cemetery's own name are not on the page. The received date falls on his 75th birthday and its year repeats the plot number, so it may be a real date or a made-up one; the birth date is the only date here that can be checked, and it matches a baptism in the archive to the day: Miklós Duska, born 28 November 1890 at Szenna 6 (D-009-84).",
   "reliability": "Typed text, read in full. A database entry made long after the event, with stand-in values in three date fields. The birth date agrees to the day with an original baptism entry. The pile is the sorter's label and is not evidence."
+ },
+ {
+  "id": "S-243",
+  "batch": "B-027",
+  "type": "Census household sheet (original record, photograph of a screen)",
+  "title": "Census household of György Duska, Greek Catholic, Solymos, [1869]",
+  "extract": "One dwelling, one family, all Greek Catholic. György Duska, born 1820 at Solymos in Ung county, married, a farmer. Zsuzsanna, his wife, born 1820, whose surname is read Pl[uch]ta (the third party reads 'Plynhta') and whose birthplace is read as Gézsény. György Duska, born 1846 at Solymos, married, 'works beside his father'. Zsuzsanna, his wife, born 1848, surname read Pra[ch]onyik with doubt (the third party: 'Prahonyík'), birthplace beginning N and not read. Mihály Duska, born 1869 at Solymos. This is the sheet of D-006-07, here at full size. It ties to the Iňačovce Greek Catholic book: a Mihail was baptised there on 5 September [1869] to a György Dusko and a mother read at the time as [Prachovnyik?] (FG-25).",
+  "reliability": "Reading level: low. Years of birth in a census are as the household gave them. The year 1869 and the village are the owner's labels, borne out by the entries. A third party's transcription was compared after this reading."
+ },
+ {
+  "id": "S-244",
+  "batch": "B-027",
+  "type": "Census household sheet (original record, photograph of a screen)",
+  "title": "Census dwelling of János Prada, with János Duska, Reformed servant, as a second family, Solymos, [1869]",
+  "extract": "One dwelling, two families. The first: János Prada, born 1832, Greek Catholic cottar, born outside the village (the third party reads 'Budvár'); his wife Zsuzsanna Ol[á]zsik [?], born 1838; their daughter Mária, born 1864. The second: János Duska, born 1835 at Solymos, Reformed, married, a servant; his wife Anna, born 18[4]5, Reformed, surname read Ki[tk]a (the third party: 'Kikura'); Mihály Duska, born 1867. This is the couple of the Reformed register, János Dusko and Anna Kitko (FG-38), whose Mihály was baptised on 3 October [1867]. Their János of November [1863] is not in the household, so he had died or was elsewhere. The father's birth year fits the János baptised on 25 May [1834] to András Duska and Borbála Pluchta.",
+  "reliability": "Reading level: low. Years of birth in a census are as the household gave them. The year 1869 and the village are the owner's labels, borne out by the entries. A third party's transcription was compared after this reading."
+ },
+ {
+  "id": "S-245",
+  "batch": "B-027",
+  "type": "Census household sheet (original record, photograph of a screen)",
+  "title": "Census household of János Duska, Reformed, Solymos, [1869]",
+  "extract": "One dwelling, one family, all Reformed. János Duska, born 1810 at Solymos, married, a farmer. Anna, his wife, born 1820, surname read [H]ura (the third party: 'Stura'), birthplace not read. Mihály Duska, born 1850, unmarried, working for his father. György Duska, born 1857. This is the couple János Duska and Anna Hura of the Reformed register (FG-35), whose György was born on 17 July 1857. The Mihály of 1850 has no baptism strip in the archive; he is the right age to be 'Mihály Dusko the younger' who has children by Ilona Mihalko in the same house 33 from [1871].",
+  "reliability": "Reading level: low. Years of birth in a census are as the household gave them. The year 1869 and the village are the owner's labels, borne out by the entries. A third party's transcription was compared after this reading."
+ },
+ {
+  "id": "S-246",
+  "batch": "B-027",
+  "type": "Census household sheet (original record, photograph of a screen)",
+  "title": "Census household of András Duska, Reformed, with a Roman Catholic wife born at Szenna, Solymos, [1869]",
+  "extract": "One dwelling. András Duska, born 1797 at Solymos, Reformed, married, a farmer: the oldest Duska with a stated year of birth in the archive. Erzsébet, his wife, born 1816 at Szenna, Roman Catholic; her surname begins Sz and is not read (the third party: 'Szakács???'). András Br[a]ny[á]k [?], born 1857 at Rebrin, Reformed, unmarried, a servant boy of twelve. An András Duska has children by Borbála Pluchta from 1829 to 1843 (FG-34) and an András Dusko has a son by an Erzsébet in 1852 (FG-37): one man of this age would fit both.",
+  "reliability": "Reading level: low. Years of birth in a census are as the household gave them. The year 1869 and the village are the owner's labels, borne out by the entries. A third party's transcription was compared after this reading."
  }
 ]

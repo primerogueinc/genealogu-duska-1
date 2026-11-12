@@ -574,5 +574,29 @@
   "date": "2026-11-12",
   "decided": "The cemetery record is committed (the man was born in 1890 and no living person is named). Its web image is the text layer set in type, under a new optional field `web_file`, because the PDF's pages draw blank in the tools here. Miklós Duska is not added to the tree; the identity is hypothesis H-060.",
   "why": "X-016: born more than 100 years ago. X-009: a link without an archive reference stays at 70 and off the tree."
+ },
+ {
+  "id": "DEC-97",
+  "date": "2026-11-12",
+  "decided": "The four 'Family Group Record' PDFs are held unopened: name, size and SHA-256 in the F-011 manifest.",
+  "why": "By their name they are pages compiled from the owner's own tree, which this rebuild is to be compared with (X-011 item 1; DEC-86, DEC-91)."
+ },
+ {
+  "id": "DEC-98",
+  "date": "2026-11-12",
+  "decided": "The third party's transcription was opened, after this agent's own reading of the four sheets was written down, and used as a second reading. It is not published and its maker's name is withheld from public files.",
+  "why": "It is not the owner's writing or his tree: it is a hired reading of the same four images, and the owner says such files may be inaccurate. Reading order follows X-012 item 3 (transcribe before reading another's). The maker is a living third party named in the file name (X-016 item 7). Reported to the coordinator."
+ },
+ {
+  "id": "DEC-99",
+  "date": "2026-11-12",
+  "decided": "The archive file was unpacked in a new empty directory with a tool that only writes image files. The four full-size photographs are archived as the originals; the reduced copies the chat made of the same photographs are logged by checksum and not kept; web copies are reduced to 2400 pixels wide.",
+  "why": "A downloaded archive is untrusted. The full-size files are the better evidence and are what the owner's folder holds."
+ },
+ {
+  "id": "DEC-100",
+  "date": "2026-11-12",
+  "decided": "The four screenshots are entered as documents of their own that point to the full-size sheets. The part '1869 Solymos Census Full' is taken as complete; folder F-011 stays open.",
+  "why": "Rule 2: everything received is archived. The owner marks parts as full and has not closed the folder."
  }
 ]

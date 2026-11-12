@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-026.
+- Last updated: 12 Nov 2026, after Duska batch B-027.
+
+## 00000000000. New at B-027
+
+No field added. Folder `F-011` now has 16 documents; four (`D-011-13` to `-16`) are screenshots that point to `D-011-09` to `-12`. Web copies of the four census photographs are reduced to 2400 pixels wide; the `sha256` on the document is the full-size original under `records/`. The `F-011` manifest's `held` list has seven entries.
 
 ## 0000000000. New at B-026
 

@@ -171,6 +171,11 @@
     "batch": "B-020",
     "effect": "raised from 35 to 50",
     "note": "A Roman Catholic Duska branch at Senné is now on record from 1866: Georgius, two men called György the younger, and two called András. So 'Roman Catholic' describes Michal's village branch, while the Solymos Duskas are Reformed and a few are Greek Catholic. The Demko half of the statement is weakened by a Roman Catholic János Demko at Senné in 1900."
+   },
+   {
+    "batch": "B-027",
+    "effect": "no change",
+    "note": "At Solymos in [1869]: three Duska households Reformed, one Greek Catholic, and one Roman Catholic wife. The Roman Catholic Duskas are all at Senné."
    }
   ]
  },
@@ -243,6 +248,11 @@
     "batch": "B-023",
     "effect": "no change",
     "note": "An image of a census household is now in hand (D-006-07), so the owner's census find is real. It is a photograph of a screen with no village, page or archive on it, so where the Ung county sheets are kept is no better known than before. Stays at the cap."
+   },
+   {
+    "batch": "B-027",
+    "effect": "no change",
+    "note": "Four sheets are in hand, all photographs of a screen with no site name in the frame. Where the Ung county sheets are published is still not known."
    }
   ]
  },
@@ -885,6 +895,11 @@
     "batch": "B-023",
     "effect": "no change",
     "note": "The Greek Catholic household of György Duska now has a census form: grandfather, father and an infant Mihály of [1869]. That Mihály would be 60 in 1929; he is not Michal."
+   },
+   {
+    "batch": "B-027",
+    "effect": "no change",
+    "note": "The Greek Catholic household is now read in full: György (1820), György (1846), Mihály (1869). No Michal of the right age."
    }
   ],
   "necronym_risk": "unresolved",
@@ -893,13 +908,13 @@
  {
   "id": "H-036",
   "statement": "György Dusko, husband of Mária Hornyák, is a son of Mihály Dusko and Maria Szokol[...], born about 1838 to 1848.",
-  "confidence": 30,
+  "confidence": 5,
   "basis": "Same rare surname, same village, same pattern of a Greek Catholic husband with a Roman Catholic wife, one generation apart.",
   "test": "György's marriage entry, about 1865 to 1869, naming his father.",
-  "status": "open",
+  "status": "refuted",
   "raised": "B-013",
-  "resolved": null,
-  "resolution": null,
+  "resolved": "B-027",
+  "resolution": "The census sheet at full size shows the György Duska born in 1846 'working beside his father', and the father heading the household is György, born 1820. His wife's name matches the doubtful mother's name at the 1869 baptism, and their son Mihály was born in 1869. So the György of FG-25 is a son of György, not of Mihály Dusko.",
   "log": [
    {
     "batch": "B-017",
@@ -915,6 +930,11 @@
     "batch": "B-025",
     "effect": "no change",
     "note": "A Mihály Duska is at Solymos in the urbarial table. He is two or three generations too early to be the Mihály Dusko of this hypothesis."
+   },
+   {
+    "batch": "B-027",
+    "effect": "refuted, from 30 to 5",
+    "note": "The census sheet at full size shows the György Duska born in 1846 'working beside his father', and the father heading the household is György, born 1820. His wife's name matches the doubtful mother's name at the 1869 baptism, and their son Mihály was born in 1869. So the György of FG-25 is a son of György, not of Mihály Dusko."
    }
   ]
  },
@@ -1047,7 +1067,7 @@
  {
   "id": "H-042",
   "statement": "The Reformed Duskas of Solymos are one family: János Dusko, husband of Anna Kitko, and Mihály Dusko, husband of Ilona Mihalko, are sons of the 1830s and 1840s couples (András Duska and Borbála Pluchta; János Duska and Anna Hura).",
-  "confidence": 55,
+  "confidence": 65,
   "basis": "One village, one church, one surname, the right ages: a János baptised in [1834] and [1844], a Mihály in [1840]. Mihály and Ilona live at house 33, the house of János and Anna Hura in the 1850s. A Pluchta is godmother to Mihály's child in [1871]. No entry names a grandfather, so each father could be any of two or three boys.",
   "test": "The Reformed marriage register for Solymos, 1860 to 1871, which should name the fathers; burials for the boys of 1834, 1840, 1844 and 1852.",
   "status": "open",
@@ -1069,6 +1089,11 @@
     "batch": "B-025",
     "effect": "no change",
     "note": "The urbarial table shows two Duska households at Solymos two generations before the Reformed couples of the 1830s: Mihály, a full serf, and György, a cottar. 'One family' is as likely as before; the question moves back to whether those two men were kin."
+   },
+   {
+    "batch": "B-027",
+    "effect": "raised from 55 to 65",
+    "note": "The census bears out both links. János, the servant born 1835 with wife Anna Ki[tk]a, fits the János baptised in May [1834] to András Duska and Borbála Pluchta. Mihály, born 1850 and unmarried in his father János's house, fits 'Mihály Dusko the younger' who has children in that house from [1871]."
    }
   ],
   "necronym_risk": "unresolved"
@@ -1422,6 +1447,11 @@
     "batch": "B-025",
     "effect": "raised at 35",
     "note": "Raised from the urbarial tables in folder F-011."
+   },
+   {
+    "batch": "B-027",
+    "effect": "no change",
+    "note": "A Roman Catholic woman born at Szenna in 1816 is the wife of the oldest Solymos Duska in 1869. The two villages married into each other. It does not show a Duska moving to Senné. The census sheets for Senné houses 5 and 6 would: they should give the birthplaces of both György Duskas (request R-014)."
    }
   ]
  },
@@ -1494,6 +1524,61 @@
     "batch": "B-026",
     "effect": "raised at 5",
     "note": "Raised so that the owner's instruction has a place to be tested. She stays in the candidate list either way."
+   }
+  ]
+ },
+ {
+  "id": "H-062",
+  "statement": "György Dusko, father of Mihail in [1869] and husband of Mária Hornyák in [1874] and 1877, is one man: the György born in 1846 of the census. Zsuzsanna Pra[ch]onyik [?] was his first wife and Mária Hornyák his second.",
+  "confidence": 55,
+  "basis": "One Greek Catholic György Duska of that generation is in the Solymos census, and the baptisms of 1869, 1874 and 1877 are in one parish book. A change of mother between baptisms is a second marriage until a second man is shown (X-017). Against: the 1874 child was entered at Szenna 31, and a second György could have lived there.",
+  "test": "A burial of Zsuzsanna between 1869 and 1874; the marriage to Mária Hornyák; the census sheet for Szenna.",
+  "status": "open",
+  "raised": "B-027",
+  "resolved": null,
+  "resolution": null,
+  "necronym_risk": "unresolved",
+  "log": [
+   {
+    "batch": "B-027",
+    "effect": "raised at 55",
+    "note": "Raised from the four census sheets of Solymos."
+   }
+  ]
+ },
+ {
+  "id": "H-063",
+  "statement": "András Duska, Reformed, born 1797, is the husband both of Borbála Pluchta (children 1829 to 1843) and of Erzsébet, Roman Catholic, of Szenna (a son in 1852).",
+  "confidence": 60,
+  "basis": "The census has one András Duska at Solymos, aged 72, with a wife Erzsébet born 1816. He was 32 at the first Pluchta baptism. The wife's surname is read Ková[cs] in 1852 and begins Sz in the census; neither reading is firm.",
+  "test": "A burial of Borbála Pluchta between 1843 and 1852; András's second marriage; the Reformed burial of András with his age.",
+  "status": "open",
+  "raised": "B-027",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-027",
+    "effect": "raised at 60",
+    "note": "Raised from the four census sheets of Solymos."
+   }
+  ]
+ },
+ {
+  "id": "H-064",
+  "statement": "András Duska (b. 1797) and János Duska (b. 1810), both Reformed farmers of Solymos, are sons of Pál Duska, Reformed, who died there in 1838 aged 68.",
+  "confidence": 40,
+  "basis": "Pál is the only Reformed Duska of the right age on record, born about 1770; a György Dusko who died in 1833 aged 29 would be a third son. No record names a father for any of them.",
+  "test": "Reformed baptisms of Solymos for 1797 and 1810, if they survive; the census of 1828.",
+  "status": "open",
+  "raised": "B-027",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-027",
+    "effect": "raised at 40",
+    "note": "Raised from the four census sheets of Solymos."
    }
   ]
  }
