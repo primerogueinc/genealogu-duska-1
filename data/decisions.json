@@ -208,5 +208,29 @@
     "date": "2026-11-12",
     "decided": "No data change on ledger v10. Recorded that ledger v9 was never read by this agent.",
     "why": "X-017 item 6 as corrected. The reused names here come from the records, not from anything Kevin said."
+  },
+  {
+    "id": "DEC-36",
+    "date": "2026-11-12",
+    "decided": "Parts 3, 4 and 5 of folder F-005 (36 files) are recorded as one batch, B-013.",
+    "why": "They arrived within two minutes of each other while part 3 was being read."
+  },
+  {
+    "id": "DEC-37",
+    "date": "2026-11-12",
+    "decided": "Folder F-005 is marked complete.",
+    "why": "Kevin called the fifth part the final batch."
+  },
+  {
+    "id": "DEC-38",
+    "date": "2026-11-12",
+    "decided": "Corrected two part 1 readings: the 1877 Szenna 72 father is Danko, not Du[s]ko; the 1853 father is Bodnar of Jesztreb, not Bobnar of Szenna 13.",
+    "why": "Later strips by the same clerks and for the same couples made the comparison possible. H-026 and H-027 are refuted as a result."
+  },
+  {
+    "id": "DEC-39",
+    "date": "2026-11-12",
+    "decided": "For this batch, parents and godparents already indexed under the same name are not indexed again; every child is.",
+    "why": "Thirty-six strips repeat the same few couples many times."
   }
 ]

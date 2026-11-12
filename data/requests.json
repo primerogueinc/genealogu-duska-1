@@ -43,8 +43,14 @@
   },
   {
     "id": "R-008",
-    "status": "held",
+    "status": "withdrawn",
     "raised": "B-009",
-    "text": "A second image of the 1877 entry for Szenna 72, or other entries naming the same family, to settle the spelling (H-026)."
+    "text": "A second image of the 1877 entry for Szenna 72, or other entries naming the same family, to settle the spelling (H-026). Withdrawn at B-013: settled by comparison with another entry by the same clerk."
+  },
+  {
+    "id": "R-009",
+    "status": "held",
+    "raised": "B-013",
+    "text": "Baptisms of Duska children in the Senné Roman Catholic register, 1890 to 1910, and any Duska marriage of 1865 to 1900. Settles H-030, H-035, H-036."
   }
 ]

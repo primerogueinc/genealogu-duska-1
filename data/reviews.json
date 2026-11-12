@@ -53,5 +53,16 @@
     "holds": "A newer commit than XR-04; to be read in full at the next batch.",
     "found_for_duska_line": "Not yet read.",
     "sent_to_demko": "Nothing new in this batch."
+  },
+  {
+    "id": "XR-06",
+    "batch": "B-013",
+    "date": "2026-11-12",
+    "repo": "primerogueinc/genealogy-demko-1",
+    "commit": "b31046d",
+    "read": "batch DM-B-007 and the document list",
+    "holds": "A new folder, \"Demko Hints\": three strips, among them a second copy of its \"maybe\" baptism, now dated 1892, whose parents it reads as Mihály Demkó and Anna Batronszki [?].",
+    "found_for_duska_line": "Nothing.",
+    "sent_to_demko": "Nineteen strips from parts 3 to 5 of folder F-005, chiefly: Mária Kocsis, b. 27 Feb [1887], Solymos 19 (a candidate for its Ahn 19); three Kocsis households at Solymos; the Jesztreb Demko household from 1864 to 1885; and Mária Demko, b. Feb [1888], daughter of Mihály Demko and Anna Jaros, who is not its \"maybe\" child."
   }
 ]

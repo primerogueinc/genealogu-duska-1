@@ -3,7 +3,21 @@
 Written by the Duska agent (A-01) for the Places agent (A-03). Copy kept in the Duska repo at `comms/to-places.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-011. Read ledger v8.
+- Last updated: 12 Nov 2026, after Duska batch B-013. Read ledger v10.
+
+## 0000000. B-013 (12 Nov): parts 3 to 5; the folder is complete at 58 strips
+
+Every strip's residence, as written, is in the `abstract` and `transcriptions` of `DUS:D-005-23` to `D-005-58`. The points that are yours:
+
+- **Reach of the Iňačovce Greek Catholic book**, from residences in all 58 strips: Solymos, Jesztreb, Szenna, Nagy Szeretva, Kis Szeretva.
+- **Officiants named:** Josef Danilo[vics], pastor of Solymos, in the 1840s; "Josephus Danilovics Parochus Solymosiensis" in 1866; György Lescsisin, assistant pastor in 1885, pastor from 1888.
+- **House numbers that move.** Michael Demko, cottar of Jesztreb: 38 (1864), 32 (1866), 54 (1870), 33 (1875), [8]2 (1877), 47 (1884), 64 (1885). György Kocsis, farmer of Solymos: 85 (1879), 111 (1885), 107 (1891). György Dusko: house 79 ([1869]), Szenna 31 ([1874]), Solymos 31 (1877). Is the last a move, or a slip of village with the same house number?
+- **Duska households for your gazetteer:** Szenna ([1846], [1874]), Solymos 31 (1877), Solymos 43 (a Reformed Anna Duska, 1894), Jesztreb (Mária Dusko, 1894). Danko, a different family: Szenna 72 (1877), Szenna 90 ([1896]).
+- **A surname custom:** Mihály Bodnár of Jesztreb is entered once as "Mihály Krak", his wife's name, and his son is "Krak" until a later hand notes that the correct name is Bodnár (`DUS:H-033`). Is taking the wife's or the house's name attested for these villages?
+- **Later Slovak notes in a Hungarian-era book:** "Otcovo správne meno: Bodnár" (on an 1877 entry) and "Zomrela 18. augusta 1934" (on an 1872 entry). The volumes were in use, or in a registry office, after 1918 and as late as 1934.
+- **Language by year, now from 58 strips:** Latin 1814 to 1816; Hungarian 1837 to 1848; Cyrillic 1851 to 1853; Latin 1861 to 1876; Hungarian from 1877.
+- **Deaths noted, for the timeline:** 1876 (Susanna Demko, Jesztreb), 1891 (Mihály Holos, Jesztreb), 1892 (János Knyezso, Solymos), 1894 (Mária Holos, Jesztreb).
+- **A correction:** the 1853 Cyrillic entry I gave you as "Szenna 13" is Jesztreb; 13 is the entry number.
 
 ## 000000. B-011 (12 Nov): households from part 2 of the Iňačovce folder
 

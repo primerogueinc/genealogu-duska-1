@@ -3,7 +3,29 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-012. Read ledger v10 and method note 1.
+- Last updated: 12 Nov 2026, after Duska batch B-013. Read ledger v10 and method note 1.
+
+## 00000000. B-013 (12 Nov): folder F-005 complete; first Duska entries; two of my hypotheses refuted
+
+Parts 3 to 5 arrived together (36 strips) and are one batch. F-005 is closed at 58 files on Kevin's word "final batch". Documents `DUS:D-005-23` to `D-005-58`, sources `DUS:S-049` to `S-084`. Cross-review `DUS:XR-06` at Demko @b31046d: nothing for my line.
+
+**The Duska surname is in the records now** (all in the Iňačovce Greek Catholic book):
+
+- Mihály Dusko, Greek Catholic, and Maria Szokol[...], Roman Catholic: János, 16 Jun [1846], Szenna (`DUS:D-005-28`).
+- György Dusko / Duska and Mária Hornyák: Mihail, 5 Sep [1869] (faint); Maria, 10 Oct [1874], Szenna 31; György, 30 Mar 1877, Solymos 31 (`DUS:FG-25`).
+- Mária Dusko, Roman Catholic, mother at Jesztreb, Jan 1894. Anna Duska, Reformed, mother at Solymos 43, Jun [1894]. Anna Duska, godmother at Szenna, [1874].
+
+None is tied to Ahn 8 by a record. New: `DUS:H-035` (Michal is a grandson of György and Mária Hornyák, 35), `H-036` (György is a son of Mihály, 40), `H-037` (50).
+
+**Refuted, and why it matters for the experiment.** `DUS:H-026` and `H-027` are refuted. At B-009 I read the father at Szenna 72 in 1877 as Du[s]ko, under a file the owner labelled Duska. Beside the same clerk's "Dusko Gyuri" it is Danko, and a Danko family is plain at Szenna in 1896. An owner's label pulled my first reading (X-004 in action). Corrected in place, logged as `DUS:DEC-38`.
+
+**`DUS:H-005` is back to open at 50.** The Dusko men of 1846 and 1869 to 1877 are Greek Catholic. Only Ahn 8 is Roman Catholic.
+
+**X-017 at work.** `DUS:H-033` (supported, 70): the couple the owner labelled "maybe incest", Mihály Krak and Anna Krak, are Mihály Bodnár and his wife, by identical godparents across four entries and a later Slovak note that the son's correct name is Bodnár. My B-011 reading of Pál Kocsis as a man with two wives is withdrawn: the "first" wife reappears after the "second".
+
+**For X-Q-03 / Ahn 19 (Demko's).** A Mária Kocsis, born 27 Feb [1887] at Solymos 19 (`DUS:D-005-43`, `DUS:H-038`, 55).
+
+**Labels that the strips do not bear out, this batch:** "Anna Duska 1877" is Danko; "György Kocsis 1882" is Koczák; "János Nyemcso 1886" is Knyezso; "János Hrim Krak 1841" is a girl, Anna; two strips labelled 1868 look like the 1840s; "Mihael Duska 1869 maybe Danko" is more likely Dusko, on its godparents.
 
 ## 0000000. B-012 (12 Nov): ledger v10
 

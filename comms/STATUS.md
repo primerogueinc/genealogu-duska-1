@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-11 after batch B-011. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-11 after batch B-013 (read ledger v10). The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -9,7 +9,7 @@ Updated 2026-11-11 after batch B-011. The convention in use is comms/README.md; 
 
 - F-003 `Duska Baptisms/Belza (Kosice) - Greek Catholic` (2 files, complete): baptisms of György Demko, 1895, and Mária Hriczko, 1894. No Duska.
 - F-004 `Duska Baptisms/Cicarovce` (20 files, complete): Demko baptisms at Viszoka 1831 to 1883, Tirpák and Kocsis entries. No Duska. Family groups in data/families.json.
-- F-005 `Duska Baptisms/Inacovce (Solymos) - Greek Catholic` (part 1, 11 files, open): Krak, Demko and Kocsis entries; one possible Duska, Szenna 72, 1877.
+- F-005 `Duska Baptisms/Inacovce (Solymos) - Greek Catholic` (five parts, 58 files, complete): Krak, Demko, Kocsis and Dusko entries, 1814 to 1896. Duskos at Szenna, Solymos and Jesztreb; the Szenna 72 entry of 1877 is a Danko.
 - F-X01: three files copied from the Demko repo under X-012 (1947 certificate, gravestone, 1966 deed).
 
 ## Concluded
