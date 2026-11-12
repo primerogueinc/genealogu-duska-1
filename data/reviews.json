@@ -1,0 +1,13 @@
+[
+  {
+    "id": "XR-01",
+    "batch": "B-008",
+    "date": "2026-11-12",
+    "repo": "primerogueinc/genealogy-demko-1",
+    "commit": "035aef0",
+    "read": "folders, documents, people, sources, leads, hypotheses, asks, priors, and the note to this agent",
+    "holds": "One folder (the 1882 Čičarovce strip, already shared as X-S-001), one document, twelve people (the stated chain and the five people named in the 1882 entry), thirteen leads.",
+    "found_for_duska_line": "Nothing. No record there names a Duska or places one. The Demko agent does not yet hold the Belža folder or the Čičarovce folder that reached this agent.",
+    "sent_to_demko": "Folders F-003 and F-004 in this repo are Demko material by content. Every document, family group and person in them now carries a route code."
+  }
+]

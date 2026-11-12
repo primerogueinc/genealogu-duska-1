@@ -314,5 +314,20 @@
       "D-004-19",
       "D-004-20"
     ]
+  },
+  {
+    "id": "B-008",
+    "date": "2026-11-12",
+    "title": "Ledger v3: cross-review of the Demko repo",
+    "folder": null,
+    "files": 0,
+    "blurb": "No new files. Read ledger v3 and acted on it. The new rule is cross-review: the folder a record arrived in does not decide whose line it belongs to, so each line agent reads the other's repository at the start of every batch. First pass done on the Demko repository at commit 035aef0. It holds one folder, the 1882 strip both agents already share, and nothing that names or places a Duska. In the other direction the traffic is heavy: two of the folders that reached this agent under Duska labels, Belža and Čičarovce, are Demko material by content. Every document, family group and person from them now carries a route code so the Demko agent can take them, and the Places agent gets the households. The Places agent's first note on Senné was also taken in. It names the parish priest of Senné for 1831 to 1841 as a way to tie the Folder 1 copy-book to that parish; the two countersignatures on the pages in hand give only an abbreviated office and no name, so that test is not met yet. Kevin also stated that his father was born in Montréal, which places Stefan Duska in that city by 1962. No confidence moved in this batch.",
+    "raised": [],
+    "resolved": [],
+    "revised": [],
+    "people_added": [],
+    "sources_added": [
+      "S-000-5"
+    ]
   }
 ]

@@ -9,7 +9,13 @@
     "raised": "B-000",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-008",
+        "effect": "55% unchanged",
+        "note": "Kevin states his father was born in Montréal in 1962 (S-000-5). Ahn 4 was therefore in Montréal by 1962. That fits a Canadian-born Stefan and an immigrant Stefan equally, so no move."
+      }
+    ]
   },
   {
     "id": "H-002",
@@ -61,6 +67,11 @@
         "batch": "B-006",
         "effect": "55% to 45%",
         "note": "L-006: a village website places a Dúška family in Iňačovce in the 18th century. A lead, with no archive reference, so a modest move."
+      },
+      {
+        "batch": "B-008",
+        "effect": "45% unchanged",
+        "note": "Places agent, 12 Nov: Senné lay in the Nagykapos district and Iňačovce in the Szobránc district, so district papers for the two villages are in different series."
       }
     ]
   },
@@ -99,6 +110,11 @@
         "batch": "B-007",
         "effect": "55% to 55%",
         "note": "The Demko half is now documented across three generations: every Demko father at Viszoka from 1831 to 1883 is Greek Catholic. The Duska half is still untested."
+      },
+      {
+        "batch": "B-008",
+        "effect": "55% unchanged",
+        "note": "Places agent, 12 Nov: Senné had 580 Roman Catholics and 238 Greek Catholics in 1851, and its Greek Catholics were registered at Iňačovce. A Senné family could be either rite."
       }
     ]
   },
@@ -151,6 +167,11 @@
         "batch": "B-005",
         "effect": "80% to 70%",
         "note": "Ruling X-009: without the record and its archive reference, a claim resting on context is capped at 70."
+      },
+      {
+        "batch": "B-008",
+        "effect": "70% unchanged",
+        "note": "Places agent, 12 Nov: two more reports place the Ung county 1869 sheets in the Zakarpattia archive, one giving the Berehove branch, fond 7/2. Already at the cap."
       }
     ]
   },
@@ -204,6 +225,11 @@
         "batch": "B-005",
         "effect": "75% to 70%",
         "note": "Ruling X-009: capped at 70 until the film or archive reference is in hand."
+      },
+      {
+        "batch": "B-008",
+        "effect": "70% unchanged",
+        "note": "Places agent, 12 Nov: Štefan Rácz was parish priest of Senné from 1831 to 1841, so his name on the copy-book would tie it to Senné. Checked the two countersignatures on the pages in hand (D-001-01, D-001-06): both read \"Revisum per V.A.D.\" with an abbreviated signature and no name. The test is not met on these ten pages. Held at the cap."
       }
     ]
   },

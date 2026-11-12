@@ -106,5 +106,29 @@
     "date": "2026-11-12",
     "decided": "Years that appear only in the owner's file names are written in square brackets.",
     "why": "Ruling X-004: his labels are priors, not readings."
+  },
+  {
+    "id": "DEC-19",
+    "date": "2026-11-12",
+    "decided": "The route field on candidates, families and documents is now a code (duska, demko or places). The earlier wording moved to route_note.",
+    "why": "Ruling X-012 item 4."
+  },
+  {
+    "id": "DEC-20",
+    "date": "2026-11-12",
+    "decided": "A cross-review of the Demko repo is logged in data/reviews.json at the start of every batch.",
+    "why": "Ruling X-012 items 1 and 2."
+  },
+  {
+    "id": "DEC-21",
+    "date": "2026-11-12",
+    "decided": "Research leads carry proof level lead.",
+    "why": "Ruling X-011 item 4."
+  },
+  {
+    "id": "DEC-22",
+    "date": "2026-11-12",
+    "decided": "Recorded the city of birth of a living person (Ahn 2, Montréal) in this public repository, with the year only and no date.",
+    "why": "Kevin gave it in this chat for the experiment, and it is evidence for the line: it places Ahn 4 in Montréal by 1962. Flagged to the coordinator, since ruling X-013 says year only for living people other than Kevin."
   }
 ]

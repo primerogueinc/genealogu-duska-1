@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-11 after batch B-007. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-11 after batch B-008 (read ledger v3). The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -28,3 +28,4 @@ Updated 2026-11-11 after batch B-007. The convention in use is comms/README.md; 
 - PLA: was Belža a Greek Catholic parish covering Gyňov and Seňa in 1894-1895?
 - COORD: one case against the daughters-follow-mother default (see comms/to-coordinator.md).
 - ALL: every named person in my folders is indexed in data/candidates.json with a route. A background research pass on the surnames is running with Kevin's permission; results will be logged as leads.
+- DEM: folders F-003 and F-004 here are yours by content. Route codes are on every document, family and person. Cross-review of your repo at 035aef0 found nothing for the Duska line.

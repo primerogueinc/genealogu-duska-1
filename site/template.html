@@ -112,7 +112,7 @@ footer{padding:36px 0 48px;color:var(--muted);font-size:13.5px}
   <ul class="stats" id="stats"></ul>
 </div></header>
 <nav class="toc" aria-label="Sections"><div class="wrap">
-  <a href="#lineage">Lineage</a><a href="#families">Families</a><a href="#candidates">Candidates</a><a href="#batches">Batches</a><a href="#hypotheses">Hypotheses</a><a href="#documents">Documents</a><a href="#curiosities">Curiosities</a><a href="#folders">Folders</a><a href="#priors">Known beforehand</a><a href="#leads">Leads</a><a href="#requests">Requests</a><a href="#sources">Sources</a><a href="#role">Analyst brief</a>
+  <a href="#lineage">Lineage</a><a href="#families">Families</a><a href="#candidates">Candidates</a><a href="#batches">Batches</a><a href="#hypotheses">Hypotheses</a><a href="#documents">Documents</a><a href="#curiosities">Curiosities</a><a href="#folders">Folders</a><a href="#priors">Known beforehand</a><a href="#leads">Leads</a><a href="#reviews">Cross-review</a><a href="#requests">Requests</a><a href="#sources">Sources</a><a href="#role">Analyst brief</a>
 </div></nav>
 <main class="wrap">
   <section id="lineage"><h2>Lineage</h2><p class="sub">Direct line by Ahnentafel number. A dashed label means no record supports the entry yet.</p><div class="lineage" id="lineage-body"></div></section>
@@ -125,6 +125,7 @@ footer{padding:36px 0 48px;color:var(--muted);font-size:13.5px}
   <section id="folders"><h2>Folder register</h2><p class="sub">Desktop folders as Kevin describes them. A folder stays open until he says it is complete.</p><div id="folders-body"></div></section>
   <section id="priors"><h2>Known before Batch 1</h2><p class="sub">Things the analyst had already been told or had glimpsed. They are logged here so the comparison stays honest, and they do not count as findings.</p><div id="priors-body"></div></section>
   <section id="leads"><h2>Outside leads</h2><p class="sub">From public catalogues and searches, independent of Kevin's archive. Unverified until a record is in hand.</p><div id="leads-body"></div></section>
+  <section id="reviews"><h2>Cross-review</h2><p class="sub">At the start of each batch this agent reads the Demko agent's repository and checks it against the Duska line.</p><div id="rev-body"></div></section>
   <section id="requests"><h2>Request queue</h2><p class="sub">Material the analyst would ask for. Held until a whole line has been processed from the folders given.</p><div id="req-body"></div></section>
   <section id="sources"><h2>Sources</h2><div id="sources-body"></div></section>
   <section id="role"><h2>Analyst brief</h2><div id="role-body"></div></section>
@@ -197,6 +198,7 @@ $("folders-body").innerHTML = DATA.folders.map(f => row(f.id,
 
 $("priors-body").innerHTML = DATA.priors.map(p => row(p.id, `<p>${esc(p.text)}</p><div class="meta">${esc(p.origin)}</div>`)).join("");
 $("leads-body").innerHTML = DATA.leads.map(l => row(l.id, `<p>${esc(l.text)}</p><div class="meta">Bears on <b>${l.bears_on.map(esc).join(", ")}</b> &middot; <a href="${esc(l.url)}">source</a></div>`)).join("");
+$("rev-body").innerHTML = DATA.reviews.map(r => row(r.id, `<div class="meta">${esc(r.date)} &middot; batch ${esc(r.batch)} &middot; <b>${esc(r.repo)}</b> at ${esc(r.commit)}</div><p><b>Holds.</b> ${esc(r.holds)}</p><p><b>For the Duska line.</b> ${esc(r.found_for_duska_line)}</p><p><b>Sent the other way.</b> ${esc(r.sent_to_demko)}</p>`)).join("");
 $("req-body").innerHTML = DATA.requests.map(r => row(r.id, `<div class="head">${pill(r.status)}<span class="meta">raised ${esc(r.raised)}</span></div><p>${esc(r.text)}</p>`)).join("");
 $("sources-body").innerHTML = DATA.sources.map(s => row(s.id, `<h3>${esc(s.title)}</h3><div class="meta">${esc(s.type)} &middot; batch ${esc(s.batch)}</div><p>${esc(s.extract)}</p><p class="meta"><b>Reliability.</b> ${esc(s.reliability)}</p>`)).join("");
 const R = DATA.role;

@@ -8,7 +8,8 @@
       "S-002"
     ],
     "relation": "Unplaced. Candidate father (H-012) or brother (H-013) of Maria Demko, Ahn 9.",
-    "route": "Demko agent places the person; household sent to the Places agent"
+    "route": "demko",
+    "route_note": "Demko agent places the person; household sent to the Places agent"
   },
   {
     "id": "K-002",
@@ -19,7 +20,8 @@
       "S-002"
     ],
     "relation": "Father in family group FG-01. Possibly the György baptised at Viszoka in 1834 or the Georgius of 1831 (H-020, H-021).",
-    "route": "Demko agent places the person; household sent to the Places agent"
+    "route": "demko",
+    "route_note": "Demko agent places the person; household sent to the Places agent"
   },
   {
     "id": "K-003",
@@ -30,7 +32,8 @@
       "S-002"
     ],
     "relation": "Mother in family group FG-01. Godmother Anna Hreskó is probably her kin.",
-    "route": "Demko agent places the person; household sent to the Places agent"
+    "route": "demko",
+    "route_note": "Demko agent places the person; household sent to the Places agent"
   },
   {
     "id": "K-004",
@@ -41,7 +44,8 @@
       "S-003"
     ],
     "relation": "Unplaced. A Demko born in the Košice area, about 80 km west of Viszoka. Belongs to the Demko agent to place.",
-    "route": "Demko agent places the person; household sent to the Places agent"
+    "route": "demko",
+    "route_note": "Demko agent places the person; household sent to the Places agent"
   },
   {
     "id": "K-005",
@@ -52,7 +56,8 @@
       "S-003"
     ],
     "relation": "Father of K-004. Same name and rite as K-002 of Viszoka, but a different wife and county (H-016).",
-    "route": "Demko agent places the person; household sent to the Places agent"
+    "route": "demko",
+    "route_note": "Demko agent places the person; household sent to the Places agent"
   },
   {
     "id": "K-006",
@@ -63,7 +68,8 @@
       "S-003"
     ],
     "relation": "Mother of K-004. Unplaced.",
-    "route": "Demko agent places the person; household sent to the Places agent"
+    "route": "demko",
+    "route_note": "Demko agent places the person; household sent to the Places agent"
   },
   {
     "id": "K-007",
@@ -74,7 +80,8 @@
       "S-004"
     ],
     "relation": "Unplaced. No stated link to a Duska or a Demko. Surname resembles Hreskó (H-017).",
-    "route": "Duska agent keeps the person; household sent to the Places agent"
+    "route": "duska",
+    "route_note": "Duska agent keeps the person; household sent to the Places agent"
   },
   {
     "id": "K-008",
@@ -85,7 +92,8 @@
       "S-004"
     ],
     "relation": "Father of K-007. Unplaced.",
-    "route": "Duska agent keeps the person; household sent to the Places agent"
+    "route": "duska",
+    "route_note": "Duska agent keeps the person; household sent to the Places agent"
   },
   {
     "id": "K-009",
@@ -96,7 +104,8 @@
       "S-004"
     ],
     "relation": "Mother of K-007. Unplaced.",
-    "route": "Duska agent keeps the person; household sent to the Places agent"
+    "route": "duska",
+    "route_note": "Duska agent keeps the person; household sent to the Places agent"
   },
   {
     "id": "K-010",
@@ -107,7 +116,8 @@
       "S-002"
     ],
     "relation": "Godfather of K-001. Shares his given name with the child.",
-    "route": "Demko agent (associate of the Viszoka household)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka household)"
   },
   {
     "id": "K-011",
@@ -118,7 +128,8 @@
       "S-002"
     ],
     "relation": "Godmother of K-001. Probably kin of the mother, K-003.",
-    "route": "Demko agent (probable kin of Mária Hreskó)"
+    "route": "demko",
+    "route_note": "Demko agent (probable kin of Mária Hreskó)"
   },
   {
     "id": "K-012",
@@ -130,7 +141,8 @@
       "S-023"
     ],
     "relation": "Priest. Reading uncertain. Identifying him and his parish settles which book the entry is from (H-015).",
-    "route": "Places agent (which parish he served)"
+    "route": "places",
+    "route_note": "Places agent (which parish he served)"
   },
   {
     "id": "K-013",
@@ -141,7 +153,8 @@
       "S-003"
     ],
     "relation": "Next entry after K-004 on the same strip. No known link.",
-    "route": "Duska agent keeps the person; household sent to the Places agent"
+    "route": "duska",
+    "route_note": "Duska agent keeps the person; household sent to the Places agent"
   },
   {
     "id": "K-014",
@@ -152,7 +165,8 @@
       "S-003"
     ],
     "relation": "Mother of K-013. Father not named.",
-    "route": "Duska agent keeps the person; household sent to the Places agent"
+    "route": "duska",
+    "route_note": "Duska agent keeps the person; household sent to the Places agent"
   },
   {
     "id": "K-015",
@@ -163,7 +177,8 @@
       "S-004"
     ],
     "relation": "Next entry after K-007 on the same strip. No known link.",
-    "route": "Duska agent keeps the person; household sent to the Places agent"
+    "route": "duska",
+    "route_note": "Duska agent keeps the person; household sent to the Places agent"
   },
   {
     "id": "K-016",
@@ -174,7 +189,8 @@
       "S-004"
     ],
     "relation": "Father of K-015. A neighbour of the Demko household at Gönyű 24.",
-    "route": "Duska agent keeps the person; household sent to the Places agent"
+    "route": "duska",
+    "route_note": "Duska agent keeps the person; household sent to the Places agent"
   },
   {
     "id": "K-017",
@@ -185,7 +201,8 @@
       "S-004"
     ],
     "relation": "Mother of K-015.",
-    "route": "Duska agent keeps the person; household sent to the Places agent"
+    "route": "duska",
+    "route_note": "Duska agent keeps the person; household sent to the Places agent"
   },
   {
     "id": "K-018",
@@ -196,7 +213,8 @@
       "S-001"
     ],
     "relation": "Benefactor named in the Folder 1 copy-book. The one local person in those ten pages.",
-    "route": "Duska agent keeps the person; household sent to the Places agent"
+    "route": "duska",
+    "route_note": "Duska agent keeps the person; household sent to the Places agent"
   },
   {
     "id": "K-019",
@@ -207,7 +225,8 @@
       "S-017"
     ],
     "relation": "Child in FG-01.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-020",
@@ -218,7 +237,8 @@
       "S-021"
     ],
     "relation": "Child in FG-01. The name was given again to the son of 1882.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-021",
@@ -229,7 +249,8 @@
       "S-021"
     ],
     "relation": "Child in FG-01.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-022",
@@ -240,7 +261,8 @@
       "S-012"
     ],
     "relation": "Child in FG-01. A possible father for Maria Demko, Ahn 9 (H-024).",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-023",
@@ -251,7 +273,8 @@
       "S-007"
     ],
     "relation": "Child in FG-01.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-024",
@@ -265,7 +288,8 @@
       "S-023"
     ],
     "relation": "Father in FG-02. Possibly the János baptised in 1838 (H-025).",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-025",
@@ -279,7 +303,8 @@
       "S-023"
     ],
     "relation": "Mother in FG-02, named Anna once and Mária three times.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-026",
@@ -290,7 +315,8 @@
       "S-006"
     ],
     "relation": "Child in FG-02.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-027",
@@ -301,7 +327,8 @@
       "S-008"
     ],
     "relation": "Child in FG-02.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-028",
@@ -312,7 +339,8 @@
       "S-013"
     ],
     "relation": "Child in FG-02.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-029",
@@ -323,7 +351,8 @@
       "S-023"
     ],
     "relation": "Child in FG-02.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-030",
@@ -335,7 +364,8 @@
       "S-011"
     ],
     "relation": "Father in FG-03.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-031",
@@ -347,7 +377,8 @@
       "S-011"
     ],
     "relation": "Mother in FG-03. Surname reading uncertain.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-032",
@@ -358,7 +389,8 @@
       "S-010"
     ],
     "relation": "Child in FG-03. A candidate for the father in FG-01 (H-020).",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-033",
@@ -369,7 +401,8 @@
       "S-011"
     ],
     "relation": "Child in FG-03. A candidate for the father in FG-02 (H-025).",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-034",
@@ -380,7 +413,8 @@
       "S-009"
     ],
     "relation": "Father in FG-04.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-035",
@@ -391,7 +425,8 @@
       "S-009"
     ],
     "relation": "Mother in FG-04. Surname reading uncertain.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-036",
@@ -402,7 +437,8 @@
       "S-009"
     ],
     "relation": "Child in FG-04. A candidate for the father in FG-01 (H-021).",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-037",
@@ -413,7 +449,8 @@
       "S-016"
     ],
     "relation": "Father in FG-05.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-038",
@@ -424,7 +461,8 @@
       "S-016"
     ],
     "relation": "Mother in FG-05. Surname reading uncertain.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-039",
@@ -435,7 +473,8 @@
       "S-016"
     ],
     "relation": "Child in FG-05.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-040",
@@ -448,7 +487,8 @@
       "S-022"
     ],
     "relation": "Father in FG-06.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-041",
@@ -461,7 +501,8 @@
       "S-022"
     ],
     "relation": "Mother in FG-06. Born about 1800 to 1812.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-042",
@@ -472,7 +513,8 @@
       "S-019"
     ],
     "relation": "Child in FG-06.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-043",
@@ -483,7 +525,8 @@
       "S-014"
     ],
     "relation": "Child in FG-06.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-044",
@@ -494,7 +537,8 @@
       "S-022"
     ],
     "relation": "Child in FG-06.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-045",
@@ -506,7 +550,8 @@
       "S-015"
     ],
     "relation": "Father in FG-07.",
-    "route": "Duska agent keeps; Places agent for the village"
+    "route": "duska",
+    "route_note": "Duska agent keeps; Places agent for the village"
   },
   {
     "id": "K-046",
@@ -518,7 +563,8 @@
       "S-015"
     ],
     "relation": "Mother in FG-07.",
-    "route": "Duska agent keeps; Places agent for the village"
+    "route": "duska",
+    "route_note": "Duska agent keeps; Places agent for the village"
   },
   {
     "id": "K-047",
@@ -529,7 +575,8 @@
       "S-018"
     ],
     "relation": "Child in FG-07.",
-    "route": "Duska agent keeps; Places agent for the village"
+    "route": "duska",
+    "route_note": "Duska agent keeps; Places agent for the village"
   },
   {
     "id": "K-048",
@@ -540,7 +587,8 @@
       "S-015"
     ],
     "relation": "Child in FG-07.",
-    "route": "Duska agent keeps; Places agent for the village"
+    "route": "duska",
+    "route_note": "Duska agent keeps; Places agent for the village"
   },
   {
     "id": "K-049",
@@ -551,7 +599,8 @@
       "S-020"
     ],
     "relation": "Father in FG-08.",
-    "route": "Duska agent keeps; Places agent for the village"
+    "route": "duska",
+    "route_note": "Duska agent keeps; Places agent for the village"
   },
   {
     "id": "K-050",
@@ -562,7 +611,8 @@
       "S-020"
     ],
     "relation": "Mother in FG-08.",
-    "route": "Duska agent keeps; Places agent for the village"
+    "route": "duska",
+    "route_note": "Duska agent keeps; Places agent for the village"
   },
   {
     "id": "K-051",
@@ -573,7 +623,8 @@
       "S-020"
     ],
     "relation": "Child in FG-08.",
-    "route": "Duska agent keeps; Places agent for the village"
+    "route": "duska",
+    "route_note": "Duska agent keeps; Places agent for the village"
   },
   {
     "id": "K-052",
@@ -584,7 +635,8 @@
       "S-005"
     ],
     "relation": "Father in FG-09.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-053",
@@ -595,7 +647,8 @@
       "S-005"
     ],
     "relation": "Mother in FG-09.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-054",
@@ -606,7 +659,8 @@
       "S-005"
     ],
     "relation": "Child in FG-09. The owner's label and the reading disagree.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-055",
@@ -619,7 +673,8 @@
       "S-013"
     ],
     "relation": "Officiant. His title in the entries shows the book was kept by the Čičarovce Greek Catholic parish.",
-    "route": "Places agent (which parish he served)"
+    "route": "places",
+    "route_note": "Places agent (which parish he served)"
   },
   {
     "id": "K-056",
@@ -631,7 +686,8 @@
       "S-008"
     ],
     "relation": "Officiant.",
-    "route": "Places agent (which parish he served)"
+    "route": "places",
+    "route_note": "Places agent (which parish he served)"
   },
   {
     "id": "K-057",
@@ -642,7 +698,8 @@
       "S-010"
     ],
     "relation": "Officiant. Parish not read.",
-    "route": "Places agent (which parish he served)"
+    "route": "places",
+    "route_note": "Places agent (which parish he served)"
   },
   {
     "id": "K-058",
@@ -653,7 +710,8 @@
       "S-017"
     ],
     "relation": "Officiant. He wrote the entry in Cyrillic.",
-    "route": "Places agent (which parish he served)"
+    "route": "places",
+    "route_note": "Places agent (which parish he served)"
   },
   {
     "id": "K-059",
@@ -664,7 +722,8 @@
       "S-009"
     ],
     "relation": "Officiant.",
-    "route": "Places agent (which parish he served)"
+    "route": "places",
+    "route_note": "Places agent (which parish he served)"
   },
   {
     "id": "K-060",
@@ -675,7 +734,8 @@
       "S-011"
     ],
     "relation": "Officiant. Name reading uncertain.",
-    "route": "Places agent (which parish he served)"
+    "route": "places",
+    "route_note": "Places agent (which parish he served)"
   },
   {
     "id": "K-061",
@@ -686,7 +746,8 @@
       "S-012"
     ],
     "relation": "Godparent in D-004-08.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-062",
@@ -697,7 +758,8 @@
       "S-012"
     ],
     "relation": "Godparent in D-004-08.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-063",
@@ -708,7 +770,8 @@
       "S-007"
     ],
     "relation": "Godparent in D-004-03.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-064",
@@ -719,7 +782,8 @@
       "S-007"
     ],
     "relation": "Godparent in D-004-03.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-065",
@@ -730,7 +794,8 @@
       "S-021"
     ],
     "relation": "Godparent in D-004-18.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-066",
@@ -741,7 +806,8 @@
       "S-021"
     ],
     "relation": "Godparent in D-004-18.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-067",
@@ -752,7 +818,8 @@
       "S-017"
     ],
     "relation": "Godparent in D-004-13.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-068",
@@ -763,7 +830,8 @@
       "S-017"
     ],
     "relation": "Godparent in D-004-13.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-069",
@@ -774,7 +842,8 @@
       "S-006"
     ],
     "relation": "Godparent in D-004-02.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-070",
@@ -785,7 +854,8 @@
       "S-006"
     ],
     "relation": "Godparent in D-004-02.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-071",
@@ -796,7 +866,8 @@
       "S-008"
     ],
     "relation": "Godparent in D-004-04.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-072",
@@ -807,7 +878,8 @@
       "S-013"
     ],
     "relation": "Godparent in D-004-09.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-073",
@@ -818,7 +890,8 @@
       "S-013"
     ],
     "relation": "Godparent in D-004-09.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-074",
@@ -829,7 +902,8 @@
       "S-023"
     ],
     "relation": "Godparent in D-004-20.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-075",
@@ -840,7 +914,8 @@
       "S-023"
     ],
     "relation": "Godparent in D-004-20.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-076",
@@ -851,7 +926,8 @@
       "S-010"
     ],
     "relation": "Godparent in D-004-06.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-077",
@@ -862,7 +938,8 @@
       "S-010"
     ],
     "relation": "Godparent in D-004-06.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-078",
@@ -873,7 +950,8 @@
       "S-011"
     ],
     "relation": "Godparent in D-004-07.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-079",
@@ -884,7 +962,8 @@
       "S-011"
     ],
     "relation": "Godparent in D-004-07.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-080",
@@ -895,7 +974,8 @@
       "S-009"
     ],
     "relation": "Godparent in D-004-05.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-081",
@@ -906,7 +986,8 @@
       "S-009"
     ],
     "relation": "Godparent in D-004-05.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-082",
@@ -917,7 +998,8 @@
       "S-016"
     ],
     "relation": "Godparent in D-004-12.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-083",
@@ -928,7 +1010,8 @@
       "S-019"
     ],
     "relation": "Godparent in D-004-15.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-084",
@@ -939,7 +1022,8 @@
       "S-019"
     ],
     "relation": "Godparent in D-004-15.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-085",
@@ -950,7 +1034,8 @@
       "S-014"
     ],
     "relation": "Godparent in D-004-10.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-086",
@@ -961,7 +1046,8 @@
       "S-014"
     ],
     "relation": "Godparent in D-004-10.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-087",
@@ -972,7 +1058,8 @@
       "S-022"
     ],
     "relation": "Godparent in D-004-19.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-088",
@@ -983,7 +1070,8 @@
       "S-018"
     ],
     "relation": "Godparent in D-004-14.",
-    "route": "Duska agent keeps; Places agent for the village"
+    "route": "duska",
+    "route_note": "Duska agent keeps; Places agent for the village"
   },
   {
     "id": "K-089",
@@ -994,7 +1082,8 @@
       "S-018"
     ],
     "relation": "Godparent in D-004-14.",
-    "route": "Duska agent keeps; Places agent for the village"
+    "route": "duska",
+    "route_note": "Duska agent keeps; Places agent for the village"
   },
   {
     "id": "K-090",
@@ -1005,7 +1094,8 @@
       "S-015"
     ],
     "relation": "Godparent in D-004-11.",
-    "route": "Duska agent keeps; Places agent for the village"
+    "route": "duska",
+    "route_note": "Duska agent keeps; Places agent for the village"
   },
   {
     "id": "K-091",
@@ -1016,7 +1106,8 @@
       "S-015"
     ],
     "relation": "Godparent in D-004-11.",
-    "route": "Duska agent keeps; Places agent for the village"
+    "route": "duska",
+    "route_note": "Duska agent keeps; Places agent for the village"
   },
   {
     "id": "K-092",
@@ -1027,7 +1118,8 @@
       "S-020"
     ],
     "relation": "Godparent in D-004-17.",
-    "route": "Duska agent keeps; Places agent for the village"
+    "route": "duska",
+    "route_note": "Duska agent keeps; Places agent for the village"
   },
   {
     "id": "K-093",
@@ -1038,7 +1130,8 @@
       "S-020"
     ],
     "relation": "Godparent in D-004-17.",
-    "route": "Duska agent keeps; Places agent for the village"
+    "route": "duska",
+    "route_note": "Duska agent keeps; Places agent for the village"
   },
   {
     "id": "K-094",
@@ -1049,7 +1142,8 @@
       "S-005"
     ],
     "relation": "Godparent in D-004-01.",
-    "route": "Demko agent (associate of the Viszoka Demkos)"
+    "route": "demko",
+    "route_note": "Demko agent (associate of the Viszoka Demkos)"
   },
   {
     "id": "K-095",
@@ -1060,7 +1154,8 @@
       "S-006"
     ],
     "relation": "Bystander with a tracked surname: same surname as the wife in FG-02.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-096",
@@ -1071,7 +1166,8 @@
       "S-006"
     ],
     "relation": "Bystander with a tracked surname: a Hreskó man at Viszoka in 1874.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   },
   {
     "id": "K-097",
@@ -1082,6 +1178,7 @@
       "S-007"
     ],
     "relation": "Bystander. Written Hricko on the line below a Hreskó, in the same hand.",
-    "route": "Demko agent"
+    "route": "demko",
+    "route_note": "Demko agent"
   }
 ]

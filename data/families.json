@@ -13,7 +13,7 @@
       "Mihály, b. 19 Aug 1882"
     ],
     "note": "Whether the couple of 1857 is the couple of 1873 to 1882 is hypothesis H-022. No child is recorded here between 1857 and 1873.",
-    "route": "Demko agent",
+    "route": "demko",
     "documents": [
       "D-002-01",
       "D-004-03",
@@ -21,7 +21,8 @@
       "D-004-13",
       "D-004-16",
       "D-004-18"
-    ]
+    ],
+    "route_note": "Demko agent"
   },
   {
     "id": "FG-02",
@@ -36,13 +37,14 @@
       "Zsuzsánna, b. 6 Jan 1883"
     ],
     "note": "House 120 in 1879 is next door to György Demkó at 121. One wife under two given names, or two wives, is not settled.",
-    "route": "Demko agent",
+    "route": "demko",
     "documents": [
       "D-004-02",
       "D-004-04",
       "D-004-09",
       "D-004-20"
-    ]
+    ],
+    "route_note": "Demko agent"
   },
   {
     "id": "FG-03",
@@ -55,11 +57,12 @@
       "János, b. [1838]"
     ],
     "note": "",
-    "route": "Demko agent",
+    "route": "demko",
     "documents": [
       "D-004-06",
       "D-004-07"
-    ]
+    ],
+    "route_note": "Demko agent"
   },
   {
     "id": "FG-04",
@@ -71,10 +74,11 @@
       "Georgius, b. [1831]"
     ],
     "note": "A second father named György Demko at Viszoka in the same years as FG-03, or the same man with an earlier wife.",
-    "route": "Demko agent",
+    "route": "demko",
     "documents": [
       "D-004-05"
-    ]
+    ],
+    "route_note": "Demko agent"
   },
   {
     "id": "FG-05",
@@ -86,10 +90,11 @@
       "Mária, b. [1840]"
     ],
     "note": "May be the father of FG-03 or FG-04 with a later wife, or a third man.",
-    "route": "Demko agent",
+    "route": "demko",
     "documents": [
       "D-004-12"
-    ]
+    ],
+    "route_note": "Demko agent"
   },
   {
     "id": "FG-06",
@@ -103,12 +108,13 @@
       "Mihály, b. [1839]"
     ],
     "note": "A Demko daughter of the generation born about 1800 to 1812.",
-    "route": "Demko agent",
+    "route": "demko",
     "documents": [
       "D-004-10",
       "D-004-15",
       "D-004-19"
-    ]
+    ],
+    "route_note": "Demko agent"
   },
   {
     "id": "FG-07",
@@ -121,11 +127,12 @@
       "Julianna, b. 27 Jan [1836]"
     ],
     "note": "No stated link to a Demko or a Duska. Why the owner kept the Kocsis entries is not known.",
-    "route": "Duska agent keeps; Places agent for the villages",
+    "route": "duska",
     "documents": [
       "D-004-11",
       "D-004-14"
-    ]
+    ],
+    "route_note": "Duska agent keeps; Places agent for the villages"
   },
   {
     "id": "FG-08",
@@ -137,10 +144,11 @@
       "Mihály, b. 15 May 1873"
     ],
     "note": "A second Kocsis record, a generation after FG-07.",
-    "route": "Duska agent keeps",
+    "route": "duska",
     "documents": [
       "D-004-17"
-    ]
+    ],
+    "route_note": "Duska agent keeps"
   },
   {
     "id": "FG-09",
@@ -152,9 +160,10 @@
       "Anna, b. 7 May [1872]"
     ],
     "note": "The owner's file name calls the child Anna Demko. The strip does not show that name.",
-    "route": "Demko agent, to check against the full page",
+    "route": "demko",
     "documents": [
       "D-004-01"
-    ]
+    ],
+    "route_note": "Demko agent, to check against the full page"
   }
 ]

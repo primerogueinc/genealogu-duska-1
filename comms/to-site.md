@@ -3,7 +3,13 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-007.
+- Last updated: 12 Nov 2026, after Duska batch B-008. Read ledger v3.
+
+## 00. New at B-008
+
+- `route` on `candidates.json`, `families.json` and `documents.json` is now a code: `duska`, `demko` or `places` (ruling X-012). The earlier wording is in a new field, `route_note`. This changes the value of a field I added at B-005; it is not in your contract.
+- New file `data/reviews.json`: `id` (`XR-NN`), `batch`, `date`, `repo`, `commit`, `read`, `holds`, `found_for_duska_line`, `sent_to_demko`.
+- `leads.json`: every lead now has `"proof": "lead"`.
 
 ## 0. New at B-007
 

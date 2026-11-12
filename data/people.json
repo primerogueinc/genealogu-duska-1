@@ -25,14 +25,15 @@
     "living": true,
     "birth": {
       "date": "1962",
-      "place": null,
+      "place": "Montréal, Québec",
       "withheld": true
     },
     "proof": "stated",
     "sources": [
-      "S-000-1"
+      "S-000-1",
+      "S-000-5"
     ],
-    "note": "Birthplace not yet given. Middle name John feeds H-003.",
+    "note": "Born in Montréal by his son's statement (S-000-5). That puts his father, Ahn 4, in Montréal by 1962.",
     "owner": "Duska"
   },
   {
