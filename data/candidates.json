@@ -49,7 +49,7 @@
   "route": "demko",
   "route_note": "Demko agent places the person; household sent to the Places agent",
   "necronym_risk": "unresolved",
-  "necronym_note": "Burials for the Belža parish, 1895 to 1910, not in hand."
+  "necronym_note": "He is the second György of this couple: a brother György died of diphtheria on 9 March [1892] aged 2 years and 3 months, and a brother János on 30 October [1892] (D-013-03, D-013-04). Burials for the Belža parish after 1895 are still not in hand, so his own survival is unresolved."
  },
  {
   "id": "K-005",
@@ -7141,5 +7141,125 @@
   "route": "duska",
   "route_note": "",
   "living": "unknown"
+ },
+ {
+  "id": "K-601",
+  "name": "András Soltész",
+  "vitals": "b. about 1804, Nagy-Ida; d. 25 Dec [1878], Bernátfalva",
+  "proof": "documented",
+  "sources": [
+   "S-291"
+  ],
+  "relation": "D-013-01. Husband of Erzsébet Demko.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-602",
+  "name": "Erzsébet Demko",
+  "vitals": "wife of András Soltész; living [1878]?",
+  "proof": "documented",
+  "sources": [
+   "S-291"
+  ],
+  "relation": "D-013-01. Named as the wife of the dead man; whether she survived him is not said.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-603",
+  "name": "Anna Kocsis",
+  "vitals": "b. about 1813; d. 18 May [1840], Gönyű",
+  "proof": "documented",
+  "sources": [
+   "S-292"
+  ],
+  "relation": "D-013-02. Wife of a herdsman (pastor) whose name is not read.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-604",
+  "name": "György Demko (the first)",
+  "vitals": "b. about Dec 1889, Nagy-Ida; d. 9 Mar [1892], Gönyű, of diphtheria",
+  "proof": "documented",
+  "sources": [
+   "S-293"
+  ],
+  "relation": "D-013-03. Son of György Demko and Katalin Jobbágy. His name was given again to the brother born in 1895 (K-004).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-605",
+  "name": "János Demko",
+  "vitals": "b. about Apr 1891, Nagy-Ida; d. 30 Oct [1892], Gönyű, of diphtheria",
+  "proof": "documented",
+  "sources": [
+   "S-294"
+  ],
+  "relation": "D-013-04. Son of György Demko and Katalin Jobbágy.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-606",
+  "name": "Joannes (Vanyo) D[u]ska",
+  "vitals": "b. about 1818 in Galicia; d. 25 May [1863], Szina (Seňa)",
+  "proof": "documented",
+  "sources": [
+   "S-295"
+  ],
+  "relation": "D-013-05. A man from Galicia who died at Szina. Indexed under rule 30; the surname may be Driska. Not attached (H-075).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-607",
+  "name": "László Demko",
+  "vitals": "b. about 1809; d. 28 Feb [1889], Kenyhec; gardener",
+  "proof": "documented",
+  "sources": [
+   "S-296"
+  ],
+  "relation": "D-013-06. Husband of Erzsébet N. Perhaps the gardener of Csány and Gecse who buried two daughters in [1849] and [1850] (H-074).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-608",
+  "name": "Mária Demko (the second)",
+  "vitals": "b. Feb [1850]; d. 2 Mar [1850], Gecse",
+  "proof": "documented",
+  "sources": [
+   "S-297"
+  ],
+  "relation": "D-013-07. Daughter of the gardener of Gecse; the second infant Mária of a gardener named Demko in two years.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-609",
+  "name": "Mária Demko (the first)",
+  "vitals": "b. summer [1849?]; d. Aug [1849?]",
+  "proof": "documented",
+  "sources": [
+   "S-298"
+  ],
+  "relation": "D-013-08. Child of the gardener of Csány.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-610",
+  "name": "Maria Demko",
+  "vitals": "b. about 1819; d. 15 Oct [1856], Szakaly",
+  "proof": "documented",
+  "sources": [
+   "S-299"
+  ],
+  "relation": "D-013-09. Wife of Michael L[ejk]o.",
+  "route": "demko",
+  "route_note": ""
  }
 ]

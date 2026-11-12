@@ -2422,5 +2422,77 @@
   "title": "Slovak land register, ownership sheet no. 11, Senné, 10 May 2022",
   "extract": "A family house with yard and a garden at Senné, 1,024 square metres together, owned jointly by a married couple named Duška, born 1953 and 1957, by purchase in the 1980s; no charges. Names, dates and numbers withheld.",
   "reliability": "An official register, printed by its own service; an extract 'for information'. It proves ownership on that day and says nothing of descent."
+ },
+ {
+  "id": "S-291",
+  "batch": "B-043",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of András Soltész, husband of Erzsébet Demko, Bernátfalva, [1878]",
+  "extract": "András Soltész, cottar, husband of Erzsébet Demko; born at Nagy-Ida, living at Bernátfalva; aged 74; died on 25 December of decrepitude, having received the sacraments; buried at Bernátfalva on 27 December. The owner's file name runs the two surnames together: the dead man is a Soltész and Demko is his wife's name.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-292",
+  "batch": "B-043",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Kocsis, a herdsman's wife, Gönyű, May [1840]",
+  "extract": "Anna Kocsis, wife of a herdsman whose name is not read, of Gönyű, aged 27; died on the 18th; buried at Gönyű by the same priest as the entry above.",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-293",
+  "batch": "B-043",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György Demko, son of György Demko and Katalin Jobbágy, Gönyű, March [1892]",
+  "extract": "György Demko, son of György Demko and Katalin Jobbágy; born at Nagy-Ida, living at Gönyű; a boy of 2 years and 3 months; died on 9 March of diphtheria; buried at Gönyű on 11 March. The György baptised to the same parents on 31 March 1895 (D-003-01) is therefore a second son of that name.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-294",
+  "batch": "B-043",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János Demko, son of György Demko and Katalin Jobbágy, Gönyű, October [1892]",
+  "extract": "János Demko, son of György Demko and Katalin Jobbágy; born at Nagy-Ida, living at Gönyű; a boy of a year and a half; died on 30 October of diphtheria; buried at Gönyű on 1 November. The second son the couple lost to diphtheria in the one year.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-295",
+  "batch": "B-043",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Joannes, called Vanyo, D[u]ska of Galicia, Szina, May [1863]",
+  "extract": "Joannes, with 'Vanyo' written under it in a bracket and an earlier 'Daniel' struck out, surname D[u]ska or Driska; Greek Catholic [?]; from Galicia, with a place name not read, living at Szina; a man of 45; died on 25 May of a lung complaint, suddenly and without the sacraments; buried at Szina. The surname has four or five letters before '-ka' and may be read Duska, as the owner does, or Driska.",
+  "reliability": "A register entry made at the burial. Reading level: low for the surname and the place of origin. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-296",
+  "batch": "B-043",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of László Demko, gardener, Kenyhec, [1889]",
+  "extract": "László Demko, gardener, husband of Erzsébet N. (her surname not given); of Kenyhec; a man of 80; died on 28 February of old age; 'the priest was not called on'; buried at Kenyhec on 1 March.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-297",
+  "batch": "B-043",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Maria Demko, the gardener's daughter, Gecse, March [1850]",
+  "extract": "Maria Demko, daughter of the gardener of Gecse, two weeks old; died on 2 March; buried in the cemetery of Gecse by the pastor of Bölzse [?].",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-298",
+  "batch": "B-043",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária Demko, child of the gardener of Csány, August [1849?]",
+  "extract": "Mária Demko, child of the gardener of Csány (the clerk wrote 'son'); 'a few weeks old'; cause read doubtfully as suffocation; died about 14 August; buried in the cemetery of Gecse by the Reverend Ferenc [J...], a Roman Catholic parish priest of a place not read. The owner's file name itself says 'maybe 1849'.",
+  "reliability": "A register entry made at the burial. Reading level: medium; low for the cause and the priest. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-299",
+  "batch": "B-043",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Maria Demko, wife of Michael L[ejk]o, Szakaly, October [1856]",
+  "extract": "Maria Demko, wife of Michael L[ejk]o, of Szakaly; aged 37; died on the 15th; buried at Szakaly on the 17th.",
+  "reliability": "A register entry made at the burial. Reading level: medium; low for the husband's surname. The year is from the owner's file name only."
  }
 ]

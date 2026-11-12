@@ -185,5 +185,17 @@
   ],
   "archive_path": "records/F-012_Duska-Contemporary-Land/",
   "completed": "2026-11-12"
+ },
+ {
+  "id": "F-013",
+  "desktop_path": "Duska Death",
+  "described_as": "Announced by the owner as 'Duska Death Folder', beginning with the sub-folder 'Belza Kosice Greek Catholic', marked full: nine burial strips, eight of them Demko and Kocsis, one a D[u]ska of Galicia.",
+  "status": "open",
+  "first_seen": "2026-11-12",
+  "files_received": 9,
+  "batches": [
+   "B-043"
+  ],
+  "archive_path": "records/F-013_Duska-Death/"
  }
 ]

@@ -1,0 +1,89 @@
+{
+  "folder_id": "F-013",
+  "desktop_path": "Duska Death",
+  "note": "Sub-folder 'Belza Kosice Greek Catholic', marked full by the owner: 9 image strips, received through chat upload on 12 Nov 2026.",
+  "files": [
+    {
+      "file": "Death_of_Andras_Solsesz_Demko_1878.png",
+      "sha256": "acbbe577f2d224504c6c91074a47de026ac3fade5f5c95c3ca85b7b8c2130e09",
+      "bytes": 407791,
+      "pixels": "1588x202",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Belza Kosice Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Kocsis_May1840.png",
+      "sha256": "9ce718385e77f180e12c6fda7dcf7ff9037df3448915e5d1b5cc0dfab56445d4",
+      "bytes": 452998,
+      "pixels": "1645x227",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Belza Kosice Greek Catholic"
+    },
+    {
+      "file": "Death_of_Gyorgy_Demko_1892.png",
+      "sha256": "4267f77e1a2e0e9e256dd344b47a899e5fb2878dbb376c4471027db0603417ad",
+      "bytes": 500623,
+      "pixels": "1731x246",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Belza Kosice Greek Catholic"
+    },
+    {
+      "file": "Death_of_Janos_Demko_1892.png",
+      "sha256": "7823c5f462ea299f679cd117c635af76c40a5acbef3f78452afb4fd6e1fa11dd",
+      "bytes": 458118,
+      "pixels": "1520x242",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Belza Kosice Greek Catholic"
+    },
+    {
+      "file": "Death_of_Joannes_Duska_1863.png",
+      "sha256": "806fe3a46958cfd373dd89f6c603edaf59a9d44bb185b99a66284541fc433839",
+      "bytes": 434329,
+      "pixels": "1780x177",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Belza Kosice Greek Catholic"
+    },
+    {
+      "file": "Death_of_Laszlo_Demko_1889.png",
+      "sha256": "14cb733ef44c0ce2fcf3f7b8d3114bc726d45e7cb32c2f491590acb6c0f0d13d",
+      "bytes": 468098,
+      "pixels": "1658x229",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Belza Kosice Greek Catholic"
+    },
+    {
+      "file": "Death_of_Maria_Demko_1850.png",
+      "sha256": "cea1fcb4fbe73b0f46c05088bcf3a94dd4fa466c70faed2d51ff60017e4dc64e",
+      "bytes": 402243,
+      "pixels": "1738x183",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Belza Kosice Greek Catholic"
+    },
+    {
+      "file": "Death_of_Maria_Demko_Maybe_1849.png",
+      "sha256": "965cd3c5e5f1e0518cda9b48ef1b127989282f2d0fe40d76db4f9c1d04594ae3",
+      "bytes": 432385,
+      "pixels": "1737x201",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Belza Kosice Greek Catholic"
+    },
+    {
+      "file": "Death_of_Maria_Demko_October_1856.png",
+      "sha256": "de454250a66e6dd571a14166f1323b9b0b4496946675b9ea8ac8c89c32a1453f",
+      "bytes": 488886,
+      "pixels": "1721x237",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Belza Kosice Greek Catholic"
+    }
+  ],
+  "held": []
+}

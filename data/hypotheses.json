@@ -514,6 +514,11 @@
     "batch": "B-037",
     "effect": "no change",
     "note": "Vysoká in 1930 has four Demko houses (8, 164, 165, 170) and Iňačovce one (117), whose head was born at Vysoká."
+   },
+   {
+    "batch": "B-043",
+    "effect": "no change",
+    "note": "Two more records of the Gönyű family: sons György and János died of diphtheria in [1892], both born at Nagy-Ida. Nothing ties them to Viszoka. Still capped at 70."
    }
   ],
   "question": "X-Q-04"
@@ -1968,5 +1973,43 @@
     "note": "Raised from surname and place alone. The owner's filing of the print-out under 'Duska … Land' is a prior (PR-16) and adds nothing."
    }
   ]
+ },
+ {
+  "id": "H-074",
+  "statement": "László Demko, the gardener who died at Kenyhec in [1889] aged 80, is the gardener of Csány and Gecse whose infant daughters Mária were buried in [1849?] and [1850].",
+  "confidence": 60,
+  "basis": "One surname and one uncommon trade in three neighbouring villages of one parish; a man born about 1809 would be 40 in 1849. Against: the two burials do not give the father's first name, and an estate gardener moved between employers, so there could be two.",
+  "test": "The baptisms of the two girls; the marriage of László Demko and Erzsébet.",
+  "status": "open",
+  "raised": "B-043",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-043",
+    "effect": "raised at 60",
+    "note": "First ruling."
+   }
+  ],
+  "route": "demko"
+ },
+ {
+  "id": "H-075",
+  "statement": "The Joannes 'Vanyo' D[u]ska of Galicia who died at Szina in [1863] is no kin to the Duskas of Solymos and Senné.",
+  "confidence": 85,
+  "basis": "He came from Galicia, on the far side of the Carpathians; Seňa lies about 80 km west of Senné; the surname may read Driska; nothing ties him to Ung county. For kinship: only the spelling the owner reads.",
+  "test": "A clearer image of the entry; his marriage or children in the Belža book.",
+  "status": "open",
+  "raised": "B-043",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-043",
+    "effect": "raised at 85",
+    "note": "Indexed because every bearer of the name is tracked (rule 30). Tracked is not related."
+   }
+  ],
+  "route": "duska"
  }
 ]

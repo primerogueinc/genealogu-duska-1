@@ -851,5 +851,38 @@
   "translation": "Land mostly in the built-up area of a commune or in an allotment colony, on which vegetables, fruit, low and tall ornamental greenery and other farm crops are grown … 401 Protected deposit area",
   "why": "It shows how a modern register describes a village plot, and how a file name can mislabel the object.",
   "tone": "odd"
+ },
+ {
+  "id": "C-094",
+  "doc": "D-013-03",
+  "source": "S-293",
+  "title": "Two sons in one year, and the name given again",
+  "text": "In March György Demko and Katalin Jobbágy buried their son György, two years and three months old, dead of diphtheria. In October they buried János, a year and a half old, dead of the same. Three years later a son was born and they called him György. He was already on file here from an earlier folder, as if he were the only one.",
+  "original": "Demko György, Demko György és Jobbágy Katalin fia … 2 év 3 hó … Difteritisz. | Demko János … 1½ éves … Difteritisz.",
+  "translation": "György Demko, son of György Demko and Katalin Jobbágy … 2 years 3 months … diphtheria. | János Demko … 1½ years old … diphtheria.",
+  "why": "It is the plainest case yet of a dead child's name being reused, with both the burial and the second baptism in hand.",
+  "tone": "sad"
+ },
+ {
+  "id": "C-095",
+  "doc": "D-013-08",
+  "source": "S-298",
+  "title": "A few weeks old, more or less",
+  "text": "The priest who buried the gardener's baby did not know how old she was and did not pretend to. In the column for age he wrote 'some few weeks'. He also wrote that she was the gardener's son.",
+  "original": "egynehány hetes",
+  "translation": "a few weeks old",
+  "why": "A register's honesty about what its writer did not know.",
+  "tone": "odd"
+ },
+ {
+  "id": "C-096",
+  "doc": "D-013-06",
+  "source": "S-296",
+  "title": "The priest was not called",
+  "text": "László Demko the gardener died at eighty of old age. The column that normally says whether the dying received the sacraments says instead: 'the priest was not called on'. The register does not say whether there was no time or no wish.",
+  "original": "a lelkész igénybe nem vétetett",
+  "translation": "the priest was not called on",
+  "why": "An unusual wording in a column that almost always holds one of two set words.",
+  "tone": "odd"
  }
 ]

@@ -15517,5 +15517,446 @@
    "kept": "The register is the office's live database; a print-out like this is whatever the person who asked for it kept. The title deeds behind it are in the office's collection of documents (recalled, not sourced).",
    "compared": []
   }
+ },
+ {
+  "id": "D-013-01",
+  "folder": "F-013",
+  "batch": "B-043",
+  "source": "S-291",
+  "file": "Death_of_Andras_Solsesz_Demko_1878.png",
+  "sha256": "acbbe577f2d224504c6c91074a47de026ac3fade5f5c95c3ca85b7b8c2130e09",
+  "wide": true,
+  "title": "Burial of András Soltész, husband of Erzsébet Demko, Bernátfalva, [1878]",
+  "span": "25 December [1878]",
+  "language": "Hungarian",
+  "collector_label": "Death of Andras Solsesz Demko 1878",
+  "family": null,
+  "route": "demko",
+  "part": "Belza Kosice Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Belža (Bölzse) near Košice; the church is not named on the strip",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Belza Kosice Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "50",
+    "date": "25 December [1878]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "András Soltész, cottar, husband of Erzsébet Demko; born at Nagy-Ida, living at Bernátfalva; aged 74; died on 25 December of decrepitude, having received the sacraments; buried at Bernátfalva on 27 December. The owner's file name runs the two surnames together: the dead man is a Soltész and Demko is his wife's name.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "50 | December 25-én | Soltész András zsellér, Demko Erzsébet férje | Nagy-Ida | Bernátfalva | 1 | \" | 74 | végelgyengülés | ellátva | Bernátfalva December 27-én | dto",
+    "english": "András Soltész, cottar, husband of Erzsébet Demko; born at Nagy-Ida, living at Bernátfalva; aged 74; died on 25 December of decrepitude, having received the sacraments; buried at Bernátfalva on 27 December. The owner's file name runs the two surnames together: the dead man is a Soltész and Demko is his wife's name."
+   }
+  ],
+  "object": {
+   "kind": "A strip cut from a burial register. That the book is the Greek Catholic register of Belža is from the owner's folder name.",
+   "form": "One or two ruled rows of a bound register with a running number, the date, the name, the place, the age, the cause and the burial. The strips are in three layouts: Latin of 1840 to 1863, Hungarian of about 1849 to 1850 with the burying priest named in the last column, and a later Hungarian form of 1878 to 1892 with birthplace and residence in separate columns.",
+   "does_not_fit": "Nothing on the strips names the church. One entry (D-013-07) says the burial was by 'the pastor of Bölzse' and another (D-013-08) by a Roman Catholic parish priest, which is what a Greek Catholic book of Belža would need to note.",
+   "made_by": "The parish clergy, at each burial.",
+   "kept": "unknown",
+   "compared": [
+    "D-003-01 and D-003-02, two baptisms the owner files under the same parish"
+   ]
+  }
+ },
+ {
+  "id": "D-013-02",
+  "folder": "F-013",
+  "batch": "B-043",
+  "source": "S-292",
+  "file": "Death_of_Anna_Kocsis_May1840.png",
+  "sha256": "9ce718385e77f180e12c6fda7dcf7ff9037df3448915e5d1b5cc0dfab56445d4",
+  "wide": true,
+  "title": "Burial of Anna Kocsis, a herdsman's wife, Gönyű, May [1840]",
+  "span": "18 May [1840]",
+  "language": "Latin",
+  "collector_label": "Death of Anna Kocsis May1840",
+  "family": null,
+  "route": "demko",
+  "part": "Belza Kosice Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Belža (Bölzse) near Košice; the church is not named on the strip",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Belza Kosice Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "23",
+    "date": "18 May [1840]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna Kocsis, wife of a herdsman whose name is not read, of Gönyű, aged 27; died on the 18th; buried at Gönyű by the same priest as the entry above.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "23. | 18. | Anna Kocsis [...] Pastoris uxor | Annorum 27. Gönyüensis | d° | Gönyü | Idem.",
+    "english": "Anna Kocsis, wife of a herdsman whose name is not read, of Gönyű, aged 27; died on the 18th; buried at Gönyű by the same priest as the entry above."
+   }
+  ],
+  "object": {
+   "kind": "A strip cut from a burial register. That the book is the Greek Catholic register of Belža is from the owner's folder name.",
+   "form": "One or two ruled rows of a bound register with a running number, the date, the name, the place, the age, the cause and the burial. The strips are in three layouts: Latin of 1840 to 1863, Hungarian of about 1849 to 1850 with the burying priest named in the last column, and a later Hungarian form of 1878 to 1892 with birthplace and residence in separate columns.",
+   "does_not_fit": "Nothing on the strips names the church. One entry (D-013-07) says the burial was by 'the pastor of Bölzse' and another (D-013-08) by a Roman Catholic parish priest, which is what a Greek Catholic book of Belža would need to note.",
+   "made_by": "The parish clergy, at each burial.",
+   "kept": "unknown",
+   "compared": [
+    "D-003-01 and D-003-02, two baptisms the owner files under the same parish"
+   ]
+  }
+ },
+ {
+  "id": "D-013-03",
+  "folder": "F-013",
+  "batch": "B-043",
+  "source": "S-293",
+  "file": "Death_of_Gyorgy_Demko_1892.png",
+  "sha256": "4267f77e1a2e0e9e256dd344b47a899e5fb2878dbb376c4471027db0603417ad",
+  "wide": true,
+  "title": "Burial of György Demko, son of György Demko and Katalin Jobbágy, Gönyű, March [1892]",
+  "span": "9 March [1892]",
+  "language": "Hungarian",
+  "collector_label": "Death of Gyorgy Demko 1892",
+  "family": null,
+  "route": "demko",
+  "part": "Belza Kosice Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Belža (Bölzse) near Košice; the church is not named on the strip",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Belza Kosice Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "17",
+    "date": "9 March [1892]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "György Demko, son of György Demko and Katalin Jobbágy; born at Nagy-Ida, living at Gönyű; a boy of 2 years and 3 months; died on 9 March of diphtheria; buried at Gönyű on 11 March. The György baptised to the same parents on 31 March 1895 (D-003-01) is therefore a second son of that name.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "17 | Márczius 9-én | Demko György, Demko György és Jobbágy Katalin fia | Nagy-Ida. Gönyü. | fi | - | 2 év 3 hó | Difteritisz. | - | Gönyü Márczius 11-én | dto",
+    "english": "György Demko, son of György Demko and Katalin Jobbágy; born at Nagy-Ida, living at Gönyű; a boy of 2 years and 3 months; died on 9 March of diphtheria; buried at Gönyű on 11 March. The György baptised to the same parents on 31 March 1895 (D-003-01) is therefore a second son of that name."
+   }
+  ],
+  "object": {
+   "kind": "A strip cut from a burial register. That the book is the Greek Catholic register of Belža is from the owner's folder name.",
+   "form": "One or two ruled rows of a bound register with a running number, the date, the name, the place, the age, the cause and the burial. The strips are in three layouts: Latin of 1840 to 1863, Hungarian of about 1849 to 1850 with the burying priest named in the last column, and a later Hungarian form of 1878 to 1892 with birthplace and residence in separate columns.",
+   "does_not_fit": "Nothing on the strips names the church. One entry (D-013-07) says the burial was by 'the pastor of Bölzse' and another (D-013-08) by a Roman Catholic parish priest, which is what a Greek Catholic book of Belža would need to note.",
+   "made_by": "The parish clergy, at each burial.",
+   "kept": "unknown",
+   "compared": [
+    "D-003-01 and D-003-02, two baptisms the owner files under the same parish"
+   ]
+  }
+ },
+ {
+  "id": "D-013-04",
+  "folder": "F-013",
+  "batch": "B-043",
+  "source": "S-294",
+  "file": "Death_of_Janos_Demko_1892.png",
+  "sha256": "7823c5f462ea299f679cd117c635af76c40a5acbef3f78452afb4fd6e1fa11dd",
+  "wide": true,
+  "title": "Burial of János Demko, son of György Demko and Katalin Jobbágy, Gönyű, October [1892]",
+  "span": "30 October [1892]",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Demko 1892",
+  "family": null,
+  "route": "demko",
+  "part": "Belza Kosice Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Belža (Bölzse) near Košice; the church is not named on the strip",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Belza Kosice Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "38",
+    "date": "30 October [1892]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "János Demko, son of György Demko and Katalin Jobbágy; born at Nagy-Ida, living at Gönyű; a boy of a year and a half; died on 30 October of diphtheria; buried at Gönyű on 1 November. The second son the couple lost to diphtheria in the one year.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "38 | Október 30-án | Demko János, Demko György és Jobbágy Katalin fia | Nagy-Ida Gönyü. | fi | - | 1½ éves | Difteritisz. | - | Gönyü November 1-én | dto",
+    "english": "János Demko, son of György Demko and Katalin Jobbágy; born at Nagy-Ida, living at Gönyű; a boy of a year and a half; died on 30 October of diphtheria; buried at Gönyű on 1 November. The second son the couple lost to diphtheria in the one year."
+   }
+  ],
+  "object": {
+   "kind": "A strip cut from a burial register. That the book is the Greek Catholic register of Belža is from the owner's folder name.",
+   "form": "One or two ruled rows of a bound register with a running number, the date, the name, the place, the age, the cause and the burial. The strips are in three layouts: Latin of 1840 to 1863, Hungarian of about 1849 to 1850 with the burying priest named in the last column, and a later Hungarian form of 1878 to 1892 with birthplace and residence in separate columns.",
+   "does_not_fit": "Nothing on the strips names the church. One entry (D-013-07) says the burial was by 'the pastor of Bölzse' and another (D-013-08) by a Roman Catholic parish priest, which is what a Greek Catholic book of Belža would need to note.",
+   "made_by": "The parish clergy, at each burial.",
+   "kept": "unknown",
+   "compared": [
+    "D-003-01 and D-003-02, two baptisms the owner files under the same parish"
+   ]
+  }
+ },
+ {
+  "id": "D-013-05",
+  "folder": "F-013",
+  "batch": "B-043",
+  "source": "S-295",
+  "file": "Death_of_Joannes_Duska_1863.png",
+  "sha256": "806fe3a46958cfd373dd89f6c603edaf59a9d44bb185b99a66284541fc433839",
+  "wide": true,
+  "title": "Burial of Joannes, called Vanyo, D[u]ska of Galicia, Szina, May [1863]",
+  "span": "25 May [1863]",
+  "language": "Latin",
+  "collector_label": "Death of Joannes Duska 1863",
+  "family": null,
+  "route": "duska",
+  "part": "Belza Kosice Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Belža (Bölzse) near Košice; the church is not named on the strip",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Belza Kosice Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "32",
+    "date": "25 May [1863]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Joannes, with 'Vanyo' written under it in a bracket and an earlier 'Daniel' struck out, surname D[u]ska or Driska; Greek Catholic [?]; from Galicia, with a place name not read, living at Szina; a man of 45; died on 25 May of a lung complaint, suddenly and without the sacraments; buried at Szina. The surname has four or five letters before '-ka' and may be read Duska, as the owner does, or Driska.",
+    "reading": "low for the surname and the place of origin"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "32. | Mai 25ª | {Joannes [written over a struck-out 'Daniel'] / Vanyo} D[u]ska [or Driska] | g.c. [?] | Galicia [...] Szina | m | \" | 45. | in pulm. [...] | repente improvisè | Szinae 2[6]ª Mai | d°",
+    "english": "Joannes, with 'Vanyo' written under it in a bracket and an earlier 'Daniel' struck out, surname D[u]ska or Driska; Greek Catholic [?]; from Galicia, with a place name not read, living at Szina; a man of 45; died on 25 May of a lung complaint, suddenly and without the sacraments; buried at Szina. The surname has four or five letters before '-ka' and may be read Duska, as the owner does, or Driska."
+   }
+  ],
+  "object": {
+   "kind": "A strip cut from a burial register. That the book is the Greek Catholic register of Belža is from the owner's folder name.",
+   "form": "One or two ruled rows of a bound register with a running number, the date, the name, the place, the age, the cause and the burial. The strips are in three layouts: Latin of 1840 to 1863, Hungarian of about 1849 to 1850 with the burying priest named in the last column, and a later Hungarian form of 1878 to 1892 with birthplace and residence in separate columns.",
+   "does_not_fit": "Nothing on the strips names the church. One entry (D-013-07) says the burial was by 'the pastor of Bölzse' and another (D-013-08) by a Roman Catholic parish priest, which is what a Greek Catholic book of Belža would need to note.",
+   "made_by": "The parish clergy, at each burial.",
+   "kept": "unknown",
+   "compared": [
+    "D-003-01 and D-003-02, two baptisms the owner files under the same parish"
+   ]
+  }
+ },
+ {
+  "id": "D-013-06",
+  "folder": "F-013",
+  "batch": "B-043",
+  "source": "S-296",
+  "file": "Death_of_Laszlo_Demko_1889.png",
+  "sha256": "14cb733ef44c0ce2fcf3f7b8d3114bc726d45e7cb32c2f491590acb6c0f0d13d",
+  "wide": true,
+  "title": "Burial of László Demko, gardener, Kenyhec, [1889]",
+  "span": "28 February [1889]",
+  "language": "Hungarian",
+  "collector_label": "Death of Laszlo Demko 1889",
+  "family": "FG-63",
+  "route": "demko",
+  "part": "Belza Kosice Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Belža (Bölzse) near Košice; the church is not named on the strip",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Belza Kosice Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "6",
+    "date": "28 February [1889]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "László Demko, gardener, husband of Erzsébet N. (her surname not given); of Kenyhec; a man of 80; died on 28 February of old age; 'the priest was not called on'; buried at Kenyhec on 1 March.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "6 | Február 28-án | Demko László kertész, N. Erzsébet férje | Kenyhecz | férfi | - | 80 éves | aggkor | a lelkész igénybe nem vétetett | Kenyhecz Márczius 1. | dto",
+    "english": "László Demko, gardener, husband of Erzsébet N. (her surname not given); of Kenyhec; a man of 80; died on 28 February of old age; 'the priest was not called on'; buried at Kenyhec on 1 March."
+   }
+  ],
+  "object": {
+   "kind": "A strip cut from a burial register. That the book is the Greek Catholic register of Belža is from the owner's folder name.",
+   "form": "One or two ruled rows of a bound register with a running number, the date, the name, the place, the age, the cause and the burial. The strips are in three layouts: Latin of 1840 to 1863, Hungarian of about 1849 to 1850 with the burying priest named in the last column, and a later Hungarian form of 1878 to 1892 with birthplace and residence in separate columns.",
+   "does_not_fit": "Nothing on the strips names the church. One entry (D-013-07) says the burial was by 'the pastor of Bölzse' and another (D-013-08) by a Roman Catholic parish priest, which is what a Greek Catholic book of Belža would need to note.",
+   "made_by": "The parish clergy, at each burial.",
+   "kept": "unknown",
+   "compared": [
+    "D-003-01 and D-003-02, two baptisms the owner files under the same parish"
+   ]
+  }
+ },
+ {
+  "id": "D-013-07",
+  "folder": "F-013",
+  "batch": "B-043",
+  "source": "S-297",
+  "file": "Death_of_Maria_Demko_1850.png",
+  "sha256": "cea1fcb4fbe73b0f46c05088bcf3a94dd4fa466c70faed2d51ff60017e4dc64e",
+  "wide": true,
+  "title": "Burial of Maria Demko, the gardener's daughter, Gecse, March [1850]",
+  "span": "2 March [1850]",
+  "language": "Hungarian",
+  "collector_label": "Death of Maria Demko 1850",
+  "family": "FG-63",
+  "route": "demko",
+  "part": "Belza Kosice Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Belža (Bölzse) near Košice; the church is not named on the strip",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Belza Kosice Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "13",
+    "date": "2 March [1850]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Maria Demko, daughter of the gardener of Gecse, two weeks old; died on 2 March; buried in the cemetery of Gecse by the pastor of Bölzse [?].",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "13. | Mártzius 2-án | Maria Demko | Getsi Kertész Leánya | 2 hetes. | - | - | Getsi Temetőn, Bölsei [?] Lelkész.",
+    "english": "Maria Demko, daughter of the gardener of Gecse, two weeks old; died on 2 March; buried in the cemetery of Gecse by the pastor of Bölzse [?]."
+   }
+  ],
+  "object": {
+   "kind": "A strip cut from a burial register. That the book is the Greek Catholic register of Belža is from the owner's folder name.",
+   "form": "One or two ruled rows of a bound register with a running number, the date, the name, the place, the age, the cause and the burial. The strips are in three layouts: Latin of 1840 to 1863, Hungarian of about 1849 to 1850 with the burying priest named in the last column, and a later Hungarian form of 1878 to 1892 with birthplace and residence in separate columns.",
+   "does_not_fit": "Nothing on the strips names the church. One entry (D-013-07) says the burial was by 'the pastor of Bölzse' and another (D-013-08) by a Roman Catholic parish priest, which is what a Greek Catholic book of Belža would need to note.",
+   "made_by": "The parish clergy, at each burial.",
+   "kept": "unknown",
+   "compared": [
+    "D-003-01 and D-003-02, two baptisms the owner files under the same parish"
+   ]
+  }
+ },
+ {
+  "id": "D-013-08",
+  "folder": "F-013",
+  "batch": "B-043",
+  "source": "S-298",
+  "file": "Death_of_Maria_Demko_Maybe_1849.png",
+  "sha256": "965cd3c5e5f1e0518cda9b48ef1b127989282f2d0fe40d76db4f9c1d04594ae3",
+  "wide": true,
+  "title": "Burial of Mária Demko, child of the gardener of Csány, August [1849?]",
+  "span": "[14] August [1849?]",
+  "language": "Hungarian",
+  "collector_label": "Death of Maria Demko Maybe 1849",
+  "family": "FG-63",
+  "route": "demko",
+  "part": "Belza Kosice Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Belža (Bölzse) near Košice; the church is not named on the strip",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Belza Kosice Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "47",
+    "date": "[14] August [1849?]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Mária Demko, child of the gardener of Csány (the clerk wrote 'son'); 'a few weeks old'; cause read doubtfully as suffocation; died about 14 August; buried in the cemetery of Gecse by the Reverend Ferenc [J...], a Roman Catholic parish priest of a place not read. The owner's file name itself says 'maybe 1849'.",
+    "reading": "medium; low for the cause and the priest"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "47 | August [14]én | Demko Mária | Csányi Kertész [D.] fia [sic] | egynehány hetes. | [befult?] | - | Gecsei temetőn N. T. [Jergentz?] Ferentz [...]i Plebánus.",
+    "english": "Mária Demko, child of the gardener of Csány (the clerk wrote 'son'); 'a few weeks old'; cause read doubtfully as suffocation; died about 14 August; buried in the cemetery of Gecse by the Reverend Ferenc [J...], a Roman Catholic parish priest of a place not read. The owner's file name itself says 'maybe 1849'."
+   }
+  ],
+  "object": {
+   "kind": "A strip cut from a burial register. That the book is the Greek Catholic register of Belža is from the owner's folder name.",
+   "form": "One or two ruled rows of a bound register with a running number, the date, the name, the place, the age, the cause and the burial. The strips are in three layouts: Latin of 1840 to 1863, Hungarian of about 1849 to 1850 with the burying priest named in the last column, and a later Hungarian form of 1878 to 1892 with birthplace and residence in separate columns.",
+   "does_not_fit": "Nothing on the strips names the church. One entry (D-013-07) says the burial was by 'the pastor of Bölzse' and another (D-013-08) by a Roman Catholic parish priest, which is what a Greek Catholic book of Belža would need to note.",
+   "made_by": "The parish clergy, at each burial.",
+   "kept": "unknown",
+   "compared": [
+    "D-003-01 and D-003-02, two baptisms the owner files under the same parish"
+   ]
+  }
+ },
+ {
+  "id": "D-013-09",
+  "folder": "F-013",
+  "batch": "B-043",
+  "source": "S-299",
+  "file": "Death_of_Maria_Demko_October_1856.png",
+  "sha256": "de454250a66e6dd571a14166f1323b9b0b4496946675b9ea8ac8c89c32a1453f",
+  "wide": true,
+  "title": "Burial of Maria Demko, wife of Michael L[ejk]o, Szakaly, October [1856]",
+  "span": "15 October [1856]",
+  "language": "Latin",
+  "collector_label": "Death of Maria Demko October 1856",
+  "family": null,
+  "route": "demko",
+  "part": "Belza Kosice Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Belža (Bölzse) near Košice; the church is not named on the strip",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Belza Kosice Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "5[6]",
+    "date": "15 October [1856]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Maria Demko, wife of Michael L[ejk]o, of Szakaly; aged 37; died on the 15th; buried at Szakaly on the 17th.",
+    "reading": "medium; low for the husband's surname"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "5[6] | 15ª | Maria Demko Michaelis L[ejk]o uxor | Szakaly N° = | - | d° | 37 an. | d° | d° | Szakaly 17ª | d° | Szakaly",
+    "english": "Maria Demko, wife of Michael L[ejk]o, of Szakaly; aged 37; died on the 15th; buried at Szakaly on the 17th."
+   }
+  ],
+  "object": {
+   "kind": "A strip cut from a burial register. That the book is the Greek Catholic register of Belža is from the owner's folder name.",
+   "form": "One or two ruled rows of a bound register with a running number, the date, the name, the place, the age, the cause and the burial. The strips are in three layouts: Latin of 1840 to 1863, Hungarian of about 1849 to 1850 with the burying priest named in the last column, and a later Hungarian form of 1878 to 1892 with birthplace and residence in separate columns.",
+   "does_not_fit": "Nothing on the strips names the church. One entry (D-013-07) says the burial was by 'the pastor of Bölzse' and another (D-013-08) by a Roman Catholic parish priest, which is what a Greek Catholic book of Belža would need to note.",
+   "made_by": "The parish clergy, at each burial.",
+   "kept": "unknown",
+   "compared": [
+    "D-003-01 and D-003-02, two baptisms the owner files under the same parish"
+   ]
+  }
  }
 ]
