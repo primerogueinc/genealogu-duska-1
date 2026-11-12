@@ -1932,5 +1932,23 @@
     "note": "The 1973 paper is a statistical return, not the church's act of marriage. A return did not ask for the parents' names; the register at St-Alphonse d'Youville would have them. The test is reworded accordingly."
    }
   ]
+ },
+ {
+  "id": "H-072",
+  "statement": "The Sándor and Anna whom the owner files as 'Dusko or Duska' at Alsódomonya in the census of 1921 are Durkotas, and no Duska lived in that house.",
+  "confidence": 90,
+  "basis": "The surname is written three times on the sheet, in the heading, in row 1 and in the feminine in row 2, with a clear r, k, o and t each time. Durkota is a surname of the region (recalled, not sourced). Against: the owner, or an index he searched, read it otherwise.",
+  "test": "The portal's name index for the page; the couple's marriage, about 1920, in the Greek Catholic register of Domanince.",
+  "status": "supported",
+  "raised": "B-041",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-041",
+    "effect": "raised at 90",
+    "note": "A reading against the owner's label (X-004). If his tree places a Sándor Duska at Uzhhorod, this rebuild does not."
+   }
+  ]
  }
 ]

@@ -156,10 +156,10 @@
  {
   "id": "F-011",
   "desktop_path": "Duska Census",
-  "described_as": "Announced by the owner as 'Beginning Duska Census'. Part 1, '1767 - Urbanarium': eight images of urbarial tables for Solymos (three pages, one of them twice), Szenna (two pages), Csicser and Viszoka (one page each), with one word-processor file held unopened. More parts are expected. Part 2, '1869 Solymos Census Full': four census household sheets as photographs of a screen, four screenshots of them, and six files not published (four compiled pages unopened; a third party's transcription; the archive file). Part 3, '1921 Census Folder': two maps of Ung county and a guide to the 1921 census (held, summarised); census pages are expected to follow. Part 4, '1930 - BESA Whole Folder': one household sheet of the 1930 census, a Schwarcz family of Beša. Parts 5 and 6, '1930 Senne' (15 sheets) and '1930 Senne Second Pass' (20 enlargements and portal pages). Parts 7 to 15, the 1930 census for Čičarovce (4), Iňačovce (18), Maťovce (3), 'Mogyoros' (2), Palín (1), Pavlovce (1), Veľké Kapušany (3), Veľké Slemence (1) and Vysoká (13), read at B-037. Part 16, '1940 Senne' (12). Five 'Initial List' word files held unopened.",
-  "status": "open",
+  "described_as": "Announced by the owner as 'Beginning Duska Census'. Part 1, '1767 - Urbanarium': eight images of urbarial tables for Solymos (three pages, one of them twice), Szenna (two pages), Csicser and Viszoka (one page each), with one word-processor file held unopened. More parts are expected. Part 2, '1869 Solymos Census Full': four census household sheets as photographs of a screen, four screenshots of them, and six files not published (four compiled pages unopened; a third party's transcription; the archive file). Part 3, '1921 Census Folder': two maps of Ung county and a guide to the 1921 census (held, summarised); census pages are expected to follow. Part 4, '1930 - BESA Whole Folder': one household sheet of the 1930 census, a Schwarcz family of Beša. Parts 5 and 6, '1930 Senne' (15 sheets) and '1930 Senne Second Pass' (20 enlargements and portal pages). Parts 7 to 15, the 1930 census for Čičarovce (4), Iňačovce (18), Maťovce (3), 'Mogyoros' (2), Palín (1), Pavlovce (1), Veľké Kapušany (3), Veľké Slemence (1) and Vysoká (13), read at B-037. Part 16, '1940 Senne' (12). Five 'Initial List' word files held unopened. Part 17, 'Transcarpathian': one household sheet of the census of [1921] for Nižní Domanince by Uzhhorod, a Durkota family filed as 'Dusko or Duska'. Fourteen more word files: nine held unopened, five opened and found to be web-link lists and search counts. The owner ended the folder with these.",
+  "status": "complete",
   "first_seen": "2026-11-12",
-  "files_received": 112,
+  "files_received": 113,
   "batches": [
    "B-025",
    "B-027",
@@ -167,8 +167,10 @@
    "B-032",
    "B-033",
    "B-034",
-   "B-037"
+   "B-037",
+   "B-041"
   ],
-  "archive_path": "records/F-011_Duska-Census/"
+  "archive_path": "records/F-011_Duska-Census/",
+  "completed": "2026-11-12"
  }
 ]

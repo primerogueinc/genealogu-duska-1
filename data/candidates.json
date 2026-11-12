@@ -7092,5 +7092,41 @@
   "relation": "D-011-82. The Mihály Kocsis baptised in 1879 (FG-27).",
   "route": "demko",
   "route_note": ""
+ },
+ {
+  "id": "K-597",
+  "name": "Šandor Durkota",
+  "vitals": "b. 10 Oct 1895, Jarok; at Nižní Domanince 147 in [1921]",
+  "proof": "documented",
+  "sources": [
+   "S-289"
+  ],
+  "relation": "D-011-113. Filed by the owner as 'Dusko or Duska'; the sheet reads Durkota (H-072). Not a Duska.",
+  "route": "places",
+  "route_note": ""
+ },
+ {
+  "id": "K-598",
+  "name": "Anna Durkotová",
+  "vitals": "b. 18 Aug 1899, Nižní Domanince",
+  "proof": "documented",
+  "sources": [
+   "S-289"
+  ],
+  "relation": "D-011-113. Wife of Šandor Durkota; by the pencil correction, born Hozuščak [?].",
+  "route": "places",
+  "route_note": ""
+ },
+ {
+  "id": "K-599",
+  "name": "Michal Hozuščak [?]",
+  "vitals": "b. 15 Oct 1903, Nižní Domanince",
+  "proof": "documented",
+  "sources": [
+   "S-289"
+  ],
+  "relation": "D-011-113. Brother-in-law of Šandor Durkota.",
+  "route": "places",
+  "route_note": ""
  }
 ]

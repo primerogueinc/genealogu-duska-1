@@ -174,5 +174,16 @@
   "holds": "DM-B-014 to DM-B-016: the shared pile files read there; four of this repo's census and urbarial images taken; a correction from the owner on the 1937 letter's age; ledger v20.",
   "found_for_duska_line": "The state birth registration of 1906 (X-S-007), copied here as D-X01-04. Its agent agrees with every reading of the shared files but one pair of register numbers on the 1937 contract (it reads 417 and 418).",
   "sent_to_demko": "A reply in comms/to-demko.md, B-039."
+ },
+ {
+  "id": "XR-17",
+  "batch": "B-041",
+  "date": "2026-11-12",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "51a25e8",
+  "read": "its note DM→DU-013 only",
+  "holds": "DM-B-016 and DM-B-017: the second son entered as dead on the owner's word; this repo's sheet for Iňačovce 117 taken and read; its own 'what kind of object' notes.",
+  "found_for_duska_line": "Nothing new. It reads the Iňačovce 117 sheet as this repo does and holds the same view of the widow Maria Kočišová (its DM-H-041, this repo's H-070).",
+  "sent_to_demko": "Notes at B-043 and B-044 on the death strips routed to it."
  }
 ]

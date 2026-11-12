@@ -218,5 +218,19 @@
    "H-054"
   ],
   "proof": "lead"
+ },
+ {
+  "id": "L-024",
+  "text": "Four of the owner's word files are lists of links to the Slovakiana portal (slovakiana.sk), one link for each household sheet of the census of 1930: Senné in the Veľké Kapušany district (two versions of the list, 143 and 151 different sheets), Iňačovce (168) and Seňa by Košice (8). They hold a title line and links, nothing else. Use: every household of Senné in 1930 can be read one by one, which would find every Duska house there and the sheets for the houses of György Duska's descendants. Not yet done.",
+  "url": "https://www.slovakiana.sk/",
+  "bears_on": null,
+  "proof": "lead"
+ },
+ {
+  "id": "L-025",
+  "text": "The owner's note of a portal search dated '4/3/2022': the census of 1930 returned 10,728 results for the Michalovce district and 4,356 for Veľké Kapušany. A measure of the collection's size, nothing more.",
+  "url": "https://www.slovakiana.sk/",
+  "bears_on": null,
+  "proof": "lead"
  }
 ]

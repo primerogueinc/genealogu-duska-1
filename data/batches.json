@@ -1822,6 +1822,25 @@
   ],
   "people_added": [],
   "sources_added": [],
+  "committed_utc": "2026-11-12T20:47:09Z"
+ },
+ {
+  "id": "B-041",
+  "date": "2026-11-12",
+  "title": "The census folder ends: a 1921 sheet that is not a Duska, and fourteen word files",
+  "folder": "F-011",
+  "files": 15,
+  "blurb": "The owner sent the last part of his census folder, a sub-folder he calls 'Transcarpathian', then fourteen word files, and said the census folder ends here. The one image is a household sheet of the Czechoslovak census of 1921 for Nižní Domanince, a village beside Uzhhorod that Hungarian records call Alsódomonya: house 147, a farm labourer of 25, his wife of 21 and her brother of 17, all Greek Catholic Rusyns. The owner's file name asks 'Dusko or Duska'. The sheet says neither. The surname is written three times and each time it reads Durkota, so this is not a Duska household, and it is logged as a reading that differs from the owner's label (H-072, 90). Of the fourteen word files, eight are lists the owner drew up for a translator and one is his list of villages to search; those nine stay unopened until the comparison, like the five before them. The other five were opened far enough to see what they are. Four hold nothing but web links to the archive portal, one link for every census sheet of Senné, Iňačovce and Seňa in 1930, and one is three lines of search counts. None says anything about the family. The link lists are kept as a lead: with them every household of Senné in 1930 can be read, which is the way to find every Duska there. The folder is closed at 113 documents. Curiosities: 1",
+  "raised": [
+   "H-072"
+  ],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-289",
+   "S-000-13"
+  ],
   "committed_utc": null
  }
 ]

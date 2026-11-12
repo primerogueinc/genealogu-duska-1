@@ -15418,5 +15418,56 @@
    ]
   },
   "independent": false
+ },
+ {
+  "id": "D-011-113",
+  "folder": "F-011",
+  "batch": "B-041",
+  "source": "S-289",
+  "file": "DUSKO_or_DUSKA_Sandor_and_Anna__in_KANepszaml_019_Ungvar_Alsodomonya-Ungvar__230_Domanici-AlsoDomonya-1591883810__pages33-33.pdf",
+  "web_file": "DUSKO_or_DUSKA_Sandor_and_Anna__in_KANepszaml_019_Ungvar_Alsodomonya-Ungvar__230_Domanici-AlsoDomonya-1591883810__pages33-33_page.jpg",
+  "sha256": "4bc95599f0a78caa1e3360ee2c762c3ede994cb26382e9e7b4e314a2d337b336",
+  "wide": true,
+  "title": "Census of [1921], Nižní Domanince (Alsódomonya) by Uzhhorod, house 147: Šandor Durkota, his wife Anna and her brother",
+  "span": "[February 1921]",
+  "language": "Czech, on a printed Slovak and Hungarian form",
+  "collector_label": "DUSKO or DUSKA Sandor and Anna in KANepszaml_019_Ungvar_Alsodomonya-Ungvar 230 Domanici-AlsoDomonya-1591883810 pages33-33",
+  "family": null,
+  "route": "places",
+  "part": "Transcarpathian",
+  "provenance": {
+   "archive": "By the file name, the State Archive of the Transcarpathian Region ('KANepszaml': census), as published on the Hungaricana portal; the PDF was produced by Arcanum, the portal's operator, on 26 April 2025. No archive name is on the page.",
+   "fond_or_film": "By the file name: series 019, Ungvár district; unit 230, Domanici / Alsódomonya; the portal's page 33.",
+   "book": "Popisný hárok (household sheet) of the census of 1921",
+   "page_or_image": "page 33 of the unit; house 147",
+   "obtained": "From the owner's desktop folder 'Duska Census', sub-folder 'Transcarpathian', sent through chat as a one-page PDF downloaded from the portal."
+  },
+  "entries": [
+   {
+    "no": "house 147",
+    "date": "[Feb 1921]",
+    "from": "Census household sheet (original record, the archive's scan)",
+    "abstract": "House 147 at Nižní Domanince: Šandor Durkota, farm labourer, born 10 October 1895 at Jarok; his wife Anna, born 18 August 1899 in the village; Michal Hozuščak [?], her brother, born 15 October 1903. All Greek Catholic Rusyns who read and write. The owner's file name reads the surname as Dusko or Duska; on the sheet it is written three times (twice for him, once in the feminine for her) and reads Durkota each time. No Duska is on the sheet.",
+    "reading": "high for Durkota; medium for Hozuščak"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The whole sheet, row by row. Month names are Czech: října is October, srpna August, listopadu November.",
+    "original": "Popisný hárok. Összeirási ív. | Zem, župa: Podkarpatská Rus, Užhorodská | Slúžnovský okres: Užhorodský | Obec: Nižní Domanince | Číslo domu, orientačné (nové): 147 | Meno majiteľa domu: Durkota Šandor\n147 | 1 | Durkota | Šandor | majitel bytu | mužské | ženatý | 10. října 1895 | a) Jarok b) Užhorod c) Podkarpatská Rus | od 1. listopadu 1920 | Nižní Domanice, Užhorod, Podkarpatská Rus | Rusín | řecko-katolické | čísti a psáti | zemědělství | dělník | pracuje nahodile podle zjednání | [16 July 1914:] ano | zemědělství | dělník | [stamp] 307\n147 | 2 | Durkotová | Anna | manželka | ženské | vdaná | 18. srpna 1899 | Nižní Domanice, Užhorod, Podkarpatská Rus | od 20. srpna [?] 1899 | [the same] | Rusínka | řecko-katolické | čísti a psáti | vede domácnost | [vede] domácnost | domácnost majitele bytu | ne | domácí služby [struck through] | chůva [struck through] | 308\n147 | 3 | Hozuščak [?] | Michal | brat [in pencil below: švagr] | mužské | svobodný | 15. října 1903 | Nižní Domanice, Užhorod, Podkarpatská Rus | od 15. října 1903 | [the same] | Rusín | řecko-katolík | čísti a psáti | zemědělství | dělník | pracuje nahodile podle zjednání | ne | - | - | 309",
+    "english": "Household sheet. Land and county: Subcarpathian Rus, Užhorod. District: Užhorod. Commune: Nižní Domanince. House number (new): 147. Owner of the house: Šandor Durkota.\n1. Šandor Durkota, owner of the dwelling, male, married, born 10 October 1895 at Jarok, Užhorod district; in the commune since 1 November 1920; home commune Nižní Domanince; Rusyn; Greek Catholic; reads and writes; farm labourer, working by the day as hired; on 16 July 1914 also a farm labourer.\n2. Anna Durkotová, wife, female, married, born 18 August 1899 at Nižní Domanince and there since birth; Rusyn; Greek Catholic; reads and writes; keeps the owner's house; for 16 July 1914 the clerk wrote 'no', after first writing 'domestic service, nursemaid' and striking it out.\n3. Michal Hozuščak [?], entered as 'brother' and corrected in pencil to 'brother-in-law', male, single, born 15 October 1903 at Nižní Domanince; Rusyn; Greek Catholic; reads and writes; farm labourer by the day; no occupation in 1914.\nRows 4 to 8 are blank. Coloured pencil figures across the rows are the statistical office's codes."
+   }
+  ],
+  "object": {
+   "kind": "A household sheet of the Czechoslovak census of February 1921, from Subcarpathian Rus",
+   "form": "Printed two-page form headed 'Popisný hárok. Összeirási ív.' in Slovak and Hungarian, 20 numbered columns, printer's line 'Sčítanie ľudu: Tlačivo V. č.' Columns 17 to 19 ask for the person's occupation 'on 16 July 1914', which marks the first census after the war. Filled in by one hand in Czech; coloured pencil codes and stamped running numbers 307 to 309 added by the statistical office.",
+   "does_not_fit": "The owner's file name gives the surname as Dusko or Duska; the sheet has Durkota. The form carries no date of its own: the year is from the 1914 question, from 'in the commune since 1 November 1920', and from what is recalled of when that census was taken (recalled, not sourced).",
+   "made_by": "A census commissioner, on the household's answers.",
+   "kept": "The state statistical office; the sheets for Subcarpathian Rus are now in the Transcarpathian state archive and online (L-022).",
+   "compared": [
+    "L-022, the portal's own description of the 1921 census collection, in the owner's translation",
+    "D-011-24, a sheet of the census of 1930, which has 24 columns and no 1914 question"
+   ]
+  }
  }
 ]

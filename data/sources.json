@@ -392,6 +392,14 @@
   "reliability": "The owner's word on his own great-uncle. No record of the death is in hand."
  },
  {
+  "id": "S-000-13",
+  "batch": "B-041",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 12 Nov 2026: the person named in the 'Initial List' file names 'was a translator'; the census folder ends",
+  "extract": "The word files named 'Initial List for [a given name]' were drawn up for a translator. The folder 'Duska Census' is complete with the 'Transcarpathian' sheet and fourteen word files.",
+  "reliability": "The owner's word on his own files. It says who the lists were for, not what is in them."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -2398,5 +2406,13 @@
   "title": "State birth registration no. 45 of 1906, Alsókánya: Mária, daughter of Mihály Demkó and Mária Kocsis, Solymos",
   "extract": "A state civil registration of birth on green printed paper: page 320, entry 45, made at Alsókánya on 23 August 1906. The father appeared in person and was known to the registrar. Father: Mihály Demkó, Greek Catholic, farm day-labourer, living at Solymos, born at Magasrév, aged 24. Mother: his wife, born Mária Kocsis, Greek Catholic, living and born at Solymos, aged 20. A girl, Mária, Greek Catholic, born at Solymos on 22 August 1906 at nine in the morning. Read out and explained in Slovak; signed by the registrar and by Demko Mihály. This is the birth of Maria Demko, Ahn 9: the date is the one in her passport of 1937. The coordinator asked this agent to read the record itself before relying on it further. It was read here after the Demko agent's transcription had been seen, by this agent's own mistake in the order of work, so this is a check of that reading and not an independent one. The two agree in every field.",
   "reliability": "Made the day after the birth on the father's own word. Reading level: high. Read here after the Demko agent's transcription had been seen; not an independent reading."
+ },
+ {
+  "id": "S-289",
+  "batch": "B-041",
+  "type": "Census household sheet (original record, the archive's scan)",
+  "title": "Census of [1921], Nižní Domanince, house 147: the Durkota household",
+  "extract": "Šandor Durkota, born 10 October 1895 at Jarok, farm labourer; his wife Anna, born 18 August 1899 at Nižní Domanince; her brother Michal Hozuščak [?], born 15 October 1903. Greek Catholic, Rusyn. No Duska.",
+  "reliability": "An original census sheet in a clear hand. Reading level: high for the surname Durkota, which is written three times."
  }
 ]

@@ -3,7 +3,12 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-040. Read ledger v22.
+- Last updated: 12 Nov 2026, after Duska batch B-041. Read ledger v22.
+
+## 0000000000000000000000000000000000. B-041 (12 Nov): a statement by Kevin; five of his files opened under X-027 item 2
+
+- **Statement** (`DUS:S-000-13`): the person named in the 'Initial List' file names "was a translator"; the census folder is ended.
+- **For the contamination log:** I opened five of his word files as far as their first lines and structure: four are lists of portal links to the 1930 census sheets of three villages, one is three lines of search counts. Nothing about the family. Nine others (eight translator lists, one list of villages searched) stay unopened; the file names are prior `DUS:PR-15`.
 
 ## 000000000000000000000000000000000. B-040 (12 Nov): read ledger v22
 

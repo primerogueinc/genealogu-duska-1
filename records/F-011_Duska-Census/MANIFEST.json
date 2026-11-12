@@ -1,7 +1,7 @@
 {
   "folder_id": "F-011",
   "desktop_path": "Duska Census",
-  "note": "Part 1 of the folder, '1767 - Urbanarium' (the owner's spelling): 8 image files and one word-processor file, which is held unopened. Received through chat upload. Part 2, '1869 Solymos Census Full': four photographs of a screen (full size, taken from the archive file the owner sent), four screenshots of the same, and six files not published (see 'held'). Part 3, '1921 Census Folder': two maps of Ung county and one guide document (held, summarised). Part 4, '1930 - BESA Whole Folder': one census sheet. Parts 5 and 6, '1930 Senne' (15) and '1930 Senne Second Pass' (20). Parts 7 to 15, the 1930 census for nine other villages (46 images), read at B-037.",
+  "note": "Part 1 of the folder, '1767 - Urbanarium' (the owner's spelling): 8 image files and one word-processor file, which is held unopened. Received through chat upload. Part 2, '1869 Solymos Census Full': four photographs of a screen (full size, taken from the archive file the owner sent), four screenshots of the same, and six files not published (see 'held'). Part 3, '1921 Census Folder': two maps of Ung county and one guide document (held, summarised). Part 4, '1930 - BESA Whole Folder': one census sheet. Parts 5 and 6, '1930 Senne' (15) and '1930 Senne Second Pass' (20). Parts 7 to 15, the 1930 census for nine other villages (46 images), read at B-037. Part 17, 'Transcarpathian': one census sheet of [1921] as a PDF, and fourteen word files (nine unopened; five opened to see what they are, none published). The owner closed the folder on 12 Nov 2026.",
   "files": [
     {
       "file": "Andref_Duska_in_Solymos.png",
@@ -1004,6 +1004,16 @@
       "received": "2026-11-12",
       "via": "chat upload",
       "part": "1930 Vysoka"
+    },
+    {
+      "file": "DUSKO_or_DUSKA_Sandor_and_Anna__in_KANepszaml_019_Ungvar_Alsodomonya-Ungvar__230_Domanici-AlsoDomonya-1591883810__pages33-33.pdf",
+      "sha256": "4bc95599f0a78caa1e3360ee2c762c3ede994cb26382e9e7b4e314a2d337b336",
+      "bytes": 1097004,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Transcarpathian",
+      "web_copy": "DUSKO_or_DUSKA_Sandor_and_Anna__in_KANepszaml_019_Ungvar_Alsodomonya-Ungvar__230_Domanici-AlsoDomonya-1591883810__pages33-33_page.jpg",
+      "web_copy_note": "the page image taken out of the PDF and reduced to 2400 pixels wide"
     }
   ],
   "held": [
@@ -1122,6 +1132,132 @@
       "received": "2026-11-12",
       "via": "chat upload",
       "held": "the owner's own list of census households drawn up for a transcriber; not opened (blind rule, X-011 item 1). The transcriber's given name in the file name is withheld.",
+      "file_in_repo": false
+    },
+    {
+      "file": "1930_Stare_Initial_List_for_NAME_WITHHELD.docx",
+      "sha256": "2b6a4998e7660c49d02de392b9c9acde92173913f5fe66d70f9d760ca3c79b9a",
+      "bytes": 12358,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "the owner's own list of census households drawn up for a translator; not opened (X-027 item 1). The translator's given name in the file name is withheld.",
+      "file_in_repo": false
+    },
+    {
+      "file": "1930_Velke_Kapusany_Initial_List_for_NAME_WITHHELD.docx",
+      "sha256": "e8b84bc646c4443c87368a433c00b270232ac819247dcd0ada5d0a297407f8e2",
+      "bytes": 13974,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "the owner's own list of census households drawn up for a translator; not opened (X-027 item 1). The translator's given name in the file name is withheld.",
+      "file_in_repo": false
+    },
+    {
+      "file": "1930_Budovce_Initial_List_for_NAME_WITHHELD.docx",
+      "sha256": "d83d504f4e0e3e2cc6de8046953cec631e43a5ffc1e947d1e6521471b7303845",
+      "bytes": 12791,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "the owner's own list of census households drawn up for a translator; not opened (X-027 item 1). The translator's given name in the file name is withheld.",
+      "file_in_repo": false
+    },
+    {
+      "file": "1930_Demesovce_Initial_List_for_NAME_WITHHELD.docx",
+      "sha256": "95536a8ea6594c0c71b0a928c58becbf029de8e750f6c9df3eb1390c06e86272",
+      "bytes": 12171,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "the owner's own list of census households drawn up for a translator; not opened (X-027 item 1). The translator's given name in the file name is withheld.",
+      "file_in_repo": false
+    },
+    {
+      "file": "1930_Hazin_Initial_List_for_NAME_WITHHELD.docx",
+      "sha256": "b83f3fa6a6ae29c71d7b8dc8e7960ba5bd70865626c3d12066e67353dc388de2",
+      "bytes": 12854,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "the owner's own list of census households drawn up for a translator; not opened (X-027 item 1). The translator's given name in the file name is withheld.",
+      "file_in_repo": false
+    },
+    {
+      "file": "1930_Michalovce_Initial_List_for_NAME_WITHHELD.docx",
+      "sha256": "ef638869a559e5c1c9ecff1ff0966815d567f791edc386de3954f3e432b71a61",
+      "bytes": 13735,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "the owner's own list of census households drawn up for a translator; not opened (X-027 item 1). The translator's given name in the file name is withheld.",
+      "file_in_repo": false
+    },
+    {
+      "file": "1930_Pavlovce_Initial_List_for_NAME_WITHHELD.docx",
+      "sha256": "673e6c9a6b3736c5cc7a8ef650d806f774503f4b75463365ee2721c3f1aba478",
+      "bytes": 13713,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "the owner's own list of census households drawn up for a translator; not opened (X-027 item 1). The translator's given name in the file name is withheld.",
+      "file_in_repo": false
+    },
+    {
+      "file": "1930_Samudovce_Initial_List_for_NAME_WITHHELD.docx",
+      "sha256": "0aa489bcaa7f078b2d2a835db8ac0ed58e6c37013d5c9954158e78d73cc8d8d8",
+      "bytes": 12534,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "the owner's own list of census households drawn up for a translator; not opened (X-027 item 1). The translator's given name in the file name is withheld.",
+      "file_in_repo": false
+    },
+    {
+      "file": "1930_Census_Search_Villages.docx",
+      "sha256": "18ce94f027a600079c4d1e6ddf4cf17084e54ec133f33e11b102e230473fa35e",
+      "bytes": 16567,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "by its name the owner's own list of villages to search, which follows from his tree; not opened (X-027 item 1).",
+      "file_in_repo": false
+    },
+    {
+      "file": "Inacovce_Michalove_Census_of_1930_Full_Population.docx",
+      "sha256": "76b3e8e789e7607e9bd1d0cb3a3f396903e2aab76f3c3acd22cd40a80d0cfe38",
+      "bytes": 21623,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "opened under X-027 item 2: a title line and web links to the archive portal, one for each census sheet of the village; nothing about the family. Kept out of the repo as the owner's working file; logged as lead L-024.",
+      "file_in_repo": false
+    },
+    {
+      "file": "Senna_Kosice_Census_of_1930_Full_Population.docx",
+      "sha256": "d64bd26560a9cf6702bf847af3b06f47f981ff6cc5ae60e36f27cca78876f338",
+      "bytes": 13285,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "opened under X-027 item 2: a title line and web links to the archive portal, one for each census sheet of the village; nothing about the family. Kept out of the repo as the owner's working file; logged as lead L-024.",
+      "file_in_repo": false
+    },
+    {
+      "file": "Senne_Census_of_1930_Full_Population.docx",
+      "sha256": "5b6b75a7a70684642eaea965bfcd89ccb482041b21423bcffa5305eea2e5382a",
+      "bytes": 23354,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "opened under X-027 item 2: a title line and web links to the archive portal, one for each census sheet of the village; nothing about the family. Kept out of the repo as the owner's working file; logged as lead L-024.",
+      "file_in_repo": false
+    },
+    {
+      "file": "Senne_Velke_Kapusany_Census_of_1930_Full_Population.docx",
+      "sha256": "2c5811260aff3653e684c0d6ce2dc5a1ca415b46c15059780a2eb657e89e9e25",
+      "bytes": 23847,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "opened under X-027 item 2: a title line and web links to the archive portal, one for each census sheet of the village; nothing about the family. Kept out of the repo as the owner's working file; logged as lead L-024.",
+      "file_in_repo": false
+    },
+    {
+      "file": "Slovak_Census_of_1930_-_counts_per_region.docx",
+      "sha256": "01d0bd1c260b329561a5be3ab0376528d2c91b09f94a7e7199d62086599d5ea1",
+      "bytes": 12450,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "opened under X-027 item 2: three lines giving the number of results a portal search returned for two districts; nothing about the family. Logged as lead L-025.",
       "file_in_repo": false
     }
   ]

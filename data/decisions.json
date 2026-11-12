@@ -748,5 +748,23 @@
   "date": "2026-11-12",
   "decided": "Each direct-line document that is not a plain register strip carries a new field `object` (kind, form, does_not_fit, made_by, kept, compared). Three documents are retitled as statistical returns and one as a deed of sale. Readings made after another's are marked `independent: false` (D-X01-04; D-011-09 to -12).",
   "why": "X-031 items 1 to 5; X-012 and X-027 as restated in v21. No fact taken from the retitled papers changes: a return made at the ceremony and signed by the parties is still first-hand for what it states."
+ },
+ {
+  "id": "DEC-126",
+  "date": "2026-11-12",
+  "decided": "The 1921 sheet is entered under the name on the page, Durkota, and routed to Places; H-072 raised at 90 against the owner's label.",
+  "why": "X-004: a label moves nothing; the surname is plain on the sheet three times."
+ },
+ {
+  "id": "DEC-127",
+  "date": "2026-11-12",
+  "decided": "Of the fourteen word files: the eight 'Initial List' files and '1930 Census Search Villages' are held unopened; the four 'Full Population' files and the 'counts per region' file were opened as far as their first lines and structure, found to be link lists and search counts with nothing about the family, and logged as leads L-024 and L-025. None is published.",
+  "why": "X-027 items 1 and 2. The owner's statement that the lists were for a translator (S-000-13) says who they were made for; they are still his own lists of households."
+ },
+ {
+  "id": "DEC-128",
+  "date": "2026-11-12",
+  "decided": "Folder F-011 closed at 113 documents on the owner's word.",
+  "why": "S-000-13; rule 1."
  }
 ]

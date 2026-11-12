@@ -829,5 +829,16 @@
   "translation": "(English)",
   "why": "It is why these forms are rich in birthplaces and silent on parents, and why one of them could say 'India'.",
   "tone": "history"
+ },
+ {
+  "id": "C-092",
+  "doc": "D-011-113",
+  "source": "S-289",
+  "title": "Where were you on 16 July 1914?",
+  "text": "The first census of the new Czechoslovakia asked everyone what work they had been doing on 16 July 1914, twelve days before the war began, so that the statisticians could measure what the war had done to people's working lives. For Anna Durkotová, who was fourteen that summer, the clerk first wrote 'domestic service, nursemaid', then struck it out and put 'no'.",
+  "original": "dňa 16. júla 1914 … domácí služby, chůva [struck through] … ne",
+  "translation": "on 16 July 1914 … domestic service, nursemaid [struck through] … no",
+  "why": "A census column that dates the form by itself, and a girl's first job crossed out.",
+  "tone": "history"
  }
 ]
