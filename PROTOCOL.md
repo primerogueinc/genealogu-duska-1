@@ -24,6 +24,7 @@ Forensically reconstruct the genealogy of the owner of a computer in Calgary, wo
 10. Living people: exact birth dates stay out of this public repository. Years only.
 11. Outside research is allowed and is logged in `data/leads.json` with a URL. A lead is not a finding.
 12. After any data change run `python3 build.py` and commit `index.html` with the data.
+13. This repo is one of three (Duska, Demko, Places) with a coordinator above them. This agent is the only writer here and merges its own work into `main` after every batch. Agents talk through `comms/` as set out in `comms/README.md`: read the other repos' outboxes at the start of each batch, write to your own.
 
 ## Layout
 
@@ -44,6 +45,7 @@ Forensically reconstruct the genealogy of the owner of a computer in Calgary, wo
 - Tree so far: Ahn 1 and Ahn 2 stated by Kevin. Ahn 4, 8 and 9 (Maria Demko) rest on priors only.
 - Hypotheses: H-001 to H-008, H-010 and H-012 to H-015 open, H-011 supported, H-009 solved. H-012 (Mihály is Maria Demko's father) against H-013 (her brother) is the live question.
 - A private preview of the front end is published as the artifact "Duska Line Rebuild".
+- First messages to the Demko agent, the Places agent and the coordinator are in `comms/outbox/`. The Demko repo (`primerogueinc/genealogy-demko-1`) was empty on 2026-11-11 and the Places repo did not exist yet.
 
 ## Comparison phase
 
