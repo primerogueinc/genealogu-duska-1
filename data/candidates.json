@@ -1,0 +1,32 @@
+[
+  {
+    "id": "K-001",
+    "name": "Mihály Demkó",
+    "vitals": "b. 19 Aug 1882, bapt. 20 Aug 1882, Viszoka 132",
+    "proof": "documented",
+    "sources": [
+      "S-002"
+    ],
+    "relation": "Unplaced. Candidate father (H-012) or brother (H-013) of Maria Demko, Ahn 9."
+  },
+  {
+    "id": "K-002",
+    "name": "György Demkó",
+    "vitals": "Greek Catholic, farmer, of Viszoka 132 in 1882",
+    "proof": "documented",
+    "sources": [
+      "S-002"
+    ],
+    "relation": "Father of K-001. Unplaced."
+  },
+  {
+    "id": "K-003",
+    "name": "Mária Hreskó",
+    "vitals": "Roman Catholic, of Viszoka 132 in 1882",
+    "proof": "documented",
+    "sources": [
+      "S-002"
+    ],
+    "relation": "Mother of K-001. Unplaced. Godmother Anna Hreskó is probably her kin."
+  }
+]

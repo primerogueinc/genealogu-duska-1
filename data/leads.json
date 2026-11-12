@@ -1,0 +1,32 @@
+[
+  {
+    "id": "L-001",
+    "text": "Senné was Szenna (Ungszenna) in Ung county. Its Roman Catholic register of births, marriages and deaths, 1831-1926, was microfilmed; the originals are in the Prešov state archive.",
+    "url": "https://www.familysearch.org/en/search/catalog/710997",
+    "bears_on": ["H-004", "H-005"]
+  },
+  {
+    "id": "L-002",
+    "text": "Iňačovce was Solymos in Ung county. Listed registers: Greek Catholic 1811-1898, Reformed 1747-1940, Roman Catholic 1863-1926.",
+    "url": "https://en.wikipedia.org/wiki/I%C5%88a%C4%8Dovce",
+    "bears_on": ["H-004", "H-005"]
+  },
+  {
+    "id": "L-003",
+    "text": "FamilySearch catalogues Greek Catholic records of the Mukachevo Eparchy for Ungvár / Užhorod and the Ung district, 1826-1938. Candidate home for the Maria Demko entry.",
+    "url": "https://www.familysearch.org/search/catalog/1411329",
+    "bears_on": ["H-006"]
+  },
+  {
+    "id": "L-004",
+    "text": "A FamilySearch community thread reports that none of the surviving 1869 census sheets in the Slovakia collection are from Ung county. This conflicts with PR-3 and needs the original image to settle.",
+    "url": "https://community.familysearch.org/en/discussion/125119/where-to-find-1869-slovak-census-magyarkelecseny-ung-klacany-kapusianske-klacany",
+    "bears_on": ["H-007"]
+  },
+  {
+    "id": "L-005",
+    "text": "Montreal Gazette, 13 Feb 1928, p. 12: a John Duska burned by molten copper at Port Colborne, Ontario. No connection shown. Worth checking against H-002 and H-003.",
+    "url": "https://www.newspapers.com/article/the-gazette-john-duska-burned-by-molten/94295882/",
+    "bears_on": ["H-002", "H-003"]
+  }
+]

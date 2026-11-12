@@ -1,0 +1,87 @@
+{
+  "folder_id": "F-001",
+  "desktop_path": "Documents/Genealogy/Duska Misc/Senne Interesting Pages",
+  "note": "Files as received through chat upload. They may have been re-encoded in transit and can differ byte-for-byte from the desktop originals.",
+  "files": [
+    {
+      "file": "Senne_Interesting_Page_1.jpg",
+      "sha256": "de83e3d8093adc0ce7d7acc69727d1ef52ca20ab65abc164c67b361e10252014",
+      "bytes": 1985625,
+      "pixels": "2576x2462",
+      "received": "2026-11-11",
+      "via": "chat upload"
+    },
+    {
+      "file": "Senne_Interesting_Page_2.jpg",
+      "sha256": "68c58f82c2d52cf36d6e3f03ea5458629a9c56e99eedbac56b26e7b53ccea9f7",
+      "bytes": 1859928,
+      "pixels": "2576x2157",
+      "received": "2026-11-11",
+      "via": "chat upload"
+    },
+    {
+      "file": "Senne_Interesting_Page_3.jpg",
+      "sha256": "c8d1700904e03d8fd8ac4575351011dea3896b04d83e7275e4514f5c6a0cb8d9",
+      "bytes": 1895170,
+      "pixels": "2576x2146",
+      "received": "2026-11-11",
+      "via": "chat upload"
+    },
+    {
+      "file": "Senne_Interesting_Page_4.jpg",
+      "sha256": "8f358bbae01e6d34abafac1df637cc6f4d8843b74da52c38f513413fd7a5e80d",
+      "bytes": 1915294,
+      "pixels": "2576x2132",
+      "received": "2026-11-11",
+      "via": "chat upload"
+    },
+    {
+      "file": "Senne_Interesting_Page_5.jpg",
+      "sha256": "08e9296728722b4f2fa43c11300f8969ae8e40c6a74dad5553a0ac79d041c40a",
+      "bytes": 1771806,
+      "pixels": "2576x2157",
+      "received": "2026-11-11",
+      "via": "chat upload"
+    },
+    {
+      "file": "Senne_Interesting_Page_6.jpg",
+      "sha256": "af60e276a179e2951e7e3e256294d2d50e7d7844f772d8fdf57fefb3779961d4",
+      "bytes": 1944583,
+      "pixels": "2576x2155",
+      "received": "2026-11-11",
+      "via": "chat upload"
+    },
+    {
+      "file": "Senne_Interesting_Page_7.jpg",
+      "sha256": "4a444e832d35dc8b30c6872c726bbf58d02cbf49d02166e1fda62af74dde2229",
+      "bytes": 1862056,
+      "pixels": "2576x2175",
+      "received": "2026-11-11",
+      "via": "chat upload"
+    },
+    {
+      "file": "Senne_Interesting_Page_8.jpg",
+      "sha256": "433a854378918aab16c8323ef68fbb4846bcaeeca333ca16419770d61b5f7191",
+      "bytes": 1996940,
+      "pixels": "2576x2145",
+      "received": "2026-11-11",
+      "via": "chat upload"
+    },
+    {
+      "file": "Senne_Interesting_Page_9.jpg",
+      "sha256": "660238944e15176dc8470502ee9a02195aaf345be4c3e8513f66e88ce59b1881",
+      "bytes": 1975818,
+      "pixels": "2576x2151",
+      "received": "2026-11-11",
+      "via": "chat upload"
+    },
+    {
+      "file": "Senne_Interesting_Page_10.jpg",
+      "sha256": "493d2cbc867ddfe0e56a456bedde40ea9d39d8ecff46b016a65e4df40efeaeb2",
+      "bytes": 1764569,
+      "pixels": "2576x2130",
+      "received": "2026-11-11",
+      "via": "chat upload"
+    }
+  ]
+}

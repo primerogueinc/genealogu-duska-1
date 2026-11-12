@@ -1,0 +1,20 @@
+[
+  {
+    "id": "R-001",
+    "status": "held",
+    "raised": "B-001",
+    "text": "Film or DGS number, archive and image numbers for the Folder 1 pages, to settle H-010."
+  },
+  {
+    "id": "R-002",
+    "status": "held",
+    "raised": "B-000",
+    "text": "The image or citation behind the 1869 census find, to settle H-007."
+  },
+  {
+    "id": "R-003",
+    "status": "held",
+    "raised": "B-002",
+    "text": "The full register page for the Mihály Demkó entry, with its header, to settle H-015 and confirm the column headings."
+  }
+]

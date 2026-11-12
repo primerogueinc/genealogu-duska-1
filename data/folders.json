@@ -1,0 +1,28 @@
+[
+  {
+    "id": "F-001",
+    "desktop_path": "Documents/Genealogy/Duska Misc/Senne Interesting Pages",
+    "described_as": "Folder 1. Duska Misc / Senne Interesting Pages.",
+    "status": "open",
+    "first_seen": "2026-11-11",
+    "completed": null,
+    "files_received": 10,
+    "batches": [
+      "B-001"
+    ],
+    "archive_path": "records/F-001_Duska-Misc_Senne-Interesting-Pages/"
+  },
+  {
+    "id": "F-002",
+    "desktop_path": "Documents/Genealogy/Duska and Demko Leads/Cicarovce",
+    "described_as": "First substantive item. Full file, given with no context. The same file is going to a second chat for a parallel rebuild.",
+    "status": "complete",
+    "first_seen": "2026-11-11",
+    "completed": "2026-11-11",
+    "files_received": 1,
+    "batches": [
+      "B-002"
+    ],
+    "archive_path": "records/F-002_Duska-and-Demko-Leads_Cicarovce/"
+  }
+]

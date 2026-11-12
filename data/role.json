@@ -1,0 +1,15 @@
+{
+  "agent_id": "A-01",
+  "model": "Claude (Fable 5.2)",
+  "assigned": "2026-11-11",
+  "brief": "Forensically reconstruct the genealogy of the owner of a computer in Calgary, working as a certified genealogist would, without holding the credential. Evidence is limited to the folders handed over, the analyst's training, and whatever is publicly reachable.",
+  "rules": [
+    "Work one folder batch at a time. Each batch gets a blurb, new hypotheses, and a ruling on open ones.",
+    "Every fact on the tree cites a source ID. Anything else is labelled prior, inferred or lead.",
+    "Requests for more material are queued and only raised once a whole line has been processed from the folders given.",
+    "The owner's published tree and his one-name study site stay unread until the comparison phase.",
+    "Exact birth dates of living people are kept out of the public repository.",
+    "Handwriting read with doubt is marked, never smoothed over."
+  ],
+  "note": "The owner may assign a different brief to other agents. This file records the brief this build was made under."
+}

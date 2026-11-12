@@ -1,0 +1,84 @@
+[
+  {
+    "id": "P-001",
+    "ahnentafel": 1,
+    "name": "Kevin J.S. Duska Jr.",
+    "role": "Subject",
+    "living": true,
+    "birth": {
+      "date": "1985",
+      "place": "Montréal, Québec",
+      "withheld": true
+    },
+    "proof": "stated",
+    "sources": [
+      "S-000-1"
+    ],
+    "note": "Starting point of the line."
+  },
+  {
+    "id": "P-002",
+    "ahnentafel": 2,
+    "name": "Kevin John Duska",
+    "role": "Father",
+    "living": true,
+    "birth": {
+      "date": "1962",
+      "place": null,
+      "withheld": true
+    },
+    "proof": "stated",
+    "sources": [
+      "S-000-1"
+    ],
+    "note": "Birthplace not yet given. Middle name John feeds H-003."
+  },
+  {
+    "id": "P-004",
+    "ahnentafel": 4,
+    "name": "[given name unknown] Duska",
+    "role": "Paternal grandfather",
+    "living": null,
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "prior",
+    "sources": [
+      "PR-1"
+    ],
+    "note": "Known only as a Duska whose mother was Maria Demko. No record in hand."
+  },
+  {
+    "id": "P-008",
+    "ahnentafel": 8,
+    "name": "[unknown] Duska",
+    "role": "Great-grandfather",
+    "living": false,
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "inferred",
+    "sources": [
+      "PR-1"
+    ],
+    "note": "Inferred only: the grandfather carries the Duska surname and his mother was a Demko, so his father is presumed to be a Duska. Unproven."
+  },
+  {
+    "id": "P-009",
+    "ahnentafel": 9,
+    "name": "Maria Demko",
+    "role": "Great-grandmother",
+    "living": false,
+    "birth": {
+      "date": null,
+      "place": null
+    },
+    "proof": "prior",
+    "sources": [
+      "PR-1"
+    ],
+    "note": "Birth record believed to be in the Uzhhorod archives, not yet located."
+  }
+]

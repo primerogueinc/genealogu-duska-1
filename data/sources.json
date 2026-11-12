@@ -1,0 +1,26 @@
+[
+  {
+    "id": "S-000-1",
+    "batch": "B-000",
+    "type": "Statement by the subject",
+    "title": "Kevin J.S. Duska Jr., chat statement, 11 Nov 2026",
+    "extract": "Own name, birth date and birthplace (Montréal, 1985); father's name (Kevin John Duska) and birth date (1962). Exact dates of living people are held back from this public repository.",
+    "reliability": "First-hand for his own identity; second-hand for his father's birth date. No document seen."
+  },
+  {
+    "id": "S-001",
+    "batch": "B-001",
+    "type": "Manuscript, parish copy-book of diocesan circulars",
+    "title": "Protocol of circulars of the Bishop of Szatmár, entries 554/1837 to 8/1840 (ten openings)",
+    "extract": "Documents D-001-01 to D-001-10. Latin with Hungarian titles. No Duska named.",
+    "reliability": "Original record, image copy. Archive, fond and film number not yet known (R-001)."
+  },
+  {
+    "id": "S-002",
+    "batch": "B-002",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Mihály Demkó, entry 36, born 19 Aug 1882, baptised 20 Aug 1882",
+    "extract": "Father Demkó György, Greek Catholic, farmer. Mother Hreskó Mária, Roman Catholic. Residence Viszoka 132. Godparents Varga Mihály and Hreskó Anna, both Roman Catholic.",
+    "reliability": "Original record, image copy, direct evidence for the birth and parentage. The strip shows no page header: the parish (Čičarovce) and the register type come from the owner's file name only."
+  }
+]

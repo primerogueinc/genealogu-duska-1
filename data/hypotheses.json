@@ -1,0 +1,211 @@
+[
+  {
+    "id": "H-001",
+    "statement": "The paternal grandfather (Ahn 4) was born in Canada, c. 1925-1942, to parents who emigrated from Czechoslovakia.",
+    "confidence": 55,
+    "basis": "Father born 1962. Maria Demko's birth record sits in an old-country archive, which makes her the immigrant generation.",
+    "test": "Grandfather's birth or baptism record; 1931 Census of Canada; any obituary.",
+    "status": "open",
+    "raised": "B-000",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-002",
+    "statement": "The immigrant generation reached Canada between 1924 and 1930.",
+    "confidence": 60,
+    "basis": "US quotas of 1921 and 1924 pushed Slovak emigration toward Canada in exactly those years.",
+    "test": "Passenger lists and Form 30A (1919-1924), Canadian arrivals 1925-1935, naturalization lists 1915-1951.",
+    "status": "open",
+    "raised": "B-000",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-003",
+    "statement": "Ahn 4 or Ahn 8 carried the given name Ján / John.",
+    "confidence": 60,
+    "basis": "The father's middle name is John, and the name is the most common one in the region.",
+    "test": "Any record naming the grandfather or great-grandfather.",
+    "status": "open",
+    "raised": "B-000",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-004",
+    "statement": "The Duska male line is from Senné (Szenna, Ung county). Iňačovce enters through a wife's family.",
+    "confidence": 55,
+    "basis": "Two villages 4 km apart usually means a marriage between them. PR-6 places Duska households in Senné in 1930.",
+    "test": "Baptism and marriage entries giving house numbers and the bride's village.",
+    "status": "open",
+    "raised": "B-000",
+    "resolved": null,
+    "resolution": null,
+    "log": [
+      {
+        "batch": "B-001",
+        "effect": "50% to 55%",
+        "note": "A whole desktop folder is filed under Senné. Weak support: it shows where the owner was looking, not what he found."
+      }
+    ]
+  },
+  {
+    "id": "H-005",
+    "statement": "The Duskas were Roman Catholic and the Demkos Greek Catholic.",
+    "confidence": 55,
+    "basis": "Senné has a Roman Catholic register (1831-1926). A Rusyn Demko line (PR-4) would normally be Greek Catholic.",
+    "test": "Denomination column in any baptism, marriage or census entry.",
+    "status": "open",
+    "raised": "B-000",
+    "resolved": null,
+    "resolution": null,
+    "log": [
+      {
+        "batch": "B-001",
+        "effect": "45% to 50%",
+        "note": "The Senné material he kept is Roman Catholic (Diocese of Szatmár). Weak support for a Roman Catholic Duska line."
+      },
+      {
+        "batch": "B-002",
+        "effect": "50% to 55%",
+        "note": "György Demkó is entered as Greek Catholic. Supports the Demko half, if this is the right Demko family. The Duska half is still untested."
+      }
+    ]
+  },
+  {
+    "id": "H-006",
+    "statement": "Maria Demko was born c. 1890-1910 in an Ung county parish, and her entry is in the Mukachevo Eparchy Greek Catholic series held at Uzhhorod.",
+    "confidence": 40,
+    "basis": "L-003: that series covers Ung parishes 1826-1938 and is the usual reason a Slovak-side record ends up in Uzhhorod.",
+    "test": "Her age in any Canadian or Czechoslovak record, then a page-by-page search of the matching parish and years.",
+    "status": "open",
+    "raised": "B-000",
+    "resolved": null,
+    "resolution": null,
+    "log": [
+      {
+        "batch": "B-002",
+        "effect": "50% to 40%",
+        "note": "A Demko household in Ung county fits. But this family baptised a child in a Roman Catholic book, and a birth after 1895 would be a civil record (H-014), so the Greek Catholic series is less certain."
+      }
+    ]
+  },
+  {
+    "id": "H-007",
+    "statement": "The record cited as the 1869 census (PR-3) does not come from the standard FamilySearch Slovakia 1869 collection.",
+    "confidence": 65,
+    "basis": "L-004: surviving 1869 sheets in that collection are reported to exclude Ung county. The record may be from another archive, another year, or a Zemplén village.",
+    "test": "The image itself: archive, fond, film or DGS number, and the village named on the sheet.",
+    "status": "open",
+    "raised": "B-000",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-008",
+    "statement": "Jozef Duska of Senné no. 73 (1930) is not Ahn 8. The direct-line ancestor had left for Canada before the 1930 census.",
+    "confidence": 55,
+    "basis": "Follows from H-002. PR-6 gives the household but not its relationship to the direct line.",
+    "test": "The 1930 census sheet for house 73 and the notes on absent household members.",
+    "status": "open",
+    "raised": "B-000",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-009",
+    "statement": "The ten pages are a parish copy-book of circulars from the Bishop of Szatmár, June 1837 to January 1840, kept in the Nagykapos district of Ung county. They are not a register.",
+    "confidence": 95,
+    "basis": "Raised on first sight of the batch.",
+    "test": "Signatures, dates, entry numbers and place names inside the text.",
+    "status": "solved",
+    "raised": "B-001",
+    "resolved": "B-001",
+    "resolution": "Every circular is signed 'Joannes, Episcopus Szathmariensis' or by his vicar general Josephus Linczy and dated at Szatmár; entries run in numbered order from 554/1837 to 8/1840; entry 530 cites a district meeting at N. Kapos on 14 May 1839; four entries deal with the district library at Ungvár.",
+    "log": []
+  },
+  {
+    "id": "H-010",
+    "statement": "The copy-book belongs to the Roman Catholic parish of Senné itself and was filmed with the Senné register (L-001).",
+    "confidence": 60,
+    "basis": "Only the folder name says Senné. The text fits any parish of the Nagykapos district. The Kulin gift note of 1838 is the one local entry.",
+    "test": "Film or DGS number and image numbers (R-001); the title board at the start of the film item.",
+    "status": "open",
+    "raised": "B-001",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-011",
+    "statement": "No Duska is named on these ten pages. They were saved as curiosities met while paging through the film, not as evidence for the line.",
+    "confidence": 85,
+    "basis": "Folder is called 'Interesting Pages'. A full read found no Duska, Demko or Senné household.",
+    "test": "Kevin's own description of why he kept them; a second read at higher magnification.",
+    "status": "supported",
+    "raised": "B-001",
+    "resolved": null,
+    "resolution": null,
+    "log": [
+      {
+        "batch": "B-001",
+        "effect": "supported",
+        "note": "All ten openings read entry by entry. Handwriting leaves a small chance a surname was missed."
+      }
+    ]
+  },
+  {
+    "id": "H-012",
+    "statement": "Mihály Demkó (b. 1882) is the father of Maria Demko, Ahn 9. That would make him Ahn 18 and György Demkó and Mária Hreskó Ahn 36 and 37.",
+    "confidence": 40,
+    "basis": "The owner filed this under leads and named the file for Mihály, which is what a researcher does with a person on the line. A man born in 1882 fits as father of a woman whose son was born c. 1925-1942.",
+    "test": "Maria Demko's birth or marriage record naming her father; any record giving her age.",
+    "status": "open",
+    "raised": "B-002",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-013",
+    "statement": "Maria Demko is a sister of Mihály: a daughter of György Demkó and Mária Hreskó of Viszoka, born c. 1885-1900.",
+    "confidence": 20,
+    "basis": "Rival to H-012. The same couple could have had a daughter Maria in those years.",
+    "test": "Search the same register for other children of this couple, 1875-1900.",
+    "status": "open",
+    "raised": "B-002",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-014",
+    "statement": "Maria Demko was born after 1 October 1895, and the record in Uzhhorod is the county copy of a civil birth registration, not a church book.",
+    "confidence": 35,
+    "basis": "Hungary began civil registration in October 1895 and second copies went to the county seat, which for Ung county was Ungvár. That explains an Uzhhorod location for a village now in Slovakia. Rival to H-006.",
+    "test": "Maria's year of birth; the fond and series title of the Uzhhorod record.",
+    "status": "open",
+    "raised": "B-002",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-015",
+    "statement": "The entry is from the Roman Catholic register of Čičarovce (Csicser), which served Viszoka.",
+    "confidence": 70,
+    "basis": "File name says Čičarovce. The mother and both godparents are Roman Catholic, and neighbouring entries note 'rom. k.'.",
+    "test": "The page header or film title for this image (R-003).",
+    "status": "open",
+    "raised": "B-002",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  }
+]

@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Duska Line Rebuild</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  /* layout: a finding aid. One reading column, mono IDs in a left gutter, ruled rows instead of cards. */
+  --paper:#f2f4f2; --surface:#ffffff; --ink:#16211d; --muted:#5b6964; --rule:#cdd5d0;
+  --accent:#2b3f8f; --accent-soft:#e3e7f6;
+  --open:#8a5a00; --open-bg:#fbf0d4; --ok:#1f6b45; --ok-bg:#dcefe4; --bad:#a32f28; --bad-bg:#f6dedb;
+  --display:"IBM Plex Sans Condensed","Arial Narrow",Arial,sans-serif;
+  --body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#111514; --surface:#191f1d; --ink:#e5ebe8; --muted:#98a6a0; --rule:#2d3632;
+    --accent:#9db0ff; --accent-soft:#222a47;
+    --open:#e8b95a; --open-bg:#3a2e12; --ok:#7fd0a3; --ok-bg:#17352a; --bad:#f09a92; --bad-bg:#3d1c19;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#111514; --surface:#191f1d; --ink:#e5ebe8; --muted:#98a6a0; --rule:#2d3632;
+  --accent:#9db0ff; --accent-soft:#222a47;
+  --open:#e8b95a; --open-bg:#3a2e12; --ok:#7fd0a3; --ok-bg:#17352a; --bad:#f09a92; --bad-bg:#3d1c19;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion: reduce){html{scroll-behavior:auto}}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55}
+a{color:var(--accent)}
+a:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{max-width:1040px;margin:0 auto;padding:0 20px}
+header.top{padding:36px 0 20px;border-bottom:2px solid var(--ink)}
+.eyebrow{font-family:var(--mono);font-size:12.5px;color:var(--muted);letter-spacing:.02em}
+h1{font-family:var(--display);font-weight:600;font-size:clamp(30px,5vw,44px);line-height:1.08;margin:6px 0 10px;text-wrap:balance}
+.lede{max-width:66ch;margin:0;color:var(--muted)}
+.stats{display:flex;flex-wrap:wrap;gap:8px 28px;margin:22px 0 0;padding:0;list-style:none;font-variant-numeric:tabular-nums}
+.stats li{display:flex;align-items:baseline;gap:8px}
+.stats b{font-family:var(--display);font-size:26px;font-weight:600}
+.stats span{font-size:13.5px;color:var(--muted)}
+nav.toc{position:sticky;top:0;z-index:5;background:var(--paper);border-bottom:1px solid var(--rule)}
+nav.toc .wrap{display:flex;gap:4px 18px;flex-wrap:wrap;padding-top:10px;padding-bottom:10px}
+nav.toc a{font-size:14px;text-decoration:none;color:var(--ink);font-weight:500}
+nav.toc a:hover{color:var(--accent);text-decoration:underline}
+section{padding:34px 0 8px;scroll-margin-top:48px}
+h2{font-family:var(--display);font-weight:600;font-size:25px;margin:0 0 4px;text-wrap:balance}
+.sub{color:var(--muted);margin:0 0 16px;max-width:66ch;font-size:15px}
+h3{font-family:var(--display);font-weight:600;font-size:19px;margin:0 0 4px}
+.id{font-family:var(--mono);font-size:12.5px;color:var(--muted);white-space:nowrap}
+.row{display:grid;grid-template-columns:86px 1fr;gap:6px 16px;padding:14px 0;border-top:1px solid var(--rule)}
+.row>.id{padding-top:3px}
+.row p{margin:4px 0;max-width:68ch}
+.pill{display:inline-block;font-size:12px;font-weight:600;padding:1px 9px;border-radius:999px;border:1px solid currentColor;line-height:1.5;white-space:nowrap}
+.pill.open,.pill.held{color:var(--open);background:var(--open-bg)}
+.pill.supported,.pill.solved,.pill.complete,.pill.stated,.pill.documented,.pill.high{color:var(--ok);background:var(--ok-bg)}
+.pill.solved,.pill.complete{border-width:2px}
+.pill.refuted,.pill.low{color:var(--bad);background:var(--bad-bg)}
+.pill.prior,.pill.inferred,.pill.medium{color:var(--muted);background:transparent;border-style:dashed}
+.meta{font-size:13.5px;color:var(--muted)}
+.meta b{color:var(--ink);font-weight:500}
+.head{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 12px}
+.conf{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-variant-numeric:tabular-nums;color:var(--muted)}
+.bar{width:84px;height:6px;background:var(--rule);border-radius:3px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--accent)}
+.lineage .row{grid-template-columns:86px 1fr auto}
+.lineage .name{font-family:var(--display);font-size:20px;font-weight:600}
+.lineage .unknown .name{color:var(--muted);font-weight:500}
+.log{margin:6px 0 0;padding:0 0 0 14px;border-left:2px solid var(--accent-soft);font-size:14px}
+.log div{margin:3px 0}
+.doc{display:grid;grid-template-columns:minmax(0,300px) minmax(0,1fr);gap:20px;padding:20px 0;border-top:1px solid var(--rule)}
+.doc.wide{grid-template-columns:minmax(0,1fr)}
+.doc.wide figure{overflow-x:auto}
+.doc.wide img{max-width:none;width:max(100%,1100px)}
+.doc figure{margin:0}
+.doc img{max-width:100%;height:auto;display:block;border:1px solid var(--rule);background:var(--surface)}
+.doc figcaption{font-family:var(--mono);font-size:11.5px;color:var(--muted);margin-top:6px;overflow-wrap:anywhere}
+.tablewrap{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:14.5px}
+th{font-size:12px;text-align:left;color:var(--muted);font-weight:500;padding:6px 10px 6px 0;border-bottom:1px solid var(--rule);white-space:nowrap}
+td{vertical-align:top;padding:8px 10px 8px 0;border-bottom:1px solid var(--rule)}
+td.no{font-family:var(--mono);font-size:12.5px;white-space:nowrap}
+td.date{white-space:nowrap;font-variant-numeric:tabular-nums}
+.tx{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:14px;padding:14px;background:var(--surface);border-left:3px solid var(--accent)}
+.tx h4{grid-column:1/-1;margin:0;font-size:13.5px;font-weight:600}
+.tx p{margin:0;font-size:14.5px}
+.tx .orig{font-style:italic}
+.tx small{display:block;font-size:11.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px;font-style:normal}
+.cur{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:0 28px}
+.cur article{padding:14px 0;border-top:1px solid var(--rule)}
+.cur p{margin:4px 0 0;font-size:15px}
+ul.plain{margin:0;padding:0;list-style:none}
+ul.rules{margin:8px 0 0;padding-left:20px;max-width:68ch}
+footer{padding:36px 0 48px;color:var(--muted);font-size:13.5px}
+@media (max-width:720px){
+  .row,.lineage .row{grid-template-columns:1fr}
+  .doc,.tx{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <div class="eyebrow">Ahnentafel 1 &rarr; 2 &rarr; 4 &rarr; 8 &middot; paternal line &middot; repository genealogu-duska-1</div>
+  <h1>Duska line rebuild</h1>
+  <p class="lede">An independent reconstruction of Kevin J.S. Duska Jr.'s father's-father line, built one desktop folder at a time. Each batch gets a blurb, a set of hypotheses with stated odds, and a ruling on the ones already open. The result will be compared with the tree Kevin built himself.</p>
+  <ul class="stats" id="stats"></ul>
+</div></header>
+<nav class="toc" aria-label="Sections"><div class="wrap">
+  <a href="#lineage">Lineage</a><a href="#candidates">Candidates</a><a href="#batches">Batches</a><a href="#hypotheses">Hypotheses</a><a href="#documents">Documents</a><a href="#curiosities">Curiosities</a><a href="#folders">Folders</a><a href="#priors">Known beforehand</a><a href="#leads">Leads</a><a href="#requests">Requests</a><a href="#sources">Sources</a><a href="#role">Analyst brief</a>
+</div></nav>
+<main class="wrap">
+  <section id="lineage"><h2>Lineage</h2><p class="sub">Direct line by Ahnentafel number. A dashed label means no record supports the entry yet.</p><div class="lineage" id="lineage-body"></div></section>
+  <section id="candidates"><h2>Unplaced candidates</h2><p class="sub">People proved by a record whose link to the direct line is still a hypothesis.</p><div id="cand-body"></div></section>
+  <section id="batches"><h2>Batch log</h2><p class="sub">Newest first. One entry per delivery of files.</p><div id="batches-body"></div></section>
+  <section id="hypotheses"><h2>Hypotheses</h2><p class="sub">Each one is a prediction that a later record can confirm or kill. Confidence is the analyst's own estimate at the latest batch.</p><div id="hyp-body"></div></section>
+  <section id="documents"><h2>Documents</h2><p class="sub">Every file received, by folder, with an entry-by-entry abstract in English. Passages that matter are transcribed and translated in full; square brackets mark doubtful readings. Select an image to open it full size.</p><div id="docs-body"></div></section>
+  <section id="curiosities"><h2>Curiosities</h2><p class="sub">Things in the records that are not about the Duskas and are worth keeping anyway.</p><div class="cur" id="cur-body"></div></section>
+  <section id="folders"><h2>Folder register</h2><p class="sub">Desktop folders as Kevin describes them. A folder stays open until he says it is complete.</p><div id="folders-body"></div></section>
+  <section id="priors"><h2>Known before Batch 1</h2><p class="sub">Things the analyst had already been told or had glimpsed. They are logged here so the comparison stays honest, and they do not count as findings.</p><div id="priors-body"></div></section>
+  <section id="leads"><h2>Outside leads</h2><p class="sub">From public catalogues and searches, independent of Kevin's archive. Unverified until a record is in hand.</p><div id="leads-body"></div></section>
+  <section id="requests"><h2>Request queue</h2><p class="sub">Material the analyst would ask for. Held until a whole line has been processed from the folders given.</p><div id="req-body"></div></section>
+  <section id="sources"><h2>Sources</h2><div id="sources-body"></div></section>
+  <section id="role"><h2>Analyst brief</h2><div id="role-body"></div></section>
+</main>
+<footer><div class="wrap" id="foot"></div></footer>
+<script>
+const DATA = /*__DATA__*/{};
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const pill = (s, label) => `<span class="pill ${esc(s)}">${esc(label || s)}</span>`;
+const row = (id, html, extra = "") => `<div class="row ${extra}"><div class="id">${esc(id)}</div><div>${html}</div></div>`;
+const H = DATA.hypotheses, count = st => H.filter(h => h.status === st).length;
+
+$("stats").innerHTML = [
+  [DATA.batches.length, "batches"],
+  [`${DATA.folders.filter(f => f.status === "complete").length}/${DATA.folders.length}`, "folders complete"],
+  [DATA.documents.length, "documents"],
+  [count("open"), "hypotheses open"],
+  [count("supported"), "supported"],
+  [count("solved"), "solved"],
+  [count("refuted"), "refuted"]
+].map(([n, l]) => `<li><b>${esc(n)}</b><span>${esc(l)}</span></li>`).join("");
+
+$("lineage-body").innerHTML = DATA.people.slice().sort((a, b) => a.ahnentafel - b.ahnentafel).map(p => {
+  const b = p.birth || {};
+  const vit = [b.date ? `b. ${b.date}${b.withheld ? " (full date withheld, living)" : ""}` : "birth unknown", b.place].filter(Boolean).join(", ");
+  return `<div class="row ${p.proof === "stated" || p.proof === "documented" ? "" : "unknown"}">
+    <div class="id">Ahn ${p.ahnentafel}<br>${esc(p.id)}</div>
+    <div><div class="name">${esc(p.name)}</div><div class="meta"><b>${esc(p.role)}</b> &middot; ${esc(vit)}</div><p>${esc(p.note)}</p><div class="meta">Evidence: ${p.sources.map(esc).join(", ")}</div></div>
+    <div>${pill(p.proof)}</div></div>`;
+}).join("");
+
+$("cand-body").innerHTML = DATA.candidates.map(k => row(k.id, `<div class="head"><h3>${esc(k.name)}</h3>${pill(k.proof)}</div><div class="meta">${esc(k.vitals)} &middot; evidence ${k.sources.map(esc).join(", ")}</div><p>${esc(k.relation)}</p>`)).join("");
+
+$("batches-body").innerHTML = DATA.batches.slice().reverse().map(b => row(b.id,
+  `<div class="head"><h3>${esc(b.title)}</h3><span class="meta">${esc(b.date)}${b.folder ? " &middot; folder " + esc(b.folder) : ""} &middot; ${b.files} files</span></div>
+   <p>${esc(b.blurb)}</p>
+   <div class="meta">Raised: <b>${b.raised.map(esc).join(", ") || "none"}</b> &middot; Resolved: <b>${b.resolved.map(esc).join(", ") || "none"}</b></div>`)).join("");
+
+$("hyp-body").innerHTML = H.map(h => row(h.id,
+  `<div class="head">${pill(h.status)}<span class="conf"><span class="bar"><i style="width:${h.confidence}%"></i></span>${h.confidence}%</span><span class="meta">raised ${esc(h.raised)}${h.resolved ? ", resolved " + esc(h.resolved) : ""}</span></div>
+   <p><strong>${esc(h.statement)}</strong></p>
+   <p class="meta"><b>Basis.</b> ${esc(h.basis)}</p><p class="meta"><b>Test.</b> ${esc(h.test)}</p>
+   ${h.resolution ? `<p><b>Ruling.</b> ${esc(h.resolution)}</p>` : ""}
+   ${(h.log || []).length ? `<div class="log">${h.log.map(l => `<div><span class="id">${esc(l.batch)}</span> ${esc(l.effect)}. ${esc(l.note)}</div>`).join("")}</div>` : ""}`)).join("");
+
+$("docs-body").innerHTML = DATA.folders.map(f => {
+  const docs = DATA.documents.filter(d => d.folder === f.id);
+  return `<h3>${esc(f.id)} &middot; ${esc(f.desktop_path)}</h3>` + docs.map(d => {
+    const src = `assets/pages/${d.folder}/${d.file}`;
+    return `<article class="doc${d.wide ? " wide" : ""}" id="${esc(d.id)}">
+      <figure><a href="${esc(src)}"><img loading="lazy" src="${esc(src)}" alt="Scan of ${esc(d.file)}: ${esc(d.title)}"></a><figcaption>${esc(d.id)} &middot; ${esc(d.file)}</figcaption></figure>
+      <div><h3>${esc(d.title)}</h3><div class="meta">${esc(d.span)} &middot; ${esc(d.language)}</div>
+      <div class="tablewrap"><table><thead><tr><th>Entry</th><th>Date</th><th>From</th><th>Abstract</th><th>Reading</th></tr></thead><tbody>
+      ${d.entries.map(e => `<tr><td class="no">${esc(e.no)}</td><td class="date">${esc(e.date)}</td><td>${esc(e.from)}</td><td>${esc(e.abstract)}</td><td>${pill(e.reading)}</td></tr>`).join("")}
+      </tbody></table></div>
+      ${d.transcriptions.map(t => `<div class="tx"><h4>${esc(t.label)}</h4><p class="orig"><small>Original</small>${esc(t.original)}</p><p><small>English</small>${esc(t.english)}</p></div>`).join("")}
+      </div></article>`;
+  }).join("");
+}).join("") || `<p class="meta">No documents received yet.</p>`;
+
+$("cur-body").innerHTML = DATA.curiosities.map(c => `<article><div class="id">${esc(c.id)} &middot; <a href="#${esc(c.doc)}">${esc(c.doc)}</a></div><h3>${esc(c.title)}</h3><p>${esc(c.text)}</p></article>`).join("");
+
+$("folders-body").innerHTML = DATA.folders.map(f => row(f.id,
+  `<div class="head"><h3>${esc(f.desktop_path)}</h3>${pill(f.status)}</div>
+   <p>${esc(f.described_as)}</p>
+   <div class="meta">First seen <b>${esc(f.first_seen)}</b> &middot; files received <b>${f.files_received}</b> &middot; batches <b>${f.batches.map(esc).join(", ")}</b> &middot; archived at <b>${esc(f.archive_path)}</b>${f.completed ? " &middot; completed <b>" + esc(f.completed) + "</b>" : ""}</div>`)).join("") || `<p class="meta">No folders received yet.</p>`;
+
+$("priors-body").innerHTML = DATA.priors.map(p => row(p.id, `<p>${esc(p.text)}</p><div class="meta">${esc(p.origin)}</div>`)).join("");
+$("leads-body").innerHTML = DATA.leads.map(l => row(l.id, `<p>${esc(l.text)}</p><div class="meta">Bears on <b>${l.bears_on.map(esc).join(", ")}</b> &middot; <a href="${esc(l.url)}">source</a></div>`)).join("");
+$("req-body").innerHTML = DATA.requests.map(r => row(r.id, `<div class="head">${pill(r.status)}<span class="meta">raised ${esc(r.raised)}</span></div><p>${esc(r.text)}</p>`)).join("");
+$("sources-body").innerHTML = DATA.sources.map(s => row(s.id, `<h3>${esc(s.title)}</h3><div class="meta">${esc(s.type)} &middot; batch ${esc(s.batch)}</div><p>${esc(s.extract)}</p><p class="meta"><b>Reliability.</b> ${esc(s.reliability)}</p>`)).join("");
+const R = DATA.role;
+$("role-body").innerHTML = row(R.agent_id, `<p>${esc(R.brief)}</p><ul class="rules">${R.rules.map(x => `<li>${esc(x)}</li>`).join("")}</ul><p class="meta">${esc(R.note)} Assigned ${esc(R.assigned)} &middot; ${esc(R.model)}</p>`);
+$("foot").textContent = `Built ${DATA.built} from data/*.json. Last batch ${DATA.batches[DATA.batches.length - 1].id}.`;
+</script>
+</body>
+</html>

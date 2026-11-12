@@ -1,0 +1,71 @@
+[
+  {
+    "id": "B-000",
+    "date": "2026-11-11",
+    "title": "Baseline before any archive file",
+    "folder": null,
+    "files": 0,
+    "blurb": "No records yet. The line starts from one statement: Kevin Jr., born in Montréal in 1985, and his father Kevin John Duska, born in 1962. Everything above the father is either something Kevin said before this rebuild began (logged as priors, not as findings) or an inference. A first pass through public catalogues turned up where the parish registers for Senné and Iňačovce are held and one conflict to settle early: the 1869 census is reported not to survive for Ung county in the usual collection. Eight hypotheses are on the board, each with a confidence and a named test, so later batches can score them.",
+    "raised": [
+      "H-001",
+      "H-002",
+      "H-003",
+      "H-004",
+      "H-005",
+      "H-006",
+      "H-007",
+      "H-008"
+    ],
+    "resolved": [],
+    "people_added": [
+      "P-001",
+      "P-002"
+    ],
+    "sources_added": [
+      "S-000-1"
+    ]
+  },
+  {
+    "id": "B-001",
+    "date": "2026-11-11",
+    "title": "Senne Interesting Pages: a bishop's circulars, 1837 to 1840",
+    "folder": "F-001",
+    "files": 10,
+    "blurb": "Ten consecutive openings from one manuscript volume. It is not a register. It is a parish copy-book of circulars sent by János Hám, Bishop of Szatmár, and his vicar general between June 1837 and January 1840, checked and countersigned by the district vice-archdeacon. Internal evidence places it in the Nagykapos district of Ung county: a district meeting at N. Kapos on 14 May 1839, repeated business about the district library at Ungvár, and a local note recording a silk veil given by Theresia Kulin in August 1838. No Duska is named on any page. For the tree this batch is context. It shows the archive owner was working through Roman Catholic parish material filed under Senné, which nudges H-004 and H-005 up a little. It also gives a tariff of church fees from 1838 and a ten-year-old missing-husband notice that is kept under Curiosities.",
+    "raised": [
+      "H-009",
+      "H-010",
+      "H-011"
+    ],
+    "resolved": [
+      "H-009"
+    ],
+    "people_added": [],
+    "sources_added": [
+      "S-001"
+    ]
+  },
+  {
+    "id": "B-002",
+    "date": "2026-11-11",
+    "title": "Čičarovce: the first Demko on paper",
+    "folder": "F-002",
+    "files": 1,
+    "blurb": "One file: a single line cut from a baptism register. Entry 36 is Mihály, a legitimate son, born 19 August 1882 and baptised the next day. Father Demkó György, Greek Catholic, farmer. Mother Hreskó Mária, Roman Catholic. Home Viszoka, house 132. Godparents Varga Mihály and Hreskó Anna, both Roman Catholic. The strip has no page header, so the parish (Čičarovce) rests on the owner's file name. This is the first record that could connect to Ahn 9, Maria Demko, and it does not name her. What it does is put a Greek Catholic Demko farmer in Ung county in 1882, married across the rite line to a Roman Catholic. Two rival placements go on the board: Mihály as Maria's father (H-012) or as her brother (H-013). A third hypothesis (H-014) offers a reason her own record would be in Uzhhorod: if she was born after October 1895, the county copy of the civil register went to Ungvár. Nothing is added to the direct line yet. The three people are held as unplaced candidates.",
+    "raised": [
+      "H-012",
+      "H-013",
+      "H-014",
+      "H-015"
+    ],
+    "resolved": [],
+    "people_added": [
+      "K-001",
+      "K-002",
+      "K-003"
+    ],
+    "sources_added": [
+      "S-002"
+    ]
+  }
+]
