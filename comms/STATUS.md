@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-031 (read ledger v19). Requests R-001 to R-011 are with the owner; R-016 (Michal's own passenger list), R-015 (the 1921 census forms for Senné) and R-007 (any record of his age or parents) are first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-032 (read ledger v19). Requests R-001 to R-011 are with the owner; R-016 (Michal's own passenger list), R-015 (the 1921 census forms for Senné) and R-007 (any record of his age or parents) are first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -22,7 +22,7 @@ Updated 2026-11-12 after batch B-031 (read ledger v19). Requests R-001 to R-011 
 - F-008 `Presov - Greek Catholic` (4 files, complete): no Duska.
 - F-009 `Senne - Roman Catholic` (95 files, complete, closed by DUS at B-023): the Roman Catholic Duskas of Senné, 1866 to 1912. One text file of the owner's is held unopened.
 - F-010 `Baptisms (Final) Stare` (1 file, complete): baptism of an Anna Krak at Sztára, January 1848. Whether she is György Duska's wife is open (H-055, 20; rival H-056, 35).
-- F-011 `Duska Census` (three parts, 18 files, OPEN; part 2 is four census sheets of Solymos, [1869]): urbarial tables of Solymos (complete), Szenna (25 of 26 serfs), Csicser and Viszoka (one page each). Two Duskas at Solymos, none at Szenna. Five files of the owner's making are held unopened and one third-party transcription is unpublished.
+- F-011 `Duska Census` (four parts, 19 files, OPEN; part 4 is one 1930 census sheet from Beša; part 2 is four census sheets of Solymos, [1869]): urbarial tables of Solymos (complete), Szenna (25 of 26 serfs), Csicser and Viszoka (one page each). Two Duskas at Solymos, none at Szenna. Five files of the owner's making are held unopened and one third-party transcription is unpublished.
 
 ## Concluded
 

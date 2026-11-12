@@ -154,14 +154,15 @@
  {
   "id": "F-011",
   "desktop_path": "Duska Census",
-  "described_as": "Announced by the owner as 'Beginning Duska Census'. Part 1, '1767 - Urbanarium': eight images of urbarial tables for Solymos (three pages, one of them twice), Szenna (two pages), Csicser and Viszoka (one page each), with one word-processor file held unopened. More parts are expected. Part 2, '1869 Solymos Census Full': four census household sheets as photographs of a screen, four screenshots of them, and six files not published (four compiled pages unopened; a third party's transcription; the archive file). Part 3, '1921 Census Folder': two maps of Ung county and a guide to the 1921 census (held, summarised); census pages are expected to follow.",
+  "described_as": "Announced by the owner as 'Beginning Duska Census'. Part 1, '1767 - Urbanarium': eight images of urbarial tables for Solymos (three pages, one of them twice), Szenna (two pages), Csicser and Viszoka (one page each), with one word-processor file held unopened. More parts are expected. Part 2, '1869 Solymos Census Full': four census household sheets as photographs of a screen, four screenshots of them, and six files not published (four compiled pages unopened; a third party's transcription; the archive file). Part 3, '1921 Census Folder': two maps of Ung county and a guide to the 1921 census (held, summarised); census pages are expected to follow. Part 4, '1930 - BESA Whole Folder': one household sheet of the 1930 census, a Schwarcz family of Beša.",
   "status": "open",
   "first_seen": "2026-11-12",
-  "files_received": 18,
+  "files_received": 19,
   "batches": [
    "B-025",
    "B-027",
-   "B-028"
+   "B-028",
+   "B-032"
   ],
   "archive_path": "records/F-011_Duska-Census/"
  }

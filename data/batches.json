@@ -1588,6 +1588,30 @@
   "sources_added": [
    "S-000-10"
   ],
+  "committed_utc": "2026-11-12T08:45:17Z"
+ },
+ {
+  "id": "B-032",
+  "date": "2026-11-12",
+  "title": "A census sheet of 1930 from Beša: the Schwarcz household",
+  "folder": "F-011",
+  "files": 1,
+  "blurb": "Read ledger v19, unchanged. The owner sent a folder of one file, marked whole: a household sheet of the Czechoslovak census of 1930 for Beša, a village in the Veľké Kapušany district. It lists the family of Ignác Schwarcz, a Jewish merchant born in 1865: his wife Fanny, their son Lipót and his wife Hermin, and three grandchildren born from 1921 to 1926, each with a full date of birth. No Duska and no Demko is on it. Why it sits among the Duska census files is not said. The one Schwarz in this archive is Erzsébet Schwarz, the Catholic wife of György Duska the younger of Senné, and nothing here connects her with this house; the filing is logged as something known beforehand and no hypothesis is raised on a surname alone. What the sheet does show is what a 1930 form holds: exact birth dates, the year a person came to the village, and the home commune. A sheet like it for Senné would list Maria Duska and her son a year after his birth, and would say whether Michal was at home or already gone. That is added to the requests. Curiosities: 2",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [
+   "K-567",
+   "K-568",
+   "K-569",
+   "K-570",
+   "K-571",
+   "K-572",
+   "K-573"
+  ],
+  "sources_added": [
+   "S-255"
+  ],
   "committed_utc": null
  }
 ]

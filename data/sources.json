@@ -372,7 +372,7 @@
   "batch": "B-031",
   "type": "Statement by the subject",
   "title": "Kevin J.S. Duska Jr., Duska chat, 12 Nov 2026: his mother has died; his father's status is unknown",
-  "extract": "Of the 1984 declaration of marriage: 'mother is dead so no need to hold', and 'dont know if my father is alive fyi'.",
+  "extract": "Of the 1984 declaration of marriage: 'mother is dead so no need to hold', and 'dont know if my father is alive fyi'. Repeated when asked which mother was meant: 'she's very dead'.",
   "reliability": "First-hand: a son on his own mother. No record of her death is in hand. The second sentence repeats what the coordinator's ledger already records."
  },
  {
@@ -2110,5 +2110,13 @@
   "title": "Czechoslovak emigrant passport no. 305 of 1937, Maria Dušková née Demková",
   "extract": "The green cloth cover of the passport, numbered 3389, with the year 1937 in a box. No name on it.",
   "reliability": "An identity document issued by the district office at Michalovce; her date of birth as the office took it from her papers. The pile is the sorter's label and is not evidence. Custody: found by the owner among his grandfather's papers (S-000-9)."
+ },
+ {
+  "id": "S-255",
+  "batch": "B-032",
+  "type": "Census household sheet (original record, screen capture)",
+  "title": "Census of 1930, Beša, house 1[0]4: the household of Ignác Schwarcz",
+  "extract": "A household sheet of the Czechoslovak census of 1930, printed in Slovak and Hungarian and filled in in Hungarian: Beša, district of Veľké Kapušany, house 1[0]4, owner Ignác Schwarcz, for the night of 1 to 2 December 1930. Seven people, three generations. Ignác Schwarcz, house owner, born 2 March 1865, married, a merchant on his own account, in the village since January 1870. Fanny, his wife, born 8 August 1868, married in September 1886, mother of eight children of whom two are entered beside it. Lipót, their son, born 1 January 1888, married, a merchant. Hermin, their daughter-in-law, born 21 September 1894, married on 6 January 1920 and in the village from that day. The grandchildren Vilmos (8 March 1921), Edit (6 December 192[3]) and Tibor (6 October 1926). All are Czechoslovak citizens with their home commune at Beša; nationality is entered as Jewish and religion as Israelite; the adults read and write. There is no Duska and no Demko on the sheet. The owner's file is numbered 1 and his folder is called 'whole', so this is all he kept from Beša. The only Schwarz in this archive is Erzsébet Schwarz of Alsó-Ribnicze, the Catholic wife of György Duska the younger of Senné; nothing on this sheet connects the two.",
+  "reliability": "Dates of birth as the household gave them to the enumerator. Reading level: medium; the image is small. The owner's file name reads the head's given name as 'Igure'; the sheet has Ignác."
  }
 ]

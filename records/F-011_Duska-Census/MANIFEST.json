@@ -1,7 +1,7 @@
 {
   "folder_id": "F-011",
   "desktop_path": "Duska Census",
-  "note": "Part 1 of the folder, '1767 - Urbanarium' (the owner's spelling): 8 image files and one word-processor file, which is held unopened. Received through chat upload. Part 2, '1869 Solymos Census Full': four photographs of a screen (full size, taken from the archive file the owner sent), four screenshots of the same, and six files not published (see 'held'). Part 3, '1921 Census Folder': two maps of Ung county and one guide document (held, summarised).",
+  "note": "Part 1 of the folder, '1767 - Urbanarium' (the owner's spelling): 8 image files and one word-processor file, which is held unopened. Received through chat upload. Part 2, '1869 Solymos Census Full': four photographs of a screen (full size, taken from the archive file the owner sent), four screenshots of the same, and six files not published (see 'held'). Part 3, '1921 Census Folder': two maps of Ung county and one guide document (held, summarised). Part 4, '1930 - BESA Whole Folder': one census sheet.",
   "files": [
     {
       "file": "Andref_Duska_in_Solymos.png",
@@ -176,6 +176,15 @@
       "received": "2026-11-12",
       "via": "chat upload",
       "part": 3
+    },
+    {
+      "file": "Besa_-_1_-_House_of_Igure_Schwarz.png",
+      "sha256": "1821833d8f8fe1535b5c354d4d30cad3c46918dcf09e4d949188dba03812fe4b",
+      "bytes": 1203558,
+      "pixels": "1320x980",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 4
     }
   ],
   "held": [

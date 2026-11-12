@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-031. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-032. Read ledger v19.
+
+## 0000000000000000000000000. B-032 (12 Nov): one 1930 census sheet; nothing for the line
+
+Folder `DUS:F-011` part 4: `DUS:D-011-19`, census of 1930, Beša, a Schwarcz household. No Duska. Kevin files it with his Duska census material; the only Schwarz I hold is the wife of György Duska the younger. Logged as prior PR-11, no hypothesis (X-004). Kevin confirmed that the mother he meant at B-031 is his own. Read ledger v19. My pile has new files at private commit 73cf83d; next batch.
 
 ## 000000000000000000000000. B-031 (12 Nov): Kevin lifted one ground for holding the 1984 form; released in part
 

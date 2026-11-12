@@ -642,5 +642,27 @@
   "translation": "(the owner's words)",
   "why": "Papers that never left the family that used them are the best kind of evidence a household can hold.",
   "tone": "history"
+ },
+ {
+  "id": "C-075",
+  "doc": "D-011-19",
+  "source": "S-255",
+  "title": "Two questions where the old census had one",
+  "text": "The Hungarian census of 1869 asked a person's religion. The Czechoslovak census of 1930 asked religion and, in another column, nationality, and let Jews answer the second with 'Jewish' as well. In Ignác Schwarcz's house every line reads 'zsidó' in one column and 'izr.' in the next, written in Hungarian on a form printed first in Slovak.",
+  "original": "zsidó | izr.",
+  "translation": "Jewish [nationality] | Israelite [religion]",
+  "why": "Three states' ideas of who a person was, on one line of one form.",
+  "tone": "history"
+ },
+ {
+  "id": "C-076",
+  "doc": "D-011-19",
+  "source": "S-255",
+  "title": "The clerk's green pencil",
+  "text": "Over the enumerator's ink someone has written large green figures in cell after cell: 11, 22, 33, 80, 131. They are the statistical office's codes, added when the sheets were counted. The same hand has struck a long green line down each column it finished.",
+  "original": "(green pencil figures)",
+  "translation": "(codes)",
+  "why": "The marks show the sheet was used for its purpose, and they sit on top of some of the dates a reader most wants.",
+  "tone": "odd"
  }
 ]

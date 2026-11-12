@@ -6728,5 +6728,89 @@
   "relation": "Head of the dwelling in D-011-10 where János Duska's family lodged.",
   "route": "places",
   "route_note": "A household for the gazetteer."
+ },
+ {
+  "id": "K-567",
+  "name": "Ignác Schwarcz",
+  "vitals": "b. 2 Mar 1865; merchant and house owner, Beša 1[0]4, 1930; Jewish",
+  "proof": "documented",
+  "sources": [
+   "S-255"
+  ],
+  "relation": "In the household of Ignác Schwarcz, Beša, census of 1930 (D-011-19). Not shown to be connected with any Duska.",
+  "route": "places",
+  "route_note": "A household for the gazetteer; the only tie to this archive is a surname."
+ },
+ {
+  "id": "K-568",
+  "name": "Fanny Schwarcz",
+  "vitals": "b. 8 Aug 1868; wife of Ignác; married Sept 1886",
+  "proof": "documented",
+  "sources": [
+   "S-255"
+  ],
+  "relation": "In the household of Ignác Schwarcz, Beša, census of 1930 (D-011-19). Not shown to be connected with any Duska.",
+  "route": "places",
+  "route_note": "A household for the gazetteer; the only tie to this archive is a surname."
+ },
+ {
+  "id": "K-569",
+  "name": "Lipót Schwarcz",
+  "vitals": "b. 1 Jan 1888; son of Ignác; merchant, Beša, 1930",
+  "proof": "documented",
+  "sources": [
+   "S-255"
+  ],
+  "relation": "In the household of Ignác Schwarcz, Beša, census of 1930 (D-011-19). Not shown to be connected with any Duska.",
+  "route": "places",
+  "route_note": "A household for the gazetteer; the only tie to this archive is a surname."
+ },
+ {
+  "id": "K-570",
+  "name": "Hermin Schwarcz",
+  "vitals": "b. 21 Sept 1894; wife of Lipót; married 6 Jan 1920",
+  "proof": "documented",
+  "sources": [
+   "S-255"
+  ],
+  "relation": "In the household of Ignác Schwarcz, Beša, census of 1930 (D-011-19). Not shown to be connected with any Duska.",
+  "route": "places",
+  "route_note": "A household for the gazetteer; the only tie to this archive is a surname."
+ },
+ {
+  "id": "K-571",
+  "name": "Vilmos Schwarcz",
+  "vitals": "b. 8 Mar 1921, Beša",
+  "proof": "documented",
+  "sources": [
+   "S-255"
+  ],
+  "relation": "In the household of Ignác Schwarcz, Beša, census of 1930 (D-011-19). Not shown to be connected with any Duska.",
+  "route": "places",
+  "route_note": "A household for the gazetteer; the only tie to this archive is a surname."
+ },
+ {
+  "id": "K-572",
+  "name": "Edit Schwarcz",
+  "vitals": "b. 6 Dec 192[3], Beša",
+  "proof": "documented",
+  "sources": [
+   "S-255"
+  ],
+  "relation": "In the household of Ignác Schwarcz, Beša, census of 1930 (D-011-19). Not shown to be connected with any Duska.",
+  "route": "places",
+  "route_note": "A household for the gazetteer; the only tie to this archive is a surname."
+ },
+ {
+  "id": "K-573",
+  "name": "Tibor Schwarcz",
+  "vitals": "b. 6 Oct 1926, Beša",
+  "proof": "documented",
+  "sources": [
+   "S-255"
+  ],
+  "relation": "In the household of Ignác Schwarcz, Beša, census of 1930 (D-011-19). Not shown to be connected with any Duska.",
+  "route": "places",
+  "route_note": "A household for the gazetteer; the only tie to this archive is a surname."
  }
 ]
