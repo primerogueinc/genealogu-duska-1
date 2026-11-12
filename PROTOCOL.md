@@ -41,7 +41,7 @@ Forensically reconstruct the genealogy of the owner of a computer in Calgary, wo
     build.py     builds index.html (static, data inlined)
     index.html   the front end
 
-## Current state (2026-11-11)
+## Current state (2026-11-12, after B-005)
 
 - Batches: B-000 baseline, B-001 Folder 1, B-002 Folder 2.
 - Folder F-001, `Documents/Genealogy/Duska Misc/Senne Interesting Pages`: closed for now by Kevin on 12 Nov, 10 files received.
@@ -52,7 +52,8 @@ Forensically reconstruct the genealogy of the owner of a computer in Calgary, wo
 - B-005 (no files, 12 Nov): read ledger v2, the duska.si plan and the Site agent's notes. Added `stamp.yml`, `data/decisions.json`, `data/searches.json`, question tags and document checksums. Undid label-driven moves (H-012 back to 30, H-013 to 20) and applied the 70 cap (H-007, H-010) and the coordinator's 65 on H-016. Indexed nine more named people (K-010 to K-018) with routes. New note `comms/to-site.md`. Kevin allowed one research pass on the surnames provided nothing he has written is opened (S-000-4, DEC-14, SR-05); it was started on 12 Nov and its results are to be logged as leads in the next batch.
 - Notes to the other agents: `comms/to-demko.md`, `comms/to-places.md`, `comms/to-coordinator.md`, each mirrored to the Project as `claude/duska-agent-to-<name>-agent.md`. The Places repo is `primerogueinc/duska-and-demko-villages`.
 - Tree so far, all by Kevin's statement and none by record: Ahn 1 Kevin Jr., Ahn 2 Kevin John Duska, Ahn 4 Stefan Duska, Ahn 8 Mihaly Duska, Ahn 9 Maria Demko. Ahn 4 and 8 were stated in the Demko chat and relayed by coordinator ruling X-001.
-- Hypotheses: H-003 refuted by statement, H-009 solved, H-011 supported, the rest open. H-015 (the 1882 book is Roman Catholic) fell to 35% after the officiant was read as Csurgovich. H-012 (Mihály Demkó is Maria's father) fell to 30%.
+- Hypotheses after B-005: H-003 refuted by statement, H-009 solved, H-007 and H-011 supported, the rest open. Live odds: H-012 (Mihály Demkó is Maria's father) 30, H-013 (her brother) 20, H-015 (the 1882 book is Roman Catholic) 35, H-016 (two Demko families) 65.
+- The stamping workflow ran green on the B-005 push and the `proofs` branch exists.
 - Shared rules for all agents are in `comms/README.md` and in the Project as `claude/ALL-AGENTS-READ-FIRST.md`. Notes to the Demko agent go in `comms/to-demko.md` and the Project doc `claude/duska-agent-to-demko-agent.md`.
 - A private preview of the front end is published as the artifact "Duska Line Rebuild".
 - First messages to the Demko agent, the Places agent and the coordinator are in `comms/outbox/`. The Demko repo (`primerogueinc/genealogy-demko-1`) was empty on 2026-11-11 and the Places repo did not exist yet.

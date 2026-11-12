@@ -145,5 +145,23 @@
       "S-000-3",
       "S-000-4"
     ]
+  },
+  {
+    "id": "B-006",
+    "date": "2026-11-12",
+    "title": "Research pass on the surnames and villages",
+    "folder": null,
+    "files": 0,
+    "blurb": "No new files. The research pass Kevin allowed has reported, and its findings are logged as leads, not as findings. The one that matters most for the Duska line: the Iňačovce municipal website lists a Dúška family among the village's 18th-century households. That is a website, not a record, but it points at Iňačovce and not Senné as the older home of the name, so H-004 drops. On the Demko side the church geography is now sourced: Viszoka's Greek Catholics belonged to the Čičarovce Greek Catholic parish, and Csurgovich is a Greek Catholic clerical family, so H-015 (that the 1882 book is Roman Catholic) falls to 20. Linguists list Hreško and Hricko as separate surnames. No emigration record for a Duska or Demko from these villages was found, and no Demko in any list for Senné or Iňačovce. The report says nothing written by Kevin was met or used. It also discloses that one sub-search queried his connected Gmail for three terms and found nothing; that was not requested and has been reported.",
+    "raised": [],
+    "resolved": [],
+    "revised": [
+      "H-004",
+      "H-005",
+      "H-015",
+      "H-017"
+    ],
+    "people_added": [],
+    "sources_added": []
   }
 ]

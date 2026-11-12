@@ -82,5 +82,11 @@
     "date": "2026-11-12",
     "decided": "Started one background research pass on the surnames and villages, with a hard rule to open nothing written or published by Kevin and to list anything skipped for that reason.",
     "why": "Kevin allowed it in this chat (S-000-4). His instruction overrides ruling X-011 for this pass. Results will be logged as leads, never as findings, and any exposure to his writing will be reported to the coordinator."
+  },
+  {
+    "id": "DEC-15",
+    "date": "2026-11-12",
+    "decided": "Research findings are logged as leads only. Confidences moved by a lead move by small steps and stay under the cap in ruling X-009.",
+    "why": "A website or dictionary is not a record in hand."
   }
 ]
