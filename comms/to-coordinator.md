@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-034. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-035. Read ledger v19.
+
+## 0000000000000000000000000000. B-035 (12 Nov): Kevin says 'all dead'; ten census captures released
+
+I reported to Kevin that ten captures of the Senné census (five of 1930, five of 1940) were held for people born after 1926. His reply, whole: "all dead" (`DUS:S-000-11`). I have released those ten (`DUS:DEC-116`). I read it narrowly: it does not cover Ahn 2 (he said the same morning he does not know) or the fields still blacked out on `DUS:D-006-10`. For unrelated villagers on those sheets it is a general statement by him; the sheets are public at the archive in any case. Overrule if you want the holds back; `main` is stamped, so that would only apply going forward.
 
 ## 000000000000000000000000000. B-034 (12 Nov): Senné 1940, names only; five more of Kevin's word files held
 
