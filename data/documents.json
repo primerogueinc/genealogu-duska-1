@@ -10008,5 +10008,323 @@
     "english": "Year 1848. On [9] January: Anna, legitimate. Parents: János Krak, Roman Catholic, and Mária [Z]ebro, residents of Sztára. Godparents: János Lit[v]sa and Ágnes Groman. Baptised by the same [minister as the entry before]. The day is one doubtful figure. The mother's surname begins with a letter read as Z; D is possible. 'R.K.' stands between the two parents' names and may describe the father alone or both of them. The strip shows no page, no house number and nothing that names the church whose book this is."
    }
   ]
+ },
+ {
+  "id": "D-011-01",
+  "folder": "F-011",
+  "batch": "B-025",
+  "source": "S-238",
+  "file": "Andref_Duska_in_Solymos.png",
+  "sha256": "dd64c897af82d11e7aafedb3fff946a1226faaa1b847b0c6736e64f53a4a663a",
+  "wide": false,
+  "title": "Urbarial table of Solymos (Iňačovce), second page: cottars and sub-cottars",
+  "span": "[1767 or the few years after]",
+  "language": "Hungarian printed form; entries in Hungarian and Latin",
+  "collector_label": "Andref Duska in Solymos",
+  "family": null,
+  "route": "duska",
+  "part": 1,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed urbarial table (the 'Maria Theresa urbarium') filled in by hand, Ung county",
+   "page_or_image": "page numbered 27 at the foot",
+   "obtained": "From the owner's desktop folder 'Duska Census', part '1767 - Urbanarium' (his spelling), sent through chat. How he obtained it is not recorded.",
+   "catalogue_lead": "The Hungaricana archive portal's urbarial tables list 'Solymos (UNG)' with three landlords: Br. Vécsey István (29 serfs, 9 cottars, 8 sub-cottars), Kovács Ferenc (1, 2, 0) and Szirmay Sándor (5, 1, 1). That agrees with these pages to the man. The page gives no archive reference and no date. https://archives.hungaricana.hu/en/urberi/ung-solymos"
+  },
+  "entries": [
+   {
+    "no": "page",
+    "date": "[1767 or the few years after]",
+    "from": "Urbarial table (original record, small image)",
+    "abstract": "The second page of the table for Solymos, a village of the first class, where a full holding is 20 holds of arable and 10 mowers of meadow. It carries the running total forward, then lists serfs 27 to 29, housed cottars 1 to 9 and sub-cottars 1 to 8, all of the first landlord. The owner's file name says an 'Andref Duska' is here. The only András on the page is sub-cottar no. 8, and his surname is read here as [B]utka, not Duska: the first letter is not the D the same clerk writes in 'Duska Mihály' on the next page, and there is a t where the s should be. Housed cottar no. 9, György, has the same surname, and he cannot be the György Duska who is housed cottar no. 10 on the next page. The image is small and the reading is low, so this is a hypothesis (H-058), not a finding. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As far as it can be read. Square brackets mark doubtful or supplied readings; the figures are given for sample rows only.",
+    "original": "Possessio Solymos Classis 1mae cum Jug. 20 Falc. 10 || [printed Hungarian headings: Kereszt és Vezeték Nevek | Jobbágy Helynek Minémüsége | Jobbágy Helynek Mivolta: Belső (Posonyi Mérőre való); Külső (Szántó Föld Hold; Rét Ember Vágó) | Esztendőbéli Szolgálat avagy Robot: Marhás Robot [két marhával]; Vagy E. helyett kézi Szolgálat (Nap.) | Kilenczed | Adózások: Esztendőbéli Árenda (Flor.); Tüzre való Fa (öly); Fonyás (Font); Ki főzött Vaj (Icze); Kappany; Csibe; Tojás (No.)] || Translatum [...] || 27 Lakman György 1 | 28 Kavor Mihály ½ || Inquil. Domiciliati: 1 Thur András | 2 Kavor Ádám | 3 [R]ivak István | 4 Varga [Dávid] | 5 [Hrani] György | 6 [Bartak] György [each 18 days by hand, 1 florin] || Subinquilini: 1 Mo[js]e Mihály | 2 Polyak János | 3 Vahily Mihály | 4 Polyak György | 5 Tirpak Mihály | 6 S. Tirpak János | 7 Rusnak Gergely | 8 [B]utka András [each 12 days by hand] || 29 Kozero Pál 1 | 2 | 20 | 10 | 52 | 104 || Inquil. Domicil.: 7 [Fizak] Mihály | 8 [Seguda] [...] | 9 [B]utka György || Latus [...] || [written sideways] Nona in Natura exolvitur Canabe et Lino.",
+    "english": "The second page of the table for Solymos, a village of the first class, where a full holding is 20 holds of arable and 10 mowers of meadow. It carries the running total forward, then lists serfs 27 to 29, housed cottars 1 to 9 and sub-cottars 1 to 8, all of the first landlord. The owner's file name says an 'Andref Duska' is here. The only András on the page is sub-cottar no. 8, and his surname is read here as [B]utka, not Duska: the first letter is not the D the same clerk writes in 'Duska Mihály' on the next page, and there is a t where the s should be. Housed cottar no. 9, György, has the same surname, and he cannot be the György Duska who is housed cottar no. 10 on the next page. The image is small and the reading is low, so this is a hypothesis (H-058), not a finding. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs."
+   }
+  ]
+ },
+ {
+  "id": "D-011-02",
+  "folder": "F-011",
+  "batch": "B-025",
+  "source": "S-239",
+  "file": "Halas_in_Szenna.png",
+  "sha256": "95cfeb80bb82cea9fe2afb1cd026f27e4b7224eb5cf876af6d808bb3a1886b11",
+  "wide": false,
+  "title": "Urbarial table of Szenna (Senné), first page: the twenty serfs of the first landlord",
+  "span": "[1767 or the few years after]",
+  "language": "Hungarian printed form; entries in Hungarian and Latin",
+  "collector_label": "Halas in Szenna",
+  "family": null,
+  "route": "duska",
+  "part": 1,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed urbarial table (the 'Maria Theresa urbarium') filled in by hand, Ung county",
+   "page_or_image": "page numbered 26 at the foot",
+   "obtained": "From the owner's desktop folder 'Duska Census', part '1767 - Urbanarium' (his spelling), sent through chat. How he obtained it is not recorded.",
+   "catalogue_lead": "The Hungaricana archive portal's urbarial tables list 'Szenna (UNG)' with four landlords: Br. Vécsey István (20 serfs, 3 cottars, 2 sub-cottars), Gr. Barkóczy János (1, 0, 1), Szirmay Ádám (4, 2, 0) and the widow of László Turánszky (1, 0, 0). The two pages in hand hold all of these but the widow's one serf. The page gives no archive reference and no date. https://archives.hungaricana.hu/en/urberi/ung-szenna"
+  },
+  "entries": [
+   {
+    "no": "page",
+    "date": "[1767 or the few years after]",
+    "from": "Urbarial table (original record, small image)",
+    "abstract": "The first page of the table for Szenna. Twenty serfs bound to the land ('of perpetual obligation') under the Vécsey lord, every one with half a holding: 10 holds of arable, 5 mowers of meadow, 26 days of labour a year with animals or 52 by hand. Two are named Halas, György and János. No Duska is among the twenty. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As far as it can be read. Square brackets mark doubtful or supplied readings; the figures are given for sample rows only.",
+    "original": "Possessio Szenna Classis 1mae cum 20 Juger. 10 Falc. || [printed Hungarian headings: Kereszt és Vezeték Nevek | Jobbágy Helynek Minémüsége | Jobbágy Helynek Mivolta: Belső (Posonyi Mérőre való); Külső (Szántó Föld Hold; Rét Ember Vágó) | Esztendőbéli Szolgálat avagy Robot: Marhás Robot [két marhával]; Vagy E. helyett kézi Szolgálat (Nap.) | Kilenczed | Adózások: Esztendőbéli Árenda (Flor.); Tüzre való Fa (öly); Fonyás (Font); Ki főzött Vaj (Icze); Kappany; Csibe; Tojás (No.)] || Perpet. Obligationis | Dni [...] Vécsey || 1 Uhrincsák János | 2 Muha András | 3 Mol[nár] Mihály | 4 Han[csik] Márton | 5 Simcsák György | 6 Muha György | 7 [Pan]csikó Mihály | 8 Holub István | 9 Kovács János | 10 Halas György | 11 Szakács Márton | 12 Kusnir János | 13 Halas János | 14 Rákovszki István | 15 Fedor Pál | 16 Fedor András | 17 Macsko János | 18 To[ny]o János | 19 Muha Mihály | 20 Kolos János [each: ½ | 1 | 10 | 5 | 26 | 52 | 1 | ½ | 3 | ½ | 1 | 1 | 6] || Latus 10 | 20 | 200 | 100 | 520 | 1040 [...] || [sideways] Nona in Natura exolvitur Canabe et Lino.",
+    "english": "The first page of the table for Szenna. Twenty serfs bound to the land ('of perpetual obligation') under the Vécsey lord, every one with half a holding: 10 holds of arable, 5 mowers of meadow, 26 days of labour a year with animals or 52 by hand. Two are named Halas, György and János. No Duska is among the twenty. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs."
+   }
+  ]
+ },
+ {
+  "id": "D-011-03",
+  "folder": "F-011",
+  "batch": "B-025",
+  "source": "S-239",
+  "file": "Hornyaks_in_Szenna.png",
+  "sha256": "3211de8c6780a98a70c7c4b9a6327a49a2d28ea97d69bbc1aee46a454600adaa",
+  "wide": false,
+  "title": "Urbarial table of Szenna (Senné), second page: cottars and the smaller landlords' men",
+  "span": "[1767 or the few years after]",
+  "language": "Hungarian printed form; entries in Hungarian and Latin",
+  "collector_label": "Hornyaks in Szenna",
+  "family": null,
+  "route": "duska",
+  "part": 1,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed urbarial table (the 'Maria Theresa urbarium') filled in by hand, Ung county",
+   "page_or_image": "page numbered 27 at the foot",
+   "obtained": "From the owner's desktop folder 'Duska Census', part '1767 - Urbanarium' (his spelling), sent through chat. How he obtained it is not recorded.",
+   "catalogue_lead": "The Hungaricana archive portal's urbarial tables list 'Szenna (UNG)' with four landlords: Br. Vécsey István (20 serfs, 3 cottars, 2 sub-cottars), Gr. Barkóczy János (1, 0, 1), Szirmay Ádám (4, 2, 0) and the widow of László Turánszky (1, 0, 0). The two pages in hand hold all of these but the widow's one serf. The page gives no archive reference and no date. https://archives.hungaricana.hu/en/urberi/ung-szenna"
+  },
+  "entries": [
+   {
+    "no": "page",
+    "date": "[1767 or the few years after]",
+    "from": "Urbarial table (original record, small image)",
+    "abstract": "The second page for Szenna: the first landlord's three housed cottars and two sub-cottars; then four serfs of the Szirmay lord, three of them named Hornyák (Mihály, Márton, Imre), with two cottars, one a János Hornyák; then one serf and one sub-cottar of the Barkóczy lord. With the first page this makes 25 serfs, 5 housed cottars and 3 sub-cottars. The catalogue lead says the village had 26 serfs, so one man, the serf of a fourth landlord, is on a page not in hand. No Duska is on either page. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As far as it can be read. Square brackets mark doubtful or supplied readings; the figures are given for sample rows only.",
+    "original": "Szenna Classis 1mae cum 20 Jug. 10 Falc. || Perpet. Obligationis || Translat. 10 | 20 | 200 | 100 | 520 | 1040 || Inquil. Domiciliati: 1 Hankovszki Mihály | 2 D[zu]d[zá]s János | 3 Horn[yi] Lukács || Subinquilini: 1 Mi[gy]o János | 2 Szabo Mátyás || Dni Szirmay: 21 Hornyák Mihály | 22 Hornyák Márton | 23 Bobik György | 24 Hornyák Imre [each ½] || Inquil. Domiciliati: 4 [K]elebar Lukács | 5 Hornyák János || [Dni Joan. Barkóczy]: 25 Csizmár János ½ || Subinquilinus: 3 Csizmár György || Latus 12½ | 25 | 250 | 125 | 650 | 1[3]00 [...]",
+    "english": "The second page for Szenna: the first landlord's three housed cottars and two sub-cottars; then four serfs of the Szirmay lord, three of them named Hornyák (Mihály, Márton, Imre), with two cottars, one a János Hornyák; then one serf and one sub-cottar of the Barkóczy lord. With the first page this makes 25 serfs, 5 housed cottars and 3 sub-cottars. The catalogue lead says the village had 26 serfs, so one man, the serf of a fourth landlord, is on a page not in hand. No Duska is on either page. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs."
+   }
+  ]
+ },
+ {
+  "id": "D-011-04",
+  "folder": "F-011",
+  "batch": "B-025",
+  "source": "S-238",
+  "file": "Knyerso_and_Hudak_in_Solymos.png",
+  "sha256": "ec73f697af544643e5891172f93677f9f8632e1e2267d3206e2ddb740d8259b9",
+  "wide": false,
+  "title": "Urbarial table of Solymos (Iňačovce), first page: serfs 1 to 26",
+  "span": "[1767 or the few years after]",
+  "language": "Hungarian printed form; entries in Hungarian and Latin",
+  "collector_label": "Knyerso and Hudak in Solymos",
+  "family": null,
+  "route": "demko",
+  "part": 1,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed urbarial table (the 'Maria Theresa urbarium') filled in by hand, Ung county",
+   "page_or_image": "page numbered 26 at the foot",
+   "obtained": "From the owner's desktop folder 'Duska Census', part '1767 - Urbanarium' (his spelling), sent through chat. How he obtained it is not recorded.",
+   "catalogue_lead": "The Hungaricana archive portal's urbarial tables list 'Solymos (UNG)' with three landlords: Br. Vécsey István (29 serfs, 9 cottars, 8 sub-cottars), Kovács Ferenc (1, 2, 0) and Szirmay Sándor (5, 1, 1). That agrees with these pages to the man. The page gives no archive reference and no date. https://archives.hungaricana.hu/en/urberi/ung-solymos"
+  },
+  "entries": [
+   {
+    "no": "page",
+    "date": "[1767 or the few years after]",
+    "from": "Urbarial table (original record, small image)",
+    "abstract": "The first page for Solymos: 26 serfs of the Vécsey lord, bound to the land, nearly all with a whole holding. Among them György and András Hudák, Gergely Kocsis, and no. 4, whose surname begins 'Kn' and is read with doubt as Knyezsovszki; the owner's label reads it as Knyezso. No Duska on this page. Many surnames are read from a small image and are doubtful. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As far as it can be read. Square brackets mark doubtful or supplied readings; the figures are given for sample rows only.",
+    "original": "Possessio Solymos Classis 1mae cum 20 Jug. 10 Falc. || [printed Hungarian headings: Kereszt és Vezeték Nevek | Jobbágy Helynek Minémüsége | Jobbágy Helynek Mivolta: Belső (Posonyi Mérőre való); Külső (Szántó Föld Hold; Rét Ember Vágó) | Esztendőbéli Szolgálat avagy Robot: Marhás Robot [két marhával]; Vagy E. helyett kézi Szolgálat (Nap.) | Kilenczed | Adózások: Esztendőbéli Árenda (Flor.); Tüzre való Fa (öly); Fonyás (Font); Ki főzött Vaj (Icze); Kappany; Csibe; Tojás (No.)] || Illmi Dni [...] Vécsey | Coloni per. Obligat. || 1 Szabo András | 2 Hudák György | 3 [Kelos] Mitro | 4 S. Kn[y]e[zsov]szk[i] Mihály | 5 Rusnák János | 6 Kavor Ádám | 7 Va[sk]alis András | 8 Kocsis Gergely | 9 Kozero Pál | 10 Gyurma György | 11 K[en]dera Márton | 12 Kokolis Gergely | 13 Ki[sk]an Pál | 14 Jacab András | 15 Sztankala Pál | 16 Olah János ½ | 17 Gerzak János | 18 S. Tabak János | 19 Bal[enk] János | 20 Babicsik György | 21 Papacs György | 22 [...] V[ik]tor | 23 Kovcsak János ½ | 24 [Hvizák] János | 25 Kovcsak András | 26 Hudák András ½ [whole holdings: 1 | 2 | 20 | 10 | 52 | 104 | 1 | 1 | 6 | 1 | 2 | 2 | 12] || Latus 24½ [...]",
+    "english": "The first page for Solymos: 26 serfs of the Vécsey lord, bound to the land, nearly all with a whole holding. Among them György and András Hudák, Gergely Kocsis, and no. 4, whose surname begins 'Kn' and is read with doubt as Knyezsovszki; the owner's label reads it as Knyezso. No Duska on this page. Many surnames are read from a small image and are doubtful. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs."
+   }
+  ]
+ },
+ {
+  "id": "D-011-05",
+  "folder": "F-011",
+  "batch": "B-025",
+  "source": "S-240",
+  "file": "Kocsis_in_Csicser_Cicarovce.png",
+  "sha256": "99d195642529f00774cf7ed839670721712f523a9c77270316c43c1ccbee7eef",
+  "wide": false,
+  "title": "Urbarial table of Csicser (Čičarovce), one page: a János Kocsis among the free tenants",
+  "span": "[1767 or the few years after]",
+  "language": "Hungarian printed form; entries in Hungarian and Latin",
+  "collector_label": "Kocsis in Csicser Cicarovce",
+  "family": null,
+  "route": "demko",
+  "part": 1,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed urbarial table (the 'Maria Theresa urbarium') filled in by hand, Ung county",
+   "page_or_image": "page numbered 26 at the foot",
+   "obtained": "From the owner's desktop folder 'Duska Census', part '1767 - Urbanarium' (his spelling), sent through chat. How he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "page",
+    "date": "[1767 or the few years after]",
+    "from": "Urbarial table (original record, small image)",
+    "abstract": "One page of the table for Csicser, with names in Latin form. Under the lord Gáspár Orosz are three serfs bound to the land and two 'of free movement', who could leave: the second of these is Joannes Kocsis, with half a holding. Twenty-two serfs of four landlords are on the page, which ends with a running total, so the village continues. No Duska and no Demko. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As far as it can be read. Square brackets mark doubtful or supplied readings; the figures are given for sample rows only.",
+    "original": "Possessio Csicser Classis 1mae cum Juger. 20 Falc. 10 || [printed Hungarian headings: Kereszt és Vezeték Nevek | Jobbágy Helynek Minémüsége | Jobbágy Helynek Mivolta: Belső (Posonyi Mérőre való); Külső (Szántó Föld Hold; Rét Ember Vágó) | Esztendőbéli Szolgálat avagy Robot: Marhás Robot [két marhával]; Vagy E. helyett kézi Szolgálat (Nap.) | Kilenczed | Adózások: Esztendőbéli Árenda (Flor.); Tüzre való Fa (öly); Fonyás (Font); Ki főzött Vaj (Icze); Kappany; Csibe; Tojás (No.)] || Coloni Perp. Obligationis | Dni Gaspar Orosz || 1 Sen. Joann. Haluska | 2 Jun. Joann. Haluska | 3 Franc. Haluska || Coloni Liberae Migrat.: 4 Joannes Lu[cs]an | 5 Joannes Kocsis ½ || Inquil. Dom. Lib. Migr.: 1 Andr. Ol[exi]on | 2 Franc. Sipos || Coloni perp. Obligat. | Dni Alex. [...]: 6 Mich. Toth | 7 Mich. Bal[la] | 8 Steph. Or[cho] | 9 Joann. Bakai | 10 Geor. Bakai || D. Francisci [Kapiana] | Col. perp. Obligationis: 11 Paulus Varga | 12 Stephan. Varga | 13 Joann. Lengyel | 14 Mich. Takács | 15 Stephan. Erdélyi | 16 Georg. D[óu]s | 17 [Bar...] Varga | 18 Mich. Lengyel || Inquil. Dom. Perp. Oblig.: 3 Stephan. Lengyel || Dni Math. Bo[ny]ács | Colon. Perp. Obligationis: 19 Joannes Varga | 20 Stephan. Sz[ent]györgyi | 21 Georg. Varga | 22 Joann. Takács || Latus [...] || [sideways] Nona in Natura exolvitur Canabe & Lino.",
+    "english": "One page of the table for Csicser, with names in Latin form. Under the lord Gáspár Orosz are three serfs bound to the land and two 'of free movement', who could leave: the second of these is Joannes Kocsis, with half a holding. Twenty-two serfs of four landlords are on the page, which ends with a running total, so the village continues. No Duska and no Demko. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs."
+   }
+  ]
+ },
+ {
+  "id": "D-011-06",
+  "folder": "F-011",
+  "batch": "B-025",
+  "source": "S-241",
+  "file": "Michael_Demko_in_Viszoka.png",
+  "sha256": "c3840e7c5de853893a4af55211f048bddbc895be7bc90b37720c17aadddc5c4f",
+  "wide": false,
+  "title": "Urbarial table of Viszoka (Vysoká nad Uhom), the whole village on one page: Michael Demko, serf of the convent of Lelesz",
+  "span": "[1767 or the few years after]",
+  "language": "Hungarian printed form; entries in Hungarian and Latin",
+  "collector_label": "Michael Demko in Viszoka",
+  "family": null,
+  "route": "demko",
+  "part": 1,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed urbarial table (the 'Maria Theresa urbarium') filled in by hand, Ung county",
+   "page_or_image": "page numbered 26 [?] at the foot; signed and sealed",
+   "obtained": "From the owner's desktop folder 'Duska Census', part '1767 - Urbanarium' (his spelling), sent through chat. How he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "page",
+    "date": "[1767 or the few years after]",
+    "from": "Urbarial table (original record, small image)",
+    "abstract": "The table for Viszoka on a single sealed page: 15 serfs, 3 housed cottars and 7 sub-cottars, all bound to the land and all under one lord, the convent of Lelesz. Serf no. 6 is Michael Demko, with a whole holding: 20 holds of arable, 10 mowers of meadow, 52 days a year with his animals or 104 by hand. Serf no. 4, Andreas, has a surname that begins 'De' and may also be Demko. The total of 12 holdings matches nine whole and six half, so the list is complete. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As far as it can be read. Square brackets mark doubtful or supplied readings; the figures are given for sample rows only.",
+    "original": "Possessio Viszoka 1ae Classis cum 20 Juger. [...] || [printed Hungarian headings: Kereszt és Vezeték Nevek | Jobbágy Helynek Minémüsége | Jobbágy Helynek Mivolta: Belső (Posonyi Mérőre való); Külső (Szántó Föld Hold; Rét Ember Vágó) | Esztendőbéli Szolgálat avagy Robot: Marhás Robot [két marhával]; Vagy E. helyett kézi Szolgálat (Nap.) | Kilenczed | Adózások: Esztendőbéli Árenda (Flor.); Tüzre való Fa (öly); Fonyás (Font); Ki főzött Vaj (Icze); Kappany; Csibe; Tojás (No.)] || V. Conventus [...] de Lelesz | Coloni perp. Obligat. || 1 Joannes Sol[cis] | 2 Georgius Kontra | 3 Joannes Kontra | 4 Andreas De[ndó]k [or Demko] | 5 Michael [Hrehó] | 6 Michael Demko | 7 Andreas Toth | 8 Georgius Toth | 9 Michael Sol[cis] [each 1 | 2 | 20 | 10 | 52 | 104] | 10 Joannes Rusnák | 11 Joannes Takács | 12 Georgius H[rabb] | 13 Joannes K[usz]ka | 14 Petrus Toth | 15 Mich. Toth [each ½] || Inquilini Domiciliati: 1 Joannes An[tu]s | 2 Andreas Hreho | 3 Petrus Polov[án] || Subinquilini: 1 Lucas Ivan | 2 Joannes Veres | 3 Joannes Kiss | 4 Lukas [Sigan] | 5 Georgius Sz[űc]s | 6 Joannes Sol[cis] | 7 Joannes Toth || Summa 12 | 24 | 240 [...] || [two red wax seals and signatures]",
+    "english": "The table for Viszoka on a single sealed page: 15 serfs, 3 housed cottars and 7 sub-cottars, all bound to the land and all under one lord, the convent of Lelesz. Serf no. 6 is Michael Demko, with a whole holding: 20 holds of arable, 10 mowers of meadow, 52 days a year with his animals or 104 by hand. Serf no. 4, Andreas, has a surname that begins 'De' and may also be Demko. The total of 12 holdings matches nine whole and six half, so the list is complete. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs."
+   }
+  ]
+ },
+ {
+  "id": "D-011-07",
+  "folder": "F-011",
+  "batch": "B-025",
+  "source": "S-238",
+  "file": "Mihaly_Duska_-_2_in_Solymos.png",
+  "sha256": "2a27be9693885a8dd346d53fd92df2c993231ccf8416e825b0f3e4f355e4efe9",
+  "wide": false,
+  "title": "Urbarial table of Solymos (Iňačovce), last page: Mihály Duska, serf, and György Duska, cottar (image with the seal's flap lifted)",
+  "span": "[1767 or the few years after]",
+  "language": "Hungarian printed form; entries in Hungarian and Latin",
+  "collector_label": "Mihaly Duska - 2 in Solymos",
+  "family": null,
+  "route": "duska",
+  "part": 1,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed urbarial table (the 'Maria Theresa urbarium') filled in by hand, Ung county",
+   "page_or_image": "page numbered 28 at the foot; signed and sealed",
+   "obtained": "From the owner's desktop folder 'Duska Census', part '1767 - Urbanarium' (his spelling), sent through chat. How he obtained it is not recorded.",
+   "catalogue_lead": "The Hungaricana archive portal's urbarial tables list 'Solymos (UNG)' with three landlords: Br. Vécsey István (29 serfs, 9 cottars, 8 sub-cottars), Kovács Ferenc (1, 2, 0) and Szirmay Sándor (5, 1, 1). That agrees with these pages to the man. The page gives no archive reference and no date. https://archives.hungaricana.hu/en/urberi/ung-solymos"
+  },
+  "entries": [
+   {
+    "no": "page",
+    "date": "[1767 or the few years after]",
+    "from": "Urbarial table (original record, small image)",
+    "abstract": "A second image of the page in D-011-08, smaller, taken with the flap of the paper seal lifted. Everything read there is read here as well: no. 33 Duska Mihály with a whole holding; housed cottar no. 10 Dus[ch]a György; 35 serfs, 12 housed cottars and 9 sub-cottars in the village.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As far as it can be read. Square brackets mark doubtful or supplied readings; the figures are given for sample rows only.",
+    "original": "[the same page as D-011-08; see the transcription there. In this image the paper seal's flap is folded up and red wax shows under it.]",
+    "english": "A second image of the page in D-011-08, smaller, taken with the flap of the paper seal lifted. Everything read there is read here as well: no. 33 Duska Mihály with a whole holding; housed cottar no. 10 Dus[ch]a György; 35 serfs, 12 housed cottars and 9 sub-cottars in the village."
+   }
+  ]
+ },
+ {
+  "id": "D-011-08",
+  "folder": "F-011",
+  "batch": "B-025",
+  "source": "S-238",
+  "file": "Mihaly_Duska_in_Solymos.png",
+  "sha256": "9fd08bc70fbe3a4f390ae481d9763818166a888112d8b701d028102c61cc54ce",
+  "wide": false,
+  "title": "Urbarial table of Solymos (Iňačovce), last page: Mihály Duska, serf, and György Duska, cottar",
+  "span": "[1767 or the few years after]",
+  "language": "Hungarian printed form; entries in Hungarian and Latin",
+  "collector_label": "Mihaly Duska in Solymos",
+  "family": null,
+  "route": "duska",
+  "part": 1,
+  "provenance": {
+   "archive": "unknown; not on the image",
+   "fond_or_film": "unknown",
+   "book": "Printed urbarial table (the 'Maria Theresa urbarium') filled in by hand, Ung county",
+   "page_or_image": "page numbered 28 at the foot; signed and sealed",
+   "obtained": "From the owner's desktop folder 'Duska Census', part '1767 - Urbanarium' (his spelling), sent through chat. How he obtained it is not recorded.",
+   "catalogue_lead": "The Hungaricana archive portal's urbarial tables list 'Solymos (UNG)' with three landlords: Br. Vécsey István (29 serfs, 9 cottars, 8 sub-cottars), Kovács Ferenc (1, 2, 0) and Szirmay Sándor (5, 1, 1). That agrees with these pages to the man. The page gives no archive reference and no date. https://archives.hungaricana.hu/en/urberi/ung-solymos"
+  },
+  "entries": [
+   {
+    "no": "page",
+    "date": "[1767 or the few years after]",
+    "from": "Urbarial table (original record, small image)",
+    "abstract": "The last page for Solymos. Under the lord Sándor Szirmay are five serfs, and no. 33 is Mihály Duska, with a whole holding: a house plot of 2 Pozsony measures, 20 holds of arable and 10 mowers of meadow. For it he owes 52 days of labour a year with his draught animals or 104 by hand, a florin of rent, a cord of firewood, six pounds of spun yarn, an icce of clarified butter, two capons, two chickens and twelve eggs, and the ninth of his crop paid in kind, in hemp and flax. Below him, the same lord's one housed cottar is György Duska, written 'Dus[ch]a': he has a house and no land, and owes 18 days by hand and a florin. The page closes the village: 35 serfs, 12 housed cottars, 9 sub-cottars, 32 holdings. With the two pages before it, every household head of Solymos is in hand, and these are the only two certain Duskas. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As far as it can be read. Square brackets mark doubtful or supplied readings; the figures are given for sample rows only.",
+    "original": "Possessio Solymos Classis 1mae cum 20 Jug. 10 Falc. || [printed Hungarian headings: Kereszt és Vezeték Nevek | Jobbágy Helynek Minémüsége | Jobbágy Helynek Mivolta: Belső (Posonyi Mérőre való); Külső (Szántó Föld Hold; Rét Ember Vágó) | Esztendőbéli Szolgálat avagy Robot: Marhás Robot [két marhával]; Vagy E. helyett kézi Szolgálat (Nap.) | Kilenczed | Adózások: Esztendőbéli Árenda (Flor.); Tüzre való Fa (öly); Fonyás (Font); Ki főzött Vaj (Icze); Kappany; Csibe; Tojás (No.)] || Translatum 27 | 54 | 540 | 270 | 1404 | [2808] [...] || Spb. Dni Alexandri Szirmai || 30 [Pri]bski Sándor 1 | 2 | 20 | 10 | 52 | 104 || 31 Tirpak András ½ | 1 | 10 | 5 | 26 | 52 || 32 Kudrocs Tamás 1 | 2 | 20 | 10 | 52 | 104 || 33 Duska Mihály 1 | 2 | 20 | 10 | 52 | 104 | 1 | 1 | 6 | 1 | 2 | 2 | 12 || 34 Mar[cs]in András 1 | 2 | 20 | 10 | 52 | 104 || Inquil. Domicil.: 10 Dus[ch]a György – | – | – | – | – | 18 | 1 || Subinquilinus: 9 Olach György – | 12 || Dni Kovács: 35 Cs[uc]a Danko ½ | 1 | 10 | 5 | 26 | 52 || Inquil. Domic.: 11 Lukacsin János | 12 Thur Gergely || Summa 32 | 64 | 640 [...] || Coloni sunt 35. Inquilini 12. Subinquil. 9. [Educill. Mer.] 2. || [sideways] Nona in Natura exolvitur Canabe et Lino. || [signatures; one paper seal and two red wax seals]",
+    "english": "The last page for Solymos. Under the lord Sándor Szirmay are five serfs, and no. 33 is Mihály Duska, with a whole holding: a house plot of 2 Pozsony measures, 20 holds of arable and 10 mowers of meadow. For it he owes 52 days of labour a year with his draught animals or 104 by hand, a florin of rent, a cord of firewood, six pounds of spun yarn, an icce of clarified butter, two capons, two chickens and twelve eggs, and the ninth of his crop paid in kind, in hemp and flax. Below him, the same lord's one housed cottar is György Duska, written 'Dus[ch]a': he has a house and no land, and owes 18 days by hand and a florin. The page closes the village: 35 serfs, 12 housed cottars, 9 sub-cottars, 32 holdings. With the two pages before it, every household head of Solymos is in hand, and these are the only two certain Duskas. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs."
+   }
+  ]
  }
 ]

@@ -1,182 +1,192 @@
 [
-  {
-    "id": "L-001",
-    "text": "Senné was Szenna (Ungszenna) in Ung county. Its Roman Catholic register of births, marriages and deaths, 1831-1926, was microfilmed; the originals are in the Prešov state archive. Per the Places agent (note of 12 Nov 2026): films 1793682 and 1793683; in this title baptisms run 1866 to 1912, marriages 1863 to 1926, deaths 1831 to 1925, and earlier baptisms are in older volumes not yet traced.",
-    "url": "https://www.familysearch.org/en/search/catalog/710997",
-    "bears_on": [
-      "H-004",
-      "H-005"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-002",
-    "text": "Iňačovce was Solymos in Ung county. Listed registers: Greek Catholic 1811-1898, Reformed 1747-1940, Roman Catholic 1863-1926.",
-    "url": "https://en.wikipedia.org/wiki/I%C5%88a%C4%8Dovce",
-    "bears_on": [
-      "H-004",
-      "H-005"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-003",
-    "text": "FamilySearch catalogues Greek Catholic records of the Mukachevo Eparchy for Ungvár / Užhorod and the Ung district, 1826-1938. Candidate home for the Maria Demko entry.",
-    "url": "https://www.familysearch.org/search/catalog/1411329",
-    "bears_on": [
-      "H-006"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-004",
-    "text": "A FamilySearch community thread reports that none of the surviving 1869 census sheets in the Slovakia collection are from Ung county. This conflicts with PR-3 and needs the original image to settle.",
-    "url": "https://community.familysearch.org/en/discussion/125119/where-to-find-1869-slovak-census-magyarkelecseny-ung-klacany-kapusianske-klacany",
-    "bears_on": [
-      "H-007"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-005",
-    "text": "Montreal Gazette, 13 Feb 1928, p. 12: a John Duska burned by molten copper at Port Colborne, Ontario. No connection shown. Worth checking against H-002 and H-003.",
-    "url": "https://www.newspapers.com/article/the-gazette-john-duska-burned-by-molten/94295882/",
-    "bears_on": [
-      "H-002",
-      "H-003"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-006",
-    "text": "The Iňačovce municipal website names Dúška among the families living in the village in the 18th century, and says the village was resettled after 1720 from northern Ung and Zemplén. A village website with no archive reference; the source list behind it has not been seen.",
-    "url": "https://obecinacovce.sk/podstranka?stranka=1116",
-    "bears_on": [
-      "H-004",
-      "H-005"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-007",
-    "text": "Viszoka had no Greek Catholic parish of its own in the 19th century. Its Greek Catholics belonged to the Čičarovce (Csicser) Greek Catholic parish from about 1806. Čičarovce was the seat of three parishes at once: Roman Catholic, Greek Catholic and Reformed.",
-    "url": "https://www.obeccicarovce.sk/cirkev.html",
-    "bears_on": [
-      "H-015"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-008",
-    "text": "Greek Catholic registers of Čičarovce are reported kept from 1789 and held complete at the State Archive in Prešov. Greek Catholic registers of Iňačovce, which served Senné, run from 1811.",
-    "url": "https://www.geni.sk/greckokatolicke-matriky/",
-    "bears_on": [
-      "H-006",
-      "H-015"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-009",
-    "text": "Csurgovich is a Greek Catholic clerical family of the Mukachevo eparchy: a canon Joannes Csurgovich and a teacher Andreas Csurgovich appear in the 1843 schematism. Where the priest of 1882 served was not established.",
-    "url": "https://archive.org/stream/schematismusvene1843cath/schematismusvene1843cath_djvu.txt",
-    "bears_on": [
-      "H-015"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-010",
-    "text": "A Slovak Academy of Sciences booklet lists Hreško and Hricko as separate surnames, both formed from Gregor.",
-    "url": "https://www.juls.savba.sk/attachments/pub_studnica_2/studnica2.pdf",
-    "bears_on": [
-      "H-017"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-011",
-    "text": "Belža is a Greek Catholic parish whose filials today include Gyňov and Seňa. No 1890s directory was seen to confirm the same for 1894 to 1895.",
-    "url": "https://www.grkatke.sk/farnost/farnost-belza/",
-    "bears_on": [
-      "H-018"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-012",
-    "text": "The Senné municipal history: a Roman Catholic parish under Szatmár from 1804 with Stretavka and Iňačovce among its filials; oldest surviving registers from 1778; in 1904 the village counted 484 Roman Catholics and 231 Greek Catholics. It names no Duska or Demko.",
-    "url": "https://www.obecsenne.sk/zivot-v-obci/historia",
-    "bears_on": [
-      "H-005",
-      "H-010"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-013",
-    "text": "The 1869 census for Ung county is reported held in the Uzhhorod archives and was not filmed by FamilySearch.",
-    "url": "https://www.jewishgen.org/databases/Hungary/1869UngCensus.html",
-    "bears_on": [
-      "H-007"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-014",
-    "text": "The Kulin family held land at Kisszeretva (Stretavka) in the urbarial tables of the 1770s; their noble predicate was bánhegyesi, so \"de K. Sz.\" in 1838 is more likely a residence than a title.",
-    "url": "https://archives.hungaricana.hu/hu/urberi/ung-kisszeretva/?list=eyJxdWVyeSI6ICJNRUdZPVVORyJ9",
-    "bears_on": [
-      "H-010"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-015",
-    "text": "A regional association's page on Senné says many emigrated between 1870 and 1890.",
-    "url": "https://medziriekami.sk/senne/",
-    "bears_on": [
-      "H-001",
-      "H-002"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-016",
-    "text": "The Dictionary of American Family Names derives Demko from a pet form of Demeter or Demyan. The name arose in many villages independently and says nothing about rite or ethnicity.",
-    "url": "https://www.ancestry.ca/name-origin?surname=demko",
-    "bears_on": [
-      "H-016"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-017",
-    "text": "Places agent, from the Prešov state archive's catalogue of church registers (PL-R-003, PL-S-075, note PL-N-026 @208af51): the Iňačovce Greek Catholic register is four volumes on film 88: no. 380 (1811 to 1831, Latin), no. 381 (1831 to 1859, Church Slavonic, Latin, Hungarian), no. 382 (births 1861 to 1870, Latin) and no. 383 (births 1870 to 1898). Births of 1860 are in no listed volume. Its district is Iňačovce, Jastrabie, Senné and Stretava. Which volume and page each of the 58 strips of folder F-005 comes from is not established.",
-    "url": "https://github.com/primerogueinc/duska-and-demko-villages/blob/208af51/interagent/to-duska.md",
-    "bears_on": [
-      "H-035",
-      "H-036"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-018",
-    "text": "Places agent (same catalogue, @208af51): Senné Roman Catholic births exist at Prešov only from 1866, in volume no. 1089; deaths are in no. 1091 (1831 to 1886) and no. 1093 (1887 to 1925). The baptism of Michal Duska, if he was born at Senné between 1895 and 1908, should be in no. 1089; burials that would test a reused name are in no. 1093.",
-    "url": "https://github.com/primerogueinc/duska-and-demko-villages/blob/208af51/interagent/to-duska.md",
-    "bears_on": [
-      "H-030",
-      "H-035"
-    ],
-    "proof": "lead"
-  },
-  {
-    "id": "L-019",
-    "text": "Places agent (PL-R-005 @208af51): the Reformed of Iňačovce have a register of their own within the Lúčky parish, no. 592/1: births 1819 to 1927, marriages 1820 to 1926, deaths 1819 to 1936. This is where Anna Duska, Reformed, mother at Solymos 43 in 1894, should be sought.",
-    "url": "https://github.com/primerogueinc/duska-and-demko-villages/blob/208af51/interagent/to-duska.md",
-    "bears_on": [
-      "H-005"
-    ],
-    "proof": "lead"
-  }
+ {
+  "id": "L-001",
+  "text": "Senné was Szenna (Ungszenna) in Ung county. Its Roman Catholic register of births, marriages and deaths, 1831-1926, was microfilmed; the originals are in the Prešov state archive. Per the Places agent (note of 12 Nov 2026): films 1793682 and 1793683; in this title baptisms run 1866 to 1912, marriages 1863 to 1926, deaths 1831 to 1925, and earlier baptisms are in older volumes not yet traced.",
+  "url": "https://www.familysearch.org/en/search/catalog/710997",
+  "bears_on": [
+   "H-004",
+   "H-005"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-002",
+  "text": "Iňačovce was Solymos in Ung county. Listed registers: Greek Catholic 1811-1898, Reformed 1747-1940, Roman Catholic 1863-1926.",
+  "url": "https://en.wikipedia.org/wiki/I%C5%88a%C4%8Dovce",
+  "bears_on": [
+   "H-004",
+   "H-005"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-003",
+  "text": "FamilySearch catalogues Greek Catholic records of the Mukachevo Eparchy for Ungvár / Užhorod and the Ung district, 1826-1938. Candidate home for the Maria Demko entry.",
+  "url": "https://www.familysearch.org/search/catalog/1411329",
+  "bears_on": [
+   "H-006"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-004",
+  "text": "A FamilySearch community thread reports that none of the surviving 1869 census sheets in the Slovakia collection are from Ung county. This conflicts with PR-3 and needs the original image to settle.",
+  "url": "https://community.familysearch.org/en/discussion/125119/where-to-find-1869-slovak-census-magyarkelecseny-ung-klacany-kapusianske-klacany",
+  "bears_on": [
+   "H-007"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-005",
+  "text": "Montreal Gazette, 13 Feb 1928, p. 12: a John Duska burned by molten copper at Port Colborne, Ontario. No connection shown. Worth checking against H-002 and H-003.",
+  "url": "https://www.newspapers.com/article/the-gazette-john-duska-burned-by-molten/94295882/",
+  "bears_on": [
+   "H-002",
+   "H-003"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-006",
+  "text": "The Iňačovce municipal website names Dúška among the families living in the village in the 18th century, and says the village was resettled after 1720 from northern Ung and Zemplén. A village website with no archive reference; the source list behind it has not been seen.",
+  "url": "https://obecinacovce.sk/podstranka?stranka=1116",
+  "bears_on": [
+   "H-004",
+   "H-005"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-007",
+  "text": "Viszoka had no Greek Catholic parish of its own in the 19th century. Its Greek Catholics belonged to the Čičarovce (Csicser) Greek Catholic parish from about 1806. Čičarovce was the seat of three parishes at once: Roman Catholic, Greek Catholic and Reformed.",
+  "url": "https://www.obeccicarovce.sk/cirkev.html",
+  "bears_on": [
+   "H-015"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-008",
+  "text": "Greek Catholic registers of Čičarovce are reported kept from 1789 and held complete at the State Archive in Prešov. Greek Catholic registers of Iňačovce, which served Senné, run from 1811.",
+  "url": "https://www.geni.sk/greckokatolicke-matriky/",
+  "bears_on": [
+   "H-006",
+   "H-015"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-009",
+  "text": "Csurgovich is a Greek Catholic clerical family of the Mukachevo eparchy: a canon Joannes Csurgovich and a teacher Andreas Csurgovich appear in the 1843 schematism. Where the priest of 1882 served was not established.",
+  "url": "https://archive.org/stream/schematismusvene1843cath/schematismusvene1843cath_djvu.txt",
+  "bears_on": [
+   "H-015"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-010",
+  "text": "A Slovak Academy of Sciences booklet lists Hreško and Hricko as separate surnames, both formed from Gregor.",
+  "url": "https://www.juls.savba.sk/attachments/pub_studnica_2/studnica2.pdf",
+  "bears_on": [
+   "H-017"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-011",
+  "text": "Belža is a Greek Catholic parish whose filials today include Gyňov and Seňa. No 1890s directory was seen to confirm the same for 1894 to 1895.",
+  "url": "https://www.grkatke.sk/farnost/farnost-belza/",
+  "bears_on": [
+   "H-018"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-012",
+  "text": "The Senné municipal history: a Roman Catholic parish under Szatmár from 1804 with Stretavka and Iňačovce among its filials; oldest surviving registers from 1778; in 1904 the village counted 484 Roman Catholics and 231 Greek Catholics. It names no Duska or Demko.",
+  "url": "https://www.obecsenne.sk/zivot-v-obci/historia",
+  "bears_on": [
+   "H-005",
+   "H-010"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-013",
+  "text": "The 1869 census for Ung county is reported held in the Uzhhorod archives and was not filmed by FamilySearch.",
+  "url": "https://www.jewishgen.org/databases/Hungary/1869UngCensus.html",
+  "bears_on": [
+   "H-007"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-014",
+  "text": "The Kulin family held land at Kisszeretva (Stretavka) in the urbarial tables of the 1770s; their noble predicate was bánhegyesi, so \"de K. Sz.\" in 1838 is more likely a residence than a title.",
+  "url": "https://archives.hungaricana.hu/hu/urberi/ung-kisszeretva/?list=eyJxdWVyeSI6ICJNRUdZPVVORyJ9",
+  "bears_on": [
+   "H-010"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-015",
+  "text": "A regional association's page on Senné says many emigrated between 1870 and 1890.",
+  "url": "https://medziriekami.sk/senne/",
+  "bears_on": [
+   "H-001",
+   "H-002"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-016",
+  "text": "The Dictionary of American Family Names derives Demko from a pet form of Demeter or Demyan. The name arose in many villages independently and says nothing about rite or ethnicity.",
+  "url": "https://www.ancestry.ca/name-origin?surname=demko",
+  "bears_on": [
+   "H-016"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-017",
+  "text": "Places agent, from the Prešov state archive's catalogue of church registers (PL-R-003, PL-S-075, note PL-N-026 @208af51): the Iňačovce Greek Catholic register is four volumes on film 88: no. 380 (1811 to 1831, Latin), no. 381 (1831 to 1859, Church Slavonic, Latin, Hungarian), no. 382 (births 1861 to 1870, Latin) and no. 383 (births 1870 to 1898). Births of 1860 are in no listed volume. Its district is Iňačovce, Jastrabie, Senné and Stretava. Which volume and page each of the 58 strips of folder F-005 comes from is not established.",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages/blob/208af51/interagent/to-duska.md",
+  "bears_on": [
+   "H-035",
+   "H-036"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-018",
+  "text": "Places agent (same catalogue, @208af51): Senné Roman Catholic births exist at Prešov only from 1866, in volume no. 1089; deaths are in no. 1091 (1831 to 1886) and no. 1093 (1887 to 1925). The baptism of Michal Duska, if he was born at Senné between 1895 and 1908, should be in no. 1089; burials that would test a reused name are in no. 1093.",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages/blob/208af51/interagent/to-duska.md",
+  "bears_on": [
+   "H-030",
+   "H-035"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-019",
+  "text": "Places agent (PL-R-005 @208af51): the Reformed of Iňačovce have a register of their own within the Lúčky parish, no. 592/1: births 1819 to 1927, marriages 1820 to 1926, deaths 1819 to 1936. This is where Anna Duska, Reformed, mother at Solymos 43 in 1894, should be sought.",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages/blob/208af51/interagent/to-duska.md",
+  "bears_on": [
+   "H-005"
+  ],
+  "proof": "lead"
+ },
+ {
+  "id": "L-020",
+  "text": "The Hungaricana archive portal has urbarial tables by village. Its pages for Solymos and Szenna in Ung county give landlords and head counts that match the owner's images exactly, so the images are very probably from there. The pages show no date and no archive reference; the larger images may be there.",
+  "url": "https://archives.hungaricana.hu/en/urberi/ung-solymos",
+  "bears_on": [
+   "H-057",
+   "H-058"
+  ],
+  "proof": "lead"
+ }
 ]

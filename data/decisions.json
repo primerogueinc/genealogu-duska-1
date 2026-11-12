@@ -538,5 +538,23 @@
   "date": "2026-11-12",
   "decided": "The owner's folder name 'Baptisms (Final) Stare' and file name 'Baptism of Anna Krak' are logged as prior PR-8 and given no weight. The Sztára entry is entered as its own family group (FG-60), not joined to FG-47.",
   "why": "X-004: labels are priors. A second Anna Krak of the same year is already on file nearer Senné, and no record joins either to the Duska marriage."
+ },
+ {
+  "id": "DEC-91",
+  "date": "2026-11-12",
+  "decided": "The file '2022-2-15_-_Guide_to_1767_Urbarium.docx' is held unopened: name, size and SHA-256 in the F-011 manifest. The same will be done with the owner's other word files unless he says to read them.",
+  "why": "It is the owner's own writing and may carry his conclusions about who is who (blind rule, X-011 item 1; DEC-86). The printed column headings can be read without it. He says such files may be inaccurate, which is logged in prior PR-9. Holding is reversible; reading is not."
+ },
+ {
+  "id": "DEC-92",
+  "date": "2026-11-12",
+  "decided": "The owner's reading 'Andref Duska' is not adopted. The two men are entered as candidates with a bracketed surname and proof 'lead', and the disagreement is a hypothesis (H-058).",
+  "why": "X-004: a file name is a prior. The reading here is low, so neither reading is entered as fact."
+ },
+ {
+  "id": "DEC-93",
+  "date": "2026-11-12",
+  "decided": "Folder F-011 is logged as open on the owner's word 'Beginning'. The urbarial tables are dated '[1767 or the few years after]'.",
+  "why": "The owner names folders and says when they are complete. 1767 is his label and the year of the decree; no date is on the images."
  }
 ]

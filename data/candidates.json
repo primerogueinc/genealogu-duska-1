@@ -6375,5 +6375,209 @@
   "relation": "Mother in FG-60.",
   "route": "duska",
   "route_note": ""
+ },
+ {
+  "id": "K-538",
+  "name": "Mihály Duska",
+  "vitals": "serf with a whole holding at Solymos under Sándor Szirmay, [1767 or the few years after]",
+  "proof": "documented",
+  "sources": [
+   "S-238"
+  ],
+  "relation": "No. 33 in D-011-08. The earliest Duska in the archive.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-539",
+  "name": "György Duska (written Dus[ch]a)",
+  "vitals": "housed cottar at Solymos under Sándor Szirmay, [1767 or the few years after]",
+  "proof": "documented",
+  "sources": [
+   "S-238"
+  ],
+  "relation": "Housed cottar no. 10 in D-011-08.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-540",
+  "name": "András [B]utka [?]",
+  "vitals": "sub-cottar at Solymos under the Vécsey lord, [1767 or the few years after]",
+  "proof": "lead",
+  "sources": [
+   "S-238"
+  ],
+  "relation": "Sub-cottar no. 8 in D-011-01. The owner's file name reads him as 'Andref Duska' (H-058).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-541",
+  "name": "György [B]utka [?]",
+  "vitals": "housed cottar at Solymos under the Vécsey lord, [1767 or the few years after]",
+  "proof": "lead",
+  "sources": [
+   "S-238"
+  ],
+  "relation": "Housed cottar no. 9 in D-011-01; same surname as K-540.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-542",
+  "name": "György Halas",
+  "vitals": "serf with half a holding at Szenna, [1767 or the few years after]",
+  "proof": "documented",
+  "sources": [
+   "S-239"
+  ],
+  "relation": "No. 10 in D-011-02. Anna Halász, the miller's wife of the 1890s, bears the surname (FG-50).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-543",
+  "name": "János Halas",
+  "vitals": "serf with half a holding at Szenna, [1767 or the few years after]",
+  "proof": "documented",
+  "sources": [
+   "S-239"
+  ],
+  "relation": "No. 13 in D-011-02.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-544",
+  "name": "Mihály Hornyák",
+  "vitals": "serf with half a holding at Szenna under the Szirmay lord, [1767 or the few years after]",
+  "proof": "documented",
+  "sources": [
+   "S-239"
+  ],
+  "relation": "No. 21 in D-011-03. Mária Hornyák, wife of the Greek Catholic György Dusko, bears the surname (FG-25).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-545",
+  "name": "Márton Hornyák",
+  "vitals": "serf with half a holding at Szenna, [1767 or the few years after]",
+  "proof": "documented",
+  "sources": [
+   "S-239"
+  ],
+  "relation": "No. 22 in D-011-03.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-546",
+  "name": "Imre Hornyák",
+  "vitals": "serf with half a holding at Szenna, [1767 or the few years after]",
+  "proof": "documented",
+  "sources": [
+   "S-239"
+  ],
+  "relation": "No. 24 in D-011-03.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-547",
+  "name": "János Hornyák",
+  "vitals": "housed cottar at Szenna, [1767 or the few years after]",
+  "proof": "documented",
+  "sources": [
+   "S-239"
+  ],
+  "relation": "Housed cottar no. 5 in D-011-03.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-548",
+  "name": "Mihály S. Kn[y]e[zsov]szk[i] [?]",
+  "vitals": "serf with a whole holding at Solymos, [1767 or the few years after]",
+  "proof": "lead",
+  "sources": [
+   "S-238"
+  ],
+  "relation": "No. 4 in D-011-04. The owner reads the surname as Knyezso.",
+  "route": "demko",
+  "route_note": "In a Duska folder; the surname belongs to the other line."
+ },
+ {
+  "id": "K-549",
+  "name": "György Hudák",
+  "vitals": "serf with a whole holding at Solymos, [1767 or the few years after]",
+  "proof": "documented",
+  "sources": [
+   "S-238"
+  ],
+  "relation": "No. 2 in D-011-04.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-550",
+  "name": "András Hudák",
+  "vitals": "serf with half a holding at Solymos, [1767 or the few years after]",
+  "proof": "documented",
+  "sources": [
+   "S-238"
+  ],
+  "relation": "No. 26 in D-011-04.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-551",
+  "name": "Gergely Kocsis",
+  "vitals": "serf with a whole holding at Solymos, [1767 or the few years after]",
+  "proof": "documented",
+  "sources": [
+   "S-238"
+  ],
+  "relation": "No. 8 in D-011-04.",
+  "route": "demko",
+  "route_note": "In a Duska folder; the surname belongs to the other line."
+ },
+ {
+  "id": "K-552",
+  "name": "Joannes Kocsis",
+  "vitals": "tenant free to move, half a holding at Csicser under Gáspár Orosz, [1767 or the few years after]",
+  "proof": "documented",
+  "sources": [
+   "S-240"
+  ],
+  "relation": "No. 5 in D-011-05.",
+  "route": "demko",
+  "route_note": "In a Duska folder; the surname belongs to the other line."
+ },
+ {
+  "id": "K-553",
+  "name": "Michael Demko",
+  "vitals": "serf with a whole holding at Viszoka under the convent of Lelesz, [1767 or the few years after]",
+  "proof": "documented",
+  "sources": [
+   "S-241"
+  ],
+  "relation": "No. 6 in D-011-06. The earliest Demko in the archive.",
+  "route": "demko",
+  "route_note": "In a Duska folder; the surname belongs to the other line."
+ },
+ {
+  "id": "K-554",
+  "name": "Andreas De[ndó]k or Demko [?]",
+  "vitals": "serf with a whole holding at Viszoka, [1767 or the few years after]",
+  "proof": "lead",
+  "sources": [
+   "S-241"
+  ],
+  "relation": "No. 4 in D-011-06; surname doubtful.",
+  "route": "demko",
+  "route_note": "In a Duska folder; the surname belongs to the other line."
  }
 ]

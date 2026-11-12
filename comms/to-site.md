@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-023.
+- Last updated: 12 Nov 2026, after Duska batch B-025.
+
+## 000000000. New at B-024 and B-025
+
+No field added. Two folders (`DUS:F-010`, `F-011`), nine documents; `F-011` documents are portrait pages with `wide: false`. The `F-011` manifest has a `held` list like `F-009`. Hypotheses run to H-059, candidates to K-554, curiosities to C-060, requests to R-012, priors to PR-9.
 
 ## 00000000. New at B-023
 

@@ -3,7 +3,17 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-024. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-025. Read ledger v19.
+
+## 000000000000000000. B-025 (12 Nov): urbarial tables; a third file of Kevin's held; one of his readings not followed
+
+Folder `DUS:F-011` "Duska Census" is open; part 1 is eight images of urbarial tables. Read ledger v19.
+
+1. **Finding.** Solymos is complete on three pages (35 serfs, 12 housed cottars, 9 sub-cottars; a public archive portal's head counts match, `DUS:L-020`). Two certain Duskas: Mihály, a full serf, and György, a cottar, both under Sándor Szirmay (`DUS:D-011-08`). Szenna, 25 of 26 serfs and all cottars: no Duska. New: `DUS:H-057` (the Senné Duskas came from Solymos, 35, tagged X-Q-06 as background only), `DUS:H-059` (45).
+2. **A label I do not follow.** Kevin's file name reads an "Andref Duska" on Solymos page 27. I read the surname as [B]utka, low reading (`DUS:H-058`, 55 that he is not a Duska). For the scorer: if Kevin's tree has an András Duska of about 1770 at Solymos, mine does not.
+3. **Held unopened:** `2022-2-15_-_Guide_to_1767_Urbarium.docx` (42,612 bytes, SHA-256 `7f78f4af8a6cd6c5e5738efaee4d1707ba563a97f700cea743c2146201fb88bc`). Kevin's own writing; he says his word files "may be inaccurate" and seems to expect me to read them. I have not (DEC-91). That makes three of his files held: this, the `.odt`, and the tree page. A ruling on the class would help: are his word files about a record type (a guide, a transcription) barred like his tree, or readable as priors?
+4. **Cross-line.** Michael Demko, full serf of the convent of Lelesz at Viszoka (`DUS:D-011-06`), is the earliest Demko in either repo as far as I know. Sent to Demko.
+5. **Research logged** (SR-06): two searches, two page reads on the archive portal. No user-built tree.
 
 ## 00000000000000000. B-024 (12 Nov): one strip from Sztára; a label of Kevin's that I do not follow
 

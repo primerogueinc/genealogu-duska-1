@@ -1,0 +1,90 @@
+{
+  "folder_id": "F-011",
+  "desktop_path": "Duska Census",
+  "note": "Part 1 of the folder, '1767 - Urbanarium' (the owner's spelling): 8 image files and one word-processor file, which is held unopened. Received through chat upload.",
+  "files": [
+    {
+      "file": "Andref_Duska_in_Solymos.png",
+      "sha256": "dd64c897af82d11e7aafedb3fff946a1226faaa1b847b0c6736e64f53a4a663a",
+      "bytes": 579044,
+      "pixels": "470x709",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 1
+    },
+    {
+      "file": "Halas_in_Szenna.png",
+      "sha256": "95cfeb80bb82cea9fe2afb1cd026f27e4b7224eb5cf876af6d808bb3a1886b11",
+      "bytes": 581584,
+      "pixels": "468x666",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 1
+    },
+    {
+      "file": "Hornyaks_in_Szenna.png",
+      "sha256": "3211de8c6780a98a70c7c4b9a6327a49a2d28ea97d69bbc1aee46a454600adaa",
+      "bytes": 566279,
+      "pixels": "472x680",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 1
+    },
+    {
+      "file": "Knyerso_and_Hudak_in_Solymos.png",
+      "sha256": "ec73f697af544643e5891172f93677f9f8632e1e2267d3206e2ddb740d8259b9",
+      "bytes": 604481,
+      "pixels": "477x695",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 1
+    },
+    {
+      "file": "Kocsis_in_Csicser_Cicarovce.png",
+      "sha256": "99d195642529f00774cf7ed839670721712f523a9c77270316c43c1ccbee7eef",
+      "bytes": 598884,
+      "pixels": "479x734",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 1
+    },
+    {
+      "file": "Michael_Demko_in_Viszoka.png",
+      "sha256": "c3840e7c5de853893a4af55211f048bddbc895be7bc90b37720c17aadddc5c4f",
+      "bytes": 425463,
+      "pixels": "397x563",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 1
+    },
+    {
+      "file": "Mihaly_Duska_-_2_in_Solymos.png",
+      "sha256": "2a27be9693885a8dd346d53fd92df2c993231ccf8416e825b0f3e4f355e4efe9",
+      "bytes": 575958,
+      "pixels": "474x678",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 1
+    },
+    {
+      "file": "Mihaly_Duska_in_Solymos.png",
+      "sha256": "9fd08bc70fbe3a4f390ae481d9763818166a888112d8b701d028102c61cc54ce",
+      "bytes": 804198,
+      "pixels": "558x733",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 1
+    }
+  ],
+  "held": [
+    {
+      "file": "2022-2-15_-_Guide_to_1767_Urbarium.docx",
+      "sha256": "7f78f4af8a6cd6c5e5738efaee4d1707ba563a97f700cea743c2146201fb88bc",
+      "bytes": 42612,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "a word-processor file of the owner's own making; not opened (blind rule, X-011 item 1). The owner says such files 'may be inaccurate'.",
+      "file_in_repo": false
+    }
+  ]
+}

@@ -900,6 +900,11 @@
     "batch": "B-023",
     "effect": "lowered from 40 to 30",
     "note": "The census household has a György Duska born about 1846 working 'beside his father', and the father on the form is a György born about 1820, not a Mihály. If the younger man is the husband of Mária Hornyák, he is not Mihály Dusko's son. The reading is low and the wife's name on the form does not match, so this is a nudge, not a refutation."
+   },
+   {
+    "batch": "B-025",
+    "effect": "no change",
+    "note": "A Mihály Duska is at Solymos in the urbarial table. He is two or three generations too early to be the Mihály Dusko of this hypothesis."
    }
   ]
  },
@@ -936,6 +941,11 @@
     "batch": "B-016",
     "effect": "no change",
     "note": "The Demko agent read the same strip before opening this entry and reached the same reading (DM-H-031, 58). It adds that this book notes infant deaths in the remarks column on eight of its strips and her cell is blank. Weak, and one reading shared by two agents, not two witnesses. Held at 55."
+   },
+   {
+    "batch": "B-025",
+    "effect": "no change",
+    "note": "A Gergely Kocsis holds a full holding at Solymos in the urbarial table (D-011-04, no. 8), and a Joannes Kocsis half of one at Csicser (D-011-05). Routed to the Demko agent."
    }
   ],
   "necronym_risk": "unresolved"
@@ -1044,6 +1054,11 @@
     "batch": "B-022",
     "effect": "no change",
     "note": "A burial page adds Pál Duska, buried at Solymos in May 1838 aged 68, and György Dusko, buried in February 1833 aged 29 (D-006-05, low reading). Pál, born about 1770, is old enough to be the father of the András and János who baptise children there from 1829."
+   },
+   {
+    "batch": "B-025",
+    "effect": "no change",
+    "note": "The urbarial table shows two Duska households at Solymos two generations before the Reformed couples of the 1830s: Mihály, a full serf, and György, a cottar. 'One family' is as likely as before; the question moves back to whether those two men were kin."
    }
   ],
   "necronym_risk": "unresolved"
@@ -1081,6 +1096,11 @@
     "batch": "B-017",
     "effect": "raised at 40",
     "note": "Routed to the Demko agent, who owns Ahn 19 and above."
+   },
+   {
+    "batch": "B-025",
+    "effect": "no change",
+    "note": "The urbarial table of Solymos has a serf whose surname begins 'Kn' (D-011-04, no. 4), which the owner reads as Knyezso. Routed to the Demko agent."
    }
   ],
   "route": "demko"
@@ -1158,6 +1178,11 @@
     "batch": "B-022",
     "effect": "raised from 15 to 22; statement made exact",
     "note": "The miller at house 1 is Mihály Duska, not György, in three entries, and he had a son Mihály on 6 December 1896 (D-009-82). That boy would be 32 at Štefan's birth and ten years older than Maria Demko: possible, less usual. A miller's son, where Michal is a cottar."
+   },
+   {
+    "batch": "B-025",
+    "effect": "no change",
+    "note": "Two Halas serfs are at Szenna in the urbarial table (D-011-02): the miller's wife's surname was in the village long before her. Nothing about Michal."
    }
   ],
   "question": "X-Q-06"
@@ -1358,6 +1383,61 @@
     "batch": "B-024",
     "effect": "raised at 35",
     "note": "The rival to H-055, from a strip read at B-008. The remaining 45 in 100 is an Anna Krak not yet seen."
+   }
+  ]
+ },
+ {
+  "id": "H-057",
+  "statement": "The Roman Catholic Duskas of Senné came from Solymos (Iňačovce): they descend from one of the two Duska households in the urbarial table there, Mihály the serf or György the cottar.",
+  "confidence": 35,
+  "basis": "The table lists every household head of Solymos and has two Duskas. The table for Szenna, complete but for one serf, has none. By 1866 a Duska family is at Senné, 6 km away. Against: the Duskas known at Solymos later are Reformed and Greek Catholic, and those of Senné are Roman Catholic; ninety years lie between the table and the first Senné baptism in hand; and the surname may have other homes not yet looked at.",
+  "test": "The missing page of the Szenna table; the Senné Roman Catholic register before 1866; the census of 1828 for both villages; the marriage of György Duska the elder.",
+  "status": "open",
+  "raised": "B-025",
+  "resolved": null,
+  "resolution": null,
+  "question": "X-Q-06",
+  "log": [
+   {
+    "batch": "B-025",
+    "effect": "raised at 35",
+    "note": "Raised from the urbarial tables in folder F-011."
+   }
+  ]
+ },
+ {
+  "id": "H-058",
+  "statement": "The man the owner's file name calls 'Andref Duska' at Solymos is not a Duska: sub-cottar no. 8 and housed cottar no. 9 on page 27 bear another surname, read here as [B]utka.",
+  "confidence": 55,
+  "basis": "The clerk writes Duska with a clear D and s on the next page; on this one the first letter differs and the middle letter looks like t. Housed cottars no. 9 and no. 10 are both named György, and two men are numbered, so the surnames ought to differ. The image is 470 pixels wide.",
+  "test": "A larger image of page 27 (request R-012).",
+  "status": "open",
+  "raised": "B-025",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-025",
+    "effect": "raised at 55",
+    "note": "Raised from the urbarial tables in folder F-011."
+   }
+  ]
+ },
+ {
+  "id": "H-059",
+  "statement": "Pál Duska of Solymos, Reformed, who died in May 1838 aged 68, was born into one of the two Duska households of the urbarial table.",
+  "confidence": 45,
+  "basis": "His age puts his birth about 1770, when the table shows exactly two Duska households in the village where he was buried. His birthplace is not stated, and the burial entry names no parent.",
+  "test": "Reformed baptisms for Solymos before 1790, if any survive; the 1828 census.",
+  "status": "open",
+  "raised": "B-025",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-025",
+    "effect": "raised at 45",
+    "note": "Raised from the urbarial tables in folder F-011."
    }
   ]
  }

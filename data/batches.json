@@ -1409,6 +1409,47 @@
   "sources_added": [
    "S-237"
   ],
+  "committed_utc": "2026-11-12T08:14:27Z"
+ },
+ {
+  "id": "B-025",
+  "date": "2026-11-12",
+  "title": "The urbarial tables: Duskas at Solymos about 1770, and none at Senné",
+  "folder": "F-011",
+  "files": 8,
+  "blurb": "Read ledger v19, unchanged. The owner opened a new folder, 'Duska Census', with eight images of the urbarial tables of Maria Theresa's time: printed forms, filled in by hand, that list each landlord's serfs and cottars and what they owed. He dates them 1767; the images carry no date. They are the oldest records in the archive by sixty years. Three pages cover Solymos (Iňačovce) from first serf to final total, so every household head of the village is in hand. Two are certainly Duskas. Mihály Duska was a serf with a full holding of 20 holds under the lord Sándor Szirmay, owing 52 days of labour a year with his animals, a florin, firewood, yarn, butter, poultry and eggs. György Duska, under the same lord, was a cottar with a house and no land. The owner's file name puts a third man there, 'Andref Duska'; the name on the page is read here as [B]utka, with doubt, and that is raised as a hypothesis at 55 in 100 that he is not a Duska. Two pages cover Szenna (Senné): 25 of its 26 serfs and all its cottars, and no Duska among them. A public archive portal's own head counts match the images to the man, which is how the lists are known to be complete. So about 1770 the name was at Solymos and, all but certainly, not at Senné. A new hypothesis says the Senné Duskas came from Solymos, at 35 in 100: it fits the map, but the later Solymos Duskas are Reformed and Greek Catholic and the Senné ones Roman Catholic. One page each for Csicser and Viszoka goes to the Demko agent: a Joannes Kocsis, and Michael Demko, a full serf of the convent of Lelesz. A word-processor file, a guide to the urbarium, came with the images. It is the owner's own writing, and he says such files may be inaccurate; it is held unopened like the others. The folder stays open. Curiosities: 3",
+  "raised": [
+   "H-057",
+   "H-058",
+   "H-059"
+  ],
+  "resolved": [],
+  "revised": [],
+  "people_added": [
+   "K-538",
+   "K-539",
+   "K-540",
+   "K-541",
+   "K-542",
+   "K-543",
+   "K-544",
+   "K-545",
+   "K-546",
+   "K-547",
+   "K-548",
+   "K-549",
+   "K-550",
+   "K-551",
+   "K-552",
+   "K-553",
+   "K-554"
+  ],
+  "sources_added": [
+   "S-238",
+   "S-239",
+   "S-240",
+   "S-241"
+  ],
   "committed_utc": null
  }
 ]

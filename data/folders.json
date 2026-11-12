@@ -148,5 +148,17 @@
   ],
   "archive_path": "records/F-010_Baptisms-Final_Stare/",
   "completed": "2026-11-12"
+ },
+ {
+  "id": "F-011",
+  "desktop_path": "Duska Census",
+  "described_as": "Announced by the owner as 'Beginning Duska Census'. Part 1, '1767 - Urbanarium': eight images of urbarial tables for Solymos (three pages, one of them twice), Szenna (two pages), Csicser and Viszoka (one page each), with one word-processor file held unopened. More parts are expected.",
+  "status": "open",
+  "first_seen": "2026-11-12",
+  "files_received": 8,
+  "batches": [
+   "B-025"
+  ],
+  "archive_path": "records/F-011_Duska-Census/"
  }
 ]

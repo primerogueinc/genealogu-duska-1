@@ -455,5 +455,38 @@
   "translation": "The year 1848",
   "why": "The date on the page is the hinge year of the century for every peasant family in these books.",
   "tone": "history"
+ },
+ {
+  "id": "C-058",
+  "doc": "D-011-08",
+  "source": "S-238",
+  "title": "What Mihály Duska owed for his land",
+  "text": "For a full holding at Solymos, 20 holds of ploughland and meadow for ten mowers, Mihály Duska owed his lord each year: 52 days of work with his own draught animals, or 104 days with his hands; one florin; a cord of firewood; six pounds of spun yarn; an icce of clarified butter; two capons, two chickens and a dozen eggs. And the ninth part of his crop, which the clerk wrote sideways down the page, was taken in hemp and flax.",
+  "original": "33 Duska Mihály | 1 | 2 | 20 | 10 | 52 | 104 | 1 | 1 | 6 | 1 | 2 | 2 | 12 || Nona in Natura exolvitur Canabe et Lino.",
+  "translation": "No. 33, Mihály Duska: one holding; house plot 2 measures; 20 holds; 10 mowers; 52 days with animals or 104 by hand; 1 florin; 1 cord of wood; 6 pounds of spinning; 1 icce of butter; 2 capons; 2 chickens; 12 eggs. The ninth is paid in kind, in hemp and flax.",
+  "why": "The earliest Duska in the archive arrives with an itemised bill.",
+  "tone": "history"
+ },
+ {
+  "id": "C-059",
+  "doc": "D-011-07",
+  "source": "S-238",
+  "title": "One page, photographed twice, to see under the seal",
+  "text": "The last page of the Solymos table is in the folder twice. In one image a paper seal lies flat over the corner of the totals. In the other its flap is folded up and the red wax shows beneath. Someone at the archive lifted the flap for the second exposure.",
+  "original": "(image)",
+  "translation": "(image)",
+  "why": "It is the only sign in the folder of a person handling the paper.",
+  "tone": "odd"
+ },
+ {
+  "id": "C-060",
+  "doc": "D-011-06",
+  "source": "S-241",
+  "title": "The Demkos' landlord was a convent",
+  "text": "Every household in Viszoka, Michael Demko's among them, answered to one lord: the convent of Lelesz. Their neighbours at Solymos and Szenna were split among barons, counts and a widow.",
+  "original": "V. Conventus [...] de Lelesz | 6 Michael Demko 1 | 2 | 20 | 10 | 52 | 104",
+  "translation": "The venerable convent of Lelesz. No. 6, Michael Demko: one holding; 20 holds; 10 mowers; 52 days with animals or 104 by hand.",
+  "why": "A monastery kept records of its own; there may be more on the Demkos in its archive than a county table shows.",
+  "tone": "history"
  }
 ]

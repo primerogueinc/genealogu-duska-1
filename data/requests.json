@@ -1,89 +1,97 @@
 [
-  {
-    "id": "R-001",
-    "status": "raised",
-    "raised": "B-001",
-    "text": "Film or DGS number, archive and image numbers for the Folder 1 pages, to settle H-010.",
-    "raised_with_owner": "2026-11-12",
-    "rank": 7
-  },
-  {
-    "id": "R-002",
-    "status": "raised",
-    "raised": "B-000",
-    "text": "The image or citation behind the 1869 census find, to settle H-007. Part answered at B-023: an image is in hand (D-006-07). Still wanted: the village, house number and archive reference of the sheet, and a sharper copy.",
-    "raised_with_owner": "2026-11-12",
-    "rank": 5
-  },
-  {
-    "id": "R-003",
-    "status": "raised",
-    "raised": "B-002",
-    "text": "The full register page for the Mihály Demkó entry, with its header, to settle H-015 and confirm the column headings.",
-    "raised_with_owner": "2026-11-12",
-    "rank": 6
-  },
-  {
-    "id": "R-004",
-    "status": "raised",
-    "raised": "B-004",
-    "text": "What led the owner to the Belža Greek Catholic book, and the full pages with their title, to settle H-018.",
-    "raised_with_owner": "2026-11-12",
-    "rank": 9
-  },
-  {
-    "id": "R-005",
-    "status": "raised",
-    "raised": "B-007",
-    "text": "Baptisms of Demko children at Viszoka from 1857 to 1873 and from 1883 to 1895, if the owner has them, and any entry for a Maria Demko. Settles H-022, H-023.",
-    "raised_with_owner": "2026-11-12",
-    "rank": 8
-  },
-  {
-    "id": "R-006",
-    "status": "raised",
-    "raised": "B-007",
-    "text": "The full page for the 1872 entry labelled Anna Demko (D-004-01), to see the note cut off above it.",
-    "raised_with_owner": "2026-11-12",
-    "rank": 10
-  },
-  {
-    "id": "R-007",
-    "status": "raised",
-    "raised": "B-009",
-    "text": "Michal Duska's marriage to Maria Demko (about 1925 to 1929), or any record that gives his age, birth date or parents: a passenger list, a naturalisation or a Canadian burial record would do. His baptism is now in hand twice over: a Mihály of 6 December 1896 and a Mihály of 3 July 1903. One record with his age chooses between them (H-046, H-047).",
-    "raised_with_owner": "2026-11-12",
-    "rank": 1
-  },
-  {
-    "id": "R-008",
-    "status": "withdrawn",
-    "raised": "B-009",
-    "text": "A second image of the 1877 entry for Szenna 72, or other entries naming the same family, to settle the spelling (H-026). Withdrawn at B-013: settled by comparison with another entry by the same clerk."
-  },
-  {
-    "id": "R-009",
-    "status": "answered",
-    "raised": "B-013",
-    "text": "Baptisms of Duska children in the Senné Roman Catholic register, 1890 to 1910, and any Duska marriage of 1865 to 1900. Settles H-030, H-035, H-036. Answered in the main by folder F-009 (95 files).",
-    "raised_with_owner": "2026-11-12",
-    "rank": 3,
-    "answered": "B-022"
-  },
-  {
-    "id": "R-010",
-    "status": "raised",
-    "raised": "B-017",
-    "text": "The full row, and the rows below it, for Mihály Duska of 'Bradenville' on the page of the December [1902] baptisms at Solymos (D-007-08), and the certificate or extract it cites. The strip cuts the row in half. It would settle the place, the mother's surname and the date, and so test H-040.",
-    "raised_with_owner": "2026-11-12",
-    "rank": 2
-  },
-  {
-    "id": "R-011",
-    "status": "raised",
-    "raised": "B-017",
-    "text": "The Reformed marriage and burial registers for Solymos, 1860 to 1910, if the owner has pages from them: to name the fathers of János Dusko and Mihály Dusko (H-042) and to see which of the boys named Mihály lived (H-040, H-041).",
-    "raised_with_owner": "2026-11-12",
-    "rank": 4
-  }
+ {
+  "id": "R-001",
+  "status": "raised",
+  "raised": "B-001",
+  "text": "Film or DGS number, archive and image numbers for the Folder 1 pages, to settle H-010.",
+  "raised_with_owner": "2026-11-12",
+  "rank": 7
+ },
+ {
+  "id": "R-002",
+  "status": "raised",
+  "raised": "B-000",
+  "text": "The image or citation behind the 1869 census find, to settle H-007. Part answered at B-023: an image is in hand (D-006-07). Still wanted: the village, house number and archive reference of the sheet, and a sharper copy.",
+  "raised_with_owner": "2026-11-12",
+  "rank": 5
+ },
+ {
+  "id": "R-003",
+  "status": "raised",
+  "raised": "B-002",
+  "text": "The full register page for the Mihály Demkó entry, with its header, to settle H-015 and confirm the column headings.",
+  "raised_with_owner": "2026-11-12",
+  "rank": 6
+ },
+ {
+  "id": "R-004",
+  "status": "raised",
+  "raised": "B-004",
+  "text": "What led the owner to the Belža Greek Catholic book, and the full pages with their title, to settle H-018.",
+  "raised_with_owner": "2026-11-12",
+  "rank": 9
+ },
+ {
+  "id": "R-005",
+  "status": "raised",
+  "raised": "B-007",
+  "text": "Baptisms of Demko children at Viszoka from 1857 to 1873 and from 1883 to 1895, if the owner has them, and any entry for a Maria Demko. Settles H-022, H-023.",
+  "raised_with_owner": "2026-11-12",
+  "rank": 8
+ },
+ {
+  "id": "R-006",
+  "status": "raised",
+  "raised": "B-007",
+  "text": "The full page for the 1872 entry labelled Anna Demko (D-004-01), to see the note cut off above it.",
+  "raised_with_owner": "2026-11-12",
+  "rank": 10
+ },
+ {
+  "id": "R-007",
+  "status": "raised",
+  "raised": "B-009",
+  "text": "Michal Duska's marriage to Maria Demko (about 1925 to 1929), or any record that gives his age, birth date or parents: a passenger list, a naturalisation or a Canadian burial record would do. His baptism is now in hand twice over: a Mihály of 6 December 1896 and a Mihály of 3 July 1903. One record with his age chooses between them (H-046, H-047).",
+  "raised_with_owner": "2026-11-12",
+  "rank": 1
+ },
+ {
+  "id": "R-008",
+  "status": "withdrawn",
+  "raised": "B-009",
+  "text": "A second image of the 1877 entry for Szenna 72, or other entries naming the same family, to settle the spelling (H-026). Withdrawn at B-013: settled by comparison with another entry by the same clerk."
+ },
+ {
+  "id": "R-009",
+  "status": "answered",
+  "raised": "B-013",
+  "text": "Baptisms of Duska children in the Senné Roman Catholic register, 1890 to 1910, and any Duska marriage of 1865 to 1900. Settles H-030, H-035, H-036. Answered in the main by folder F-009 (95 files).",
+  "raised_with_owner": "2026-11-12",
+  "rank": 3,
+  "answered": "B-022"
+ },
+ {
+  "id": "R-010",
+  "status": "raised",
+  "raised": "B-017",
+  "text": "The full row, and the rows below it, for Mihály Duska of 'Bradenville' on the page of the December [1902] baptisms at Solymos (D-007-08), and the certificate or extract it cites. The strip cuts the row in half. It would settle the place, the mother's surname and the date, and so test H-040.",
+  "raised_with_owner": "2026-11-12",
+  "rank": 2
+ },
+ {
+  "id": "R-011",
+  "status": "raised",
+  "raised": "B-017",
+  "text": "The Reformed marriage and burial registers for Solymos, 1860 to 1910, if the owner has pages from them: to name the fathers of János Dusko and Mihály Dusko (H-042) and to see which of the boys named Mihály lived (H-040, H-041).",
+  "raised_with_owner": "2026-11-12",
+  "rank": 4
+ },
+ {
+  "id": "R-012",
+  "status": "raised",
+  "raised": "B-025",
+  "text": "For the urbarial tables: (1) a larger copy of Solymos page 27, to settle whether sub-cottar no. 8 is a Duska; (2) the last page of the Szenna table, with the one serf of the widow Turánszky; (3) the date written on the tables, if any; (4) the website and address you took them from.",
+  "raised_with_owner": "2026-11-12",
+  "rank": 3
+ }
 ]
