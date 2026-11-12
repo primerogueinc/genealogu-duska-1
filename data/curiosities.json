@@ -301,5 +301,115 @@
     "translation": "János D[u]ska, Roman Catholic miller, of Szenna",
     "why": "Whether Senné had one milling family or two turns on one pen stroke.",
     "tone": "odd"
+  },
+  {
+    "id": "C-044",
+    "doc": "D-009-94",
+    "source": "S-228",
+    "title": "Recovered from the Calvinists, 1718",
+    "text": "The first page of the Senné register is headed 'Memoria digna', worth remembering, and lists every parish priest since 'the church was recovered from the Calvinists in 1718'. So the Roman Catholic parish of Senné had been a Reformed church. In the next village, Solymos, the Reformed kept theirs, and that is where the other Duskas are.",
+    "original": "post recuperatam a Calvinis 1718. Ecclesiam",
+    "translation": "after the church was recovered from the Calvinists in 1718",
+    "why": "One line explains why one surname sits in a Catholic book in one village and a Calvinist book in the next.",
+    "tone": "history"
+  },
+  {
+    "id": "C-045",
+    "doc": "D-009-94",
+    "source": "S-228",
+    "title": "Burnt by a malicious man at eleven at night",
+    "text": "Under the long tenure of Georgius Balás the list of priests turns into a chronicle: windows mended, a new organ, and on 28 October 1865 at eleven at night something consumed by fire 'through a malicious man'. Six years later a new bell was blessed by the bishop, and one for Solymos with it.",
+    "original": "1865. 28. Octobris hora 11. nocturna [...] per malignum hominem igne absumptis",
+    "translation": "on 28 October 1865 at the eleventh hour of the night [...] consumed by fire through a malicious man",
+    "why": "Arson in the parish, recorded by the priest in the front of the baptism book.",
+    "tone": "history"
+  },
+  {
+    "id": "C-046",
+    "doc": "D-009-70",
+    "source": "S-204",
+    "title": "Kocsis the coachman",
+    "text": "In December 1911 the father of the child is 'Kocsis János, r.k. kocsis': János Coachman, Roman Catholic, coachman. The clerk writes the word twice in a row, once with a capital.",
+    "original": "Kocsis János, r.k. kocsis",
+    "translation": "János Kocsis, Roman Catholic, coachman",
+    "why": "A surname and a trade that are the same word, side by side.",
+    "tone": "funny"
+  },
+  {
+    "id": "C-047",
+    "doc": "D-009-42",
+    "source": "S-176",
+    "title": "Baptised by the midwife",
+    "text": "Where the priest's name should stand in the entry of 30 April 1887 is 'Belej Terézia, szülésznő', the midwife. There are no godparents. The child, György Nyemcsik, was born, baptised and dead on the one day.",
+    "original": "Belej Terézia szülésznő ... + 1887 apr. 30",
+    "translation": "Terézia Belej, midwife ... died 30 April 1887",
+    "why": "The one entry in the folder where a woman is the officiant, and why.",
+    "tone": "sad"
+  },
+  {
+    "id": "C-048",
+    "doc": "D-009-88",
+    "source": "S-222",
+    "title": "Two sets of Duska twins in a fortnight",
+    "text": "János Duska's wife bore twin girls on 29 and 30 June 1907, one each side of midnight. András Duska's wife bore twin girls on 13 July. Of the four, one died that August, one in 1908, one in 1909 and the last on 29 October 1918, aged eleven.",
+    "original": "Zsuzsanna, Borbála } ikrek ... Anna, Susanna } ikrek",
+    "translation": "Zsuzsanna and Borbála, twins ... Anna and Susanna, twins",
+    "why": "Four cousins born within fifteen days, with their deaths written beside them.",
+    "tone": "sad"
+  },
+  {
+    "id": "C-049",
+    "doc": "D-009-44",
+    "source": "S-178",
+    "title": "Made legitimate by permit no. 1125",
+    "text": "A boy baptised as illegitimate has the word altered to 'legitimate' and a remark signed by the priest: legitimised by his parents' later marriage, by leave of the diocesan authority, no. 1125 of 20 July 1895. If the owner's year for the baptism is right, the boy was twenty-two when the book was corrected.",
+    "original": "Utólagos házasság által törvényesíttetett. Egyh. m. Hatóság 1895. jul. 20. 1125. sz. engedély alapján.",
+    "translation": "Legitimised by subsequent marriage, on permit no. 1125 of the diocesan authority, 20 July 1895.",
+    "why": "The bishop's office had to give a numbered permit before one word in a village register could be changed.",
+    "tone": "odd"
+  },
+  {
+    "id": "C-050",
+    "doc": "D-009-52",
+    "source": "S-186",
+    "title": "A mother with two surnames, and a daughter who got the wrong one",
+    "text": "The clerk enters János Nyemcsik's wife as 'Hresko, otherwise Minarcsin'. When her daughter Anna Nyemcsik married András Duska and had children, the priest wrote her down as Anna Minarcsin for seven years: her mother's second name, not her father's. From 1903 he wrote Nyemecz.",
+    "original": "Hresko másk. Minarcsin Erzsébet",
+    "translation": "Erzsébet Hresko, otherwise Minarcsin",
+    "why": "It made one wife look like two. Logged as hypothesis H-051 as well.",
+    "tone": "odd"
+  },
+  {
+    "id": "C-051",
+    "doc": "D-009-28",
+    "source": "S-162",
+    "title": "Files that are not what they say",
+    "text": "In this delivery 'György Duska 1887' is a boy named Pál, 'György Kocsis 1887' is a girl named Anna, the twins of '1807' were born in 1907, 'Senne Baptisms pg 2' is page 1 again, two strips filed under Krak read Mraz, and 'Anna Tkacs Nyemcsik 1866' shows a Mária Mihalyó of 1886 with no Tkács or Nyemcsik in sight.",
+    "original": "(the owner's file names)",
+    "translation": "(the owner's file names)",
+    "why": "A reminder, six times over, to read the strip and not the label.",
+    "tone": "funny"
+  },
+  {
+    "id": "C-052",
+    "doc": "D-006-05",
+    "source": "S-233",
+    "title": "Buried with singing, or with a sermon",
+    "text": "The Reformed burial book of the 1830s has a column for how each person was buried. Most were buried 'with singing'. Some, Pál Duska among them in 1838, 'with a sermon'. A few got both. The column before it gives the illness: old age, fever, dropsy.",
+    "original": "Eltemettetések módja: Énekszóval / Tanítással",
+    "translation": "Manner of burial: with singing / with a sermon",
+    "why": "A register that records not only who died but how much ceremony they were given.",
+    "tone": "history"
+  },
+  {
+    "id": "C-053",
+    "doc": "D-006-03",
+    "source": "S-231",
+    "title": "'From Czech Origins'",
+    "text": "The owner's file name for the 1892 marriage page says it comes 'from Czech Origins'. The page is a printed Hungarian form, filled in for a village that was then in Hungary and is now in Slovakia. Nothing on it is Czech.",
+    "original": "Anna_Nyemco_and_Andras_Duska_Marriage_from_Czech_Origins",
+    "translation": "(file name)",
+    "why": "A label that names a country the record never belonged to.",
+    "tone": "funny"
   }
 ]

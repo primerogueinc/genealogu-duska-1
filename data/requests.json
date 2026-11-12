@@ -51,7 +51,7 @@
     "id": "R-007",
     "status": "raised",
     "raised": "B-009",
-    "text": "Michal Duska's own baptism entry (Senné, Roman Catholic, about 1895 to 1908) and his marriage to Maria Demko (about 1925 to 1929). Settles H-027, H-030.",
+    "text": "Michal Duska's marriage to Maria Demko (about 1925 to 1929), or any record that gives his age, birth date or parents: a passenger list, a naturalisation or a Canadian burial record would do. His baptism is now in hand twice over: a Mihály of 6 December 1896 and a Mihály of 3 July 1903. One record with his age chooses between them (H-046, H-047).",
     "raised_with_owner": "2026-11-12",
     "rank": 1
   },
@@ -63,11 +63,12 @@
   },
   {
     "id": "R-009",
-    "status": "raised",
+    "status": "answered",
     "raised": "B-013",
-    "text": "Baptisms of Duska children in the Senné Roman Catholic register, 1890 to 1910, and any Duska marriage of 1865 to 1900. Settles H-030, H-035, H-036.",
+    "text": "Baptisms of Duska children in the Senné Roman Catholic register, 1890 to 1910, and any Duska marriage of 1865 to 1900. Settles H-030, H-035, H-036. Answered in the main by folder F-009 (95 files).",
     "raised_with_owner": "2026-11-12",
-    "rank": 3
+    "rank": 3,
+    "answered": "B-022"
   },
   {
     "id": "R-010",

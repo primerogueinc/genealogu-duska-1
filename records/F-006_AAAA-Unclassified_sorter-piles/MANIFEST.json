@@ -1,6 +1,6 @@
 {
   "folder": "F-006",
-  "note": "Files taken from the Sorter's piles in the private repository primerogueinc/kevin-js-duska-jr-genealogy-private. Checksums are those of the pile's own MANIFEST.json and were re-computed on the copy read. Held images are not stored here.",
+  "note": "Files taken from the Sorter's piles in the private repository primerogueinc/kevin-js-duska-jr-genealogy-private. Checksums are those of the pile's own MANIFEST.json and were re-computed on the copy read. Held images are not stored here. Images that can be published are in originals/.",
   "files": [
     {
       "name": "Rodokme_-JavorEN.jpg",
@@ -16,6 +16,62 @@
       "document": "D-006-01",
       "held": "shows living third parties with their birth dates",
       "image_in_repo": false
+    },
+    {
+      "name": "20161021_160358.jpg",
+      "sha256": "16cd017fcca4507743576dff8f2e1c2ae5b89feeceb0410ae18c57880cdb2f42",
+      "bytes": 813990,
+      "pixels": [
+        2048,
+        1152
+      ],
+      "pile": "to-duska",
+      "private_commit": "4f16658",
+      "sorter_batch": "S-B-007",
+      "document": "D-006-02",
+      "image_in_repo": true
+    },
+    {
+      "name": "Anna_Nyemco_and_Andras_Duska_Marriage_from_Czech_Origins.jpg",
+      "sha256": "66a4928044ad1ed212e7d2c69af691bc6b5cc3f6d739c28de91a45d3cd282efc",
+      "bytes": 265605,
+      "pixels": [
+        1857,
+        692
+      ],
+      "pile": "to-duska",
+      "private_commit": "4f16658",
+      "sorter_batch": "S-B-008",
+      "document": "D-006-03",
+      "image_in_repo": true
+    },
+    {
+      "name": "Baptism_of_Anna_Nyemsco_1872.png",
+      "sha256": "635dceb1c0cb146704f86fe0721a00549a7a9d79b8628a8a6af96ada0b18787c",
+      "bytes": 1448677,
+      "pixels": [
+        1880,
+        645
+      ],
+      "pile": "to-duska",
+      "private_commit": "4f16658",
+      "sorter_batch": "S-B-008",
+      "document": "D-006-04",
+      "image_in_repo": true
+    },
+    {
+      "name": "Death_of_Pal_Duska_1838.jpg",
+      "sha256": "8f5e302d37f3ff0c3249520d299d5acc1cd1962a50160aa8a20f735c995a961f",
+      "bytes": 130981,
+      "pixels": [
+        1022,
+        847
+      ],
+      "pile": "to-duska",
+      "private_commit": "4f16658",
+      "sorter_batch": "S-B-008",
+      "document": "D-006-05",
+      "image_in_repo": true
     }
   ]
 }

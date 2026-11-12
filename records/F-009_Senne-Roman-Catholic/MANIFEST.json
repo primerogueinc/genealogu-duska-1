@@ -1,7 +1,7 @@
 {
   "folder_id": "F-009",
   "desktop_path": "Senne - Roman Catholic",
-  "note": "Parts 1 and 2 of the folder (27 files). Files as received through chat upload.",
+  "note": "Parts 1 to 8 of the folder (95 files). Files as received through chat upload.",
   "files": [
     {
       "file": "Baptism_of_Andras_Duska_1882.png",
@@ -245,6 +245,629 @@
       "received": "2026-11-12",
       "via": "chat upload",
       "part": 2
+    },
+    {
+      "file": "Baptism_of_Anna_Tkacs_Nyemcsik_1866.png",
+      "sha256": "e68c41fcd8ffb2ab610e35206be025da4a3055fbedc2fe0b73e5286fee21c42a",
+      "bytes": 528530,
+      "pixels": "1637x245",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 3
+    },
+    {
+      "file": "Baptism_of_Borbala_Kocsis_1892.png",
+      "sha256": "610ba1503af29f58f6e015a7c2986579baa54066403e2531d4948f119fbd9eec",
+      "bytes": 728141,
+      "pixels": "1780x318",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 3
+    },
+    {
+      "file": "Baptism_of_Borbala_Marczinko_Kocsis_1906.png",
+      "sha256": "04073759a5aa7614a49cb13dddf884a4003397e1b8e3af4a979f184cf1fbc890",
+      "bytes": 873159,
+      "pixels": "1541x385",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 3
+    },
+    {
+      "file": "Baptism_of_Georgius_Nyemcsik_1869.png",
+      "sha256": "4c645345d8cccd736303ed13262017170cc4b582b69816b9e90039b9d37d58e5",
+      "bytes": 415876,
+      "pixels": "1579x187",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 3
+    },
+    {
+      "file": "Baptism_of_Gyorgy_and_Anna_Duska_1898_TWINS.png",
+      "sha256": "f36c1a7151df5abbb909a352c0014b88be81946a975380f651cc1820dc9527f4",
+      "bytes": 909939,
+      "pixels": "1689x378",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 3
+    },
+    {
+      "file": "Baptism_of_Gyorgy_Duska_1872_to_Anna_Krak_and_Gyorgy_Duska.png",
+      "sha256": "49d447a314edd154db9b2f9114e0eec6672f7a5a8a786e917b3a1cf9608146dc",
+      "bytes": 407333,
+      "pixels": "1445x203",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 3
+    },
+    {
+      "file": "Baptism_of_Gyorgy_Duska_1880.png",
+      "sha256": "b090759b5051f539a0bad2253389e51f06d2bf1d506077acea3a327bc0b51176",
+      "bytes": 434781,
+      "pixels": "1716x182",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 3
+    },
+    {
+      "file": "Baptism_of_Gyorgy_Duska_1880-2_to_Erzebet_Schvarz.png",
+      "sha256": "35dabb30ff7cbe482d35c92c95fa0ff1eaba7368aafe081eaff111c8001fb77f",
+      "bytes": 475795,
+      "pixels": "1860x174",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 3
+    },
+    {
+      "file": "Baptism_of_Gyorgy_Duska_1887.png",
+      "sha256": "50d4167d626822c4652122fb31a3b075d1be335b422443d0b268c50162bf9ba5",
+      "bytes": 866334,
+      "pixels": "1784x330",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 3
+    },
+    {
+      "file": "Baptism_of_Gyorgy_Duska_1898.png",
+      "sha256": "e964ae4755d8ae39737a26122eafd71d473ce4109d5b30f644e69710b96b9ff2",
+      "bytes": 591628,
+      "pixels": "1704x242",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 3
+    },
+    {
+      "file": "Baptism_of_Gyorgy_Duska_1910.png",
+      "sha256": "714eb8879080decda3108ee718c0c20d1f49812a3bee44385ae483ebab93a308",
+      "bytes": 594049,
+      "pixels": "1772x264",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 4
+    },
+    {
+      "file": "Baptism_of_Gyorgy_Kocsis_1882.png",
+      "sha256": "2ea6e66fb04b846b169973418bf919dd95740389a393716534b3ab7fc991669c",
+      "bytes": 455648,
+      "pixels": "1798x183",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 4
+    },
+    {
+      "file": "Baptism_of_Gyorgy_Kocsis_1887.png",
+      "sha256": "39585c9e0afc12554c79536ff79b9523943247c6c3138cb03173aa419fda3f8c",
+      "bytes": 456363,
+      "pixels": "1398x303",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 4
+    },
+    {
+      "file": "Baptism_of_Gyorgy_Kocsis_1889.png",
+      "sha256": "1465b07a508182d3f6c94efce886fe4cd8faaf9b04cc436898323b81b5b2523b",
+      "bytes": 597828,
+      "pixels": "1535x283",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 4
+    },
+    {
+      "file": "Baptism_of_Gyorgy_Niemcsik_1887.png",
+      "sha256": "3db4293d2e290a39b346d18dc12d3db3d1a76604ab4a4422080616216b632396",
+      "bytes": 553756,
+      "pixels": "1573x330",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 4
+    },
+    {
+      "file": "Baptism_of_Gyorgy_Niemcsik_1897.png",
+      "sha256": "004129b62b9b028d17d71aa369dc692db4a7e8ce6f6d367555d0227d48f2bbbd",
+      "bytes": 503854,
+      "pixels": "1715x219",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 4
+    },
+    {
+      "file": "Baptism_of_Janos_Demko_1873.png",
+      "sha256": "79df44be0c3ed4b19f7775b0847b8850b8db6cbe75b0c5660072492e7dc1d655",
+      "bytes": 525692,
+      "pixels": "1791x198",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 4
+    },
+    {
+      "file": "Baptism_of_Janos_Demko_1897.png",
+      "sha256": "ecc71af81b0ae18aa97ae0efdfad1327d27af48493ca0a69a2fa09225363fcc0",
+      "bytes": 534476,
+      "pixels": "1687x214",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 4
+    },
+    {
+      "file": "Baptism_of_Janos_Duska_1894.png",
+      "sha256": "35f56ceeb3981854a6922eaaf4bf1712f8ca4e62175df348c7ed041373635da1",
+      "bytes": 688035,
+      "pixels": "1837x281",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 4
+    },
+    {
+      "file": "Baptism_of_Janos_Duska_1905.png",
+      "sha256": "2ca2e6119e6c4f950d82c0e841205d55a7c667e9bf526be6c096ff9f08c3ee09",
+      "bytes": 730066,
+      "pixels": "1782x291",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 4
+    },
+    {
+      "file": "Baptism_of_Janos_Hankocssak_Nyemcsik_1905.png",
+      "sha256": "fa4d42368ffa975261f70f5c25188e951bb41635d38d2f0fff1bcdc7c1100358",
+      "bytes": 1083283,
+      "pixels": "1734x415",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 4
+    },
+    {
+      "file": "Baptism_of_Janos_Kocsis_1888.png",
+      "sha256": "58f9b4009576127bcf24d10ed4566eca52cb75eee110c05e442e8feed09bf893",
+      "bytes": 893479,
+      "pixels": "1719x365",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 4
+    },
+    {
+      "file": "Baptism_of_Janos_Kocsis_1889.png",
+      "sha256": "bff2d196e57a3586d248a54b3e1418bb07fa8f79b67bfb4aea2641a106c1de5b",
+      "bytes": 597674,
+      "pixels": "1522x355",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 4
+    },
+    {
+      "file": "Baptism_of_Janos_Marzinko_Kocsis_1901.png",
+      "sha256": "7ff4a3bd5ffd7ec64910a8e7bb921db83be63073b69a11ffcdc73808535c25ca",
+      "bytes": 592840,
+      "pixels": "1755x234",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 5
+    },
+    {
+      "file": "Baptism_of_Janos_Nyemcsik_1875.png",
+      "sha256": "f98d6979b42069a96d3651f3efbc45972166e4ddeca9ed4aee93dd65962cddf9",
+      "bytes": 498448,
+      "pixels": "1624x213",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 5
+    },
+    {
+      "file": "Baptism_of_Janos_Nyemcsik_1881.png",
+      "sha256": "478e4dd222be3f5dfee8e62499f684c9e2e5fdff9b7ac9c6dd5c35dc9e68c9b3",
+      "bytes": 442790,
+      "pixels": "1804x180",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 5
+    },
+    {
+      "file": "Baptism_of_Janos_Nyemcsik_1888.png",
+      "sha256": "dfe5ff237eda1d9458b7dd30ee3cc4f19bda011b10a99e506e283a44d021169d",
+      "bytes": 473241,
+      "pixels": "1364x293",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 5
+    },
+    {
+      "file": "Baptism_of_Janos_Nyemcsik_1904.png",
+      "sha256": "37e41e582c26f67ae972dc0f70983995657cd83697872f2343654105f9de45cf",
+      "bytes": 499756,
+      "pixels": "1791x210",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 5
+    },
+    {
+      "file": "Baptism_of_Joannes_Krak_1866.png",
+      "sha256": "0b37c599e5792cc271e97a792fd9e0ab65029a82f2234f693e40a35d3821fd5e",
+      "bytes": 400114,
+      "pixels": "1845x142",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 5
+    },
+    {
+      "file": "Baptism_of_Joannes_Krak_1867.png",
+      "sha256": "b8be83ef8ebcd62a97de669d48c3e6228a4b865656690fc0e9ed7251c1edfa48",
+      "bytes": 372444,
+      "pixels": "1692x141",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 5
+    },
+    {
+      "file": "Baptism_of_Joszef_Duska_1910.png",
+      "sha256": "5ca63e9d3518d75eec1eb71bdb65bd5de7c61a2ce94e3f7f9c47b0a03853f601",
+      "bytes": 698094,
+      "pixels": "1834x284",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 5
+    },
+    {
+      "file": "Baptism_of_Joszef_Duska_1912.png",
+      "sha256": "8b2c25f1b8a6f0e7225ba5cbb81211519aee62b2823188296b4266b98b90125c",
+      "bytes": 937787,
+      "pixels": "1853x379",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 5
+    },
+    {
+      "file": "Baptism_of_Jozsef_Duska_1885.png",
+      "sha256": "49f9633b09f2bd61a1793198791da464c5c4116b69ec5ea3ec3bf4c5489f5e06",
+      "bytes": 447697,
+      "pixels": "1828x172",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 5
+    },
+    {
+      "file": "Baptism_of_Julia_Hornyak__Nyemcsik_1886.png",
+      "sha256": "f0e4eee9901a83eb049589783f1c413b41df4f764a3b66be7af12c53e2d900d6",
+      "bytes": 551664,
+      "pixels": "1814x222",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 5
+    },
+    {
+      "file": "Baptism_of_Maria_Demko_1896.png",
+      "sha256": "12c1cb52c4b47aa9d44dc9146a650b5fbc576da069d01463440f05dcb8db3e9c",
+      "bytes": 615220,
+      "pixels": "1737x258",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 6
+    },
+    {
+      "file": "Baptism_of_Maria_Duska_1875.png",
+      "sha256": "e006f764dca14fc4578fa6974edc9645be09df46c6f855f38bf6fe4c9131a37e",
+      "bytes": 427007,
+      "pixels": "1708x171",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 6
+    },
+    {
+      "file": "Baptism_of_Maria_Duska_1898.png",
+      "sha256": "54d459f93bf25ab770fa35b998ba519136b2a69dc127988caf23073fba06b2e0",
+      "bytes": 592077,
+      "pixels": "1721x233",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 6
+    },
+    {
+      "file": "Baptism_of_Maria_Duska_1903.png",
+      "sha256": "2a88f9fbb38425cff86533c6ff38acc0ff4081999fae8ba64b449ebaf259db04",
+      "bytes": 488120,
+      "pixels": "1782x203",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 6
+    },
+    {
+      "file": "Baptism_of_Maria_Duska_1905.png",
+      "sha256": "0c3c786f5a9abafe831ef05d760db978d36071386d3c283491371384989eaf47",
+      "bytes": 536274,
+      "pixels": "1757x217",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 6
+    },
+    {
+      "file": "Baptism_of_Maria_Kocsis_1871.png",
+      "sha256": "055b3cf57e9605efeaa12e29e332a054ae47316aacd637063d0f065e5723265d",
+      "bytes": 419598,
+      "pixels": "1779x172",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 6
+    },
+    {
+      "file": "Baptism_of_Maria_Kocsis_1884.png",
+      "sha256": "f89fc1842087fdbb940a5855677c9e3bd7c731bc4400af04bd62eba994171533",
+      "bytes": 417835,
+      "pixels": "1811x170",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 6
+    },
+    {
+      "file": "Baptism_of_Maria_Kocsis_1906.png",
+      "sha256": "b80674c7578ce9826383e9289af0dcf5dafdf119b476f300b677e6b11544c9c8",
+      "bytes": 371514,
+      "pixels": "1765x145",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 6
+    },
+    {
+      "file": "Baptism_of_Maria_Kocsis_1911.png",
+      "sha256": "49f430ddb308bd42a0f8e18e9a56f0ab4904ba9d6246b56e5bf37711b9a381d2",
+      "bytes": 762637,
+      "pixels": "1746x339",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 6
+    },
+    {
+      "file": "Baptism_of_Maria_Marcinko_Kocsis_1891.png",
+      "sha256": "78f8d803d5f868cf67eeebc525f79a67adbe637a66e5ef7d82718f96d42727f6",
+      "bytes": 915264,
+      "pixels": "1652x402",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 6
+    },
+    {
+      "file": "Baptism_of_Maria_Marczinko_1879.png",
+      "sha256": "1098af837a5f8356f00b7983cda9e58b64a00b8064b268862e8c97e7a4df1dd5",
+      "bytes": 499670,
+      "pixels": "1807x189",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 6
+    },
+    {
+      "file": "Baptism_of_Maria_Nyemcsik_1866.png",
+      "sha256": "e687797bdaaeb210000f09fb109979b0ce7f96395cb6312a36e1564940a71381",
+      "bytes": 302902,
+      "pixels": "1755x118",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 6
+    },
+    {
+      "file": "Baptism_of_Maria_Nyemcsik_1872-1.png",
+      "sha256": "8f47ecc3c74069a788f3839bfa8930f92d5fcac589f445cd87a498140db32a6f",
+      "bytes": 350953,
+      "pixels": "1672x143",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 6
+    },
+    {
+      "file": "Baptism_of_maybe_Mihaily_Duska_or_Barka_1872.png",
+      "sha256": "6b0e36068ffd760bf69eefe44cc3f9cfc2ac8244d8e55da9c6d673b05c34fe79",
+      "bytes": 514319,
+      "pixels": "1885x188",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 7
+    },
+    {
+      "file": "Baptism_of_Michael_Kocsis_1867.png",
+      "sha256": "591665ddfa525328a3a5de28299b8cb9c0c3225713bb800e77c0670fb3c5857c",
+      "bytes": 617576,
+      "pixels": "1639x244",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 7
+    },
+    {
+      "file": "Baptism_of_Michael_Nyemcsik_1868.png",
+      "sha256": "5471e5b4a4510b8ce2ce67c1f26ba4de5c79652d1d2134f5af9203d189505983",
+      "bytes": 458674,
+      "pixels": "1768x175",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 7
+    },
+    {
+      "file": "Baptism_of_Michael_Nyemcsik_1868-2.png",
+      "sha256": "1eeec60c311aacc9a721d40d1aa8e8beff098eb427be2dbc51dcc1da783a13f4",
+      "bytes": 486282,
+      "pixels": "1843x185",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 7
+    },
+    {
+      "file": "Baptism_of_Mihaily_Duska_1903.png",
+      "sha256": "ed498f6361c61a9d88c56716dfc66fc4c75bede6f5608ac93fe6fb8017359846",
+      "bytes": 540340,
+      "pixels": "1806x236",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 7
+    },
+    {
+      "file": "Baptism_of_Mihaily_Nyemcsik_1878.png",
+      "sha256": "1c53f1ae22aa3c1bd3f0242bc22d27285382b6542ec7fdd008125d49bdbfc917",
+      "bytes": 533545,
+      "pixels": "1670x209",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 7
+    },
+    {
+      "file": "Baptism_of_Mihaily_Vakilva_Kocsis_1899.png",
+      "sha256": "a57fc1c47c3a05131340b0aeb5a02d2b1b6ef89ea21b94accd2bf195860b4fe4",
+      "bytes": 618384,
+      "pixels": "1550x283",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 7
+    },
+    {
+      "file": "Baptism_of_Mihaly_Duska_1896.png",
+      "sha256": "2a200256c48706b843a1c7255195c17d64a6f0473615f0d3b0723d92f16201b5",
+      "bytes": 507655,
+      "pixels": "1853x207",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 7
+    },
+    {
+      "file": "Baptism_of_Mihaly_Niemcsik_1890.png",
+      "sha256": "efd8be1087cbd9a759f18bd2d36b95d6d2391e174a5dad6fafb47d2f9d00452c",
+      "bytes": 500764,
+      "pixels": "1520x294",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 7
+    },
+    {
+      "file": "Baptism_of_Miklos_Duska_1890.png",
+      "sha256": "efb40d3bc04ff9d9f3e57b1947ce2a8f4032ab578aeb3e864982b0594d40c91c",
+      "bytes": 952085,
+      "pixels": "1737x407",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 7
+    },
+    {
+      "file": "Baptism_of_Unknown_Krak_1866.png",
+      "sha256": "fa6b3afc734db0f7eab3b85d2aa9fd1c82028a3890b8db82461f025b30b618ba",
+      "bytes": 610184,
+      "pixels": "1759x199",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 8
+    },
+    {
+      "file": "Baptism_of_Unknown_Krak_1866-2.png",
+      "sha256": "f9c50a637bacbd387ac43e144930dcb7ed5c6faba58a28c7df156bf5ec15d6ce",
+      "bytes": 528443,
+      "pixels": "1705x187",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 8
+    },
+    {
+      "file": "Baptism_of_Zsuzanna_Duska_1902.png",
+      "sha256": "275387db0751b44b03ef12d7c0e50c0df55638633359fb53c4f97957d9f4b2da",
+      "bytes": 538357,
+      "pixels": "1785x232",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 8
+    },
+    {
+      "file": "Baptism_of_Zsuzsanna_and_Borbala_Duska_1807_TWINS.png",
+      "sha256": "ffacd71748935ddaa95a8d60f724fe310e19999317497dbd957b099c019b664e",
+      "bytes": 836178,
+      "pixels": "1563x373",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 8
+    },
+    {
+      "file": "Baptism_of_Zsuzsanna_Hankscsak_Nyemcsik_1901.png",
+      "sha256": "e041a9feedcb011a8f2e2a26003aba19dc8d5c388124712c68cc716593a1b854",
+      "bytes": 462332,
+      "pixels": "1701x196",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 8
+    },
+    {
+      "file": "Baptisms_of_Anna_and_Maria_Duska_1883_-_twins.png",
+      "sha256": "480a0c32528d32e0008aa2f26876a890ec3d14050685515c0fe78e87321889cd",
+      "bytes": 851098,
+      "pixels": "1862x344",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 8
+    },
+    {
+      "file": "Birth_of_Gyorgy_Marcinzko_Kocsis_1904.png",
+      "sha256": "4b478cef36b796b6c91b957d7763deccecdee3d493024e8af4ceb7133ab7d32f",
+      "bytes": 805065,
+      "pixels": "1841x332",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 8
+    },
+    {
+      "file": "Birth_of_Janos_Demko_1901.png",
+      "sha256": "a3229293b24c26dbeb34e34f6dc595679053aa8291e071f353e6461fab43ec82",
+      "bytes": 707613,
+      "pixels": "1708x300",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 8
+    },
+    {
+      "file": "Birth_of_Janos_Duska_1877.png",
+      "sha256": "05aec63b3cdcc300c26ffae304fb19fc8fb2efeaf7d214fbd886852070dd7e40",
+      "bytes": 354356,
+      "pixels": "1731x140",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 8
+    },
+    {
+      "file": "Senne_Baptisms_pg_1.jpg",
+      "sha256": "c3f9ef408cb6f761d503c193517908eeedda10b1defe7802f50183bb4afee6bf",
+      "bytes": 1311890,
+      "pixels": "2576x2030",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 8
+    },
+    {
+      "file": "Senne_Baptisms_Pg_2.jpg",
+      "sha256": "23614cceb3ccd9a8bc88e0cb533a866ae022cba8ee49f47e56e5866cfbc3349b",
+      "bytes": 1201566,
+      "pixels": "2576x1985",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 8
+    }
+  ],
+  "held": [
+    {
+      "file": "senne_overview_of_baptisms_up_till_2025-04-23.odt",
+      "sha256": "4037cacb23babb63b7bb6ff64282b438d3b3b627f2766167b665fc3ad0238b6d",
+      "bytes": 70806,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "written by the owner about this family; not opened (blind rule, X-011 item 1)",
+      "file_in_repo": false
     }
   ]
 }

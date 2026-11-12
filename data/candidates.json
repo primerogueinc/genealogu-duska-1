@@ -5308,5 +5308,988 @@
     "relation": "Parent in family group FG-52.",
     "route": "duska",
     "route_note": ""
+  },
+  {
+    "id": "K-448",
+    "name": "Mária Mihalyó",
+    "vitals": "b. 30 Sep 1886, d. 14 Jul 1888; Szenna 108",
+    "proof": "documented",
+    "sources": [
+      "S-162"
+    ],
+    "relation": "Child in D-009-28.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-449",
+    "name": "Borbála Kocsis",
+    "vitals": "b. 15 Aug 1892; Szenna 21",
+    "proof": "documented",
+    "sources": [
+      "S-163"
+    ],
+    "relation": "Child in D-009-29, family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-450",
+    "name": "Borbála Marczinko",
+    "vitals": "b. 5 Nov 1906; Ungszenna 35; married 24 Nov 1947",
+    "proof": "documented",
+    "sources": [
+      "S-164"
+    ],
+    "relation": "Child in D-009-30, family group FG-58.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-451",
+    "name": "Georgius Nyemcsik",
+    "vitals": "b. 21 May [1869], d. 19 Apr 1870; Szenna 47",
+    "proof": "documented",
+    "sources": [
+      "S-165"
+    ],
+    "relation": "Child in D-009-31, family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-452",
+    "name": "György Duska",
+    "vitals": "twin, b. 11 Jul 1898, d. 8 Dec 1898; Szenna 92",
+    "proof": "documented",
+    "sources": [
+      "S-166"
+    ],
+    "relation": "Child in D-009-32, family group FG-49.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-453",
+    "name": "György Duska",
+    "vitals": "b. 10 Feb [1872], d. 8 Jul 1875; Szenna 6",
+    "proof": "documented",
+    "sources": [
+      "S-167"
+    ],
+    "relation": "Child in D-009-33, family group FG-47.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-454",
+    "name": "György Duska",
+    "vitals": "b. 18 Jan [1880]; Szenna 6; son of the elder György and Mária Kozej",
+    "proof": "documented",
+    "sources": [
+      "S-168"
+    ],
+    "relation": "Child in D-009-34, family group FG-47.",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-455",
+    "name": "György Duska",
+    "vitals": "b. 8 Feb [1880]; Szenna 6; son of the younger György and Erzsébet Schwarz",
+    "proof": "documented",
+    "sources": [
+      "S-169"
+    ],
+    "relation": "Child in D-009-35, family group FG-48.",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-456",
+    "name": "Pál Duska",
+    "vitals": "b. 28 Oct 1887; Szenna 6",
+    "proof": "documented",
+    "sources": [
+      "S-170"
+    ],
+    "relation": "Child in D-009-36, family group FG-48.",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-457",
+    "name": "György Duska",
+    "vitals": "b. 17 Feb 1910; Ungszenna 138; married Maria Kicinka at Dubravka, 8 Jun 1937",
+    "proof": "documented",
+    "sources": [
+      "S-172"
+    ],
+    "relation": "Child in D-009-38, family group FG-49.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-458",
+    "name": "György Kocsis",
+    "vitals": "b. 27 Dec [1882]; Szenna 83",
+    "proof": "documented",
+    "sources": [
+      "S-173"
+    ],
+    "relation": "Child in D-009-39, family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-459",
+    "name": "Anna Kocsis",
+    "vitals": "b. 8 Mar 1887; Szenna 23",
+    "proof": "documented",
+    "sources": [
+      "S-174"
+    ],
+    "relation": "Child in D-009-40, family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-460",
+    "name": "György Kocsis",
+    "vitals": "b. 6 Oct 1889; Szenna 95",
+    "proof": "documented",
+    "sources": [
+      "S-175"
+    ],
+    "relation": "Child in D-009-41, family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-461",
+    "name": "György Nyemcsik",
+    "vitals": "b. and d. 30 Apr 1887; Szenna 111 [?]",
+    "proof": "documented",
+    "sources": [
+      "S-176"
+    ],
+    "relation": "Child in D-009-42, family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-462",
+    "name": "György Nyemcsik",
+    "vitals": "b. 23 Sep 1897; Szenna 109",
+    "proof": "documented",
+    "sources": [
+      "S-177"
+    ],
+    "relation": "Child in D-009-43, family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-463",
+    "name": "János Demko",
+    "vitals": "b. 18 Jan [1873]; Szenna 99; legitimised 1895",
+    "proof": "documented",
+    "sources": [
+      "S-178"
+    ],
+    "relation": "Child in D-009-44, family group FG-53.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-464",
+    "name": "János Demko",
+    "vitals": "b. 17 Dec 1897, d. 19 Jan 1898; Szenna 92",
+    "proof": "documented",
+    "sources": [
+      "S-179"
+    ],
+    "relation": "Child in D-009-45, family group FG-53.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-465",
+    "name": "János Duska",
+    "vitals": "b. 23 May 1894; Szenna 73",
+    "proof": "documented",
+    "sources": [
+      "S-180"
+    ],
+    "relation": "Child in D-009-46, family group FG-49.",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-466",
+    "name": "János Duska",
+    "vitals": "b. 2 Apr 1905; Szenna 105",
+    "proof": "documented",
+    "sources": [
+      "S-181"
+    ],
+    "relation": "Child in D-009-47, family group FG-54.",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-467",
+    "name": "János Hankosnák",
+    "vitals": "b. 20 Apr 1905, d. 14 May 1908; Szenna 79",
+    "proof": "documented",
+    "sources": [
+      "S-182"
+    ],
+    "relation": "Child in D-009-48, family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-468",
+    "name": "János Kocsis",
+    "vitals": "b. 13 Oct 1888, d. 5 Dec 1888; Szenna 103",
+    "proof": "documented",
+    "sources": [
+      "S-183"
+    ],
+    "relation": "Child in D-009-49, family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-469",
+    "name": "János Kocsis",
+    "vitals": "b. 27 Jul 1889; Szenna 21",
+    "proof": "documented",
+    "sources": [
+      "S-184"
+    ],
+    "relation": "Child in D-009-50, family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-470",
+    "name": "János Marczinko",
+    "vitals": "b. 14 Apr 1901; Szenna 23",
+    "proof": "documented",
+    "sources": [
+      "S-185"
+    ],
+    "relation": "Child in D-009-51, family group FG-58.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-471",
+    "name": "János Nyemcsik",
+    "vitals": "b. 22 Jul [1875], d. 15 Apr 1879; Szenna 77",
+    "proof": "documented",
+    "sources": [
+      "S-186"
+    ],
+    "relation": "Child in D-009-52, family group FG-57.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-472",
+    "name": "János Nyemcsik",
+    "vitals": "b. 24 Mar [1881]; Nagyszeretva 37 [?]",
+    "proof": "documented",
+    "sources": [
+      "S-187"
+    ],
+    "relation": "Child in D-009-53, family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-473",
+    "name": "János Nyemcsik",
+    "vitals": "b. 26 Jun 1888; Szenna 116",
+    "proof": "documented",
+    "sources": [
+      "S-188"
+    ],
+    "relation": "Child in D-009-54, family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-474",
+    "name": "János Nyemcsik",
+    "vitals": "b. 24 May 1904, d. 28 Aug 1906; Nagyszeretva 40",
+    "proof": "documented",
+    "sources": [
+      "S-189"
+    ],
+    "relation": "Child in D-009-55, family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-475",
+    "name": "Joannes [Tkacs?]",
+    "vitals": "b. 20 Mar [1866], d. 13 Jun 1866 [?]; Nagyszeretva 84",
+    "proof": "documented",
+    "sources": [
+      "S-190"
+    ],
+    "relation": "Child in D-009-56.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-476",
+    "name": "Joannes Mraz",
+    "vitals": "b. 2 Mar [1867]; Jesztreb 55",
+    "proof": "documented",
+    "sources": [
+      "S-191"
+    ],
+    "relation": "Child in D-009-57.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-477",
+    "name": "József Duska",
+    "vitals": "b. 31 Oct 1910; Ungszenna 42",
+    "proof": "documented",
+    "sources": [
+      "S-192"
+    ],
+    "relation": "Child in D-009-58, family group FG-59.",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-478",
+    "name": "József Duska",
+    "vitals": "b. 5 Jan 1912, d. 27 Sep 1913; Ungszenna 138",
+    "proof": "documented",
+    "sources": [
+      "S-193"
+    ],
+    "relation": "Child in D-009-59, family group FG-49.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-479",
+    "name": "József Duska",
+    "vitals": "b. 29 May 1885, d. 18 Aug 1950; Szenna 6",
+    "proof": "documented",
+    "sources": [
+      "S-194"
+    ],
+    "relation": "Child in D-009-60, family group FG-48.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-480",
+    "name": "Júlia Hornyák",
+    "vitals": "b. 20 May 1886; Pályin 38",
+    "proof": "documented",
+    "sources": [
+      "S-195"
+    ],
+    "relation": "Child in D-009-61.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-481",
+    "name": "Mária Demko",
+    "vitals": "b. 8 Apr 1896; Szenna 72 [?]; not Ahn 9",
+    "proof": "documented",
+    "sources": [
+      "S-196"
+    ],
+    "relation": "Child in D-009-62, family group FG-53.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-482",
+    "name": "Maria Duska",
+    "vitals": "b. 7 Aug [1875]; Szenna 6",
+    "proof": "documented",
+    "sources": [
+      "S-197"
+    ],
+    "relation": "Child in D-009-63, family group FG-47.",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-483",
+    "name": "Mária Duska",
+    "vitals": "b. 18 Sep 1898; Szenna 1",
+    "proof": "documented",
+    "sources": [
+      "S-198"
+    ],
+    "relation": "Child in D-009-64, family group FG-50.",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-484",
+    "name": "Mária Duska",
+    "vitals": "b. 19 Jul 1903; Szenna 115",
+    "proof": "documented",
+    "sources": [
+      "S-199"
+    ],
+    "relation": "Child in D-009-65, family group FG-54.",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-485",
+    "name": "Mária Duska",
+    "vitals": "b. 28 May 1905, d. 12 Feb 1908; Szenna 98",
+    "proof": "documented",
+    "sources": [
+      "S-200"
+    ],
+    "relation": "Child in D-009-66, family group FG-49.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-486",
+    "name": "Maria Kocsis",
+    "vitals": "b. [1871]; Szenna 90",
+    "proof": "documented",
+    "sources": [
+      "S-201"
+    ],
+    "relation": "Child in D-009-67, family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-487",
+    "name": "Maria Kocsis",
+    "vitals": "b. 28 Feb 1884; Szenna 32",
+    "proof": "documented",
+    "sources": [
+      "S-202"
+    ],
+    "relation": "Child in D-009-68, family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-488",
+    "name": "Mária Kocsis",
+    "vitals": "b. 1 Mar 1906; Szenna 109",
+    "proof": "documented",
+    "sources": [
+      "S-203"
+    ],
+    "relation": "Child in D-009-69, family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-489",
+    "name": "Mária Kocsis",
+    "vitals": "b. 21 Dec 1911; Ungszenna 23",
+    "proof": "documented",
+    "sources": [
+      "S-204"
+    ],
+    "relation": "Child in D-009-70, family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-490",
+    "name": "Mária Marcinko",
+    "vitals": "b. 9 Mar 1891; Szenna 27",
+    "proof": "documented",
+    "sources": [
+      "S-205"
+    ],
+    "relation": "Child in D-009-71, family group FG-58.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-491",
+    "name": "Mária Marczinko",
+    "vitals": "b. Jan 1879; Solymos",
+    "proof": "documented",
+    "sources": [
+      "S-206"
+    ],
+    "relation": "Child in D-009-72, family group FG-55.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-492",
+    "name": "Maria Nyemcsik",
+    "vitals": "b. 23 Jan [1866]; Szenna 79",
+    "proof": "documented",
+    "sources": [
+      "S-207"
+    ],
+    "relation": "Child in D-009-73, family group FG-57.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-493",
+    "name": "Maria Vojnyik",
+    "vitals": "b. 12 Aug [1872]; Szenna 27",
+    "proof": "documented",
+    "sources": [
+      "S-208"
+    ],
+    "relation": "Child in D-009-74.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-494",
+    "name": "Mihály [Duska]",
+    "vitals": "b. 9 Nov [1872]; Szenna 5; father's name smudged",
+    "proof": "documented",
+    "sources": [
+      "S-209"
+    ],
+    "relation": "Child in D-009-75, family group FG-48.",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-495",
+    "name": "Michael Kocsis",
+    "vitals": "b. 27 May [1867], d. 7 Nov 1949; Szenna 93",
+    "proof": "documented",
+    "sources": [
+      "S-210"
+    ],
+    "relation": "Child in D-009-76, family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-496",
+    "name": "Michael Nyemcsik",
+    "vitals": "b. 28 Jul 1868, d. 8 Aug 1868; Szenna 79",
+    "proof": "documented",
+    "sources": [
+      "S-211"
+    ],
+    "relation": "Child in D-009-77, family group FG-57.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-497",
+    "name": "Mihály Duska",
+    "vitals": "b. 3 Jul 1903, bapt. 4 Jul; Szenna 79; no death noted. Candidate for Ahn 8 (H-046)",
+    "proof": "documented",
+    "sources": [
+      "S-213"
+    ],
+    "relation": "Child in D-009-79, family group FG-49.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-498",
+    "name": "Mihály Nyemcsik",
+    "vitals": "b. 29 Aug [1878], d. 14 Apr 1879; Pályin",
+    "proof": "documented",
+    "sources": [
+      "S-214"
+    ],
+    "relation": "Child in D-009-80, family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-499",
+    "name": "Mihály Vakilya",
+    "vitals": "b. 1 Jan 1899; Solymos 16",
+    "proof": "documented",
+    "sources": [
+      "S-215"
+    ],
+    "relation": "Child in D-009-81.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-500",
+    "name": "Mihály Duska",
+    "vitals": "b. 6 Dec 1896, bapt. 8 Dec; Szenna 1; no death noted. Candidate for Ahn 8 (H-047)",
+    "proof": "documented",
+    "sources": [
+      "S-216"
+    ],
+    "relation": "Child in D-009-82, family group FG-50.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-501",
+    "name": "Mihály Nyemcsik",
+    "vitals": "b. 19 Jan 1890; Szenna 109",
+    "proof": "documented",
+    "sources": [
+      "S-217"
+    ],
+    "relation": "Child in D-009-83, family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-502",
+    "name": "Miklós Duska",
+    "vitals": "b. 28 Nov 1890; Szenna 6",
+    "proof": "documented",
+    "sources": [
+      "S-218"
+    ],
+    "relation": "Child in D-009-84, family group FG-48.",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-503",
+    "name": "Josephus Mraz",
+    "vitals": "b. 17 Sep [1866]; Jesztreb 42",
+    "proof": "documented",
+    "sources": [
+      "S-219"
+    ],
+    "relation": "Child in D-009-85.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-504",
+    "name": "Zsuzsánna Duska",
+    "vitals": "b. 25 May 1902; Szenna 5",
+    "proof": "documented",
+    "sources": [
+      "S-221"
+    ],
+    "relation": "Child in D-009-87, family group FG-50.",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-505",
+    "name": "Zsuzsanna Duska",
+    "vitals": "twin, b. 29 Jun 1907, d. 17 Jul 1908; Ungszenna 53",
+    "proof": "documented",
+    "sources": [
+      "S-222"
+    ],
+    "relation": "Child in D-009-88, family group FG-54.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-506",
+    "name": "Borbála Duska",
+    "vitals": "twin, b. 30 Jun 1907, d. 21 Aug 1907; Ungszenna 53",
+    "proof": "documented",
+    "sources": [
+      "S-222"
+    ],
+    "relation": "Child in D-009-88, family group FG-54.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-507",
+    "name": "Zsuzsanna Hankosnák",
+    "vitals": "b. 19 Feb 1901; Szenna 8",
+    "proof": "documented",
+    "sources": [
+      "S-223"
+    ],
+    "relation": "Child in D-009-89, family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-508",
+    "name": "Anna Duska",
+    "vitals": "twin, b. 14 Dec 1883; Szenna 6; marked with a cross",
+    "proof": "documented",
+    "sources": [
+      "S-224"
+    ],
+    "relation": "Child in D-009-90, family group FG-47.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-509",
+    "name": "Maria Duska",
+    "vitals": "twin, b. 14 Dec 1883; Szenna 6; marked with a cross",
+    "proof": "documented",
+    "sources": [
+      "S-224"
+    ],
+    "relation": "Child in D-009-90, family group FG-47.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-510",
+    "name": "György Marczinko",
+    "vitals": "b. 12 Jan 1904; Szenna 37",
+    "proof": "documented",
+    "sources": [
+      "S-225"
+    ],
+    "relation": "Child in D-009-91, family group FG-58.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-511",
+    "name": "János Demko",
+    "vitals": "b. 18 Oct 1901, d. 25 May 1902; Szenna 113",
+    "proof": "documented",
+    "sources": [
+      "S-226"
+    ],
+    "relation": "Child in D-009-92, family group FG-53.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-512",
+    "name": "János Duska",
+    "vitals": "b. 4 Aug [1877]; Szenna 6",
+    "proof": "documented",
+    "sources": [
+      "S-227"
+    ],
+    "relation": "Child in D-009-93, family group FG-48.",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-513",
+    "name": "György Duska the elder (idősb)",
+    "vitals": "Roman Catholic cottar of Szenna 6; wives Anna Krak ([1866] to [1875]) and Mária Kozej ([1880], 1883)",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-47.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-514",
+    "name": "Mária Kozej",
+    "vitals": "Greek Catholic; wife of György Duska the elder, [1880] and 1883",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-47.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-515",
+    "name": "Mihály Duska, miller",
+    "vitals": "Roman Catholic miller of Szenna 1 (1896, 1898) and 5 (1902); wife Anna Halász",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-50.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-516",
+    "name": "János Duska",
+    "vitals": "Roman Catholic; miller 1900, cottar 1903, farmer 1905 and 1907; Szenna 115, 105; Ungszenna 53; wife Anna Opsitnyik",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-54.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-517",
+    "name": "József Duska",
+    "vitals": "Roman Catholic cottar of Ungszenna 42; father 1910",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-59.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-518",
+    "name": "Anna Halahan",
+    "vitals": "Greek Catholic; wife of József Duska, 1910",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-59.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-519",
+    "name": "János Nyemcsik",
+    "vitals": "Roman Catholic cottar of Szenna 79 and 77; father [1866] to [1875]; father of the bride in 1892",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-57.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-520",
+    "name": "Erzsébet Hresko, alias Minarcsin",
+    "vitals": "Roman Catholic; wife of János Nyemcsik; mother [1866] to [1875]; mother of the bride in 1892",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-57.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-521",
+    "name": "György Kocsis",
+    "vitals": "Roman Catholic, of Szenna; wives Maria Bumbera ([1867]), Maria Valyo ([1871]), Erzsébet Marczinko ([1882] to 1892); one man or several",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-522",
+    "name": "Erzsébet Marczinko",
+    "vitals": "wife of György Kocsis, [1882] to 1892",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-523",
+    "name": "Mihály Marczinko",
+    "vitals": "Roman Catholic cottar, later farmer, of Szenna 27, 23, 37 and Ungszenna 35, 27; father 1891 to 1909",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-58.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-524",
+    "name": "Mária Kocsis",
+    "vitals": "Roman Catholic, of Szenna; wife of Mihály Marczinko",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-58.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-525",
+    "name": "János Demko the elder [?]",
+    "vitals": "Roman Catholic cottar of Szenna 99; father [1873]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-53.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-526",
+    "name": "Ilona Mihalyo",
+    "vitals": "mother [1873]; married János Demko by 1895",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-53.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-527",
+    "name": "András Duska",
+    "vitals": "b. [1868] at Szenna; 24 at his marriage on 18 Jan 1892; d. 22 Aug 1940",
+    "proof": "documented",
+    "sources": [
+      "S-231",
+      "S-140"
+    ],
+    "relation": "Groom in D-006-03; son of György Duska and Anna Krak. Father in family group FG-49.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-528",
+    "name": "Anna Nyemcsik",
+    "vitals": "b. 24 Aug [1872] at Szenna 79; 19 at her marriage on 18 Jan 1892; written Minarcsin and Nyemecz at her children's baptisms",
+    "proof": "documented",
+    "sources": [
+      "S-231",
+      "S-157"
+    ],
+    "relation": "Bride in D-006-03; daughter of János Nyemcsik and Erzsébet Hresko. Mother in family group FG-49.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-529",
+    "name": "Pál Duska",
+    "vitals": "d. May 1838 aged 68, so b. about 1770; Solymos, Reformed",
+    "proof": "documented",
+    "sources": [
+      "S-233"
+    ],
+    "relation": "Burial in D-006-05.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-530",
+    "name": "György Dusko",
+    "vitals": "d. Feb 1833 aged 29, so b. about 1804; Solymos, Reformed",
+    "proof": "documented",
+    "sources": [
+      "S-233"
+    ],
+    "relation": "Burial in D-006-05.",
+    "route": "duska",
+    "route_note": ""
   }
 ]

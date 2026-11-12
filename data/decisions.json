@@ -460,5 +460,47 @@
   "date": "2026-11-12",
   "decided": "The untitled delivery of eleven strips is taken as part 2 of folder F-009, which stays open.",
   "why": "The owner asked 'next batch from Senne Catholic?' and the files continue the alphabetical run."
+ },
+ {
+  "id": "DEC-78",
+  "date": "2026-11-12",
+  "decided": "The file 'senne_overview_of_baptisms_up_till_2025-04-23.odt', sent with the strips, was not opened. Its name, size and SHA-256 are logged in the folder manifest and it is held.",
+  "why": "By its name it is the owner's own summary of these baptisms, written in April 2025: his work on this family, which no blind agent reads (X-011 item 1). Reading it cannot be undone. The owner or the coordinator can rule otherwise; it would then be logged as given."
+ },
+ {
+  "id": "DEC-79",
+  "date": "2026-11-12",
+  "decided": "Parts 3 to 8 of folder F-009 and the four files found in the Duska pile at private commit 4f16658 are one batch, B-022, and one commit.",
+  "why": "They arrived in the same hour and the marriage entry from the pile is what makes sense of the strips; splitting them would leave one snapshot citing a document the repository did not yet hold."
+ },
+ {
+  "id": "DEC-80",
+  "date": "2026-11-12",
+  "decided": "H-046 is set at 55 and H-047 at 22; nobody above Ahn 8 is added to the tree. H-054 states the grandparents as a dependent hypothesis.",
+  "why": "Two baptisms fit. Nothing in hand ties either boy to the father of 1929 (X-009, rule 20). The age gap to Maria Demko and the father's standing favour the boy of 1903; neither is proof."
+ },
+ {
+  "id": "DEC-81",
+  "date": "2026-11-12",
+  "decided": "The fit between the owner's collected surnames (Krak, Nyemcsik) and the household of András Duska is recorded and given no weight. The fit with prior PR-6 is treated the same way.",
+  "why": "X-004 and X-011: what the owner filed, and what he has written, are his conclusions. The comparison is meant to test this rebuild against them, not to borrow from them."
+ },
+ {
+  "id": "DEC-82",
+  "date": "2026-11-12",
+  "decided": "All four pile images are committed. The gravestone photograph is kept as received, with its camera make and model in the file; it carries no location.",
+  "why": "X-015: nobody shown is living and none is about the owner. The other stones in the photograph name the dead of other families, in a public cemetery."
+ },
+ {
+  "id": "DEC-83",
+  "date": "2026-11-12",
+  "decided": "The reading 'if. Duska György, miller' of 1895 (D-009-14) is left as read after a second look, and the miller is taken to be Mihály on three later entries. The 'Du[s]ka or Drska' of 1900 is settled as Duska. H-049 refuted.",
+  "why": "A doubtful entry is settled by clearer ones for the same couple, not by the name being looked for."
+ },
+ {
+  "id": "DEC-84",
+  "date": "2026-11-12",
+  "decided": "Folder F-009 stays open.",
+  "why": "The run of file names has reached its end, but only the owner closes a folder (rule 1)."
  }
 ]

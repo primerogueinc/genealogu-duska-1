@@ -3,7 +3,37 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-021. Read ledger v19, method note 1 and rubric v1 (sections 1 to 3).
+- Last updated: 12 Nov 2026, after Duska batch B-022. Read ledger v19, method note 1 and rubric v1 (sections 1 to 3).
+
+## 000000000000000. B-022 (12 Nov): the Senné book finished; my pile read; a file of Kevin's held unopened; X-Q-06 has two named candidates
+
+**1. For you to rule: a file I did not open.** With the strips Kevin sent `senne_overview_of_baptisms_up_till_2025-04-23.odt` (70,806 bytes, SHA-256 `4037cacb23babb63b7bb6ff64282b438d3b3b627f2766167b665fc3ad0238b6d`). By its name it is his own summary of these baptisms. X-011 item 1 bars it. I have not opened it; only its name, size and checksum are in my repo (`DUS:DEC-78`). If you or he want it read, say so and it will be logged as given.
+
+**2. X-Q-06, new odds and two named candidates.** Folder `DUS:F-009` is now 95 strips. Read ledger v19 at bcea4c8.
+
+| Row | Entry | Odds |
+|---|---|---|
+| Born at Senné, in the Roman Catholic book | `DUS:H-030` | 70, supported |
+| The Mihály born 3 Jul 1903, Szenna 79, son of András Duska, cottar, and Anna Nyemcsik (`DUS:D-009-79`) | `DUS:H-046` | 55 |
+| The Mihály born 6 Dec 1896, Szenna 1, son of Mihály Duska, miller, and Anna Halász (`DUS:D-009-82`) | `DUS:H-047` | 22 |
+| The Reformed boy of "Bradenville", 1902 | `DUS:H-040` | 4 |
+| A grandson of the Greek Catholic György Dusko | `DUS:H-035` | 2 |
+| The Reformed boy of Solymos, 1893 | `DUS:H-041` | 2 |
+
+Neither Senné boy has a death note, in a book that notes deaths freely. Nothing ties either to the father of 1929, so nobody above Ahn 8 is on my tree (`DUS:DEC-80`). `DUS:H-054` (55, `depends_on` H-046, H-048, H-051) names the four grandparents if the 1903 boy is the man.
+
+**3. From my pile, private commit 4f16658** (four files, checksums equal to the pile manifest; please assign X-S numbers):
+- `DUS:D-006-03`: **marriage, 18 Jan 1892**, page 16, entry 3: András Duska, 24, son of György Duska and Anna Krak; Anna Nyemcsik, 19, daughter of János Nyemcsik and Erzsébet Hresko. With two baptisms that write her mother "Hresko alias Minarcsin", it shows that the "Anna Minarcsin" of 1893 to 1899 and the "Anna Nyemecz" of 1903 to 1912 are one wife (`DUS:H-051`, supported 70; `DUS:H-048`, supported 70). X-017 item 5 in reverse: a change of mother's name that is not a second marriage.
+- `DUS:D-006-04`: Kevin's screenshot of the viewer. **First archive reference for the Senné book:** FamilySearch, "Slovakia Church and Synagogue Books, 1592-1935", Roman Catholic, Veľké Kapušany, Senné, "Baptisms (Krsty) 1866-191… Deaths (Úmrtia) 1831-1877", image 34 of 337. The picture shows the site's "Attach to Family Tree" button; I opened nothing (X-011 item 7).
+- `DUS:D-006-02`: a second photograph of the gravestone of Mary Demko. The Demko agent does not read my pile; it is told.
+- `DUS:D-006-05`: Reformed burials at Solymos, page 133: Pál Duska, d. 1838 aged 68; György Dusko, d. 1833 aged 29. Low reading.
+- I agree with the Sorter's piles for all four.
+
+**4. For the contamination log.** (a) The surnames Kevin collects, Krak and Nyemcsik, turn out to be the two grandmothers' names in the household of `DUS:H-046`. I saw the pattern at B-021 and reported it then; I have given it no weight in the odds (`DUS:DEC-81`), but I cannot un-see it, and you should record that the leading hypothesis coincides with the owner's filing. (b) House 79 and house 73 recur in that household; PR-6 names house 73. Same treatment. (c) The pile manifest's `source_folder` and my earlier note mention a sub-folder Kevin named after a third party; I have not printed the name.
+
+**5. Requests.** `DUS:R-009` is answered by this folder. `DUS:R-007` is now narrower: any record that gives Michal's age or parents (his marriage about 1925 to 1929, a passenger list, a Canadian burial). It decides between two baptisms and is worth more than everything else in the queue.
+
+**6. Housekeeping.** One batch covers two deliveries (`DUS:DEC-79`). Folder F-009 is left open until Kevin closes it. Curiosities: 10 (`DUS:C-044` to `C-053`). Cross-review `DUS:XR-14`: Demko unchanged at c30be69.
 
 ## 00000000000000. B-021 (12 Nov): read ledger v19; Senné Roman Catholic, part 2; one exposure; a mismatch in stamp.yml
 

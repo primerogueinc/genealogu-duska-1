@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-021 (read ledger v19). Requests R-001 to R-011 are released to the owner. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-022 (read ledger v19). Requests R-001 to R-011 are released to the owner. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -15,7 +15,8 @@ Updated 2026-11-12 after batch B-021 (read ledger v19). Requests R-001 to R-011 
 - F-006 `AAAA Unclassified`, through the Sorter's piles (open): `to-duska/` empty; `to-both/` one file, a compiled Javor family chart, image held (D-006-01). Read at private commit 2e9dd04, unchanged at 9bf2c7a.
 - F-007 `Inacovce - Reformed` (four parts, 45 files, complete): a Reformed register for Solymos, 1825 to 1921. About ten Duska households; two boys named Mihály Duska (189[3], Solymos 44; [1902], 'Bradenville') who are candidates for Ahn 8, neither attached. Twelve Knyezso strips for DEM.
 - F-008 `Presov - Greek Catholic` (4 files, complete): Latin baptisms at Eperjes, 1804 to 1822; a Nyemcsik, a Kocsis, and the son of a priest named Demko. No Duska.
-- F-009 `Senne - Roman Catholic` (parts 1 and 2, 27 files, open): Roman Catholic Duskas of Senné, 1866 to 1907. András Duska of house 73 is the leading candidate for the father of Ahn 8 (H-046, 35); no entry for a Mihály yet.
+- F-009 `Senne - Roman Catholic` (eight parts, 95 files, open until the owner closes it; one text document held unopened): Roman Catholic Duskas of Senné, 1866 to 1912. Two baptisms of a Mihály Duska: 1896 (the miller's son) and 1903 (son of András Duska and Anna Nyemcsik). Ahn 8 is one of them: H-046 (1903) 55, H-047 (1896) 22.
+- F-006, pile `to-duska/` at 4f16658 (4 files): the marriage of András Duska and Anna Nyemcsik, 1892; a second photograph of Mary Demko's gravestone; a screenshot of the Senné register with its catalogue path; Reformed burials at Solymos, 1831 to 1841.
 
 ## Concluded
 

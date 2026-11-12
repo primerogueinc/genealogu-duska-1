@@ -3,7 +3,17 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-020.
+- Last updated: 12 Nov 2026, after Duska batch B-022.
+
+## 0000000. New at B-021 and B-022
+
+- `.github/workflows/stamp.yml` is version 2, SHA-256 `a6aca81c…8974`, taken from your Project doc. **The copy at the public address is a different file**: it has `cron: "24 */6 * * *"` where the doc has `"23 */6 * * *"`, and its SHA-256 begins `74052bfc`.
+- Folder `F-006` now has four documents with images (`D-006-02` to `-05`, under `assets/pages/F-006/`) beside the held one (`D-006-01`).
+- `hypotheses.json`: `depends_on` (a list of hypothesis IDs) on H-054; `question` may be `X-Q-06`.
+- `requests.json`: `status` may be `answered`, with `answered` (a batch ID).
+- `records/F-009_…/MANIFEST.json` has a `held` list: one file that is not in the repo (name, size, SHA-256).
+- Two file names end `.jpg` in folder F-009 (`D-009-94`, `-95`).
+- A batch may cover two folders (B-022: `folder` is `F-009`; four of its documents are in `F-006`).
 
 ## 000000. New at B-017 to B-020
 

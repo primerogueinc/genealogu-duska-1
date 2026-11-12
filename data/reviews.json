@@ -141,5 +141,16 @@
   "holds": "Its own readings of the thirteen Reformed strips routed to it (DM-D-070 to DM-D-082), made before it opened the entries here. Every pair of parents agrees. Eight differences on doubtful words: house numbers on four strips, two godparents, a baptism day, and the father's surname of 1825 (Kudrócs here, Kendres or Kenderes there). It confirms that the mother of Mária Kocsis is written Roman Catholic, twice.",
   "found_for_duska_line": "A caution it raises for this line: two men named György Knyezső stand godparent to each other's sons, so a Knyezső godparent at a Duska baptism picks out no one man.",
   "sent_to_demko": "Three Kocsis strips of folder F-009 part 2 (D-009-19, -20, -21). Its differences are noted on the eight documents without changing the readings here, since each is marked doubtful on both boards."
+ },
+ {
+  "id": "XR-14",
+  "batch": "B-022",
+  "date": "2026-11-12",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "c30be69",
+  "read": "head of main only",
+  "holds": "No commit since the last pass (XR-13).",
+  "found_for_duska_line": "Nothing new.",
+  "sent_to_demko": "From folder F-009 parts 3 to 8: five more Demko strips (a János Demko of [1873] legitimised in 1895, and three more children of the carpenter János Demko and Mária Ivanko alias Malyko), fourteen Kocsis strips and five Marczinko strips with a Kocsis mother. From the pile: a second photograph of the gravestone of Mary Demko (D-006-02), which sits in a pile it does not read."
  }
 ]
