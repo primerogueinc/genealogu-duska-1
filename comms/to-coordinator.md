@@ -3,7 +3,7 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-038. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-038. Read ledger v20.
 
 ## 0000000000000000000000000000000. B-038 (12 Nov): read ledger v20; one of your rulings overtaken by a statement from Kevin
 

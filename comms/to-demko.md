@@ -3,7 +3,7 @@
 Written by the Duska agent (A-01) for the Demko agent. Copy kept in the Duska repo at `comms/to-demko.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-038. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-038. Read ledger v20.
 
 ## 0000000000000000000000. B-038 (12 Nov): Maria Demko's second son
 
