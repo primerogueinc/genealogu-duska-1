@@ -10679,5 +10679,83 @@
     "english": "A small screenshot of the same photograph as D-011-12, cropped to the written rows. Nothing can be read here that is not read there."
    }
   ]
+ },
+ {
+  "id": "D-011-17",
+  "folder": "F-011",
+  "batch": "B-028",
+  "source": "S-247",
+  "file": "Ung_county_map.jpg",
+  "sha256": "9a350600b24bb8c321161accfd6e472804c01ff1a22e663616eb87c2761242d7",
+  "wide": false,
+  "title": "Map of Ung county by Pál Gönczy, [1890s]",
+  "span": "[1890s]",
+  "language": "Hungarian",
+  "collector_label": "Ung county map",
+  "family": null,
+  "route": "places",
+  "part": 3,
+  "provenance": {
+   "archive": "a published map; not an archive record",
+   "fond_or_film": "not applicable",
+   "book": "County map of Ung",
+   "page_or_image": "whole sheet",
+   "obtained": "From the owner's desktop folder '1921 Census Folder', sent through chat. A published map; where the owner took the image from is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "[1890s]",
+    "from": "Printed map (published source)",
+    "abstract": "A printed colour map of Ung county, drawn by Pál Gönczy, at 1:380,000, with relief, rivers, marsh, roads, the railway and the four districts outlined in red. It gives the county's area as 3,052.84 square kilometres and its population as 135,247, which dates it to the 1890s. For this archive it shows three things. Solymos and Szenna are neighbours, about 4 km apart by the map's scale, with marsh between them. The red district line runs between them: Solymos, Jesztreb, Rebrin and Gézsény lie in the Szobránc district, and Szenna, Pályin, Viszoka and Csicser in the Kapos district. And Lasztomér, the home of the carpenter János Demko's wife, lies just over the county line in Zemplén. Any record kept by district, a census among them, will have the two villages in different bundles.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Title, figures and the place names that bear on this archive.",
+    "original": "UNG VÁRMEGYE TÉRKÉPE. Tervezte: Gönczy Pál. || Mérték 1:380.000 || Területe: 3052·84 □ Klm. Lélekszám: 135.247 || Járások: 1. Bereznai járás 2. Kaposi 3. Szobránci 4. Ungvári. Ungvár rend. tan. város || Jelmagyarázat: Rend. tan. város; Nagyközség; Kisközség; Puszta; Vaspálya; Állami út; ... Járási határ; ... Mocsár; ... || [villages read for this archive] Solymos, Jesztreb, Rebrin, Kráska, Gézsény (Szobránci járás); Szenna, Pályin, N. Szeretva, K. Szeretva, Viszoka, Palóc, Bező, Csicser, Nagy Kapos (Kaposi járás); Lasztomér, N. Mihály (Zemplén)",
+    "english": "A printed colour map of Ung county, drawn by Pál Gönczy, at 1:380,000, with relief, rivers, marsh, roads, the railway and the four districts outlined in red. It gives the county's area as 3,052.84 square kilometres and its population as 135,247, which dates it to the 1890s. For this archive it shows three things. Solymos and Szenna are neighbours, about 4 km apart by the map's scale, with marsh between them. The red district line runs between them: Solymos, Jesztreb, Rebrin and Gézsény lie in the Szobránc district, and Szenna, Pályin, Viszoka and Csicser in the Kapos district. And Lasztomér, the home of the carpenter János Demko's wife, lies just over the county line in Zemplén. Any record kept by district, a census among them, will have the two villages in different bundles."
+   }
+  ]
+ },
+ {
+  "id": "D-011-18",
+  "folder": "F-011",
+  "batch": "B-028",
+  "source": "S-248",
+  "file": "Ung_ethnic_map.png",
+  "sha256": "76499d1f0b658ff9de8631bfa1976a05f25f98c4f72234d724ff77ff424ea3d9",
+  "wide": false,
+  "title": "Map of Ung county of 1915 with a coloured square added on each village",
+  "span": "base map 1915, with the 1910 population; the coloured squares are a later addition",
+  "language": "Hungarian",
+  "collector_label": "Ung ethnic map",
+  "family": null,
+  "route": "places",
+  "part": 3,
+  "provenance": {
+   "archive": "a published map; not an archive record",
+   "fond_or_film": "not applicable",
+   "book": "County map of Ung",
+   "page_or_image": "whole sheet",
+   "obtained": "From the owner's desktop folder '1921 Census Folder', sent through chat. A published map; where the owner took the image from is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "base map 1915, with the 1910 population; the coloured squares are a later addition",
+    "from": "Printed map (published source)",
+    "abstract": "A black-and-white school map of Ung county issued for the minister of religion and education, dated 1915 in the corner, with the population of 1910 (162,089) and six districts. Someone has since added a small coloured square on every village: red across the south around Nagykapos and Csap, green across the west around Szobránc, purple through the mountains and the east, a few striped or dotted. The image has no key to the colours; by where they fall they look like the main language of each village (Hungarian, Slovak, Ruthenian), and that is this agent's inference, not something the map says. Solymos, Ungszenna, Rebrény, Gézsény and Magasrév are green; Csicser is red. Two names matter here. Szenna is 'Ungszenna', the form the Senné register takes up between 1903 and 1906. And where the older map has Viszoka, this one has Magasrév: the birthplace written on the Demko agent's 1906 record is Viszoka under its new name.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Title, figures and the place names that bear on this archive.",
+    "original": "UNG VÁRMEGYE TÉRKÉPE. Kiadatott a vallás- és közoktatásügyi m. kir. Miniszter úr megbizásából. || Területe: 3230 □ km. Lakosainak száma: 162.089 (910). Várm. székhely: Ungvár r.t.v. || Mérték 1:310.000 || [districts] Szobránczi járás; Nagybereznai járás; Perecsenyi járás; Ungvári járás; Szerednyei járás; Nagykaposi járás || Jelmagyarázat: Rend. tan. város; Nagyközség; Kisközség; Puszta; Megyei határ; Járási; Városi; Állami út; Megyei út; Községi út; Vasút; ... A járási székhelyek alá vannak húzva. || [corner] 1915 || [villages read for this archive] Solymos, Ungszenna, Rebrény, Kráska, Gézsény, Pályin, Nagyszeretva, Kisszeretva, Magasrév, Pálócz, Bező, Csicser, Nagykapos",
+    "english": "A black-and-white school map of Ung county issued for the minister of religion and education, dated 1915 in the corner, with the population of 1910 (162,089) and six districts. Someone has since added a small coloured square on every village: red across the south around Nagykapos and Csap, green across the west around Szobránc, purple through the mountains and the east, a few striped or dotted. The image has no key to the colours; by where they fall they look like the main language of each village (Hungarian, Slovak, Ruthenian), and that is this agent's inference, not something the map says. Solymos, Ungszenna, Rebrény, Gézsény and Magasrév are green; Csicser is red. Two names matter here. Szenna is 'Ungszenna', the form the Senné register takes up between 1903 and 1906. And where the older map has Viszoka, this one has Magasrév: the birthplace written on the Demko agent's 1906 record is Viszoka under its new name."
+   }
+  ]
  }
 ]

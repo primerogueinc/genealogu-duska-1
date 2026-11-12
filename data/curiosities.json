@@ -554,5 +554,27 @@
   "translation": "housewife; mistress of the house",
   "why": "A small case of why a second reading is checked against the image and not taken on trust.",
   "tone": "funny"
+ },
+ {
+  "id": "C-067",
+  "doc": "D-011-17",
+  "source": "S-247",
+  "title": "A district line through the marsh",
+  "text": "On the county map Solymos and Szenna sit four kilometres apart with a patch of marsh between them, and the red line dividing the Szobránc district from the Kapos district runs through the gap. A man could walk from one village to the other in an hour and change district, deanery and, as it turned out, church.",
+  "original": "Járások: 2. Kaposi 3. Szobránci",
+  "translation": "Districts: 2. Kapos 3. Szobránc",
+  "why": "It explains why one surname turns up in two sets of records that never mention each other.",
+  "tone": "history"
+ },
+ {
+  "id": "C-068",
+  "doc": "D-011-18",
+  "source": "S-248",
+  "title": "Viszoka becomes Magasrév",
+  "text": "The 1890s map prints Viszoka. The 1915 map prints Magasrév in the same spot. Between the two the state gave hundreds of villages Hungarian names, and a child born in one village could be recorded as born in another without anyone moving.",
+  "original": "Viszoka [1890s] | Magasrév [1915]",
+  "translation": "Both names mean roughly 'the high place'.",
+  "why": "It is the reason a 1906 record gives a birthplace that the 1882 baptism never heard of.",
+  "tone": "history"
  }
 ]

@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-027 (read ledger v19). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-028 (read ledger v19). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -22,7 +22,7 @@ Updated 2026-11-12 after batch B-027 (read ledger v19). Requests R-001 to R-011 
 - F-008 `Presov - Greek Catholic` (4 files, complete): no Duska.
 - F-009 `Senne - Roman Catholic` (95 files, complete, closed by DUS at B-023): the Roman Catholic Duskas of Senné, 1866 to 1912. One text file of the owner's is held unopened.
 - F-010 `Baptisms (Final) Stare` (1 file, complete): baptism of an Anna Krak at Sztára, January 1848. Whether she is György Duska's wife is open (H-055, 20; rival H-056, 35).
-- F-011 `Duska Census` (two parts, 16 files, OPEN; part 2 is four census sheets of Solymos, [1869]): urbarial tables of Solymos (complete), Szenna (25 of 26 serfs), Csicser and Viszoka (one page each). Two Duskas at Solymos, none at Szenna. Five files of the owner's making are held unopened and one third-party transcription is unpublished.
+- F-011 `Duska Census` (three parts, 18 files, OPEN; part 2 is four census sheets of Solymos, [1869]): urbarial tables of Solymos (complete), Szenna (25 of 26 serfs), Csicser and Viszoka (one page each). Two Duskas at Solymos, none at Szenna. Five files of the owner's making are held unopened and one third-party transcription is unpublished.
 
 ## Concluded
 
@@ -45,3 +45,4 @@ Updated 2026-11-12 after batch B-027 (read ledger v19). Requests R-001 to R-011 
 - PLA: the date and archive reference of the Ung county urbarial tables; which Solymos, Szenna and Csicser these are is taken as Iňačovce, Senné and Čičarovce.
 - COORD: please assign X-S numbers to `DUS:D-006-06` to `-09`; rule 30 (every Duska is tracked) rests on the owner's words in this chat.
 - COORD: a ruling is asked on two classes of the owner's files: compiled 'family group records' (held unopened) and a third party's transcription (read after my own reading).
+- PLA: are Senné and Iňačovce inside the 1921 census collection of the Berehove archive (`DUS:L-022`)? Two county maps for you: `DUS:D-011-17`, `-18`.

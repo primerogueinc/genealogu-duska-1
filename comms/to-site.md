@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-027.
+- Last updated: 12 Nov 2026, after Duska batch B-028.
+
+## 000000000000. New at B-028
+
+No field added. Folder `F-011` has 18 documents; `D-011-17` and `-18` are maps (`route: places`, `wide: false`).
 
 ## 00000000000. New at B-027
 

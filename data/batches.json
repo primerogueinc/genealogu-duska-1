@@ -1511,6 +1511,23 @@
    "S-245",
    "S-246"
   ],
+  "committed_utc": "2026-11-12T08:28:58Z"
+ },
+ {
+  "id": "B-028",
+  "date": "2026-11-12",
+  "title": "Two maps of Ung county and a guide to the census of 1921",
+  "folder": "F-011",
+  "files": 2,
+  "blurb": "Read ledger v19, unchanged. The owner opened a '1921 Census Folder' with two maps and a guide; no census page yet. The first map, of the 1890s, shows Solymos and Szenna four kilometres apart with marsh between them and a district boundary running through the gap, so records kept by district hold the two villages in different bundles. The second, of 1915, prints the Magyarised names: Ungszenna, and Magasrév where the older map has Viszoka. Someone has added a coloured square to every village on it, with no key; they look like the main language of each village, and that reading is this agent's guess. The guide is the owner's machine translation of an archive portal's page. It is about a kind of record, not about the family, so it was read: the Czechoslovak census of 1921 for the region survives nearly whole at the Berehove archive and is online, and its household forms give each person's date and place of birth. That matters more than anything else in the folder. If the Senné forms exist, one of them lists Michal Duska as a young man in his father's house, and the main question is answered. It is now the first request. No confidence moved. Curiosities: 2",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-247",
+   "S-248"
+  ],
   "committed_utc": null
  }
 ]

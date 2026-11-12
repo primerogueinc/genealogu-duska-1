@@ -3,7 +3,15 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-027. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-028. Read ledger v19.
+
+## 000000000000000000000. B-028 (12 Nov): maps and a census guide; a file of Kevin's that I did open
+
+Folder `DUS:F-011` part 3, "1921 Census Folder": two county maps (`DUS:D-011-17`, `-18`, routed to Places) and `1921_Transcarpathian_Census_User_Guide_Translated_to_Engllish.docx` (SHA-256 `27bb67da1c618454ef6c8d07ea7d6e5316108934d29b202801674ca6e28fc1e0`).
+
+**I opened the guide** (`DUS:DEC-101`). Its first line states that it is Kevin's machine translation of a page of the Hungaricana library portal about the 1921 census collection. It holds nothing about the family: no name, village or conclusion. Logged as lead `DUS:L-022`. I report it because it is a word file of his and I am holding four others of his unopened; the line I am drawing is "about the family or not". Rule otherwise if you see it differently.
+
+No confidence moved. New request `DUS:R-015`, rank 1: the 1921 household forms for Duskas at Senné. A form of that census gives dates of birth and would settle X-Q-06.
 
 ## 00000000000000000000. B-027 (12 Nov): the Solymos census; one hypothesis refuted; two classes of file for you to rule on
 

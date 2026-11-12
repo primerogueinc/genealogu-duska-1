@@ -1,7 +1,7 @@
 {
   "folder_id": "F-011",
   "desktop_path": "Duska Census",
-  "note": "Part 1 of the folder, '1767 - Urbanarium' (the owner's spelling): 8 image files and one word-processor file, which is held unopened. Received through chat upload. Part 2, '1869 Solymos Census Full': four photographs of a screen (full size, taken from the archive file the owner sent), four screenshots of the same, and six files not published (see 'held').",
+  "note": "Part 1 of the folder, '1767 - Urbanarium' (the owner's spelling): 8 image files and one word-processor file, which is held unopened. Received through chat upload. Part 2, '1869 Solymos Census Full': four photographs of a screen (full size, taken from the archive file the owner sent), four screenshots of the same, and six files not published (see 'held'). Part 3, '1921 Census Folder': two maps of Ung county and one guide document (held, summarised).",
   "files": [
     {
       "file": "Andref_Duska_in_Solymos.png",
@@ -158,6 +158,24 @@
       "received": "2026-11-12",
       "via": "chat upload",
       "part": 2
+    },
+    {
+      "file": "Ung_county_map.jpg",
+      "sha256": "9a350600b24bb8c321161accfd6e472804c01ff1a22e663616eb87c2761242d7",
+      "bytes": 513378,
+      "pixels": "1700x2117",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 3
+    },
+    {
+      "file": "Ung_ethnic_map.png",
+      "sha256": "76499d1f0b658ff9de8631bfa1976a05f25f98c4f72234d724ff77ff424ea3d9",
+      "bytes": 2086501,
+      "pixels": "1492x2034",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 3
     }
   ],
   "held": [
@@ -222,6 +240,15 @@
       "received": "2026-11-12",
       "via": "chat upload",
       "held": "the archive file the four full-size photographs came in; they are kept unpacked, so the container is not",
+      "file_in_repo": false
+    },
+    {
+      "file": "1921_Transcarpathian_Census_User_Guide_Translated_to_Engllish.docx",
+      "sha256": "27bb67da1c618454ef6c8d07ea7d6e5316108934d29b202801674ca6e28fc1e0",
+      "bytes": 14118,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "the owner's machine translation of an archive portal's web page about the 1921 census; read and summarised (lead L-022), not republished because the text is the portal's",
       "file_in_repo": false
     }
   ]

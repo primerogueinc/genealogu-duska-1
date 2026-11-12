@@ -197,5 +197,16 @@
    "H-061"
   ],
   "proof": "lead"
+ },
+ {
+  "id": "L-022",
+  "text": "From the owner's translated guide (made 23 May 2022 from a page of the Hungaricana library portal): the Czechoslovak census of 1921 for Subcarpathian Rus' survives almost whole, about 270,000 pages, in the Berehove (Beregszász) section of the Transcarpathian Regional State Archives, and was conserved and digitised in 2017. It has summary sheets by settlement and house, and household forms, bilingual Czech and Hungarian, with date and place of birth, mother tongue, religion and occupation. Whether Senné and Iňačovce, which lay west of the Uh, are in that collection is not said and is for the Places agent.",
+  "url": "https://library.hungaricana.hu/hu/collection/KarpataljaiNepszamlalas1921/",
+  "bears_on": [
+   "H-046",
+   "H-047",
+   "H-007"
+  ],
+  "proof": "lead"
  }
 ]

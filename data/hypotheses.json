@@ -253,6 +253,11 @@
     "batch": "B-027",
     "effect": "no change",
     "note": "Four sheets are in hand, all photographs of a screen with no site name in the frame. Where the Ung county sheets are published is still not known."
+   },
+   {
+    "batch": "B-028",
+    "effect": "no change",
+    "note": "The owner's guide points to the Hungaricana portal for the 1921 census of the Berehove archive (L-022). The 1869 sheets may be published the same way; not checked."
    }
   ]
  },
@@ -1188,6 +1193,11 @@
     "batch": "B-026",
     "effect": "no change",
     "note": "The man of the cemetery record is not Michal: he is a Miklós, born 1890, with a wife named Anna Hancosek. Mike Duska was alive in November 1966 and had married once. The record gives no age for Mike. If Miklós was in Canada, he and Mike were of one house: Miklós's father was György the younger of house 6, and under this hypothesis Mike's grandfather was György the elder of house 6."
+   },
+   {
+    "batch": "B-028",
+    "effect": "no change",
+    "note": "The owner has opened a folder for the census of 1921. A household form of that census gives each person's date and place of birth. If the Senné forms are in it, Michal would be listed at about 17 or 24 in his father's house, which would settle this against H-047. No form is in hand yet."
    }
   ],
   "necronym_risk": "unresolved",
@@ -1228,6 +1238,11 @@
     "batch": "B-026",
     "effect": "no change",
     "note": "As for H-046: the cemetery record is of a different man."
+   },
+   {
+    "batch": "B-028",
+    "effect": "no change",
+    "note": "As for H-046: the 1921 census forms for Senné, if they come, would decide between the two baptisms."
    }
   ],
   "question": "X-Q-06"
@@ -1452,6 +1467,11 @@
     "batch": "B-027",
     "effect": "no change",
     "note": "A Roman Catholic woman born at Szenna in 1816 is the wife of the oldest Solymos Duska in 1869. The two villages married into each other. It does not show a Duska moving to Senné. The census sheets for Senné houses 5 and 6 would: they should give the birthplaces of both György Duskas (request R-014)."
+   },
+   {
+    "batch": "B-028",
+    "effect": "no change",
+    "note": "By the 1890s county map Solymos and Szenna are about 4 km apart, not the 6 km written when this was raised, with marsh between them and a district line. Nearer, but distance alone moves nothing."
    }
   ]
  },

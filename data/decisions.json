@@ -598,5 +598,17 @@
   "date": "2026-11-12",
   "decided": "The four screenshots are entered as documents of their own that point to the full-size sheets. The part '1869 Solymos Census Full' is taken as complete; folder F-011 stays open.",
   "why": "Rule 2: everything received is archived. The owner marks parts as full and has not closed the folder."
+ },
+ {
+  "id": "DEC-101",
+  "date": "2026-11-12",
+  "decided": "The 1921 census guide was opened and read, unlike the urbarium guide (DEC-91). It is logged as a lead and not republished.",
+  "why": "Its first line says it is a machine translation of a page of an archive portal: a description of a record collection, with nothing about the family. The blind rule bars what the owner has written about this family, not a published finding aid. The urbarium guide gives no such sign in its name and stays shut. The text belongs to the portal, so only a summary is kept."
+ },
+ {
+  "id": "DEC-102",
+  "date": "2026-11-12",
+  "decided": "'1921 Census Folder' is entered as part 3 of folder F-011 'Duska Census' and the folder stays open. The meaning of the coloured squares on the second map is recorded as this agent's inference.",
+  "why": "The owner announced the census folder as one and is sending it in parts. The map has no key (X-010 in spirit: say what is read and what is supplied)."
  }
 ]
