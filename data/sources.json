@@ -2270,5 +2270,45 @@
   "title": "Senné in the census of 1940: houses 11, 14 and 73, and one sheet from another Senné",
   "extract": "The Slovak census of 15 December 1940 for Senné, now in the Michalovce district, as the portal shows it: the forms are public only down the left edge, with the surnames and given names, and every other column is blacked out. What the names alone give: at house 11, Mária Dušková née Hankoščáková with Anna and Mária, and on the back, among those away from home, Mikuláš Duška; at house 14, Mária Dušková née Feigerle [?], alone; at house 73, Jozef Duška and Anna née Chalahánová, a second Jozef with a wife Anna, a married daughter, and three more Duškas. The maiden name at house 11 matters. The cemetery record D-006-09 names the spouse of 'Mikalis' Duska as 'Hancosek': the same surname, worn down by a French clerk. Her given name there is Anna and here it is Mária. No sheet for house 145 is in the folder.",
   "reliability": "Names as written by the enumerator. Nothing else on the sheets can be seen. Slovak National Archive, census of 1940, box 915 (box 547 for the other Senné). Reading level: medium."
+ },
+ {
+  "id": "S-274",
+  "batch": "B-036",
+  "type": "Newspaper death notice (derivative, supplied by the family; print from a newspaper archive)",
+  "title": "Death notice of Mike Duska, Sr., The Montreal Star, 2 February 1974",
+  "extract": "A death notice from The Montreal Star of Saturday 2 February 1974, page 10. Mike Duska, Sr., died at the Montreal General Hospital on 31 January 1974, aged 71. He was the husband of the late Mary Demko, the father of Steve and Mike, and the grandfather of Kevin. The funeral was on Monday 4 February from the Slovak church of St. Cyril and Method, with burial in Côte-des-Neiges cemetery, where his wife's stone stands. This is Michal Duska, Ahn 8. A man born on 3 July 1903 was 70, not 71, on that day; a family's count a year out is ordinary. The notice shows a second son, Mike, not met in any earlier record; he was not on his mother's passport in 1937, so he was born in Canada after that. The 'Sr.' is for him. The image is held; the notice is given here in full.",
+  "reliability": "The pile is the sorter's label and is not evidence. Reading level: high."
+ },
+ {
+  "id": "S-275",
+  "batch": "B-036",
+  "type": "Parish extract of a baptism entry (derivative, sealed)",
+  "title": "Baptismal certificate of Štefan Duška, issued at Senné on 1 October 1955",
+  "extract": "A second extract of the same register entry as the certificate of 1947 (D-X01-01): Senné Roman Catholic baptisms, volume IV, page 110, entry 43 of 1929. Štefan, born 21 October 1929, baptised 26 October, legitimate son of Michal Duška, cottar, Roman Catholic, of Senné, and Mária Demko, Greek Catholic, of Iňačovce; parents' home Senné 160; godparents Jozef Macko-Kocák, student, Greek Catholic, of Michalovce, and Zuzanna Bandura née Hankoščák, Roman Catholic, of Senné; baptised by Ján Barna, parish priest. Issued at Senné on 1 October 1955, eight weeks before Štefan's wedding in Montréal. Two things it settles: the church's date is 21 October, written by two priests eight years apart, against the 23rd of the civil papers; and the godmother is clearly Zuzanna, born Hankoščák, the family of Mikuláš Duška's wife.",
+  "reliability": "The pile is the sorter's label and is not evidence. Reading level: high."
+ },
+ {
+  "id": "S-276",
+  "batch": "B-036",
+  "type": "Civil registration of marriage (original record; image held)",
+  "title": "Québec registration of the marriage of Stephen Duska, Montréal, 26 November 1955",
+  "extract": "The provincial registration of a marriage at St. Dominic's Church, Montréal, on 26 November 1955, after banns. The bridegroom is Stephen Duska, superintendent, single, 26, born 21 October 1929, Catholic, a Canadian citizen of Czechoslovak origin, born in Czechoslovakia as his father was, living at 5218A Des Érables. The bride is Joan Teresa Leonard. Under the coordinator's ruling her name and the marriage are public and everything else about her is withheld, since her line is outside this rebuild and her status is not known; the image is held. He gives the church's date for his birthday, having sent to Senné for his baptismal certificate eight weeks earlier.",
+  "reliability": "The pile is the sorter's label and is not evidence. Reading level: high."
+ },
+ {
+  "id": "S-277",
+  "batch": "B-036",
+  "type": "Civil registration of marriage (original record; not opened)",
+  "title": "Québec registration of a marriage of a Mike Duska, 1973 (not opened)",
+  "extract": "Not opened. The Sorter describes it as a typed Québec form, 'Enregistrement de mariage', of 1973, in French, whose groom is named Duska, with both parties born less than 100 years ago. The owner's file name calls it 'Mike Duska 1st marriage'. He is presumably the younger son Mike of the death notice of 1974. Held by name and SHA-256.",
+  "reliability": "The pile is the sorter's label and is not evidence. Reading level: n/a."
+ },
+ {
+  "id": "S-278",
+  "batch": "B-036",
+  "type": "Baptism register entry (original record, second image)",
+  "title": "Baptism of Miklós Duska, Senné, 1890: a second copy of the entry",
+  "extract": "A small cut of one baptism entry of 1890, which the Sorter describes as a Duska father at Senné. By its file name it is the entry already read as D-009-84: Miklós, born 28 November 1890, son of György Duska the younger and Erzsébet Schwarz. The file name adds 'from Czech Origins', the same words as on the 1892 marriage image: probably the name of the service the owner took both from. Not re-read line by line.",
+  "reliability": "The pile is the sorter's label and is not evidence. Reading level: medium."
  }
 ]

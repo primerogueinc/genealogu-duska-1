@@ -1245,6 +1245,11 @@
     "batch": "B-033",
     "effect": "solved, from 55 to 95",
     "note": "The census of 1930 (Slovak National Archive, box 0311) enters Štefan Duška, born 23 October 1929, as grandson, and his Greek Catholic mother Maria of Iňačovce as daughter-in-law, of Andrej Duška (born 24 November 1868) and Anna (born 24 August 1872), married 18 January 1892. That couple had one son Mihály, baptised 3 July 1903. A passenger list gives Michal Duska of Senné as 26 in 1929 or 1930, which fits 1903 and not 1896, and carries the immigration file number of the 1937 letter to Mike Duska."
+   },
+   {
+    "batch": "B-036",
+    "effect": "no change",
+    "note": "His death notice gives 'age 71' on 31 January 1974. Born 3 July 1903 he was 70. It fits 1903 within a year and excludes 1896, when he would have been 77. Already solved."
    }
   ],
   "necronym_risk": "unresolved",
@@ -1613,6 +1618,11 @@
     "batch": "B-034",
     "effect": "no change",
     "note": "The census of 1940 gives the maiden name of Mikuláš Duška's wife at Senné 11 as Hankoščáková, the 'Hancosek' of the cemetery record, and lists Mikuláš among the absent. The surname now agrees and the given name (Mária here, Anna there) does not. With the birth date and the Canadian naturalisation of 1946 the identification is firm in substance; it stays at the cap because the cemetery is still unnamed."
+   },
+   {
+    "batch": "B-036",
+    "effect": "no change",
+    "note": "Štefan's godmother in 1929 was Zuzanna Bandura née Hankoščák of Senné (D-006-21): the Hankoščák family stood close to both Duska households. Mike Duska was buried in Côte-des-Neiges cemetery; whether plot FT 01965 is there is still not shown."
    }
   ]
  },
@@ -1761,6 +1771,24 @@
     "batch": "B-033",
     "effect": "raised at 80",
     "note": "Raised because a reader of the passenger list alone would make them brothers."
+   }
+  ]
+ },
+ {
+  "id": "H-068",
+  "statement": "The cemetery record FT 01965 is from Notre-Dame-des-Neiges (Côte-des-Neiges) cemetery in Montréal, where Mike Duska and Mary Demko are buried.",
+  "confidence": 60,
+  "basis": "The printout is in French; Mary Demko's stone is at Notre-Dame-des-Neiges and Mike Duska's notice gives 'Cote Des Neiges Cemetery'; Mikulas and Michal crossed together and both were naturalised in Canada. Nothing on the printout names the cemetery.",
+  "test": "The owner's word on where he got the printout (request R-013); the cemetery's own locator for section FT.",
+  "status": "open",
+  "raised": "B-036",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-036",
+    "effect": "raised at 60",
+    "note": "Raised from the death notice."
    }
   ]
  }

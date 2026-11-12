@@ -694,5 +694,11 @@
   "date": "2026-11-12",
   "decided": "The ten census captures held under DEC-112 and DEC-115 are published. The 1984 marriage form stays redacted as in DEC-109, and the unread 1930 sheets will still be checked one by one until the owner says his statement covers them too.",
   "why": "The owner: 'all dead' (S-000-11), in answer to the report of those ten holds. X-016: a stated death lifts the hold. A two-word statement is not stretched to people it was not said about."
+ },
+ {
+  "id": "DEC-117",
+  "date": "2026-11-12",
+  "decided": "Ahn 5 is entered by name only from the 1955 registration; its image is held and no field of hers is transcribed. The death notice is held and transcribed in full. The 1973 marriage form is held unopened. The owner's 'all dead' (S-000-11) is not applied to any of these.",
+  "why": "Rules 24 and 29 (X-022, X-016). The notice names two people of unknown status and prints the owner's account name. S-000-11 was said about census sheets."
  }
 ]

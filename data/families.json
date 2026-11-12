@@ -1266,9 +1266,10 @@
   "rite": "He Roman Catholic, she Greek Catholic; the son Roman Catholic",
   "homes": "Senné 160 (1929); Senné 145, his parents' house (1930); she at Iňačovce by 1937; Montréal",
   "children": [
-   "Štefan, b. 21 Oct 1929 (23 Oct in civil papers), d. 2018"
+   "Štefan, b. 21 Oct 1929 (23 Oct in civil papers), d. 2018",
+   "Mike, living in 1974; born in Canada after 1937 [inferred]; status unknown"
   ],
-  "note": "Married on 30 January 1927 by the census of 1930; the marriage entry itself is not in hand. He sailed for Canada with his kinsman Mikuláš between November 1929 and July 1930; she and the boy followed in November 1937.",
+  "note": "Married on 30 January 1927 by the census of 1930; the marriage entry itself is not in hand. He sailed for Canada with his kinsman Mikuláš between November 1929 and July 1930; she and the boy followed in November 1937. Michal died in Montréal on 31 January 1974 (D-006-20).",
   "route": "duska",
   "route_note": "Ahn 9 is the Demko agent's.",
   "documents": [
@@ -1276,7 +1277,9 @@
    "D-006-19",
    "D-X01-01",
    "D-006-13",
-   "D-006-17"
+   "D-006-17",
+   "D-006-20",
+   "D-006-21"
   ]
  }
 ]

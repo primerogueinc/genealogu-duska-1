@@ -6994,5 +6994,17 @@
   "relation": "Line 2 of the passenger list D-006-19.",
   "route": "duska",
   "route_note": ""
+ },
+ {
+  "id": "K-589",
+  "name": "Mike Duska (the younger)",
+  "vitals": "son of Mike Duska, Sr., and Mary Demko; living in 1974; born in Canada after 1937 [inferred]",
+  "proof": "documented",
+  "sources": [
+   "S-274"
+  ],
+  "relation": "Named as a son in his father's death notice (D-006-20). Status unknown: name only.",
+  "route": "duska",
+  "route_note": ""
  }
 ]

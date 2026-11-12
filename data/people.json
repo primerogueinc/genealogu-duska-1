@@ -35,7 +35,7 @@
    "S-249",
    "S-000-10"
   ],
-  "note": "Born in Montréal by his son's statement (S-000-5). That puts his father, Ahn 4, in Montréal by 1962. A Québec declaration of marriage of 1984 names his father as Steve Duska, born in Czechoslovakia, who also signs as a witness (S-249; image held). The link to Ahn 4 no longer rests on a statement alone. The bride of 1984 was Lyne Lefebvre, born in Montréal in 1964, Kevin's mother, who has died by his statement (S-000-10). She is named here as his wife; her own line is outside this rebuild.",
+  "note": "Born in Montréal by his son's statement (S-000-5). That puts his father, Ahn 4, in Montréal by 1962. A Québec declaration of marriage of 1984 names his father as Steve Duska, born in Czechoslovakia, who also signs as a witness (S-249; image held). The link to Ahn 4 no longer rests on a statement alone. The bride of 1984 was Lyne Lefebvre, born in Montréal in 1964, Kevin's mother, who has died by his statement (S-000-10). She is named here as his wife; her own line is outside this rebuild. Named as the grandson Kevin in Mike Duska's death notice of 1974 (D-006-20).",
   "owner": "Duska",
   "living_basis": "Kevin does not know whether his father is living (ledger v8, X-016). Shown by name and year only."
  },
@@ -57,9 +57,11 @@
    "S-249",
    "S-252",
    "S-253",
-   "S-254"
+   "S-254",
+   "S-275",
+   "S-276"
   ],
-  "note": "Son of Michal Duska, Roman Catholic cottar of Senné, and Maria Demko, Greek Catholic, of Iňačovce, by a sealed parish certificate of 1947. Born in Slovakia, not in Canada. Known as Steve; died 2018 (stated, no record in hand). He left Iňačovce with his mother in November 1937, aged 8, on her passport, and sailed from Antwerp for Montréal to join his father (S-252 to S-254). Three papers of 1937 give his birthday as 23 October 1929; the parish certificate has 21 October, which is kept here as the church's own entry. In 1984 he is 'Steve Duska, born in Czechoslovakia' (S-249).",
+  "note": "Son of Michal Duska, Roman Catholic cottar of Senné, and Maria Demko, Greek Catholic, of Iňačovce, by a sealed parish certificate of 1947. Born in Slovakia, not in Canada. Known as Steve; died 2018 (stated, no record in hand). He left Iňačovce with his mother in November 1937, aged 8, on her passport, and sailed from Antwerp for Montréal to join his father (S-252 to S-254). Three papers of 1937 give his birthday as 23 October 1929; the parish certificate has 21 October, which is kept here as the church's own entry. In 1984 he is 'Steve Duska, born in Czechoslovakia' (S-249). Married Joan Teresa Leonard at St. Dominic's Church, Montréal, on 26 November 1955; then a superintendent, living at 5218A Des Érables (D-006-22, image held). A second parish extract of his baptism was issued at Senné on 1 October 1955 (D-006-21).",
   "owner": "Duska",
   "living_basis": "Died in 2018 by Kevin's statement to the coordinator (S-000-6).",
   "baptism": {
@@ -86,6 +88,24 @@
   ]
  },
  {
+  "id": "P-005",
+  "ahnentafel": 5,
+  "name": "Joan Teresa Leonard",
+  "role": "Paternal grandmother",
+  "living": "unknown",
+  "birth": {
+   "date": null,
+   "place": "[withheld: outside this experiment]"
+  },
+  "proof": "documented",
+  "sources": [
+   "S-276"
+  ],
+  "note": "Wife of Stephen (Štefan) Duska by the registration of their marriage, Montréal, 26 November 1955. Entered by name only; her own line is outside this rebuild (ruling X-022) and nothing else from the record is used.",
+  "owner": "outside this experiment",
+  "living_basis": "No death on record here; shown by name only."
+ },
+ {
   "id": "P-008",
   "ahnentafel": 8,
   "name": "Michal (Mihály, Mike) Duska",
@@ -106,9 +126,10 @@
    "S-252",
    "S-213",
    "S-260",
-   "S-272"
+   "S-272",
+   "S-274"
   ],
-  "note": "Born 3 July 1903 at Senné, house 79, son of András Duska, cottar, and Anna Nyemcsik (baptism D-009-79). Identified by the census of 1930: his wife Maria and son Štefan are entered at Senné 145 as the daughter-in-law and grandson of Andrej Duška and Anna, married 18 January 1892 (D-011-24). Married Maria Demko on 30 January 1927 by that census. Roman Catholic cottar of Senné 160 in 1929. Sailed for Canada aged 26, with Mikulas Duska, between November 1929 and July 1930 (D-006-19); naturalised 22 April 1940; at 1196a St. George Street, Montréal, in 1937, when he sent for his family; 'Mike Duska' on his wife's stone; alive in November 1966.",
+  "note": "Born 3 July 1903 at Senné, house 79, son of András Duska, cottar, and Anna Nyemcsik (baptism D-009-79). Identified by the census of 1930: his wife Maria and son Štefan are entered at Senné 145 as the daughter-in-law and grandson of Andrej Duška and Anna, married 18 January 1892 (D-011-24). Married Maria Demko on 30 January 1927 by that census. Roman Catholic cottar of Senné 160 in 1929. Sailed for Canada aged 26, with Mikulas Duska, between November 1929 and July 1930 (D-006-19); naturalised 22 April 1940; at 1196a St. George Street, Montréal, in 1937, when he sent for his family; 'Mike Duska' on his wife's stone; alive in November 1966. Died at the Montreal General Hospital on 31 January 1974, 'age 71'; funeral from the Slovak church of St. Cyril and Method; buried in Côte-des-Neiges cemetery (D-006-20). The notice names two sons, Steve and Mike.",
   "owner": "Duska",
   "residence": [
    {
@@ -131,7 +152,11 @@
     "date": "1966",
     "place": "Montréal"
    }
-  ]
+  ],
+  "death": {
+   "date": "31 Jan 1974",
+   "place": "Montreal General Hospital, Montréal"
+  }
  },
  {
   "id": "P-009",

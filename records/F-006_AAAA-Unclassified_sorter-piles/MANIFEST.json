@@ -265,7 +265,68 @@
       "sorter_batch": "S-B-017",
       "document": "D-006-19",
       "image_in_repo": true
+    },
+    {
+      "name": "Obituary_of_Mihaily_Duska.pdf",
+      "sha256": "010b1c4a6fd27cb09f3eddc851228896294f0aa2f53a923dbc59653652174f49",
+      "bytes": 88304,
+      "pile": "to-duska",
+      "private_commit": "73cf83d",
+      "sorter_batch": "S-B-017",
+      "document": "D-006-20",
+      "held": "it names two people of unknown living status and prints the owner's account name on a newspaper website",
+      "image_in_repo": false
+    },
+    {
+      "name": "steve_baptism_registry.jpg",
+      "sha256": "f71c1f3317033a3bfdd6be5e40ed9124b644d7fe3d47d9b8b4721b7beb660c0d",
+      "bytes": 298799,
+      "pile": "to-duska",
+      "private_commit": "73cf83d",
+      "sorter_batch": "S-B-017",
+      "document": "D-006-21",
+      "image_in_repo": true
+    },
+    {
+      "name": "steve_and_joan_marriage_registry.jpg",
+      "sha256": "9909482a5e1141a8618ed61d34aeb4192fe5de424902e2065f03e9a099fbf24f",
+      "bytes": 444015,
+      "pile": "to-duska",
+      "private_commit": "73cf83d",
+      "sorter_batch": "S-B-017",
+      "document": "D-006-22",
+      "held": "it shows a person of unknown living status with her date of birth and address, and fields from a line outside this experiment (X-022)",
+      "image_in_repo": false
+    },
+    {
+      "name": "Mike_Duska_1st_marriage_registry.jpg",
+      "sha256": "17f976cdc6559afd90b2c73c815694bf42cc1a6f846082c1ae0ec765371698b0",
+      "bytes": 574707,
+      "pile": "to-duska",
+      "private_commit": "73cf83d",
+      "sorter_batch": "S-B-017",
+      "document": "D-006-23",
+      "held": "both parties were born less than 100 years ago and no death is on record (X-016); not opened by this agent",
+      "image_in_repo": false
+    },
+    {
+      "name": "miklos_duska_1890_from_Czech_Origins.jpg",
+      "sha256": "98db5c5cf80f3faf043f86215819002fb387da884fa46c8ab1c2d8f6fb924c4c",
+      "bytes": 69532,
+      "pile": "to-duska",
+      "private_commit": "73cf83d",
+      "sorter_batch": "S-B-017",
+      "document": "D-006-24",
+      "image_in_repo": true
+    },
+    {
+      "name": "mikalis_duska_burial.pdf",
+      "sha256": "bd909b370c6c79ac013153230e5ecf5a92973f1170a990479fe1a3917dade0eb",
+      "pile": "to-duska",
+      "private_commit": "73cf83d",
+      "sorter_batch": "S-B-017",
+      "document": "D-006-09",
+      "note": "Byte for byte the same file as FT_01965_Duska.pdf; not entered twice. The second name is the owner's label: 'mikalis duska burial'."
     }
-  ],
-  "note_b033": "Six more files of Sorter batch S-B-017 are in the pile at 73cf83d and not yet taken: two Québec marriage forms, a baptismal certificate of 1955, a death notice of 1974, a baptism strip of 1890 and a second copy of the cemetery record."
+  ]
 }

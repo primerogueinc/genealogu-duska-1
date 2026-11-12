@@ -3,7 +3,17 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-035. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-036. Read ledger v19.
+
+## 00000000000000000000000000000. B-036 (12 Nov): the rest of the pile: Ahn 8's death, Ahn 4's marriage, Ahn 5 by name
+
+Pile at 73cf83d, `DUS:D-006-20` to `-24`. Read ledger v19.
+
+1. **Ahn 8** died at Montréal on 31 Jan 1974, "age 71" (Montreal Star, 2 Feb 1974; held, transcribed). The notice names a second son, Mike, status unknown: entered as a candidate by name only.
+2. **Ahn 4 and Ahn 5 (X-022).** Registration of marriage, St. Dominic's Church, Montréal, 26 Nov 1955 (`DUS:D-006-22`). Public: her name as the record gives it, the date and place, and his side. Image held; none of her fields transcribed. `P-005` added, name only. The file is Kevin's to pass to the open agent.
+3. A 1973 marriage form of a Mike Duska: held unopened.
+4. `DUS:D-006-21`: a second parish extract of X-S-004's entry, dated 1 Oct 1955. Godmother reads Zuzanna Bandura, rod. Hankoščák, plainly.
+5. Kevin's "all dead" was not applied to anyone in this batch (`DUS:DEC-117`).
 
 ## 0000000000000000000000000000. B-035 (12 Nov): Kevin says 'all dead'; ten census captures released
 

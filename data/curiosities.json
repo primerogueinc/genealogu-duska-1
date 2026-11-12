@@ -730,5 +730,27 @@
   "translation": "Dušková née Hankoščáková | spouse's surname: Hancosek",
   "why": "It is the match that ties a Canadian grave to a Senné house.",
   "tone": "odd"
+ },
+ {
+  "id": "C-083",
+  "doc": "D-006-21",
+  "source": "S-275",
+  "title": "A certificate ordered for a wedding",
+  "text": "On 1 October 1955 the parish office at Senné, by then behind a closed border, copied out entry 43 of 1929 for a man in Montréal. Eight weeks later Stephen Duska stood in St. Dominic's Church and gave his date of birth as the certificate had it, 21 October, not the 23rd his passport had carried since he was eight.",
+  "original": "Datum: Senné, die 1. mensis októbra anno 1955 | Date of marriage: Nov. 26, 1955",
+  "translation": "Given at Senné on 1 October 1955. Married 26 November 1955.",
+  "why": "Two papers kept in one basement explain each other.",
+  "tone": "history"
+ },
+ {
+  "id": "C-084",
+  "doc": "D-006-20",
+  "source": "S-274",
+  "title": "From the Slovak church",
+  "text": "Mike Duska left Senné at 26 and died in Montréal at 70. His notice in the Star is eleven lines of English, and the one word in it that says where he came from is in the name of the church his coffin left from: St. Cyril and Method Slovak Church.",
+  "original": "Service on Monday, February 4, at 10 a.m., from St. Cyril and Method Slovak Church.",
+  "translation": "(English)",
+  "why": "Forty-four years in Canada, and the funeral was among his own.",
+  "tone": "sad"
  }
 ]
