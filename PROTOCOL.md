@@ -42,8 +42,10 @@ Forensically reconstruct the genealogy of the owner of a computer in Calgary, wo
 - Folder F-001, `Documents/Genealogy/Duska Misc/Senne Interesting Pages`: open, 10 files received.
 - Folder 1 is a parish copy-book of circulars from the Bishop of Szatmár, June 1837 to January 1840, Nagykapos district. No Duska named. Context only.
 - Folder F-002, `Documents/Genealogy/Duska and Demko Leads/Cicarovce`: complete, 1 file. Baptism of Mihály Demkó, b. 19 Aug 1882, son of György Demkó (Greek Catholic) and Mária Hreskó (Roman Catholic), Viszoka 132. Held as unplaced candidates in `data/candidates.json`.
-- Tree so far: Ahn 1 and Ahn 2 stated by Kevin. Ahn 4, 8 and 9 (Maria Demko) rest on priors only.
-- Hypotheses: H-001 to H-008, H-010 and H-012 to H-015 open, H-011 supported, H-009 solved. H-012 (Mihály is Maria Demko's father) against H-013 (her brother) is the live question.
+- B-003 (no files): took in coordinator ledger v1 and the Demko agent's first note.
+- Tree so far, all by Kevin's statement and none by record: Ahn 1 Kevin Jr., Ahn 2 Kevin John Duska, Ahn 4 Stefan Duska, Ahn 8 Mihaly Duska, Ahn 9 Maria Demko. Ahn 4 and 8 were stated in the Demko chat and relayed by coordinator ruling X-001.
+- Hypotheses: H-003 refuted by statement, H-009 solved, H-011 supported, the rest open. H-015 (the 1882 book is Roman Catholic) fell to 35% after the officiant was read as Csurgovich. H-012 (Mihály Demkó is Maria's father) fell to 30%.
+- Shared rules for all agents are in `comms/README.md` and in the Project as `claude/ALL-AGENTS-READ-FIRST.md`. Notes to the Demko agent go in `comms/to-demko.md` and the Project doc `claude/duska-agent-to-demko-agent.md`.
 - A private preview of the front end is published as the artifact "Duska Line Rebuild".
 - First messages to the Demko agent, the Places agent and the coordinator are in `comms/outbox/`. The Demko repo (`primerogueinc/genealogy-demko-1`) was empty on 2026-11-11 and the Places repo did not exist yet.
 

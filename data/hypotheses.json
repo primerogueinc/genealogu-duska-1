@@ -26,14 +26,20 @@
   {
     "id": "H-003",
     "statement": "Ahn 4 or Ahn 8 carried the given name Ján / John.",
-    "confidence": 60,
+    "confidence": 5,
     "basis": "The father's middle name is John, and the name is the most common one in the region.",
     "test": "Any record naming the grandfather or great-grandfather.",
-    "status": "open",
+    "status": "refuted",
     "raised": "B-000",
-    "resolved": null,
-    "resolution": null,
-    "log": []
+    "resolved": "B-003",
+    "resolution": "Refuted by statement, not by record (coordinator ruling X-001). Neither man is a Ján or John. Reopen only if a document shows a second given name.",
+    "log": [
+      {
+        "batch": "B-003",
+        "effect": "60% to 5%",
+        "note": "Kevin names Ahn 4 Stefan and Ahn 8 Mihaly."
+      }
+    ]
   },
   {
     "id": "H-004",
@@ -79,7 +85,7 @@
   {
     "id": "H-006",
     "statement": "Maria Demko was born c. 1890-1910 in an Ung county parish, and her entry is in the Mukachevo Eparchy Greek Catholic series held at Uzhhorod.",
-    "confidence": 40,
+    "confidence": 45,
     "basis": "L-003: that series covers Ung parishes 1826-1938 and is the usual reason a Slovak-side record ends up in Uzhhorod.",
     "test": "Her age in any Canadian or Czechoslovak record, then a page-by-page search of the matching parish and years.",
     "status": "open",
@@ -91,6 +97,11 @@
         "batch": "B-002",
         "effect": "50% to 40%",
         "note": "A Demko household in Ung county fits. But this family baptised a child in a Roman Catholic book, and a birth after 1895 would be a civil record (H-014), so the Greek Catholic series is less certain."
+      },
+      {
+        "batch": "B-003",
+        "effect": "40% to 45%",
+        "note": "If the 1882 book is Greek Catholic (see H-015), a Demko daughter in the Greek Catholic series becomes more plausible again."
       }
     ]
   },
@@ -109,14 +120,20 @@
   {
     "id": "H-008",
     "statement": "Jozef Duska of Senné no. 73 (1930) is not Ahn 8. The direct-line ancestor had left for Canada before the 1930 census.",
-    "confidence": 55,
+    "confidence": 70,
     "basis": "Follows from H-002. PR-6 gives the household but not its relationship to the direct line.",
     "test": "The 1930 census sheet for house 73 and the notes on absent household members.",
     "status": "open",
     "raised": "B-000",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-003",
+        "effect": "55% to 70%",
+        "note": "Ahn 8 is stated to be Mihaly, so Jozef of house 73 is not Ahn 8. Whether Mihaly had left for Canada by 1930 is still untested."
+      }
+    ]
   },
   {
     "id": "H-009",
@@ -163,14 +180,20 @@
   {
     "id": "H-012",
     "statement": "Mihály Demkó (b. 1882) is the father of Maria Demko, Ahn 9. That would make him Ahn 18 and György Demkó and Mária Hreskó Ahn 36 and 37.",
-    "confidence": 40,
+    "confidence": 30,
     "basis": "The owner filed this under leads and named the file for Mihály, which is what a researcher does with a person on the line. A man born in 1882 fits as father of a woman whose son was born c. 1925-1942.",
     "test": "Maria Demko's birth or marriage record naming her father; any record giving her age.",
     "status": "open",
     "raised": "B-002",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-003",
+        "effect": "40% to 30%",
+        "note": "Coordinator ruling X-004: the folder is called Leads, so the file name is weak grounds. Coordinator analysis X-A-001: if true, Maria was born after about 1902 and H-014 follows. Rival X-H-001 (she is from another Demko household) is on the coordinator board at 35%."
+      }
+    ]
   },
   {
     "id": "H-013",
@@ -199,13 +222,19 @@
   {
     "id": "H-015",
     "statement": "The entry is from the Roman Catholic register of Čičarovce (Csicser), which served Viszoka.",
-    "confidence": 70,
+    "confidence": 35,
     "basis": "File name says Čičarovce. The mother and both godparents are Roman Catholic, and neighbouring entries note 'rom. k.'.",
     "test": "The page header or film title for this image (R-003).",
     "status": "open",
     "raised": "B-002",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-003",
+        "effect": "70% to 35%",
+        "note": "The Demko agent reads the officiant as Csurgovich, and on a second look so do I. That is a Greek Catholic clerical surname in this region. Under the 1868 law a son followed his father's church, and the father is Greek Catholic. The book is more likely Greek Catholic."
+      }
+    ]
   }
 ]

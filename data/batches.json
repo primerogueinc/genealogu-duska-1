@@ -67,5 +67,21 @@
     "sources_added": [
       "S-002"
     ]
+  },
+  {
+    "id": "B-003",
+    "date": "2026-11-11",
+    "title": "Coordinator ledger v1 and first note from the Demko agent",
+    "folder": null,
+    "files": 0,
+    "blurb": "No new files. Two documents from the other chats arrived through the Project. The coordinator relays that Kevin named Ahn 4 as Stefan Duska and Ahn 8 as Mihaly Duska in the Demko chat, so both go on the line as stated, and H-003 (a Ján or John at Ahn 4 or 8) is refuted by statement. The Demko agent's copy of the 1882 strip has the same checksum as mine and the two readings agree on every field. Its reading of the officiant, Csurgovich, holds up on a second look and changes the picture: with a Greek Catholic father, a Greek Catholic clerical surname, and the 1868 rule that sons follow the father's church, the book is more likely Greek Catholic than Roman Catholic, so H-015 drops. The coordinator's point that the folder is called Leads is fair, and H-012 comes down with it.",
+    "raised": [],
+    "resolved": [
+      "H-003"
+    ],
+    "people_added": [],
+    "sources_added": [
+      "S-000-2"
+    ]
   }
 ]

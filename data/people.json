@@ -36,34 +36,35 @@
   {
     "id": "P-004",
     "ahnentafel": 4,
-    "name": "[given name unknown] Duska",
+    "name": "Stefan Duska",
     "role": "Paternal grandfather",
     "living": null,
     "birth": {
       "date": null,
       "place": null
     },
-    "proof": "prior",
+    "proof": "stated",
     "sources": [
+      "S-000-2",
       "PR-1"
     ],
-    "note": "Known only as a Duska whose mother was Maria Demko. No record in hand."
+    "note": "Named by Kevin in the Demko chat (coordinator ruling X-001). No record in hand."
   },
   {
     "id": "P-008",
     "ahnentafel": 8,
-    "name": "[unknown] Duska",
+    "name": "Mihaly Duska",
     "role": "Great-grandfather",
     "living": false,
     "birth": {
       "date": null,
       "place": null
     },
-    "proof": "inferred",
+    "proof": "stated",
     "sources": [
-      "PR-1"
+      "S-000-2"
     ],
-    "note": "Inferred only: the grandfather carries the Duska surname and his mother was a Demko, so his father is presumed to be a Duska. Unproven."
+    "note": "Named by Kevin in the Demko chat (coordinator ruling X-001). A different man from Mihály Demkó, b. 1882 (ruling X-002). No record in hand."
   },
   {
     "id": "P-009",
@@ -75,10 +76,11 @@
       "date": null,
       "place": null
     },
-    "proof": "prior",
+    "proof": "stated",
     "sources": [
+      "S-000-2",
       "PR-1"
     ],
-    "note": "Birth record believed to be in the Uzhhorod archives, not yet located."
+    "note": "Owned by the Demko agent from here up (ruling X-003). Birth record believed to be in the Uzhhorod archives, not yet located."
   }
 ]
