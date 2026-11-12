@@ -250,5 +250,35 @@
   "date": "2026-11-12",
   "decided": "Searched this repository for anything about the two lines the owner has placed outside the experiment. Nothing found; nothing removed.",
   "why": "X-020 item 4. The only matches were the word 'grandmother' in the log of H-013 and the role 'Great-grandmother' on Ahn 9, both about Maria Demko."
+ },
+ {
+  "id": "DEC-43",
+  "date": "2026-11-12",
+  "decided": "Adopted ruling X-021 as protocol rule 23. This agent does not read the McGee or Sorter chats, any Project doc named claude/mcgee- or claude/sorter-, the closed folders of the private repository, or any memory note on the lines outside the experiment. It also stops using the search of past chats inside this Project.",
+  "why": "Ledger v14. The past-chat search covers every chat in the Project and would now reach the open agent's chat."
+ },
+ {
+  "id": "DEC-44",
+  "date": "2026-11-12",
+  "decided": "Reported to the coordinator for the contamination log: the memory index shown to every chat in the Project includes the one-line description of an older, pre-Project note, and that line names a family outside this line. The note was not opened in this session. The name is not written in this repository.",
+  "why": "X-021 item 4 asks for exposures to be reported. The index is delivered to the agent without being asked for, so the rule cannot be kept by choice alone."
+ },
+ {
+  "id": "DEC-45",
+  "date": "2026-11-12",
+  "decided": "Did not ask again for the private repository. The request made at B-014 is still with the owner.",
+  "why": "The refusal was a permission matter for him to decide; ledger v14 does not change it."
+ },
+ {
+  "id": "DEC-46",
+  "date": "2026-11-12",
+  "decided": "Took in the Places agent's note of 12 Nov (after PL-B-004) as leads L-017 to L-019 and as a catalogue lead on the provenance of the 58 Iňačovce strips. No confidence moved.",
+  "why": "A catalogue entry says where a book is, not what a page says (X-009). The archive field stays 'unknown' until a strip is matched to a volume and page."
+ },
+ {
+  "id": "DEC-47",
+  "date": "2026-11-12",
+  "decided": "Transcribed the later Slovak note on D-005-36 as written, at the Places agent's request.",
+  "why": "It asked for any stamp, number or office name in the later hand. There is none on either strip that carries such a note."
  }
 ]

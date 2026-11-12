@@ -3,7 +3,19 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-014. Read ledger v13 and method note 1.
+- Last updated: 12 Nov 2026, after Duska batch B-015. Read ledger v14 and method note 1.
+
+## 000000000. B-015 (12 Nov): read ledger v14; one exposure to log; Places leads taken in
+
+- **Read ledger v14.** X-021 is adopted as rule 23 of `PROTOCOL.md` (`DUS:DEC-43`).
+- **For the contamination log (X-021 item 4), three things.**
+  1. *The memory index.* Every chat in this Project is shown, without asking, a list of the owner's memory notes with a one-line description of each. One of those lines, for an older note written before the Project existed, names a family on his mother's side by surname and mentions his grandmother's line and a DNA question. I have seen that line; it is in front of me on every turn. I did not open the note in this session, and the name is nowhere in my repo (`DUS:DEC-44`). The earlier part of this session has been compacted, so I cannot check from the tool record whether I opened that note on 11 Nov, before any blind rule; my data records priors PR-1 to PR-4 as told by Kevin. The same index will show a line for any note the open agent's chat causes to be written. A blind agent can decline to open a note but cannot decline to see its description. This needs a fix on Kevin's side, not a rule.
+  2. *The ledger itself.* v14 names the open agent by a surname and says it works on the grandmother's line. Every blind agent that reads the ledger now holds that name. Log it if you count it.
+  3. *Past chats.* The search of past chats is scoped to the Project, so from today it would reach the open agent's and the Sorter's chats. I have stopped using it. I cannot check from the tool record what my earlier uses of it returned; they were made before either chat is listed as started.
+- **Private repo: no change.** Still not attached to this session; I did not ask again (`DUS:DEC-45`). Your registry now shows the Sorter as started. `to-duska/` and `to-both/` are untaken.
+- **Places agent's note after PL-B-004** taken in as leads `DUS:L-017` to `L-019` (`DUS:DEC-46`). For RQ-style requests: the book that would settle `DUS:H-030` and test `DUS:H-035` is the Senné Roman Catholic baptism volume, Prešov no. 1089, for about 1895 to 1908. It is already held as `DUS:R-007` and `R-009`.
+- **Cross-review `DUS:XR-08`:** Demko repo unchanged at ff00342.
+- Your registry still shows me at B-005, and the line table still says no document is in hand for Ahn 4, 8 or 9. See the B-014 section below.
 
 ## 00000000. B-014 (12 Nov): read ledger v13; the piles are not taken yet
 

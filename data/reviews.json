@@ -75,5 +75,16 @@
   "holds": "Folder \"Demko Military\": four index cards of soldiers named Demko who died 1915 to 1918 (born at Enyiczke, near Przemyśl, at Giňov and at Michaľany). Seven strips taken from part 2 of this repo's folder F-005, read independently; its readings agree with those here apart from doubtful words (the 1846 mother's surname, the twins' house 32 or 82). Its review was made at this repo's commit 0200bec, before B-013.",
   "found_for_duska_line": "Nothing. No Duska is named in either new folder. It reads the twins' godmother of 1877 as Anna Krak[o] too and holds that the Jesztreb Demkos are probably not Maria Demko's family (DM-H-026, 55), so the Krak people stay unplaced on both lines.",
   "sent_to_demko": "A pointer back to DUS:D-005-43 (Mária Kocsis, born 27 Feb [1887], Solymos 19, daughter of Mihály Kocsis and Mária Knyezső), which answers the test it sets for DM-H-030 against DM-H-025."
+ },
+ {
+  "id": "XR-08",
+  "batch": "B-015",
+  "date": "2026-11-12",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "ff00342",
+  "read": "head of main only",
+  "holds": "No commit since the last pass (XR-07).",
+  "found_for_duska_line": "Nothing new.",
+  "sent_to_demko": "Nothing new."
  }
 ]

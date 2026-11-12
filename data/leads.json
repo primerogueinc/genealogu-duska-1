@@ -149,5 +149,34 @@
       "H-016"
     ],
     "proof": "lead"
+  },
+  {
+    "id": "L-017",
+    "text": "Places agent, from the Prešov state archive's catalogue of church registers (PL-R-003, PL-S-075, note PL-N-026 @208af51): the Iňačovce Greek Catholic register is four volumes on film 88: no. 380 (1811 to 1831, Latin), no. 381 (1831 to 1859, Church Slavonic, Latin, Hungarian), no. 382 (births 1861 to 1870, Latin) and no. 383 (births 1870 to 1898). Births of 1860 are in no listed volume. Its district is Iňačovce, Jastrabie, Senné and Stretava. Which volume and page each of the 58 strips of folder F-005 comes from is not established.",
+    "url": "https://github.com/primerogueinc/duska-and-demko-villages/blob/208af51/interagent/to-duska.md",
+    "bears_on": [
+      "H-035",
+      "H-036"
+    ],
+    "proof": "lead"
+  },
+  {
+    "id": "L-018",
+    "text": "Places agent (same catalogue, @208af51): Senné Roman Catholic births exist at Prešov only from 1866, in volume no. 1089; deaths are in no. 1091 (1831 to 1886) and no. 1093 (1887 to 1925). The baptism of Michal Duska, if he was born at Senné between 1895 and 1908, should be in no. 1089; burials that would test a reused name are in no. 1093.",
+    "url": "https://github.com/primerogueinc/duska-and-demko-villages/blob/208af51/interagent/to-duska.md",
+    "bears_on": [
+      "H-030",
+      "H-035"
+    ],
+    "proof": "lead"
+  },
+  {
+    "id": "L-019",
+    "text": "Places agent (PL-R-005 @208af51): the Reformed of Iňačovce have a register of their own within the Lúčky parish, no. 592/1: births 1819 to 1927, marriages 1820 to 1926, deaths 1819 to 1936. This is where Anna Duska, Reformed, mother at Solymos 43 in 1894, should be sought.",
+    "url": "https://github.com/primerogueinc/duska-and-demko-villages/blob/208af51/interagent/to-duska.md",
+    "bears_on": [
+      "H-005"
+    ],
+    "proof": "lead"
   }
 ]

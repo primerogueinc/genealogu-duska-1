@@ -716,12 +716,17 @@
   "statement": "Michal Duska was born at Senné between 1895 and 1908 and baptised in its Roman Catholic church.",
   "confidence": 65,
   "basis": "He is Roman Catholic and \"of Senné\" in 1929, and his wife was born in 1906.",
-  "test": "The Senné Roman Catholic baptism register, which is filmed for 1866 to 1912 (L-001).",
+  "test": "The Senné Roman Catholic baptism register, filmed for 1866 to 1912 (L-001). The Places agent identifies it as Prešov volume no. 1089 (L-018).",
   "status": "open",
   "raised": "B-009",
   "resolved": null,
   "resolution": null,
-  "log": []
+  "log": [
+   {
+    "batch": "B-015",
+    "note": "No change (65). The book that would settle it now has a number (L-018, a lead). No page of it is in hand."
+   }
+  ]
  },
  {
   "id": "H-031",
@@ -763,7 +768,12 @@
   "raised": "B-013",
   "resolved": null,
   "resolution": null,
-  "log": []
+  "log": [
+   {
+    "batch": "B-015",
+    "note": "No change (70). The Places agent searched for a documented custom of entering a man under his wife's surname or house name in these villages and found none (PL-SR-19, PL-N-027 @208af51); Slovak studies describe a 'name of the house' elsewhere in the country. The identification rests on the entries themselves."
+   }
+  ]
  },
  {
   "id": "H-034",
@@ -787,7 +797,12 @@
   "raised": "B-013",
   "resolved": null,
   "resolution": null,
-  "log": [],
+  "log": [
+   {
+    "batch": "B-015",
+    "note": "No change (35). The test is unchanged; the Senné volumes that hold the baptism and the burials are named in L-018."
+   }
+  ],
   "necronym_risk": "unresolved"
  },
  {

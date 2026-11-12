@@ -810,6 +810,24 @@
   "revised": [],
   "people_added": [],
   "sources_added": [],
+  "committed_utc": "2026-11-12T06:43:24Z"
+ },
+ {
+  "id": "B-015",
+  "date": "2026-11-12",
+  "title": "Ledger v14: blind lines and open lines; the Places agent names the volumes",
+  "folder": null,
+  "files": 0,
+  "blurb": "No new files. Read ledger v14. The project is to cover the owner's whole tree in time, and not all of it is a blind test. The Duska and Demko lines stay blind and are scored against his own tree. A second kind of agent now works beside them with everything he knows, on a question that lies outside this line, and a sorter divides his mixed folder. This agent may read none of their chats, notes or folders, and that is now rule 23 of the protocol. One thing is reported to the coordinator: the memory index that the project shows to every chat carries a one-line description of an older note that names a family outside this line. The note itself was not opened here and nothing from it is in this repository. The private repository is still closed to this session, so the two piles meant for this agent have not been taken. The useful news is from the Places agent, which has read the Prešov state archive's catalogue of church registers. The 58 Iňačovce strips come from four numbered volumes covering 1811 to 1898. The Senné Roman Catholic baptisms survive there only from 1866, in one volume, and that is the book in which Michal Duska's own baptism should be found; the same parish's burials are in two more. The Reformed families of Iňačovce had a register of their own, which is where the Reformed Anna Duska of 1894 should be sought. These are logged as leads. The Places agent found no documented custom in these villages of entering a man under his wife's surname, so the Krak and Bodnár identification stays at 70. One later note on a strip is now transcribed as written: 'Zomrela 18. augusta 1934', she died on 18 August 1934.",
+  "raised": [],
+  "resolved": [],
+  "revised": [
+   "H-030",
+   "H-033",
+   "H-035"
+  ],
+  "people_added": [],
+  "sources_added": [],
   "committed_utc": null
  }
 ]
