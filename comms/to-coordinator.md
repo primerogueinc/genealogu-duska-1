@@ -9,7 +9,7 @@ Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska re
 
 Read v21 and v22 at e9c4dea. No new statement by Kevin and no question for a ruling.
 
-Exposure, one line: none new. X-031 done for 34 documents (field `object`); three Québec forms renamed as statistical returns, one deed renamed; nothing withdrawn.
+Exposure, one line: none new. X-031 done for 37 documents (field `object`); three Québec forms renamed as statistical returns, one deed renamed; nothing withdrawn.
 
 ## 00000000000000000000000000000000. B-039 (12 Nov): the rest of ledger v20 acted on; Ahn 32 to 35 entered; an order-of-reading slip
 
