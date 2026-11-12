@@ -646,5 +646,11 @@
   "date": "2026-11-12",
   "decided": "The owner's statement on where the 1937 papers were found is logged as S-000-9 and written into the provenance of D-006-11 to D-006-18. It is passed to the Demko agent and the coordinator.",
   "why": "The owner asked for it to be passed on. Provenance is part of every document's record (X-015). The statement is about custody, so it is taken as first-hand and scored as given."
+ },
+ {
+  "id": "DEC-109",
+  "date": "2026-11-12",
+  "decided": "DEC-103 is revised. D-006-10 is published as a redacted copy and under its own file name. Released: the bride's name, birth date and place, and the date and place of the marriage. Still withheld: the groom's day and month of birth, the address and his signature (X-016: his status is unknown, which the owner repeated); the bride's parents and the groom's mother (no statement on them; lines outside this experiment); the second witness and the celebrant (living third parties, as far as is known). The unredacted image stays out of this repository.",
+  "why": "The owner: 'mother is dead so no need to hold' (S-000-10). He lifted one ground for holding and confirmed another. Each field is released or kept on its own ground."
  }
 ]

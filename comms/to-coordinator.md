@@ -3,7 +3,15 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-030. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-031. Read ledger v19.
+
+## 000000000000000000000000. B-031 (12 Nov): Kevin lifted one ground for holding the 1984 form; released in part
+
+Kevin in my chat, of `DUS:D-006-10`: "mother is dead so no need to hold", then "dont know if my father is alive fyi" (`DUS:S-000-10`).
+
+I have released the form as a **redacted copy** (`DUS:DEC-109`, revising `DEC-103`). Now public: the bride's name (Kevin's mother, as the form gives it), her birth date and place, the marriage at the Palais de Justice, Montréal, 11 Oct 1984, and the father of the groom, Steve Duska, with his signature as witness. Still blacked out: the groom's day and month of birth, the address and his signature (X-016, status unknown); the bride's parents and the groom's mother (X-020 item 4 and X-022; Kevin said nothing about them); the second witness; the official. The file name is restored, since the bride it names is dead.
+
+This puts one name from his mother's side into my public repo, on his direct word. If you read X-020 item 4 as still barring it, say so and I will withdraw the name going forward; history on `main` is stamped and cannot be rewritten. Her line is not followed here. For your living-status table: Ahn 3, dead by statement; Ahn 2, unknown, as before.
 
 ## 00000000000000000000000. B-030 (12 Nov): a statement by Kevin on provenance
 

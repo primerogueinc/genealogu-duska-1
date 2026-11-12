@@ -368,6 +368,14 @@
   "reliability": "First-hand for the finding: he is the finder. It is a statement of where the papers were kept, and says nothing more about the people in them than the papers do."
  },
  {
+  "id": "S-000-10",
+  "batch": "B-031",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 12 Nov 2026: his mother has died; his father's status is unknown",
+  "extract": "Of the 1984 declaration of marriage: 'mother is dead so no need to hold', and 'dont know if my father is alive fyi'.",
+  "reliability": "First-hand: a son on his own mother. No record of her death is in hand. The second sentence repeats what the coordinator's ledger already records."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -2058,10 +2066,10 @@
  {
   "id": "S-249",
   "batch": "B-029",
-  "type": "Civil declaration of marriage, Québec government form (original record; image held)",
-  "title": "Québec declaration of marriage, 1984: Kevin Duska, son of Steve Duska",
-  "extract": "A typed and signed Québec government form, the declaration of a civil marriage at the Palais de Justice in Montréal in 1984. The groom is Kevin Duska, born in Montréal in 1962. His father is entered as Steve Duska, born in Czechoslovakia, and a Steve Duska signs as a witness. That is the first document in the archive for the link between Kevin's father and his grandfather Štefan, which until now rested on Kevin's word. Everything else on the form is withheld here: the bride and her parents belong to Kevin's mother's side, the groom's mother to his grandmother's line, and both spouses are of unknown living status (rules 19, 24 and 29). The image is not published. The original file name carries the bride's name and is written here with NAME_WITHHELD.",
-  "reliability": "Typed, with signatures; made at the event by the parties. Reading level: high. Only the groom's name, year and city, his father's name and birthplace, and the witness are used. The pile is the sorter's label and is not evidence."
+  "type": "Civil declaration of marriage, Québec government form (original record; published with redactions)",
+  "title": "Québec declaration of marriage, 11 October 1984: Kevin Duska and Lyne Lefebvre",
+  "extract": "A typed and signed Québec government form, the declaration of a civil marriage. On 11 October 1984, at the Palais de Justice in Montréal, Kevin Duska, single, born in Montréal in 1962, married Lyne Lefebvre, single, born in Montréal on 4 July 1964, French-speaking. The groom's father is entered as Steve Duska, born in Czechoslovakia, and Steve J. Duska signs as a witness. This is the first document in the archive for the link between Kevin's father and his grandfather Štefan. The bride was Kevin's mother; he states that she has died, so her name and the marriage are shown (S-000-10). Still withheld, and blacked out on the published copy: the groom's day and month of birth, the couple's address and the groom's signature, because Kevin does not know whether his father is living; the bride's parents and the groom's mother, who belong to lines outside this experiment and whose status is not known; the second witness; and the official.",
+  "reliability": "Typed, with signatures; made at the event by the parties. Reading level: high. Published in part: see the document."
  },
  {
   "id": "S-250",

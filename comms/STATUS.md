@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-030 (read ledger v19). Requests R-001 to R-011 are with the owner; R-016 (Michal's own passenger list), R-015 (the 1921 census forms for Senné) and R-007 (any record of his age or parents) are first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-031 (read ledger v19). Requests R-001 to R-011 are with the owner; R-016 (Michal's own passenger list), R-015 (the 1921 census forms for Senné) and R-007 (any record of his age or parents) are first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -17,7 +17,7 @@ Updated 2026-11-12 after batch B-030 (read ledger v19). Requests R-001 to R-011 
 - F-008 `Presov - Greek Catholic` (4 files, complete): Latin baptisms at Eperjes, 1804 to 1822; a Nyemcsik, a Kocsis, and the son of a priest named Demko. No Duska.
 - F-009 `Senne - Roman Catholic` (eight parts, 95 files, open until the owner closes it; one text document held unopened): Roman Catholic Duskas of Senné, 1866 to 1912. Two baptisms of a Mihály Duska: 1896 (the miller's son) and 1903 (son of András Duska and Anna Nyemcsik). Ahn 8 is one of them: H-046 (1903) 55, H-047 (1896) 22.
 - F-006, pile `to-duska/` at 4f16658 (4 files): the marriage of András Duska and Anna Nyemcsik, 1892; a second photograph of Mary Demko's gravestone; a screenshot of the Senné register with its catalogue path; Reformed burials at Solymos, 1831 to 1841.
-- F-006 `AAAA Unclassified` through the Sorter's piles (18 files so far, open): D-006-01, -06, -08 and -10 are held (name and SHA-256 only); -06 is not opened; -14 is published cropped.
+- F-006 `AAAA Unclassified` through the Sorter's piles (18 files so far, open): D-006-01, -06 and -08 are held (name and SHA-256 only); -06 is not opened; -10 is published redacted and -14 cropped.
 - F-007 `Inacovce - Reformed` (45 files, complete): Reformed Duska households of Solymos, 1830s to 1902.
 - F-008 `Presov - Greek Catholic` (4 files, complete): no Duska.
 - F-009 `Senne - Roman Catholic` (95 files, complete, closed by DUS at B-023): the Roman Catholic Duskas of Senné, 1866 to 1912. One text file of the owner's is held unopened.
@@ -26,7 +26,7 @@ Updated 2026-11-12 after batch B-030 (read ledger v19). Requests R-001 to R-011 
 
 ## Concluded
 
-- Ahn 2 is documented as son of Steve (Štefan) Duska by a Québec declaration of marriage of 1984 (image held).
+- Ahn 2 is documented as son of Steve (Štefan) Duska by a Québec declaration of marriage of 1984 (published redacted).
 - Ahn 4 Štefan Duska, b. 21 Oct 1929 at Senné 160 (23 Oct in the 1937 papers), son of Michal Duska and Maria Demko; left Iňačovce with his mother in November 1937 for Montréal (H-065, solved).
 - Michal (Mike) Duska was settled at 1196a St. George Street, Montréal, by September 1937. Maria Demko was born on 22 Aug 1906 at Iňačovce (passport).
 - Michal Duska (Ahn 8) was born at Senné and baptised Roman Catholic: H-030, 70, supported.

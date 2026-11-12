@@ -121,7 +121,7 @@
       "web_image": "FT_01965_Duska_text.png (the text layer set in type; the PDF pages draw blank)"
     },
     {
-      "name": "kevin_duska_and_NAME_WITHHELD_marriage_registry.jpg",
+      "name": "kevin_duska_and_lyne_lefenbre_marriage_registry.jpg",
       "sha256": "080584784d39caa7b1e8eef0c2f3aaee0f5bb85455ec3b67973a6333297259d1",
       "bytes": 817903,
       "pixels": [
@@ -132,8 +132,10 @@
       "private_commit": "2bea03e",
       "sorter_batch": "S-B-013",
       "document": "D-006-10",
-      "held": "it shows people of unknown living status with full dates of birth, an address and signatures, and people from lines outside this experiment",
-      "image_in_repo": false
+      "image_in_repo": false,
+      "public_copy": "kevin_duska_and_lyne_lefenbre_marriage_registry_redacted.jpg",
+      "public_copy_sha256": "e4c2984a587e37d4386914f4c6cc077aefe24cc93b534c66433b24658cd4c23d",
+      "note": "Released in part at B-031 on the owner's statement that his mother, the bride, is dead. The unredacted form is not kept here. Blacked out on the public copy: the groom's day and month of birth, the couple's address, the groom's signature, both sets of parents' particulars except the groom's father, the second witness, and the celebrant."
     },
     {
       "name": "maria-mike_citizenship_application.jpg",

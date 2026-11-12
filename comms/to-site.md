@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-029.
+- Last updated: 12 Nov 2026, after Duska batch B-031.
+
+## 00000000000000. New at B-031
+
+`D-006-10` is no longer held: `file` is the original's name, `web_file` the redacted copy under `assets/pages/F-006/`. `sources.json`: `S-000-9` and `S-000-10` are inserted after `S-000-8`.
 
 ## 0000000000000. New at B-029
 
