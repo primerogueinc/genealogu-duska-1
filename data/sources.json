@@ -344,6 +344,14 @@
     "reliability": "Second-hand for this agent: taken from the coordinator's ledger. Scored as given."
   },
   {
+    "id": "S-000-7",
+    "batch": "B-018",
+    "type": "Statement by the subject, relayed",
+    "title": "Kevin J.S. Duska Jr., Duska chat, 12 Nov 2026: no more folders",
+    "extract": "After the Reformed folder: \"that's all I have\". He asked whether anything missing goes to requests.",
+    "reliability": "Second-hand for this agent: taken from the coordinator's ledger. Scored as given."
+  },
+  {
     "id": "S-038",
     "batch": "B-011",
     "type": "Parish baptism register, single entry (image strip)",

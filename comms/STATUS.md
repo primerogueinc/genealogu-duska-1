@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-017 (read ledger v16). The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-018 (read ledger v16). The owner has no more folders; requests R-001 to R-011 are released to him. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 

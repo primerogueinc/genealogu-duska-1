@@ -364,5 +364,17 @@
   "date": "2026-11-12",
   "decided": "Checked the private repository at dcc9468 before this batch: the two piles given to this agent are unchanged. Demko repo unchanged at b2bdf12.",
   "why": "Rules 18 and 22."
+ },
+ {
+  "id": "DEC-62",
+  "date": "2026-11-12",
+  "decided": "Released the ten held requests (R-001 to R-007, R-009 to R-011) to the owner, with a rank on each. R-008 stays withdrawn.",
+  "why": "Rule 8 holds requests until a whole line has been processed from the folders given. The owner said in chat on 12 Nov that he has no more to send."
+ },
+ {
+  "id": "DEC-63",
+  "date": "2026-11-12",
+  "decided": "The data is not frozen and the comparison phase is not started.",
+  "why": "The owner said he has no more folders, not that the archive is complete. The Sorter has placed one of 33 files so far; folder F-006 stays open."
  }
 ]

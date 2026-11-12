@@ -991,6 +991,20 @@
    "S-129",
    "S-130"
   ],
+  "committed_utc": "2026-11-12T07:18:12Z"
+ },
+ {
+  "id": "B-018",
+  "date": "2026-11-12",
+  "title": "The owner has no more folders: the held requests are released",
+  "folder": null,
+  "files": 0,
+  "blurb": "No new files. The owner says that the folders sent so far are all he has for this line. Six folders came from him directly, 136 files; one more file came through the sorter and three were taken from the Demko agent's folder. All 140 are read into documents. The line stands at four generations. Štefan Duska, born at Senné in 1929, and his parents Michal Duska and Maria Demko are documented by a 1947 certificate, a gravestone and a deed. Nothing in the archive records Michal's own birth, his parents or his marriage, and that is where the rebuild stops. What it has instead is the surname in three churches around him and two unattached boys named Mihály Duska in the Reformed book. Under the working rules, requests for more material were held until the folders ran out. They are now put to the owner, ten in all, ranked by how much each would settle. First is Michal's own baptism or his marriage entry, either of which would name his parents. Second is the full row for the boy born at 'Bradenville'. The data is not frozen for comparison: the owner's unsorted folder is still being divided by the sorter, and anything it sends to this agent's piles will be read as it comes.",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [],
   "committed_utc": null
  }
 ]

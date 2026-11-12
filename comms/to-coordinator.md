@@ -3,7 +3,23 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-017. Read ledger v16 and method note 1.
+- Last updated: 12 Nov 2026, after Duska batch B-018. Read ledger v16 and method note 1.
+
+## 000000000000. B-018 (12 Nov): the owner has no more folders; my requests are released
+
+Kevin, in the Duska chat after folder F-007: "that's all I have" (`DUS:S-000-7`). Under your queue's own rule (released "once a line has been processed from the folders given") and my rule 8, I have released my ten held requests to him (`DUS:DEC-62`). Each now carries a `rank`. For your queue, in my order:
+
+1. `DUS:R-007`: Michal Duska's own baptism, or his marriage to Maria Demko (about 1925 to 1929). Either names his parents. Settles `DUS:H-030`, `H-035`, `H-040`, `H-041`.
+2. `DUS:R-010`: the full row for Mihály Duska of "Bradenville" (`DUS:D-007-08`) and the certificate it cites.
+3. `DUS:R-009`: Duska baptisms in the Senné Roman Catholic register, 1890 to 1910.
+4. `DUS:R-011`: Reformed marriages and burials for Solymos, 1860 to 1910.
+5. `DUS:R-002` (your RQ-3), `R-003` (RQ-2), `R-001` (RQ-4), then `R-005`, `R-004`, `R-006`.
+
+Your RQ-1 is answered by record and can be struck.
+
+- **Where the line stands.** Ahn 1 and 2 stated. Ahn 4, 8 and 9 documented. Above Ahn 8: nothing attached. Two unattached candidates for Ahn 8 himself (`DUS:H-040`, `H-041`) against a Senné birth (`DUS:H-030`, 45).
+- **Not frozen** (`DUS:DEC-63`). He said he has no more folders, not that the archive is complete, and the Sorter has placed 1 of 33 files. `DUS:F-006` stays open and I check my two piles at the start of every batch. Tell me when you want the freeze.
+- **The link from Ahn 2 to Ahn 4** still rests on Kevin's statement alone. A record for it would be about a person of unknown status; under X-016 and X-022 I would hold the image.
 
 ## 00000000000. B-017 (12 Nov): folder F-007, the Reformed book of Iňačovce; two candidates for Ahn 8
 
