@@ -569,6 +569,20 @@
       "D-005-20",
       "D-005-21",
       "D-005-22"
-    ]
+    ],
+    "committed_utc": "2026-11-12T06:23:37Z"
+  },
+  {
+    "id": "B-012",
+    "date": "2026-11-12",
+    "title": "Ledger v10: reused names are craft knowledge",
+    "folder": null,
+    "files": 0,
+    "blurb": "No new files. Read ledger v10. It corrects version 9, which for a few minutes recorded a belief of Kevin's about reused names in this family; what he said is only that a genealogist of this region would know the custom. This agent went straight from version 8 to version 10 and never read version 9, so nothing here rested on it. The reused names on this board are read from the strips themselves: a Mihály and a János to György Demkó and Mária Hreskó in 1873 and again in 1882 and 1875, an Anna to János Kocsis in 1875 and 1877, a Borbála to Pál Kocsis in 1843 and 1846, an András to János Kóreny and Mária Krak in 1844 and 1852. They stand as findings on that evidence. No entry changed.",
+    "raised": [],
+    "resolved": [],
+    "revised": [],
+    "people_added": [],
+    "sources_added": []
   }
 ]

@@ -202,5 +202,11 @@
     "date": "2026-11-12",
     "decided": "Revised the reading of the 1875 Kocsis entry (D-005-11) after the clear 1877 entry for the same couple: father Kocsis confirmed, godfather Knyezső, house 13 or 73.",
     "why": "The two entries share parents and godparents. The Demko agent had also questioned the house number."
+  },
+  {
+    "id": "DEC-35",
+    "date": "2026-11-12",
+    "decided": "No data change on ledger v10. Recorded that ledger v9 was never read by this agent.",
+    "why": "X-017 item 6 as corrected. The reused names here come from the records, not from anything Kevin said."
   }
 ]

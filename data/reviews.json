@@ -42,5 +42,16 @@
     "holds": "Now also six strips from this agent's folder F-005 part 1, read independently as DM-D-034 to DM-D-039.",
     "found_for_duska_line": "Nothing new. It confirms the Krak strips and the 1877 Du[s]ko strip show no Demko.",
     "sent_to_demko": "Part 2 of F-005: seven strips routed to it. A clear 1877 entry settles the 1875 Kocsis couple as János Kocsis and a Kováts wife at Solymos 13, and a second Kocsis couple, Mihály Kocsis and Mária Knyezső [?] at Solymos 19 in [1889], is a nearer candidate for the parents of its Ahn 19. No Demkó and Kocsis marriage and no burial is in part 2."
+  },
+  {
+    "id": "XR-05",
+    "batch": "B-012",
+    "date": "2026-11-12",
+    "repo": "primerogueinc/genealogy-demko-1",
+    "commit": "b31046d",
+    "read": "head of main only",
+    "holds": "A newer commit than XR-04; to be read in full at the next batch.",
+    "found_for_duska_line": "Not yet read.",
+    "sent_to_demko": "Nothing new in this batch."
   }
 ]
