@@ -1654,7 +1654,7 @@
         "no": "61",
         "date": "b. 13 Nov, bapt. 14 Nov [1864]",
         "from": "Baptism register, Iňačovce Greek Catholic (per folder name)",
-        "abstract": "András, male, legitimate. Father: Joannes Szmeriga, Greek Catholic, farmer (colonus). Mother: Susana Demko, Greek Catholic. Residence: Jesztreb, house 29. Godparents: Michael Holubik and Susana Mraz.",
+        "abstract": "András, male, legitimate. Father: Joannes Szmeriga, Greek Catholic, farmer (colonus). Mother: Susana Demko, Greek Catholic. Residence: Jesztreb, house 29 [the Demko agent reads 23]. Godparents: Michael Holubik and Susana Mraz.",
         "reading": "high"
       }
     ],
@@ -1692,7 +1692,7 @@
         "no": "18",
         "date": "b. and bapt. 10 Dec [1861]",
         "from": "Baptism register, Iňačovce Greek Catholic (per folder name)",
-        "abstract": "Andreas. Father: Joannes Sirko [?]. Mother: Elisab. Demko. Residence: Szenna. Godparents: Andreas De[bnyarszk?] and Anna Feror [?], unmarried.",
+        "abstract": "Andreas. Father: Joannes Sirko [?] (the Demko agent reads Jerko [?]). Mother: Elisab. Demko. Residence: Szenna. Godparents: Andreas De[bnyarszk?] and Anna Feror [?], unmarried.",
         "reading": "medium"
       }
     ],
@@ -1871,7 +1871,7 @@
     "file": "Baptism_of_Anna_Kocsis_1875.png",
     "sha256": "1ef96168eef277496e5cac25adee07ab2a490fa222440be6165b65e031d6b4a9",
     "wide": true,
-    "title": "Baptism of Anna, Solymos 73, 1875 (labelled Kocsis)",
+    "title": "Baptism of Anna Kocsis, Solymos, 1875",
     "span": "18 and 19 March [1875]",
     "language": "Hungarian",
     "collector_label": "Baptism of Anna Kocsis 1875",
@@ -1882,15 +1882,15 @@
         "no": "9",
         "date": "b. 18 Mar, bapt. 19 Mar [1875]",
         "from": "Baptism register, Iňačovce Greek Catholic (per folder name)",
-        "abstract": "Anna, girl, legitimate. Father: János [Kocsis?]. Mother: Mária [Kovács?]. Residence: Solymos, house 73. Godparents: Mihály Kenyerző [?] and Anna Hutkó, wife of György Ádám. The parents' cell is blurred in this image; the surname Kocsis is the owner's label and fits what can be seen.",
-        "reading": "low"
+        "abstract": "Anna, girl, legitimate. Father: János Kocsis (the surname is confirmed by the clear entry of 1877, D-005-12). Mother: [Mária or Anna] Kováts [?]. Residence: Solymos, house 13 or 73. Godparents: Mihály Knyezső and Anna Hutkó, wife of György Ádám: the same pair as in 1877. The parents' cell is blurred in this image.",
+        "reading": "medium"
       }
     ],
     "transcriptions": [
       {
         "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
-        "original": "9 | Március 18 – 19. | Anna | nő | törvényes | [Kocsis?] János, [Kovács?] Mária | Solymos 73. | Kenyerző [?] Mihály, Hutkó Anna Ádám György neje | D[ett]o",
-        "english": "Anna, girl, legitimate. Father: János [Kocsis?]. Mother: Mária [Kovács?]. Residence: Solymos, house 73. Godparents: Mihály Kenyerző [?] and Anna Hutkó, wife of György Ádám. The parents' cell is blurred in this image; the surname Kocsis is the owner's label and fits what can be seen."
+        "original": "9 | Március 18 – 19. | Anna | nő | törvényes | Kocsis János, Kováts [?] [Mária?] | Solymos [1]3 or 73. | Knyezső Mihály, Hutkó Anna Ádám György neje | D[ett]o",
+        "english": "Anna, girl, legitimate. Father: János Kocsis (the surname is confirmed by the clear entry of 1877, D-005-12). Mother: [Mária or Anna] Kováts [?]. Residence: Solymos, house 13 or 73. Godparents: Mihály Knyezső and Anna Hutkó, wife of György Ádám: the same pair as in 1877. The parents' cell is blurred in this image."
       }
     ],
     "provenance": {
@@ -1900,5 +1900,423 @@
       "page_or_image": "unknown",
       "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded; the coordinator notes that most scans came from FamilySearch or state archives."
     }
+  },
+  {
+    "id": "D-005-12",
+    "folder": "F-005",
+    "batch": "B-011",
+    "source": "S-038",
+    "file": "Baptism_of_Anna_Kocsis_1877.png",
+    "sha256": "64c009b634bba51991fa79d5478d20d18748cb7d65e38eee7090756399dc3124",
+    "wide": true,
+    "title": "Baptism of Anna Kocsis, Solymos 13, 1877",
+    "span": "16 and 17 April 1877",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Kocsis 1877",
+    "family": "FG-19",
+    "route": "demko",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Iňačovce (Solymos) Greek Catholic baptism register, by the owner's label and officiants' titles",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "12",
+        "date": "b. 16 Apr 1877, bapt. 17 Apr 1877",
+        "from": "Baptism register, Iňačovce (Solymos) Greek Catholic",
+        "abstract": "Anna, girl, legitimate. Father: János Kocsis, Greek Catholic. Mother: Anna Kováts [or Hováts], Roman Catholic. Cottar. Residence: Solymos, house 13. Godparents: Mihály Knyezső and Anna Ádám. The year is written in the entry.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "12 | 1877 April 16 | 17 | Anna | nő | t. | Kocsis Ján. GC, Kováts [Hováts?] Anna RC, zsellér | Solymos 13. | Knyezső Mihály, Ádám Anna",
+        "english": "Anna, girl, legitimate. Father: János Kocsis, Greek Catholic. Mother: Anna Kováts [or Hováts], Roman Catholic. Cottar. Residence: Solymos, house 13. Godparents: Mihály Knyezső and Anna Ádám. The year is written in the entry."
+      }
+    ]
+  },
+  {
+    "id": "D-005-13",
+    "folder": "F-005",
+    "batch": "B-011",
+    "source": "S-039",
+    "file": "Baptism_of_Anna_Kocsis_1889.png",
+    "sha256": "df0df5f8c5814801fd8b2c29c6dbd4f39dba0def9aa40d1c0ae4126cc0385970",
+    "wide": true,
+    "title": "Baptism of Anna Kocsis, Solymos 19, 1889",
+    "span": "19 and 20 October [1889]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Kocsis 1889",
+    "family": "FG-20",
+    "route": "demko",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Iňačovce (Solymos) Greek Catholic baptism register, by the owner's label and officiants' titles",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "44",
+        "date": "b. 19 Oct, bapt. 20 Oct [1889]",
+        "from": "Baptism register, Iňačovce (Solymos) Greek Catholic",
+        "abstract": "Anna, girl, legitimate. Father: Mihály Kocsis, Greek Catholic, farmer. Mother: Mária Knyezső [?], Roman Catholic [?]. Residence: Solymos, house 19. Godparents: Vaszily Ivanov [?], Greek Catholic, and Anna Balázs. Officiant: György Lescsisin, Greek Catholic pastor of Solymos and deputy district vice-archdeacon [?]. The image is small; the mother's surname and rite are read with doubt.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "44. | Oktober 19. | 20. | Anna | nő | törvényes | Kocsis Mihály gk. gazda, Knyezső [?] Mária rkath. [?] | Solymos 19. | Ivanov [?] Vaszily gkath., Balázs Anna | Lescsisin György solymosi gk. lelkész, ker. h. alesperes [?]",
+        "english": "Anna, girl, legitimate. Father: Mihály Kocsis, Greek Catholic, farmer. Mother: Mária Knyezső [?], Roman Catholic [?]. Residence: Solymos, house 19. Godparents: Vaszily Ivanov [?], Greek Catholic, and Anna Balázs. Officiant: György Lescsisin, Greek Catholic pastor of Solymos and deputy district vice-archdeacon [?]. The image is small; the mother's surname and rite are read with doubt."
+      }
+    ]
+  },
+  {
+    "id": "D-005-14",
+    "folder": "F-005",
+    "batch": "B-011",
+    "source": "S-040",
+    "file": "Baptism_of_Anna_Krak_41_1871.png",
+    "sha256": "f94baf6484136bb7c6d03e24a568487cf8e32946e0546e07d6d4c0af4a1a8424",
+    "wide": true,
+    "title": "Baptism of Anna Krak, Jesztreb 19, 1871",
+    "span": "17 and 18 November [1871]",
+    "language": "Latin",
+    "collector_label": "Baptism of Anna Krak 41 1871",
+    "family": "FG-23",
+    "route": "duska",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Iňačovce (Solymos) Greek Catholic baptism register, by the owner's label and officiants' titles",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "41",
+        "date": "b. 17 Nov, bapt. 18 Nov [1871]",
+        "from": "Baptism register, Iňačovce (Solymos) Greek Catholic",
+        "abstract": "Anna, female, legitimate. Father: Joannes Krak. Mother: Anna Mraz. Residence: Jesztreb, house 19. Godparents: Michael Kudelo [?] and Elisabet Csurilo. The entry above (40) is a child of Michael Luka[cs?] and Anna Somos [?] of Kis Szere[tva] 40.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "41. | November 17. | 18 | Anna | foemin. | legitim. | Joannes Krak, Anna Mraz | Jesztreb 19 | Michael Kudelo [?], Elisabet Csurilo",
+        "english": "Anna, female, legitimate. Father: Joannes Krak. Mother: Anna Mraz. Residence: Jesztreb, house 19. Godparents: Michael Kudelo [?] and Elisabet Csurilo. The entry above (40) is a child of Michael Luka[cs?] and Anna Somos [?] of Kis Szere[tva] 40."
+      }
+    ]
+  },
+  {
+    "id": "D-005-15",
+    "folder": "F-005",
+    "batch": "B-011",
+    "source": "S-041",
+    "file": "Baptism_of_Anna_Krak_1848.png",
+    "sha256": "ee54fc0d011a5222cd756059d9ba8b73ed739cc63089b49d14ad11c29d25a374",
+    "wide": true,
+    "title": "Baptism of Anna Krak, Jesztreb, 1848",
+    "span": "14 October [1848]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Krak 1848",
+    "family": "FG-22",
+    "route": "duska",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Iňačovce (Solymos) Greek Catholic baptism register, by the owner's label and officiants' titles",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "b. 14 Oct, bapt. Oct [1848]",
+        "from": "Baptism register, Iňačovce (Solymos) Greek Catholic",
+        "abstract": "Anna. Father: János Krak. Mother: Zsuzs. Michalko. Cottar. Godparents: János Mazur and Anna Cigani [?]. Residence: Jesztreb [abbreviated].",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "14 | Octob. | Anna | Krak János, Michalko Zsuzs. | Zsel[lér] | Mazur János, Anna Cigani [?] | Jeszt[reb]",
+        "english": "Anna. Father: János Krak. Mother: Zsuzs. Michalko. Cottar. Godparents: János Mazur and Anna Cigani [?]. Residence: Jesztreb [abbreviated]."
+      }
+    ]
+  },
+  {
+    "id": "D-005-16",
+    "folder": "F-005",
+    "batch": "B-011",
+    "source": "S-042",
+    "file": "Baptism_of_Borbala_Kocsis_1843.png",
+    "sha256": "7948a3ff71898bde5916b7bb814caca0ca5941a1ef4fcea8e686e0f128a30b9c",
+    "wide": true,
+    "title": "Baptism of Borbála Kocsis, Solymos, 1843",
+    "span": "20 and 21 July [1843]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Borbala Kocsis 1843",
+    "family": "FG-21",
+    "route": "demko",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Iňačovce (Solymos) Greek Catholic baptism register, by the owner's label and officiants' titles",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "b. 20 Jul, bapt. 21 Jul [1843]",
+        "from": "Baptism register, Iňačovce (Solymos) Greek Catholic",
+        "abstract": "Borbála. Father: Pál Kocsis, Greek Catholic. Mother: Anna Cservenyák, Greek Catholic. Landholding farmer. Godparents: György Dzurar [?] and Anna Ivana [?]. Residence: Solymos.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "20. | 21. Julius | Borbála | Kocsis Pál G.C., Anna Cservenyák G.C. | Telkes gazda | Dzurar [?] György, Anna Ivana [?] | Solym[os]",
+        "english": "Borbála. Father: Pál Kocsis, Greek Catholic. Mother: Anna Cservenyák, Greek Catholic. Landholding farmer. Godparents: György Dzurar [?] and Anna Ivana [?]. Residence: Solymos."
+      }
+    ]
+  },
+  {
+    "id": "D-005-17",
+    "folder": "F-005",
+    "batch": "B-011",
+    "source": "S-043",
+    "file": "Baptism_of_Borbala_Kocsis_1846.png",
+    "sha256": "a62395dc7e1296a28efac1d1d6512ad969c20f57904995a3f4c597178c59048a",
+    "wide": true,
+    "title": "Baptism of Borbála Kocsis, Solymos, 1846",
+    "span": "5 and 6 of a month read as September [1846]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Borbala Kocsis 1846",
+    "family": "FG-21",
+    "route": "demko",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Iňačovce (Solymos) Greek Catholic baptism register, by the owner's label and officiants' titles",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "b. 5th, bapt. 6th [Sept?] [1846]",
+        "from": "Baptism register, Iňačovce (Solymos) Greek Catholic",
+        "abstract": "Borbála. Father: Pál Kocsis, Greek Catholic. Mother: Mária Iv[a]ncsák [?], Greek Catholic. Landholding farmer. Godparents: András Rafacs and Mária Palcsik. Residence: Solymos. Baptised by Josef Danilo[vics?], pastor of Solymos. Same father as the Borbála of 1843, a different mother, and the same child's name.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "5 | 6 [Sept?] | Danilo[vics?] Josef Solym. lelk. | Borbála | Kocsis Pál Gk., Mária Iv[a]ncsák [?] Gk. | Telkes gazda | Rafacs András, Mária Palcsik | Solym[os]",
+        "english": "Borbála. Father: Pál Kocsis, Greek Catholic. Mother: Mária Iv[a]ncsák [?], Greek Catholic. Landholding farmer. Godparents: András Rafacs and Mária Palcsik. Residence: Solymos. Baptised by Josef Danilo[vics?], pastor of Solymos. Same father as the Borbála of 1843, a different mother, and the same child's name."
+      }
+    ]
+  },
+  {
+    "id": "D-005-18",
+    "folder": "F-005",
+    "batch": "B-011",
+    "source": "S-044",
+    "file": "Baptism_of_Erzebet_Demko_1884.png",
+    "sha256": "da0378da944c92471e20b0b9f8c14b78e43275cc8af8337505213a6f24c2701f",
+    "wide": true,
+    "title": "Baptism of Erzsébet Demko, Jesztreb 47, 1884 (with the page header)",
+    "span": "13 August [1884]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Erzebet Demko 1884",
+    "family": "FG-15",
+    "route": "demko",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Iňačovce (Solymos) Greek Catholic baptism register, by the owner's label and officiants' titles",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "30",
+        "date": "b. and bapt. 13 Aug [1884]; d. 11 Feb 1885",
+        "from": "Baptism register, Iňačovce (Solymos) Greek Catholic",
+        "abstract": "Erzsébet, girl, legitimate. Father: Mihály Demko, Greek Catholic, cottar. Mother: Mária Lazór, Greek Catholic. Residence: Jesztreb, house 47. Godparents: Mihály Tamás, Greek Catholic, and Anna Mráz, Roman Catholic. Officiant: György Lescsisin, Greek Catholic assistant pastor [?] of Solymos. Remark: died 11 February 1885. This strip includes the printed column headings of the register.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "Folyó szám | Hava és napja: A születésnek, A keresztelésnek | A megkereszteltnek Neve; Neme: fi, nő; Származása: törvényes, törvénytelen | A szülők neve, vallása és polgári állása | Lakhely és házszám | Keresztszülők neve és vallása | A keresztelő lelkész neve | Jegyzet. || 30 | Augusztus 13. | 13. | Erzsébet | nő | törvényes | Demko Mihály gk. zsellér, Lazór Mária gk. | Jesztreb 47 | Tamás Mihály gk., Mráz Anna rk. | Lescsisin György solymosi gkath. h. lelkész | meghalt 1885 év Febr. 11.",
+        "english": "Erzsébet, girl, legitimate. Father: Mihály Demko, Greek Catholic, cottar. Mother: Mária Lazór, Greek Catholic. Residence: Jesztreb, house 47. Godparents: Mihály Tamás, Greek Catholic, and Anna Mráz, Roman Catholic. Officiant: György Lescsisin, Greek Catholic assistant pastor [?] of Solymos. Remark: died 11 February 1885. This strip includes the printed column headings of the register."
+      }
+    ]
+  },
+  {
+    "id": "D-005-19",
+    "folder": "F-005",
+    "batch": "B-011",
+    "source": "S-045",
+    "file": "Baptism_of_Georgius_Nyemcsik_1862.png",
+    "sha256": "ac64acc6c50a2142cf5a9eb48f7a887ebf5061bd277ccdd7a7d27770f69ca9b8",
+    "wide": true,
+    "title": "Baptism of Georgius Szeman, son of a Nyemcsik mother, 1862 (labelled Nyemcsik)",
+    "span": "2 and 3 March [1862]",
+    "language": "Latin",
+    "collector_label": "Baptism of Georgius Nyemcsik 1862",
+    "family": "FG-24",
+    "route": "duska",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Iňačovce (Solymos) Greek Catholic baptism register, by the owner's label and officiants' titles",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "14",
+        "date": "b. 2 Mar, bapt. 3 Mar [1862]",
+        "from": "Baptism register, Iňačovce (Solymos) Greek Catholic",
+        "abstract": "Georgius, male, legitimate. Father: Georgius Szeman, Greek Catholic, farmer (colonus). Mother: Maria Nyemcsik, Greek Catholic. Residence: Nagy Szere[tva], house 68. Godparents: Michael Skar[...] [?], Roman Catholic, farmer, and Maria Brackonyil [?], Roman Catholic. The owner's label gives the child the mother's surname.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "14. | Martius 2. | 3. | Georgius | masc. | legitim. | Georgius Szeman G.C. colon., Maria Nyemcsik G.C. | Nagy Szere[tva] num. 68. | Michael Skar[...] R.C. colonus, Maria Brackonyil [?] R.C. col.",
+        "english": "Georgius, male, legitimate. Father: Georgius Szeman, Greek Catholic, farmer (colonus). Mother: Maria Nyemcsik, Greek Catholic. Residence: Nagy Szere[tva], house 68. Godparents: Michael Skar[...] [?], Roman Catholic, farmer, and Maria Brackonyil [?], Roman Catholic. The owner's label gives the child the mother's surname."
+      }
+    ]
+  },
+  {
+    "id": "D-005-20",
+    "folder": "F-005",
+    "batch": "B-011",
+    "source": "S-046",
+    "file": "Baptism_of_Georgius_Krak_1876.png",
+    "sha256": "2846fd2eeadfd11ff233bfea497938e7ed865b23c48fc6f04bd092773a2c3f01",
+    "wide": true,
+    "title": "Baptism of Georgius Krak, Jesztreb 20, 1876",
+    "span": "4 and 5 May 1876",
+    "language": "Latin",
+    "collector_label": "Baptism of Georgius Krak 1876",
+    "family": "FG-23",
+    "route": "duska",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Iňačovce (Solymos) Greek Catholic baptism register, by the owner's label and officiants' titles",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "15",
+        "date": "b. 4 May 1876, bapt. 5 May 1876; d. 28 Aug 1876",
+        "from": "Baptism register, Iňačovce (Solymos) Greek Catholic",
+        "abstract": "Georgius, male. Father: Joannes Krak, Greek Catholic, farmer, of Jesztreb. Mother: Anna Mraz, Roman Catholic. Residence: Jesztreb, no. 20. Godparents: Nicolaus Kudela and Elisabetha Csurila. Remark: died 28 August 1876, which fixes the year.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "15. | 4a Maji | 5a Maji | Georgius | mas. | [...] | Joannes Krak g.c. col. Jesztreb. et Anna Mraz r.c. | Jesztreb No. 20. | Nicolaus Kudela et Elisabetha Csurila | [...] | mortuus 28a Aug. 1876.",
+        "english": "Georgius, male. Father: Joannes Krak, Greek Catholic, farmer, of Jesztreb. Mother: Anna Mraz, Roman Catholic. Residence: Jesztreb, no. 20. Godparents: Nicolaus Kudela and Elisabetha Csurila. Remark: died 28 August 1876, which fixes the year."
+      }
+    ]
+  },
+  {
+    "id": "D-005-21",
+    "folder": "F-005",
+    "batch": "B-011",
+    "source": "S-047",
+    "file": "Baptism_of_Gyorgy_Demko_1845.png",
+    "sha256": "d33bcae62a918989e0f50f63609ed277d92eacec7afd95fd945eeb91c9169835",
+    "wide": true,
+    "title": "Baptism of György Szmeriga, son of a Demko mother, 1845",
+    "span": "5 and 6 April [1845]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Gyorgy Demko 1845",
+    "family": "FG-13",
+    "route": "demko",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Iňačovce (Solymos) Greek Catholic baptism register, by the owner's label and officiants' titles",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "b. 5 Apr, bapt. 6 Apr [1845]",
+        "from": "Baptism register, Iňačovce (Solymos) Greek Catholic",
+        "abstract": "György. Father: János Szmeriga, Greek Catholic. Mother: Zsuzsi Demko, Greek Catholic. Landholding farmer. Godparents: Mihály Holubik and Zsuzsi Mraz. Residence: Jesztreb [abbreviated]. Same parents and the same godparents as the András of 1864 (D-005-05).",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "5. | 6. April | György | Szmeriga János Gk., Demko Zsuzsi Gk. | Telkes gazda | Holubik Mihály, Mraz Zsuzsi | Jeszt[reb]",
+        "english": "György. Father: János Szmeriga, Greek Catholic. Mother: Zsuzsi Demko, Greek Catholic. Landholding farmer. Godparents: Mihály Holubik and Zsuzsi Mraz. Residence: Jesztreb [abbreviated]. Same parents and the same godparents as the András of 1864 (D-005-05)."
+      }
+    ]
+  },
+  {
+    "id": "D-005-22",
+    "folder": "F-005",
+    "batch": "B-011",
+    "source": "S-048",
+    "file": "Baptism_of_Gyorgy_and_Janos_Demko_TWINS_1877.png",
+    "sha256": "02aeb63214973789ffa52ef2b44895488082ccfc298ce847317dc512fb071e3e",
+    "wide": true,
+    "title": "Baptism of the twins János and György Demko, Jesztreb, 1877",
+    "span": "27 and 28 June 1877",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Gyorgy and Janos Demko TWINS 1877",
+    "family": "FG-15",
+    "route": "demko",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Iňačovce (Solymos) Greek Catholic baptism register, by the owner's label and officiants' titles",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "16",
+        "date": "b. 27 Jun 1877, bapt. 28 Jun 1877",
+        "from": "Baptism register, Iňačovce (Solymos) Greek Catholic",
+        "abstract": "János and György, boys (twins), legitimate. Father: Miso (Mihály) Demko. Mother: Mar. Lázár, Greek Catholic. Cottar. Residence: Jesztreb, house 82 [first digit doubtful]. Two pairs of godparents: Janko Abara [?] and Zsuzsa [Feris?]; Mih. Tamás and Anna Krak[o].",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "16 | [1]877 Junius 27 | 28 | János, György | fi, fi | t., t. | Demko Miso, Lázár Mar. GC, zsellér | Jesztreb [8]2 | Abara [?] Janko, [Feris?] Zsuzsa; Tamás Mih., Krak[o] Anna",
+        "english": "János and György, boys (twins), legitimate. Father: Miso (Mihály) Demko. Mother: Mar. Lázár, Greek Catholic. Cottar. Residence: Jesztreb, house 82 [first digit doubtful]. Two pairs of godparents: Janko Abara [?] and Zsuzsa [Feris?]; Mih. Tamás and Anna Krak[o]."
+      }
+    ]
   }
 ]

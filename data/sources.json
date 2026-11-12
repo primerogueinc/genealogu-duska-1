@@ -342,5 +342,93 @@
     "title": "Kevin to the coordinator, 12 Nov 2026, relayed in ledger v8 (C-11, C-13)",
     "extract": "Stefan Duska, Ahn 4, was known as Steve and died in 2018. Nobody on this line other than Kevin is known to be living; his father's status is unknown.",
     "reliability": "Second-hand for this agent: taken from the coordinator's ledger. Scored as given."
+  },
+  {
+    "id": "S-038",
+    "batch": "B-011",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Anna Kocsis, Solymos 13, 1877",
+    "extract": "Anna, girl, legitimate. Father: János Kocsis, Greek Catholic. Mother: Anna Kováts [or Hováts], Roman Catholic. Cottar. Residence: Solymos, house 13. Godparents: Mihály Knyezső and Anna Ádám. The year is written in the entry.",
+    "reliability": "Original record, image copy. Years in square brackets come from the owner's file names. The register is identified by officiants styled pastor of Solymos and, on D-005-18, by its printed Hungarian headings."
+  },
+  {
+    "id": "S-039",
+    "batch": "B-011",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Anna Kocsis, Solymos 19, 1889",
+    "extract": "Anna, girl, legitimate. Father: Mihály Kocsis, Greek Catholic, farmer. Mother: Mária Knyezső [?], Roman Catholic [?]. Residence: Solymos, house 19. Godparents: Vaszily Ivanov [?], Greek Catholic, and Anna Balázs. Officiant: György Lescsisin, Greek Catholic pastor of Solymos and deputy district vice-archdeacon [?]. The image is small; the mother's surname and rite are read with doubt.",
+    "reliability": "Original record, image copy. Years in square brackets come from the owner's file names. The register is identified by officiants styled pastor of Solymos and, on D-005-18, by its printed Hungarian headings."
+  },
+  {
+    "id": "S-040",
+    "batch": "B-011",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Anna Krak, Jesztreb 19, 1871",
+    "extract": "Anna, female, legitimate. Father: Joannes Krak. Mother: Anna Mraz. Residence: Jesztreb, house 19. Godparents: Michael Kudelo [?] and Elisabet Csurilo. The entry above (40) is a child of Michael Luka[cs?] and Anna Somos [?] of Kis Szere[tva] 40.",
+    "reliability": "Original record, image copy. Years in square brackets come from the owner's file names. The register is identified by officiants styled pastor of Solymos and, on D-005-18, by its printed Hungarian headings."
+  },
+  {
+    "id": "S-041",
+    "batch": "B-011",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Anna Krak, Jesztreb, 1848",
+    "extract": "Anna. Father: János Krak. Mother: Zsuzs. Michalko. Cottar. Godparents: János Mazur and Anna Cigani [?]. Residence: Jesztreb [abbreviated].",
+    "reliability": "Original record, image copy. Years in square brackets come from the owner's file names. The register is identified by officiants styled pastor of Solymos and, on D-005-18, by its printed Hungarian headings."
+  },
+  {
+    "id": "S-042",
+    "batch": "B-011",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Borbála Kocsis, Solymos, 1843",
+    "extract": "Borbála. Father: Pál Kocsis, Greek Catholic. Mother: Anna Cservenyák, Greek Catholic. Landholding farmer. Godparents: György Dzurar [?] and Anna Ivana [?]. Residence: Solymos.",
+    "reliability": "Original record, image copy. Years in square brackets come from the owner's file names. The register is identified by officiants styled pastor of Solymos and, on D-005-18, by its printed Hungarian headings."
+  },
+  {
+    "id": "S-043",
+    "batch": "B-011",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Borbála Kocsis, Solymos, 1846",
+    "extract": "Borbála. Father: Pál Kocsis, Greek Catholic. Mother: Mária Iv[a]ncsák [?], Greek Catholic. Landholding farmer. Godparents: András Rafacs and Mária Palcsik. Residence: Solymos. Baptised by Josef Danilo[vics?], pastor of Solymos. Same father as the Borbála of 1843, a different mother, and the same child's name.",
+    "reliability": "Original record, image copy. Years in square brackets come from the owner's file names. The register is identified by officiants styled pastor of Solymos and, on D-005-18, by its printed Hungarian headings."
+  },
+  {
+    "id": "S-044",
+    "batch": "B-011",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Erzsébet Demko, Jesztreb 47, 1884 (with the page header)",
+    "extract": "Erzsébet, girl, legitimate. Father: Mihály Demko, Greek Catholic, cottar. Mother: Mária Lazór, Greek Catholic. Residence: Jesztreb, house 47. Godparents: Mihály Tamás, Greek Catholic, and Anna Mráz, Roman Catholic. Officiant: György Lescsisin, Greek Catholic assistant pastor [?] of Solymos. Remark: died 11 February 1885. This strip includes the printed column headings of the register.",
+    "reliability": "Original record, image copy. Years in square brackets come from the owner's file names. The register is identified by officiants styled pastor of Solymos and, on D-005-18, by its printed Hungarian headings."
+  },
+  {
+    "id": "S-045",
+    "batch": "B-011",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Georgius Szeman, son of a Nyemcsik mother, 1862 (labelled Nyemcsik)",
+    "extract": "Georgius, male, legitimate. Father: Georgius Szeman, Greek Catholic, farmer (colonus). Mother: Maria Nyemcsik, Greek Catholic. Residence: Nagy Szere[tva], house 68. Godparents: Michael Skar[...] [?], Roman Catholic, farmer, and Maria Brackonyil [?], Roman Catholic. The owner's label gives the child the mother's surname.",
+    "reliability": "Original record, image copy. Years in square brackets come from the owner's file names. The register is identified by officiants styled pastor of Solymos and, on D-005-18, by its printed Hungarian headings."
+  },
+  {
+    "id": "S-046",
+    "batch": "B-011",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Georgius Krak, Jesztreb 20, 1876",
+    "extract": "Georgius, male. Father: Joannes Krak, Greek Catholic, farmer, of Jesztreb. Mother: Anna Mraz, Roman Catholic. Residence: Jesztreb, no. 20. Godparents: Nicolaus Kudela and Elisabetha Csurila. Remark: died 28 August 1876, which fixes the year.",
+    "reliability": "Original record, image copy. Years in square brackets come from the owner's file names. The register is identified by officiants styled pastor of Solymos and, on D-005-18, by its printed Hungarian headings."
+  },
+  {
+    "id": "S-047",
+    "batch": "B-011",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of György Szmeriga, son of a Demko mother, 1845",
+    "extract": "György. Father: János Szmeriga, Greek Catholic. Mother: Zsuzsi Demko, Greek Catholic. Landholding farmer. Godparents: Mihály Holubik and Zsuzsi Mraz. Residence: Jesztreb [abbreviated]. Same parents and the same godparents as the András of 1864 (D-005-05).",
+    "reliability": "Original record, image copy. Years in square brackets come from the owner's file names. The register is identified by officiants styled pastor of Solymos and, on D-005-18, by its printed Hungarian headings."
+  },
+  {
+    "id": "S-048",
+    "batch": "B-011",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of the twins János and György Demko, Jesztreb, 1877",
+    "extract": "János and György, boys (twins), legitimate. Father: Miso (Mihály) Demko. Mother: Mar. Lázár, Greek Catholic. Cottar. Residence: Jesztreb, house 82 [first digit doubtful]. Two pairs of godparents: Janko Abara [?] and Zsuzsa [Feris?]; Mih. Tamás and Anna Krak[o].",
+    "reliability": "Original record, image copy. Years in square brackets come from the owner's file names. The register is identified by officiants styled pastor of Solymos and, on D-005-18, by its printed Hungarian headings."
   }
 ]

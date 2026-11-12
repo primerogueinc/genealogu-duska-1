@@ -641,7 +641,13 @@
     "raised": "B-009",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-011",
+        "effect": "55% unchanged",
+        "note": "Part 2 of the folder holds no Duska, Dusko or Dunko entry and nothing from Szenna 72."
+      }
+    ]
   },
   {
     "id": "H-027",
@@ -653,7 +659,13 @@
     "raised": "B-009",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-011",
+        "effect": "30% unchanged",
+        "note": "Part 2 of the folder holds no Duska, Dusko or Dunko entry and nothing from Szenna 72."
+      }
+    ]
   },
   {
     "id": "H-028",
@@ -699,6 +711,18 @@
     "test": "Burials of Barbara and Anna; marriage entries of 1832 to 1834 and 1838 to 1840; house numbers.",
     "status": "open",
     "raised": "B-010",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-032",
+    "statement": "The Krak families of Jesztreb belong to the kin and godparent circle of the Jesztreb Demkos, and reach this archive through the Demko side, not through the Duska male line.",
+    "confidence": 35,
+    "basis": "A godmother read as Anna Krak[o] stands for a Demko twin at Jesztreb in 1877 (D-005-22). The surnames Mraz, Tamás and Mazur recur among parents and godparents of both the Krak and the Demko entries there. No Krak entry names a Duska.",
+    "test": "A marriage entry joining Krak to Demko, Kocsis or Duska; the mother's maiden name on Michal Duska's baptism.",
+    "status": "open",
+    "raised": "B-011",
     "resolved": null,
     "resolution": null,
     "log": []

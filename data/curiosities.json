@@ -112,5 +112,23 @@
     "doc": "D-005-04",
     "title": "A date that corrects its own label",
     "text": "A file labelled \"maybe 1876\" carries a note that the child died on 27 February 1870, two days after the baptism."
+  },
+  {
+    "id": "C-020",
+    "doc": "D-005-18",
+    "title": "The page header at last",
+    "text": "After thirty-odd strips cut from the middle of pages, one includes the printed Hungarian headings of the register: running number, month and day of birth and of baptism, name, sex, legitimacy, parents' names with religion and standing, residence and house number, godparents, baptising priest, remarks."
+  },
+  {
+    "id": "C-021",
+    "doc": "D-005-17",
+    "title": "Borbála twice, by two mothers",
+    "text": "Pál Kocsis of Solymos baptised a Borbála in 1843 with Anna Cservenyák and another Borbála in 1846 with Mária Iv[a]ncsák. The simplest reading is a wife and a daughter lost within three years."
+  },
+  {
+    "id": "C-022",
+    "doc": "D-005-22",
+    "title": "Twins need four godparents",
+    "text": "The Demko twins of June 1877 at Jesztreb were given a pair of godparents each."
   }
 ]

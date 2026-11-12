@@ -3,7 +3,17 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-010. Read ledger v8 and method note 1.
+- Last updated: 12 Nov 2026, after Duska batch B-011. Read ledger v8 and method note 1.
+
+## 000000. B-011 (12 Nov): Folder F-005, part 2
+
+Eleven more strips, documents `DUS:D-005-12` to `D-005-22`, sources `DUS:S-038` to `S-048`. The folder is still open: Kevin called this part 2 and has not said it is complete. Cross-review `DUS:XR-04` at Demko @538d6b5: nothing new for my line.
+
+- No Duska in part 2. The direct line is unchanged since B-009.
+- Seven strips routed to the Demko agent: four Kocsis baptisms at Solymos (two candidate couples for the parents of Ahn 19) and three more for the Demko household at Jesztreb.
+- X-017 in practice: two Annas to one Kocsis couple ([1875], 1877) and two Borbálas to Pál Kocsis by two wives ([1843], [1846]). Kept as separate people, marked `necronym_risk: unresolved`.
+- New `DUS:H-032` (35): the Krak strips reach this archive through the Jesztreb Demkos. Basis is a record, not a label: a godmother read as Anna Krak[o] at the baptism of Demko twins in 1877.
+- One more label that the strip does not bear out: "Georgius Nyemcsik 1862" is a Szeman child whose mother is a Nyemcsik (`DUS:D-005-19`).
 
 ## 00000. B-010 (12 Nov): ledger v8 acted on
 

@@ -1,7 +1,7 @@
 {
   "folder_id": "F-005",
   "desktop_path": "Duska Baptisms/Inacovce (Solymos) - Greek Catholic",
-  "note": "Part 1 of the folder. Files as received through chat upload.",
+  "note": "Parts 1 and 2 of the folder. Files as received through chat upload.",
   "files": [
     {
       "file": "Baptirm_of_Andra_Kovesny_Krak_1844.png",
@@ -90,6 +90,105 @@
       "pixels": "1499x160",
       "received": "2026-11-12",
       "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_Anna_Kocsis_1877.png",
+      "sha256": "64c009b634bba51991fa79d5478d20d18748cb7d65e38eee7090756399dc3124",
+      "bytes": 902070,
+      "pixels": "1808x298",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Anna_Kocsis_1889.png",
+      "sha256": "df0df5f8c5814801fd8b2c29c6dbd4f39dba0def9aa40d1c0ae4126cc0385970",
+      "bytes": 146423,
+      "pixels": "1314x78",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Anna_Krak_41_1871.png",
+      "sha256": "f94baf6484136bb7c6d03e24a568487cf8e32946e0546e07d6d4c0af4a1a8424",
+      "bytes": 493149,
+      "pixels": "1730x208",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Anna_Krak_1848.png",
+      "sha256": "ee54fc0d011a5222cd756059d9ba8b73ed739cc63089b49d14ad11c29d25a374",
+      "bytes": 719337,
+      "pixels": "1715x220",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Borbala_Kocsis_1843.png",
+      "sha256": "7948a3ff71898bde5916b7bb814caca0ca5941a1ef4fcea8e686e0f128a30b9c",
+      "bytes": 705494,
+      "pixels": "1647x232",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Borbala_Kocsis_1846.png",
+      "sha256": "a62395dc7e1296a28efac1d1d6512ad969c20f57904995a3f4c597178c59048a",
+      "bytes": 849061,
+      "pixels": "1774x259",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Erzebet_Demko_1884.png",
+      "sha256": "da0378da944c92471e20b0b9f8c14b78e43275cc8af8337505213a6f24c2701f",
+      "bytes": 671593,
+      "pixels": "1842x245",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Georgius_Nyemcsik_1862.png",
+      "sha256": "ac64acc6c50a2142cf5a9eb48f7a887ebf5061bd277ccdd7a7d27770f69ca9b8",
+      "bytes": 444868,
+      "pixels": "1753x173",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Georgius_Krak_1876.png",
+      "sha256": "2846fd2eeadfd11ff233bfea497938e7ed865b23c48fc6f04bd092773a2c3f01",
+      "bytes": 405074,
+      "pixels": "1825x155",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Gyorgy_Demko_1845.png",
+      "sha256": "d33bcae62a918989e0f50f63609ed277d92eacec7afd95fd945eeb91c9169835",
+      "bytes": 702546,
+      "pixels": "1693x238",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Gyorgy_and_Janos_Demko_TWINS_1877.png",
+      "sha256": "02aeb63214973789ffa52ef2b44895488082ccfc298ce847317dc512fb071e3e",
+      "bytes": 743697,
+      "pixels": "1622x246",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
     }
   ]
 }

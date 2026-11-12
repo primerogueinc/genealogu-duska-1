@@ -218,17 +218,19 @@
   },
   {
     "id": "FG-13",
-    "husband": "Joannes Szmeriga",
-    "wife": "Susana Demko",
+    "husband": "János (Joannes) Szmeriga",
+    "wife": "Zsuzsi (Susana) Demko",
     "rite": "Both Greek Catholic",
-    "homes": "Jesztreb 29",
+    "homes": "Jesztreb; house 29 [or 23] in 1864",
     "children": [
+      "György, b. 5 Apr [1845]",
       "András, b. 13 Nov [1864]"
     ],
-    "note": "",
+    "note": "Nineteen years between the two baptisms, with the same godparents, Mihály Holubik and Zsuzsi Mraz, so one couple. Landholding farmer in 1845.",
     "route": "demko",
     "route_note": "",
     "documents": [
+      "D-005-21",
       "D-005-05"
     ]
   },
@@ -250,18 +252,22 @@
   },
   {
     "id": "FG-15",
-    "husband": "Michael Demko",
-    "wife": "Maria Lazár",
-    "rite": "He Greek Catholic",
-    "homes": "Jesztreb 54",
+    "husband": "Michael (Miso, Mihály) Demko",
+    "wife": "Maria Lazár (Lazór)",
+    "rite": "Both Greek Catholic",
+    "homes": "Jesztreb 54 (1870); [8]2 (1877); 47 (1884)",
     "children": [
-      "Anna, b. 12 Jan [1870]"
+      "Anna, b. 12 Jan [1870]",
+      "János and György, twins, b. 27 Jun 1877",
+      "Erzsébet, b. 13 Aug [1884], d. 11 Feb 1885"
     ],
-    "note": "A Demko household at Jesztreb, separate from the Viszoka Demkos.",
+    "note": "A Demko household at Jesztreb, separate from the Viszoka Demkos, over at least fourteen years. The 'Mihály Demko the younger' of 1889 (FG-16) may be a son born before 1870.",
     "route": "demko",
     "route_note": "",
     "documents": [
-      "D-005-08"
+      "D-005-08",
+      "D-005-22",
+      "D-005-18"
     ]
   },
   {
@@ -314,18 +320,104 @@
   },
   {
     "id": "FG-19",
-    "husband": "János [Kocsis?]",
-    "wife": "Mária [Kovács?]",
-    "rite": "Greek Catholic book",
-    "homes": "Solymos 73",
+    "husband": "János Kocsis",
+    "wife": "Anna Kováts [or Hováts]; her given name read as Mária [?] in 1875",
+    "rite": "He Greek Catholic, she Roman Catholic",
+    "homes": "Solymos 13 (1877); 13 or 73 (1875)",
     "children": [
-      "Anna, b. 18 Mar [1875]"
+      "Anna, b. 18 Mar [1875]",
+      "Anna, b. 16 Apr 1877"
     ],
-    "note": "Kocsis is now a direct-line surname: the Demko agent has Mária Kocsis of Solymos, born about 1886, as mother of Maria Demko (DM P-019 @57861ad).",
+    "note": "Two daughters named Anna two years apart: the first very probably died. Same godparents both times, Mihály Knyezső and Anna Ádám, born Hutkó. A candidate couple for the parents of Mária Kocsis, Ahn 19, born at Solymos about 1886 (Demko agent, DM-H-025).",
     "route": "demko",
     "route_note": "",
     "documents": [
-      "D-005-11"
+      "D-005-11",
+      "D-005-12"
+    ]
+  },
+  {
+    "id": "FG-20",
+    "husband": "Mihály Kocsis",
+    "wife": "Mária Knyezső [?]",
+    "rite": "He Greek Catholic, she Roman Catholic [?]",
+    "homes": "Solymos 19",
+    "children": [
+      "Anna, b. 19 Oct [1889]"
+    ],
+    "note": "A second candidate couple for the parents of Mária Kocsis, Ahn 19, born about 1886: closer in date than FG-19. A Mihály Knyezső is godfather to the children in FG-19.",
+    "route": "demko",
+    "route_note": "",
+    "documents": [
+      "D-005-13"
+    ]
+  },
+  {
+    "id": "FG-21",
+    "husband": "Pál Kocsis",
+    "wife": "Anna Cservenyák in [1843]; Mária Iv[a]ncsák [?] in [1846]",
+    "rite": "All Greek Catholic",
+    "homes": "Solymos",
+    "children": [
+      "Borbála, b. 20 Jul [1843]",
+      "Borbála, b. 5 [Sept?] [1846]"
+    ],
+    "note": "One father, two mothers' names and one child's name within three years. Under ruling X-017 this is read as a first wife and a first Borbála who both died, then a second marriage, until a record shows two men named Pál Kocsis.",
+    "route": "demko",
+    "route_note": "",
+    "documents": [
+      "D-005-16",
+      "D-005-17"
+    ]
+  },
+  {
+    "id": "FG-22",
+    "husband": "János Krak",
+    "wife": "Zsuzs. Michalko",
+    "rite": "Greek Catholic book",
+    "homes": "Jesztreb",
+    "children": [
+      "Anna, b. 14 Oct [1848]"
+    ],
+    "note": "Cottar.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-005-15"
+    ]
+  },
+  {
+    "id": "FG-23",
+    "husband": "Joannes Krak",
+    "wife": "Anna Mraz",
+    "rite": "He Greek Catholic, she Roman Catholic",
+    "homes": "Jesztreb 19 (1871); 20 (1876)",
+    "children": [
+      "Anna, b. 17 Nov [1871]",
+      "Georgius, b. 4 May 1876, d. 28 Aug 1876"
+    ],
+    "note": "Farmer. Possibly a son of FG-22 or the same man with a second wife; the dates allow either. The Mraz surname also runs through the Demko entries at Jesztreb.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-005-14",
+      "D-005-20"
+    ]
+  },
+  {
+    "id": "FG-24",
+    "husband": "Georgius Szeman",
+    "wife": "Maria Nyemcsik",
+    "rite": "Both Greek Catholic",
+    "homes": "Nagy Szere[tva] 68",
+    "children": [
+      "Georgius, b. 2 Mar [1862]"
+    ],
+    "note": "No link to any other family in the archive is visible. The owner labelled the file with the mother's surname.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-005-19"
     ]
   }
 ]

@@ -196,5 +196,11 @@
     "date": "2026-11-12",
     "decided": "Changed this agent's reading of the mother's rite in the 1857 entry from Greek Catholic to Roman Catholic [?].",
     "why": "The Demko agent read it independently as Roman Catholic, and a second look at the enlarged strip agrees."
+  },
+  {
+    "id": "DEC-34",
+    "date": "2026-11-12",
+    "decided": "Revised the reading of the 1875 Kocsis entry (D-005-11) after the clear 1877 entry for the same couple: father Kocsis confirmed, godfather Knyezső, house 13 or 73.",
+    "why": "The two entries share parents and godparents. The Demko agent had also questioned the house number."
   }
 ]

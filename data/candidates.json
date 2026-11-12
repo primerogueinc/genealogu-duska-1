@@ -1854,5 +1854,543 @@
     "relation": "Officiant.",
     "route": "places",
     "route_note": ""
+  },
+  {
+    "id": "K-153",
+    "name": "Anna Kocsis",
+    "vitals": "b. 16 Apr 1877, Solymos 13",
+    "proof": "documented",
+    "sources": [
+      "S-038"
+    ],
+    "relation": "Child in FG-19. The second Anna to this couple.",
+    "route": "demko",
+    "route_note": "",
+    "necronym_risk": "unresolved",
+    "necronym_note": "An Anna was baptised to the same parents in March [1875]. Burials not in hand."
+  },
+  {
+    "id": "K-154",
+    "name": "Anna Kováts [or Hováts]",
+    "vitals": "Roman Catholic, of Solymos 13 in 1877",
+    "proof": "documented",
+    "sources": [
+      "S-038"
+    ],
+    "relation": "Mother in FG-19.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-155",
+    "name": "Mihály Knyezső",
+    "vitals": "godfather at Solymos, [1875] and 1877",
+    "proof": "documented",
+    "sources": [
+      "S-038"
+    ],
+    "relation": "Godparent in FG-19. Shares his surname with the mother in FG-20.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-156",
+    "name": "Anna Ádám, born Hutkó",
+    "vitals": "godmother at Solymos, [1875] and 1877",
+    "proof": "documented",
+    "sources": [
+      "S-038"
+    ],
+    "relation": "Godparent in FG-19.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-157",
+    "name": "Mihály Kocsis",
+    "vitals": "Greek Catholic, farmer, of Solymos 19 in [1889]",
+    "proof": "documented",
+    "sources": [
+      "S-039"
+    ],
+    "relation": "Father in FG-20. A candidate for Ahn 38.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-158",
+    "name": "Mária Knyezső [?]",
+    "vitals": "Roman Catholic [?], of Solymos 19 in [1889]",
+    "proof": "documented",
+    "sources": [
+      "S-039"
+    ],
+    "relation": "Mother in FG-20.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-159",
+    "name": "Anna Kocsis",
+    "vitals": "b. 19 Oct [1889], Solymos 19",
+    "proof": "documented",
+    "sources": [
+      "S-039"
+    ],
+    "relation": "Child in FG-20.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-160",
+    "name": "Vaszily Ivanov [?]",
+    "vitals": "Greek Catholic; godparent, [1889]",
+    "proof": "documented",
+    "sources": [
+      "S-039"
+    ],
+    "relation": "Godparent in D-005-13.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-161",
+    "name": "Anna Balázs",
+    "vitals": "godparent, [1889]",
+    "proof": "documented",
+    "sources": [
+      "S-039"
+    ],
+    "relation": "Godparent in D-005-13.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-162",
+    "name": "Pál Kocsis",
+    "vitals": "Greek Catholic, landholding farmer, of Solymos in [1843] and [1846]",
+    "proof": "documented",
+    "sources": [
+      "S-042",
+      "S-043"
+    ],
+    "relation": "Father in FG-21.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-163",
+    "name": "Anna Cservenyák",
+    "vitals": "Greek Catholic, of Solymos in [1843]",
+    "proof": "documented",
+    "sources": [
+      "S-042"
+    ],
+    "relation": "First mother in FG-21.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-164",
+    "name": "Mária Iv[a]ncsák [?]",
+    "vitals": "Greek Catholic, of Solymos in [1846]",
+    "proof": "documented",
+    "sources": [
+      "S-043"
+    ],
+    "relation": "Second mother in FG-21.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-165",
+    "name": "Borbála Kocsis",
+    "vitals": "b. 20 Jul [1843], Solymos",
+    "proof": "documented",
+    "sources": [
+      "S-042"
+    ],
+    "relation": "Child in FG-21.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-166",
+    "name": "Borbála Kocsis",
+    "vitals": "b. 5 [Sept?] [1846], Solymos",
+    "proof": "documented",
+    "sources": [
+      "S-043"
+    ],
+    "relation": "Child in FG-21. The second Borbála to this father.",
+    "route": "demko",
+    "route_note": "",
+    "necronym_risk": "unresolved",
+    "necronym_note": "A Borbála was baptised to the same father in [1843]. Burials not in hand."
+  },
+  {
+    "id": "K-167",
+    "name": "György Dzurar [?]",
+    "vitals": "godparent, [1843]",
+    "proof": "documented",
+    "sources": [
+      "S-042"
+    ],
+    "relation": "Godparent in D-005-16.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-168",
+    "name": "Anna Ivana [?]",
+    "vitals": "godparent, [1843]",
+    "proof": "documented",
+    "sources": [
+      "S-042"
+    ],
+    "relation": "Godparent in D-005-16.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-169",
+    "name": "András Rafacs",
+    "vitals": "godparent, [1846]",
+    "proof": "documented",
+    "sources": [
+      "S-043"
+    ],
+    "relation": "Godparent in D-005-17.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-170",
+    "name": "Mária Palcsik",
+    "vitals": "godparent, [1846]",
+    "proof": "documented",
+    "sources": [
+      "S-043"
+    ],
+    "relation": "Godparent in D-005-17.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-171",
+    "name": "Josef Danilo[vics?]",
+    "vitals": "pastor of Solymos; baptiser in [1846]",
+    "proof": "documented",
+    "sources": [
+      "S-043"
+    ],
+    "relation": "Officiant.",
+    "route": "places",
+    "route_note": ""
+  },
+  {
+    "id": "K-172",
+    "name": "János Krak",
+    "vitals": "cottar, of Jesztreb in [1848]",
+    "proof": "documented",
+    "sources": [
+      "S-041"
+    ],
+    "relation": "Father in FG-22.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-173",
+    "name": "Zsuzs. Michalko",
+    "vitals": "of Jesztreb in [1848]",
+    "proof": "documented",
+    "sources": [
+      "S-041"
+    ],
+    "relation": "Mother in FG-22.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-174",
+    "name": "Anna Krak",
+    "vitals": "b. 14 Oct [1848], Jesztreb",
+    "proof": "documented",
+    "sources": [
+      "S-041"
+    ],
+    "relation": "Child in FG-22.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-175",
+    "name": "János Mazur",
+    "vitals": "godparent, [1848]",
+    "proof": "documented",
+    "sources": [
+      "S-041"
+    ],
+    "relation": "Godparent in D-005-15. A Georgius Mazur is godfather to a Demko child at Jesztreb in [1870].",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-176",
+    "name": "Anna Cigani [?]",
+    "vitals": "godparent, [1848]",
+    "proof": "documented",
+    "sources": [
+      "S-041"
+    ],
+    "relation": "Godparent in D-005-15.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-177",
+    "name": "Joannes Krak",
+    "vitals": "Greek Catholic, farmer, of Jesztreb 19 and 20",
+    "proof": "documented",
+    "sources": [
+      "S-040",
+      "S-046"
+    ],
+    "relation": "Father in FG-23.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-178",
+    "name": "Anna Mraz",
+    "vitals": "Roman Catholic, of Jesztreb 19 and 20",
+    "proof": "documented",
+    "sources": [
+      "S-040",
+      "S-046"
+    ],
+    "relation": "Mother in FG-23.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-179",
+    "name": "Anna Krak",
+    "vitals": "b. 17 Nov [1871], Jesztreb 19",
+    "proof": "documented",
+    "sources": [
+      "S-040"
+    ],
+    "relation": "Child in FG-23.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-180",
+    "name": "Georgius Krak",
+    "vitals": "b. 4 May 1876, d. 28 Aug 1876, Jesztreb 20",
+    "proof": "documented",
+    "sources": [
+      "S-046"
+    ],
+    "relation": "Child in FG-23.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-181",
+    "name": "Michael [or Nicolaus] Kudela",
+    "vitals": "godparent, [1871] and 1876",
+    "proof": "documented",
+    "sources": [
+      "S-040",
+      "S-046"
+    ],
+    "relation": "Godparent in FG-23. Given name differs between the two entries.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-182",
+    "name": "Elisabetha Csurila",
+    "vitals": "godparent, [1871] and 1876",
+    "proof": "documented",
+    "sources": [
+      "S-040",
+      "S-046"
+    ],
+    "relation": "Godparent in FG-23.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-183",
+    "name": "Erzsébet Demko",
+    "vitals": "b. 13 Aug [1884], d. 11 Feb 1885, Jesztreb 47",
+    "proof": "documented",
+    "sources": [
+      "S-044"
+    ],
+    "relation": "Child in FG-15.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-184",
+    "name": "Mihály Tamás",
+    "vitals": "Greek Catholic; godparent, 1877 and [1884]",
+    "proof": "documented",
+    "sources": [
+      "S-044",
+      "S-048"
+    ],
+    "relation": "Godparent in FG-15, twice.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-185",
+    "name": "Anna Mráz",
+    "vitals": "Roman Catholic; godparent, [1884]",
+    "proof": "documented",
+    "sources": [
+      "S-044"
+    ],
+    "relation": "Godparent in D-005-18.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-186",
+    "name": "János Demko (twin)",
+    "vitals": "b. 27 Jun 1877, Jesztreb",
+    "proof": "documented",
+    "sources": [
+      "S-048"
+    ],
+    "relation": "Child in FG-15.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-187",
+    "name": "György Demko (twin)",
+    "vitals": "b. 27 Jun 1877, Jesztreb",
+    "proof": "documented",
+    "sources": [
+      "S-048"
+    ],
+    "relation": "Child in FG-15.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-188",
+    "name": "Janko Abara [?]",
+    "vitals": "godparent, 1877",
+    "proof": "documented",
+    "sources": [
+      "S-048"
+    ],
+    "relation": "Godparent in D-005-22.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-189",
+    "name": "Zsuzsa [Feris?]",
+    "vitals": "godparent, 1877",
+    "proof": "documented",
+    "sources": [
+      "S-048"
+    ],
+    "relation": "Godparent in D-005-22.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-190",
+    "name": "Anna Krak[o]",
+    "vitals": "godmother to a Demko twin at Jesztreb, 1877",
+    "proof": "documented",
+    "sources": [
+      "S-048"
+    ],
+    "relation": "Godparent in D-005-22. If the name is Krak, this is the one entry that joins the Krak and Demko families of Jesztreb (H-032).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-191",
+    "name": "György Szmeriga",
+    "vitals": "b. 5 Apr [1845], Jesztreb",
+    "proof": "documented",
+    "sources": [
+      "S-047"
+    ],
+    "relation": "Child in FG-13.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-192",
+    "name": "Georgius Szeman (the elder)",
+    "vitals": "Greek Catholic, farmer, of Nagy Szere[tva] 68",
+    "proof": "documented",
+    "sources": [
+      "S-045"
+    ],
+    "relation": "Father in FG-24.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-193",
+    "name": "Maria Nyemcsik",
+    "vitals": "Greek Catholic, of Nagy Szere[tva] 68",
+    "proof": "documented",
+    "sources": [
+      "S-045"
+    ],
+    "relation": "Mother in FG-24.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-194",
+    "name": "Georgius Szeman",
+    "vitals": "b. 2 Mar [1862], Nagy Szere[tva] 68",
+    "proof": "documented",
+    "sources": [
+      "S-045"
+    ],
+    "relation": "Child in FG-24.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-195",
+    "name": "Michael Skar[...] [?]",
+    "vitals": "Roman Catholic, farmer; godparent, [1862]",
+    "proof": "documented",
+    "sources": [
+      "S-045"
+    ],
+    "relation": "Godparent in D-005-19.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-196",
+    "name": "Maria Brackonyil [?]",
+    "vitals": "Roman Catholic; godparent, [1862]",
+    "proof": "documented",
+    "sources": [
+      "S-045"
+    ],
+    "relation": "Godparent in D-005-19.",
+    "route": "duska",
+    "route_note": ""
   }
 ]

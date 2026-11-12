@@ -54,13 +54,14 @@
   {
     "id": "F-005",
     "desktop_path": "Duska Baptisms/Inacovce (Solymos) - Greek Catholic",
-    "described_as": "Duska Baptisms / Inacovce (Solymos), Greek Catholic. Part 1; more parts expected.",
+    "described_as": "Duska Baptisms / Inacovce (Solymos), Greek Catholic. Parts 1 and 2 received; not yet declared complete.",
     "status": "open",
     "first_seen": "2026-11-12",
     "completed": null,
-    "files_received": 11,
+    "files_received": 22,
     "batches": [
-      "B-009"
+      "B-009",
+      "B-011"
     ],
     "archive_path": "records/F-005_Duska-Baptisms_Inacovce-Solymos-Greek-Catholic/"
   },
