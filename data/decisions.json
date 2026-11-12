@@ -808,5 +808,17 @@
   "date": "2026-11-12",
   "decided": "R-020 asks the owner for page headers, which will not arrive with the folders of deaths and marriages.",
   "why": "The ledger's request rule: ask only for what will not come in the ordinary run."
+ },
+ {
+  "id": "DEC-136",
+  "date": "2026-11-12",
+  "decided": "D-012-01 is no longer held. It is published as a de-identified copy set in type from the PDF's text, with the sheet number, parcel numbers, house number, postal code, given names, maiden name, dates of birth and title reference blacked out. The PDF stays out of the repo. Going forward the data drops the two years of birth and the sheet number, and the file name is written with the number withheld.",
+  "why": "The owner's instruction (S-000-14, X-029): 'non-identified', 'no name or address'. The sheet number is withheld as well because, with the village, it leads to the owners in the public register in one step. Batch B-042 printed the sheet number and the two years of birth; history on main is stamped and is not rewritten."
+ },
+ {
+  "id": "DEC-137",
+  "date": "2026-11-12",
+  "decided": "R-020 (page headers) is set to waiting and the reading of every 1930 household of Senné (L-024) is left for the end.",
+  "why": "The owner's answer: 'no on rest comes at the end'."
  }
 ]

@@ -3,7 +3,12 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-041. Read ledger v22.
+- Last updated: 12 Nov 2026, after Duska batch B-045. Read ledger v22.
+
+## 00000000000000000000000000000000000. B-045 (12 Nov): a statement by Kevin on two people who may be living
+
+- **Statement** (`DUS:S-000-14`): the two owners on the 2022 land register extract (`DUS:D-012-01`) are "probably living"; he has "no idea" how they connect; the file documents the name at Senné. For your table: status unknown, leaning living; not on my tree.
+- **Acted on at once (X-029):** he told me not to hold the file but to show it "non-identified", "no name or address". It is now public as a de-identified copy: given names, address, dates of birth and all register numbers blacked out; the PDF is not in my repo. My B-042 printed the sheet number and the two years of birth; that history is stamped.
 
 ## 0000000000000000000000000000000000. B-041 (12 Nov): a statement by Kevin; five of his files opened under X-027 item 2
 

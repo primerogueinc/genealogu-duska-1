@@ -1,17 +1,19 @@
 {
   "folder_id": "F-012",
   "desktop_path": "Duska Contemporary Land",
-  "note": "One file, received through chat upload on 12 Nov 2026. The owner says the folder is not exhaustive. The file is held: it is not in this repository.",
+  "note": "One file, received through chat upload on 12 Nov 2026. The owner says the folder is not exhaustive and that the file is there to document the presence of the name at Senné in 2022. Published as a de-identified copy; the PDF is not in this repository.",
   "files": [],
   "held": [
     {
-      "file": "Senne_-_Parcel_11_-_NAME_WITHHELD_Duska.pdf",
+      "file": "Senne_-_Parcel_NN_-_NAME_WITHHELD_Duska.pdf",
       "sha256": "789252d513f2d26a1e24565761e049592b0c85c227348f7efd9d6941be653138",
       "bytes": 80426,
       "received": "2026-11-12",
       "via": "chat upload",
-      "held": "A print-out from a land register naming two owners born in 1953 and 1957, with their full birth dates, house number and parcel numbers. No death is stated for either, so their status is unknown (X-016): the file is not in the repo and a given name in its file name is withheld.",
-      "file_in_repo": false
+      "held": "The PDF names two owners who are probably living (the owner's word), with their dates of birth, house number and parcel numbers. It is not in the repo. A de-identified copy set in type from its text is published instead.",
+      "file_in_repo": false,
+      "public_copy": "Senne_Duska_land_2022_deidentified.png",
+      "public_copy_sha256": "9b347a8f4d0937ff21f8740586667db81f8d6ba13f748151f104392037bfd270"
     }
   ]
 }

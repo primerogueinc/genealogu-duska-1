@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-044.
+- Last updated: 12 Nov 2026, after Duska batch B-045.
+
+## 000000000000000000000. New at B-045
+
+`D-012-01` is no longer `held`: it has `web_file` (a de-identified copy under `assets/pages/F-012/`) and a new optional field `deidentified` (a sentence). Its `file` value changed. `sources.json`: `S-000-14` is inserted after `S-000-13`. `requests.json`: `R-019` is `answered`, `R-020` is `waiting`.
 
 ## 00000000000000000000. New at B-043 and B-044
 

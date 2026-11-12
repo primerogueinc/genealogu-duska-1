@@ -846,7 +846,7 @@
   "doc": "D-012-01",
   "source": "S-290",
   "title": "A garden defined by law, on top of a mine that is not there",
-  "text": "The register cannot simply say 'garden'. Code 4 defines it: land, mostly inside the built-up area, 'on which vegetables, fruit, low and tall ornamental greenery and other crops are grown'. And both parcels carry code 401, a protected mineral-deposit area: whatever lies under the village is reserved by the state, garden or no garden. The owner's file name calls the whole thing 'Parcel 11', which is the number of the page, not of the land.",
+  "text": "The register cannot simply say 'garden'. Code 4 defines it: land, mostly inside the built-up area, 'on which vegetables, fruit, low and tall ornamental greenery and other crops are grown'. And both parcels carry code 401, a protected mineral-deposit area: whatever lies under the village is reserved by the state, garden or no garden. The owner's file name calls the whole thing a parcel and gives a number, which is the number of the page, not of the land.",
   "original": "Pozemok prevažne v zastavanom území obce alebo v záhradkárskej osade, na ktorom sa pestuje zelenina, ovocie, okrasná nízka a vysoká zeleň a iné poľnohospodárske plodiny … 401 Chránené ložiskové územie",
   "translation": "Land mostly in the built-up area of a commune or in an allotment colony, on which vegetables, fruit, low and tall ornamental greenery and other farm crops are grown … 401 Protected deposit area",
   "why": "It shows how a modern register describes a village plot, and how a file name can mislabel the object.",

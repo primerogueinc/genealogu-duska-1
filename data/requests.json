@@ -145,17 +145,18 @@
  },
  {
   "id": "R-019",
-  "status": "raised",
+  "status": "answered",
   "raised": "B-042",
-  "text": "For the land register print-out of 2022: are the two owners living, and do you know how they are related to the line? If they have died, the file can be published; if you know the man's parents, that settles H-073.",
+  "text": "For the land register print-out of 2022: are the two owners living, and do you know how they are related to the line? If they have died, the file can be published; if you know the man's parents, that settles H-073. [Answered: probably living; the connection is not known to him; S-000-14.]",
   "raised_with_owner": "2026-11-12",
-  "rank": 6
+  "rank": 6,
+  "answered": "B-045"
  },
  {
   "id": "R-020",
-  "status": "raised",
+  "status": "waiting",
   "raised": "B-044",
-  "text": "For two burial strips from Čičarovce, the year as it stands on the register page (the page header or a neighbouring dated entry): 'Death of Gyorgy Demko 1905', which is on the page layout of the 1830s, and 'Death of Mihaly Demko 1888', where house 121 points to the 1870s. And the same for the three burials of wives of György Demko, [1831], [1836] and [1842].",
+  "text": "For two burial strips from Čičarovce, the year as it stands on the register page (the page header or a neighbouring dated entry): 'Death of Gyorgy Demko 1905', which is on the page layout of the 1830s, and 'Death of Mihaly Demko 1888', where house 121 points to the 1870s. And the same for the three burials of wives of György Demko, [1831], [1836] and [1842]. [The owner: no, this comes at the end (S-000-14). Not asked again.]",
   "raised_with_owner": "2026-11-12",
   "rank": 5
  }

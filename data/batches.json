@@ -1849,7 +1849,7 @@
   "title": "A new folder: present-day land at Senné, one file, held",
   "folder": "F-012",
   "files": 1,
-  "blurb": "A new folder, 'Duska Contemporary Land', with one file; the owner says it is not exhaustive and that the Places agent may want to know of it. It is a print-out from the Slovak land register made on 11 May 2022: ownership sheet number 11 for Senné, which lists a family house with its yard and a garden, a little over a thousand square metres together, inside the village. The owners are a married couple named Duška, born in 1953 and 1957, who hold it jointly and bought it in the 1980s; nothing is charged against it. The owner's file name calls it 'Parcel 11'. Eleven is the number of the ownership sheet, and the parcels have other numbers. Both owners were born less than a hundred years ago and nothing says they have died, so under the rules of this experiment the file is held: their given names, birth dates, house number and parcel numbers are not published, and the file name is written with the given name withheld. Whether this household descends from the Duskas of the Senné registers is raised as a question (H-073, 50); surname and village are all that tie them so far. The owner has been asked whether the two are living. Curiosities: 1",
+  "blurb": "A new folder, 'Duska Contemporary Land', with one file; the owner says it is not exhaustive and that the Places agent may want to know of it. It is a print-out from the Slovak land register made on 11 May 2022: an ownership sheet for Senné, which lists a family house with its yard and a garden, a little over a thousand square metres together, inside the village. The owners are a married couple named Duška, who hold it jointly; nothing is charged against it. The owner's file name calls it a parcel with a number. The number is that of the ownership sheet, and the parcels have other numbers. Both owners were born less than a hundred years ago and nothing says they have died, so under the rules of this experiment the file is held: their given names, birth dates, house number and parcel numbers are not published, and the file name is written with the given name withheld. Whether this household descends from the Duskas of the Senné registers is raised as a question (H-073, 50); surname and village are all that tie them so far. The owner has been asked whether the two are living. Curiosities: 1",
   "raised": [
    "H-073"
   ],
@@ -1925,6 +1925,20 @@
    "S-316",
    "S-317"
   ],
+  "committed_utc": "2026-11-12T21:35:15Z"
+ },
+ {
+  "id": "B-045",
+  "date": "2026-11-12",
+  "title": "The owner's answers: the 2022 land extract shown without names; two jobs left for the end",
+  "folder": null,
+  "files": 0,
+  "blurb": "No new files. The owner answered three questions from the last report. On the land register extract of 2022: the two owners are probably living, he does not know how they connect to the line, and he kept the file only to show that the name Duška still holds land at Senné. He does not want it held back, only stripped of anything that identifies them. So the document is now public as a de-identified copy, set in type from the text of the original, with the given names, the address, the dates of birth and every register number blacked out; the original file stays out of the repository. The entry for the household no longer gives the two years of birth, and the sheet number is withheld too, since with the village name it leads to the owners in one step in the public register. The earlier batch printed that number and the two years, and the stamped history is not rewritten. On the other two questions, the page headers for five burial strips and the reading of every household of Senné in the census of 1930, his answer is no for now: both come at the end. Curiosities: 0",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [],
   "committed_utc": null
  }
 ]
