@@ -1450,6 +1450,28 @@
    "S-240",
    "S-241"
   ],
+  "committed_utc": "2026-11-12T08:17:33Z"
+ },
+ {
+  "id": "B-026",
+  "date": "2026-11-12",
+  "title": "A cemetery record matched to a Senné baptism; every Duska is tracked",
+  "folder": "F-006",
+  "files": 1,
+  "blurb": "Read ledger v19, unchanged. Two things. First, the owner said of the woman killed in Nebraska in 1911 that she is a Duska and that Duskas are tracked. That is taken as a rule: every bearer of the name is followed, kin or not, and kinship still has to be shown by a record. Her clipping is now read whole. A search by place and event, leaving the surname out so that nothing of the owner's would come back, found a Nebraska paper that calls her 'Ann Duseka, a cook' at the hotel. So her name is spelled two ways, and a hypothesis that she belongs to this family is raised at 5 in 100. Second, a new file in the sorter's pile: a printout from a cemetery's records system, in French, for a 'Mikalis' Duska, born 28 November 1890, husband of Anna Hancosek, plot FT 01965. The Senné register read two batches ago has a Miklós Duska born on exactly that day at house 6, son of György Duska the younger. That the two are one man is held at 70 in 100, the cap without an archive reference. He is not Michal: a different name, a different wife, and Michal was alive a year after this record's date. But it puts a Duska of that one Senné house under a French-language cemetery record, as would be expected of kin of Mike Duska of Montréal. The record's other dates are a system's stand-ins and give nobody's age, so the main question does not move. The Demko repository was read at its latest commit: nothing new for this line. Curiosities: 3",
+  "raised": [
+   "H-060",
+   "H-061"
+  ],
+  "resolved": [],
+  "revised": [],
+  "people_added": [
+   "K-555"
+  ],
+  "sources_added": [
+   "S-000-8",
+   "S-242"
+  ],
   "committed_utc": null
  }
 ]

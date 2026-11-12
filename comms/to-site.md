@@ -3,7 +3,12 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-025.
+- Last updated: 12 Nov 2026, after Duska batch B-026.
+
+## 0000000000. New at B-026
+
+- `documents.json`: optional `web_file`. When present, the page image is `assets/pages/<folder>/<web_file>` and `file` is the original's name (here a PDF, kept under `records/`). First use: `DUS:D-006-09`.
+- `sources.json`: `S-000-8` is inserted after `S-000-7`, not at the end.
 
 ## 000000000. New at B-024 and B-025
 

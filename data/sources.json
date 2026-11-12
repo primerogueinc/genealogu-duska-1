@@ -352,6 +352,14 @@
   "reliability": "Second-hand for this agent: taken from the coordinator's ledger. Scored as given."
  },
  {
+  "id": "S-000-8",
+  "batch": "B-026",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 12 Nov 2026: every Duska is tracked",
+  "extract": "Of the woman killed at Niobrara, Nebraska, in 1911: she 'is a duska - we track duskas'. Taken as an instruction on scope: every bearer of the surname is followed in this archive, kin or not.",
+  "reliability": "First-hand, heard directly. An instruction on what to collect. It is not evidence that any given Duska is related to the line."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -1940,8 +1948,8 @@
   "batch": "B-023",
   "type": "Newspaper report (derivative source, printed far from the event), as a print from a newspaper archive",
   "title": "Newspaper report of an explosion at Niobrara, Nebraska, that killed an Annie Duska, January 1911",
-  "extract": "A one-page print of a clipping from an Ohio newspaper, the Telegraph-Forum of Bucyrus, 17 January 1911, page 4. A report from Niobrara, Nebraska, dated 16 January: the gas lighting plant of the Hubbard hotel exploded and four people died, among them an Annie Duska; a fire followed and burned the hotel. The clipping is cut off down its right edge, so her name is complete only in the title the owner gave it. Nothing in it says where she came from, how old she was or whose kin she was. The file is held because its header carries the owner's account name on the newspaper site; the report itself is transcribed here in part.",
-  "reliability": "A wire report reprinted in another state; names may be garbled. Reading level: medium."
+  "extract": "A one-page print of a clipping from an Ohio newspaper, the Telegraph-Forum of Bucyrus, 17 January 1911, page 4, read in full at B-026. A report from Niobrara, Nebraska, dated 16 January: the gas lighting plant of the Hubbard hotel exploded and killed M. W. Kimball, Annie Duska, Kenneth Kindall and R. F. Crosby; four women were rescued from the fire, which burned the hotel. Nothing in it says where she came from, how old she was or whose kin she was. A Nebraska paper of the same week names the hotel's owner as Michael Kendall and lists among the dead 'Ann Duseka, a cook' (lead L-021), so the Ohio wire copy garbled at least one name and her surname is spelled two ways. The file is held because its footer carries the owner's account name on the newspaper site; the report itself is transcribed here whole.",
+  "reliability": "A wire report reprinted in another state, with at least one name garbled (Kimball for Kendall). Reading level: high."
  },
  {
   "id": "S-237",
@@ -1982,5 +1990,13 @@
   "title": "Urbarial table of Viszoka (Vysoká nad Uhom), Ung county: one sealed page",
   "extract": "The whole village, all under the convent of Lelesz: 15 serfs, among them Michael Demko with a whole holding.",
   "reliability": "Not dated on the image; the owner's label says 1767, the year of the decree, and the county tables followed over some years. Reading level as given on each document. File names are the owner's labels and are not evidence."
+ },
+ {
+  "id": "S-242",
+  "batch": "B-026",
+  "type": "Cemetery database record (derivative; a later keying of the burial register)",
+  "title": "Cemetery record of 'Mikalis' Duska, born 28 November 1890, husband of Anna Hancosek",
+  "extract": "A printout in French from a cemetery's records system, made on 2 January 2022. Deceased: Duska, given name written Mikalis. Date of birth 28 November 1890. Spouse: Anna Hancosek. Section FT, plot 01965. Received on 28 November 1965; a wooden coffin; the family attended the burial. The dates of death, funeral and burial all hold the value 1 January 1100, which is the system's stand-in for 'not entered'. Parents, place of death and the cemetery's own name are not on the page. The received date falls on his 75th birthday and its year repeats the plot number, so it may be a real date or a made-up one; the birth date is the only date here that can be checked, and it matches a baptism in the archive to the day: Miklós Duska, born 28 November 1890 at Szenna 6 (D-009-84).",
+  "reliability": "Typed text, read in full. A database entry made long after the event, with stand-in values in three date fields. The birth date agrees to the day with an original baptism entry. The pile is the sorter's label and is not evidence."
  }
 ]

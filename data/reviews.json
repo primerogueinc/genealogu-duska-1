@@ -155,13 +155,13 @@
  },
  {
   "id": "XR-15",
-  "batch": "B-023",
+  "batch": "B-026",
   "date": "2026-11-12",
   "repo": "primerogueinc/genealogy-demko-1",
   "commit": "5d8cbc4",
-  "read": "head of main only: a new commit exists and is not yet read in full",
-  "holds": "Not yet read. To be read at the start of the next batch.",
-  "found_for_duska_line": "Not yet known.",
-  "sent_to_demko": "Nothing new."
+  "read": "note DM→DU-011 and the list of changed files since c30be69 (47 files; seven new strips, all taken from this repo)",
+  "holds": "DM-B-013: the seven strips routed from F-008 and F-009, read again there (DM-D-083 to -089); differences on four doubtful words; a statement by the owner that the 1906 civil registration is 'ostensibly from Uzhhorod' (DM-PR-6).",
+  "found_for_duska_line": "Nothing new. It now reads the godmother on the 1947 certificate as Zuzana [?], as here. It asks for any marriage of János Demko and Mária Ivanko at Senné; none is in hand.",
+  "sent_to_demko": "See comms/to-demko.md, B-026."
  }
 ]

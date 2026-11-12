@@ -556,5 +556,23 @@
   "date": "2026-11-12",
   "decided": "Folder F-011 is logged as open on the owner's word 'Beginning'. The urbarial tables are dated '[1767 or the few years after]'.",
   "why": "The owner names folders and says when they are complete. 1767 is his label and the year of the decree; no date is on the images."
+ },
+ {
+  "id": "DEC-94",
+  "date": "2026-11-12",
+  "decided": "Rule 30 added: every bearer of the surname Duska met in the archive is indexed and followed, wherever found, on the owner's instruction (S-000-8). Being tracked is not being related: no such person is attached to a family group or the tree without a record.",
+  "why": "The owner: 'we track duskas'. It is an instruction on scope and is followed; X-004 still governs what counts as evidence."
+ },
+ {
+  "id": "DEC-95",
+  "date": "2026-11-12",
+  "decided": "The search for the Niobrara explosion was run without the surname, and the Nebraska paper's page was read through a text extract and logged as a lead.",
+  "why": "The owner keeps a study of the surname on the web; a query with the surname could return his own pages (X-011). The event and place were enough to find the report."
+ },
+ {
+  "id": "DEC-96",
+  "date": "2026-11-12",
+  "decided": "The cemetery record is committed (the man was born in 1890 and no living person is named). Its web image is the text layer set in type, under a new optional field `web_file`, because the PDF's pages draw blank in the tools here. Miklós Duska is not added to the tree; the identity is hypothesis H-060.",
+  "why": "X-016: born more than 100 years ago. X-009: a link without an archive reference stays at 70 and off the tree."
  }
 ]

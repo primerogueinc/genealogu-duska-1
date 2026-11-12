@@ -108,6 +108,17 @@
       "document": "D-006-08",
       "held": "the file prints the owner's account name on a newspaper website",
       "image_in_repo": false
+    },
+    {
+      "name": "FT_01965_Duska.pdf",
+      "sha256": "bd909b370c6c79ac013153230e5ecf5a92973f1170a990479fe1a3917dade0eb",
+      "bytes": 2774356,
+      "pile": "to-duska",
+      "private_commit": "31b6cf5",
+      "sorter_batch": "S-B-012",
+      "document": "D-006-09",
+      "image_in_repo": true,
+      "web_image": "FT_01965_Duska_text.png (the text layer set in type; the PDF pages draw blank)"
     }
   ]
 }

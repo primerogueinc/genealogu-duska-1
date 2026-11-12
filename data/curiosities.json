@@ -488,5 +488,38 @@
   "translation": "The venerable convent of Lelesz. No. 6, Michael Demko: one holding; 20 holds; 10 mowers; 52 days with animals or 104 by hand.",
   "why": "A monastery kept records of its own; there may be more on the Demkos in its archive than a county table shows.",
   "tone": "history"
+ },
+ {
+  "id": "C-061",
+  "doc": "D-006-09",
+  "source": "S-242",
+  "title": "Died on 1 January 1100",
+  "text": "The cemetery's database gives this man three dates it cannot have: death, funeral and burial all on 1 January 1100. It is the value the system writes when nobody typed one. His birth date, the one field a clerk did fill, is right to the day.",
+  "original": "Date du décès : 1100-01-01 | Date des funéraille : 1100-01-01 | Date d'inhumation : 1100-01-01",
+  "translation": "Date of death: 1 January 1100. Date of funeral: 1 January 1100. Date of burial: 1 January 1100.",
+  "why": "A reminder that a typed date in a database can be less true than a faded one in a register.",
+  "tone": "funny"
+ },
+ {
+  "id": "C-062",
+  "doc": "D-006-09",
+  "source": "S-242",
+  "title": "Seventy-five years to the day",
+  "text": "Miklós Duska was born at Senné on 28 November 1890 and baptised the next morning. The cemetery record that seems to be his has a 'received' date of 28 November 1965. Either he came to his grave on his 75th birthday, or a computer made the second date out of the first.",
+  "original": "Date de naissance : 1890-11-28 | Date de réception : 1965-11-28",
+  "translation": "Date of birth: 28 November 1890. Date received: 28 November 1965.",
+  "why": "The coincidence is why the birth date can be trusted and the other cannot yet.",
+  "tone": "odd"
+ },
+ {
+  "id": "C-063",
+  "doc": "D-006-08",
+  "source": "S-236",
+  "title": "The cook, and the match",
+  "text": "A Nebraska paper tells what the Ohio one left out. The hotel's owner smelled gas, went down to the cellar where the lighting plant stood, and is thought to have struck a match to find the leak. He died, his son died, a travelling salesman died, and so did the cook, whom that paper calls Ann Duseka.",
+  "original": "Annie Duska [Ohio]; Ann Duseka, a cook [Nebraska]",
+  "translation": "(English)",
+  "why": "It gives her an occupation, and a second spelling that may mean she was not a Duska at all.",
+  "tone": "sad"
  }
 ]

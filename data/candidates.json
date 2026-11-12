@@ -5970,12 +5970,13 @@
  {
   "id": "K-502",
   "name": "Miklós Duska",
-  "vitals": "b. 28 Nov 1890; Szenna 6",
+  "vitals": "b. 28 Nov 1890, Szenna 6; probably the 'Mikalis' Duska of a cemetery record, husband of Anna Hancosek, received 28 Nov 1965 [?]",
   "proof": "documented",
   "sources": [
-   "S-218"
+   "S-218",
+   "S-242"
   ],
-  "relation": "Child in D-009-84, family group FG-48.",
+  "relation": "Child in D-009-84, family group FG-48. See D-006-09 and H-060.",
   "route": "duska",
   "route_note": "",
   "necronym_risk": "unresolved"
@@ -6331,12 +6332,13 @@
  {
   "id": "K-534",
   "name": "Annie Duska",
-  "vitals": "d. 16 Jan 1911 in a hotel explosion at Niobrara, Nebraska",
+  "vitals": "d. 15 or 16 Jan 1911 in a hotel explosion at Niobrara, Knox County, Nebraska; a cook at the hotel by another paper, which spells her Ann Duseka",
   "proof": "lead",
   "sources": [
-   "S-236"
+   "S-236",
+   "S-000-8"
   ],
-  "relation": "Named in a newspaper report (D-006-08). Not shown to be kin to anyone in this archive.",
+  "relation": "Named in a newspaper report (D-006-08). Tracked as a Duska on the owner's instruction (S-000-8). Kinship to the line is not shown and her surname is spelled Duseka in the paper nearest the event (H-061).",
   "route": "duska",
   "route_note": ""
  },
@@ -6579,5 +6581,17 @@
   "relation": "No. 4 in D-011-06; surname doubtful.",
   "route": "demko",
   "route_note": "In a Duska folder; the surname belongs to the other line."
+ },
+ {
+  "id": "K-555",
+  "name": "Anna Hancosek",
+  "vitals": "wife of 'Mikalis' Duska (b. 28 Nov 1890)",
+  "proof": "documented",
+  "sources": [
+   "S-242"
+  ],
+  "relation": "Spouse named in the cemetery record D-006-09. The surname is close to Hankos[n]ák and Hankuscsik, a Roman Catholic family of Senné in the 1890s and 1900s (FG-52); that is a likeness, not a link.",
+  "route": "duska",
+  "route_note": ""
  }
 ]

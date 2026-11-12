@@ -51,5 +51,14 @@
   "where": "Open web: two searches and two page reads (the Hungaricana archive portal)",
   "for": "Which register covers Staré in 1848; where the urbarial tables of Solymos and Szenna are published",
   "found": "Nothing on the Staré register. Hungaricana pages for Solymos (UNG) and Szenna (UNG) with landlords and head counts that match the owner's images (L-020). No user-built family tree was opened."
+ },
+ {
+  "id": "SR-07",
+  "date": "2026-11-12",
+  "batch": "B-026",
+  "where": "Open web: one search and one page read (Nebraska Newspapers archive, University of Nebraska)",
+  "for": "The Niobrara hotel explosion of January 1911, searched by place and event without the surname, so that nothing written by the owner would be returned",
+  "found": "A Nebraska paper's fuller report naming the cook as Ann Duseka (L-021). Nothing of the owner's appeared in the results.",
+  "note": "The surname was left out of the query on purpose."
  }
 ]

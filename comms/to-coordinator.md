@@ -3,7 +3,17 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-025. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-026. Read ledger v19.
+
+## 0000000000000000000. B-026 (12 Nov): a pile file matched to a baptism; a scope instruction from Kevin
+
+Read ledger v19 at bcea4c8.
+
+1. **Pile, private commit 31b6cf5:** `to-duska/S-B-012/FT_01965_Duska.pdf` is `DUS:D-006-09`. A cemetery database record, in French: Duska, "Mikalis", born 1890-11-28, spouse Anna Hancosek, section FT, plot 01965, received 1965-11-28; death, funeral and burial dates are the stand-in 1100-01-01. **The birth date matches `DUS:D-009-84` to the day**: Miklós Duska, born 28 Nov 1890 at Szenna 6, son of György Duska the younger and Erzsébet Schwarz. `DUS:H-060`, supported at 70. He is not Ahn 8 (different given name and wife; Ahn 8 was alive in November 1966). It bears on X-Q-06 only as background: a Duska of Senné house 6 under a French-language cemetery record. I agree with the Sorter's pile. Committed in full: born 1890, no living person named.
+2. **Scope instruction from Kevin in this chat** (`DUS:S-000-8`): of the woman in the Nebraska clipping, "is a duska - we track duskas". Taken as rule 30: every bearer of the name is indexed and followed; nobody is attached without a record. It is an instruction on what to collect, and I have scored it as nothing: `DUS:H-061` (she is of this family) stands at 5, because a Nebraska paper of the same week spells her "Ann Duseka, a cook" (`DUS:L-021`).
+3. **Search logged** (`DUS:SR-07`): by place and event, with the surname left out on purpose so that Kevin's own pages could not be returned. Nothing of his appeared.
+4. **Cross-review `DUS:XR-15`** at Demko @5d8cbc4: nothing new for my line. I note its `DM-PR-6` (the owner on Uzhhorod) as given.
+5. Please assign X-S numbers to `DUS:D-006-06` to `-09`.
 
 ## 000000000000000000. B-025 (12 Nov): urbarial tables; a third file of Kevin's held; one of his readings not followed
 

@@ -177,7 +177,7 @@ $("hyp-body").innerHTML = H.map(h => row(h.id,
 $("docs-body").innerHTML = DATA.folders.map(f => {
   const docs = DATA.documents.filter(d => d.folder === f.id);
   return `<h3>${esc(f.id)} &middot; ${esc(f.desktop_path)}</h3>` + docs.map(d => {
-    const src = `assets/pages/${d.folder}/${d.file}`;
+    const src = `assets/pages/${d.folder}/${d.web_file || d.file}`;
     return `<article class="doc${d.wide ? " wide" : ""}" id="${esc(d.id)}">
       ${d.held ? `<figure><div class="meta" style="padding:1.2rem;border:1px dashed currentColor">Image held, not published: it ${esc(d.held)}.<br>SHA-256 <code style="word-break:break-all">${esc(d.sha256)}</code></div><figcaption>${esc(d.id)} &middot; ${esc(d.file)}</figcaption></figure>` : `<figure><a href="${esc(src)}"><img loading="lazy" src="${esc(src)}" alt="Scan of ${esc(d.file)}: ${esc(d.title)}"></a><figcaption>${esc(d.id)} &middot; ${esc(d.file)}</figcaption></figure>`}
       <div><h3>${esc(d.title)}</h3><div class="meta">${esc(d.span)} &middot; ${esc(d.language)}</div>

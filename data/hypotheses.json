@@ -426,6 +426,11 @@
     "batch": "B-009",
     "effect": "35% to 60%",
     "note": "First half confirmed: she was born in 1906 and a civil registration exists (the Demko agent's civil birth registration of 1906 (DM-D-008 @57861ad, cited, not read by this agent)). Whether the Uzhhorod record is the county copy of it is still untested."
+   },
+   {
+    "batch": "B-026",
+    "effect": "no change",
+    "note": "The Demko agent reports (DM→DU-011) a statement by the owner in its chat that the 1906 civil registration is 'ostensibly from Uzhhorod'. Given, not rebuilt; scored by the coordinator as given."
    }
   ],
   "question": "X-Q-01"
@@ -771,6 +776,11 @@
     "batch": "B-022",
     "effect": "raised from 60 to 70, supported",
     "note": "Two boys named Mihály Duska are baptised in the Senné Roman Catholic book at the right time: 6 December 1896 and 3 July 1903. Neither has a death note. Held at the cap: no record yet says that either grew up to be the father of Štefan."
+   },
+   {
+    "batch": "B-026",
+    "effect": "no change",
+    "note": "A cemetery record shows Miklós Duska of Senné house 6 (b. 1890) buried under a French-language record (H-060). It fits a Senné origin for the Duskas of Montréal. Already at the cap."
    }
   ],
   "question": "X-Q-06"
@@ -1148,6 +1158,11 @@
     "batch": "B-022",
     "effect": "raised from 35 to 55; statement made exact",
     "note": "The gap predicted at B-020 held a Mihály: born 3 July 1903, Szenna 79, son of András Duska 'the younger' and Anna Nyemecz (D-009-79). He would be 26 at Štefan's birth and three years older than Maria Demko. His father is a cottar, as Michal is in 1929. The book notes the deaths of seven of his brothers and sisters and the marriage of one; his own line is blank, as it would be for a man who left. Against: the same is true of the miller's son of 1896 (H-047). The owner's collecting of the Nyemcsik name fits this household and is a label; it is given no weight (X-004)."
+   },
+   {
+    "batch": "B-026",
+    "effect": "no change",
+    "note": "The man of the cemetery record is not Michal: he is a Miklós, born 1890, with a wife named Anna Hancosek. Mike Duska was alive in November 1966 and had married once. The record gives no age for Mike. If Miklós was in Canada, he and Mike were of one house: Miklós's father was György the younger of house 6, and under this hypothesis Mike's grandfather was György the elder of house 6."
    }
   ],
   "necronym_risk": "unresolved",
@@ -1183,6 +1198,11 @@
     "batch": "B-025",
     "effect": "no change",
     "note": "Two Halas serfs are at Szenna in the urbarial table (D-011-02): the miller's wife's surname was in the village long before her. Nothing about Michal."
+   },
+   {
+    "batch": "B-026",
+    "effect": "no change",
+    "note": "As for H-046: the cemetery record is of a different man."
    }
   ],
   "question": "X-Q-06"
@@ -1438,6 +1458,42 @@
     "batch": "B-025",
     "effect": "raised at 45",
     "note": "Raised from the urbarial tables in folder F-011."
+   }
+  ]
+ },
+ {
+  "id": "H-060",
+  "statement": "The 'Mikalis' Duska of the cemetery record, born 28 November 1890 and husband of Anna Hancosek, is Miklós Duska, born 28 November 1890 at Senné, house 6, son of György Duska the younger and Erzsébet Schwarz.",
+  "confidence": 70,
+  "basis": "The date of birth agrees to the day with the baptism entry (D-009-84), in a surname with only a handful of bearers. 'Mikalis' is a fair French clerk's rendering of Miklós or Mikuláš. His wife's surname resembles a Senné family's. Against: the record is a database entry with stand-in values elsewhere, the cemetery is not named, and no document shows Miklós leaving Senné.",
+  "test": "The cemetery's burial register or the gravestone for section FT, plot 01965; a Québec death or marriage registration naming his parents; a passenger list.",
+  "status": "supported",
+  "raised": "B-026",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-026",
+    "effect": "raised at 70, supported",
+    "note": "At the cap for a link without an archive reference (X-009). It shows a Roman Catholic Duska of Senné, house 6, in a French-language cemetery, which is what would be expected of a kinsman of Mike Duska of Montréal. It does not say which Mihály Mike was."
+   }
+  ]
+ },
+ {
+  "id": "H-061",
+  "statement": "Annie Duska, killed at Niobrara, Nebraska, in January 1911, belongs to the Duskas of Solymos and Senné.",
+  "confidence": 5,
+  "basis": "The surname as the Ohio paper prints it, and the owner's instruction to track her. Against: a Nebraska paper of the same week prints 'Ann Duseka, a cook', and Knox County was thickly settled by Czechs, among whom Dušek is common (recalled, not sourced: X-010). No record of the Ung county Duskas in Nebraska is in hand.",
+  "test": "Her death certificate or burial at Niobrara; the 1910 census of Knox County.",
+  "status": "open",
+  "raised": "B-026",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-026",
+    "effect": "raised at 5",
+    "note": "Raised so that the owner's instruction has a place to be tested. She stays in the candidate list either way."
    }
   ]
  }
