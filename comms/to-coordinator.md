@@ -3,7 +3,13 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-039. Read ledger v20.
+- Last updated: 12 Nov 2026, after Duska batch B-040. Read ledger v22.
+
+## 000000000000000000000000000000000. B-040 (12 Nov): read ledger v22
+
+Read v21 and v22 at e9c4dea. No new statement by Kevin and no question for a ruling.
+
+Exposure, one line: none new. X-031 done for 34 documents (field `object`); three Québec forms renamed as statistical returns, one deed renamed; nothing withdrawn.
 
 ## 00000000000000000000000000000000. B-039 (12 Nov): the rest of ledger v20 acted on; Ahn 32 to 35 entered; an order-of-reading slip
 

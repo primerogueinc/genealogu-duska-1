@@ -1411,6 +1411,16 @@
    "book": "Baptism register, volume IV",
    "page_or_image": "page 110, entry 43 of 1929",
    "obtained": "Photograph of the paper certificate, in the owner's folder given to the Demko agent. Who took it is unknown."
+  },
+  "object": {
+   "kind": "A baptismal certificate issued by a parish office: an extract from the register, not the register",
+   "form": "Printed two-language form headed 'Litterae Baptismales - Krstný list', printer's line 'Tlačiareň Alžbeta, Košice'; a cancelled revenue stamp; office number 106/1947; the round seal 'Rím. kat. farský úrad Senné' twice; one signature; the register cited as volume IV, page 110, entry 43.",
+   "does_not_fit": "The owner's label calls it the 'original baptism certificate'. It is an original certificate; it is a copy of the entry.",
+   "made_by": "The Roman Catholic parish office of Senné, 19 August 1947, eighteen years after the baptism and ten after the child had left.",
+   "kept": "Given to whoever asked for it; kept in the family. The register itself stayed at the parish.",
+   "compared": [
+    "D-006-21, the same printed form issued in 1955"
+   ]
   }
  },
  {
@@ -1456,7 +1466,7 @@
   "file": "Maria_Demko_Notarial_Document_Regarding_Guardianship_of_NAME_WITHHELD_-_establishes_date_of_death.jpg",
   "sha256": "57e158a05aa586a97944516a1ffdd112522130f0fa64c9c2962db6df4781a846",
   "route": "duska",
-  "title": "Deed of sale, 1966: Mike Duska married once, to Maria Demko",
+  "title": "Notarial deed of sale, 1966, one page: Mike Duska married once, to Maria Demko",
   "span": "effective 1 November 1966",
   "language": "English",
   "entries": [
@@ -1481,6 +1491,14 @@
    "book": "unknown",
    "page_or_image": "one page of several",
    "obtained": "Photograph of a paper copy, in the owner's folder given to the Demko agent."
+  },
+  "object": {
+   "kind": "One page of a typed notarial deed of sale of an immovable, Québec, in English",
+   "form": "Typed, numbered declarations by the vendor (taxes paid; married but once; the sale effective 1 November 1966), then 'Possession & Conditions' binding 'the Purchaser'. No letterhead, seal or signature on the page in hand.",
+   "does_not_fit": "The owner's label calls it a notarial document about a guardianship. Nothing on this page concerns a guardianship; other pages may. A vendor's statement of his marriages is a usual clause in such a deed.",
+   "made_by": "A notary, on the vendor's declaration, in or just before November 1966.",
+   "kept": "The original stays in the notary's records; copies go to the parties and to the land registry (recalled, not sourced).",
+   "compared": []
   }
  },
  {
@@ -5670,7 +5688,15 @@
     "original": "16. | 30. | Andreas. | Andreas Nyem-csik G.C. Manualista Eperjes. Anna G.C. | Stephanus Tomka Gremialis Advocatus. Maria Dalczer Eperj. | Michael Viszloczky Capellanus. || Mense Augusto.",
     "english": "Child: Andreas. Father: Andreas Nyemcsik, Greek Catholic, 'manualista' (a clerk or copyist), of Eperjes. Mother: Anna, Greek Catholic. Godparents: Stephanus Tomka, advocate; Maria Dalczer, of Eperjes. Officiant: Michael Viszloczky, chaplain. The heading 'Mense Augusto' follows, so this is the last entry of July. The year is from the owner's file name."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A baptism register strip. That the book is the Greek Catholic register of Prešov is known only from the owner's folder name; the strip shows Latin entries, the residence Eperjes and a chaplain's signature, and nothing that names the church.",
+   "form": "A cropped strip of ruled entries.",
+   "does_not_fit": "Not checked against other registers of the place.",
+   "made_by": "unknown",
+   "kept": "unknown",
+   "compared": []
+  }
  },
  {
   "id": "D-008-02",
@@ -5708,7 +5734,15 @@
     "original": "Die 30a Julii Mich. Viszloczky baptisavit, et Confirmavit Andream, Andreae Nyemtsik G.C. hujatis Manualistae, et Annae Nyemcsova G.C. filium. Levantes D. Stephanus Tomka hujas Advocatus, et Maria Dalczer.",
     "english": "On 30 July Michael Viszloczky baptised and confirmed Andreas, son of Andreas Nyemtsik, Greek Catholic, a clerk of this place, and of Anna Nyemcsova, Greek Catholic. Sponsors: Mr Stephanus Tomka, advocate of this place, and Maria Dalczer. The line above ends '...am Körösfőensem', part of the entry before. This is the same baptism as D-008-01 in another book or an earlier draft of the same book: the same day, child, parents, sponsors and chaplain. The year is from the owner's file name."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A baptism register strip. That the book is the Greek Catholic register of Prešov is known only from the owner's folder name; the strip shows Latin entries, the residence Eperjes and a chaplain's signature, and nothing that names the church.",
+   "form": "A cropped strip of ruled entries.",
+   "does_not_fit": "Not checked against other registers of the place.",
+   "made_by": "unknown",
+   "kept": "unknown",
+   "compared": []
+  }
  },
  {
   "id": "D-008-03",
@@ -5746,7 +5780,15 @@
     "original": "Die 7a 9bris bapt. & confirmata est Catharina e Parentib[us] Joanne & Eva Kocsis. levantib[us] Andrea Siegenthaler, & Susana Henzelmann Eperj[essi]ensib[us].",
     "english": "On 7 November Catharina was baptised and confirmed, of the parents Joannes and Eva Kocsis. Sponsors: Andreas Siegenthaler and Susanna Henzelmann, of Eperjes. No rite, occupation or home is given for the parents. The year is from the owner's file name."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A baptism register strip. That the book is the Greek Catholic register of Prešov is known only from the owner's folder name; the strip shows Latin entries, the residence Eperjes and a chaplain's signature, and nothing that names the church.",
+   "form": "A cropped strip of ruled entries.",
+   "does_not_fit": "Not checked against other registers of the place.",
+   "made_by": "unknown",
+   "kept": "unknown",
+   "compared": []
+  }
  },
  {
   "id": "D-008-04",
@@ -5784,7 +5826,15 @@
     "original": "Die 10a 7bris Baptisatus, et Confirmatus est Stephanus Andreas filiolus A[dmodum] R[everen]di D[omi]ni Stephani Demko Parochi Körösfőensis, et levantibus Per-illustri D. Michaele [Bradács?] Advocato, tum Nobili Susanna T[z]iesenthaller D[omi]ni Andreae Weber Consorte. J. [Gorbory?] Capel.",
     "english": "On 10 September Stephanus Andreas was baptised and confirmed, little son of the Very Reverend Mr Stephanus Demko, parish priest of Körösfő; the sponsors being the most illustrious Mr Michael [Bradács?], advocate, and the noble Susanna T[z]iesenthaller, wife of Mr Andreas Weber. J. [Gorbory?], chaplain. The mother is not named. The year is from the owner's file name."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A baptism register strip. That the book is the Greek Catholic register of Prešov is known only from the owner's folder name; the strip shows Latin entries, the residence Eperjes and a chaplain's signature, and nothing that names the church.",
+   "form": "A cropped strip of ruled entries.",
+   "does_not_fit": "Not checked against other registers of the place.",
+   "made_by": "unknown",
+   "kept": "unknown",
+   "compared": []
+  }
  },
  {
   "id": "D-009-01",
@@ -9756,7 +9806,7 @@
     "no": "3",
     "date": "18 January 1892",
     "from": "Parish marriage register, page image (original record)",
-    "abstract": "Page 16 of a printed Hungarian marriage register, entry 3 of 1892. Married on 18 January 1892: András Duska, cottar, born at Szenna, living at a place read as [Hrabó?], Roman Catholic, 24 years old, bachelor; and Anna Nyemcsik, born at Szenna, living at Szenna 22, Roman Catholic, 19 years old, spinster. His parents: György Duska, Roman Catholic, farmer, of Szenna, and Anna Krak, Greek Catholic, of a place read as I[sk]e [?]. Her parents: János Nyemcsik, Roman Catholic, cottar, of Szenna, and Erzsébet Hresko, Roman Catholic, of Szenna. Witnesses: András Dzvonyik, farmer; György Duska, cottar, of Szenna. Officiant: István Rusznák, dean and parish priest. Banns called three times. The ages fit the baptisms in hand: Andreas Duska of [1868] and Anna Nyemcsik of 24 August [1872]. The entries above it on the page are a widower of Nagyszeretva and a servant from Zemplén; neither concerns the line.",
+    "abstract": "Page 16 of a printed Hungarian marriage register, entry 3 of 1892. Married on 18 January 1892: András Duska, cottar, born at Szenna, living at a place read as [Hrabó?], Roman Catholic, 24 years old, bachelor; and Anna Nyemcsik, born at Szenna, living at Szenna 22, Roman Catholic, 19 years old, spinster. His parents: György Duska, Roman Catholic, farmer, of Szenna, and Anna Krak, Greek Catholic, of a place read as I[sk]e [?]. Her parents: János Nyemcsik, Roman Catholic, cottar, of Szenna, and Erzsébet Hresko, Roman Catholic, of Szenna. Witnesses: András Dzvonyik, farmer; György Duska, cottar, of Szenna. Officiant: István Rusznák, dean and parish priest. Banns called three times. The ages fit the baptisms in hand: Andreas Duska of [1868] and Anna Nyemcsik of 24 August [1872]. The entries above it on the page are a widower of Nagyszeretva and a servant from Zemplén; neither concerns the line. [B-040, on a second look at the form: the groom's residence, where a house number would stand, reads 'Hrabó'. The census of 1930 lists a farmstead Hrabov belonging to Senné, so he was living on that farm, as a servant would. The word after Anna Krak's name reads 'Deba' [?] at this viewing; it was read 'I[sk]e' [?] before. A second witness is György Duska, Roman Catholic cottar of Szenna.]",
     "reading": "high"
    }
   ],
@@ -9767,7 +9817,17 @@
     "english": "Page 16 of a printed Hungarian marriage register, entry 3 of 1892. Married on 18 January 1892: András Duska, cottar, born at Szenna, living at a place read as [Hrabó?], Roman Catholic, 24 years old, bachelor; and Anna Nyemcsik, born at Szenna, living at Szenna 22, Roman Catholic, 19 years old, spinster. His parents: György Duska, Roman Catholic, farmer, of Szenna, and Anna Krak, Greek Catholic, of a place read as I[sk]e [?]. Her parents: János Nyemcsik, Roman Catholic, cottar, of Szenna, and Erzsébet Hresko, Roman Catholic, of Szenna. Witnesses: András Dzvonyik, farmer; György Duska, cottar, of Szenna. Officiant: István Rusznák, dean and parish priest. Banns called three times. The ages fit the baptisms in hand: Andreas Duska of [1868] and Anna Nyemcsik of 24 August [1872]. The entries above it on the page are a widower of Nagyszeretva and a servant from Zemplén; neither concerns the line."
    }
   ],
-  "x_s": "X-S-012"
+  "x_s": "X-S-012",
+  "object": {
+   "kind": "A two-page opening of a church marriage register on a printed Hungarian form",
+   "form": "Printed heading 'Házasultak anyakönyve' across the opening, page number 16 on both leaves, printed columns for the date, the couple, origin, residence and house number, religion, age, state, the parents' names, religion and origin, the witnesses, the officiant, the banns and remarks. Entries in one clerk's hand; the officiant is the dean and parish priest István Rusznák.",
+   "does_not_fit": "The owner's file name says 'from Czech Origins', which is not on the image and is not explained. Whether this is the parish's own book or the duplicate sent to the county cannot be told from one opening.",
+   "made_by": "The Roman Catholic parish of Senné, January 1892.",
+   "kept": "The parish, then the state archive at Prešov (no. 1092, by the Places agent's PL-R-001).",
+   "compared": [
+    "PL-R-001 @641ba53"
+   ]
+  }
  },
  {
   "id": "D-006-04",
@@ -10008,7 +10068,15 @@
     "original": "1848dik év || Január [9]én | Anna törv. | Krak János R.K. / [Z]ebro Maria | Sztárai lakosok | Lit[v]sa János / Groman Ágnes | u[gyanaz]",
     "english": "Year 1848. On [9] January: Anna, legitimate. Parents: János Krak, Roman Catholic, and Mária [Z]ebro, residents of Sztára. Godparents: János Lit[v]sa and Ágnes Groman. Baptised by the same [minister as the entry before]. The day is one doubtful figure. The mother's surname begins with a letter read as Z; D is possible. 'R.K.' stands between the two parents' names and may describe the father alone or both of them. The strip shows no page, no house number and nothing that names the church whose book this is."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A baptism register strip. The village is on the strip; the church is not, and the owner's folder name gives only the village.",
+   "form": "A cropped strip of ruled entries.",
+   "does_not_fit": "Not checked against other registers of the place.",
+   "made_by": "unknown",
+   "kept": "unknown",
+   "compared": []
+  }
  },
  {
   "id": "D-011-01",
@@ -10048,7 +10116,18 @@
     "original": "Possessio Solymos Classis 1mae cum Jug. 20 Falc. 10 || [printed Hungarian headings: Kereszt és Vezeték Nevek | Jobbágy Helynek Minémüsége | Jobbágy Helynek Mivolta: Belső (Posonyi Mérőre való); Külső (Szántó Föld Hold; Rét Ember Vágó) | Esztendőbéli Szolgálat avagy Robot: Marhás Robot [két marhával]; Vagy E. helyett kézi Szolgálat (Nap.) | Kilenczed | Adózások: Esztendőbéli Árenda (Flor.); Tüzre való Fa (öly); Fonyás (Font); Ki főzött Vaj (Icze); Kappany; Csibe; Tojás (No.)] || Translatum [...] || 27 Lakman György 1 | 28 Kavor Mihály ½ || Inquil. Domiciliati: 1 Thur András | 2 Kavor Ádám | 3 [R]ivak István | 4 Varga [Dávid] | 5 [Hrani] György | 6 [Bartak] György [each 18 days by hand, 1 florin] || Subinquilini: 1 Mo[js]e Mihály | 2 Polyak János | 3 Vahily Mihály | 4 Polyak György | 5 Tirpak Mihály | 6 S. Tirpak János | 7 Rusnak Gergely | 8 [B]utka András [each 12 days by hand] || 29 Kozero Pál 1 | 2 | 20 | 10 | 52 | 104 || Inquil. Domicil.: 7 [Fizak] Mihály | 8 [Seguda] [...] | 9 [B]utka György || Latus [...] || [written sideways] Nona in Natura exolvitur Canabe et Lino.",
     "english": "The second page of the table for Solymos, a village of the first class, where a full holding is 20 holds of arable and 10 mowers of meadow. It carries the running total forward, then lists serfs 27 to 29, housed cottars 1 to 9 and sub-cottars 1 to 8, all of the first landlord. The owner's file name says an 'Andref Duska' is here. The only András on the page is sub-cottar no. 8, and his surname is read here as [B]utka, not Duska: the first letter is not the D the same clerk writes in 'Duska Mihály' on the next page, and there is a t where the s should be. Housed cottar no. 9, György, has the same surname, and he cannot be the György Duska who is housed cottar no. 10 on the next page. The image is small and the reading is low, so this is a hypothesis (H-058), not a finding. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A page of an urbarial table (tabella) of the regulation ordered in 1767",
+   "form": "Printed Hungarian column headings for the holding, plot, arable, meadow, labour and dues; handwritten rows; signatures and seals at the end of the village.",
+   "does_not_fit": "The owner dates it 1767. That is the year of the decree; the table itself carries no date in the picture.",
+   "made_by": "County commissioners, between 1767 and the early 1770s.",
+   "kept": "The Hungarian National Archives, by the archive portal's catalogue (L-020).",
+   "compared": [
+    "The column translations in a third party's article on the 1767 census, held as the owner's guide (X-027 item 2)",
+    "L-020"
+   ]
+  }
  },
  {
   "id": "D-011-02",
@@ -10088,7 +10167,18 @@
     "original": "Possessio Szenna Classis 1mae cum 20 Juger. 10 Falc. || [printed Hungarian headings: Kereszt és Vezeték Nevek | Jobbágy Helynek Minémüsége | Jobbágy Helynek Mivolta: Belső (Posonyi Mérőre való); Külső (Szántó Föld Hold; Rét Ember Vágó) | Esztendőbéli Szolgálat avagy Robot: Marhás Robot [két marhával]; Vagy E. helyett kézi Szolgálat (Nap.) | Kilenczed | Adózások: Esztendőbéli Árenda (Flor.); Tüzre való Fa (öly); Fonyás (Font); Ki főzött Vaj (Icze); Kappany; Csibe; Tojás (No.)] || Perpet. Obligationis | Dni [...] Vécsey || 1 Uhrincsák János | 2 Muha András | 3 Mol[nár] Mihály | 4 Han[csik] Márton | 5 Simcsák György | 6 Muha György | 7 [Pan]csikó Mihály | 8 Holub István | 9 Kovács János | 10 Halas György | 11 Szakács Márton | 12 Kusnir János | 13 Halas János | 14 Rákovszki István | 15 Fedor Pál | 16 Fedor András | 17 Macsko János | 18 To[ny]o János | 19 Muha Mihály | 20 Kolos János [each: ½ | 1 | 10 | 5 | 26 | 52 | 1 | ½ | 3 | ½ | 1 | 1 | 6] || Latus 10 | 20 | 200 | 100 | 520 | 1040 [...] || [sideways] Nona in Natura exolvitur Canabe et Lino.",
     "english": "The first page of the table for Szenna. Twenty serfs bound to the land ('of perpetual obligation') under the Vécsey lord, every one with half a holding: 10 holds of arable, 5 mowers of meadow, 26 days of labour a year with animals or 52 by hand. Two are named Halas, György and János. No Duska is among the twenty. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A page of an urbarial table (tabella) of the regulation ordered in 1767",
+   "form": "Printed Hungarian column headings for the holding, plot, arable, meadow, labour and dues; handwritten rows; signatures and seals at the end of the village.",
+   "does_not_fit": "The owner dates it 1767. That is the year of the decree; the table itself carries no date in the picture.",
+   "made_by": "County commissioners, between 1767 and the early 1770s.",
+   "kept": "The Hungarian National Archives, by the archive portal's catalogue (L-020).",
+   "compared": [
+    "The column translations in a third party's article on the 1767 census, held as the owner's guide (X-027 item 2)",
+    "L-020"
+   ]
+  }
  },
  {
   "id": "D-011-03",
@@ -10128,7 +10218,18 @@
     "original": "Szenna Classis 1mae cum 20 Jug. 10 Falc. || Perpet. Obligationis || Translat. 10 | 20 | 200 | 100 | 520 | 1040 || Inquil. Domiciliati: 1 Hankovszki Mihály | 2 D[zu]d[zá]s János | 3 Horn[yi] Lukács || Subinquilini: 1 Mi[gy]o János | 2 Szabo Mátyás || Dni Szirmay: 21 Hornyák Mihály | 22 Hornyák Márton | 23 Bobik György | 24 Hornyák Imre [each ½] || Inquil. Domiciliati: 4 [K]elebar Lukács | 5 Hornyák János || [Dni Joan. Barkóczy]: 25 Csizmár János ½ || Subinquilinus: 3 Csizmár György || Latus 12½ | 25 | 250 | 125 | 650 | 1[3]00 [...]",
     "english": "The second page for Szenna: the first landlord's three housed cottars and two sub-cottars; then four serfs of the Szirmay lord, three of them named Hornyák (Mihály, Márton, Imre), with two cottars, one a János Hornyák; then one serf and one sub-cottar of the Barkóczy lord. With the first page this makes 25 serfs, 5 housed cottars and 3 sub-cottars. The catalogue lead says the village had 26 serfs, so one man, the serf of a fourth landlord, is on a page not in hand. No Duska is on either page. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A page of an urbarial table (tabella) of the regulation ordered in 1767",
+   "form": "Printed Hungarian column headings for the holding, plot, arable, meadow, labour and dues; handwritten rows; signatures and seals at the end of the village.",
+   "does_not_fit": "The owner dates it 1767. That is the year of the decree; the table itself carries no date in the picture.",
+   "made_by": "County commissioners, between 1767 and the early 1770s.",
+   "kept": "The Hungarian National Archives, by the archive portal's catalogue (L-020).",
+   "compared": [
+    "The column translations in a third party's article on the 1767 census, held as the owner's guide (X-027 item 2)",
+    "L-020"
+   ]
+  }
  },
  {
   "id": "D-011-04",
@@ -10168,7 +10269,18 @@
     "original": "Possessio Solymos Classis 1mae cum 20 Jug. 10 Falc. || [printed Hungarian headings: Kereszt és Vezeték Nevek | Jobbágy Helynek Minémüsége | Jobbágy Helynek Mivolta: Belső (Posonyi Mérőre való); Külső (Szántó Föld Hold; Rét Ember Vágó) | Esztendőbéli Szolgálat avagy Robot: Marhás Robot [két marhával]; Vagy E. helyett kézi Szolgálat (Nap.) | Kilenczed | Adózások: Esztendőbéli Árenda (Flor.); Tüzre való Fa (öly); Fonyás (Font); Ki főzött Vaj (Icze); Kappany; Csibe; Tojás (No.)] || Illmi Dni [...] Vécsey | Coloni per. Obligat. || 1 Szabo András | 2 Hudák György | 3 [Kelos] Mitro | 4 S. Kn[y]e[zsov]szk[i] Mihály | 5 Rusnák János | 6 Kavor Ádám | 7 Va[sk]alis András | 8 Kocsis Gergely | 9 Kozero Pál | 10 Gyurma György | 11 K[en]dera Márton | 12 Kokolis Gergely | 13 Ki[sk]an Pál | 14 Jacab András | 15 Sztankala Pál | 16 Olah János ½ | 17 Gerzak János | 18 S. Tabak János | 19 Bal[enk] János | 20 Babicsik György | 21 Papacs György | 22 [...] V[ik]tor | 23 Kovcsak János ½ | 24 [Hvizák] János | 25 Kovcsak András | 26 Hudák András ½ [whole holdings: 1 | 2 | 20 | 10 | 52 | 104 | 1 | 1 | 6 | 1 | 2 | 2 | 12] || Latus 24½ [...]",
     "english": "The first page for Solymos: 26 serfs of the Vécsey lord, bound to the land, nearly all with a whole holding. Among them György and András Hudák, Gergely Kocsis, and no. 4, whose surname begins 'Kn' and is read with doubt as Knyezsovszki; the owner's label reads it as Knyezso. No Duska on this page. Many surnames are read from a small image and are doubtful. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A page of an urbarial table (tabella) of the regulation ordered in 1767",
+   "form": "Printed Hungarian column headings for the holding, plot, arable, meadow, labour and dues; handwritten rows; signatures and seals at the end of the village.",
+   "does_not_fit": "The owner dates it 1767. That is the year of the decree; the table itself carries no date in the picture.",
+   "made_by": "County commissioners, between 1767 and the early 1770s.",
+   "kept": "The Hungarian National Archives, by the archive portal's catalogue (L-020).",
+   "compared": [
+    "The column translations in a third party's article on the 1767 census, held as the owner's guide (X-027 item 2)",
+    "L-020"
+   ]
+  }
  },
  {
   "id": "D-011-05",
@@ -10207,7 +10319,18 @@
     "original": "Possessio Csicser Classis 1mae cum Juger. 20 Falc. 10 || [printed Hungarian headings: Kereszt és Vezeték Nevek | Jobbágy Helynek Minémüsége | Jobbágy Helynek Mivolta: Belső (Posonyi Mérőre való); Külső (Szántó Föld Hold; Rét Ember Vágó) | Esztendőbéli Szolgálat avagy Robot: Marhás Robot [két marhával]; Vagy E. helyett kézi Szolgálat (Nap.) | Kilenczed | Adózások: Esztendőbéli Árenda (Flor.); Tüzre való Fa (öly); Fonyás (Font); Ki főzött Vaj (Icze); Kappany; Csibe; Tojás (No.)] || Coloni Perp. Obligationis | Dni Gaspar Orosz || 1 Sen. Joann. Haluska | 2 Jun. Joann. Haluska | 3 Franc. Haluska || Coloni Liberae Migrat.: 4 Joannes Lu[cs]an | 5 Joannes Kocsis ½ || Inquil. Dom. Lib. Migr.: 1 Andr. Ol[exi]on | 2 Franc. Sipos || Coloni perp. Obligat. | Dni Alex. [...]: 6 Mich. Toth | 7 Mich. Bal[la] | 8 Steph. Or[cho] | 9 Joann. Bakai | 10 Geor. Bakai || D. Francisci [Kapiana] | Col. perp. Obligationis: 11 Paulus Varga | 12 Stephan. Varga | 13 Joann. Lengyel | 14 Mich. Takács | 15 Stephan. Erdélyi | 16 Georg. D[óu]s | 17 [Bar...] Varga | 18 Mich. Lengyel || Inquil. Dom. Perp. Oblig.: 3 Stephan. Lengyel || Dni Math. Bo[ny]ács | Colon. Perp. Obligationis: 19 Joannes Varga | 20 Stephan. Sz[ent]györgyi | 21 Georg. Varga | 22 Joann. Takács || Latus [...] || [sideways] Nona in Natura exolvitur Canabe & Lino.",
     "english": "One page of the table for Csicser, with names in Latin form. Under the lord Gáspár Orosz are three serfs bound to the land and two 'of free movement', who could leave: the second of these is Joannes Kocsis, with half a holding. Twenty-two serfs of four landlords are on the page, which ends with a running total, so the village continues. No Duska and no Demko. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A page of an urbarial table (tabella) of the regulation ordered in 1767",
+   "form": "Printed Hungarian column headings for the holding, plot, arable, meadow, labour and dues; handwritten rows; signatures and seals at the end of the village.",
+   "does_not_fit": "The owner dates it 1767. That is the year of the decree; the table itself carries no date in the picture.",
+   "made_by": "County commissioners, between 1767 and the early 1770s.",
+   "kept": "The Hungarian National Archives, by the archive portal's catalogue (L-020).",
+   "compared": [
+    "The column translations in a third party's article on the 1767 census, held as the owner's guide (X-027 item 2)",
+    "L-020"
+   ]
+  }
  },
  {
   "id": "D-011-06",
@@ -10246,7 +10369,18 @@
     "original": "Possessio Viszoka 1ae Classis cum 20 Juger. [...] || [printed Hungarian headings: Kereszt és Vezeték Nevek | Jobbágy Helynek Minémüsége | Jobbágy Helynek Mivolta: Belső (Posonyi Mérőre való); Külső (Szántó Föld Hold; Rét Ember Vágó) | Esztendőbéli Szolgálat avagy Robot: Marhás Robot [két marhával]; Vagy E. helyett kézi Szolgálat (Nap.) | Kilenczed | Adózások: Esztendőbéli Árenda (Flor.); Tüzre való Fa (öly); Fonyás (Font); Ki főzött Vaj (Icze); Kappany; Csibe; Tojás (No.)] || V. Conventus [...] de Lelesz | Coloni perp. Obligat. || 1 Joannes Sol[cis] | 2 Georgius Kontra | 3 Joannes Kontra | 4 Andreas De[ndó]k [or Demko] | 5 Michael [Hrehó] | 6 Michael Demko | 7 Andreas Toth | 8 Georgius Toth | 9 Michael Sol[cis] [each 1 | 2 | 20 | 10 | 52 | 104] | 10 Joannes Rusnák | 11 Joannes Takács | 12 Georgius H[rabb] | 13 Joannes K[usz]ka | 14 Petrus Toth | 15 Mich. Toth [each ½] || Inquilini Domiciliati: 1 Joannes An[tu]s | 2 Andreas Hreho | 3 Petrus Polov[án] || Subinquilini: 1 Lucas Ivan | 2 Joannes Veres | 3 Joannes Kiss | 4 Lukas [Sigan] | 5 Georgius Sz[űc]s | 6 Joannes Sol[cis] | 7 Joannes Toth || Summa 12 | 24 | 240 [...] || [two red wax seals and signatures]",
     "english": "The table for Viszoka on a single sealed page: 15 serfs, 3 housed cottars and 7 sub-cottars, all bound to the land and all under one lord, the convent of Lelesz. Serf no. 6 is Michael Demko, with a whole holding: 20 holds of arable, 10 mowers of meadow, 52 days a year with his animals or 104 by hand. Serf no. 4, Andreas, has a surname that begins 'De' and may also be Demko. The total of 12 holdings matches nine whole and six half, so the list is complete. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A page of an urbarial table (tabella) of the regulation ordered in 1767",
+   "form": "Printed Hungarian column headings for the holding, plot, arable, meadow, labour and dues; handwritten rows; signatures and seals at the end of the village.",
+   "does_not_fit": "The owner dates it 1767. That is the year of the decree; the table itself carries no date in the picture.",
+   "made_by": "County commissioners, between 1767 and the early 1770s.",
+   "kept": "The Hungarian National Archives, by the archive portal's catalogue (L-020).",
+   "compared": [
+    "The column translations in a third party's article on the 1767 census, held as the owner's guide (X-027 item 2)",
+    "L-020"
+   ]
+  }
  },
  {
   "id": "D-011-07",
@@ -10286,7 +10420,18 @@
     "original": "[the same page as D-011-08; see the transcription there. In this image the paper seal's flap is folded up and red wax shows under it.]",
     "english": "A second image of the page in D-011-08, smaller, taken with the flap of the paper seal lifted. Everything read there is read here as well: no. 33 Duska Mihály with a whole holding; housed cottar no. 10 Dus[ch]a György; 35 serfs, 12 housed cottars and 9 sub-cottars in the village."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A page of an urbarial table (tabella) of the regulation ordered in 1767",
+   "form": "Printed Hungarian column headings for the holding, plot, arable, meadow, labour and dues; handwritten rows; signatures and seals at the end of the village.",
+   "does_not_fit": "The owner dates it 1767. That is the year of the decree; the table itself carries no date in the picture.",
+   "made_by": "County commissioners, between 1767 and the early 1770s.",
+   "kept": "The Hungarian National Archives, by the archive portal's catalogue (L-020).",
+   "compared": [
+    "The column translations in a third party's article on the 1767 census, held as the owner's guide (X-027 item 2)",
+    "L-020"
+   ]
+  }
  },
  {
   "id": "D-011-08",
@@ -10326,7 +10471,18 @@
     "original": "Possessio Solymos Classis 1mae cum 20 Jug. 10 Falc. || [printed Hungarian headings: Kereszt és Vezeték Nevek | Jobbágy Helynek Minémüsége | Jobbágy Helynek Mivolta: Belső (Posonyi Mérőre való); Külső (Szántó Föld Hold; Rét Ember Vágó) | Esztendőbéli Szolgálat avagy Robot: Marhás Robot [két marhával]; Vagy E. helyett kézi Szolgálat (Nap.) | Kilenczed | Adózások: Esztendőbéli Árenda (Flor.); Tüzre való Fa (öly); Fonyás (Font); Ki főzött Vaj (Icze); Kappany; Csibe; Tojás (No.)] || Translatum 27 | 54 | 540 | 270 | 1404 | [2808] [...] || Spb. Dni Alexandri Szirmai || 30 [Pri]bski Sándor 1 | 2 | 20 | 10 | 52 | 104 || 31 Tirpak András ½ | 1 | 10 | 5 | 26 | 52 || 32 Kudrocs Tamás 1 | 2 | 20 | 10 | 52 | 104 || 33 Duska Mihály 1 | 2 | 20 | 10 | 52 | 104 | 1 | 1 | 6 | 1 | 2 | 2 | 12 || 34 Mar[cs]in András 1 | 2 | 20 | 10 | 52 | 104 || Inquil. Domicil.: 10 Dus[ch]a György – | – | – | – | – | 18 | 1 || Subinquilinus: 9 Olach György – | 12 || Dni Kovács: 35 Cs[uc]a Danko ½ | 1 | 10 | 5 | 26 | 52 || Inquil. Domic.: 11 Lukacsin János | 12 Thur Gergely || Summa 32 | 64 | 640 [...] || Coloni sunt 35. Inquilini 12. Subinquil. 9. [Educill. Mer.] 2. || [sideways] Nona in Natura exolvitur Canabe et Lino. || [signatures; one paper seal and two red wax seals]",
     "english": "The last page for Solymos. Under the lord Sándor Szirmay are five serfs, and no. 33 is Mihály Duska, with a whole holding: a house plot of 2 Pozsony measures, 20 holds of arable and 10 mowers of meadow. For it he owes 52 days of labour a year with his draught animals or 104 by hand, a florin of rent, a cord of firewood, six pounds of spun yarn, an icce of clarified butter, two capons, two chickens and twelve eggs, and the ninth of his crop paid in kind, in hemp and flax. Below him, the same lord's one housed cottar is György Duska, written 'Dus[ch]a': he has a house and no land, and owes 18 days by hand and a florin. The page closes the village: 35 serfs, 12 housed cottars, 9 sub-cottars, 32 holdings. With the two pages before it, every household head of Solymos is in hand, and these are the only two certain Duskas. The printed columns are: name; size of the holding as a fraction of a full one; house plot in Pozsony measures; arable in holds; meadow in mowers; days of labour a year with draught animals, or instead days by hand; the ninth; then yearly dues: rent in florins, firewood in cords, spinning in pounds, clarified butter in icce, capons, chickens, eggs."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A page of an urbarial table (tabella) of the regulation ordered in 1767",
+   "form": "Printed Hungarian column headings for the holding, plot, arable, meadow, labour and dues; handwritten rows; signatures and seals at the end of the village.",
+   "does_not_fit": "The owner dates it 1767. That is the year of the decree; the table itself carries no date in the picture.",
+   "made_by": "County commissioners, between 1767 and the early 1770s.",
+   "kept": "The Hungarian National Archives, by the archive portal's catalogue (L-020).",
+   "compared": [
+    "The column translations in a third party's article on the 1767 census, held as the owner's guide (X-027 item 2)",
+    "L-020"
+   ]
+  }
  },
  {
   "id": "D-006-09",
@@ -10368,7 +10524,15 @@
     "english": "A printout in French from a cemetery's records system, made on 2 January 2022. Deceased: Duska, given name written Mikalis. Date of birth 28 November 1890. Spouse: Anna Hancosek. Section FT, plot 01965. Received on 28 November 1965; a wooden coffin; the family attended the burial. The dates of death, funeral and burial all hold the value 1 January 1100, which is the system's stand-in for 'not entered'. Parents, place of death and the cemetery's own name are not on the page. The received date falls on his 75th birthday and its year repeats the plot number, so it may be a real date or a made-up one; the birth date is the only date here that can be checked, and it matches a baptism in the archive to the day: Miklós Duska, born 28 November 1890 at Szenna 6 (D-009-84)."
    }
   ],
-  "x_s": "X-S-016"
+  "x_s": "X-S-016",
+  "object": {
+   "kind": "A printout from a cemetery's computer database",
+   "form": "Three machine-printed pages in French headed 'Défunt', with field labels and stand-in dates of 1100-01-01.",
+   "does_not_fit": "The owner's second copy is labelled a 'burial'. It is a database record of a plot; it gives no burial date.",
+   "made_by": "A cemetery office's records system; printed 2 January 2022.",
+   "kept": "The cemetery's database; the paper burial register behind it is not in hand.",
+   "compared": []
+  }
  },
  {
   "id": "D-011-09",
@@ -10407,7 +10571,16 @@
     "original": "1 | 1 | Duska György | férfi | 1820 | g. kath. | nős | gazdálkod[ik] | Ma. O., Ungh, Solymos || 2 | Pl[uch]ta Zsuzsanna | nő | 1820 | g. kath. | férjes | háziasszony | [G]é[z]sény || 3 | Duska György | férfi | 1846 | g. kath. | nős | apja mellett dolgoz[ik] | Solymos || 4 | Pra[ch]onyik [?] Zsuzsa[nna] | nő | 1848 | g. kath. | férjes | u. a. | N[...] || 5 | Duska Mihály | férfi | 1869 | g. kath. | | | Solymos",
     "english": "One dwelling, one family, all Greek Catholic. György Duska, born 1820 at Solymos in Ung county, married, a farmer. Zsuzsanna, his wife, born 1820, whose surname is read Pl[uch]ta (the third party reads 'Plynhta') and whose birthplace is read as Gézsény. György Duska, born 1846 at Solymos, married, 'works beside his father'. Zsuzsanna, his wife, born 1848, surname read Pra[ch]onyik with doubt (the third party: 'Prahonyík'), birthplace beginning N and not read. Mihály Duska, born 1869 at Solymos. This is the sheet of D-006-07, here at full size. It ties to the Iňačovce Greek Catholic book: a Mihail was baptised there on 5 September [1869] to a György Dusko and a mother read at the time as [Prachovnyik?] (FG-25)."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A household sheet of the Hungarian census taken at the end of 1869",
+   "form": "Printed Hungarian form with columns for the dwelling and person numbers, name, sex, year of birth, religion, marital state, occupation and birthplace. The youngest person entered was born in 1869.",
+   "does_not_fit": "The owner's file names say 1868 on some files and 1869 on others. No census was taken in 1868 (recalled, not sourced).",
+   "made_by": "A census taker, on the household's answers, about January 1870.",
+   "kept": "Not known; no archive is named on the image.",
+   "compared": []
+  },
+  "independent": false
  },
  {
   "id": "D-011-10",
@@ -10446,7 +10619,16 @@
     "original": "1 | 1 | Prada János | férfi | 1832 | g. kath. | nős | zsellér | [Zemplén?], B[...] || 2 | Ol[á]zsik [?] Zsuzsanna | nő | 1838 | g. kath. | férjes | háziasszony | Solymos || 3 | Prada Mária | nő | 1864 | g. kath. | hajadon | | Solymos || 2 | 4 | Duska János | férfi | 1835 | Rf. | nős | szolga | Solymos || 5 | Ki[tk]a Anna | nő | 18[4]5 | Rf. | férjes | házinő [?] | [...] || 6 | Duska Mihály | férfi | 1867 | Rf. | | | Solymos",
     "english": "One dwelling, two families. The first: János Prada, born 1832, Greek Catholic cottar, born outside the village (the third party reads 'Budvár'); his wife Zsuzsanna Ol[á]zsik [?], born 1838; their daughter Mária, born 1864. The second: János Duska, born 1835 at Solymos, Reformed, married, a servant; his wife Anna, born 18[4]5, Reformed, surname read Ki[tk]a (the third party: 'Kikura'); Mihály Duska, born 1867. This is the couple of the Reformed register, János Dusko and Anna Kitko (FG-38), whose Mihály was baptised on 3 October [1867]. Their János of November [1863] is not in the household, so he had died or was elsewhere. The father's birth year fits the János baptised on 25 May [1834] to András Duska and Borbála Pluchta."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A household sheet of the Hungarian census taken at the end of 1869",
+   "form": "Printed Hungarian form with columns for the dwelling and person numbers, name, sex, year of birth, religion, marital state, occupation and birthplace. The youngest person entered was born in 1869.",
+   "does_not_fit": "The owner's file names say 1868 on some files and 1869 on others. No census was taken in 1868 (recalled, not sourced).",
+   "made_by": "A census taker, on the household's answers, about January 1870.",
+   "kept": "Not known; no archive is named on the image.",
+   "compared": []
+  },
+  "independent": false
  },
  {
   "id": "D-011-11",
@@ -10485,7 +10667,16 @@
     "original": "1 | 1 | Duska János | férfi | 1810 | Rf. | nős | gazdálkod[ik] | M. O., Ungh, Solymos || 2 | [H]ura Anna | nő | 1820 | Rf. | férjes | háziasszony | [...]ska || 3 | Duska Mihály | férfi | 1850 | Rf. | nőtlen | atyjánál [szolgál] | Solymos || 4 | Duska György | férfi | 1857 | Rf. | u. a. | | Solymos || [a red tick in the margin]",
     "english": "One dwelling, one family, all Reformed. János Duska, born 1810 at Solymos, married, a farmer. Anna, his wife, born 1820, surname read [H]ura (the third party: 'Stura'), birthplace not read. Mihály Duska, born 1850, unmarried, working for his father. György Duska, born 1857. This is the couple János Duska and Anna Hura of the Reformed register (FG-35), whose György was born on 17 July 1857. The Mihály of 1850 has no baptism strip in the archive; he is the right age to be 'Mihály Dusko the younger' who has children by Ilona Mihalko in the same house 33 from [1871]."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A household sheet of the Hungarian census taken at the end of 1869",
+   "form": "Printed Hungarian form with columns for the dwelling and person numbers, name, sex, year of birth, religion, marital state, occupation and birthplace. The youngest person entered was born in 1869.",
+   "does_not_fit": "The owner's file names say 1868 on some files and 1869 on others. No census was taken in 1868 (recalled, not sourced).",
+   "made_by": "A census taker, on the household's answers, about January 1870.",
+   "kept": "Not known; no archive is named on the image.",
+   "compared": []
+  },
+  "independent": false
  },
  {
   "id": "D-011-12",
@@ -10524,7 +10715,16 @@
     "original": "1 | 1 | Duska András | férfi | 1797 | Rf. | nős | gazdálkod[ik] | Ungh, Solymos || 2 | Sz[...] Erzsébet | nő | 1816 | R. Cth. | férjes | háziasszony | Szenna || 3 | Br[a]ny[á]k [?] András | férfi | 1857 | Rf. | nőtlen | szolga | Rebrin[y] || [a red tick in the margin]",
     "english": "One dwelling. András Duska, born 1797 at Solymos, Reformed, married, a farmer: the oldest Duska with a stated year of birth in the archive. Erzsébet, his wife, born 1816 at Szenna, Roman Catholic; her surname begins Sz and is not read (the third party: 'Szakács???'). András Br[a]ny[á]k [?], born 1857 at Rebrin, Reformed, unmarried, a servant boy of twelve. An András Duska has children by Borbála Pluchta from 1829 to 1843 (FG-34) and an András Dusko has a son by an Erzsébet in 1852 (FG-37): one man of this age would fit both."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A household sheet of the Hungarian census taken at the end of 1869",
+   "form": "Printed Hungarian form with columns for the dwelling and person numbers, name, sex, year of birth, religion, marital state, occupation and birthplace. The youngest person entered was born in 1869.",
+   "does_not_fit": "The owner's file names say 1868 on some files and 1869 on others. No census was taken in 1868 (recalled, not sourced).",
+   "made_by": "A census taker, on the household's answers, about January 1870.",
+   "kept": "Not known; no archive is named on the image.",
+   "compared": []
+  },
+  "independent": false
  },
  {
   "id": "D-011-13",
@@ -10768,7 +10968,7 @@
   "file": "kevin_duska_and_lyne_lefenbre_marriage_registry.jpg",
   "sha256": "080584784d39caa7b1e8eef0c2f3aaee0f5bb85455ec3b67973a6333297259d1",
   "wide": false,
-  "title": "Québec declaration of marriage, 11 October 1984: Kevin Duska, son of Steve Duska, and Lyne Lefebvre",
+  "title": "Québec statistical return of marriage (form SP-2), 11 October 1984: Kevin Duska, son of Steve Duska, and Lyne Lefebvre",
   "span": "11 Oct 1984",
   "language": "French",
   "collector_label": "kevin duska and lyne lefenbre marriage registry",
@@ -10800,7 +11000,17 @@
    }
   ],
   "web_file": "kevin_duska_and_lyne_lefenbre_marriage_registry_redacted.jpg",
-  "x_s": "X-S-014"
+  "x_s": "X-S-014",
+  "object": {
+   "kind": "A statistical return of marriage to the Québec government (form SP-2, 'Déclaration de mariage'), not the act of marriage",
+   "form": "Printed provincial form of the Ministère des Affaires sociales, typed, with a stamped receipt date, serial numbers and the signatures of the spouses, a witness and the official.",
+   "does_not_fit": "The owner's label, and this agent until now, called it a marriage registry or declaration of civil marriage. The act itself is in the civil register kept at the courthouse.",
+   "made_by": "The officiating official and the parties, at the Palais de Justice, Montréal, 11 October 1984.",
+   "kept": "Sent to the provincial statistics service.",
+   "compared": [
+    "Jewish Genealogical Society of Montreal, 'Guide to Quebec Marriage Records', https://www.jgs-montreal.org/marriage.html : from 1926 the provincial Department of Health required a statistical return of marriage beside the religious record; the form was later named Registration of Marriage, then Declaration of Marriage."
+   ]
+  }
  },
  {
   "id": "D-006-11",
@@ -10840,7 +11050,15 @@
     "original": "CANADA | DEPARTMENT OF MINES AND RESOURCES | IMMIGRATION BRANCH | [In your reply refer to No.] 6336[93] | OTTAWA, September 11th, 1937. || Dear Sir,— Referring to your application for the admission to Canada of your wife, Maria aged 28, and son, Stefan aged 7, citizens of Czechoslovakia, whose address is, Inacovce P.O. Mihalovce, Zupa xx, Kosicka, Czechoslovakia, I have pleasure in advising you a letter to facilitate entry under the usual conditions has today been addressed to Mrs. Duska and sent Mr. H. M. MacCallum, Steamship General Passenger Agent, Canadian Pacific Steamships, Room 282, Windsor Station, Montreal, as we have been advised transportation would be purchased from that Company. || Yours truly, [signature] District Superintendent. || Mike Duska, Esq., 1196a St. George Street, Montreal, Quebec. || [pencil, later: 'aged' ringed; 'age 7' at the foot]",
     "english": "A typed letter from the Canadian immigration service in Ottawa to Mike Duska at 1196a St. George Street, Montréal. He had applied for his wife Maria, 'aged 28', and son Stefan, aged 7, of Iňačovce, to be admitted to Canada, and the letter says the entry letter has gone to the Canadian Pacific agent at Windsor Station. So Michal Duska was settled in Montréal by September 1937 and sent for his family. The owner's file name calls this a citizenship application; it is an admission letter. Maria was in fact 31. The letter gives no age or birthplace for Mike himself."
    }
-  ]
+  ],
+  "object": {
+   "kind": "An original typed letter from a government department to a private person",
+   "form": "Printed letterhead of the Department of Mines and Resources, Immigration Branch, a file reference, a date, a signature over 'District Superintendent', and the addressee at the foot.",
+   "does_not_fit": "The owner's label calls it a citizenship application. It is the department's reply to an application for admission.",
+   "made_by": "The Immigration Branch, Ottawa, 11 September 1937.",
+   "kept": "By the addressee; the department kept its file under the number on the letter.",
+   "compared": []
+  }
  },
  {
   "id": "D-006-12",
@@ -10880,7 +11098,15 @@
     "original": "Form A 4 | No. 242299 | [stamp] SEP 17 37 | PURCHASER'S RECEIPT.—To be retained by the purchaser. | CANADIAN PACIFIC STEAMSHIPS LIMITED | RECEIPT FOR AMOUNT PAID FOR WESTBOUND PASSAGE ORDER || NAME: Mrs. Maria Duska [Age] A | Master Stefan Duska 7 || FROM Prague, Czechoslovakia | TO Canadian Port || OCEAN PASSAGE: One [full] One [half] 3rd | 119. | $178.50 || One Hundred Seventy Eight 50/100 || EUROPEAN ADDRESS: Inacovce P.O. Mihalovce, Zupa xx, Kosicka, Czechoslovakia || PAID BY Mr. Mike Duska | ADDRESS 1196a St. George Street, Montreal Que. || Agent N. C. Strange | At Montreal | Date Sept. 17th 1937 || NOT GOOD FOR PASSAGE",
     "english": "The purchaser's copy of a prepaid passage order. On 17 September 1937, in Montréal, Mr. Mike Duska of 1196a St. George Street paid $178.50 for a third-class ocean passage from Prague to a Canadian port for Mrs. Maria Duska, an adult, and Master Stefan Duska, aged 7, of Iňačovce. It was bought six days after the immigration letter."
    }
-  ]
+  ],
+  "object": {
+   "kind": "The purchaser's receipt for a prepaid westbound passage order",
+   "form": "Printed Canadian Pacific Steamships form A 4, numbered, date-stamped, typed, marked 'Not good for passage'.",
+   "does_not_fit": "The owner's label calls it a boat receipt, which is right.",
+   "made_by": "A Canadian Pacific agent at Montréal, 17 September 1937.",
+   "kept": "By the payer.",
+   "compared": []
+  }
  },
  {
   "id": "D-006-13",
@@ -10920,7 +11146,15 @@
     "original": "Čís. jed.: Nsl 446/37 / 2 || Svolenie k vysťahovaniu sa nezletilca do cudzozemska. || Poručenský úrad I. stolice v Okresný súd v Michalovciach svoluje, aby nezletilý Štefan Duško narodený dňa 23. okt. 1929 v Sennom sa vysťahoval v sprievode matky Márie Duškovej rod. Demkovej z Inačoviec až na miesto v pase určené do Canady ku pokrevnej rodine, menovite otcovi Michalovi Duškovi. || Následkom toho v smysle § 2 vlád. nariad. z 8. června 1922, čís. 170 Sb. z. a n. vyhlasuje, že matka Mária Dušková r. Demková jako sprievodca je oprávnená právoplatne podpísať dopravnú [smluvu] za poručníka. || ODÔVODNENIE. Odchod nezletilého Štefana Dušku, nar. 23. okt. 1929 v Sennom do Ameriky ku otcovi Michalovi Duškovi až na miesto v pase určené sa ... povolil, lebo to otec — matka jako poručníčka — ... žiadal, poneváč nezletilý tam u menovaného otca najde úplného zaopatrenia, lebo menovaná sprievodkyňa má výše 24 rokov, je úplne spoľahlivá a na doprevadenie nezletilého až na určené miesto písomne pod ťarchou hmotnej zodpovednosti sa zaviazala. || Okresný súd v Michalovciach, oddel. I., dňa 7. okt. 1937. | Štefan J. Kan[d]a [?] | Za správnosť vyhotovenia vedúci kancelárie [signature; seal: Okresný súd v Michalovciach] || [printed] 50. Svolenie k vysťahovaniu sa nezletilca do cudzozemska. Čís. skl. 907. Štátna kníhtlačiareň v Košiciach. || [pencil in the margin, in English, partly read: 'me, mother']",
     "english": "A printed court form, typed in. The district court at Michalovce, acting as guardianship office, file Nsl 446/37, consents on 7 October 1937 that the minor Štefan Duško, born 23 October 1929 at Senné, may emigrate in the company of his mother, Mária Dušková née Demková of Iňačovce, to Canada, to his father Michal Duško. The mother may sign the transport contract in the guardian's place. The reasons: the father asked for it, the boy will be fully provided for with him, and the escort is over 24 years old, wholly reliable, and has bound herself in writing to take him all the way. The surname is typed Duško throughout. The boy's birthday is given as 23 October; the parish certificate of 1947 has 21 October. Nothing is said of the father's age or of where in Canada he was."
    }
-  ]
+  ],
+  "object": {
+   "kind": "An issued copy of a guardianship court's consent for a minor to emigrate",
+   "form": "Printed court form no. 50 of the state printing house at Košice, typed in, with a file number, the court's round seal and the chief clerk's certificate that the copy is correct.",
+   "does_not_fit": "The owner's label calls it a permission letter, which is right in substance.",
+   "made_by": "The district court at Michalovce as guardianship office, 7 October 1937.",
+   "kept": "By the mother, to show to the emigration and shipping offices; the court kept its file.",
+   "compared": []
+  }
  },
  {
   "id": "D-006-14",
@@ -10961,7 +11195,15 @@
     "english": "The emigrant's contract with the Canadian Pacific office in Prague, no. 15621, emigration register nos. 487 and 488. Maria Dušková, 31, married, a farm worker, Czechoslovak, last living at Iňačovce, and Štefan Duška, 8, single, are to go third class by train from Prague on 8 November 1937 and by the ship Montrose from Antwerp on 11 November 1937 to Montréal. The fare is marked as paid in Canada; she paid 20 crowns of insurance on 6 November, and signs 'Marja Duskova'. The public copy of this image is cropped on the right, where an envelope bearing another person's name lay beside the sheet."
    }
   ],
-  "web_file": "maria_boat_and_train_ticket_cropped.jpg"
+  "web_file": "maria_boat_and_train_ticket_cropped.jpg",
+  "object": {
+   "kind": "An emigrant's transport contract with a shipping line",
+   "form": "Printed Czech form of the Canadian Pacific Railway office in Prague, with a contract number, emigration register numbers, the route, a table of travellers and the emigrant's signature.",
+   "does_not_fit": "The owner's label calls it a boat and train ticket. It is the contract; tickets were separate papers.",
+   "made_by": "The Canadian Pacific office, Prague, 8 November 1937.",
+   "kept": "By the emigrant.",
+   "compared": []
+  }
  },
  {
   "id": "D-006-15",
@@ -11001,7 +11243,15 @@
     "original": "[1937] 3389 | REPUBLIKA ČESKOSLOVENSKÁ | République Tchécoslovaque | CESTOVNÝ PAS | Passeport",
     "english": "The green cloth cover of the passport, numbered 3389, with the year 1937 in a box. No name on it."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A page of a Czechoslovak passport booklet stamped as an emigrant's passport",
+   "form": "Printed 32-page booklet in Slovak and French, a revenue stamp, the stamp 'Vysťahovalecký - Emigrant', a personal description, a photograph signed across, the district office's seal and Antwerp emigration stamps.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The district office at Michalovce, 1937.",
+   "kept": "By the holder.",
+   "compared": []
+  }
  },
  {
   "id": "D-006-16",
@@ -11041,7 +11291,15 @@
     "original": "1937 | 3389 | Tento cestovný pas obsahuje 32 stránok | [stamp] VYSŤAHOVALECKÝ / EMIGRANT | Číslo cestovného pasu: 305 | [revenue stamp, 8 korun] | CESTOVNÝ PAS | REPUBLIKA ČESKOSLOVENSKÁ || Meno majiteľa: Maria Dušková rod. Demková | Doprevádzaný svojou manželkou: / | a svojimi 1. deťmi | Štátna príslušnosť: československá | Domovská príslušnosť: Senné | okr. [...]: V. Kapušany",
     "english": "The name page. Passport no. 305 of 1937, stamped 'emigrant'. Holder: Maria Dušková, née Demková, travelling with one child. Citizenship Czechoslovak. Home commune: Senné, in the district of Veľké Kapušany. A married woman's home commune was her husband's, so this is where Michal Duska had his right of domicile; she herself was born and living at Iňačovce."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A page of a Czechoslovak passport booklet stamped as an emigrant's passport",
+   "form": "Printed 32-page booklet in Slovak and French, a revenue stamp, the stamp 'Vysťahovalecký - Emigrant', a personal description, a photograph signed across, the district office's seal and Antwerp emigration stamps.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The district office at Michalovce, 1937.",
+   "kept": "By the holder.",
+   "compared": []
+  }
  },
  {
   "id": "D-006-17",
@@ -11081,7 +11339,15 @@
     "original": "— 2 — | Osobný popis || Zamestnanie: roľníčka / fermière | Rodisko a datum narodenia: Iňačovce, 22. VIII. 1906 | Bydlisko: Iňačovce | Obličaj: podlhovastá / oblong | Barva očí: sivé / grise | Barva vlasov: gaštanové / châtains | Zvláštne znamenie: / || Deti: Meno Štefan | Vek 23. X. 1929 | Pohlavie mužské / mascul. || [stamp on the facing page] CANADIAN [PACIFIC] ... ANTWERP ... NOV. 1937 [E]MIGRAT[ION]",
     "english": "The description page. Occupation: farmer. Born at Iňačovce on 22 August 1906; living at Iňačovce. Face oblong, eyes grey, hair chestnut, no special marks. One child: Štefan, male, born 23 October 1929. This is the first record in this repository to give Maria Demko's day of birth. It agrees with the year on her gravestone and with the civil registration of 1906 that the Demko agent holds."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A page of a Czechoslovak passport booklet stamped as an emigrant's passport",
+   "form": "Printed 32-page booklet in Slovak and French, a revenue stamp, the stamp 'Vysťahovalecký - Emigrant', a personal description, a photograph signed across, the district office's seal and Antwerp emigration stamps.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The district office at Michalovce, 1937.",
+   "kept": "By the holder.",
+   "compared": []
+  }
  },
  {
   "id": "D-006-18",
@@ -11121,7 +11387,15 @@
     "original": "[photograph of a woman and a boy, signed across] Marja Duškova || Úradné razítko | Podpis majiteľa: Marja Duskova | a jeho manželky | Podpis úradníka vydávajúceho cestovný pas: [stamp] okresný náčelník [signature] | [seal] OKRESNÝ ÚRAD V MICHALOVCIACH || [stamps] CANADIAN PACIFIC ... ANTWERP ... [9] NOV. 1937 ... EMIGRATION",
     "english": "The photograph page. A studio portrait of a woman with her hair drawn back and a boy with a cropped head leaning against her, signed across in ink 'Marja Duškova'; the same signature below; the seal of the district office at Michalovce and the district chief's signature. Two Canadian Pacific emigration stamps of Antwerp, November 1937, show that the passport was used. The sitters are Maria Demko and her son Štefan, who died in 1950 and 2018."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A page of a Czechoslovak passport booklet stamped as an emigrant's passport",
+   "form": "Printed 32-page booklet in Slovak and French, a revenue stamp, the stamp 'Vysťahovalecký - Emigrant', a personal description, a photograph signed across, the district office's seal and Antwerp emigration stamps.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The district office at Michalovce, 1937.",
+   "kept": "By the holder.",
+   "compared": []
+  }
  },
  {
   "id": "D-011-19",
@@ -11356,7 +11630,17 @@
     "english": "House 145, owner Andrej Duška, on the night of 1 to 2 December 1930. Andrej Duška, head, born 24 November 1868 at Senné, married, a farm day-labourer who can neither read nor write. Anna, his wife, born 24 August 1872 at Senné, married on 18 January 1892, mother of twelve children of whom nine are living; she can read. Juraj, their son, born 2 March 1910, single, a day-labourer. Maria Dušková, 'daughter-in-law of the head', born 15 August 1907 at Iňačovce, Greek Catholic, married on 30 January 1927 and living in Senné since that day. Štefan Duška, 'grandson', born 23 October 1929 at Senné, Roman Catholic. Maria's husband is not in the house. This is the record that names Michal Duska's parents. Štefan, born 23 October 1929, son of a Greek Catholic Maria from Iňačovce, is the Štefan of the 1937 passport and court consent, whose father was Michal. He is entered as the grandson, and his mother as the daughter-in-law, of Andrej and Anna, married 18 January 1892: the András Duska and Anna Nyemcsik of the marriage entry D-006-03, whose son Mihály was baptised on 3 July 1903 (D-009-79). Maria's date of birth here, 15 August 1907, differs from her passport's 22 August 1906; her father-in-law, who could not read, was probably the informant."
    }
   ],
-  "x_s": "X-S-011"
+  "x_s": "X-S-011",
+  "object": {
+   "kind": "A household sheet of the Czechoslovak census of 1 December 1930",
+   "form": "Printed heading 'Sčítanie ľudu 1930 - Popisný hárok', 24 numbered columns, the district and commune written in, the statistical office's coloured pencil codes, and an archive label 'SL1930_0311'.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The census commissioner for Senné district II, on the household's answers, December 1930.",
+   "kept": "The State Statistical Office; now the Slovak National Archive.",
+   "compared": [
+    "D-011-41, the archive portal's own catalogue record for a sheet of the same box"
+   ]
+  }
  },
  {
   "id": "D-011-25",
@@ -12567,7 +12851,17 @@
     "english": "An enlarged crop of a typed passenger list of men arriving in Canada, with later notes by the immigration office. Three men in a row are from Senné, Czechoslovakia, Slovak: Andrey Dzvonik, 24; Mikulas Duska, 39; and Michal Duska, 26. The ship, the port and the date are not in the crop. Against Michal an office hand has written 'Copy on O.F. 633695' and 'Nat. 22/4/40': a copy of the entry went to file 633695, and he was naturalised on 22 April 1940. That file number is the one on the Immigration Branch letter of 1937 to Mike Duska of Montréal (D-006-11, read there as 6336[93]), so this Michal is Štefan's father. Against Mikulas: 'Nat: 21/1/46'. Between the two lines a hand has written what looks like '+ Brother'; the typed relationship column has only ditto marks under 'none'. The ages date the voyage: a man born on 3 July 1903 was 26 until July 1930, and one born on 28 November 1890 was 39 from November 1929, so they sailed between late November 1929 and early July 1930, within months of Štefan's birth. A Michal born in December 1896 would have been 33."
    }
   ],
-  "x_s": "X-S-010"
+  "x_s": "X-S-010",
+  "object": {
+   "kind": "A crop from a typed ship's passenger list for arrival in Canada, of the series of 1925 to 1935",
+   "form": "Typed lines in rough alphabetical order with numbered columns for name, relationship, age, country and place of birth, nationality and race; later ink notes of office file numbers and naturalisation dates.",
+   "does_not_fit": "The owner's label calls it a ship manifest, which is the same thing. The heading with the ship, the port and the date is not in the crop, so those are not known.",
+   "made_by": "The shipping line's staff for the Canadian immigration service, at the sailing; the ink notes by the department, 1936 to 1946.",
+   "kept": "The Department of Immigration and Colonization; now Library and Archives Canada.",
+   "compared": [
+    "Library and Archives Canada, 'Passenger Lists, 1925-1935 (RG 76 C1)', https://collectionscanada.ca/microform-digitization/006003-130-0005-e.html : the passenger list is a manifest of persons arriving at a port on a given ship and is the official immigration record."
+   ]
+  }
  },
  {
   "id": "D-011-55",
@@ -13077,7 +13371,15 @@
    }
   ],
   "web_file": "Obituary_of_Mihaily_Duska_notice_only.png",
-  "x_s": "X-S-013"
+  "x_s": "X-S-013",
+  "object": {
+   "kind": "A paid death notice in a newspaper's classified columns, not an editorial obituary",
+   "form": "Eleven lines in the fixed order of such notices: name, place and date of death, age, kin, funeral home, service, burial.",
+   "does_not_fit": "The owner's label calls it an obituary.",
+   "made_by": "The family, through the funeral home; printed 2 February 1974.",
+   "kept": "The newspaper; here as a print from a newspaper archive.",
+   "compared": []
+  }
  },
  {
   "id": "D-006-21",
@@ -13117,7 +13419,17 @@
     "original": "[printed form, Litterae Baptismales / Krstný list; top cut off] ... districtus / okres: Veľké Kapušany | in dioecesi: Satmar [...] v Košiciach | in tomo IV. pag. 110 | Anno Domini 1929 || Numerus currens: 43. | Annus, mensis et dies nativitatis: 21. októbra 1929. | ... collati s. baptismi: 26. októbra 1929. | Baptisati nomen: Štefan | sexus: mužské | legitimitas: zákonitý | Nomen parentum, eorum conditio et religio: Michal Duška, želiar, rk. Senné; Mária Demko, gk. Iňačovce. | Locus domicilii parentum et numerus domus: Senné 160. | Nomen patrinorum: Jozef Macko-Kocák, študent, gk. Michalovce; Zuzanna Bandura, rod. Hankoščák, rk. Senné | Nomen et officium baptisantis: Ján Barna, farár. | Observationes: — || Datum: Senné, die 1. mensis októbra anno 1955 [seal of the parish office]",
     "english": "A second extract of the same register entry as the certificate of 1947 (D-X01-01): Senné Roman Catholic baptisms, volume IV, page 110, entry 43 of 1929. Štefan, born 21 October 1929, baptised 26 October, legitimate son of Michal Duška, cottar, Roman Catholic, of Senné, and Mária Demko, Greek Catholic, of Iňačovce; parents' home Senné 160; godparents Jozef Macko-Kocák, student, Greek Catholic, of Michalovce, and Zuzanna Bandura née Hankoščák, Roman Catholic, of Senné; baptised by Ján Barna, parish priest. Issued at Senné on 1 October 1955, eight weeks before Štefan's wedding in Montréal. Two things it settles: the church's date is 21 October, written by two priests eight years apart, against the 23rd of the civil papers; and the godmother is clearly Zuzanna, born Hankoščák, the family of Mikuláš Duška's wife."
    }
-  ]
+  ],
+  "object": {
+   "kind": "A baptismal certificate issued by a parish office: a second extract of the same entry",
+   "form": "The same printed form as D-X01-01, filled in by a different hand, with the parish seal and the date 1 October 1955.",
+   "does_not_fit": "The owner's label calls it a 'baptism registry'. It is an extract.",
+   "made_by": "The parish office of Senné, 1 October 1955.",
+   "kept": "Sent to the applicant; family papers.",
+   "compared": [
+    "D-X01-01"
+   ]
+  }
  },
  {
   "id": "D-006-22",
@@ -13127,7 +13439,7 @@
   "file": "steve_and_joan_marriage_registry.jpg",
   "sha256": "9909482a5e1141a8618ed61d34aeb4192fe5de424902e2065f03e9a099fbf24f",
   "wide": false,
-  "title": "Québec registration of the marriage of Stephen Duska, Montréal, 26 November 1955",
+  "title": "Québec statistical return of marriage (Form E): Stephen Duska and Joan Teresa Leonard, Montréal, 26 November 1955",
   "span": "26 Nov 1955",
   "language": "English",
   "collector_label": "steve and joan marriage registry",
@@ -13159,7 +13471,17 @@
    }
   ],
   "held": "it shows a person of unknown living status with her date of birth and address, and fields from a line outside this experiment (X-022)",
-  "x_s": "X-S-015"
+  "x_s": "X-S-015",
+  "object": {
+   "kind": "A statistical return of marriage to the Québec Ministry of Health (Form E, 'Registration of Marriage'), not the act of marriage",
+   "form": "Printed provincial form headed 'Province of Quebec - Registration of Marriage - Ministry of Health', numbered, typed, signed by the parish priest.",
+   "does_not_fit": "This agent called it a civil registration. In 1955 the act of marriage was the entry in the church's own register at St. Dominic's.",
+   "made_by": "The parish priest, 26 November 1955.",
+   "kept": "Sent to the provincial Ministry of Health for statistics.",
+   "compared": [
+    "Jewish Genealogical Society of Montreal, 'Guide to Quebec Marriage Records', https://www.jgs-montreal.org/marriage.html : from 1926 the provincial Department of Health required a statistical return of marriage beside the religious record; the form was later named Registration of Marriage, then Declaration of Marriage."
+   ]
+  }
  },
  {
   "id": "D-006-23",
@@ -13169,7 +13491,7 @@
   "file": "Mike_Duska_1st_marriage_registry.jpg",
   "sha256": "17f976cdc6559afd90b2c73c815694bf42cc1a6f846082c1ae0ec765371698b0",
   "wide": false,
-  "title": "Québec registration of the marriage of Michael Duska, born 1 December 1938, Montréal, 8 December 1973",
+  "title": "Québec statistical return of marriage (Formule E): Michael Duska, born 1 December 1938, Montréal, 8 December 1973",
   "span": "8 Dec 1973",
   "language": "French",
   "collector_label": "Mike Duska 1st marriage registry",
@@ -13200,7 +13522,17 @@
     "english": "The provincial registration of a marriage at the church of St-Alphonse d'Youville, Montréal, on 8 December 1973, after banns. The groom is Michael Duska, inspection manager, single, 35, born in Montréal on 1 December 1938, Roman Catholic, a Canadian citizen. The bride is Marie-Claire-Francine Quenneville, born in 1949; her status is not known, so she is given by name and year only and the image is held. The owner states that the groom, his great-uncle 'Mike Jr', has died (S-000-12). A boy born in Montréal on 1 December 1938 fits a couple reunited there in November 1937, and eight weeks after this wedding the death notice of Mike Duska, Sr., names a son Mike. One thing on the form is wrong on any reading: the groom's ethnic origin is typed 'Indou' and his father's birthplace 'Inde', Hindu and India. His father was born at Senné. That he is the son of Michal Duska and Maria Demko is held at 75 in 100 (H-071): the form does not name his parents."
    }
   ],
-  "held": "it shows a person born in 1949 whose status is not known, with her date of birth and address (X-016)"
+  "held": "it shows a person born in 1949 whose status is not known, with her date of birth and address (X-016)",
+  "object": {
+   "kind": "A statistical return of marriage to the Québec Ministry of Health (Formule E, 'Enregistrement de mariage'), not the act of marriage",
+   "form": "The French version of the form in D-006-22, typed, stamped 20 December 1973, signed by a Redemptorist priest.",
+   "does_not_fit": "As for D-006-22. A return typed for statistics explains how the groom's origin could be entered as 'Indou' without anyone correcting it.",
+   "made_by": "The officiating priest, 8 December 1973.",
+   "kept": "Sent to the provincial Ministry of Health.",
+   "compared": [
+    "Jewish Genealogical Society of Montreal, 'Guide to Quebec Marriage Records', https://www.jgs-montreal.org/marriage.html : from 1926 the provincial Department of Health required a statistical return of marriage beside the religious record; the form was later named Registration of Marriage, then Declaration of Marriage."
+   ]
+  }
  },
  {
   "id": "D-006-24",
@@ -13279,8 +13611,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Henrich Schwarcz, general merchant, Jewish, born 15 June 1902 at Vysoká nad Uhom, in Čičarovce since 9 May 1929; his wife Regina, born 16 May 1906 at Čičarovce, married 1929; their son Béla, born 1930."
    }
-  ],
-  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+  ]
  },
  {
   "id": "D-011-68",
@@ -13397,8 +13728,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Sándor Kocsis, farmer, Roman Catholic, Hungarian, born 30 [December] 1900, in the village since 8 October 1919; his wife Mária, born 2 April 1898 at Čičarovce, married October 1919; children Erzsébet (14 June 1922) and Albert (born 1930); his mother-in-law Mária Szotak, widow, born 5 May 1873. The owner's label calls the head 'unknown'."
    }
-  ],
-  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+  ]
  },
  {
   "id": "D-011-71",
@@ -13437,8 +13767,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Ján Kňežo, Greek Catholic, born 10 February 1881; his wife Anna, Roman Catholic, born 5 February 1881, married 6 May 1900. A second household: Ján Kňežo, born 9 December 1906, and his wife Alžbeta, born 14 October 1909 at Porostov, married 25 October 1928; the grandmother Anna Kňežo, widow, born 28 May 1850, married 12 September 1868, widowed September 1928. A sixth row was not read."
    }
-  ],
-  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+  ]
  },
  {
   "id": "D-011-72",
@@ -13516,8 +13845,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Pavel Kniežo the younger, Reformed, born 20 February 1871; his wife Zuzana, born 15 August 1877, married 10 February 1895. A second household: Ján Kniežo, born 8 July 1897; his wife Mária née Eštok, born 1 January 1900, married 19 April 1920; their son Ján, born 13 October 1926. A sixth row was not read."
    }
-  ],
-  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+  ]
  },
  {
   "id": "D-011-74",
@@ -13556,8 +13884,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Ján Kniežo, also called Kontra, Reformed, born 13 March 1886; his wife Anna, born 26 November 1894 at Blatné Remety [?], married 21 February 1911; children Štefan (3 September 1921), Andrej (5 January 1925) and Anna (born 1927). A sixth row was not read."
    }
-  ],
-  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+  ]
  },
  {
   "id": "D-011-75",
@@ -13713,8 +14040,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Ján Kňežo, Reformed, born 15 June 1881; his wife Anna, born 14 December 1885, married 15 July 1902. A second household: Ján Tomovčík, born 8 February 1903 at Jastrabie; his wife Maria, born 8 February 1908, married 10 September 1925; their son Ján, born 25 October 1926. A sixth row was not read."
    }
-  ],
-  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+  ]
  },
  {
   "id": "D-011-79",
@@ -13792,8 +14118,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Ján Kňežo, Reformed, born 5 December 1900; his wife Anna, born 24 December 1904 at Blatné Remety, married 8 September 1919; daughters Anna (10 May 1924) and Maria (16 May 1926); his mother Anna, widow, born 25 December 1870 at Hažín, married 10 June 1890, widowed 17 November 1922, ten children, eight living. A sixth row was not read."
    }
-  ],
-  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+  ]
  },
  {
   "id": "D-011-81",
@@ -13832,8 +14157,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Maria Adamová, born 23 October 1882, married 1 October 1900; her son-in-law Michal Kočiš, born 12 April 1906; her daughter Maria Kočišová, born 27 January 1913, married 18 June 1929; a grandson Michal Kočiš, born 1930."
    }
-  ],
-  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+  ]
  },
  {
   "id": "D-011-82",
@@ -13989,8 +14313,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Juraj Kniežo, Reformed, born 5 March 1896; his wife Anna, born 16 April 1894, married 9 May 1921; daughters Anna (26 February 1922) and Maria (born 1929); his father Michal Kniežo, widower, born 22 July 1857. A seventh row was not read."
    }
-  ],
-  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+  ]
  },
  {
   "id": "D-011-86",
@@ -14107,8 +14430,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Michal Kniežo, Reformed, born 17 September 1899; his wife Anna, born 31 March 1901 at Hažín, married 17 May 1919; Michal (24 May 1923) and Anna (12 May 1926); his mother Anna, widow, born 19 March 1869, married 17 February 1891, widowed 23 July 1907. Any rows below the fifth were not read."
    }
-  ],
-  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+  ]
  },
  {
   "id": "D-011-89",
@@ -14147,8 +14469,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Mária, wife of János Kocsis, née Barancsák, head of the household, born 14 [March] 1895; children János (1916), Ilona (16 April 1919), Mária (17 September 1921), Gyula (14 August 1924). A sixth row was not read. The columns to the right are mostly empty on this sheet."
    }
-  ],
-  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+  ]
  },
  {
   "id": "D-011-90",
@@ -14304,8 +14625,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "János Kocsis, born 16 June 1888, in the village since January 1928; his wife Barbara, born 2 February 1889, ten children, three living; Albert (1918), Maria (22 September 1920), János (20 November 1922). Any further rows were not read."
    }
-  ],
-  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+  ]
  },
  {
   "id": "D-011-94",
@@ -14344,8 +14664,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Zuzana Hrešková née [V]ircíková, widow, Reformed, born 18 January 1876 at Palín, married 23 November 1896, widowed 18 February 1929, eight children, two living; daughters Alžbeta (14 December 1906, divorced in 1928), Barbara Kováčová (23 October 1910, divorced in 1929) and Helena (9 June 1915); a granddaughter Jolana Kováčová, born 1929. A sixth row was not read."
    }
-  ],
-  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+  ]
  },
  {
   "id": "D-011-95",
@@ -14384,8 +14703,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Ján Hreško, Roman Catholic, born 3 April 1877 at Veľké Kapušany, in Pavlovce since March 1901; his wife Maria, born 12 September 1882, married March 1901, six children, one living by the form; Ján (October 1911), Maria (14 May 1915), Andrej (5 December 1917). A sixth row was not read."
    }
-  ],
-  "held": "its lower rows were not read in this pass and may show a person born after 1926"
+  ]
  },
  {
   "id": "D-011-96",
@@ -14463,8 +14781,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "The owner is Sándor Kocsis (the label says János): born 1894; his wife Juliana, born 1897, married 9 November 1913; children Ilona (1914), András (1919), Ilona (9 February 1923), Sándor (born 1927) and Margit (born 1929). Roman Catholic, Hungarian."
    }
-  ],
-  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+  ]
  },
  {
   "id": "D-011-98",
@@ -14620,8 +14937,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Andrej Hreško, Roman Catholic, born 24 November 1872; his wife Maria, born 20 May 1876, married 15 October 1895; a daughter-in-law Anna, born 6 November 1908, married 27 November 1927; a daughter Zuzana, born 8 August 1910; a granddaughter Anna, born 1928."
    }
-  ],
-  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+  ]
  },
  {
   "id": "D-011-102",
@@ -14816,8 +15132,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Andrej Demko, Greek Catholic, born 20 April 190[9]; his wife Anna, Roman Catholic, born 11 November 1910, married 1928; a son Andrej, born 1929; his mother Maria Demková, widow, born 15 July 1863, married in the 1880s, widowed December 1929, five children, two living."
    }
-  ],
-  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+  ]
  },
  {
   "id": "D-011-107",
@@ -15012,8 +15327,7 @@
     "original": "[not transcribed line by line in this pass]",
     "english": "Štefan Hreško, Roman Catholic, born 3 November 1882; his wife Anna, born 20 October 1879; a son-in-law Jozef Bálint, born 6 June 1906, and daughter Anna Bálintová, born 10 November 1908, married 1928; a granddaughter Anna, born 1930; a son Štefan, born 20 October 1912. The owner numbered two files '7'."
    }
-  ],
-  "held": "it shows a person born after 12 November 1926 whose status is not known (X-016)"
+  ]
  },
  {
   "id": "D-011-112",
@@ -15092,6 +15406,17 @@
     "original": "320 | 45 szám. | Kelt: Alsókányán, 1906 (ezer kilenczszázhatodik) évi augusztus hó 23 (huszonharmadik) napján. | Megjelent az alulírott anyakönyvvezető előtt az alább nevezett atya ... a kit alantírt anyakönyvvezető személyesen ismer || A törvényes atya: Demkó Mihály | vallása: görög katholikus | állása: földmívelésű napszámos | lakóhelye: Solymos | születéshelye: Magasrév | életkora: 24 (huszonnégy) éves || Az anya: Demkó Mihályné született Kocsis Mária | görög katholikus | lakóhelye: Solymos | születéshelye: Solymos | életkora: 20 (husz) éves || A születés helye: Solymos | ideje: 1906 évi augusztus hó 22 napjának délelőtt 9 órája || A gyermek neme: leány | vallása: görög katholikus | utóneve: Mária || Felolvastatván tót nyelven megmagyaráztatott, helybenhagyatott és aláíratott. | [...] József, anyakönyvvezető | Demko Mihály, bejelentő",
     "english": "A state civil registration of birth on green printed paper: page 320, entry 45, made at Alsókánya on 23 August 1906. The father appeared in person and was known to the registrar. Father: Mihály Demkó, Greek Catholic, farm day-labourer, living at Solymos, born at Magasrév, aged 24. Mother: his wife, born Mária Kocsis, Greek Catholic, living and born at Solymos, aged 20. A girl, Mária, Greek Catholic, born at Solymos on 22 August 1906 at nine in the morning. Read out and explained in Slovak; signed by the registrar and by Demko Mihály. This is the birth of Maria Demko, Ahn 9: the date is the one in her passport of 1937. The coordinator asked this agent to read the record itself before relying on it further. It was read here after the Demko agent's transcription had been seen, by this agent's own mistake in the order of work, so this is a check of that reading and not an independent one. The two agree in every field."
    }
-  ]
+  ],
+  "object": {
+   "kind": "An entry in a state civil register of births, on the form in use before 1907",
+   "form": "Printed Hungarian form on green patterned paper, page 320, entry 45, with printed prompts for the informant, father, mother, birth and child, a handwritten closing, and the signatures of the registrar and the informant.",
+   "does_not_fit": "Nothing. The image shows no stamp, shelf mark or archive name, so which of the register's copies this is cannot be told from it.",
+   "made_by": "The state registrar at Alsókánya, 23 August 1906, on the father's word.",
+   "kept": "The original with the registry office; a copy with the county, which for Ung county sat at Ungvár (Uzhhorod).",
+   "compared": [
+    "FamilySearch, 'Hungary, Civil Registration, 1895-1980', https://www.familysearch.org/en/search/collection/1452460 : state registration began on 1 October 1895; the originals stay with each registry office and copies go to the county archives; the forms changed in 1907."
+   ]
+  },
+  "independent": false
  }
 ]

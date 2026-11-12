@@ -736,5 +736,17 @@
   "date": "2026-11-12",
   "decided": "Documents carry the coordinator's crosswalk number in a new optional field `x_s`. RQ-11 is entered as R-018. H-048 is tagged X-Q-06.",
   "why": "Ledger v20, crosswalk and request queue."
+ },
+ {
+  "id": "DEC-124",
+  "date": "2026-11-12",
+  "decided": "Read ledgers v21 and v22. X-029, X-030 and X-031 adopted as rule 33. The eighteen census sheets held under DEC-118 are published. Requests R-011 and R-017 are set to 'waiting'. Notes to the coordinator carry only a statement by the owner, an exposure, or a question about a person who may be living.",
+  "why": "X-016's table (villagers on the census sheets: dead, on the owner's statement), the request queue's new heading, and X-030 item 2."
+ },
+ {
+  "id": "DEC-125",
+  "date": "2026-11-12",
+  "decided": "Each direct-line document that is not a plain register strip carries a new field `object` (kind, form, does_not_fit, made_by, kept, compared). Three documents are retitled as statistical returns and one as a deed of sale. Readings made after another's are marked `independent: false` (D-X01-04; D-011-09 to -12).",
+  "why": "X-031 items 1 to 5; X-012 and X-027 as restated in v21. No fact taken from the retitled papers changes: a return made at the ceremony and signed by the parties is still first-hand for what it states."
  }
 ]

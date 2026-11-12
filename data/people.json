@@ -35,7 +35,7 @@
    "S-249",
    "S-000-10"
   ],
-  "note": "Born in Montréal by his son's statement (S-000-5). That puts his father, Ahn 4, in Montréal by 1962. A Québec declaration of marriage of 1984 names his father as Steve Duska, born in Czechoslovakia, who also signs as a witness (S-249; image held). The link to Ahn 4 no longer rests on a statement alone. The bride of 1984 was Lyne Lefebvre, born in Montréal in 1964, Kevin's mother, who has died by his statement (S-000-10). She is named here as his wife; her own line is outside this rebuild. Named as the grandson Kevin in Mike Duska's death notice of 1974 (D-006-20).",
+  "note": "Born in Montréal by his son's statement (S-000-5). That puts his father, Ahn 4, in Montréal by 1962. A Québec statistical return of marriage of 1984 names his father as Steve Duska, born in Czechoslovakia, who also signs as a witness (S-249; image held). The link to Ahn 4 no longer rests on a statement alone. The bride of 1984 was Lyne Lefebvre, born in Montréal in 1964, Kevin's mother, who has died by his statement (S-000-10). She is named here as his wife; her own line is outside this rebuild. Named as the grandson Kevin in Mike Duska's death notice of 1974 (D-006-20).",
   "owner": "Duska",
   "living_basis": "Kevin does not know whether his father is living (ledger v8, X-016). Shown by name and year only."
  },
@@ -200,13 +200,27 @@
    "S-213",
    "S-140"
   ],
-  "note": "Roman Catholic servant, then cottar and day-labourer of Senné: houses 73, 92, 79, 98, 138 and, in 1930, 145. Married Anna Nyemcsik on 18 January 1892. Father of Michal by the census of 1930 and the baptism of 1903. Could not read or write. Son of György Duska and Anna Krak by his marriage entry (D-006-03). A death date of 22 August 1940 is noted beside a baptism of [1868] with those parents (D-009-06); the day of that baptism is not on the strip.",
+  "note": "Roman Catholic servant, then cottar and day-labourer of Senné: houses 73, 92, 79, 98, 138 and, in 1930, 145. Married Anna Nyemcsik on 18 January 1892. Father of Michal by the census of 1930 and the baptism of 1903. Could not read or write. Son of György Duska and Anna Krak by his marriage entry (D-006-03). A death date of 22 August 1940 is noted beside a baptism of [1868] with those parents (D-009-06); the day of that baptism is not on the strip. At his marriage in 1892 he was living at Hrabó, a farmstead of Senné.",
   "owner": "Duska",
   "death": {
    "date": "22 Aug 1940 [?]",
    "place": null
   },
-  "living_basis": "Born 1868."
+  "living_basis": "Born 1868.",
+  "residence": [
+   {
+    "date": "1892",
+    "place": "Hrabó (Hrabov), a farmstead of Senné"
+   },
+   {
+    "date": "1893 to 1907",
+    "place": "Senné, house 73 and others"
+   },
+   {
+    "date": "1930",
+    "place": "Senné, house 145"
+   }
+  ]
  },
  {
   "id": "P-017",

@@ -429,7 +429,7 @@
  {
   "id": "H-014",
   "statement": "Maria Demko was born after 1 October 1895, and the record in Uzhhorod is the county copy of a civil birth registration, not a church book.",
-  "confidence": 60,
+  "confidence": 70,
   "basis": "Hungary began civil registration in October 1895 and second copies went to the county seat, which for Ung county was Ungvár. That explains an Uzhhorod location for a village now in Slovakia. Rival to H-006. This rule is recalled from training, not sourced (X-010); it can only suggest a test.",
   "test": "Maria's year of birth; the fond and series title of the Uzhhorod record.",
   "status": "open",
@@ -446,6 +446,11 @@
     "batch": "B-026",
     "effect": "no change",
     "note": "The Demko agent reports (DM→DU-011) a statement by the owner in its chat that the 1906 civil registration is 'ostensibly from Uzhhorod'. Given, not rebuilt; scored by the coordinator as given."
+   },
+   {
+    "batch": "B-040",
+    "effect": "raised from 60 to 70",
+    "note": "The 1906 record is, by its form, an entry in a state civil register, and a published description of that record series says the originals stayed with the registry office and copies went to the county archives. Ung county's seat was Ungvár. So a copy of this entry at Uzhhorod is what the system would produce. The reason no longer rests on recall. The image itself names no archive, so the cap holds."
    }
   ],
   "question": "X-Q-01"
@@ -1349,6 +1354,11 @@
     "batch": "B-039",
     "effect": "solved, from 70 to 90",
     "note": "The marriage entry of 18 January 1892 (D-006-03) is in hand as an image with its page and entry number, and the Places agent's confirmed holdings entry gives the volume: Prešov state archive, church registers no. 1092, FamilySearch catalogue 710997. The census of 1930 gives the same marriage date for Andrej and Anna Duška, so the entry is theirs, and it names all four parents. The baptism strip of [1868] still shows no day, so the death date of 1940 stays marked with a query."
+   },
+   {
+    "batch": "B-040",
+    "effect": "no change",
+    "note": "On a second look at the marriage register's form, the groom's residence reads 'Hrabó', the farmstead Hrabov of Senné. The parents' names are as read."
    }
   ],
   "question": "X-Q-06"
@@ -1533,6 +1543,11 @@
     "batch": "B-039",
     "effect": "no change",
     "note": "Anna Krak is now on the tree as Ahn 33. Which baptism is hers is still open."
+   },
+   {
+    "batch": "B-040",
+    "effect": "no change",
+    "note": "The word after Anna Krak's name in the 1892 entry reads 'Deba' [?] on a second look, 'I[sk]e' [?] on the first. Neither is Sztára or Jesztreb. It is in the column for the parents' origin."
    }
   ]
  },
@@ -1554,6 +1569,11 @@
    },
    {
     "batch": "B-039",
+    "effect": "no change",
+    "note": "As for H-055."
+   },
+   {
+    "batch": "B-040",
     "effect": "no change",
     "note": "As for H-055."
    }
@@ -1669,6 +1689,11 @@
     "batch": "B-036",
     "effect": "no change",
     "note": "Štefan's godmother in 1929 was Zuzanna Bandura née Hankoščák of Senné (D-006-21): the Hankoščák family stood close to both Duska households. Mike Duska was buried in Côte-des-Neiges cemetery; whether plot FT 01965 is there is still not shown."
+   },
+   {
+    "batch": "B-040",
+    "effect": "no change",
+    "note": "The cemetery paper is a database printout, not a burial register. Its stand-in dates are a property of the object."
    }
   ]
  },
@@ -1804,6 +1829,11 @@
     "batch": "B-034",
     "effect": "no change",
     "note": "No 1940 sheet for house 145 is in the folder. By then Maria and Štefan were in Montréal."
+   },
+   {
+    "batch": "B-040",
+    "effect": "no change",
+    "note": "The passenger list is the official record of arrival and its heading would give the ship and date; only a crop is in hand."
    }
   ]
  },
@@ -1895,6 +1925,11 @@
     "batch": "B-038",
     "effect": "raised at 75",
     "note": "Above the usual 70 because two independent originals bear on it; not higher, because neither names his parents."
+   },
+   {
+    "batch": "B-040",
+    "effect": "no change",
+    "note": "The 1973 paper is a statistical return, not the church's act of marriage. A return did not ask for the parents' names; the register at St-Alphonse d'Youville would have them. The test is reworded accordingly."
    }
   ]
  }

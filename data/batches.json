@@ -1806,6 +1806,22 @@
   "sources_added": [
    "S-288"
   ],
+  "committed_utc": "2026-11-12T13:07:49Z"
+ },
+ {
+  "id": "B-040",
+  "date": "2026-11-12",
+  "title": "Ledger v22: what kind of object is each document",
+  "folder": null,
+  "files": 0,
+  "blurb": "Read ledger v22, and v21 before it. Version 21 is a rewrite that makes the ledger short and adds two rules: the owner's word in this chat beats the ledger, and the coordinator no longer keeps a copy of this board. Its table of who is living counts the villagers on the census sheets as dead on the owner's word, so the eighteen sheets held last time are released. It also says the owner hands over his folders by kind, baptisms, then census, then deaths, then marriages; two requests for marriages and burials are changed from asked-for to waited-for. Version 22 adds one rule of method: before relying on a document, say what kind of object it is from its form. That was done for every paper on the direct line that is not a plain register strip, 34 documents, each with its form, what does not fit, who made it and where such a paper was kept. Three papers change their name. The Québec forms of 1955, 1973 and 1984, called marriage registrations here until now, are statistical returns that the officiant sent to the government; the act of marriage was the church's or the courthouse's own register, which is not in hand. Nothing they say is withdrawn, but it explains why none names the couple's parents. The 1966 paper is one page of a deed of sale, whatever its label says about a guardianship. The 1906 birth record is a state register entry, and a published account of that series says copies went to the county archive, which raises the county-copy explanation for Uzhhorod to 70. A second look at the 1892 marriage register found the groom's address: Hrabó, the manor farm of Senné. Curiosities: 2",
+  "raised": [],
+  "resolved": [],
+  "revised": [
+   "H-014"
+  ],
+  "people_added": [],
+  "sources_added": [],
   "committed_utc": null
  }
 ]

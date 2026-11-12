@@ -807,5 +807,27 @@
   "translation": "Having been read out, it was explained in the Slovak language, approved and signed",
   "why": "One handwritten phrase records which language the family actually spoke in 1906.",
   "tone": "history"
+ },
+ {
+  "id": "C-090",
+  "doc": "D-006-03",
+  "source": "S-231",
+  "title": "The groom from the manor farm",
+  "text": "In the column for the groom's house number the priest wrote a word instead: Hrabó. Thirty-eight years later the census lists Hrabov as a farmstead of Senné with one house and ten people. András Duska, a cottar's son, was living on the estate farm as a hand when he married, and his first child's baptism the next year calls him a servant.",
+  "original": "Duska András zsellér | Szenna | Hrabó | r.k. | 24 éves | nőtlen",
+  "translation": "András Duska, cottar; of Szenna; living at Hrabó; Roman Catholic; 24; single",
+  "why": "A word misread for two batches as a doubtful house number turns out to be an address.",
+  "tone": "history"
+ },
+ {
+  "id": "C-091",
+  "doc": "D-006-22",
+  "source": "S-276",
+  "title": "Two records of one wedding",
+  "text": "From 1926 a Québec priest who married a couple wrote the wedding twice: once in his parish register, which was the legal act, and once on a government form for the Department of Health, which wanted numbers. The form asked for origin, citizenship and the fathers' birthplaces, and nobody's parents' names. The three 'marriage registries' in this archive are all the second kind.",
+  "original": "PROVINCE OF QUEBEC — REGISTRATION OF MARRIAGE — MINISTRY OF HEALTH",
+  "translation": "(English)",
+  "why": "It is why these forms are rich in birthplaces and silent on parents, and why one of them could say 'India'.",
+  "tone": "history"
  }
 ]
