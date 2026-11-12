@@ -1950,5 +1950,23 @@
     "note": "A reading against the owner's label (X-004). If his tree places a Sándor Duska at Uzhhorod, this rebuild does not."
    }
   ]
+ },
+ {
+  "id": "H-073",
+  "statement": "The Duška household that owns a house at Senné in 2022 descends from the Roman Catholic Duskas of the Senné registers, and so is kin to this line.",
+  "confidence": 50,
+  "basis": "Surname and village. Every Duska household found at Senné from 1866 to 1940 is in those registers, and the census of 1940 still shows three Duška houses. Against: nothing names this man's parents, and a family could have moved in after 1940.",
+  "test": "His parents' names, from a source that is public and not about a living person's private life; failing that, the 1930 and 1940 sheets for the house the family held then.",
+  "status": "open",
+  "raised": "B-042",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-042",
+    "effect": "raised at 50",
+    "note": "Raised from surname and place alone. The owner's filing of the print-out under 'Duska … Land' is a prior (PR-16) and adds nothing."
+   }
+  ]
  }
 ]

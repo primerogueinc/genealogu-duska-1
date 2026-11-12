@@ -766,5 +766,17 @@
   "date": "2026-11-12",
   "decided": "Folder F-011 closed at 113 documents on the owner's word.",
   "why": "S-000-13; rule 1."
+ },
+ {
+  "id": "DEC-129",
+  "date": "2026-11-12",
+  "decided": "The land register print-out is held: not copied into the repo, given names, maiden name, birth dates, house number and parcel numbers withheld, the file name written with NAME_WITHHELD. Public: the surname, the two years of birth, the village, what the property is and how it is held.",
+  "why": "X-016: born less than 100 years ago, no death stated; a record that shows more than name, year and place is held. The house and parcel numbers are the address of people who may be living."
+ },
+ {
+  "id": "DEC-130",
+  "date": "2026-11-12",
+  "decided": "Folder F-012 entered as complete at one file, on the owner's words 'one file'; his 'non-exhaustive' is recorded in the folder note.",
+  "why": "Rule 1."
  }
 ]

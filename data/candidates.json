@@ -7128,5 +7128,18 @@
   "relation": "D-011-113. Brother-in-law of Šandor Durkota.",
   "route": "places",
   "route_note": ""
+ },
+ {
+  "id": "K-600",
+  "name": "[given name withheld] Duška",
+  "vitals": "b. 1953; of Senné in 2022",
+  "proof": "documented",
+  "sources": [
+   "S-290"
+  ],
+  "relation": "D-012-01. Joint owner with his wife (b. 1957) of a house and garden at Senné, bought in the 1980s. Status unknown: name, year and village only (X-016). Whether he is of the families in the Senné registers is H-073.",
+  "route": "duska",
+  "route_note": "",
+  "living": "unknown"
  }
 ]

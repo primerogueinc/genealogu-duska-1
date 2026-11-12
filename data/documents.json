@@ -15469,5 +15469,53 @@
     "D-011-24, a sheet of the census of 1930, which has 24 columns and no 1914 question"
    ]
   }
+ },
+ {
+  "id": "D-012-01",
+  "folder": "F-012",
+  "batch": "B-042",
+  "source": "S-290",
+  "file": "Senne_-_Parcel_11_-_NAME_WITHHELD_Duska.pdf",
+  "sha256": "789252d513f2d26a1e24565761e049592b0c85c227348f7efd9d6941be653138",
+  "held": "A print-out from a land register naming two owners born in 1953 and 1957, with their full birth dates, house number and parcel numbers. No death is stated for either, so their status is unknown (X-016): the file is not in the repo and a given name in its file name is withheld.",
+  "wide": false,
+  "title": "Slovak land register, ownership sheet no. 11, Senné, as of 10 May 2022: a house and garden owned by a couple named Duška",
+  "span": "printed 11 May 2022; state of the register on 10 May 2022",
+  "language": "Slovak",
+  "collector_label": "Senne - Parcel 11 - [given name withheld] Duska",
+  "family": null,
+  "route": "places",
+  "part": null,
+  "provenance": {
+   "archive": "Úrad geodézie, kartografie a katastra Slovenskej republiky (the Slovak land register office), by the heading of the print-out",
+   "fond_or_film": "Kataster nehnuteľností; district Michalovce, commune and cadastral area Senné",
+   "book": "List vlastníctva (ownership sheet) no. 11",
+   "page_or_image": "three pages",
+   "obtained": "From the owner's desktop folder 'Duska Contemporary Land', sent through chat. A PDF made by the register's online service on 11 May 2022 at 06:04."
+  },
+  "entries": [
+   {
+    "no": "ownership sheet 11",
+    "date": "10 May 2022",
+    "from": "Land register extract for information (a print-out of the current register, not a certified copy)",
+    "abstract": "Part A, the property: two parcels on the cadastral map, a built-up plot with yard of 203 square metres carrying a family house, and a garden of 821 square metres, both inside the built-up area of Senné and both in a protected mineral-deposit area. Part B, the owners: one entry, a husband and wife named Duška, he born in 1953 and she in 1957, living in the house, owning the whole as joint marital property; title by purchase, with file references of 1982 and 1988. No administrator, tenant or other entitled person. Part C: no charges. Withheld here: both given names, her maiden name, both birth dates, the house number and the parcel numbers.",
+    "reading": "high (a typed text layer)"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Headings only; the body is withheld because it identifies two people who may be living and their home.",
+    "original": "Úrad geodézie, kartografie a katastra Slovenskej republiky. VÝPIS Z KATASTRA NEHNUTEĽNOSTÍ. Okres: 807 Michalovce. Obec: 523054 Senné. Katastrálne územie: 855171 Senné. Dátum vyhotovenia: 11.5.2022. Údaje platné k: 10.5.2022 18:00:00. Výpis je nepoužiteľný na právne úkony. VÝPIS Z LISTU VLASTNÍCTVA č. 11. ČASŤ A: MAJETKOVÁ PODSTATA … ČASŤ B: VLASTNÍCI A INÉ OPRÁVNENÉ OSOBY … BSM … Titul nadobudnutia: tit. kúpy … ČASŤ C: ŤARCHY. Bez tiarch.",
+    "english": "Office of Geodesy, Cartography and Cadastre of the Slovak Republic. Extract from the land register. District: Michalovce. Commune and cadastral area: Senné. Made on 11 May 2022; data valid on 10 May 2022 at 18:00. 'This extract cannot be used for legal acts.' Extract from ownership sheet no. 11. Part A: the property. Part B: owners and other entitled persons; 'BSM' (joint property of spouses); title of acquisition: purchase. Part C: charges: none."
+   }
+  ],
+  "object": {
+   "kind": "An extract for information from the Slovak land register: an ownership sheet (list vlastníctva), not a parcel",
+   "form": "A three-page PDF with a text layer, headed with the register office's name, the district, commune and cadastral area with their code numbers, the date and time of making to the second, and the line 'Výpis je nepoužiteľný na právne úkony' on every page. Three lettered parts: A the property, B the owners, C the charges, with legends for the code numbers. No seal, stamp or signature.",
+   "does_not_fit": "The owner's file name says 'Parcel 11'. Eleven is the number of the ownership sheet; the two parcels have other numbers. The name in his file name is the first owner only; the sheet names a couple.",
+   "made_by": "The register's online service, on request, 11 May 2022.",
+   "kept": "The register is the office's live database; a print-out like this is whatever the person who asked for it kept. The title deeds behind it are in the office's collection of documents (recalled, not sourced).",
+   "compared": []
+  }
  }
 ]

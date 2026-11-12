@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-041 (read ledger v22). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-042 (read ledger v22). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -24,6 +24,7 @@ Updated 2026-11-12 after batch B-041 (read ledger v22). Requests R-001 to R-011 
 - F-010 `Baptisms (Final) Stare` (1 file, complete): baptism of an Anna Krak at Sztára, January 1848. Whether she is György Duska's wife is open (H-055, 20; rival H-056, 35).
 - F-011 `Duska Census` (sixteen parts, 112 files, OPEN; part 2 is four census sheets of Solymos, [1869]): urbarial tables of Solymos (complete), Szenna (25 of 26 serfs), Csicser and Viszoka (one page each). Two Duskas at Solymos, none at Szenna. Five files of the owner's making are held unopened and one third-party transcription is unpublished.
 - F-011 `Duska Census` (seventeen parts, 113 documents, COMPLETE at B-041): the last part is a 1921 census sheet for Nižní Domanince, a Durkota household, not Duska (H-072). Fourteen files of the owner's making are held unopened in all; five more were opened and are link lists and counts (L-024, L-025).
+- F-012 `Duska Contemporary Land` (1 file, complete, HELD): a 2022 land register print-out for a house at Senné owned by a couple named Duška, born 1953 and 1957. Names, dates and numbers withheld (X-016).
 
 ## Concluded
 

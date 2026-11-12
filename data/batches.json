@@ -1841,6 +1841,24 @@
    "S-289",
    "S-000-13"
   ],
+  "committed_utc": "2026-11-12T21:35:12Z"
+ },
+ {
+  "id": "B-042",
+  "date": "2026-11-12",
+  "title": "A new folder: present-day land at Senné, one file, held",
+  "folder": "F-012",
+  "files": 1,
+  "blurb": "A new folder, 'Duska Contemporary Land', with one file; the owner says it is not exhaustive and that the Places agent may want to know of it. It is a print-out from the Slovak land register made on 11 May 2022: ownership sheet number 11 for Senné, which lists a family house with its yard and a garden, a little over a thousand square metres together, inside the village. The owners are a married couple named Duška, born in 1953 and 1957, who hold it jointly and bought it in the 1980s; nothing is charged against it. The owner's file name calls it 'Parcel 11'. Eleven is the number of the ownership sheet, and the parcels have other numbers. Both owners were born less than a hundred years ago and nothing says they have died, so under the rules of this experiment the file is held: their given names, birth dates, house number and parcel numbers are not published, and the file name is written with the given name withheld. Whether this household descends from the Duskas of the Senné registers is raised as a question (H-073, 50); surname and village are all that tie them so far. The owner has been asked whether the two are living. Curiosities: 1",
+  "raised": [
+   "H-073"
+  ],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-290"
+  ],
   "committed_utc": null
  }
 ]

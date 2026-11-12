@@ -172,5 +172,18 @@
   ],
   "archive_path": "records/F-011_Duska-Census/",
   "completed": "2026-11-12"
+ },
+ {
+  "id": "F-012",
+  "desktop_path": "Duska Contemporary Land",
+  "described_as": "Announced by the owner as the next folder, 'one file', 'non-exhaustive', with the remark that the Places agent might want to know. A land register print-out of 2022 for a house and garden at Senné owned by a couple named Duška. Held: the owners may be living.",
+  "status": "complete",
+  "first_seen": "2026-11-12",
+  "files_received": 1,
+  "batches": [
+   "B-042"
+  ],
+  "archive_path": "records/F-012_Duska-Contemporary-Land/",
+  "completed": "2026-11-12"
  }
 ]

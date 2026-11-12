@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-041.
+- Last updated: 12 Nov 2026, after Duska batch B-042.
+
+## 0000000000000000000. New at B-042
+
+New folder `F-012` with one document, `D-012-01`, which is `held` (no image). `candidates.json`: an entry may carry `living: "unknown"`.
 
 ## 000000000000000000. New at B-041
 
