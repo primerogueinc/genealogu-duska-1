@@ -28,5 +28,65 @@
       "S-002"
     ],
     "relation": "Mother of K-001. Unplaced. Godmother Anna Hreskó is probably her kin."
+  },
+  {
+    "id": "K-004",
+    "name": "György Demko (the younger)",
+    "vitals": "b. 29 Mar 1895, bapt. 31 Mar 1895, Gönyű (Gyňov) 24",
+    "proof": "documented",
+    "sources": [
+      "S-003"
+    ],
+    "relation": "Unplaced. A Demko born in the Košice area, about 80 km west of Viszoka. Belongs to the Demko agent to place."
+  },
+  {
+    "id": "K-005",
+    "name": "György Demko (the elder)",
+    "vitals": "Greek Catholic, landholding farmer, of Gönyű 24 in 1895",
+    "proof": "documented",
+    "sources": [
+      "S-003"
+    ],
+    "relation": "Father of K-004. Same name and rite as K-002 of Viszoka, but a different wife and county (H-016)."
+  },
+  {
+    "id": "K-006",
+    "name": "Katalin Jobbágy",
+    "vitals": "Greek Catholic, of Gönyű 24 in 1895",
+    "proof": "documented",
+    "sources": [
+      "S-003"
+    ],
+    "relation": "Mother of K-004. Unplaced."
+  },
+  {
+    "id": "K-007",
+    "name": "Mária Hriczko",
+    "vitals": "b. and bapt. 29 Aug [1894], Szina (Seňa) 182",
+    "proof": "documented",
+    "sources": [
+      "S-004"
+    ],
+    "relation": "Unplaced. No stated link to a Duska or a Demko. Surname resembles Hreskó (H-017)."
+  },
+  {
+    "id": "K-008",
+    "name": "József Hriczko",
+    "vitals": "Greek Catholic, cottar, of Szina 182 in 1894",
+    "proof": "documented",
+    "sources": [
+      "S-004"
+    ],
+    "relation": "Father of K-007. Unplaced."
+  },
+  {
+    "id": "K-009",
+    "name": "Erzsébet Kocsis",
+    "vitals": "Roman Catholic, of Szina 182 in 1894",
+    "proof": "documented",
+    "sources": [
+      "S-004"
+    ],
+    "relation": "Mother of K-007. Unplaced."
   }
 ]

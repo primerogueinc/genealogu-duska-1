@@ -24,5 +24,18 @@
       "B-002"
     ],
     "archive_path": "records/F-002_Duska-and-Demko-Leads_Cicarovce/"
+  },
+  {
+    "id": "F-003",
+    "desktop_path": "Duska Baptisms/Belza (Kosice) - Greek Catholic",
+    "described_as": "Duska Baptisms / Belza (Kosice), Greek Catholic. Full folder.",
+    "status": "complete",
+    "first_seen": "2026-11-11",
+    "completed": "2026-11-11",
+    "files_received": 2,
+    "batches": [
+      "B-004"
+    ],
+    "archive_path": "records/F-003_Duska-Baptisms_Belza-Kosice-Greek-Catholic/"
   }
 ]

@@ -62,7 +62,7 @@
   {
     "id": "H-005",
     "statement": "The Duskas were Roman Catholic and the Demkos Greek Catholic.",
-    "confidence": 55,
+    "confidence": 60,
     "basis": "Senné has a Roman Catholic register (1831-1926). A Rusyn Demko line (PR-4) would normally be Greek Catholic.",
     "test": "Denomination column in any baptism, marriage or census entry.",
     "status": "open",
@@ -79,13 +79,18 @@
         "batch": "B-002",
         "effect": "50% to 55%",
         "note": "György Demkó is entered as Greek Catholic. Supports the Demko half, if this is the right Demko family. The Duska half is still untested."
+      },
+      {
+        "batch": "B-004",
+        "effect": "55% to 60%",
+        "note": "Places agent: Senné was the Roman Catholic parish and Iňačovce the Greek Catholic one, with the caution that a village does not fix a family's rite."
       }
     ]
   },
   {
     "id": "H-006",
     "statement": "Maria Demko was born c. 1890-1910 in an Ung county parish, and her entry is in the Mukachevo Eparchy Greek Catholic series held at Uzhhorod.",
-    "confidence": 45,
+    "confidence": 50,
     "basis": "L-003: that series covers Ung parishes 1826-1938 and is the usual reason a Slovak-side record ends up in Uzhhorod.",
     "test": "Her age in any Canadian or Czechoslovak record, then a page-by-page search of the matching parish and years.",
     "status": "open",
@@ -102,20 +107,31 @@
         "batch": "B-003",
         "effect": "40% to 45%",
         "note": "If the 1882 book is Greek Catholic (see H-015), a Demko daughter in the Greek Catholic series becomes more plausible again."
+      },
+      {
+        "batch": "B-004",
+        "effect": "45% to 50%",
+        "note": "Entry 33 of this batch is a daughter of a Greek Catholic father and a Roman Catholic mother, entered in what the folder calls a Greek Catholic book. Between the two Catholic rites the daughters-follow-mother default was not always kept, so a Demko daughter could well be in a Greek Catholic book."
       }
     ]
   },
   {
     "id": "H-007",
     "statement": "The record cited as the 1869 census (PR-3) does not come from the standard FamilySearch Slovakia 1869 collection.",
-    "confidence": 65,
+    "confidence": 80,
     "basis": "L-004: surviving 1869 sheets in that collection are reported to exclude Ung county. The record may be from another archive, another year, or a Zemplén village.",
     "test": "The image itself: archive, fond, film or DGS number, and the village named on the sheet.",
-    "status": "open",
+    "status": "supported",
     "raised": "B-000",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-004",
+        "effect": "65% to 80%",
+        "note": "Places agent: the 1869 sheets for Ung county are held at the Berehove branch of the Zakarpattia archive, offline, not on FamilySearch. That fits a record found outside the standard collection."
+      }
+    ]
   },
   {
     "id": "H-008",
@@ -150,14 +166,20 @@
   {
     "id": "H-010",
     "statement": "The copy-book belongs to the Roman Catholic parish of Senné itself and was filmed with the Senné register (L-001).",
-    "confidence": 60,
+    "confidence": 75,
     "basis": "Only the folder name says Senné. The text fits any parish of the Nagykapos district. The Kulin gift note of 1838 is the one local entry.",
     "test": "Film or DGS number and image numbers (R-001); the title board at the start of the film item.",
     "status": "open",
     "raised": "B-001",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-004",
+        "effect": "60% to 75%",
+        "note": "Places agent: Senné was a Roman Catholic parish under Szatmár from 1804, and Stretavka (Kis-Szeretva) was its filial in 1734, so the Kulin note fits a Senné parishioner."
+      }
+    ]
   },
   {
     "id": "H-011",
@@ -180,7 +202,7 @@
   {
     "id": "H-012",
     "statement": "Mihály Demkó (b. 1882) is the father of Maria Demko, Ahn 9. That would make him Ahn 18 and György Demkó and Mária Hreskó Ahn 36 and 37.",
-    "confidence": 30,
+    "confidence": 25,
     "basis": "The owner filed this under leads and named the file for Mihály, which is what a researcher does with a person on the line. A man born in 1882 fits as father of a woman whose son was born c. 1925-1942.",
     "test": "Maria Demko's birth or marriage record naming her father; any record giving her age.",
     "status": "open",
@@ -192,20 +214,31 @@
         "batch": "B-003",
         "effect": "40% to 30%",
         "note": "Coordinator ruling X-004: the folder is called Leads, so the file name is weak grounds. Coordinator analysis X-A-001: if true, Maria was born after about 1902 and H-014 follows. Rival X-H-001 (she is from another Demko household) is on the coordinator board at 35%."
+      },
+      {
+        "batch": "B-004",
+        "effect": "30% to 25%",
+        "note": "Both files in this folder are from 1894-1895. If that window reflects a birth year the owner had for Maria Demko (H-019), Mihály, born 1882, cannot be her father."
       }
     ]
   },
   {
     "id": "H-013",
     "statement": "Maria Demko is a sister of Mihály: a daughter of György Demkó and Mária Hreskó of Viszoka, born c. 1885-1900.",
-    "confidence": 20,
+    "confidence": 25,
     "basis": "Rival to H-012. The same couple could have had a daughter Maria in those years.",
     "test": "Search the same register for other children of this couple, 1875-1900.",
     "status": "open",
     "raised": "B-002",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-004",
+        "effect": "20% to 25%",
+        "note": "Same reasoning: a birth around 1894-1895 fits a daughter of György Demkó and Mária Hreskó."
+      }
+    ]
   },
   {
     "id": "H-014",
@@ -236,5 +269,53 @@
         "note": "The Demko agent reads the officiant as Csurgovich, and on a second look so do I. That is a Greek Catholic clerical surname in this region. Under the 1868 law a son followed his father's church, and the father is Greek Catholic. The book is more likely Greek Catholic."
       }
     ]
+  },
+  {
+    "id": "H-016",
+    "statement": "György Demko of Gönyű 24 (1895) is a different man from György Demkó of Viszoka 132 (1882), and the two households are different Demko families.",
+    "confidence": 75,
+    "basis": "Different wife (Katalin Jobbágy against Mária Hreskó), different county (Abaúj-Torna against Ung), about 80 km apart, both settled farmers. Demko and György are both common.",
+    "test": "Marriage entry of György Demko and Katalin Jobbágy, giving his age, birthplace and whether he was a widower.",
+    "status": "open",
+    "raised": "B-004",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-017",
+    "statement": "Hriczko of Szina and Hreskó of Viszoka are two surnames, not spellings of one family.",
+    "confidence": 60,
+    "basis": "Different vowel and consonant pattern in clear hands, and different counties. The owner may have saved the Hriczko entry to test exactly this.",
+    "test": "Any record of the Viszoka family spelling the name Hriczko, or the reverse.",
+    "status": "open",
+    "raised": "B-004",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-018",
+    "statement": "Neither child in this folder is on the direct line. The folder name records where the owner searched for Duskas; these two are what he kept from that search.",
+    "confidence": 65,
+    "basis": "A folder called Duska Baptisms that holds no Duska. Belža is far from Senné and Iňačovce.",
+    "test": "The owner's reason for searching the Belža book (R-004); any record tying a Duska to Belža, Gönyű or Szina.",
+    "status": "open",
+    "raised": "B-004",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-019",
+    "statement": "The owner was searching 1894-1895 because a later record gave Maria Demko an age that points to a birth around 1894-1896.",
+    "confidence": 30,
+    "basis": "Both files kept from this parish fall within thirteen months of each other, one a Demko and one a Mária.",
+    "test": "Maria Demko's age in any passenger list, census, marriage or burial record.",
+    "status": "open",
+    "raised": "B-004",
+    "resolved": null,
+    "resolution": null,
+    "log": []
   }
 ]

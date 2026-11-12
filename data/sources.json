@@ -30,5 +30,21 @@
     "title": "Kevin to the Demko agent, 11 Nov 2026, relayed in coordinator ruling X-001",
     "extract": "The chain as Kevin stated it: Kevin Jr., Kevin John Duska, Stefan Duska, then Mihaly Duska and Maria Demko.",
     "reliability": "Second-hand for this agent: not heard directly, taken from the coordinator ledger and the Demko agent's note. No document seen. Scored as given, not as rebuilt."
+  },
+  {
+    "id": "S-003",
+    "batch": "B-004",
+    "type": "Baptism register, later transcript on a printed Slovak form (image strip)",
+    "title": "Baptism of György Demko, entry 13, born 29 Mar 1895, baptised 31 Mar 1895",
+    "extract": "Father György Demko, Greek Catholic, landholding farmer. Mother Katalin Jobbágy, Greek Catholic. Residence Gönyű (Gyňov), house 24. Legitimate. Entry 14 on the same strip is an unrelated child.",
+    "reliability": "Derivative: a hand copy onto a later pre-printed Slovak form, not the original book. Parish (Belža, Greek Catholic) comes from the folder name only."
+  },
+  {
+    "id": "S-004",
+    "batch": "B-004",
+    "type": "Baptism register, later transcript on a printed Slovak form (image strip)",
+    "title": "Baptism of Mária Hriczko, entry 33, born and baptised 29 Aug [1894]",
+    "extract": "Father József Hriczko, Greek Catholic, cottar. Mother Erzsébet Kocsis, Roman Catholic. Residence Szina (Seňa), house 182. Legitimate. Entry 34 on the same strip is an unrelated child.",
+    "reliability": "Derivative, as S-003. The year is not on the strip and comes from the file name. Parish comes from the folder name only."
   }
 ]

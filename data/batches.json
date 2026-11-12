@@ -83,5 +83,32 @@
     "sources_added": [
       "S-000-2"
     ]
+  },
+  {
+    "id": "B-004",
+    "date": "2026-11-11",
+    "title": "Belža, Greek Catholic: a second György Demko and a Mária Hriczko",
+    "folder": "F-003",
+    "files": 2,
+    "blurb": "Two strips from a baptism register that survives as a later hand copy on a printed Slovak form. Entry 13 of 1895: György, born 29 March and baptised 31 March, son of György Demko, Greek Catholic landholding farmer, and Katalin Jobbágy, of Gönyű (Gyňov), house 24. Entry 33 of 1894: Mária, born and baptised 29 August, daughter of József Hriczko, Greek Catholic cottar, and Erzsébet Kocsis, Roman Catholic, of Szina (Seňa), house 182. The folder is called Duska Baptisms and holds no Duska. These villages lie south of Košice, about 80 km west of Senné and Viszoka, in a different county. The father in 1895 shares a name and a rite with György Demkó of Viszoka but has a different wife, so the working view is two separate Demko families (H-016). The useful by-product is entry 33: a daughter of a Greek Catholic father and Roman Catholic mother in a Greek Catholic book, which weakens the coordinator's argument that a Demko daughter of the Viszoka couple had to be baptised Roman Catholic. This batch also takes in the Places agent's first findings, which lift H-007 to supported and raise H-005 and H-010. Six more people are held as unplaced candidates. Nothing is added to the direct line.",
+    "raised": [
+      "H-016",
+      "H-017",
+      "H-018",
+      "H-019"
+    ],
+    "resolved": [],
+    "people_added": [
+      "K-004",
+      "K-005",
+      "K-006",
+      "K-007",
+      "K-008",
+      "K-009"
+    ],
+    "sources_added": [
+      "S-003",
+      "S-004"
+    ]
   }
 ]

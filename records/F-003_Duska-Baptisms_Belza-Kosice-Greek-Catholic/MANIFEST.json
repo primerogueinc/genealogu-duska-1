@@ -1,0 +1,23 @@
+{
+  "folder_id": "F-003",
+  "desktop_path": "Duska Baptisms/Belza (Kosice) - Greek Catholic",
+  "note": "Files as received through chat upload. They may have been re-encoded in transit.",
+  "files": [
+    {
+      "file": "Baptism_of_Gorgy_Demko_1895.png",
+      "sha256": "36587cb383282ce17d3225b79531209153c227a8fe66a6f48fc715021d108ab6",
+      "bytes": 711887,
+      "pixels": "1417x414",
+      "received": "2026-11-11",
+      "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_Maria_Hriczko_Kocsis_1894.png",
+      "sha256": "46e6322d5c04bf53c1987b59501ba9e25cdd52a9375f0b3acb3c38ede2c36910",
+      "bytes": 598709,
+      "pixels": "1573x345",
+      "received": "2026-11-11",
+      "via": "chat upload"
+    }
+  ]
+}

@@ -438,5 +438,73 @@
         "english": "No. 36 | 1882, August: born 19th, baptised 20th | Mihály (Michael) | boy | legitimate | György (George) Demkó, Greek Catholic, farmer, and Mária Hreskó, Roman Catholic | Viszoka, house 132 | godparents Mihály Varga, Roman Catholic, and Anna Hreskó, Roman Catholic | officiant Csurgovich [reading uncertain] | no remarks"
       }
     ]
+  },
+  {
+    "id": "D-003-01",
+    "folder": "F-003",
+    "batch": "B-004",
+    "source": "S-003",
+    "file": "Baptism_of_Gorgy_Demko_1895.png",
+    "wide": true,
+    "title": "Baptism of György Demko, 1895",
+    "span": "29 March to 7 April 1895",
+    "language": "Hungarian, on a printed Slovak form",
+    "entries": [
+      {
+        "no": "13",
+        "date": "b. 29 Mar 1895, bapt. 31 Mar 1895",
+        "from": "Baptism register transcript, Belža Greek Catholic (per folder name)",
+        "abstract": "György, boy, legitimate. Father: György Demko, Greek Catholic, landholding farmer (telkes). Mother: Katalin Jobbágy, Greek Catholic. Residence: Gönyű (Gyňov), house 24.",
+        "reading": "high"
+      },
+      {
+        "no": "14",
+        "date": "b. 1 Apr 1895, bapt. 7 Apr 1895",
+        "from": "same",
+        "abstract": "András, boy, illegitimate. Father unknown. Mother: Anna Kucsera, servant, Greek Catholic, of a village ending in -falva, house 5. Not connected to the line; on the strip only because it is the next entry.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entries 13 and 14. The form's printed heads do not match what the copyist wrote under them: the two date columns hold birth and baptism, the religion column holds legitimacy, and the last column holds sex.",
+        "original": "Printed column heads (Slovak): Bežné číslo | Doba zápisu | Doba narodenia | Meno dieťaťa, pohlavie, náboženstvo | Meno a priezvisko, zamestnanie, bydlisko rodičov [added by hand: vallása] | náboženstvo | Vek | Miesto narodenia, ak matka neporodila doma [added by hand: neme: fiú, leány]. 13. | 1895 Március 29. | 31. | György | DEMKO György gk. telkes, JOBBÁGY KATALIN gk., Gönyü 24 sz. | törvényes | – | fiú. — 14. | Április 1. | 7. | András | Atyja ismeretlen. Anyja Kucsera Anna cseléd gk. [...]falva 5 sz. | törvénytelen | fiú.",
+        "english": "Printed heads: running number | date of entry | date of birth | child's name, sex, religion | parents' name, occupation, residence [by hand: religion] | religion | age | place of birth if not at home [by hand: sex: boy, girl]. 13 | 1895, March 29 | 31 | György | György DEMKO, Greek Catholic, landholding farmer; Katalin JOBBÁGY, Greek Catholic; Gönyű, house 24 | legitimate | – | boy. — 14 | April 1 | 7 | András | Father unknown. Mother Anna Kucsera, servant, Greek Catholic, [...]falva house 5 | illegitimate | boy."
+      }
+    ]
+  },
+  {
+    "id": "D-003-02",
+    "folder": "F-003",
+    "batch": "B-004",
+    "source": "S-004",
+    "file": "Baptism_of_Maria_Hriczko_Kocsis_1894.png",
+    "wide": true,
+    "title": "Baptism of Mária Hriczko, 1894",
+    "span": "29 August to 6 September [1894]",
+    "language": "Hungarian, on a printed Slovak form",
+    "entries": [
+      {
+        "no": "33",
+        "date": "b. and bapt. 29 Aug [1894]",
+        "from": "Baptism register transcript, Belža Greek Catholic (per folder name)",
+        "abstract": "Mária, girl, legitimate. Father: József Hriczko, Greek Catholic, cottar (zsellér). Mother: Erzsébet Kocsis, Roman Catholic. Residence: Szina (Seňa), house 182. Year taken from the file name.",
+        "reading": "high"
+      },
+      {
+        "no": "34",
+        "date": "b. 5 Sep, bapt. 6 Sep [1894]",
+        "from": "same",
+        "abstract": "János, boy, legitimate. Father: János Dudrik, Greek Catholic, landholding farmer. Mother: Erzsébet Petrila, Roman Catholic. Residence: Gönyű (Gyňov), house 2. Not connected to the line.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entries 33 and 34 (no header on this strip; columns as in D-003-01)",
+        "original": "33. | Augusztus 29. | 29. | Mária | HRICZKO JÓZSEF gk. zsellér, KOCSIS ERZSÉBET rk., Szina 182 sz. | törvényes | – | – | leány. — 34. | Szeptember 5. | 6. | János | DUDRIK JÁNOS gk. telkes, PETRILA ERZSÉBET rk., Gönyü 2 sz. | törvényes | – | fiú.",
+        "english": "33 | August 29 | 29 | Mária | József HRICZKO, Greek Catholic, cottar; Erzsébet KOCSIS, Roman Catholic; Szina, house 182 | legitimate | – | – | girl. — 34 | September 5 | 6 | János | János DUDRIK, Greek Catholic, landholding farmer; Erzsébet PETRILA, Roman Catholic; Gönyű, house 2 | legitimate | – | boy."
+      }
+    ]
   }
 ]
