@@ -1556,6 +1556,22 @@
    "S-253",
    "S-254"
   ],
+  "committed_utc": "2026-11-12T08:38:02Z"
+ },
+ {
+  "id": "B-030",
+  "date": "2026-11-12",
+  "title": "Where the 1937 papers were found",
+  "folder": null,
+  "files": 0,
+  "blurb": "Read ledger v19, unchanged. No new file. The owner said where the 1937 emigration papers came from: he found them himself, as originals, in the basement of his grandfather Steve, who is the boy named in them. That is entered on each of the eight documents as their history of keeping, and the Demko agent and the coordinator are told. It is a statement about where paper was kept, from the person who found it, and it strengthens the papers as evidence. It adds no fact about the people in them, and no confidence moved. Curiosities: 1",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-9"
+  ],
   "committed_utc": null
  }
 ]

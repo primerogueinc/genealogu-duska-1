@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-029 (read ledger v19). Requests R-001 to R-011 are with the owner; R-016 (Michal's own passenger list), R-015 (the 1921 census forms for Senné) and R-007 (any record of his age or parents) are first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-030 (read ledger v19). Requests R-001 to R-011 are with the owner; R-016 (Michal's own passenger list), R-015 (the 1921 census forms for Senné) and R-007 (any record of his age or parents) are first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 

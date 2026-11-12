@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-029. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-030. Read ledger v19.
+
+## 00000000000000000000000. B-030 (12 Nov): a statement by Kevin on provenance
+
+Kevin in my chat: the 1937 papers (`DUS:D-006-11` to `-18`) are "firsthand things I found in Steve's basement", with a request to tell the Demko agent. Logged as `DUS:S-000-9`, entered in each document's provenance, passed to Demko. It is about custody only. No confidence moved. Read ledger v19.
 
 ## 0000000000000000000000. B-029 (12 Nov): the 1937 emigration papers; Ahn 2 documented; an exposure to log
 

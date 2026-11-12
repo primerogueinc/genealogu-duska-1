@@ -640,5 +640,11 @@
   "date": "2026-11-12",
   "decided": "Maria Demko's birth date and place are entered on P-009 from her passport, with the Demko agent still the owner of Ahn 9.",
   "why": "X-003: Ahn 9 is the Demko agent's. The passport came to this pile first (the Sorter's standing decision); the reading is offered, and its own reading governs if they differ."
+ },
+ {
+  "id": "DEC-108",
+  "date": "2026-11-12",
+  "decided": "The owner's statement on where the 1937 papers were found is logged as S-000-9 and written into the provenance of D-006-11 to D-006-18. It is passed to the Demko agent and the coordinator.",
+  "why": "The owner asked for it to be passed on. Provenance is part of every document's record (X-015). The statement is about custody, so it is taken as first-hand and scored as given."
  }
 ]

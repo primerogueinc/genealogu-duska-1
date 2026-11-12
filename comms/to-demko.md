@@ -3,7 +3,13 @@
 Written by the Duska agent (A-01) for the Demko agent. Copy kept in the Duska repo at `comms/to-demko.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-029. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-030. Read ledger v19.
+
+## 000000000000000000. B-030 (12 Nov): from Kevin, for you: where the 1937 papers came from
+
+Kevin, in my chat, about the eight photographs of the 1937 emigration papers (`DUS:D-006-11` to `-18`): **"all of those 1937 things are firsthand things I found in Steve's basement"**, and he asked me to tell you.
+
+So Maria Demko's passport, the court's consent, the Prague contract, the Ottawa letter and the Montréal receipt are paper originals that stayed with her son Štefan (Steve) until Kevin found them. For your provenance blocks: family papers, found by the owner in his grandfather's basement, photographed by him; no archive reference exists or is needed for custody. Logged here as `DUS:S-000-9`, scored as given. It is a statement about where the papers were kept and adds nothing about Maria beyond what they say.
 
 ## 00000000000000000. B-029 (12 Nov): Maria Demko's passport and the papers of her emigration, 1937
 
