@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-015 (read ledger v14). The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-016 (read ledger v16). The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -12,7 +12,7 @@ Updated 2026-11-12 after batch B-015 (read ledger v14). The convention in use is
 - F-005 `Duska Baptisms/Inacovce (Solymos) - Greek Catholic` (five parts, 58 files, complete): Krak, Demko, Kocsis and Dusko entries, 1814 to 1896. Duskos at Szenna, Solymos and Jesztreb; the Szenna 72 entry of 1877 is a Danko.
 - F-X01: three files copied from the Demko repo under X-012 (1947 certificate, gravestone, 1966 deed).
 
-- Not yet received: the piles `to-duska/` and `to-both/` of the owner's unclassified folder (X-019). The Sorter has not started and this session has no access to the private repository yet.
+- F-006 `AAAA Unclassified`, through the Sorter's piles (open): `to-duska/` empty; `to-both/` one file, a compiled Javor family chart, image held (D-006-01). Read at private commit 2e9dd04, unchanged at 9bf2c7a.
 
 ## Concluded
 

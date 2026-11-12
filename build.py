@@ -24,6 +24,8 @@ def main():
             if hid not in known:
                 raise SystemExit(f"{b['id']} refers to unknown hypothesis {hid}")
     for d in data["documents"]:
+        if d.get("held"):
+            continue  # image withheld from the public repo; name and checksum only
         if not (ROOT / "assets" / "pages" / d["folder"] / d["file"]).exists():
             raise SystemExit(f"{d['id']}: missing web image for {d['file']}")
 

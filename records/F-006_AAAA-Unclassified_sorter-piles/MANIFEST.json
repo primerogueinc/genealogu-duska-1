@@ -1,0 +1,21 @@
+{
+  "folder": "F-006",
+  "note": "Files taken from the Sorter's piles in the private repository primerogueinc/kevin-js-duska-jr-genealogy-private. Checksums are those of the pile's own MANIFEST.json and were re-computed on the copy read. Held images are not stored here.",
+  "files": [
+    {
+      "name": "Rodokme_-JavorEN.jpg",
+      "sha256": "334234484be2c81b5cd90ffea4f0fa9ba94571782cc8d9b21d520864bb6868a8",
+      "bytes": 550616,
+      "pixels": [
+        2576,
+        988
+      ],
+      "pile": "to-both",
+      "private_commit": "2e9dd04",
+      "sorter_batch": "S-B-001",
+      "document": "D-006-01",
+      "held": "shows living third parties with their birth dates",
+      "image_in_repo": false
+    }
+  ]
+}

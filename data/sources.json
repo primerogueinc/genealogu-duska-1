@@ -307,7 +307,7 @@
     "id": "S-034",
     "batch": "B-009",
     "type": "Parish baptism register, single entry (image strip)",
-    "title": "Baptism of Anna Demko, 1870",
+    "title": "Baptism of Anna Demko, Jesztreb 54, [1871]",
     "extract": "Anna, female, legitimate. Father: Michael Demko, Greek Catholic, cottar (inquilinus). Mother: Maria Lazár. Residence: Jesztreb, house 54. Godparents: Georgius Mazur and Maria Tamás.",
     "reliability": "Original record, image copy. No page header on the strip: the register (Iňačovce / Solymos, Greek Catholic, per the owner's folder name) and any year in square brackets come from the owner's labels."
   },
@@ -555,8 +555,8 @@
     "id": "S-064",
     "batch": "B-013",
     "type": "Parish baptism register, single entry (image strip)",
-    "title": "Baptism of Maria Demko, Jesztreb 38, 1864",
-    "extract": "Child: Maria Demko. Father: Michael Demko, Greek Catholic, cottar. Mother: Maria Lazár, Greek Catholic. Residence: Jesztreb, house 38. Godparents: Georgius Mazur; Maria Tomas.",
+    "title": "Baptism of Maria Demko, Jesztreb 28, 1864",
+    "extract": "Child: Maria Demko. Father: Michael Demko, Greek Catholic, cottar. Mother: Maria Lazár, Greek Catholic. Residence: Jesztreb, house 28 [read as 38 at first]. Godparents: Georgius Mazur; Maria Tomas.",
     "reliability": "Original record, image copy. Years in square brackets come from the owner's file names. The register is the Iňačovce (Solymos) Greek Catholic book, by the owner's label and by officiants styled pastor of Solymos."
   },
   {
@@ -651,7 +651,7 @@
     "id": "S-076",
     "batch": "B-013",
     "type": "Parish baptism register, single entry (image strip)",
-    "title": "Baptism of Mihály Kocsis, Solymos, 1847 or 1848",
+    "title": "Baptism of Mihály Kocsis, Solymos, [1847]",
     "extract": "Child: Mihály Kocsis. Father: Pál Kocsis, landholding farmer. Mother: Anna Cservenyák. Residence: Solymos. Godparents: György Dzurar [?]; Anna Dzurar [?]. The mother is the Anna Cservenyák of [1843]. She was therefore alive after the Borbála of [1846], whose mother was read as Mária Iv[a]ncsák. Either two men named Pál Kocsis lived at Solymos, or that reading is wrong.",
     "reliability": "Original record, image copy. Years in square brackets come from the owner's file names. The register is the Iňačovce (Solymos) Greek Catholic book, by the owner's label and by officiants styled pastor of Solymos."
   },
@@ -715,8 +715,16 @@
     "id": "S-084",
     "batch": "B-013",
     "type": "Parish baptism register, single entry (image strip)",
-    "title": "An unfinished entry for Michael Demko and Maria Lazar at the turn of 1870 and 1871",
+    "title": "A row begun for Michael Demko and Maria Lazar at the end of 1870 and re-entered as no. 4 of 1871",
     "extract": "Child: [no child entered]. Father: Michael Demko, Greek Catholic, cottar. Mother: Maria Lazár, Greek Catholic. Residence: Jesztreb, house 54. Godparents: Georgius Mazur; Maria Tomas. Row 49 has the parents, house and godparents filled in but no child, date or sex. The year 1871 is written across the empty cells and the numbering restarts at 1 below. It reads as an entry begun and never completed.",
     "reliability": "Original record, image copy. Years in square brackets come from the owner's file names. The register is the Iňačovce (Solymos) Greek Catholic book, by the owner's label and by officiants styled pastor of Solymos."
+  },
+  {
+    "id": "S-085",
+    "batch": "B-016",
+    "type": "Compiled family-tree chart (image; derivative source, author unknown)",
+    "title": "Family-tree chart of the Javor family, a watermarked preview, undated",
+    "extract": "A printed family-tree chart, in colour, titled 'Rodostrom rodiny Javorovej' (family tree of the Javor family), with the word 'náhľad' (preview) stamped across it several times. About 250 name boxes in eight or nine generations, a coat of arms, eleven photographs and two churches. At this size only the lowest three generations and the photograph captions can be read at all. No Duska is legible anywhere on it. One ancestor is legible in part: Mary D[an]ko or D[em]ko, born 1906, died 1991, whose box appears to give a birthplace in the U.S.A. and a line naming Vysoká nad Uhom. Her parents' boxes read Andrej D[..]ko and Mária M[...]ová, both with Vysoká nad Uhom. The younger generations are living people and are not abstracted here.",
+    "reliability": "Derivative and unsourced: a designer's chart with no citations, seen as a small preview image. Most of it cannot be read. Nothing on it is evidence for the Duska line."
   }
 ]

@@ -1764,8 +1764,8 @@
     "file": "Baptism_of_Anna_Demko_1870.png",
     "sha256": "d30597dc87daf31244c65f19125f4e434641235c2a3b5c1230fb94a7b86007b1",
     "wide": true,
-    "title": "Baptism of Anna Demko, 1870",
-    "span": "12 and 13 January [1870]",
+    "title": "Baptism of Anna Demko, Jesztreb 54, [1871]",
+    "span": "12 and 13 January [1871; the owner's label says 1870]",
     "language": "Latin",
     "collector_label": "Baptism of Anna Demko 1870",
     "family": "FG-15",
@@ -1773,7 +1773,7 @@
     "entries": [
       {
         "no": "4",
-        "date": "b. 12 Jan, bapt. 13 Jan [1870]",
+        "date": "b. 12 Jan, bapt. 13 Jan [1871; the owner's label says 1870]",
         "from": "Baptism register, Iňačovce Greek Catholic (per folder name)",
         "abstract": "Anna, female, legitimate. Father: Michael Demko, Greek Catholic, cottar (inquilinus). Mother: Maria Lazár. Residence: Jesztreb, house 54. Godparents: Georgius Mazur and Maria Tamás.",
         "reading": "high"
@@ -1783,7 +1783,7 @@
       {
         "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
         "original": "4. | Januarius 12. | 13. | Anna | foemin. | legitim. | Michael Demko G.C. inquilinus, Maria Lazár | Jesztreb num. 54 | Georgius Mazur, Maria Tamás",
-        "english": "Anna, female, legitimate. Father: Michael Demko, Greek Catholic, cottar (inquilinus). Mother: Maria Lazár. Residence: Jesztreb, house 54. Godparents: Georgius Mazur and Maria Tamás."
+        "english": "Anna, female, legitimate. Father: Michael Demko, Greek Catholic, cottar (inquilinus). Mother: Maria Lazár. Residence: Jesztreb, house 54. Godparents: Georgius Mazur and Maria Tamás. The strip carries no year. It is entry no. 4 of a January, and the parents, house and godparents are those of the abandoned row 49 on D-005-58, which stands just before the heading 1871. The two are one child, begun at the end of the 1870 list and entered properly as no. 4 of 1871 (the Demko agent's reading, DM→DU-008, accepted on a second look)."
       }
     ],
     "provenance": {
@@ -2537,7 +2537,7 @@
       {
         "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
         "original": "44 | December 21. 21. | János | fiú | törvényes | Demko Mihály gkath. zsel., Lázár Mária gk. | Jesztreb 64 | Tamás Mihály gk., Mráz Anna | Dtto",
-        "english": "Child: János Demko. Father: Mihály Demko, Greek Catholic, cottar. Mother: Mária Lázár, Greek Catholic. Residence: Jesztreb, house 64. Godparents: Mihály Tamás, Greek Catholic; Anna Mráz."
+        "english": "Child: János Demko. Father: Mihály Demko, Greek Catholic, cottar. Mother: Mária Lázár, Greek Catholic. Residence: Jesztreb, house 64. Godparents: Mihály Tamás, Greek Catholic; Anna Mráz. The death note 'meghalt 1891 aug. 8.' in the remarks column belongs to the row below (no. 45, a Solymos child), not to this entry."
       }
     ]
   },
@@ -2949,7 +2949,7 @@
     "file": "Baptism_of_Maria_Demko_1864.png",
     "sha256": "760b45a3d3f5ef39d2bc0ed2e0e197a451100ab3b77c2e98bfacb26b7fae7388",
     "wide": true,
-    "title": "Baptism of Maria Demko, Jesztreb 38, 1864",
+    "title": "Baptism of Maria Demko, Jesztreb 28, 1864",
     "span": "21 August [1864]",
     "language": "Latin",
     "collector_label": "Baptism of Maria Demko 1864",
@@ -2969,15 +2969,15 @@
         "no": "47",
         "date": "21 August [1864]",
         "from": "Baptism register, Iňačovce (Solymos) Greek Catholic",
-        "abstract": "Child: Maria Demko. Father: Michael Demko, Greek Catholic, cottar. Mother: Maria Lazár, Greek Catholic. Residence: Jesztreb, house 38. Godparents: Georgius Mazur; Maria Tomas.",
+        "abstract": "Child: Maria Demko. Father: Michael Demko, Greek Catholic, cottar. Mother: Maria Lazár, Greek Catholic. Residence: Jesztreb, house 28 [read as 38 at first]. Godparents: Georgius Mazur; Maria Tomas.",
         "reading": "medium"
       }
     ],
     "transcriptions": [
       {
         "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
-        "original": "47 | Augustus 21. 21. | Maria | foemin. | legitim. | Michael Demko G. inquil., Maria Lazár GC | Jesztreb numer. dom. 38 | Georgius Mazur, Maria Tomas",
-        "english": "Child: Maria Demko. Father: Michael Demko, Greek Catholic, cottar. Mother: Maria Lazár, Greek Catholic. Residence: Jesztreb, house 38. Godparents: Georgius Mazur; Maria Tomas."
+        "original": "47 | Augustus 21. 21. | Maria | foemin. | legitim. | Michael Demko G. inquil., Maria Lazár GC | Jesztreb numer. dom. 28 | Georgius Mazur, Maria Tomas",
+        "english": "Child: Maria Demko. Father: Michael Demko, Greek Catholic, cottar. Mother: Maria Lazár, Greek Catholic. Residence: Jesztreb, house 28 [read as 38 at first]. Godparents: Georgius Mazur; Maria Tomas."
       }
     ]
   },
@@ -3230,7 +3230,7 @@
     "sha256": "64b33e3bcba88f74891d1b5a45554dbd5ebfe27b4ca93a67724aaf1067a17c4e",
     "wide": true,
     "title": "Baptism of Michael Demko, Jesztreb 32, 1866",
-    "span": "14 and 16 March 1866",
+    "span": "14 or 15, and 16 March 1866",
     "language": "Latin",
     "collector_label": "Baptism of Michael Demko 1866",
     "family": "FG-15",
@@ -3247,7 +3247,7 @@
     "entries": [
       {
         "no": "17",
-        "date": "14 and 16 March 1866",
+        "date": "14 or 15, and 16 March 1866",
         "from": "Baptism register, Iňačovce (Solymos) Greek Catholic",
         "abstract": "Child: Michael Demko. Father: Michael Demko, Greek Catholic, cottar. Mother: Maria Lazár, Greek Catholic. Residence: Jesztreb, house 32. Godparents: Georgius Mazur; Maria Tomas. Officiant: Josephus Danilovics, parish priest of Solymos. The year 1866 is written in the entry. A candidate for the 'Mihály Demko the younger' who has children at Jesztreb in [1888] and [1889].",
         "reading": "high"
@@ -3256,7 +3256,7 @@
     "transcriptions": [
       {
         "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
-        "original": "17 | 1866 Martius 14. 16. | Michael | masc. | legitim. | Michael Demko G. inquil., Maria Lazar GC | Jesztreb numer. dom. 32 | Georgius Mazur, Maria Tomasa | Josephus Danilovics Parochus Solymosiensis",
+        "original": "17 | 1866 Martius 1[4 or 5]. 16. | Michael | masc. | legitim. | Michael Demko G. inquil., Maria Lazar GC | Jesztreb numer. dom. 32 | Georgius Mazur, Maria Tomasa | Josephus Danilovics Parochus Solymosiensis",
         "english": "Child: Michael Demko. Father: Michael Demko, Greek Catholic, cottar. Mother: Maria Lazár, Greek Catholic. Residence: Jesztreb, house 32. Godparents: Georgius Mazur; Maria Tomas. Officiant: Josephus Danilovics, parish priest of Solymos. The year 1866 is written in the entry. A candidate for the 'Mihály Demko the younger' who has children at Jesztreb in [1888] and [1889]."
       }
     ]
@@ -3429,8 +3429,8 @@
     "file": "Baptism_of_Mihaily_Kocsis_1848.png",
     "sha256": "757f4e7e5dcb1034a1743ece9017621481caa69db395f09172b6969bb51cce6b",
     "wide": true,
-    "title": "Baptism of Mihály Kocsis, Solymos, 1847 or 1848",
-    "span": "20 and 21 November [1848 per the label; a heading 1848 follows the entry]",
+    "title": "Baptism of Mihály Kocsis, Solymos, [1847]",
+    "span": "20 and 21 November [1847; the figure 1848 heads the row below, so the owner's label is a year late]",
     "language": "Hungarian",
     "collector_label": "Baptism of Mihaily Kocsis 1848",
     "family": "FG-21",
@@ -3447,7 +3447,7 @@
     "entries": [
       {
         "no": "n/a",
-        "date": "20 and 21 November [1848 per the label; a heading 1848 follows the entry]",
+        "date": "20 and 21 November [1847; the figure 1848 heads the row below, so the owner's label is a year late]",
         "from": "Baptism register, Iňačovce (Solymos) Greek Catholic",
         "abstract": "Child: Mihály Kocsis. Father: Pál Kocsis, landholding farmer. Mother: Anna Cservenyák. Residence: Solymos. Godparents: György Dzurar [?]; Anna Dzurar [?]. The mother is the Anna Cservenyák of [1843]. She was therefore alive after the Borbála of [1846], whose mother was read as Mária Iv[a]ncsák. Either two men named Pál Kocsis lived at Solymos, or that reading is wrong.",
         "reading": "medium"
@@ -3749,7 +3749,7 @@
     "file": "Baptism_of_Unknown_Demko_1870_or_1871.png",
     "sha256": "dc04b5b5cfbaccddcd0c6cab78c9e9e65fc65a8d7a5f2e71cbc4c013ab2d0544",
     "wide": true,
-    "title": "An unfinished entry for Michael Demko and Maria Lazar at the turn of 1870 and 1871",
+    "title": "A row begun for Michael Demko and Maria Lazar at the end of 1870 and re-entered as no. 4 of 1871",
     "span": "between 17 December [1870] and 14 January 1871",
     "language": "Latin",
     "collector_label": "Baptism of Unknown Demko 1870 or 1871",
@@ -3777,7 +3777,48 @@
       {
         "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
         "original": "48. | December 16. 17. | Nicolaus | masc. | legitim. | Michael Ihnat [?], Maria Chengyos [?] | Jesztreb 51 | Joannes Ihnat, Anna Michaela || 49. | [blank; 1871 written across] | Michael Demko GC inquil., Maria Lazar GC | Jesztreb 54. | Georgius Mazur, Maria Tamas || 1. | Januarius 14. 15. | Anna [...]",
-        "english": "Child: [no child entered]. Father: Michael Demko, Greek Catholic, cottar. Mother: Maria Lazár, Greek Catholic. Residence: Jesztreb, house 54. Godparents: Georgius Mazur; Maria Tomas. Row 49 has the parents, house and godparents filled in but no child, date or sex. The year 1871 is written across the empty cells and the numbering restarts at 1 below. It reads as an entry begun and never completed."
+        "english": "Child: [no child entered]. Father: Michael Demko, Greek Catholic, cottar. Mother: Maria Lazár, Greek Catholic. Residence: Jesztreb, house 54. Godparents: Georgius Mazur; Maria Tomas. Row 49 has the parents, house and godparents filled in but no child, date or sex. The year 1871 is written across the empty cells and the numbering restarts at 1 below. It reads as an entry begun and never completed. Revised at B-016: it is not a second child. The same parents, house and godparents are entry no. 4 of January 1871, Anna, born 12 January (D-005-08). The clerk began her entry here, saw the year had turned, wrote 1871 across the row and entered her again below."
+      }
+    ]
+  },
+  {
+    "id": "D-006-01",
+    "folder": "F-006",
+    "batch": "B-016",
+    "source": "S-085",
+    "file": "Rodokme_-JavorEN.jpg",
+    "sha256": "334234484be2c81b5cd90ffea4f0fa9ba94571782cc8d9b21d520864bb6868a8",
+    "wide": true,
+    "held": "shows living third parties with their birth dates",
+    "title": "Family-tree chart of the Javor family, a watermarked preview, undated",
+    "span": "compiled in the 21st century; people shown from the 18th or 19th century to the present",
+    "language": "Slovak",
+    "collector_label": "Rodokme_-JavorEN.jpg, in a subfolder of 'AAAA Unclassified' named for a third party (name withheld)",
+    "family": null,
+    "route": "demko",
+    "pile": "to-both",
+    "private_commit": "2e9dd04",
+    "provenance": {
+      "archive": "none: a compiled chart, not an archive record",
+      "fond_or_film": "not applicable",
+      "book": "not applicable",
+      "page_or_image": "single image, 2576 by 988 pixels, 550,616 bytes",
+      "obtained": "From the owner's folder 'AAAA Unclassified', through the Sorter's pile 'to-both' in the private repository at commit 2e9dd04 (Sorter batch S-B-001). Who drew the chart and how the owner obtained it are unknown."
+    },
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "1906 to 1991",
+        "from": "Compiled family-tree chart (derivative source, author unknown)",
+        "abstract": "A printed family-tree chart, in colour, titled 'Rodostrom rodiny Javorovej' (family tree of the Javor family), with the word 'náhľad' (preview) stamped across it several times. About 250 name boxes in eight or nine generations, a coat of arms, eleven photographs and two churches. At this size only the lowest three generations and the photograph captions can be read at all. No Duska is legible anywhere on it. One ancestor is legible in part: Mary D[an]ko or D[em]ko, born 1906, died 1991, whose box appears to give a birthplace in the U.S.A. and a line naming Vysoká nad Uhom. Her parents' boxes read Andrej D[..]ko and Mária M[...]ová, both with Vysoká nad Uhom. The younger generations are living people and are not abstracted here.",
+        "reading": "low"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "The one photograph caption that bears on either line, as far as it can be read. Square brackets mark doubtful letters.",
+        "original": "Mary D[an]ko [or D[em]ko] 1906 - 1991",
+        "english": "Mary Danko or Demko, 1906 to 1991. The surname has five letters, begins with D and ends in -ko; the two in the middle cannot be told apart at this size. The image is not published because the chart shows living people with their dates of birth. Its file name and SHA-256 are given so that the copy can be checked."
       }
     ]
   }

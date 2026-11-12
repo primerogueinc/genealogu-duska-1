@@ -1546,7 +1546,7 @@
   {
     "id": "K-127",
     "name": "Anna Demko",
-    "vitals": "b. 12 Jan [1870], Jesztreb 54",
+    "vitals": "b. 12 Jan [1871], Jesztreb 54",
     "proof": "documented",
     "sources": [
       "S-034"
@@ -3080,7 +3080,7 @@
   {
     "id": "K-254",
     "name": "Maria Demko",
-    "vitals": "b. 21 August [1864]; Jesztreb, house 38",
+    "vitals": "b. 21 August [1864]; Jesztreb, house 28",
     "proof": "documented",
     "sources": [
       "S-064"
@@ -3320,7 +3320,7 @@
   {
     "id": "K-274",
     "name": "Michael Demko",
-    "vitals": "b. 14 and 16 March 1866; Jesztreb, house 32",
+    "vitals": "b. 14 or 15 March 1866, bapt. 16 March; Jesztreb, house 32",
     "proof": "documented",
     "sources": [
       "S-071"
@@ -3452,7 +3452,7 @@
   {
     "id": "K-285",
     "name": "Mihály Kocsis",
-    "vitals": "b. 20 and 21 November [1848 per the label; a heading 1848 follows the entry]; Solymos",
+    "vitals": "b. 20 and 21 November [1847]; Solymos",
     "proof": "documented",
     "sources": [
       "S-076"
@@ -3464,7 +3464,7 @@
   {
     "id": "K-286",
     "name": "Anna Dzurar [?]",
-    "vitals": "godparent, 20 and 21 November [1848 per the label; a heading 1848 follows the entry]",
+    "vitals": "godparent, 20 and 21 November [1847]",
     "proof": "documented",
     "sources": [
       "S-076"
@@ -3687,6 +3687,42 @@
     ],
     "relation": "Godparent in D-005-57.",
     "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-305",
+    "name": "Mary D[an]ko or D[em]ko",
+    "vitals": "1906 to 1991 by a compiled chart; box appears to give a birthplace in the U.S.A. and names Vysoká nad Uhom",
+    "proof": "lead",
+    "sources": [
+      "S-085"
+    ],
+    "relation": "An ancestor on the Javor family chart (D-006-01). Not Maria Demko, Ahn 9, who died in 1950.",
+    "route": "demko",
+    "route_note": "Only if the surname is Demko."
+  },
+  {
+    "id": "K-306",
+    "name": "Andrej D[..]ko",
+    "vitals": "of Vysoká nad Uhom; dates not legible",
+    "proof": "lead",
+    "sources": [
+      "S-085"
+    ],
+    "relation": "Father of K-305 on the chart.",
+    "route": "demko",
+    "route_note": "Only if the surname is Demko."
+  },
+  {
+    "id": "K-307",
+    "name": "Mária M[...]ová",
+    "vitals": "of Vysoká nad Uhom; dates not legible",
+    "proof": "lead",
+    "sources": [
+      "S-085"
+    ],
+    "relation": "Mother of K-305 on the chart.",
+    "route": "demko",
     "route_note": ""
   }
 ]

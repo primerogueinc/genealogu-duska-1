@@ -724,7 +724,8 @@
   "log": [
    {
     "batch": "B-015",
-    "note": "No change (65). The book that would settle it now has a number (L-018, a lead). No page of it is in hand."
+    "note": "The book that would settle it now has a number (L-018, a lead). No page of it is in hand.",
+    "effect": "no change"
    }
   ]
  },
@@ -771,7 +772,8 @@
   "log": [
    {
     "batch": "B-015",
-    "note": "No change (70). The Places agent searched for a documented custom of entering a man under his wife's surname or house name in these villages and found none (PL-SR-19, PL-N-027 @208af51); Slovak studies describe a 'name of the house' elsewhere in the country. The identification rests on the entries themselves."
+    "note": "The Places agent searched for a documented custom of entering a man under his wife's surname or house name in these villages and found none (PL-SR-19, PL-N-027 @208af51); Slovak studies describe a 'name of the house' elsewhere in the country. The identification rests on the entries themselves.",
+    "effect": "no change"
    }
   ]
  },
@@ -800,7 +802,8 @@
   "log": [
    {
     "batch": "B-015",
-    "note": "No change (35). The test is unchanged; the Senné volumes that hold the baptism and the burials are named in L-018."
+    "note": "The test is unchanged; the Senné volumes that hold the baptism and the burials are named in L-018.",
+    "effect": "no change"
    }
   ],
   "necronym_risk": "unresolved"
@@ -843,9 +846,34 @@
   "log": [
    {
     "batch": "B-014",
-    "note": "No change (55). The Demko agent, reading this repo before B-013, set as its own test a Mária Kocsis baptised at Solymos in 1885 to 1887 (DM→DU-007). This entry is that record; it has not yet ruled on it."
+    "note": "The Demko agent, reading this repo before B-013, set as its own test a Mária Kocsis baptised at Solymos in 1885 to 1887 (DM→DU-007). This entry is that record; it has not yet ruled on it.",
+    "effect": "no change"
+   },
+   {
+    "batch": "B-016",
+    "effect": "no change",
+    "note": "The Demko agent read the same strip before opening this entry and reached the same reading (DM-H-031, 58). It adds that this book notes infant deaths in the remarks column on eight of its strips and her cell is blank. Weak, and one reading shared by two agents, not two witnesses. Held at 55."
    }
   ],
   "necronym_risk": "unresolved"
+ },
+ {
+  "id": "H-039",
+  "statement": "The woman on the Javor chart is a Demko, not a Danko: Mary Demko, born 1906, daughter of Andrej Demko of Vysoká nad Uhom, and so of the same village as the Viszoka Demkos of folder F-004.",
+  "confidence": 50,
+  "basis": "The surname on the chart cannot be read past D..ko. For Demko: the chart names Vysoká nad Uhom, where fourteen Demko baptisms of 1831 to 1883 are in hand. For Danko: that surname is also in hand in this district, at Szenna in 1877 and 1896. That the file sat in the owner's genealogy folder, and that the Sorter put it in the shared pile, are labels and move nothing (X-004).",
+  "test": "A full-size copy of the chart; or the 1926 [?] marriage at Vysoká nad Uhom of a Javor to a woman born in 1906.",
+  "status": "open",
+  "raised": "B-016",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-016",
+    "effect": "raised at 50",
+    "note": "Routed to the Demko agent, who owns the question. She is not Ahn 9: Maria Demko died at Montréal in 1950, this woman in 1991. Two women called Mary D..ko, both born in 1906, must not be merged."
+   }
+  ],
+  "route": "demko"
  }
 ]

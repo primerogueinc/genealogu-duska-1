@@ -79,5 +79,18 @@
       "B-009"
     ],
     "archive_path": "records/F-X01_Demko-Documents_cross-review/"
+  },
+  {
+    "id": "F-006",
+    "desktop_path": "AAAA Unclassified (received through the Sorter's piles, not from the owner directly)",
+    "described_as": "The owner's mixed folder. A sorting agent divides it into piles in a private repository; this agent reads the pile for the Duska line and the pile for both lines (rulings X-019, X-020). At private commit 2e9dd04 the Duska pile was empty and the shared pile held one file. The pile is the sorter's label: a prior, not evidence.",
+    "status": "open",
+    "first_seen": "2026-11-12",
+    "files_received": 1,
+    "batches": [
+      "B-016"
+    ],
+    "archive_path": "records/F-006_AAAA-Unclassified_sorter-piles/ (manifest only; the image is held)",
+    "private_commit_read": "2e9dd04; piles unchanged at 9bf2c7a"
   }
 ]

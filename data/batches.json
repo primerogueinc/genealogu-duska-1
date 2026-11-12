@@ -828,6 +828,30 @@
   ],
   "people_added": [],
   "sources_added": [],
+  "committed_utc": "2026-11-12T06:51:25Z"
+ },
+ {
+  "id": "B-016",
+  "date": "2026-11-12",
+  "title": "Ledgers v15 and v16; the first file from the sorter's piles is somebody else's family tree",
+  "folder": "F-006",
+  "files": 1,
+  "blurb": "The owner gave this session read access to the private repository, and the two piles meant for this agent were read at once. The pile for the Duska line is empty. The shared pile holds one file: a printed family-tree chart of a family named Javor, with the Slovak word for 'preview' stamped across it. No Duska can be read anywhere on it. One ancestor can be read in part, a woman called Mary Danko or Demko, born in 1906 and dead in 1991, whose parents are placed at Vysoká nad Uhom, the village of the Demko baptisms in an earlier folder. She is not Maria Demko of this line, who was also born in 1906 but died at Montréal in 1950; the two must not be merged. Whether her name is Demko at all is raised as a question for the Demko agent. The chart shows living people with their birth dates, so the image is not published here: only its name and checksum are. Ledgers v15 and v16 are read too. Version 16 brings the coordinator's tables level with the boards and asks each blind agent what it can see of the owner's memory notes; the answer is in the note to the coordinator. Version 15 rules how the wife of Štefan Duska will be entered when a record of their marriage arrives: her name and the marriage, nothing of her own family. The cross-review settled five small differences with the Demko agent. Four go its way after a second look at the strips: a house number at Jesztreb is 28, not 38; a birth of 1866 is the 14th or 15th of March; a Kocsis baptism belongs to November 1847; and an 'unfinished' row of 1870 is the first attempt at an entry made properly three lines later, so one child, Anna, born in January 1871, where two were counted.",
+  "raised": [
+   "H-039"
+  ],
+  "resolved": [],
+  "revised": [
+   "H-038"
+  ],
+  "people_added": [
+   "K-305",
+   "K-306",
+   "K-307"
+  ],
+  "sources_added": [
+   "S-085"
+  ],
   "committed_utc": null
  }
 ]

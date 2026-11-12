@@ -280,5 +280,47 @@
   "date": "2026-11-12",
   "decided": "Transcribed the later Slovak note on D-005-36 as written, at the Places agent's request.",
   "why": "It asked for any stamp, number or office name in the later hand. There is none on either strip that carries such a note."
+ },
+ {
+  "id": "DEC-48",
+  "date": "2026-11-12",
+  "decided": "Read ledger v15 and adopted ruling X-022 as protocol rule 24: when a record of the marriage of Ahn 4 arrives, his wife is entered by name and marriage only, the fields that reach into her own family are withheld, and the image is held.",
+  "why": "Ledger v15. It answers the question put at B-014."
+ },
+ {
+  "id": "DEC-49",
+  "date": "2026-11-12",
+  "decided": "Attached the private repository read-only after the owner approved it in this chat, and checked out only the two piles given to this agent. No other folder was listed or opened, the top-level notes of that repository were not read, and it was not registered with the session, which would have loaded its top-level instructions. Read at private commit 2e9dd04.",
+  "why": "The owner's words: read only your piles. Rulings X-019, X-020 and X-021."
+ },
+ {
+  "id": "DEC-50",
+  "date": "2026-11-12",
+  "decided": "The Javor chart (D-006-01) is not committed. Its name, size and SHA-256 are logged. Nobody on it born less than 100 years ago is named here, and the personal name in the owner's subfolder name is withheld.",
+  "why": "The chart shows living third parties with full birth dates (X-013, X-016 item 5)."
+ },
+ {
+  "id": "DEC-51",
+  "date": "2026-11-12",
+  "decided": "Accepted four of the Demko agent's readings after looking at the strips again: D-005-38 house 28; D-005-45 born 14 or 15 March 1866; D-005-50 of November 1847; D-005-58 and D-005-08 one child, Anna, born 12 January 1871. Family groups FG-15 and FG-21 corrected.",
+  "why": "X-012: compare independent readings. In each case the image supports its reading or cannot decide against it."
+ },
+ {
+  "id": "DEC-52",
+  "date": "2026-11-12",
+  "decided": "Reported to the coordinator that a message the owner pasted into this chat, written by the coordinator, carried the given name of Ahn 5 and the name of another agent. Ahn 5 is not entered on the tree from it.",
+  "why": "X-021 item 6: a fact from outside the blind line reaches this agent only through the coordinator, logged and scored as given. The coordinator has not yet logged this one."
+ },
+ {
+  "id": "DEC-53",
+  "date": "2026-11-12",
+  "decided": "Hypothesis log entries from B-014 and B-015 were missing the 'effect' field and showed as 'undefined' on the page. Field added; no wording of substance changed.",
+  "why": "A display fault found while building."
+ },
+ {
+  "id": "DEC-54",
+  "date": "2026-11-12",
+  "decided": "Read ledger v16 in the same batch. Answered its question under C-18 in the note to the coordinator. Re-checked the private repository at 9bf2c7a: the two piles are unchanged. No entry here needed changing: the ledger's tables now show this board's own figures.",
+  "why": "Ledger v16 arrived while B-016 was being written."
  }
 ]
