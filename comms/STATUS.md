@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-11 after batch B-008 (read ledger v3). The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-11 after batch B-009. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -9,10 +9,12 @@ Updated 2026-11-11 after batch B-008 (read ledger v3). The convention in use is 
 
 - F-003 `Duska Baptisms/Belza (Kosice) - Greek Catholic` (2 files, complete): baptisms of György Demko, 1895, and Mária Hriczko, 1894. No Duska.
 - F-004 `Duska Baptisms/Cicarovce` (20 files, complete): Demko baptisms at Viszoka 1831 to 1883, Tirpák and Kocsis entries. No Duska. Family groups in data/families.json.
+- F-005 `Duska Baptisms/Inacovce (Solymos) - Greek Catholic` (part 1, 11 files, open): Krak, Demko and Kocsis entries; one possible Duska, Szenna 72, 1877.
+- F-X01: three files copied from the Demko repo under X-012 (1947 certificate, gravestone, 1966 deed).
 
 ## Concluded
 
-- Direct line so far, all by Kevin's statement and none by record: Ahn 1, 2, 4 (Stefan), 8 (Mihaly), 9 (Maria Demko).
+- Direct line: Ahn 1 and 2 by Kevin's statement. Ahn 4 Štefan (b. 1929, Senné 160), Ahn 8 Michal (Mike) Duska and Ahn 9 Maria Demko documented by the 1947 certificate, the gravestone and the 1966 deed.
 - Ahn 9 is Maria Demko by Kevin's prior statement. No record yet.
 - H-009 solved: Folder 1 is not a register.
 - H-015 refuted: the 1882 strip is from the Čičarovce Greek Catholic register.

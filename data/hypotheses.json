@@ -2,32 +2,43 @@
   {
     "id": "H-001",
     "statement": "The paternal grandfather (Ahn 4) was born in Canada, c. 1925-1942, to parents who emigrated from Czechoslovakia.",
-    "confidence": 55,
+    "confidence": 2,
     "basis": "Father born 1962. Maria Demko's birth record sits in an old-country archive, which makes her the immigrant generation.",
     "test": "Grandfather's birth or baptism record; 1931 Census of Canada; any obituary.",
-    "status": "open",
+    "status": "refuted",
     "raised": "B-000",
-    "resolved": null,
-    "resolution": null,
+    "resolved": "B-009",
+    "resolution": "Štefan Duska was born at Senné, house 160, in 1929 (S-024, register vol. IV, p. 110, entry 43). He was not born in Canada.",
     "log": [
       {
         "batch": "B-008",
         "effect": "55% unchanged",
         "note": "Kevin states his father was born in Montréal in 1962 (S-000-5). Ahn 4 was therefore in Montréal by 1962. That fits a Canadian-born Stefan and an immigrant Stefan equally, so no move."
+      },
+      {
+        "batch": "B-009",
+        "effect": "55% to 2%",
+        "note": "Refuted by record."
       }
     ]
   },
   {
     "id": "H-002",
     "statement": "The immigrant generation reached Canada between 1924 and 1930.",
-    "confidence": 60,
+    "confidence": 20,
     "basis": "US quotas of 1921 and 1924 pushed Slovak emigration toward Canada in exactly those years.",
     "test": "Passenger lists and Form 30A (1919-1924), Canadian arrivals 1925-1935, naturalization lists 1915-1951.",
     "status": "open",
     "raised": "B-000",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-009",
+        "effect": "60% to 20%",
+        "note": "Štefan was born at Senné in late 1929, so mother and son were still in Slovakia then. Only the father could have reached Canada by 1930 (see H-029)."
+      }
+    ]
   },
   {
     "id": "H-003",
@@ -50,10 +61,10 @@
   {
     "id": "H-004",
     "statement": "The Duska male line is from Senné (Szenna, Ung county). Iňačovce enters through a wife's family.",
-    "confidence": 45,
+    "confidence": 70,
     "basis": "Two villages 4 km apart usually means a marriage between them. PR-6 places Duska households in Senné in 1930.",
     "test": "Baptism and marriage entries giving house numbers and the bride's village.",
-    "status": "open",
+    "status": "supported",
     "raised": "B-000",
     "resolved": null,
     "resolution": null,
@@ -72,16 +83,21 @@
         "batch": "B-008",
         "effect": "45% unchanged",
         "note": "Places agent, 12 Nov: Senné lay in the Nagykapos district and Iňačovce in the Szobránc district, so district papers for the two villages are in different series."
+      },
+      {
+        "batch": "B-009",
+        "effect": "45% to 70%",
+        "note": "Michal Duska is \"of Senné\" and Maria Demko \"of Iňačovce\" on the 1947 certificate. That is the pattern predicted. Held at the cap: one generation is documented, and a lead still places an older Dúška family in Iňačovce (L-006)."
       }
     ]
   },
   {
     "id": "H-005",
     "statement": "The Duskas were Roman Catholic and the Demkos Greek Catholic.",
-    "confidence": 55,
+    "confidence": 80,
     "basis": "Senné has a Roman Catholic register (1831-1926). A Rusyn Demko line (PR-4) would normally be Greek Catholic.",
     "test": "Denomination column in any baptism, marriage or census entry.",
-    "status": "open",
+    "status": "supported",
     "raised": "B-000",
     "resolved": null,
     "resolution": null,
@@ -115,13 +131,18 @@
         "batch": "B-008",
         "effect": "55% unchanged",
         "note": "Places agent, 12 Nov: Senné had 580 Roman Catholics and 238 Greek Catholics in 1851, and its Greek Catholics were registered at Iňačovce. A Senné family could be either rite."
+      },
+      {
+        "batch": "B-009",
+        "effect": "55% to 80%",
+        "note": "The 1947 certificate marks Michal Duska Roman Catholic and Maria Demko Greek Catholic. Documented for Ahn 8 and Ahn 9. Not yet shown for earlier Duskas: the János Du[s]ko of 1877 has a Greek Catholic wife and a daughter in the Greek Catholic book."
       }
     ]
   },
   {
     "id": "H-006",
     "statement": "Maria Demko was born c. 1890-1910 in an Ung county parish, and her entry is in the Mukachevo Eparchy Greek Catholic series held at Uzhhorod.",
-    "confidence": 50,
+    "confidence": 30,
     "basis": "L-003: that series covers Ung parishes 1826-1938 and is the usual reason a Slovak-side record ends up in Uzhhorod.",
     "test": "Her age in any Canadian or Czechoslovak record, then a page-by-page search of the matching parish and years.",
     "status": "open",
@@ -143,6 +164,11 @@
         "batch": "B-004",
         "effect": "45% to 50%",
         "note": "Entry 33 of this batch is a daughter of a Greek Catholic father and a Roman Catholic mother, entered in what the folder calls a Greek Catholic book. Between the two Catholic rites the daughters-follow-mother default was not always kept, so a Demko daughter could well be in a Greek Catholic book."
+      },
+      {
+        "batch": "B-009",
+        "effect": "50% to 30%",
+        "note": "Her birth year (1906) is inside the window, and Solymos is an Ung parish. But the Iňačovce Greek Catholic register is reported to run only to 1898 at Prešov, and a civil record is now in hand, which favours H-014."
       }
     ],
     "question": "X-Q-01"
@@ -178,7 +204,7 @@
   {
     "id": "H-008",
     "statement": "Jozef Duska of Senné no. 73 (1930) is not Ahn 8. The direct-line ancestor had left for Canada before the 1930 census.",
-    "confidence": 70,
+    "confidence": 45,
     "basis": "Follows from H-002. PR-6 gives the household but not its relationship to the direct line.",
     "test": "The 1930 census sheet for house 73 and the notes on absent household members.",
     "status": "open",
@@ -190,6 +216,11 @@
         "batch": "B-003",
         "effect": "55% to 70%",
         "note": "Ahn 8 is stated to be Mihaly, so Jozef of house 73 is not Ahn 8. Whether Mihaly had left for Canada by 1930 is still untested."
+      },
+      {
+        "batch": "B-009",
+        "effect": "70% to 45%",
+        "note": "Ahn 8 is Michal, so he is not the Jozef of house 73. But the family lived at Senné 160 in late 1929, so whether Michal had left by the 1930 census is open."
       }
     ]
   },
@@ -254,10 +285,10 @@
   {
     "id": "H-012",
     "statement": "Mihály Demkó (b. 1882) is the father of Maria Demko, Ahn 9. That would make him Ahn 18 and György Demkó and Mária Hreskó Ahn 36 and 37.",
-    "confidence": 25,
+    "confidence": 70,
     "basis": "The owner filed this under leads and named the file for Mihály, which is what a researcher does with a person on the line. A man born in 1882 fits as father of a woman whose son was born c. 1925-1942.",
     "test": "Maria Demko's birth or marriage record naming her father; any record giving her age.",
-    "status": "open",
+    "status": "supported",
     "raised": "B-002",
     "resolved": null,
     "resolution": null,
@@ -281,6 +312,11 @@
         "batch": "B-007",
         "effect": "30% to 25%",
         "note": "Still possible. This folder adds rival fathers for a Maria Demko born about 1885 to 1910 (H-023, H-024). A first Mihály, a twin of 1873, is marked with a cross, so the Mihály of 1882 was the couple's second son of that name."
+      },
+      {
+        "batch": "B-009",
+        "effect": "25% to 70%",
+        "note": "Per the Demko agent's civil birth registration of 1906 (DM-D-008 @57861ad, cited, not read by this agent): Maria's father is Mihály Demkó, born at Magasrév (Viszoka), aged 24 in 1906. That matches the boy baptised at Viszoka in August 1882. Identity by name, place and age, so held at the cap (X-009). The Demko agent has it at 70."
       }
     ],
     "question": "X-Q-03"
@@ -288,13 +324,13 @@
   {
     "id": "H-013",
     "statement": "Maria Demko is a sister of Mihály: a daughter of György Demkó and Mária Hreskó of Viszoka, born c. 1885-1900.",
-    "confidence": 8,
+    "confidence": 1,
     "basis": "Rival to H-012. The same couple could have had a daughter Maria in those years.",
     "test": "Search the same register for other children of this couple, 1875-1900.",
-    "status": "open",
+    "status": "refuted",
     "raised": "B-002",
-    "resolved": null,
-    "resolution": null,
+    "resolved": "B-009",
+    "resolution": "Maria Demko's parents are Mihály Demkó and Mária Kocsis, per the Demko agent's civil birth registration of 1906 (DM-D-008 @57861ad, cited, not read by this agent). She is not a daughter of György Demkó and Mária Hreskó.",
     "log": [
       {
         "batch": "B-004",
@@ -310,6 +346,11 @@
         "batch": "B-007",
         "effect": "20% to 8%",
         "note": "Mária Hreskó was already a mother in January 1857 (D-004-13). She cannot plausibly have borne a daughter late enough to be the grandmother of a man born in 1962."
+      },
+      {
+        "batch": "B-009",
+        "effect": "8% to 1%",
+        "note": "Refuted."
       }
     ],
     "question": "X-Q-03"
@@ -317,14 +358,20 @@
   {
     "id": "H-014",
     "statement": "Maria Demko was born after 1 October 1895, and the record in Uzhhorod is the county copy of a civil birth registration, not a church book.",
-    "confidence": 35,
+    "confidence": 60,
     "basis": "Hungary began civil registration in October 1895 and second copies went to the county seat, which for Ung county was Ungvár. That explains an Uzhhorod location for a village now in Slovakia. Rival to H-006. This rule is recalled from training, not sourced (X-010); it can only suggest a test.",
     "test": "Maria's year of birth; the fond and series title of the Uzhhorod record.",
     "status": "open",
     "raised": "B-002",
     "resolved": null,
     "resolution": null,
-    "log": [],
+    "log": [
+      {
+        "batch": "B-009",
+        "effect": "35% to 60%",
+        "note": "First half confirmed: she was born in 1906 and a civil registration exists (the Demko agent's civil birth registration of 1906 (DM-D-008 @57861ad, cited, not read by this agent)). Whether the Uzhhorod record is the county copy of it is still untested."
+      }
+    ],
     "question": "X-Q-01"
   },
   {
@@ -429,13 +476,13 @@
   {
     "id": "H-019",
     "statement": "The owner was searching 1894-1895 because a later record gave Maria Demko an age that points to a birth around 1894-1896.",
-    "confidence": 15,
+    "confidence": 1,
     "basis": "Both files kept from this parish fall within thirteen months of each other, one a Demko and one a Mária.",
     "test": "Maria Demko's age in any passenger list, census, marriage or burial record.",
-    "status": "open",
+    "status": "refuted",
     "raised": "B-004",
-    "resolved": null,
-    "resolution": null,
+    "resolved": "B-009",
+    "resolution": "She was born in 1906 (gravestone S-025; Demko agent's civil record). The owner was not searching 1894 to 1896 for her.",
     "log": [
       {
         "batch": "B-005",
@@ -446,6 +493,11 @@
         "batch": "B-007",
         "effect": "30% to 15%",
         "note": "This folder shows the owner collected Demko baptisms from 1831 to 1883, not a narrow window."
+      },
+      {
+        "batch": "B-009",
+        "effect": "15% to 1%",
+        "note": "Refuted."
       }
     ],
     "question": "X-Q-03"
@@ -489,27 +541,39 @@
   {
     "id": "H-023",
     "statement": "Maria Demko (Ahn 9) is a daughter of János Demkó and Mária Szlekár of Viszoka, born about 1884 to 1895.",
-    "confidence": 15,
+    "confidence": 1,
     "basis": "This couple was still having children in 1883, and their daughters so far are Anna, Erzsébet and Zsuzsánna. Rests on the unproved premise that Ahn 9 belongs to the Viszoka Demkos at all.",
     "test": "Baptisms at Viszoka from 1883 to 1895; any record of Maria's age or father.",
-    "status": "open",
+    "status": "refuted",
     "raised": "B-007",
-    "resolved": null,
-    "resolution": null,
-    "log": [],
+    "resolved": "B-009",
+    "resolution": "Her father is a Mihály and her mother a Kocsis, per the Demko agent's civil birth registration of 1906 (DM-D-008 @57861ad, cited, not read by this agent).",
+    "log": [
+      {
+        "batch": "B-009",
+        "effect": "15% to 1%",
+        "note": "Refuted."
+      }
+    ],
     "question": "X-Q-03"
   },
   {
     "id": "H-024",
     "statement": "Maria Demko (Ahn 9) is a daughter of János Demkó, born 1875, son of György Demkó and Mária Hreskó.",
-    "confidence": 10,
+    "confidence": 1,
     "basis": "He is seven years older than his brother Mihály and could have a daughter from about 1898. Same unproved premise as H-023.",
     "test": "Civil birth registrations for Viszoka after 1895.",
-    "status": "open",
+    "status": "refuted",
     "raised": "B-007",
-    "resolved": null,
-    "resolution": null,
-    "log": [],
+    "resolved": "B-009",
+    "resolution": "Her father is a Mihály, per the Demko agent's civil birth registration of 1906 (DM-D-008 @57861ad, cited, not read by this agent).",
+    "log": [
+      {
+        "batch": "B-009",
+        "effect": "10% to 1%",
+        "note": "Refuted."
+      }
+    ],
     "question": "X-Q-03"
   },
   {
@@ -520,6 +584,66 @@
     "test": "His marriage entry; the 1869 census sheets for Viszoka 120 and 121.",
     "status": "open",
     "raised": "B-007",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-026",
+    "statement": "The father's surname in the 1877 entry for Szenna 72 (D-005-10) is a form of Duska, written Dusko, and not Dunko or Denko.",
+    "confidence": 55,
+    "basis": "Five letters, D-u-?-k-o. The third letter fits s or n in this hand. A surname Dúška is reported at Iňačovce in the 18th century (L-006). The owner's label reads Duska, which counts only as a prior.",
+    "test": "Other entries by the same clerk with a clear s and a clear n before k; the same household in the Senné Roman Catholic register or the 1869 census.",
+    "status": "open",
+    "raised": "B-009",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-027",
+    "statement": "János Du[s]ko of Senné 72 (1877) is a direct ancestor of Michal Duska, Ahn 8: his father or his grandfather.",
+    "confidence": 30,
+    "basis": "Same village and, if H-026 holds, the same rare surname, one or two generations before Michal. Against: his wife is Greek Catholic and Michal is Roman Catholic, and nothing links house 72 to house 160.",
+    "test": "Michal's baptism entry (his father's name); house numbers of Duska households in the Senné register.",
+    "status": "open",
+    "raised": "B-009",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-028",
+    "statement": "Štefan Duska left Czechoslovakia between August 1947 and September 1950, and the 1947 certificate was drawn for that journey.",
+    "confidence": 65,
+    "basis": "A sealed baptism certificate issued for a 17-year-old in August 1947, and his mother's death at Montréal in September 1950. The Demko agent holds the same view for Maria (DM-H-019).",
+    "test": "Canadian passenger lists and immigration records, 1947 to 1950.",
+    "status": "open",
+    "raised": "B-009",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-029",
+    "statement": "Michal Duska went to Canada ahead of his wife and son, between 1930 and 1939, and they followed after the war.",
+    "confidence": 40,
+    "basis": "A common pattern (recalled from training, X-010), and it would explain a family reunited only in the late 1940s. Nothing in hand shows where he was between 1929 and 1950.",
+    "test": "Canadian arrival and naturalization records for a Michal or Mike Duska; the 1930 census sheet for Senné 160.",
+    "status": "open",
+    "raised": "B-009",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-030",
+    "statement": "Michal Duska was born at Senné between 1895 and 1908 and baptised in its Roman Catholic church.",
+    "confidence": 65,
+    "basis": "He is Roman Catholic and \"of Senné\" in 1929, and his wife was born in 1906.",
+    "test": "The Senné Roman Catholic baptism register, which is filmed for 1866 to 1912 (L-001).",
+    "status": "open",
+    "raised": "B-009",
     "resolved": null,
     "resolution": null,
     "log": []

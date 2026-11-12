@@ -50,5 +50,31 @@
       "B-007"
     ],
     "archive_path": "records/F-004_Duska-Baptisms_Cicarovce/"
+  },
+  {
+    "id": "F-005",
+    "desktop_path": "Duska Baptisms/Inacovce (Solymos) - Greek Catholic",
+    "described_as": "Duska Baptisms / Inacovce (Solymos), Greek Catholic. Part 1; more parts expected.",
+    "status": "open",
+    "first_seen": "2026-11-12",
+    "completed": null,
+    "files_received": 11,
+    "batches": [
+      "B-009"
+    ],
+    "archive_path": "records/F-005_Duska-Baptisms_Inacovce-Solymos-Greek-Catholic/"
+  },
+  {
+    "id": "F-X01",
+    "desktop_path": "DEMKO DOCUMENTS (given to the Demko agent, not to this one)",
+    "described_as": "Three of ten files, copied from the Demko agent's repository at 57861ad under ruling X-012 because they bear on the Duska line.",
+    "status": "complete",
+    "first_seen": "2026-11-12",
+    "completed": "2026-11-12",
+    "files_received": 3,
+    "batches": [
+      "B-009"
+    ],
+    "archive_path": "records/F-X01_Demko-Documents_cross-review/"
   }
 ]

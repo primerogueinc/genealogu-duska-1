@@ -80,8 +80,8 @@
       "S-004"
     ],
     "relation": "Unplaced. No stated link to a Duska or a Demko. Surname resembles Hreskó (H-017).",
-    "route": "duska",
-    "route_note": "Duska agent keeps the person; household sent to the Places agent"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-008",
@@ -92,8 +92,8 @@
       "S-004"
     ],
     "relation": "Father of K-007. Unplaced.",
-    "route": "duska",
-    "route_note": "Duska agent keeps the person; household sent to the Places agent"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-009",
@@ -104,8 +104,8 @@
       "S-004"
     ],
     "relation": "Mother of K-007. Unplaced.",
-    "route": "duska",
-    "route_note": "Duska agent keeps the person; household sent to the Places agent"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-010",
@@ -550,8 +550,8 @@
       "S-015"
     ],
     "relation": "Father in FG-07.",
-    "route": "duska",
-    "route_note": "Duska agent keeps; Places agent for the village"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-046",
@@ -563,8 +563,8 @@
       "S-015"
     ],
     "relation": "Mother in FG-07.",
-    "route": "duska",
-    "route_note": "Duska agent keeps; Places agent for the village"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-047",
@@ -575,8 +575,8 @@
       "S-018"
     ],
     "relation": "Child in FG-07.",
-    "route": "duska",
-    "route_note": "Duska agent keeps; Places agent for the village"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-048",
@@ -587,8 +587,8 @@
       "S-015"
     ],
     "relation": "Child in FG-07.",
-    "route": "duska",
-    "route_note": "Duska agent keeps; Places agent for the village"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-049",
@@ -599,8 +599,8 @@
       "S-020"
     ],
     "relation": "Father in FG-08.",
-    "route": "duska",
-    "route_note": "Duska agent keeps; Places agent for the village"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-050",
@@ -611,8 +611,8 @@
       "S-020"
     ],
     "relation": "Mother in FG-08.",
-    "route": "duska",
-    "route_note": "Duska agent keeps; Places agent for the village"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-051",
@@ -623,8 +623,8 @@
       "S-020"
     ],
     "relation": "Child in FG-08.",
-    "route": "duska",
-    "route_note": "Duska agent keeps; Places agent for the village"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-052",
@@ -1070,8 +1070,8 @@
       "S-018"
     ],
     "relation": "Godparent in D-004-14.",
-    "route": "duska",
-    "route_note": "Duska agent keeps; Places agent for the village"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-089",
@@ -1082,8 +1082,8 @@
       "S-018"
     ],
     "relation": "Godparent in D-004-14.",
-    "route": "duska",
-    "route_note": "Duska agent keeps; Places agent for the village"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-090",
@@ -1094,8 +1094,8 @@
       "S-015"
     ],
     "relation": "Godparent in D-004-11.",
-    "route": "duska",
-    "route_note": "Duska agent keeps; Places agent for the village"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-091",
@@ -1106,8 +1106,8 @@
       "S-015"
     ],
     "relation": "Godparent in D-004-11.",
-    "route": "duska",
-    "route_note": "Duska agent keeps; Places agent for the village"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-092",
@@ -1118,8 +1118,8 @@
       "S-020"
     ],
     "relation": "Godparent in D-004-17.",
-    "route": "duska",
-    "route_note": "Duska agent keeps; Places agent for the village"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-093",
@@ -1130,8 +1130,8 @@
       "S-020"
     ],
     "relation": "Godparent in D-004-17.",
-    "route": "duska",
-    "route_note": "Duska agent keeps; Places agent for the village"
+    "route": "demko",
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
   },
   {
     "id": "K-094",
@@ -1180,5 +1180,665 @@
     "relation": "Bystander. Written Hricko on the line below a Hreskó, in the same hand.",
     "route": "demko",
     "route_note": "Demko agent"
+  },
+  {
+    "id": "K-098",
+    "name": "János Kóreny [?]",
+    "vitals": "Greek Catholic, of Jesztreb",
+    "proof": "documented",
+    "sources": [
+      "S-027"
+    ],
+    "relation": "Father in FG-10.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-099",
+    "name": "Mária Krak",
+    "vitals": "of Jesztreb; mother in [1844] and [1852]",
+    "proof": "documented",
+    "sources": [
+      "S-027"
+    ],
+    "relation": "Mother in FG-10.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-100",
+    "name": "András Kóreny",
+    "vitals": "b. 24 Oct [1844], Jesztreb",
+    "proof": "documented",
+    "sources": [
+      "S-027"
+    ],
+    "relation": "Child in FG-10.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-101",
+    "name": "Andrej Koreň",
+    "vitals": "b. 26 Nov [1852], Jesztreb",
+    "proof": "documented",
+    "sources": [
+      "S-028"
+    ],
+    "relation": "Child in FG-10.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-102",
+    "name": "Mihály Fedora",
+    "vitals": "godparent, [1844]",
+    "proof": "documented",
+    "sources": [
+      "S-027"
+    ],
+    "relation": "Godparent in D-005-01.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-103",
+    "name": "Mária Fedora (Fedorova)",
+    "vitals": "godparent, [1844] and [1852]",
+    "proof": "documented",
+    "sources": [
+      "S-027"
+    ],
+    "relation": "Godparent in D-005-01 and D-005-02.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-104",
+    "name": "Ioan Mi[c]ak [?]",
+    "vitals": "godparent, [1852]",
+    "proof": "documented",
+    "sources": [
+      "S-028"
+    ],
+    "relation": "Godparent in D-005-02.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-105",
+    "name": "Lucas Krak",
+    "vitals": "of Jesztreb, [1816]",
+    "proof": "documented",
+    "sources": [
+      "S-029"
+    ],
+    "relation": "Father in FG-11.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-106",
+    "name": "Zuzanna, wife of Lucas Krak",
+    "vitals": "of Jesztreb, [1816]",
+    "proof": "documented",
+    "sources": [
+      "S-029"
+    ],
+    "relation": "Mother in FG-11.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-107",
+    "name": "Anna Krak",
+    "vitals": "bapt. [1816], Jesztreb",
+    "proof": "documented",
+    "sources": [
+      "S-029"
+    ],
+    "relation": "Child in FG-11.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-108",
+    "name": "Joannes [Smaj?]",
+    "vitals": "godparent, [1816]",
+    "proof": "documented",
+    "sources": [
+      "S-029"
+    ],
+    "relation": "Godparent in D-005-03.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-109",
+    "name": "Anna Hudák",
+    "vitals": "Greek rite; godparent, [1816]",
+    "proof": "documented",
+    "sources": [
+      "S-029"
+    ],
+    "relation": "Godparent in D-005-03.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-110",
+    "name": "Mihal Bobnar",
+    "vitals": "farmer, of Szenna 13",
+    "proof": "documented",
+    "sources": [
+      "S-033"
+    ],
+    "relation": "Father in FG-12.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-111",
+    "name": "Anna Krak",
+    "vitals": "of Szenna 13; mother in [1853]",
+    "proof": "documented",
+    "sources": [
+      "S-033"
+    ],
+    "relation": "Mother in FG-12.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-112",
+    "name": "Anna Bobnar",
+    "vitals": "b. 22 Jun [1853], Szenna 13",
+    "proof": "documented",
+    "sources": [
+      "S-033"
+    ],
+    "relation": "Child in FG-12.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-113",
+    "name": "Pavel Trach [?]",
+    "vitals": "godparent, [1853]",
+    "proof": "documented",
+    "sources": [
+      "S-033"
+    ],
+    "relation": "Godparent in D-005-07.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-114",
+    "name": "Elisaveta Khmel [?]",
+    "vitals": "godparent, [1853]",
+    "proof": "documented",
+    "sources": [
+      "S-033"
+    ],
+    "relation": "Godparent in D-005-07.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-115",
+    "name": "Joannes Szmeriga",
+    "vitals": "Greek Catholic, farmer, of Jesztreb 29",
+    "proof": "documented",
+    "sources": [
+      "S-031"
+    ],
+    "relation": "Father in FG-13.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-116",
+    "name": "Susana Demko",
+    "vitals": "Greek Catholic, of Jesztreb 29",
+    "proof": "documented",
+    "sources": [
+      "S-031"
+    ],
+    "relation": "Mother in FG-13.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-117",
+    "name": "András Szmeriga",
+    "vitals": "b. 13 Nov [1864], Jesztreb 29",
+    "proof": "documented",
+    "sources": [
+      "S-031"
+    ],
+    "relation": "Child in FG-13.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-118",
+    "name": "Michael Holubik",
+    "vitals": "godparent, [1864]",
+    "proof": "documented",
+    "sources": [
+      "S-031"
+    ],
+    "relation": "Godparent in D-005-05.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-119",
+    "name": "Susana Mraz",
+    "vitals": "godparent, [1864]",
+    "proof": "documented",
+    "sources": [
+      "S-031"
+    ],
+    "relation": "Godparent in D-005-05.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-120",
+    "name": "Joannes Sirko [?]",
+    "vitals": "of Szenna",
+    "proof": "documented",
+    "sources": [
+      "S-032"
+    ],
+    "relation": "Father in FG-14.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-121",
+    "name": "Elisab. Demko",
+    "vitals": "of Szenna; mother in [1861]",
+    "proof": "documented",
+    "sources": [
+      "S-032"
+    ],
+    "relation": "Mother in FG-14.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-122",
+    "name": "Andreas Sirko [?]",
+    "vitals": "b. 10 Dec [1861], Szenna",
+    "proof": "documented",
+    "sources": [
+      "S-032"
+    ],
+    "relation": "Child in FG-14.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-123",
+    "name": "Andreas De[bnyarszk?]",
+    "vitals": "godparent, [1861]",
+    "proof": "documented",
+    "sources": [
+      "S-032"
+    ],
+    "relation": "Godparent in D-005-06.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-124",
+    "name": "Anna Feror [?]",
+    "vitals": "unmarried; godparent, [1861]",
+    "proof": "documented",
+    "sources": [
+      "S-032"
+    ],
+    "relation": "Godparent in D-005-06.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-125",
+    "name": "Michael Demko",
+    "vitals": "Greek Catholic, cottar, of Jesztreb 54",
+    "proof": "documented",
+    "sources": [
+      "S-034"
+    ],
+    "relation": "Father in FG-15.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-126",
+    "name": "Maria Lazár",
+    "vitals": "of Jesztreb 54",
+    "proof": "documented",
+    "sources": [
+      "S-034"
+    ],
+    "relation": "Mother in FG-15.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-127",
+    "name": "Anna Demko",
+    "vitals": "b. 12 Jan [1870], Jesztreb 54",
+    "proof": "documented",
+    "sources": [
+      "S-034"
+    ],
+    "relation": "Child in FG-15.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-128",
+    "name": "Georgius Mazur",
+    "vitals": "godparent, [1870]",
+    "proof": "documented",
+    "sources": [
+      "S-034"
+    ],
+    "relation": "Godparent in D-005-08.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-129",
+    "name": "Maria Tamás",
+    "vitals": "godparent, [1870]",
+    "proof": "documented",
+    "sources": [
+      "S-034"
+    ],
+    "relation": "Godparent in D-005-08.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-130",
+    "name": "Mihály Demko the younger",
+    "vitals": "Greek Catholic, cottar, of Jesztreb 71",
+    "proof": "documented",
+    "sources": [
+      "S-035"
+    ],
+    "relation": "Father in FG-16. Not the Mihály Demkó born at Viszoka in 1882, who was seven in 1889.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-131",
+    "name": "Anna Jaros",
+    "vitals": "Greek Catholic, of Jesztreb 71",
+    "proof": "documented",
+    "sources": [
+      "S-035"
+    ],
+    "relation": "Mother in FG-16.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-132",
+    "name": "Anna Demko",
+    "vitals": "b. 26 Nov [1889], d. 17 Mar 1891, Jesztreb 71",
+    "proof": "documented",
+    "sources": [
+      "S-035"
+    ],
+    "relation": "Child in FG-16.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-133",
+    "name": "János Mráz",
+    "vitals": "Roman Catholic; godparent, [1889]",
+    "proof": "documented",
+    "sources": [
+      "S-035"
+    ],
+    "relation": "Godparent in D-005-09.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-134",
+    "name": "Anna Kepej, wife of Kozák",
+    "vitals": "godparent, [1889]",
+    "proof": "documented",
+    "sources": [
+      "S-035"
+    ],
+    "relation": "Godparent in D-005-09.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-135",
+    "name": "György Lescsisin",
+    "vitals": "Greek Catholic pastor of Solymos; officiant, [1889]",
+    "proof": "documented",
+    "sources": [
+      "S-035"
+    ],
+    "relation": "Officiant. His title shows the book was kept by the Solymos (Iňačovce) Greek Catholic parish.",
+    "route": "places",
+    "route_note": ""
+  },
+  {
+    "id": "K-136",
+    "name": "János Du[s]ko",
+    "vitals": "of Szenna (Senné) 72 in 1877",
+    "proof": "documented",
+    "sources": [
+      "S-036"
+    ],
+    "relation": "Father in FG-17. Possibly of the Duska line (H-026, H-027).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-137",
+    "name": "Mari Csizmár",
+    "vitals": "Greek Catholic, of Szenna 72",
+    "proof": "documented",
+    "sources": [
+      "S-036"
+    ],
+    "relation": "Mother in FG-17.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-138",
+    "name": "Anna Du[s]ko",
+    "vitals": "b. 26 Nov 1877, Szenna 72",
+    "proof": "documented",
+    "sources": [
+      "S-036"
+    ],
+    "relation": "Child in FG-17.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-139",
+    "name": "Stefán Vaszko",
+    "vitals": "godparent, 1877",
+    "proof": "documented",
+    "sources": [
+      "S-036"
+    ],
+    "relation": "Godparent in D-005-10.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-140",
+    "name": "Anna Csalos",
+    "vitals": "godparent, 1877",
+    "proof": "documented",
+    "sources": [
+      "S-036"
+    ],
+    "relation": "Godparent in D-005-10.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-141",
+    "name": "Joannes [D]enko [?]",
+    "vitals": "Greek Catholic, cottar [?], of Szenna",
+    "proof": "documented",
+    "sources": [
+      "S-030"
+    ],
+    "relation": "Father in FG-18. Surname not confirmed.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-142",
+    "name": "Andreas [D]enko [?]",
+    "vitals": "b. 25 Feb, d. 27 Feb 1870, Szenna",
+    "proof": "documented",
+    "sources": [
+      "S-030"
+    ],
+    "relation": "Child in FG-18.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-143",
+    "name": "Mich. Mucsko",
+    "vitals": "of Szenna; godparent",
+    "proof": "documented",
+    "sources": [
+      "S-030"
+    ],
+    "relation": "Godparent in D-005-04. Compare the godfather Macko-Kocak of 1929 (D-X01-01).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-144",
+    "name": "Georgius Dolin[ay?]",
+    "vitals": "parish priest [?]; baptiser",
+    "proof": "documented",
+    "sources": [
+      "S-030"
+    ],
+    "relation": "Officiant in D-005-04.",
+    "route": "places",
+    "route_note": ""
+  },
+  {
+    "id": "K-145",
+    "name": "János [Kocsis?]",
+    "vitals": "of Solymos 73",
+    "proof": "documented",
+    "sources": [
+      "S-037"
+    ],
+    "relation": "Father in FG-19.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-146",
+    "name": "Mária [Kovács?]",
+    "vitals": "of Solymos 73",
+    "proof": "documented",
+    "sources": [
+      "S-037"
+    ],
+    "relation": "Mother in FG-19.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-147",
+    "name": "Anna [Kocsis?]",
+    "vitals": "b. 18 Mar [1875], Solymos 73",
+    "proof": "documented",
+    "sources": [
+      "S-037"
+    ],
+    "relation": "Child in FG-19.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-148",
+    "name": "Mihály Kenyerző [?]",
+    "vitals": "godparent, [1875]",
+    "proof": "documented",
+    "sources": [
+      "S-037"
+    ],
+    "relation": "Godparent in D-005-11.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-149",
+    "name": "Anna Hutkó",
+    "vitals": "wife of György Ádám; godparent, [1875]",
+    "proof": "documented",
+    "sources": [
+      "S-037"
+    ],
+    "relation": "Godparent in D-005-11.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-150",
+    "name": "Jozef Macko-Kocak [?]",
+    "vitals": "Greek Catholic, grammar-school pupil [?], of Michalovce; godfather in 1929",
+    "proof": "documented",
+    "sources": [
+      "S-024"
+    ],
+    "relation": "Godfather of Štefan Duska, Ahn 4.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-151",
+    "name": "Zuzana [or Juliana] Hanuščak [?]",
+    "vitals": "Roman Catholic, wife of Ján Bandura [?], of Senné; godmother in 1929",
+    "proof": "documented",
+    "sources": [
+      "S-024"
+    ],
+    "relation": "Godmother of Štefan Duska, Ahn 4.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-152",
+    "name": "Ján Barna",
+    "vitals": "parish priest of Senné; baptiser in 1929",
+    "proof": "documented",
+    "sources": [
+      "S-024"
+    ],
+    "relation": "Officiant.",
+    "route": "places",
+    "route_note": ""
   }
 ]

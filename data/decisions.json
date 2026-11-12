@@ -130,5 +130,29 @@
     "date": "2026-11-12",
     "decided": "Recorded the city of birth of a living person (Ahn 2, Montréal) in this public repository, with the year only and no date.",
     "why": "Kevin gave it in this chat for the experiment, and it is evidence for the line: it places Ahn 4 in Montréal by 1962. Flagged to the coordinator, since ruling X-013 says year only for living people other than Kevin."
+  },
+  {
+    "id": "DEC-23",
+    "date": "2026-11-12",
+    "decided": "Copied three files from the Demko agent's repository into this one, with their checksums, and read each from the image before reading that agent's transcription.",
+    "why": "Ruling X-012 item 3: they are records of the Duska line (Ahn 4 and Ahn 8)."
+  },
+  {
+    "id": "DEC-24",
+    "date": "2026-11-12",
+    "decided": "Štefan Duska's day and month of birth are left out of this repository, although the certificate gives them and the Demko repository prints them.",
+    "why": "His status is not confirmed to this agent. Rulings X-013 and X-014: year only until Kevin answers."
+  },
+  {
+    "id": "DEC-25",
+    "date": "2026-11-12",
+    "decided": "The Demko agent's 1906 civil birth record is cited by ID and commit, not copied or re-read.",
+    "why": "It is a record of the Demko line (Ahn 9 and above). Its result is used here only where it rules on this agent's hypotheses."
+  },
+  {
+    "id": "DEC-26",
+    "date": "2026-11-12",
+    "decided": "The Krak entries are kept on the Duska side for now.",
+    "why": "They arrived under a Duska label and show no Demko. No record yet says whose line Krak belongs to."
   }
 ]

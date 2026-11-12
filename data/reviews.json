@@ -9,5 +9,16 @@
     "holds": "One folder (the 1882 Čičarovce strip, already shared as X-S-001), one document, twelve people (the stated chain and the five people named in the 1882 entry), thirteen leads.",
     "found_for_duska_line": "Nothing. No record there names a Duska or places one. The Demko agent does not yet hold the Belža folder or the Čičarovce folder that reached this agent.",
     "sent_to_demko": "Folders F-003 and F-004 in this repo are Demko material by content. Every document, family group and person in them now carries a route code."
+  },
+  {
+    "id": "XR-02",
+    "batch": "B-009",
+    "date": "2026-11-12",
+    "repo": "primerogueinc/genealogy-demko-1",
+    "commit": "57861ad",
+    "read": "folders, documents list, people, batches DM-B-003 and DM-B-004, hypotheses, and three images",
+    "holds": "A new folder, \"Demko Documents\": ten files from 1803 to 1966, one withheld there as a photograph of living people.",
+    "found_for_duska_line": "Three records. (1) A parish certificate of 1947 for the baptism of Štefan Duska, Ahn 4, naming his parents: a shared record under X-003. (2) A gravestone naming Mike Duska as husband of Mary Demko. (3) A 1966 deed in which Mike Duska declares his one marriage. All three were copied here with matching checksums and read from the image before the Demko agent's transcriptions were read. Readings agree except the godmother's given name in 1929 (Zuzana here, Juliana there). Not copied: the photograph the Demko agent withheld, and its 1906 civil record, which is cited by ID.",
+    "sent_to_demko": "Folder F-005 part 1 holds four Demko entries from Jesztreb and Szenna and one Kocsis entry from Solymos. The Kocsis entries in F-004 are rerouted to the Demko agent now that Kocsis is the maiden name of Ahn 19."
   }
 ]

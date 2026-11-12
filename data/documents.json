@@ -872,7 +872,7 @@
         "english": "Julianna. Father: István Kocsis, Greek Catholic. Mother: Erzsébet Dubics, Roman Catholic. Cottar. Godparents: János Haraszti [?] and Julianna Galgóczi. Residence begins 'Nagy' and is cut off at the torn page edge."
       }
     ],
-    "route": "duska"
+    "route": "demko"
   },
   {
     "id": "D-004-12",
@@ -965,7 +965,7 @@
         "english": "Maria. Father: Steph. Kocsis, Greek Catholic. Mother: Elis. Dubics, Roman Catholic. Godparents: Jos. Rácz and Maria Dudo[v]szky [?], wife of Joan. Tóth. Residence: Mogyorós."
       }
     ],
-    "route": "duska"
+    "route": "demko"
   },
   {
     "id": "D-004-15",
@@ -1052,7 +1052,7 @@
         "english": "Mihály, boy, legitimate. Father: Pál Hornyák, Greek Catholic, cottar. Mother: Erzsébet Kocsis, Reformed. Residence: Csicser, house 90. Godparents: András Vojtkó, farmer, and Erzsébet Jakub. Officiant: József Kubek, pastor of Csicser. A note above the entry says it was written two pages too early by mistake."
       }
     ],
-    "route": "duska"
+    "route": "demko"
   },
   {
     "id": "D-004-18",
@@ -1146,5 +1146,430 @@
       }
     ],
     "route": "demko"
+  },
+  {
+    "id": "D-X01-01",
+    "folder": "F-X01",
+    "batch": "B-009",
+    "source": "S-024",
+    "file": "Stefan_Duska_original_baptism_certificate_establishing_Maria_Demko_as_mother.jpg",
+    "sha256": "986ea348678637a6efadbaf495ff06948643efc0f4442ea9ab4fb63f42e93f4a",
+    "route": "duska",
+    "title": "Baptism certificate of Štefan Duska, issued 1947",
+    "span": "Entry of October 1929; certificate of 19 August 1947",
+    "language": "Latin and Slovak printed form, filled in Slovak",
+    "entries": [
+      {
+        "no": "43 of 1929",
+        "date": "born and baptised October 1929 (days are on the certificate; withheld here until his status is confirmed)",
+        "from": "Roman Catholic parish of Senné, baptism register vol. IV, p. 110",
+        "abstract": "Štefan, male, legitimate. Father: Michal Duska, Roman Catholic, cottar (želiar), of Senné. Mother: Maria Demko, Greek Catholic, of Iňačovce. Residence: Senné, house 160. Godparents: Jozef Macko-Kocak [?], Greek Catholic, grammar-school pupil [?], of Michalovce; Zuzana [or Juliana] Hanuščak [?], Roman Catholic, wife of Ján Bandura [?], of Senné. Baptised by Ján Barna, parish priest. Certificate no. 106 of 1947, district of Veľké Kapušany, Apostolic Administration of Szatmár in Slovakia; issued at Senné on 19 August 1947, signed and sealed.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written on the certificate",
+        "original": "Nr. 106 / 1947. [...] in Matricula Baptisatorum Ecclesiae paroecialis Rom. Cath. in Sennom [...] districtus Veľ. Kapušany [...] in dioecesi Satmárska Apošt. Admin. na Slov. [...] in tomo IV. pag. 110 [...] Anno Domini 1929 tisícdeväťstodvadsaťdeväť. | 43. | [..]. [..]. októbra 1929 | Štefan | muž. | zák. | Michal Duska rkat. želiar Senné; Maria Demko grkat. Iňačovce | Senné 160. | Jozef Macko-Kocak [?] grk. gymnasista [?] Michalovce; Zuzana [Juliana?] Hanuščak [?] rk. žena Jána Bandura [?] Senné | Ján Barna farár | Datum: Senné, die 19. mensis Augusta anno 1947.",
+        "english": "No. 106 of 1947. From the baptism register of the Roman Catholic parish church at Senné, district of Veľké Kapušany, Apostolic Administration of Szatmár in Slovakia, volume IV, page 110, year 1929. Entry 43: October 1929, Štefan, male, legitimate. Michal Duska, Roman Catholic, cottar, of Senné; Maria Demko, Greek Catholic, of Iňačovce. Senné 160. Godparents Jozef Macko-Kocak [?], Greek Catholic, grammar-school pupil [?], of Michalovce; Zuzana [Juliana?] Hanuščak [?], Roman Catholic, wife of Ján Bandura [?], of Senné. Baptised by Ján Barna, parish priest. Given at Senné, 19 August 1947."
+      }
+    ]
+  },
+  {
+    "id": "D-X01-02",
+    "folder": "F-X01",
+    "batch": "B-009",
+    "source": "S-025",
+    "file": "Gravestone_of_Maria_Demko_1906_-_Notre_Dame_des_Neiges_Montreal.jpg",
+    "sha256": "617025cf310be5473023ac3a64ee98503052c168ff85aed03c72ffc9a8cf60ad",
+    "route": "demko",
+    "title": "Gravestone: Mary Demko, wife of Mike Duska",
+    "span": "1906 to 1950",
+    "language": "English",
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "born 1906, died 1950",
+        "from": "Gravestone; cemetery per the owner's file name: Notre-Dame-des-Neiges, Montréal",
+        "abstract": "Family name DUSKA across the top. In loving memory of Mary Demko, born 1906, died 1950, beloved wife of Mike Duska. No other name is cut on the face shown.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Inscription",
+        "original": "DUSKA / IN LOVING MEMORY OF / MARY DEMKO / BORN 1906 DIED 1950 / BELOVED WIFE OF / MIKE DUSKA",
+        "english": "DUSKA. In loving memory of Mary Demko, born 1906, died 1950, beloved wife of Mike Duska."
+      }
+    ]
+  },
+  {
+    "id": "D-X01-03",
+    "folder": "F-X01",
+    "batch": "B-009",
+    "source": "S-026",
+    "file": "Maria_Demko_Notarial_Document_Regarding_Guardianship_of_NAME_WITHHELD_-_establishes_date_of_death.jpg",
+    "sha256": "57e158a05aa586a97944516a1ffdd112522130f0fa64c9c2962db6df4781a846",
+    "route": "duska",
+    "title": "Deed of sale, 1966: Mike Duska married once, to Maria Demko",
+    "span": "effective 1 November 1966",
+    "language": "English",
+    "entries": [
+      {
+        "no": "clause 4",
+        "date": "1966; her death 9 Sep 1950",
+        "from": "Notarial deed of sale, Montréal, one page of several",
+        "abstract": "Mike Duska, the seller, declares that he was married once, to the late Maria Demko, who died at Montréal on 9 September 1950, and that he has not remarried. Taxes on the property are paid to 1 November 1966 and the sale takes effect that day. The page shown names no one else.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Clause 4",
+        "original": "4. THAT the said Mike Duska was married but once, namely, to the late Dame Maria Demko, who died at the City of Montreal, on the Ninth day of September, Nineteen Hundred and Fifty, and that he has not remarried since the date of the death of his late said wife.",
+        "english": "(English original.)"
+      }
+    ]
+  },
+  {
+    "id": "D-005-01",
+    "folder": "F-005",
+    "batch": "B-009",
+    "source": "S-027",
+    "file": "Baptirm_of_Andra_Kovesny_Krak_1844.png",
+    "sha256": "4f4e4f924b560e40bb20adf5f2d20af3cef1e67365d7880cc2332857c0848ead",
+    "wide": true,
+    "title": "Baptism of András Koreny, son of a Krak mother, 1844",
+    "span": "24 October [1844]",
+    "language": "Hungarian",
+    "collector_label": "Baptirm of Andra Kovesny Krak 1844",
+    "family": "FG-10",
+    "route": "duska",
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "b. 24 Oct, bapt. Oct [1844]",
+        "from": "Baptism register, Iňačovce Greek Catholic (per folder name)",
+        "abstract": "András. Father: János Kóreny [?]. Mother: Mária Krak. Greek Catholic. Godparents: Mihály Fedora and Mária Fedora. Residence: Jesztreb [abbreviated].",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "Oct. 24 | Oct. [..] | András | Kóreny [?] Ján., Mária Krak | G.C. | [...] | Fedora Mihály, Mária Fedora | Jeszt[reb]",
+        "english": "András. Father: János Kóreny [?]. Mother: Mária Krak. Greek Catholic. Godparents: Mihály Fedora and Mária Fedora. Residence: Jesztreb [abbreviated]."
+      }
+    ]
+  },
+  {
+    "id": "D-005-02",
+    "folder": "F-005",
+    "batch": "B-009",
+    "source": "S-028",
+    "file": "Baptism_of_A._Koreho_Krak_1852.png",
+    "sha256": "0c5d2e626ea57f1f4673b5ea3d04c184fb3af1027b223a42257606f7592497cd",
+    "wide": true,
+    "title": "Baptism of Andrej Koreň, son of a Krak mother, 1852 (Cyrillic)",
+    "span": "26 and 27 November [1852]",
+    "language": "Church Slavonic / Rusyn in Cyrillic",
+    "collector_label": "Baptism of A. Koreho Krak 1852",
+    "family": "FG-10",
+    "route": "duska",
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "b. 26 Nov, bapt. 27 Nov [1852]",
+        "from": "Baptism register, Iňačovce Greek Catholic (per folder name)",
+        "abstract": "Andrej. Father: Ioann Koreň. Mother: Marija Krak. Godparents: Ioan Mi[c]ak [?] and Marija Fedorova. Residence: Jesztreb [abbreviated].",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "26 | 27 | Nov. | Андрей | Корень Іоаннъ, Марія Krak | [...] | Іоан Ми[ц]ак [?], Марія Федорова | Ястр[еб]",
+        "english": "Andrej. Father: Ioann Koreň. Mother: Marija Krak. Godparents: Ioan Mi[c]ak [?] and Marija Fedorova. Residence: Jesztreb [abbreviated]."
+      }
+    ]
+  },
+  {
+    "id": "D-005-03",
+    "folder": "F-005",
+    "batch": "B-009",
+    "source": "S-029",
+    "file": "Baptism_of_Alona_Krak_1816.png",
+    "sha256": "a895fb69726122cf6da0ca500cf44e198395733dd21af54073f2bafcf0ce2c48",
+    "wide": true,
+    "title": "Baptism of Anna Krak, 1816 (labelled Alona)",
+    "span": "2nd of an unnamed month [1816]",
+    "language": "Latin",
+    "collector_label": "Baptism of Alona Krak 1816",
+    "family": "FG-11",
+    "route": "duska",
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "bapt. 2nd [month not on strip; 1816]",
+        "from": "Baptism register, Iňačovce Greek Catholic (per folder name)",
+        "abstract": "Anna. Parents: Lucas and Zuzanna Krak. Godparents: Joannes [Smaj?] and Anna Hudák, Greek rite. Place: Jesztreb. The owner's file name reads Alona; the child's name on the strip is Anna.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "d° | 2 | d° | Jesz-treb | d° | Anna | Lucas et Zuzanna Krak | Joannes [Smaj?], Anna Hudák G.R.",
+        "english": "Anna. Parents: Lucas and Zuzanna Krak. Godparents: Joannes [Smaj?] and Anna Hudák, Greek rite. Place: Jesztreb. The owner's file name reads Alona; the child's name on the strip is Anna."
+      }
+    ]
+  },
+  {
+    "id": "D-005-04",
+    "folder": "F-005",
+    "batch": "B-009",
+    "source": "S-030",
+    "file": "Baptism_of_Andra_Demko_-_maybe_1876.png",
+    "sha256": "8993101ad3388cf3b59e5bec3e2b477499b3b22e371837f6208f2f88a4a20623",
+    "wide": true,
+    "title": "Baptism of Andreas, 1870 or earlier (labelled Demko, maybe 1876)",
+    "span": "25 February [1870 or earlier]",
+    "language": "Latin",
+    "collector_label": "Baptism of Andra Demko - maybe 1876",
+    "family": "FG-18",
+    "route": "duska",
+    "entries": [
+      {
+        "no": "6",
+        "date": "b. and bapt. 25 Feb; d. 27 Feb 1870",
+        "from": "Baptism register, Iňačovce Greek Catholic (per folder name)",
+        "abstract": "Andreas. Father: Joannes [D]enko [?], Greek Catholic, cottar [?]. Mother not read. Residence: Szenna. Godparents: Mich. Mucsko and [...], of Szenna. Baptised by Georgius Dolin[ay?], parish priest [?]. Remark: died 27 February 1870. The ink in the parents' cell is very faint. The owner's label says Demko, maybe 1876; the death note shows the entry is of 1870 or earlier, and the surname cannot be confirmed from this image.",
+        "reading": "low"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "6. | 25a febr. | 25a febr. | Andreas | [...] | Joannes [D]enko [?] g.c. inquil., [...] | Szenna | Mucsko Mich. et [...] Senenses | A.R. Georg. Dolin[ay?] parochus [...] | mortuus 27 februar. 1870.",
+        "english": "Andreas. Father: Joannes [D]enko [?], Greek Catholic, cottar [?]. Mother not read. Residence: Szenna. Godparents: Mich. Mucsko and [...], of Szenna. Baptised by Georgius Dolin[ay?], parish priest [?]. Remark: died 27 February 1870. The ink in the parents' cell is very faint. The owner's label says Demko, maybe 1876; the death note shows the entry is of 1870 or earlier, and the surname cannot be confirmed from this image."
+      }
+    ]
+  },
+  {
+    "id": "D-005-05",
+    "folder": "F-005",
+    "batch": "B-009",
+    "source": "S-031",
+    "file": "Baptism_of_Andras_Demko_1864.png",
+    "sha256": "0332ded9d0e79f0b47ca1b84265e88104a71c12d809a0bc176b47978e379f4d1",
+    "wide": true,
+    "title": "Baptism of András Szmeriga, son of a Demko mother, 1864",
+    "span": "13 and 14 November [1864]",
+    "language": "Latin",
+    "collector_label": "Baptism of Andras Demko 1864",
+    "family": "FG-13",
+    "route": "demko",
+    "entries": [
+      {
+        "no": "61",
+        "date": "b. 13 Nov, bapt. 14 Nov [1864]",
+        "from": "Baptism register, Iňačovce Greek Catholic (per folder name)",
+        "abstract": "András, male, legitimate. Father: Joannes Szmeriga, Greek Catholic, farmer (colonus). Mother: Susana Demko, Greek Catholic. Residence: Jesztreb, house 29. Godparents: Michael Holubik and Susana Mraz.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "61. | November 13. | 14 | András | masc. | legitim. | Joannes Szmeriga G.C. colonus, Susana Demko G.C. | Jesztreb numer. dom. 29 | Michael Holubik, Susana Mraz",
+        "english": "András, male, legitimate. Father: Joannes Szmeriga, Greek Catholic, farmer (colonus). Mother: Susana Demko, Greek Catholic. Residence: Jesztreb, house 29. Godparents: Michael Holubik and Susana Mraz."
+      }
+    ]
+  },
+  {
+    "id": "D-005-06",
+    "folder": "F-005",
+    "batch": "B-009",
+    "source": "S-032",
+    "file": "Baptism_of_Andreas_Demko_1861.png",
+    "sha256": "4d92d6421b81294c6a6a69f34163593b50bd464292553e8009d715326ca4f043",
+    "wide": true,
+    "title": "Baptism of Andreas Sirko, son of a Demko mother, 1861",
+    "span": "10 December [1861]",
+    "language": "Latin",
+    "collector_label": "Baptism of Andreas Demko 1861",
+    "family": "FG-14",
+    "route": "demko",
+    "entries": [
+      {
+        "no": "18",
+        "date": "b. and bapt. 10 Dec [1861]",
+        "from": "Baptism register, Iňačovce Greek Catholic (per folder name)",
+        "abstract": "Andreas. Father: Joannes Sirko [?]. Mother: Elisab. Demko. Residence: Szenna. Godparents: Andreas De[bnyarszk?] and Anna Feror [?], unmarried.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "18 | December 10 | 10. | Andreas | Joannes Sirko [?], Elisab. Demko | Szenna | Andreas De[bnyarszk?], Anna Feror [?] coelebs",
+        "english": "Andreas. Father: Joannes Sirko [?]. Mother: Elisab. Demko. Residence: Szenna. Godparents: Andreas De[bnyarszk?] and Anna Feror [?], unmarried."
+      }
+    ]
+  },
+  {
+    "id": "D-005-07",
+    "folder": "F-005",
+    "batch": "B-009",
+    "source": "S-033",
+    "file": "Baptism_of_Anna_Krak_1853.png",
+    "sha256": "5cfaff67717eca7727ecc4ed887f9732ef42b44cd435fa5c461907312525de04",
+    "wide": true,
+    "title": "Baptism of Anna Bobnar, daughter of a Krak mother, 1853 (Cyrillic)",
+    "span": "22 and 23 June [1853]",
+    "language": "Church Slavonic / Rusyn in Cyrillic",
+    "collector_label": "Baptism of Anna Krak 1853",
+    "family": "FG-12",
+    "route": "duska",
+    "entries": [
+      {
+        "no": "13",
+        "date": "b. 22 Jun, bapt. 23 Jun [1853]",
+        "from": "Baptism register, Iňačovce Greek Catholic (per folder name)",
+        "abstract": "Anna, female. Father: Mihal Bobnar, farmer. Mother: Anna Krak. Residence: Szenna, house 13. Godparents: Pavel Trach [?] and Elisaveta Khmel [?].",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "13 | Junius 22. 23. | Анна | женскій | Бобнар Михал газда, Анна Krak | Сенн[а] число дома 13. | Трачъ [?] Павелъ, Хмель [?] Елисавета",
+        "english": "Anna, female. Father: Mihal Bobnar, farmer. Mother: Anna Krak. Residence: Szenna, house 13. Godparents: Pavel Trach [?] and Elisaveta Khmel [?]."
+      }
+    ]
+  },
+  {
+    "id": "D-005-08",
+    "folder": "F-005",
+    "batch": "B-009",
+    "source": "S-034",
+    "file": "Baptism_of_Anna_Demko_1870.png",
+    "sha256": "d30597dc87daf31244c65f19125f4e434641235c2a3b5c1230fb94a7b86007b1",
+    "wide": true,
+    "title": "Baptism of Anna Demko, 1870",
+    "span": "12 and 13 January [1870]",
+    "language": "Latin",
+    "collector_label": "Baptism of Anna Demko 1870",
+    "family": "FG-15",
+    "route": "demko",
+    "entries": [
+      {
+        "no": "4",
+        "date": "b. 12 Jan, bapt. 13 Jan [1870]",
+        "from": "Baptism register, Iňačovce Greek Catholic (per folder name)",
+        "abstract": "Anna, female, legitimate. Father: Michael Demko, Greek Catholic, cottar (inquilinus). Mother: Maria Lazár. Residence: Jesztreb, house 54. Godparents: Georgius Mazur and Maria Tamás.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "4. | Januarius 12. | 13. | Anna | foemin. | legitim. | Michael Demko G.C. inquilinus, Maria Lazár | Jesztreb num. 54 | Georgius Mazur, Maria Tamás",
+        "english": "Anna, female, legitimate. Father: Michael Demko, Greek Catholic, cottar (inquilinus). Mother: Maria Lazár. Residence: Jesztreb, house 54. Godparents: Georgius Mazur and Maria Tamás."
+      }
+    ]
+  },
+  {
+    "id": "D-005-09",
+    "folder": "F-005",
+    "batch": "B-009",
+    "source": "S-035",
+    "file": "Baptism_of_Anna_Demko_1889.png",
+    "sha256": "801a89d6b7cb8541ba0323f8b51ca34b2911e5aba058260d261102b10fd86858",
+    "wide": true,
+    "title": "Baptism of Anna Demko, 1889",
+    "span": "26 November [1889]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Demko 1889",
+    "family": "FG-16",
+    "route": "demko",
+    "entries": [
+      {
+        "no": "51",
+        "date": "b. and bapt. 26 Nov [1889]; d. 17 Mar 1891",
+        "from": "Baptism register, Iňačovce Greek Catholic (per folder name)",
+        "abstract": "Anna, girl, legitimate. Father: Mihály Demko the younger (ifj.), Greek Catholic, cottar. Mother: Anna Jaros, Greek Catholic. Residence: Jesztreb, house 71. Godparents: János Mráz, Roman Catholic, and Anna Kepej, wife of Kozák. Officiant: György Lescsisin, Greek Catholic pastor of Solymos. Remark: died 17 March 1891.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "51. | November 26. | 26. | Anna | nő | törvényes | ifj. Demko Mihály gkath. zsellér, Jaros Anna gkath. | Jesztreb 71. | Mráz János rkath., Kozákné Kepej Anna | Lescsisin György solymosi gkath. lelkész | meghalt 1891 márcz. 17.",
+        "english": "Anna, girl, legitimate. Father: Mihály Demko the younger (ifj.), Greek Catholic, cottar. Mother: Anna Jaros, Greek Catholic. Residence: Jesztreb, house 71. Godparents: János Mráz, Roman Catholic, and Anna Kepej, wife of Kozák. Officiant: György Lescsisin, Greek Catholic pastor of Solymos. Remark: died 17 March 1891."
+      }
+    ]
+  },
+  {
+    "id": "D-005-10",
+    "folder": "F-005",
+    "batch": "B-009",
+    "source": "S-036",
+    "file": "Baptism_of_Anna_Duska_1877.png",
+    "sha256": "d706bfadc0b70597e10ee8439cf0a041a92ef946602eed66c489940d90b6a196",
+    "wide": true,
+    "title": "Baptism of Anna, daughter of János Du[s]ko, Szenna 72, 1877",
+    "span": "26 November 1877",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Duska 1877",
+    "family": "FG-17",
+    "route": "duska",
+    "entries": [
+      {
+        "no": "34",
+        "date": "b. and bapt. 26 Nov 1877",
+        "from": "Baptism register, Iňačovce Greek Catholic (per folder name)",
+        "abstract": "Anna, girl, legitimate. Father: János Du[s]ko. Mother: Mari Csizmár, with the mark G.C. written under her name. Residence: Szenna (Senné), house 72. Godparents: Stefán Vaszko and Anna Csalos. The year 1877 is written in the entry. The father's surname is five letters, D-u-?-k-o: the third letter can be read as s or n. The owner's label reads Duska.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "34 | 1877 Novem. 26 | 26 | Anna | nő | t. | Du[s]ko János, Csizmár Mari G.C. | Zenna 72 h. | Vaszko Stefán, Csalos Anna",
+        "english": "Anna, girl, legitimate. Father: János Du[s]ko. Mother: Mari Csizmár, with the mark G.C. written under her name. Residence: Szenna (Senné), house 72. Godparents: Stefán Vaszko and Anna Csalos. The year 1877 is written in the entry. The father's surname is five letters, D-u-?-k-o: the third letter can be read as s or n. The owner's label reads Duska."
+      }
+    ]
+  },
+  {
+    "id": "D-005-11",
+    "folder": "F-005",
+    "batch": "B-009",
+    "source": "S-037",
+    "file": "Baptism_of_Anna_Kocsis_1875.png",
+    "sha256": "1ef96168eef277496e5cac25adee07ab2a490fa222440be6165b65e031d6b4a9",
+    "wide": true,
+    "title": "Baptism of Anna, Solymos 73, 1875 (labelled Kocsis)",
+    "span": "18 and 19 March [1875]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Kocsis 1875",
+    "family": "FG-19",
+    "route": "demko",
+    "entries": [
+      {
+        "no": "9",
+        "date": "b. 18 Mar, bapt. 19 Mar [1875]",
+        "from": "Baptism register, Iňačovce Greek Catholic (per folder name)",
+        "abstract": "Anna, girl, legitimate. Father: János [Kocsis?]. Mother: Mária [Kovács?]. Residence: Solymos, house 73. Godparents: Mihály Kenyerző [?] and Anna Hutkó, wife of György Ádám. The parents' cell is blurred in this image; the surname Kocsis is the owner's label and fits what can be seen.",
+        "reading": "low"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "9 | Március 18 – 19. | Anna | nő | törvényes | [Kocsis?] János, [Kovács?] Mária | Solymos 73. | Kenyerző [?] Mihály, Hutkó Anna Ádám György neje | D[ett]o",
+        "english": "Anna, girl, legitimate. Father: János [Kocsis?]. Mother: Mária [Kovács?]. Residence: Solymos, house 73. Godparents: Mihály Kenyerző [?] and Anna Hutkó, wife of György Ádám. The parents' cell is blurred in this image; the surname Kocsis is the owner's label and fits what can be seen."
+      }
+    ]
   }
 ]

@@ -39,55 +39,78 @@
   {
     "id": "P-004",
     "ahnentafel": 4,
-    "name": "Stefan Duska",
+    "name": "Štefan (Stefan) Duska",
     "role": "Paternal grandfather",
     "living": true,
     "birth": {
-      "date": null,
-      "place": null
+      "date": "1929",
+      "place": "Senné, house 160",
+      "withheld": true
     },
-    "proof": "stated",
+    "proof": "documented",
     "sources": [
-      "S-000-2",
-      "PR-1"
+      "S-024",
+      "S-000-2"
     ],
-    "note": "Named by Kevin in the Demko chat (coordinator ruling X-001). No record in hand.",
+    "note": "Son of Michal Duska, Roman Catholic cottar of Senné, and Maria Demko, Greek Catholic, of Iňačovce, by a sealed parish certificate of 1947. Born in Slovakia, not in Canada.",
     "owner": "Duska",
-    "living_basis": "Not known to this agent. Recorded as living so that no detail is published until a record shows otherwise."
+    "living_basis": "Recorded as living until Kevin confirms otherwise, so day and month stay off this page. The owner labels a photograph in the Demko agent's folder as his burial; that is a label, not a record.",
+    "baptism": {
+      "date": "1929",
+      "place": "Roman Catholic parish church, Senné (register vol. IV, p. 110, entry 43)"
+    }
   },
   {
     "id": "P-008",
     "ahnentafel": 8,
-    "name": "Mihaly Duska",
+    "name": "Michal (Mihály, Mike) Duska",
     "role": "Great-grandfather",
     "living": false,
     "birth": {
       "date": null,
       "place": null
     },
-    "proof": "stated",
+    "proof": "documented",
     "sources": [
+      "S-024",
+      "S-025",
+      "S-026",
       "S-000-2"
     ],
-    "note": "Named by Kevin in the Demko chat (coordinator ruling X-001). A different man from Mihály Demkó, b. 1882 (ruling X-002). No record in hand.",
-    "owner": "Duska"
+    "note": "Father of Štefan by the 1947 certificate: Roman Catholic, cottar, of Senné in 1929. \"Mike Duska\" on the Montréal gravestone of his wife and in a deed of 1966, when he was alive and declared he had married once. His own birth, parents and marriage are not yet on record here.",
+    "owner": "Duska",
+    "residence": [
+      {
+        "date": "1929",
+        "place": "Senné, house 160"
+      },
+      {
+        "date": "1966",
+        "place": "Montréal"
+      }
+    ]
   },
   {
     "id": "P-009",
     "ahnentafel": 9,
-    "name": "Maria Demko",
+    "name": "Maria Demko (Mary Demko)",
     "role": "Great-grandmother",
     "living": false,
     "birth": {
-      "date": null,
-      "place": null
+      "date": "1906",
+      "place": "Solymos (Iňačovce), per the Demko agent's civil record DM-D-008 @57861ad, not read by this agent"
     },
-    "proof": "stated",
+    "proof": "documented",
     "sources": [
-      "S-000-2",
-      "PR-1"
+      "S-024",
+      "S-025",
+      "S-026"
     ],
-    "note": "Owned by the Demko agent from here up (ruling X-003). Birth record believed to be in the Uzhhorod archives, not yet located.",
-    "owner": "Demko"
+    "note": "Wife of Michal Duska and mother of Štefan by the 1947 certificate; Greek Catholic, of Iňačovce. Died at Montréal on 9 September 1950 by her husband's declaration of 1966. Stone: born 1906, died 1950. Her parents are the Demko agent's to establish: it has Mihály Demkó and Mária Kocsis (DM P-018, P-019 @57861ad).",
+    "owner": "Demko",
+    "death": {
+      "date": "9 Sep 1950",
+      "place": "Montréal"
+    }
   }
 ]

@@ -126,8 +126,8 @@
       "Maria, b. [1832]",
       "Julianna, b. 27 Jan [1836]"
     ],
-    "note": "No stated link to a Demko or a Duska. Why the owner kept the Kocsis entries is not known.",
-    "route": "duska",
+    "note": "No stated link to a Demko or a Duska. Why the owner kept the Kocsis entries is not known. Since B-009: Kocsis is the maiden name of Ahn 19 by the Demko agent's 1906 civil record (DM-D-008 @57861ad), which is why the owner kept Kocsis entries.",
+    "route": "demko",
     "documents": [
       "D-004-11",
       "D-004-14"
@@ -143,8 +143,8 @@
     "children": [
       "Mihály, b. 15 May 1873"
     ],
-    "note": "A second Kocsis record, a generation after FG-07.",
-    "route": "duska",
+    "note": "A second Kocsis record, a generation after FG-07. Since B-009: Kocsis is the maiden name of Ahn 19 by the Demko agent's 1906 civil record (DM-D-008 @57861ad), which is why the owner kept Kocsis entries.",
+    "route": "demko",
     "documents": [
       "D-004-17"
     ],
@@ -165,5 +165,167 @@
       "D-004-01"
     ],
     "route_note": "Demko agent, to check against the full page"
+  },
+  {
+    "id": "FG-10",
+    "husband": "János Kóreny (Ioann Koreň)",
+    "wife": "Mária Krak",
+    "rite": "Greek Catholic",
+    "homes": "Jesztreb (Jastrabie)",
+    "children": [
+      "András, b. 24 Oct [1844]",
+      "Andrej, b. 26 Nov [1852]"
+    ],
+    "note": "Two sons given the same name eight years apart, which usually means the first had died.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-005-01",
+      "D-005-02"
+    ]
+  },
+  {
+    "id": "FG-11",
+    "husband": "Lucas Krak",
+    "wife": "Zuzanna",
+    "rite": "Greek rite",
+    "homes": "Jesztreb",
+    "children": [
+      "Anna, bapt. [1816]"
+    ],
+    "note": "The earliest Krak in the folder.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-005-03"
+    ]
+  },
+  {
+    "id": "FG-12",
+    "husband": "Mihal Bobnar",
+    "wife": "Anna Krak",
+    "rite": "Greek Catholic book",
+    "homes": "Szenna 13",
+    "children": [
+      "Anna, b. 22 Jun [1853]"
+    ],
+    "note": "A Krak woman married into Senné.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-005-07"
+    ]
+  },
+  {
+    "id": "FG-13",
+    "husband": "Joannes Szmeriga",
+    "wife": "Susana Demko",
+    "rite": "Both Greek Catholic",
+    "homes": "Jesztreb 29",
+    "children": [
+      "András, b. 13 Nov [1864]"
+    ],
+    "note": "",
+    "route": "demko",
+    "route_note": "",
+    "documents": [
+      "D-005-05"
+    ]
+  },
+  {
+    "id": "FG-14",
+    "husband": "Joannes Sirko [?]",
+    "wife": "Elisab. Demko",
+    "rite": "Greek Catholic book",
+    "homes": "Szenna",
+    "children": [
+      "Andreas, b. 10 Dec [1861]"
+    ],
+    "note": "A Demko woman married into Senné by 1861.",
+    "route": "demko",
+    "route_note": "",
+    "documents": [
+      "D-005-06"
+    ]
+  },
+  {
+    "id": "FG-15",
+    "husband": "Michael Demko",
+    "wife": "Maria Lazár",
+    "rite": "He Greek Catholic",
+    "homes": "Jesztreb 54",
+    "children": [
+      "Anna, b. 12 Jan [1870]"
+    ],
+    "note": "A Demko household at Jesztreb, separate from the Viszoka Demkos.",
+    "route": "demko",
+    "route_note": "",
+    "documents": [
+      "D-005-08"
+    ]
+  },
+  {
+    "id": "FG-16",
+    "husband": "Mihály Demko the younger",
+    "wife": "Anna Jaros",
+    "rite": "Both Greek Catholic",
+    "homes": "Jesztreb 71",
+    "children": [
+      "Anna, b. 26 Nov [1889], d. 17 Mar 1891"
+    ],
+    "note": "Called 'the younger', so an older Mihály Demko lived nearby in 1889, probably the father in FG-15. Compare the Demko agent's DM-D-006: Mária, daughter of Mihály Demkó, cottar, and an Anna whose surname it could not read.",
+    "route": "demko",
+    "route_note": "",
+    "documents": [
+      "D-005-09"
+    ]
+  },
+  {
+    "id": "FG-17",
+    "husband": "János Du[s]ko",
+    "wife": "Mari Csizmár",
+    "rite": "She Greek Catholic; his rite is not stated",
+    "homes": "Szenna (Senné) 72",
+    "children": [
+      "Anna, b. 26 Nov 1877"
+    ],
+    "note": "The first entry in any folder that may show the Duska surname. The third letter of the surname is uncertain.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-005-10"
+    ]
+  },
+  {
+    "id": "FG-18",
+    "husband": "Joannes [D]enko [?]",
+    "wife": "[not read]",
+    "rite": "He Greek Catholic",
+    "homes": "Szenna",
+    "children": [
+      "Andreas, b. 25 Feb, d. 27 Feb 1870"
+    ],
+    "note": "Surname too faint to confirm. If it is Denko, compare FG-17.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-005-04"
+    ]
+  },
+  {
+    "id": "FG-19",
+    "husband": "János [Kocsis?]",
+    "wife": "Mária [Kovács?]",
+    "rite": "Greek Catholic book",
+    "homes": "Solymos 73",
+    "children": [
+      "Anna, b. 18 Mar [1875]"
+    ],
+    "note": "Kocsis is now a direct-line surname: the Demko agent has Mária Kocsis of Solymos, born about 1886, as mother of Maria Demko (DM P-019 @57861ad).",
+    "route": "demko",
+    "route_note": "",
+    "documents": [
+      "D-005-11"
+    ]
   }
 ]

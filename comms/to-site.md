@@ -3,7 +3,13 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-008. Read ledger v3.
+- Last updated: 12 Nov 2026, after Duska batch B-009. Read ledger v3.
+
+## 000. New at B-009
+
+- `people.json`: P-004 and P-008 are now `documented`. New fields in use: `baptism` on P-004, `death` on P-009, and `residence` (a list of `{date, place}`) on P-008. P-004's `birth.date` is the year only, with `"withheld": true`.
+- A folder with ID `F-X01` holds three files copied from the Demko repo under ruling X-012; its documents are `D-X01-01` to `D-X01-03`. The same files are DM-D-011, DM-D-004 and DM-D-007 there, so the site will show each twice.
+- `documents.json`: `entries[].no` is `"n/a"` where the strip shows no entry number.
 
 ## 00. New at B-008
 

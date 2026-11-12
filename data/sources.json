@@ -222,5 +222,117 @@
     "title": "Kevin J.S. Duska Jr., Duska chat, 12 Nov 2026: father's birthplace",
     "extract": "His father, Kevin John Duska, was born in Montréal.",
     "reliability": "Second-hand: a son reporting his father's birthplace. No document seen."
+  },
+  {
+    "id": "S-024",
+    "batch": "B-009",
+    "type": "Parish baptism certificate (derivative: extract from the register, issued 1947)",
+    "title": "Litterae Baptismales / Krstný list no. 106 of 1947, Roman Catholic parish of Senné: Štefan Duska, 1929",
+    "extract": "From volume IV, page 110, entry 43 of 1929. Štefan, male, legitimate, born and baptised in October 1929. Father Michal Duska, Roman Catholic, cottar, of Senné. Mother Maria Demko, Greek Catholic, of Iňačovce. Residence Senné 160. Baptised by Ján Barna, parish priest. Issued at Senné on 19 August 1947 under the parish seal.",
+    "reliability": "Derivative but official: a sealed extract that cites volume, page and entry of the Senné baptism register. Direct evidence for parentage. Read from the image by this agent before reading the Demko agent's transcription (DM-D-011 @57861ad); the two agree except for the godmother's given name."
+  },
+  {
+    "id": "S-025",
+    "batch": "B-009",
+    "type": "Gravestone, photograph",
+    "title": "DUSKA stone: Mary Demko, 1906 to 1950, wife of Mike Duska",
+    "extract": "\"DUSKA. In loving memory of Mary Demko. Born 1906, died 1950. Beloved wife of Mike Duska.\" The cemetery (Notre-Dame-des-Neiges, Montréal) is from the owner's file name.",
+    "reliability": "Original object, photograph. Years only. Same file as DM-D-004 @57861ad."
+  },
+  {
+    "id": "S-026",
+    "batch": "B-009",
+    "type": "Notarial deed of sale, one page, 1966",
+    "title": "Deed of sale effective 1 November 1966: declaration on the marriage of Mike Duska",
+    "extract": "Clause 4: Mike Duska \"was married but once, namely, to the late Dame Maria Demko, who died at the City of Montreal, on the Ninth day of September, Nineteen Hundred and Fifty\", and has not remarried.",
+    "reliability": "Original record, one page of several. A sworn declaration by or for the husband, sixteen years after the death. Same file as DM-D-007 @57861ad."
+  },
+  {
+    "id": "S-027",
+    "batch": "B-009",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of András Koreny, son of a Krak mother, 1844",
+    "extract": "András. Father: János Kóreny [?]. Mother: Mária Krak. Greek Catholic. Godparents: Mihály Fedora and Mária Fedora. Residence: Jesztreb [abbreviated].",
+    "reliability": "Original record, image copy. No page header on the strip: the register (Iňačovce / Solymos, Greek Catholic, per the owner's folder name) and any year in square brackets come from the owner's labels."
+  },
+  {
+    "id": "S-028",
+    "batch": "B-009",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Andrej Koreň, son of a Krak mother, 1852 (Cyrillic)",
+    "extract": "Andrej. Father: Ioann Koreň. Mother: Marija Krak. Godparents: Ioan Mi[c]ak [?] and Marija Fedorova. Residence: Jesztreb [abbreviated].",
+    "reliability": "Original record, image copy. No page header on the strip: the register (Iňačovce / Solymos, Greek Catholic, per the owner's folder name) and any year in square brackets come from the owner's labels."
+  },
+  {
+    "id": "S-029",
+    "batch": "B-009",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Anna Krak, 1816 (labelled Alona)",
+    "extract": "Anna. Parents: Lucas and Zuzanna Krak. Godparents: Joannes [Smaj?] and Anna Hudák, Greek rite. Place: Jesztreb. The owner's file name reads Alona; the child's name on the strip is Anna.",
+    "reliability": "Original record, image copy. No page header on the strip: the register (Iňačovce / Solymos, Greek Catholic, per the owner's folder name) and any year in square brackets come from the owner's labels."
+  },
+  {
+    "id": "S-030",
+    "batch": "B-009",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Andreas, 1870 or earlier (labelled Demko, maybe 1876)",
+    "extract": "Andreas. Father: Joannes [D]enko [?], Greek Catholic, cottar [?]. Mother not read. Residence: Szenna. Godparents: Mich. Mucsko and [...], of Szenna. Baptised by Georgius Dolin[ay?], parish priest [?]. Remark: died 27 February 1870. The ink in the parents' cell is very faint. The owner's label says Demko, maybe 1876; the death note shows the entry is of 1870 or earlier, and the surname cannot be confirmed from this im",
+    "reliability": "Original record, image copy. No page header on the strip: the register (Iňačovce / Solymos, Greek Catholic, per the owner's folder name) and any year in square brackets come from the owner's labels."
+  },
+  {
+    "id": "S-031",
+    "batch": "B-009",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of András Szmeriga, son of a Demko mother, 1864",
+    "extract": "András, male, legitimate. Father: Joannes Szmeriga, Greek Catholic, farmer (colonus). Mother: Susana Demko, Greek Catholic. Residence: Jesztreb, house 29. Godparents: Michael Holubik and Susana Mraz.",
+    "reliability": "Original record, image copy. No page header on the strip: the register (Iňačovce / Solymos, Greek Catholic, per the owner's folder name) and any year in square brackets come from the owner's labels."
+  },
+  {
+    "id": "S-032",
+    "batch": "B-009",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Andreas Sirko, son of a Demko mother, 1861",
+    "extract": "Andreas. Father: Joannes Sirko [?]. Mother: Elisab. Demko. Residence: Szenna. Godparents: Andreas De[bnyarszk?] and Anna Feror [?], unmarried.",
+    "reliability": "Original record, image copy. No page header on the strip: the register (Iňačovce / Solymos, Greek Catholic, per the owner's folder name) and any year in square brackets come from the owner's labels."
+  },
+  {
+    "id": "S-033",
+    "batch": "B-009",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Anna Bobnar, daughter of a Krak mother, 1853 (Cyrillic)",
+    "extract": "Anna, female. Father: Mihal Bobnar, farmer. Mother: Anna Krak. Residence: Szenna, house 13. Godparents: Pavel Trach [?] and Elisaveta Khmel [?].",
+    "reliability": "Original record, image copy. No page header on the strip: the register (Iňačovce / Solymos, Greek Catholic, per the owner's folder name) and any year in square brackets come from the owner's labels."
+  },
+  {
+    "id": "S-034",
+    "batch": "B-009",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Anna Demko, 1870",
+    "extract": "Anna, female, legitimate. Father: Michael Demko, Greek Catholic, cottar (inquilinus). Mother: Maria Lazár. Residence: Jesztreb, house 54. Godparents: Georgius Mazur and Maria Tamás.",
+    "reliability": "Original record, image copy. No page header on the strip: the register (Iňačovce / Solymos, Greek Catholic, per the owner's folder name) and any year in square brackets come from the owner's labels."
+  },
+  {
+    "id": "S-035",
+    "batch": "B-009",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Anna Demko, 1889",
+    "extract": "Anna, girl, legitimate. Father: Mihály Demko the younger (ifj.), Greek Catholic, cottar. Mother: Anna Jaros, Greek Catholic. Residence: Jesztreb, house 71. Godparents: János Mráz, Roman Catholic, and Anna Kepej, wife of Kozák. Officiant: György Lescsisin, Greek Catholic pastor of Solymos. Remark: died 17 March 1891.",
+    "reliability": "Original record, image copy. No page header on the strip: the register (Iňačovce / Solymos, Greek Catholic, per the owner's folder name) and any year in square brackets come from the owner's labels."
+  },
+  {
+    "id": "S-036",
+    "batch": "B-009",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Anna, daughter of János Du[s]ko, Szenna 72, 1877",
+    "extract": "Anna, girl, legitimate. Father: János Du[s]ko. Mother: Mari Csizmár, with the mark G.C. written under her name. Residence: Szenna (Senné), house 72. Godparents: Stefán Vaszko and Anna Csalos. The year 1877 is written in the entry. The father's surname is five letters, D-u-?-k-o: the third letter can be read as s or n. The owner's label reads Duska.",
+    "reliability": "Original record, image copy. No page header on the strip: the register (Iňačovce / Solymos, Greek Catholic, per the owner's folder name) and any year in square brackets come from the owner's labels."
+  },
+  {
+    "id": "S-037",
+    "batch": "B-009",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Anna, Solymos 73, 1875 (labelled Kocsis)",
+    "extract": "Anna, girl, legitimate. Father: János [Kocsis?]. Mother: Mária [Kovács?]. Residence: Solymos, house 73. Godparents: Mihály Kenyerző [?] and Anna Hutkó, wife of György Ádám. The parents' cell is blurred in this image; the surname Kocsis is the owner's label and fits what can be seen.",
+    "reliability": "Original record, image copy. No page header on the strip: the register (Iňačovce / Solymos, Greek Catholic, per the owner's folder name) and any year in square brackets come from the owner's labels."
   }
 ]

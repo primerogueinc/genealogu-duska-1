@@ -1,0 +1,34 @@
+{
+  "folder_id": "F-X01",
+  "desktop_path": "DEMKO DOCUMENTS (given to the Demko agent)",
+  "note": "Three of the Demko agent's files that bear on the Duska line, copied under ruling X-012. Checksums equal the Demko repo's.",
+  "files": [
+    {
+      "file": "Stefan_Duska_original_baptism_certificate_establishing_Maria_Demko_as_mother.jpg",
+      "sha256": "986ea348678637a6efadbaf495ff06948643efc0f4442ea9ab4fb63f42e93f4a",
+      "bytes": 618544,
+      "pixels": "2576x1932",
+      "received": "2026-11-12",
+      "via": "copied from primerogueinc/genealogy-demko-1 @57861ad under ruling X-012",
+      "demko_id": "DM-D-011"
+    },
+    {
+      "file": "Gravestone_of_Maria_Demko_1906_-_Notre_Dame_des_Neiges_Montreal.jpg",
+      "sha256": "617025cf310be5473023ac3a64ee98503052c168ff85aed03c72ffc9a8cf60ad",
+      "bytes": 781187,
+      "pixels": "1152x2048",
+      "received": "2026-11-12",
+      "via": "copied from primerogueinc/genealogy-demko-1 @57861ad under ruling X-012",
+      "demko_id": "DM-D-004"
+    },
+    {
+      "file": "Maria_Demko_Notarial_Document_Regarding_Guardianship_of_NAME_WITHHELD_-_establishes_date_of_death.jpg",
+      "sha256": "57e158a05aa586a97944516a1ffdd112522130f0fa64c9c2962db6df4781a846",
+      "bytes": 272698,
+      "pixels": "1536x2048",
+      "received": "2026-11-12",
+      "via": "copied from primerogueinc/genealogy-demko-1 @57861ad under ruling X-012",
+      "demko_id": "DM-D-007"
+    }
+  ]
+}

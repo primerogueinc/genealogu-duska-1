@@ -1,0 +1,95 @@
+{
+  "folder_id": "F-005",
+  "desktop_path": "Duska Baptisms/Inacovce (Solymos) - Greek Catholic",
+  "note": "Part 1 of the folder. Files as received through chat upload.",
+  "files": [
+    {
+      "file": "Baptirm_of_Andra_Kovesny_Krak_1844.png",
+      "sha256": "4f4e4f924b560e40bb20adf5f2d20af3cef1e67365d7880cc2332857c0848ead",
+      "bytes": 820280,
+      "pixels": "1851x244",
+      "received": "2026-11-12",
+      "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_A._Koreho_Krak_1852.png",
+      "sha256": "0c5d2e626ea57f1f4673b5ea3d04c184fb3af1027b223a42257606f7592497cd",
+      "bytes": 754028,
+      "pixels": "1710x249",
+      "received": "2026-11-12",
+      "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_Alona_Krak_1816.png",
+      "sha256": "a895fb69726122cf6da0ca500cf44e198395733dd21af54073f2bafcf0ce2c48",
+      "bytes": 722347,
+      "pixels": "1488x271",
+      "received": "2026-11-12",
+      "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_Andra_Demko_-_maybe_1876.png",
+      "sha256": "8993101ad3388cf3b59e5bec3e2b477499b3b22e371837f6208f2f88a4a20623",
+      "bytes": 608823,
+      "pixels": "1719x220",
+      "received": "2026-11-12",
+      "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_Andras_Demko_1864.png",
+      "sha256": "0332ded9d0e79f0b47ca1b84265e88104a71c12d809a0bc176b47978e379f4d1",
+      "bytes": 440252,
+      "pixels": "1874x185",
+      "received": "2026-11-12",
+      "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_Andreas_Demko_1861.png",
+      "sha256": "4d92d6421b81294c6a6a69f34163593b50bd464292553e8009d715326ca4f043",
+      "bytes": 402969,
+      "pixels": "1630x155",
+      "received": "2026-11-12",
+      "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_Anna_Krak_1853.png",
+      "sha256": "5cfaff67717eca7727ecc4ed887f9732ef42b44cd435fa5c461907312525de04",
+      "bytes": 368379,
+      "pixels": "1718x154",
+      "received": "2026-11-12",
+      "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_Anna_Demko_1870.png",
+      "sha256": "d30597dc87daf31244c65f19125f4e434641235c2a3b5c1230fb94a7b86007b1",
+      "bytes": 482565,
+      "pixels": "1878x192",
+      "received": "2026-11-12",
+      "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_Anna_Demko_1889.png",
+      "sha256": "801a89d6b7cb8541ba0323f8b51ca34b2911e5aba058260d261102b10fd86858",
+      "bytes": 357849,
+      "pixels": "1711x118",
+      "received": "2026-11-12",
+      "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_Anna_Duska_1877.png",
+      "sha256": "d706bfadc0b70597e10ee8439cf0a041a92ef946602eed66c489940d90b6a196",
+      "bytes": 1059708,
+      "pixels": "1746x345",
+      "received": "2026-11-12",
+      "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_Anna_Kocsis_1875.png",
+      "sha256": "1ef96168eef277496e5cac25adee07ab2a490fa222440be6165b65e031d6b4a9",
+      "bytes": 373419,
+      "pixels": "1499x160",
+      "received": "2026-11-12",
+      "via": "chat upload"
+    }
+  ]
+}

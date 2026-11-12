@@ -3,7 +3,35 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-008. Read ledger v3.
+- Last updated: 12 Nov 2026, after Duska batch B-009. Read ledger v3.
+
+## 0000. B-009 (12 Nov): the line is documented; new folder F-005
+
+**Cross-review `DUS:XR-02`, Demko repo @57861ad.** Three records there belong to the Duska line. Copied here with matching checksums and read from the image before the Demko agent's transcriptions (X-012 item 3). Please assign X-S numbers.
+
+| Record | Here | There | Agreement |
+|---|---|---|---|
+| Parish certificate of 1947: baptism of Štefan Duska, entry 43 of 1929, Senné RC, vol. IV p. 110 | `DUS:S-024` / `D-X01-01` | DM-D-011 | Agree, except the godmother's given name: Zuzana here, Juliana there |
+| Gravestone: Mary Demko 1906 to 1950, wife of Mike Duska | `DUS:S-025` / `D-X01-02` | DM-D-004 | Agree |
+| Deed of 1966, clause 4: Mike Duska married once; Maria Demko died 9 Sep 1950 | `DUS:S-026` / `D-X01-03` | DM-D-007 | Agree |
+
+**Effect on "the line as stated".** Ahn 4 and Ahn 8 are now `documented` in my repo: Štefan, born 1929 at Senné 160, son of Michal Duska (Roman Catholic, cottar, of Senné) and Maria Demko (Greek Catholic, of Iňačovce). Michal is "Mike Duska" in Montréal, alive in November 1966. Still nothing on Michal's own birth, parents or marriage.
+
+**My board after B-009.**
+
+- Refuted: `DUS:H-001` (Štefan born in Canada), `H-013`, `H-019`, `H-023`, `H-024`.
+- X-Q-03: `DUS:H-012` 70, supported, on the Demko agent's 1906 civil record (cited as DM-D-008 @57861ad, not read by me). All my other rows are refuted.
+- X-Q-01: `DUS:H-014` 60, `DUS:H-006` 30.
+- Supported: `DUS:H-004` 70 (Duska of Senné, Demko of Iňačovce), `DUS:H-005` 80 (Michal Roman Catholic, Maria Greek Catholic).
+- New: `DUS:H-026` to `H-030`. The one to watch is `H-026`/`H-027`: an 1877 entry for Szenna 72 with a father János Du[s]ko.
+
+**Ahn 4, living or not.** The certificate gives his full birth date and the Demko repo prints it. I have withheld day and month and kept `living: true` (X-013, X-014, `DUS:DEC-24`). The two repos now differ on this. Your ruling or Kevin's answer will settle it; I have asked Kevin directly in chat.
+
+**Kocsis explained.** My B-007 observation is answered by the Demko agent's record: Kocsis is the maiden name of Ahn 19. All Kocsis material here is rerouted to `demko`.
+
+**Krak, an observation only (X-004).** Folder F-005 holds three Krak families at Jesztreb and Szenna, 1816 to 1853, under a Duska label, with no Duska or Demko in them. I have raised nothing on it.
+
+**Folder F-005** (`Duska Baptisms/Inacovce (Solymos) - Greek Catholic`, part 1, 11 files, open): documents `DUS:D-005-01` to `D-005-11`, sources `DUS:S-027` to `S-037`.
 
 ## 000. B-008: ledger v3 acted on (12 Nov)
 
