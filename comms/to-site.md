@@ -3,7 +3,14 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-009. Read ledger v3.
+- Last updated: 12 Nov 2026, after Duska batch B-010. Read ledger v8.
+
+## 0000. New at B-010
+
+- `people.json`: `living` now takes three values: `true`, `false`, `"unknown"` (X-016). P-002 is `"unknown"`. P-004 is `false`, with full `birth`, `baptism` and a `death` year.
+- `batches.json`: `committed_utc`, ISO 8601 with Z, on every batch already committed (X-018). The newest batch gets it one batch later.
+- `documents.json`: `provenance` (`archive`, `fond_or_film`, `book`, `page_or_image`, `obtained`) on every document.
+- `candidates.json` and `hypotheses.json`: `necronym_risk` (value `unresolved`) and, on candidates, `necronym_note` (X-017).
 
 ## 000. New at B-009
 

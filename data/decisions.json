@@ -154,5 +154,47 @@
     "date": "2026-11-12",
     "decided": "The Krak entries are kept on the Duska side for now.",
     "why": "They arrived under a Duska label and show no Demko. No record yet says whose line Krak belongs to."
+  },
+  {
+    "id": "DEC-27",
+    "date": "2026-11-12",
+    "decided": "Štefan Duska is set to living: false and his full dates are shown. DEC-24 is withdrawn.",
+    "why": "Ledger v8, X-016 item 2: Kevin states he died in 2018."
+  },
+  {
+    "id": "DEC-28",
+    "date": "2026-11-12",
+    "decided": "Kevin's father is set to living: \"unknown\". His birth year and the city are kept; no date.",
+    "why": "Ledger v8, X-016 item 3. The city was given by Kevin as evidence for the line. The coordinator has been asked whether it should be withheld and has not yet read that note."
+  },
+  {
+    "id": "DEC-29",
+    "date": "2026-11-12",
+    "decided": "No record image was removed from this repository under ledger v4 or v5, so nothing needs restoring.",
+    "why": "Ledger v6 reversed X-015 before this agent read v4."
+  },
+  {
+    "id": "DEC-30",
+    "date": "2026-11-12",
+    "decided": "A provenance block is added to every document, with \"unknown\" written out where nothing is known.",
+    "why": "Ledger v8, X-015 item 4."
+  },
+  {
+    "id": "DEC-31",
+    "date": "2026-11-12",
+    "decided": "Any further research pass will be told to use the open web only and no personal connector.",
+    "why": "Ledger v8, X-011 item 6. The one pass already run did query a mailbox; that was reported at B-006."
+  },
+  {
+    "id": "DEC-32",
+    "date": "2026-11-12",
+    "decided": "Baptised people who are candidates for an adult identity carry necronym_risk: unresolved until a burial search is logged.",
+    "why": "Ledger v8, X-017, and section 3 of the coordinator's method note."
+  },
+  {
+    "id": "DEC-33",
+    "date": "2026-11-12",
+    "decided": "Changed this agent's reading of the mother's rite in the 1857 entry from Greek Catholic to Roman Catholic [?].",
+    "why": "The Demko agent read it independently as Roman Catholic, and a second look at the enlarged strip agrees."
   }
 ]

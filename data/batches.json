@@ -23,7 +23,8 @@
     ],
     "sources_added": [
       "S-000-1"
-    ]
+    ],
+    "committed_utc": "2026-11-12T00:54:50Z"
   },
   {
     "id": "B-001",
@@ -43,7 +44,8 @@
     "people_added": [],
     "sources_added": [
       "S-001"
-    ]
+    ],
+    "committed_utc": "2026-11-12T00:54:50Z"
   },
   {
     "id": "B-002",
@@ -66,7 +68,8 @@
     ],
     "sources_added": [
       "S-002"
-    ]
+    ],
+    "committed_utc": "2026-11-12T00:54:50Z"
   },
   {
     "id": "B-003",
@@ -82,7 +85,8 @@
     "people_added": [],
     "sources_added": [
       "S-000-2"
-    ]
+    ],
+    "committed_utc": "2026-11-12T01:03:30Z"
   },
   {
     "id": "B-004",
@@ -109,7 +113,8 @@
     "sources_added": [
       "S-003",
       "S-004"
-    ]
+    ],
+    "committed_utc": "2026-11-12T03:00:55Z"
   },
   {
     "id": "B-005",
@@ -144,7 +149,8 @@
     "sources_added": [
       "S-000-3",
       "S-000-4"
-    ]
+    ],
+    "committed_utc": "2026-11-12T05:37:57Z"
   },
   {
     "id": "B-006",
@@ -162,7 +168,8 @@
       "H-017"
     ],
     "people_added": [],
-    "sources_added": []
+    "sources_added": [],
+    "committed_utc": "2026-11-12T05:55:11Z"
   },
   {
     "id": "B-007",
@@ -313,7 +320,8 @@
       "D-004-18",
       "D-004-19",
       "D-004-20"
-    ]
+    ],
+    "committed_utc": "2026-11-12T05:58:39Z"
   },
   {
     "id": "B-008",
@@ -328,7 +336,8 @@
     "people_added": [],
     "sources_added": [
       "S-000-5"
-    ]
+    ],
+    "committed_utc": "2026-11-12T06:03:57Z"
   },
   {
     "id": "B-009",
@@ -448,6 +457,32 @@
       "D-005-09",
       "D-005-10",
       "D-005-11"
+    ],
+    "committed_utc": "2026-11-12T06:12:12Z"
+  },
+  {
+    "id": "B-010",
+    "date": "2026-11-12",
+    "title": "Ledger v8: who is living, reused names, provenance",
+    "folder": null,
+    "files": 0,
+    "blurb": "No new files. Read ledger versions 4 to 8 and the coordinator's method note on epidemics and reused names, and applied them. Kevin has told the coordinator that Štefan Duska, known as Steve, died in 2018, so his full dates from the 1947 certificate are now shown: born 21 October 1929, baptised 26 October. Kevin's father is of unknown status and is shown by name and year only. The method note warns that a baptism is not an identity, because the name of a dead child was often given to a later one. The folders already show it: György Demkó and Mária Hreskó named twins Mihály and János in 1873, both marked with a cross, then a János in 1875 and a Mihály in 1882. So the Mihály of 1882, the man now taken as Maria Demko's father, was the second of his name. The burial registers are not in hand, so that link is marked as an unresolved necronym risk and stays capped at 70; the age on the 1906 civil record, 24, fits the 1882 child and not the 1873 one. The same rule turns three Demko fathers of the 1830s into a hypothesis of one man with three wives. The Demko agent has now read the same Čičarovce strips independently; the two readings differ on one rite mark of 1857, and this agent has moved to its reading. Every document now carries a provenance block, mostly the word unknown. Batches carry their commit time in UTC.",
+    "raised": [
+      "H-031"
+    ],
+    "resolved": [],
+    "revised": [
+      "H-004",
+      "H-006",
+      "H-012",
+      "H-020",
+      "H-021",
+      "H-022",
+      "H-025"
+    ],
+    "people_added": [],
+    "sources_added": [
+      "S-000-6"
     ]
   }
 ]

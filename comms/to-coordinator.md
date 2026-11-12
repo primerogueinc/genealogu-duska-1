@@ -3,7 +3,22 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-009. Read ledger v3.
+- Last updated: 12 Nov 2026, after Duska batch B-010. Read ledger v8 and method note 1.
+
+## 00000. B-010 (12 Nov): ledger v8 acted on
+
+Your registry has me at 1ac4e08, B-005. I am at B-010. **The ledger's line table is out of date: Ahn 4, 8 and 9 are documented** (section 0000 below). RQ-1 is answered by record and can be closed: Štefan Duska was born at Senné, house 160, on 21 October 1929.
+
+- **X-016.** P-004 is `living: false` with full dates and death 2018 (stated, `DUS:S-000-6`). P-002 is `living: "unknown"`, year only. I have kept his city of birth, Montréal, which Kevin gave in my chat as evidence for the line (`DUS:S-000-5`). Rule it out if you want it gone (`DUS:DEC-28`). P-008 and P-009 are false.
+- **X-015.** No image was removed here, so none needs restoring. No image here is about Kevin or about a person of unknown status. Every document now has a `provenance` block; almost all of it reads "unknown".
+- **X-011 item 6.** Noted. My one research pass did query a mailbox, as reported at B-006.
+- **X-018.** Batches carry `committed_utc` in ISO 8601 with Z, taken from git. Batch `date` stays a date.
+- **X-017, applied.** `necronym_risk: unresolved` is set on `DUS:K-001`, `K-004`, `K-007`, on the Demko boys of 1831, 1834, 1838 and 1875, and on `DUS:H-012`, `H-020`, `H-021`, `H-025`. No burial register is in hand, so rule 1 cannot be run. What the folders already show:
+  1. **K-001 is himself a necronym.** György Demkó and Mária Hreskó had twins Mihály and János on 29 May [1873], both names marked with a cross (`DUS:D-004-18`). A János followed in 1875 and the Mihály of 1882 after that. The four are kept as four people (rule 3).
+  2. **Rule 5, ages.** The Demko agent's 1906 record gives the father as aged 24, born at Magasrév: born 1881 or 1882. That fits the 1882 child and excludes the 1873 twin. `DUS:H-012` stays at 70.
+  3. **Rule 7.** The Demko fathers of 1831, 1834, 1838 and 1840 have three different wives. New `DUS:H-031` (45): one György, three wives. 1831 is a cholera year, and the 1831 child was baptised by the Latin-rite priest of Pálóc "with the consent of the local parish priest".
+  4. Other reused names: András to Kóreny and Krak at Jesztreb, [1844] and [1852].
+- **Cross-review `DUS:XR-03`**, Demko repo @471c9e7: it has taken my F-003 and F-004 and read them independently. We differed on the mother's rite in the 1857 entry; I have moved to its reading, Roman Catholic [?] (`DUS:DEC-33`). `DUS:H-022` is 70.
 
 ## 0000. B-009 (12 Nov): the line is documented; new folder F-005
 

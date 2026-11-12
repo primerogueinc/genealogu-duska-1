@@ -9,7 +9,9 @@
     ],
     "relation": "Unplaced. Candidate father (H-012) or brother (H-013) of Maria Demko, Ahn 9.",
     "route": "demko",
-    "route_note": "Demko agent places the person; household sent to the Places agent"
+    "route_note": "Demko agent places the person; household sent to the Places agent",
+    "necronym_risk": "unresolved",
+    "necronym_note": "The second son named Mihály to this couple: a twin Mihály of 1873 is marked with a cross. Burials at Viszoka for 1882 to 1897 are not in hand. Age evidence for survival: the Demko agent's 1906 civil record gives the father of Maria Demko as Mihály Demkó, born at Magasrév, aged 24, which implies a birth in 1881 or 1882 and fits this baptism, not the twin of 1873."
   },
   {
     "id": "K-002",
@@ -45,7 +47,9 @@
     ],
     "relation": "Unplaced. A Demko born in the Košice area, about 80 km west of Viszoka. Belongs to the Demko agent to place.",
     "route": "demko",
-    "route_note": "Demko agent places the person; household sent to the Places agent"
+    "route_note": "Demko agent places the person; household sent to the Places agent",
+    "necronym_risk": "unresolved",
+    "necronym_note": "Burials for the Belža parish, 1895 to 1910, not in hand."
   },
   {
     "id": "K-005",
@@ -81,7 +85,9 @@
     ],
     "relation": "Unplaced. No stated link to a Duska or a Demko. Surname resembles Hreskó (H-017).",
     "route": "demko",
-    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19."
+    "route_note": "Rerouted at B-009: Kocsis is the maiden name of Ahn 19.",
+    "necronym_risk": "unresolved",
+    "necronym_note": "Burials for the Belža parish, 1894 to 1909, not in hand."
   },
   {
     "id": "K-008",
@@ -262,7 +268,9 @@
     ],
     "relation": "Child in FG-01. A possible father for Maria Demko, Ahn 9 (H-024).",
     "route": "demko",
-    "route_note": "Demko agent"
+    "route_note": "Demko agent",
+    "necronym_risk": "unresolved",
+    "necronym_note": "The second son named János to this couple: a twin János of 1873 is marked with a cross. Burials not in hand."
   },
   {
     "id": "K-023",
@@ -390,7 +398,9 @@
     ],
     "relation": "Child in FG-03. A candidate for the father in FG-01 (H-020).",
     "route": "demko",
-    "route_note": "Demko agent"
+    "route_note": "Demko agent",
+    "necronym_risk": "unresolved",
+    "necronym_note": "A Georgius was baptised to a father of the same name in [1831], a cholera year. If the two fathers are one man (H-031), this György is a second child of the name. Burials not in hand."
   },
   {
     "id": "K-033",
@@ -402,7 +412,9 @@
     ],
     "relation": "Child in FG-03. A candidate for the father in FG-02 (H-025).",
     "route": "demko",
-    "route_note": "Demko agent"
+    "route_note": "Demko agent",
+    "necronym_risk": "unresolved",
+    "necronym_note": "Burials not in hand."
   },
   {
     "id": "K-034",
@@ -438,7 +450,9 @@
     ],
     "relation": "Child in FG-04. A candidate for the father in FG-01 (H-021).",
     "route": "demko",
-    "route_note": "Demko agent"
+    "route_note": "Demko agent",
+    "necronym_risk": "unresolved",
+    "necronym_note": "Born in a cholera year; a György followed in [1834]. Burials not in hand."
   },
   {
     "id": "K-037",

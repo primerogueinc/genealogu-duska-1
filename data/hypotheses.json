@@ -88,6 +88,11 @@
         "batch": "B-009",
         "effect": "45% to 70%",
         "note": "Michal Duska is \"of Senné\" and Maria Demko \"of Iňačovce\" on the 1947 certificate. That is the pattern predicted. Held at the cap: one generation is documented, and a lead still places an older Dúška family in Iňačovce (L-006)."
+      },
+      {
+        "batch": "B-010",
+        "effect": "70% unchanged",
+        "note": "Places agent, relayed in ledger v8: Greek Catholics of Senné were registered at Iňačovce, so \"Senné and Iňačovce\" in family memory could be one household. The 1947 certificate still gives two villages, one for each spouse."
       }
     ]
   },
@@ -169,6 +174,11 @@
         "batch": "B-009",
         "effect": "50% to 30%",
         "note": "Her birth year (1906) is inside the window, and Solymos is an Ung parish. But the Iňačovce Greek Catholic register is reported to run only to 1898 at Prešov, and a civil record is now in hand, which favours H-014."
+      },
+      {
+        "batch": "B-010",
+        "effect": "30% unchanged",
+        "note": "Places agent, relayed in ledger v8: the Iňačovce Greek Catholic church archive was damaged by lightning in July 1929 and by fire in April 1930, and the indexed register stops in 1898. A copy held elsewhere may be the only surviving church record for 1906. This does not choose between this entry and H-014."
       }
     ],
     "question": "X-Q-01"
@@ -317,9 +327,15 @@
         "batch": "B-009",
         "effect": "25% to 70%",
         "note": "Per the Demko agent's civil birth registration of 1906 (DM-D-008 @57861ad, cited, not read by this agent): Maria's father is Mihály Demkó, born at Magasrév (Viszoka), aged 24 in 1906. That matches the boy baptised at Viszoka in August 1882. Identity by name, place and age, so held at the cap (X-009). The Demko agent has it at 70."
+      },
+      {
+        "batch": "B-010",
+        "effect": "70% unchanged",
+        "note": "Ruling X-017: necronym risk unresolved, because the Viszoka burials are not in hand. What is in hand argues for survival. This Mihály is already the second of the name (the twin of May 1873 has a cross). The 1906 civil record, as the Demko agent reads it, gives the father as aged 24 and born at Magasrév: a birth in 1881 or 1882, which fits the August 1882 baptism and not the 1873 twin, who would have been 33. No later Mihály to this couple is in the folder, which runs to January 1883. Stays at the cap."
       }
     ],
-    "question": "X-Q-03"
+    "question": "X-Q-03",
+    "necronym_risk": "unresolved"
   },
   {
     "id": "H-013",
@@ -505,38 +521,58 @@
   {
     "id": "H-020",
     "statement": "György Demkó, husband of Mária Hreskó, is the György baptised at Viszoka in September [1834], son of György Demko and Anna Samudovszki [?].",
-    "confidence": 40,
+    "confidence": 45,
     "basis": "A man married by 1856 fits a birth in the early 1830s. Two boys named György Demko were baptised at Viszoka then; this one has a brother János.",
     "test": "His marriage entry (about 1855 to 1856), which should give his age and father; burial entries for either György.",
     "status": "open",
     "raised": "B-007",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-010",
+        "effect": "40% to 45%",
+        "note": "Ruling X-017. If the Demko fathers of 1831, 1834, 1838 and 1840 are one man (H-031), the Georgius of 1831 probably died and this György of 1834 is the survivor. Necronym risk unresolved: burials not in hand."
+      }
+    ],
+    "necronym_risk": "unresolved"
   },
   {
     "id": "H-021",
     "statement": "György Demkó, husband of Mária Hreskó, is the Georgius baptised at Viszoka in [1831], son of Georg. Demko and Barbara Cs[encsarik?].",
-    "confidence": 30,
+    "confidence": 20,
     "basis": "Rival to H-020.",
     "test": "As H-020.",
     "status": "open",
     "raised": "B-007",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-010",
+        "effect": "30% to 20%",
+        "note": "Ruling X-017. A second son of the same name three years later, in the wake of a cholera year, suggests the 1831 child died."
+      }
+    ],
+    "necronym_risk": "unresolved"
   },
   {
     "id": "H-022",
     "statement": "The couple of 1857 (Georgij Demko and Mária Hreško, Viszoka 79) is the couple of 1873 to 1882 (György Demkó and Mária Hreskó, Viszoka 121 and 132).",
-    "confidence": 65,
+    "confidence": 70,
     "basis": "Same two names, same village, same rite for him. Against: a sixteen-year gap with no child in this folder, a different house number, and her rite entered as Greek Catholic in 1857.",
     "test": "Baptisms at Viszoka between 1857 and 1873; the marriage entry; the 1869 census sheet for Viszoka.",
     "status": "open",
     "raised": "B-007",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-010",
+        "effect": "65% to 70%",
+        "note": "The Demko agent reads the mother's rite in the 1857 entry as Roman Catholic, and a second look here agrees. That removes one of the three objections. Held at the cap."
+      }
+    ]
   },
   {
     "id": "H-023",
@@ -586,7 +622,14 @@
     "raised": "B-007",
     "resolved": null,
     "resolution": null,
-    "log": []
+    "log": [
+      {
+        "batch": "B-010",
+        "effect": "45% unchanged",
+        "note": "Ruling X-017: necronym risk unresolved. Burials for 1838 to 1853 not in hand."
+      }
+    ],
+    "necronym_risk": "unresolved"
   },
   {
     "id": "H-026",
@@ -644,6 +687,18 @@
     "test": "The Senné Roman Catholic baptism register, which is filmed for 1866 to 1912 (L-001).",
     "status": "open",
     "raised": "B-009",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-031",
+    "statement": "The Demko fathers at Viszoka in 1831, 1834, 1838 and 1840 are one György Demko with three wives in turn: Barbara Cs[encsarik?], then Anna Samudovszki [?], then Mária Vaszil [?].",
+    "confidence": 45,
+    "basis": "Ruling X-017, rule 7: a change of mother between baptisms to one father is a second marriage until shown to be a second man. The wives do not overlap in time, and 1831 to 1832 was a cholera wave. The Demko agent reads the same pattern. Against: György and Demko are both common at Viszoka.",
+    "test": "Burials of Barbara and Anna; marriage entries of 1832 to 1834 and 1838 to 1840; house numbers.",
+    "status": "open",
+    "raised": "B-010",
     "resolved": null,
     "resolution": null,
     "log": []

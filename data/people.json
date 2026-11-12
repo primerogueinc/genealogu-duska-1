@@ -22,7 +22,7 @@
     "ahnentafel": 2,
     "name": "Kevin John Duska",
     "role": "Father",
-    "living": true,
+    "living": "unknown",
     "birth": {
       "date": "1962",
       "place": "Montréal, Québec",
@@ -34,30 +34,35 @@
       "S-000-5"
     ],
     "note": "Born in Montréal by his son's statement (S-000-5). That puts his father, Ahn 4, in Montréal by 1962.",
-    "owner": "Duska"
+    "owner": "Duska",
+    "living_basis": "Kevin does not know whether his father is living (ledger v8, X-016). Shown by name and year only."
   },
   {
     "id": "P-004",
     "ahnentafel": 4,
-    "name": "Štefan (Stefan) Duska",
+    "name": "Štefan (Stefan, Steve) Duska",
     "role": "Paternal grandfather",
-    "living": true,
+    "living": false,
     "birth": {
-      "date": "1929",
-      "place": "Senné, house 160",
-      "withheld": true
+      "date": "21 Oct 1929",
+      "place": "Senné, house 160"
     },
     "proof": "documented",
     "sources": [
       "S-024",
-      "S-000-2"
+      "S-000-2",
+      "S-000-6"
     ],
-    "note": "Son of Michal Duska, Roman Catholic cottar of Senné, and Maria Demko, Greek Catholic, of Iňačovce, by a sealed parish certificate of 1947. Born in Slovakia, not in Canada.",
+    "note": "Son of Michal Duska, Roman Catholic cottar of Senné, and Maria Demko, Greek Catholic, of Iňačovce, by a sealed parish certificate of 1947. Born in Slovakia, not in Canada. Known as Steve; died 2018 (stated, no record in hand).",
     "owner": "Duska",
-    "living_basis": "Recorded as living until Kevin confirms otherwise, so day and month stay off this page. The owner labels a photograph in the Demko agent's folder as his burial; that is a label, not a record.",
+    "living_basis": "Died in 2018 by Kevin's statement to the coordinator (S-000-6).",
     "baptism": {
-      "date": "1929",
+      "date": "26 Oct 1929",
       "place": "Roman Catholic parish church, Senné (register vol. IV, p. 110, entry 43)"
+    },
+    "death": {
+      "date": "2018",
+      "place": null
     }
   },
   {
