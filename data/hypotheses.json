@@ -740,26 +740,38 @@
  {
   "id": "H-028",
   "statement": "Štefan Duska left Czechoslovakia between August 1947 and September 1950, and the 1947 certificate was drawn for that journey.",
-  "confidence": 65,
+  "confidence": 3,
   "basis": "A sealed baptism certificate issued for a 17-year-old in August 1947, and his mother's death at Montréal in September 1950. The Demko agent holds the same view for Maria (DM-H-019).",
   "test": "Canadian passenger lists and immigration records, 1947 to 1950.",
-  "status": "open",
+  "status": "refuted",
   "raised": "B-009",
-  "resolved": null,
-  "resolution": null,
-  "log": []
+  "resolved": "B-029",
+  "resolution": "Štefan left in November 1937, aged 8: a court consent of 7 October 1937, his mother's emigrant passport with Antwerp stamps of November 1937, and a transport contract for the ship Montrose sailing on 11 November 1937. The certificate of 1947 was drawn ten years after he had gone, for some other purpose.",
+  "log": [
+   {
+    "batch": "B-029",
+    "effect": "refuted, from 65 to 3",
+    "note": "Štefan left in November 1937, aged 8: a court consent of 7 October 1937, his mother's emigrant passport with Antwerp stamps of November 1937, and a transport contract for the ship Montrose sailing on 11 November 1937. The certificate of 1947 was drawn ten years after he had gone, for some other purpose."
+   }
+  ]
  },
  {
   "id": "H-029",
   "statement": "Michal Duska went to Canada ahead of his wife and son, between 1930 and 1939, and they followed after the war.",
-  "confidence": 40,
+  "confidence": 5,
   "basis": "A common pattern (recalled from training, X-010), and it would explain a family reunited only in the late 1940s. Nothing in hand shows where he was between 1929 and 1950.",
   "test": "Canadian arrival and naturalization records for a Michal or Mike Duska; the 1930 census sheet for Senné 160.",
-  "status": "open",
+  "status": "refuted",
   "raised": "B-009",
-  "resolved": null,
-  "resolution": null,
-  "log": []
+  "resolved": "B-029",
+  "resolution": "Half right. Michal did go ahead: he was settled in Montréal by September 1937. But his wife and son followed in November 1937, not after the war. Replaced by H-065 and H-066.",
+  "log": [
+   {
+    "batch": "B-029",
+    "effect": "refuted as worded, from 40 to 5",
+    "note": "Half right. Michal did go ahead: he was settled in Montréal by September 1937. But his wife and son followed in November 1937, not after the war. Replaced by H-065 and H-066."
+   }
+  ]
  },
  {
   "id": "H-030",
@@ -796,6 +808,11 @@
     "batch": "B-026",
     "effect": "no change",
     "note": "A cemetery record shows Miklós Duska of Senné house 6 (b. 1890) buried under a French-language record (H-060). It fits a Senné origin for the Duskas of Montréal. Already at the cap."
+   },
+   {
+    "batch": "B-029",
+    "effect": "no change",
+    "note": "His wife's passport of 1937 gives her home commune as Senné, district of Veľké Kapušany, though she was born and living at Iňačovce. A wife's home commune was her husband's. It fits a Senné man; it does not say he was born there. Already at the cap."
    }
   ],
   "question": "X-Q-06"
@@ -1198,6 +1215,11 @@
     "batch": "B-028",
     "effect": "no change",
     "note": "The owner has opened a folder for the census of 1921. A household form of that census gives each person's date and place of birth. If the Senné forms are in it, Michal would be listed at about 17 or 24 in his father's house, which would settle this against H-047. No form is in hand yet."
+   },
+   {
+    "batch": "B-029",
+    "effect": "no change",
+    "note": "The 1937 papers name him four times and never give his age. Maria was born on 22 August 1906: a husband born in 1903 would be three years older, one born in 1896 ten. Both are ordinary. No move."
    }
   ],
   "necronym_risk": "unresolved",
@@ -1243,6 +1265,11 @@
     "batch": "B-028",
     "effect": "no change",
     "note": "As for H-046: the 1921 census forms for Senné, if they come, would decide between the two baptisms."
+   },
+   {
+    "batch": "B-029",
+    "effect": "no change",
+    "note": "As for H-046."
    }
   ],
   "question": "X-Q-06"
@@ -1526,6 +1553,11 @@
     "batch": "B-026",
     "effect": "raised at 70, supported",
     "note": "At the cap for a link without an archive reference (X-009). It shows a Roman Catholic Duska of Senné, house 6, in a French-language cemetery, which is what would be expected of a kinsman of Mike Duska of Montréal. It does not say which Mihály Mike was."
+   },
+   {
+    "batch": "B-029",
+    "effect": "no change",
+    "note": "Mike Duska lived at 1196a St. George Street, Montréal, in 1937. If the cemetery of record FT 01965 is in Montréal, Miklós and Mike were in one city."
    }
   ]
  },
@@ -1599,6 +1631,43 @@
     "batch": "B-027",
     "effect": "raised at 40",
     "note": "Raised from the four census sheets of Solymos."
+   }
+  ]
+ },
+ {
+  "id": "H-065",
+  "statement": "Maria Duska née Demko and her son Štefan left Iňačovce in November 1937 and sailed from Antwerp on the Montrose to join Michal Duska, who was already settled in Montréal.",
+  "confidence": 90,
+  "basis": "Five original papers in the family's keeping, each with its own number: the immigration letter of 11 September 1937, the passage receipt no. 242299 of 17 September, the court consent Nsl 446/37 of 7 October, passport no. 305 with Antwerp emigration stamps of November, and transport contract no. 15621 of 8 November.",
+  "test": "The ship's manifest for the Montrose, November 1937, which would also name the husband they were joining.",
+  "status": "solved",
+  "raised": "B-029",
+  "resolved": "B-029",
+  "resolution": "Shown by the papers themselves. The landing in Canada is not on any of them; the manifest would complete it.",
+  "log": [
+   {
+    "batch": "B-029",
+    "effect": "raised and solved at 90",
+    "note": "An event shown by dated originals, not a link of identity, so the 70 cap of X-009 is not applied. The arrival itself is still undocumented."
+   }
+  ]
+ },
+ {
+  "id": "H-066",
+  "statement": "Michal Duska reached Canada between early 1929 and early 1931, leaving his wife with a child born or expected.",
+  "confidence": 55,
+  "basis": "His son was born in October 1929, so he was at home in January 1929. He was settled enough in Montréal by 1937 to sponsor a family. Canada all but closed to new labourers from the continent in 1931 (recalled, not sourced: X-010), so a man who was in by 1937 most likely came before that. The baptism of 1929 calls him a cottar of Senné and does not say he was present.",
+  "test": "His passenger list or landing card, 1929 to 1931: it gives his age, his last residence and his nearest relative at home, and so answers the question of which Mihály he was. His naturalisation file would do the same.",
+  "status": "open",
+  "raised": "B-029",
+  "resolved": null,
+  "resolution": null,
+  "question": "X-Q-06",
+  "log": [
+   {
+    "batch": "B-029",
+    "effect": "raised at 55",
+    "note": "Raised because it names the one public record most likely to give his age."
    }
   ]
  }

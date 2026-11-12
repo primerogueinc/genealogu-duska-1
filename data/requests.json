@@ -51,7 +51,7 @@
   "id": "R-007",
   "status": "raised",
   "raised": "B-009",
-  "text": "Michal Duska's marriage to Maria Demko (about 1925 to 1929), or any record that gives his age, birth date or parents: a passenger list, a naturalisation or a Canadian burial record would do. His baptism is now in hand twice over: a Mihály of 6 December 1896 and a Mihály of 3 July 1903. One record with his age chooses between them (H-046, H-047).",
+  "text": "Michal Duska's marriage to Maria Demko (about 1925 to 1929), or any record that gives his age, birth date or parents: a passenger list, a naturalisation or a Canadian burial record would do. His baptism is now in hand twice over: a Mihály of 6 December 1896 and a Mihály of 3 July 1903. One record with his age chooses between them (H-046, H-047). B-029: the 1937 emigration papers name Michal four times and give no age. Still open.",
   "raised_with_owner": "2026-11-12",
   "rank": 1
  },
@@ -115,6 +115,14 @@
   "status": "raised",
   "raised": "B-028",
   "text": "From the 1921 census: the household form or forms for every Duska at Senné (and at Iňačovce), with the summary sheet for the village. One form with Michal on it, giving his date of birth and his father's name, answers the first question on this line.",
+  "raised_with_owner": "2026-11-12",
+  "rank": 1
+ },
+ {
+  "id": "R-016",
+  "status": "raised",
+  "raised": "B-029",
+  "text": "Michal (Mike) Duska's own arrival in Canada, most likely 1929 to 1931: the ship's passenger list or his landing card, and his naturalisation papers if he took citizenship. Each gives his age. Also the Montrose manifest of November 1937 for Maria and Štefan.",
   "raised_with_owner": "2026-11-12",
   "rank": 1
  }

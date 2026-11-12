@@ -610,5 +610,35 @@
   "date": "2026-11-12",
   "decided": "'1921 Census Folder' is entered as part 3 of folder F-011 'Duska Census' and the folder stays open. The meaning of the coloured squares on the second map is recorded as this agent's inference.",
   "why": "The owner announced the census folder as one and is sending it in parts. The map has no key (X-010 in spirit: say what is read and what is supplied)."
+ },
+ {
+  "id": "DEC-103",
+  "date": "2026-11-12",
+  "decided": "The 1984 declaration of marriage is held. Used from it: the groom's name, year and city of birth; his father's name and country of birth; the witness; the year and city of the marriage. Nothing else is entered anywhere. Its file name is written with NAME_WITHHELD. Ahn 2 is now 'documented'; he stays `living: unknown`, and no spouse or mother is added.",
+  "why": "X-016 (unknown status: name, year and city only), X-020 item 4 and X-022 (the bride's side and the groom's mother's line are outside this experiment), rule 29 (a living third party's name in a file name)."
+ },
+ {
+  "id": "DEC-104",
+  "date": "2026-11-12",
+  "decided": "The photograph of the transport contract is published only as a crop; the uncropped file is not copied into this repository.",
+  "why": "Its right edge shows an envelope with the name of a person on a line outside this experiment (the Sorter's warning; X-022)."
+ },
+ {
+  "id": "DEC-105",
+  "date": "2026-11-12",
+  "decided": "The other seven 1937 photographs, the passport portrait among them, are published whole. Štefan's birth stays 21 October 1929 on the tree, with the 23 October of the 1937 papers recorded beside it.",
+  "why": "Maria Demko died in 1950 and Štefan in 2018 (X-016); nothing else in the frames names a living person. The parish entry was made within the week; the 1937 papers are eight years later."
+ },
+ {
+  "id": "DEC-106",
+  "date": "2026-11-12",
+  "decided": "H-065 is marked solved at 90 without an archive reference.",
+  "why": "X-009 caps links of identity or parentage. This is an event shown by five dated originals that carry their own office numbers. The cap is kept for every link."
+ },
+ {
+  "id": "DEC-107",
+  "date": "2026-11-12",
+  "decided": "Maria Demko's birth date and place are entered on P-009 from her passport, with the Demko agent still the owner of Ahn 9.",
+  "why": "X-003: Ahn 9 is the Demko agent's. The passport came to this pile first (the Sorter's standing decision); the reading is offered, and its own reading governs if they differ."
  }
 ]

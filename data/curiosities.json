@@ -576,5 +576,60 @@
   "translation": "Both names mean roughly 'the high place'.",
   "why": "It is the reason a 1906 record gives a birthplace that the 1882 baptism never heard of.",
   "tone": "history"
+ },
+ {
+  "id": "C-069",
+  "doc": "D-006-18",
+  "source": "S-254",
+  "title": "The passport photograph",
+  "text": "One photograph served for two travellers. Maria sits square to the camera with her hair pulled back; Štefan, eight years old and shorn nearly bald, leans his head against her shoulder. She has signed her name in ink straight across both of them, 'Marja Duškova', because the rules wanted the signature on the picture.",
+  "original": "Marja Duškova",
+  "translation": "(signature)",
+  "why": "It is the only face in the archive, and the only handwriting of anyone on the line.",
+  "tone": "history"
+ },
+ {
+  "id": "C-070",
+  "doc": "D-006-13",
+  "source": "S-252",
+  "title": "Certified reliable to accompany her own son",
+  "text": "Before an eight-year-old could leave the country with his mother, a court had to consent. The form's reasons, typed into blanks meant for any escort, say that the named companion is over 24 years of age, is wholly reliable, and has bound herself in writing, on pain of financial liability, to deliver the minor to the place named in the passport.",
+  "original": "menovaná sprievodkyňa má výše 24 rokov, je úplne spoľahlivá",
+  "translation": "the named escort is over 24 years old and is wholly reliable",
+  "why": "The state's form had one text for a hired escort and a mother alike.",
+  "tone": "funny"
+ },
+ {
+  "id": "C-071",
+  "doc": "D-006-11",
+  "source": "S-250",
+  "title": "A wife aged 28, who was 31",
+  "text": "Mike Duska's application to Ottawa gave his wife's age as 28. Her passport, issued the same autumn, has her born in August 1906, which makes her 31. After eight years apart he was three years out. Someone later ringed 'aged' in pencil and wrote 'age 7' at the foot, checking the boy's.",
+  "original": "your wife, Maria aged 28, and son, Stefan aged 7",
+  "translation": "(English)",
+  "why": "The same looseness is why no age given for Mike himself, when one turns up, should be trusted to the year.",
+  "tone": "funny"
+ },
+ {
+  "id": "C-072",
+  "doc": "D-006-12",
+  "source": "S-251",
+  "title": "$178.50, third class",
+  "text": "The whole crossing for a woman and a boy, Prague to a Canadian port, cost one full fare and one half: $178.50, paid over a counter in Montréal on 17 September 1937 and stamped 'Not good for passage', since the receipt was the payer's and the ticket would be issued in Prague. In Prague she paid 20 crowns more, for insurance on herself and the luggage.",
+  "original": "One Hundred Seventy Eight 50/100 ... NOT GOOD FOR PASSAGE",
+  "translation": "(English)",
+  "why": "It is what eight years of a labourer's saving in Montréal bought.",
+  "tone": "history"
+ },
+ {
+  "id": "C-073",
+  "doc": "D-006-17",
+  "source": "S-254",
+  "title": "Two birthdays",
+  "text": "The parish wrote that Štefan was born on 21 October 1929 and baptised on the 26th. The court, the passport office and his mother's passport, eight years later, all say 23 October. He probably kept the second all his life.",
+  "original": "23. X. 1929 [passport] | 21. X. 1929 [parish certificate]",
+  "translation": "23 October 1929; 21 October 1929",
+  "why": "A civil date and a church date for one birth, two days apart, is a trap for anyone matching records by birthday.",
+  "tone": "odd"
  }
 ]

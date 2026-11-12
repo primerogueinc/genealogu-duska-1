@@ -2046,5 +2046,53 @@
   "title": "Map of Ung county of 1915 with a coloured square added on each village",
   "extract": "A black-and-white school map of Ung county issued for the minister of religion and education, dated 1915 in the corner, with the population of 1910 (162,089) and six districts. Someone has since added a small coloured square on every village: red across the south around Nagykapos and Csap, green across the west around Szobránc, purple through the mountains and the east, a few striped or dotted. The image has no key to the colours; by where they fall they look like the main language of each village (Hungarian, Slovak, Ruthenian), and that is this agent's inference, not something the map says. Solymos, Ungszenna, Rebrény, Gézsény and Magasrév are green; Csicser is red. Two names matter here. Szenna is 'Ungszenna', the form the Senné register takes up between 1903 and 1906. And where the older map has Viszoka, this one has Magasrév: the birthplace written on the Demko agent's 1906 record is Viszoka under its new name.",
   "reliability": "A published map; good for places, names in use and district lines at its date. The coloured squares on the second map are a later addition with no key."
+ },
+ {
+  "id": "S-249",
+  "batch": "B-029",
+  "type": "Civil declaration of marriage, Québec government form (original record; image held)",
+  "title": "Québec declaration of marriage, 1984: Kevin Duska, son of Steve Duska",
+  "extract": "A typed and signed Québec government form, the declaration of a civil marriage at the Palais de Justice in Montréal in 1984. The groom is Kevin Duska, born in Montréal in 1962. His father is entered as Steve Duska, born in Czechoslovakia, and a Steve Duska signs as a witness. That is the first document in the archive for the link between Kevin's father and his grandfather Štefan, which until now rested on Kevin's word. Everything else on the form is withheld here: the bride and her parents belong to Kevin's mother's side, the groom's mother to his grandmother's line, and both spouses are of unknown living status (rules 19, 24 and 29). The image is not published. The original file name carries the bride's name and is written here with NAME_WITHHELD.",
+  "reliability": "Typed, with signatures; made at the event by the parties. Reading level: high. Only the groom's name, year and city, his father's name and birthplace, and the witness are used. The pile is the sorter's label and is not evidence."
+ },
+ {
+  "id": "S-250",
+  "batch": "B-029",
+  "type": "Government letter (original)",
+  "title": "Letter of the Immigration Branch, Ottawa, to Mike Duska, 11 Sep 1937",
+  "extract": "A typed letter from the Canadian immigration service in Ottawa to Mike Duska at 1196a St. George Street, Montréal. He had applied for his wife Maria, 'aged 28', and son Stefan, aged 7, of Iňačovce, to be admitted to Canada, and the letter says the entry letter has gone to the Canadian Pacific agent at Windsor Station. So Michal Duska was settled in Montréal by September 1937 and sent for his family. The owner's file name calls this a citizenship application; it is an admission letter. Maria was in fact 31. The letter gives no age or birthplace for Mike himself.",
+  "reliability": "Typed original. The ages in it are as the applicant gave them; the wife's is three years out. The pile is the sorter's label and is not evidence."
+ },
+ {
+  "id": "S-251",
+  "batch": "B-029",
+  "type": "Steamship company receipt (original)",
+  "title": "Canadian Pacific Steamships receipt no. 242299, Montréal, 17 Sep 1937",
+  "extract": "The purchaser's copy of a prepaid passage order. On 17 September 1937, in Montréal, Mr. Mike Duska of 1196a St. George Street paid $178.50 for a third-class ocean passage from Prague to a Canadian port for Mrs. Maria Duska, an adult, and Master Stefan Duska, aged 7, of Iňačovce. It was bought six days after the immigration letter.",
+  "reliability": "Typed original. The pile is the sorter's label and is not evidence."
+ },
+ {
+  "id": "S-252",
+  "batch": "B-029",
+  "type": "Court consent, printed form typed in (original)",
+  "title": "Guardianship consent, district court of Michalovce, Nsl 446/37, 7 Oct 1937",
+  "extract": "A printed court form, typed in. The district court at Michalovce, acting as guardianship office, file Nsl 446/37, consents on 7 October 1937 that the minor Štefan Duško, born 23 October 1929 at Senné, may emigrate in the company of his mother, Mária Dušková née Demková of Iňačovce, to Canada, to his father Michal Duško. The mother may sign the transport contract in the guardian's place. The reasons: the father asked for it, the boy will be fully provided for with him, and the escort is over 24 years old, wholly reliable, and has bound herself in writing to take him all the way. The surname is typed Duško throughout. The boy's birthday is given as 23 October; the parish certificate of 1947 has 21 October. Nothing is said of the father's age or of where in Canada he was.",
+  "reliability": "Sealed original; some typing faint. It gives the boy's birthday as 23 October, against 21 October in the parish certificate of 1947. The pile is the sorter's label and is not evidence."
+ },
+ {
+  "id": "S-253",
+  "batch": "B-029",
+  "type": "Transport contract (original, photograph cropped)",
+  "title": "Canadian Pacific transport contract no. 15621, Prague, 8 Nov 1937",
+  "extract": "The emigrant's contract with the Canadian Pacific office in Prague, no. 15621, emigration register nos. 487 and 488. Maria Dušková, 31, married, a farm worker, Czechoslovak, last living at Iňačovce, and Štefan Duška, 8, single, are to go third class by train from Prague on 8 November 1937 and by the ship Montrose from Antwerp on 11 November 1937 to Montréal. The fare is marked as paid in Canada; she paid 20 crowns of insurance on 6 November, and signs 'Marja Duskova'. The public copy of this image is cropped on the right, where an envelope bearing another person's name lay beside the sheet.",
+  "reliability": "Handwritten on a printed form; reading level medium. The pile is the sorter's label and is not evidence."
+ },
+ {
+  "id": "S-254",
+  "batch": "B-029",
+  "type": "Passport (original; four photographs)",
+  "title": "Czechoslovak emigrant passport no. 305 of 1937, Maria Dušková née Demková",
+  "extract": "The green cloth cover of the passport, numbered 3389, with the year 1937 in a box. No name on it.",
+  "reliability": "An identity document issued by the district office at Michalovce; her date of birth as the office took it from her papers. The pile is the sorter's label and is not evidence."
  }
 ]

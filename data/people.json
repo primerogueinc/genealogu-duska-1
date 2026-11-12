@@ -1,121 +1,148 @@
 [
-  {
-    "id": "P-001",
-    "ahnentafel": 1,
-    "name": "Kevin J.S. Duska Jr.",
-    "role": "Subject",
-    "living": true,
-    "birth": {
-      "date": "1985",
-      "place": "Montréal, Québec",
-      "withheld": true
-    },
-    "proof": "stated",
-    "sources": [
-      "S-000-1"
-    ],
-    "note": "Starting point of the line.",
-    "owner": "Duska"
+ {
+  "id": "P-001",
+  "ahnentafel": 1,
+  "name": "Kevin J.S. Duska Jr.",
+  "role": "Subject",
+  "living": true,
+  "birth": {
+   "date": "1985",
+   "place": "Montréal, Québec",
+   "withheld": true
   },
-  {
-    "id": "P-002",
-    "ahnentafel": 2,
-    "name": "Kevin John Duska",
-    "role": "Father",
-    "living": "unknown",
-    "birth": {
-      "date": "1962",
-      "place": "Montréal, Québec",
-      "withheld": true
-    },
-    "proof": "stated",
-    "sources": [
-      "S-000-1",
-      "S-000-5"
-    ],
-    "note": "Born in Montréal by his son's statement (S-000-5). That puts his father, Ahn 4, in Montréal by 1962.",
-    "owner": "Duska",
-    "living_basis": "Kevin does not know whether his father is living (ledger v8, X-016). Shown by name and year only."
+  "proof": "stated",
+  "sources": [
+   "S-000-1"
+  ],
+  "note": "Starting point of the line.",
+  "owner": "Duska"
+ },
+ {
+  "id": "P-002",
+  "ahnentafel": 2,
+  "name": "Kevin John Duska",
+  "role": "Father",
+  "living": "unknown",
+  "birth": {
+   "date": "1962",
+   "place": "Montréal, Québec",
+   "withheld": true
   },
-  {
-    "id": "P-004",
-    "ahnentafel": 4,
-    "name": "Štefan (Stefan, Steve) Duska",
-    "role": "Paternal grandfather",
-    "living": false,
-    "birth": {
-      "date": "21 Oct 1929",
-      "place": "Senné, house 160"
-    },
-    "proof": "documented",
-    "sources": [
-      "S-024",
-      "S-000-2",
-      "S-000-6"
-    ],
-    "note": "Son of Michal Duska, Roman Catholic cottar of Senné, and Maria Demko, Greek Catholic, of Iňačovce, by a sealed parish certificate of 1947. Born in Slovakia, not in Canada. Known as Steve; died 2018 (stated, no record in hand).",
-    "owner": "Duska",
-    "living_basis": "Died in 2018 by Kevin's statement to the coordinator (S-000-6).",
-    "baptism": {
-      "date": "26 Oct 1929",
-      "place": "Roman Catholic parish church, Senné (register vol. IV, p. 110, entry 43)"
-    },
-    "death": {
-      "date": "2018",
-      "place": null
-    }
+  "proof": "documented",
+  "sources": [
+   "S-000-1",
+   "S-000-5",
+   "S-249"
+  ],
+  "note": "Born in Montréal by his son's statement (S-000-5). That puts his father, Ahn 4, in Montréal by 1962. A Québec declaration of marriage of 1984 names his father as Steve Duska, born in Czechoslovakia, who also signs as a witness (S-249; image held). The link to Ahn 4 no longer rests on a statement alone.",
+  "owner": "Duska",
+  "living_basis": "Kevin does not know whether his father is living (ledger v8, X-016). Shown by name and year only."
+ },
+ {
+  "id": "P-004",
+  "ahnentafel": 4,
+  "name": "Štefan (Stefan, Steve) Duska",
+  "role": "Paternal grandfather",
+  "living": false,
+  "birth": {
+   "date": "21 Oct 1929",
+   "place": "Senné, house 160"
   },
-  {
-    "id": "P-008",
-    "ahnentafel": 8,
-    "name": "Michal (Mihály, Mike) Duska",
-    "role": "Great-grandfather",
-    "living": false,
-    "birth": {
-      "date": null,
-      "place": null
-    },
-    "proof": "documented",
-    "sources": [
-      "S-024",
-      "S-025",
-      "S-026",
-      "S-000-2"
-    ],
-    "note": "Father of Štefan by the 1947 certificate: Roman Catholic, cottar, of Senné in 1929. \"Mike Duska\" on the Montréal gravestone of his wife and in a deed of 1966, when he was alive and declared he had married once. His own birth, parents and marriage are not yet on record here.",
-    "owner": "Duska",
-    "residence": [
-      {
-        "date": "1929",
-        "place": "Senné, house 160"
-      },
-      {
-        "date": "1966",
-        "place": "Montréal"
-      }
-    ]
+  "proof": "documented",
+  "sources": [
+   "S-024",
+   "S-000-2",
+   "S-000-6",
+   "S-249",
+   "S-252",
+   "S-253",
+   "S-254"
+  ],
+  "note": "Son of Michal Duska, Roman Catholic cottar of Senné, and Maria Demko, Greek Catholic, of Iňačovce, by a sealed parish certificate of 1947. Born in Slovakia, not in Canada. Known as Steve; died 2018 (stated, no record in hand). He left Iňačovce with his mother in November 1937, aged 8, on her passport, and sailed from Antwerp for Montréal to join his father (S-252 to S-254). Three papers of 1937 give his birthday as 23 October 1929; the parish certificate has 21 October, which is kept here as the church's own entry. In 1984 he is 'Steve Duska, born in Czechoslovakia' (S-249).",
+  "owner": "Duska",
+  "living_basis": "Died in 2018 by Kevin's statement to the coordinator (S-000-6).",
+  "baptism": {
+   "date": "26 Oct 1929",
+   "place": "Roman Catholic parish church, Senné (register vol. IV, p. 110, entry 43)"
   },
-  {
-    "id": "P-009",
-    "ahnentafel": 9,
-    "name": "Maria Demko (Mary Demko)",
-    "role": "Great-grandmother",
-    "living": false,
-    "birth": {
-      "date": "1906",
-      "place": "Solymos (Iňačovce), per the Demko agent's civil record DM-D-008 @57861ad, not read by this agent"
-    },
-    "proof": "documented",
-    "sources": [
-      "S-024",
-      "S-025",
-      "S-026"
-    ],
-    "note": "Wife of Michal Duska and mother of Štefan by the 1947 certificate; Greek Catholic, of Iňačovce. Died at Montréal on 9 September 1950 by her husband's declaration of 1966. Stone: born 1906, died 1950. Her parents are the Demko agent's to establish: it has Mihály Demkó and Mária Kocsis (DM P-018, P-019 @57861ad).",
-    "owner": "Demko",
-    "death": {
-      "date": "9 Sep 1950",
-      "place": "Montréal"
-    }
+  "death": {
+   "date": "2018",
+   "place": null
+  },
+  "residence": [
+   {
+    "date": "1929",
+    "place": "Senné, house 160"
+   },
+   {
+    "date": "1937",
+    "place": "Iňačovce, until November"
+   },
+   {
+    "date": "Nov 1937",
+    "place": "Montréal (destination on the contract)"
+   }
+  ]
+ },
+ {
+  "id": "P-008",
+  "ahnentafel": 8,
+  "name": "Michal (Mihály, Mike) Duska",
+  "role": "Great-grandfather",
+  "living": false,
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "S-024",
+   "S-025",
+   "S-026",
+   "S-000-2",
+   "S-250",
+   "S-251",
+   "S-252"
+  ],
+  "note": "Father of Štefan by the 1947 certificate: Roman Catholic, cottar, of Senné in 1929. \"Mike Duska\" on the Montréal gravestone of his wife and in a deed of 1966, when he was alive and declared he had married once. His own birth, parents and marriage are not yet on record here. By September 1937 he was settled at 1196a St. George Street, Montréal, applied for his wife and son to be admitted, and paid their passage (S-250, S-251). The court at Michalovce calls him Michal Duško, father, in Canada (S-252). His wife's passport gives her home commune as Senné, which was his. None of these papers gives his age.",
+  "owner": "Duska",
+  "residence": [
+   {
+    "date": "1929",
+    "place": "Senné, house 160"
+   },
+   {
+    "date": "Sep 1937",
+    "place": "1196a St. George Street, Montréal"
+   },
+   {
+    "date": "1966",
+    "place": "Montréal"
+   }
+  ]
+ },
+ {
+  "id": "P-009",
+  "ahnentafel": 9,
+  "name": "Maria Demko (Mary Demko)",
+  "role": "Great-grandmother",
+  "living": false,
+  "birth": {
+   "date": "22 Aug 1906",
+   "place": "Iňačovce (Solymos), by her passport of 1937 (S-254); the Demko agent holds the civil registration"
+  },
+  "proof": "documented",
+  "sources": [
+   "S-024",
+   "S-025",
+   "S-026",
+   "S-254"
+  ],
+  "note": "Wife of Michal Duska and mother of Štefan by the 1947 certificate; Greek Catholic, of Iňačovce. Died at Montréal on 9 September 1950 by her husband's declaration of 1966. Stone: born 1906, died 1950. Her parents are the Demko agent's to establish: it has Mihály Demkó and Mária Kocsis (DM P-018, P-019 @57861ad). Her emigrant passport of 1937 gives her birth as 22 August 1906 at Iňačovce and her occupation as farmer; she left in November 1937 with her son.",
+  "owner": "Demko",
+  "death": {
+   "date": "9 Sep 1950",
+   "place": "Montréal"
   }
+ }
 ]

@@ -3,7 +3,18 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-028. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-029. Read ledger v19.
+
+## 0000000000000000000000. B-029 (12 Nov): the 1937 emigration papers; Ahn 2 documented; an exposure to log
+
+Read ledger v19 at bcea4c8. Pile `to-duska/` at private commit 2bea03e: nine files, `DUS:D-006-10` to `-18`. Please assign X-S numbers.
+
+1. **The line.** Ahn 2 is now `documented`: a Québec declaration of marriage of 1984 names the groom Kevin Duska, born Montréal 1962, and his father Steve Duska, born in Czechoslovakia, who signs as witness (`DUS:D-006-10`, image held, `DUS:DEC-103`). Ahn 4, 8 and 9 gain eight original papers of 1937 (`DUS:D-006-11` to `-18`): Mike Duska at 1196a St. George Street, Montréal, in September 1937, sponsoring wife and son; the Michalovce court's consent naming the father Michal Duško; Maria's passport (born 22 Aug 1906 at Iňačovce, home commune Senné); the contract for the Montrose, Antwerp, 11 Nov 1937.
+2. **Board.** `DUS:H-028` and `H-029` refuted. `DUS:H-065` solved at 90 (an event on five dated originals; I have not applied the X-009 cap, which I read as being for links: `DUS:DEC-106`; overrule me if you read it otherwise). `DUS:H-066` (Michal arrived 1929 to 1931, 55), tagged X-Q-06.
+3. **X-Q-06 does not move.** The papers name Michal four times and give no age. Odds as before: `H-046` 55, `H-047` 22. `DUS:R-016`, rank 1, asks Kevin for Michal's own passenger list or naturalisation file.
+4. **A difference between records:** Štefan's birthday is 21 Oct 1929 on the parish certificate of 1947 (X-S-004) and 23 Oct 1929 on three papers of 1937. I keep the 21st and record both.
+5. **For the contamination log (X-021 item 4).** (a) The pile manifest's entry for the 1984 form, and that file's name, state surnames from Kevin's mother's side and his grandmother's line. I read the manifest before I could know that. (b) The form itself shows the bride, her parents and the groom's mother in full; I read it because it is in my pile and bears on Ahn 2. (c) The right edge of the transport-contract photograph shows an envelope addressed to a person of the grandmother's line. None of these names is in my repo: the file name is written with NAME_WITHHELD, the form is held, the photograph is published cropped (`DUS:DEC-104`). I use nothing from the withheld fields. Under rule 29 the held form is Kevin's to pass to the open agent.
+6. `DUS:D-006-16` and `-17` also fit Demko (the Sorter's note). They are public in my repo, so its cross-review reaches them.
 
 ## 000000000000000000000. B-028 (12 Nov): maps and a census guide; a file of Kevin's that I did open
 

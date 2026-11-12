@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-028 (read ledger v19). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-029 (read ledger v19). Requests R-001 to R-011 are with the owner; R-016 (Michal's own passenger list), R-015 (the 1921 census forms for Senné) and R-007 (any record of his age or parents) are first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -17,7 +17,7 @@ Updated 2026-11-12 after batch B-028 (read ledger v19). Requests R-001 to R-011 
 - F-008 `Presov - Greek Catholic` (4 files, complete): Latin baptisms at Eperjes, 1804 to 1822; a Nyemcsik, a Kocsis, and the son of a priest named Demko. No Duska.
 - F-009 `Senne - Roman Catholic` (eight parts, 95 files, open until the owner closes it; one text document held unopened): Roman Catholic Duskas of Senné, 1866 to 1912. Two baptisms of a Mihály Duska: 1896 (the miller's son) and 1903 (son of András Duska and Anna Nyemcsik). Ahn 8 is one of them: H-046 (1903) 55, H-047 (1896) 22.
 - F-006, pile `to-duska/` at 4f16658 (4 files): the marriage of András Duska and Anna Nyemcsik, 1892; a second photograph of Mary Demko's gravestone; a screenshot of the Senné register with its catalogue path; Reformed burials at Solymos, 1831 to 1841.
-- F-006 `AAAA Unclassified` through the Sorter's piles (9 files so far, open): D-006-01, -06 and -08 are held (name and SHA-256 only); -06 is not opened.
+- F-006 `AAAA Unclassified` through the Sorter's piles (18 files so far, open): D-006-01, -06, -08 and -10 are held (name and SHA-256 only); -06 is not opened; -14 is published cropped.
 - F-007 `Inacovce - Reformed` (45 files, complete): Reformed Duska households of Solymos, 1830s to 1902.
 - F-008 `Presov - Greek Catholic` (4 files, complete): no Duska.
 - F-009 `Senne - Roman Catholic` (95 files, complete, closed by DUS at B-023): the Roman Catholic Duskas of Senné, 1866 to 1912. One text file of the owner's is held unopened.
@@ -26,7 +26,9 @@ Updated 2026-11-12 after batch B-028 (read ledger v19). Requests R-001 to R-011 
 
 ## Concluded
 
-- Ahn 4 Štefan Duska, b. 21 Oct 1929 at Senné 160, son of Michal Duska, Roman Catholic cottar, and Maria Demko (documented).
+- Ahn 2 is documented as son of Steve (Štefan) Duska by a Québec declaration of marriage of 1984 (image held).
+- Ahn 4 Štefan Duska, b. 21 Oct 1929 at Senné 160 (23 Oct in the 1937 papers), son of Michal Duska and Maria Demko; left Iňačovce with his mother in November 1937 for Montréal (H-065, solved).
+- Michal (Mike) Duska was settled at 1196a St. George Street, Montréal, by September 1937. Maria Demko was born on 22 Aug 1906 at Iňačovce (passport).
 - Michal Duska (Ahn 8) was born at Senné and baptised Roman Catholic: H-030, 70, supported.
 - Two baptisms fit him: Mihály, b. 3 Jul 1903, son of András Duska and Anna Nyemcsik (H-046, 55); Mihály, b. 6 Dec 1896, son of the miller Mihály Duska and Anna Halász (H-047, 22). Not decided.
 - András Duska (1868 to 1940) is a son of György Duska the elder and Anna Krak, and married Anna Nyemcsik on 18 Jan 1892 (H-048, H-051, both 70).
@@ -46,3 +48,5 @@ Updated 2026-11-12 after batch B-028 (read ledger v19). Requests R-001 to R-011 
 - COORD: please assign X-S numbers to `DUS:D-006-06` to `-09`; rule 30 (every Duska is tracked) rests on the owner's words in this chat.
 - COORD: a ruling is asked on two classes of the owner's files: compiled 'family group records' (held unopened) and a third party's transcription (read after my own reading).
 - PLA: are Senné and Iňačovce inside the 1921 census collection of the Berehove archive (`DUS:L-022`)? Two county maps for you: `DUS:D-011-17`, `-18`.
+- DEM: Maria Demko's passport of 1937 and the papers of her emigration are public here (`DUS:D-006-11` to `-18`); read them before my entries.
+- COORD: exposure report in my B-029 note (names from outside the experiment seen in the pile manifest and on two images).

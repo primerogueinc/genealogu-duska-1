@@ -119,6 +119,136 @@
       "document": "D-006-09",
       "image_in_repo": true,
       "web_image": "FT_01965_Duska_text.png (the text layer set in type; the PDF pages draw blank)"
+    },
+    {
+      "name": "kevin_duska_and_NAME_WITHHELD_marriage_registry.jpg",
+      "sha256": "080584784d39caa7b1e8eef0c2f3aaee0f5bb85455ec3b67973a6333297259d1",
+      "bytes": 817903,
+      "pixels": [
+        1952,
+        2608
+      ],
+      "pile": "to-duska",
+      "private_commit": "2bea03e",
+      "sorter_batch": "S-B-013",
+      "document": "D-006-10",
+      "held": "it shows people of unknown living status with full dates of birth, an address and signatures, and people from lines outside this experiment",
+      "image_in_repo": false
+    },
+    {
+      "name": "maria-mike_citizenship_application.jpg",
+      "sha256": "46e7308776e0240e56d0423bcd3b959b9e3a8734e697d77d40cd2757dd8d6558",
+      "bytes": 198556,
+      "pixels": [
+        1536,
+        2048
+      ],
+      "pile": "to-duska",
+      "private_commit": "2bea03e",
+      "sorter_batch": "S-B-014",
+      "document": "D-006-11",
+      "image_in_repo": true
+    },
+    {
+      "name": "maria_boat_receipt.jpg",
+      "sha256": "2a17c3464049d7738f7521c7b064723167c027d77d3f9fad91209f29fdc1c685",
+      "bytes": 351180,
+      "pixels": [
+        1536,
+        2048
+      ],
+      "pile": "to-duska",
+      "private_commit": "2bea03e",
+      "sorter_batch": "S-B-014",
+      "document": "D-006-12",
+      "image_in_repo": true
+    },
+    {
+      "name": "maria-permission_letter_1.jpg",
+      "sha256": "8c071d8c03d7a5bc79671d7c52297a005745f93d56b3c5bfe08c04d62df74fcd",
+      "bytes": 304203,
+      "pixels": [
+        1536,
+        2048
+      ],
+      "pile": "to-duska",
+      "private_commit": "2bea03e",
+      "sorter_batch": "S-B-014",
+      "document": "D-006-13",
+      "image_in_repo": true
+    },
+    {
+      "name": "maria_boat_and_train_ticket.jpg",
+      "sha256": "0864769695b2b24bdb344d0ae00239906ee3bb1e006bf201ca5cb41b146ea6f3",
+      "bytes": 336227,
+      "pixels": [
+        2048,
+        1536
+      ],
+      "pile": "to-duska",
+      "private_commit": "2bea03e",
+      "sorter_batch": "S-B-014",
+      "document": "D-006-14",
+      "image_in_repo": false,
+      "public_copy": "maria_boat_and_train_ticket_cropped.jpg",
+      "public_copy_sha256": "9c0790d86dc8b54cab04c86a061548cb54d279b7c57d449a6cbf658eb370db2d",
+      "note": "The uncropped photograph is not kept here: its right edge shows an envelope with the name of a person outside this experiment. The public copy is cropped at 1728 of 2048 pixels."
+    },
+    {
+      "name": "mariapassport1.jpg",
+      "sha256": "18dc144b2edecd9750776809fdbf98497c295a39e1caeed6e19c509b0edaff3f",
+      "bytes": 543566,
+      "pixels": [
+        1536,
+        2048
+      ],
+      "pile": "to-duska",
+      "private_commit": "2bea03e",
+      "sorter_batch": "S-B-014",
+      "document": "D-006-15",
+      "image_in_repo": true
+    },
+    {
+      "name": "mariapassport2.jpg",
+      "sha256": "3b80bad83c1d2ce0da798b5fb984a9391652b7069102f37a2a37058a3a522381",
+      "bytes": 381605,
+      "pixels": [
+        1536,
+        2048
+      ],
+      "pile": "to-duska",
+      "private_commit": "2bea03e",
+      "sorter_batch": "S-B-014",
+      "document": "D-006-16",
+      "image_in_repo": true
+    },
+    {
+      "name": "mariapassport3.jpg",
+      "sha256": "a94e4f5db4af04795f3feb50f219a9043ab4c31550817705cbc401aa53211442",
+      "bytes": 379934,
+      "pixels": [
+        1536,
+        2048
+      ],
+      "pile": "to-duska",
+      "private_commit": "2bea03e",
+      "sorter_batch": "S-B-014",
+      "document": "D-006-17",
+      "image_in_repo": true
+    },
+    {
+      "name": "mariapassport4.jpg",
+      "sha256": "8531bb9be61505c8b162cda4012f1e0e5a071448365b6d4323ebb901d0dbb820",
+      "bytes": 397426,
+      "pixels": [
+        1536,
+        2048
+      ],
+      "pile": "to-duska",
+      "private_commit": "2bea03e",
+      "sorter_batch": "S-B-014",
+      "document": "D-006-18",
+      "image_in_repo": true
     }
   ]
 }
