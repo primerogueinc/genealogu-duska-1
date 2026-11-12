@@ -1,0 +1,39 @@
+{
+  "folder_id": "F-008",
+  "desktop_path": "Presov - Greek Catholic",
+  "note": "Whole folder, 4 files, as received through chat upload.",
+  "files": [
+    {
+      "file": "Baptism_of_Andras_Nyemcsik_1822.png",
+      "sha256": "f422d53402d02fd7f12b3eaddf4df406c90b5c8432a84b924ba82a93a35d6316",
+      "bytes": 415810,
+      "pixels": "1147x241",
+      "received": "2026-11-12",
+      "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_Andream_Nyemcsik_1822.png",
+      "sha256": "42f1fe506193b5b816feaf07da9211e145a9a7eaff6a5855e3ae1ec833903285",
+      "bytes": 526034,
+      "pixels": "868x378",
+      "received": "2026-11-12",
+      "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_Catharina_Kocsis_1804.png",
+      "sha256": "a62d7fc5eff86f542e063c477c4a29fcd47554edb65d9496daf8f7d39c558553",
+      "bytes": 472330,
+      "pixels": "1176x283",
+      "received": "2026-11-12",
+      "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_Stephanus_Demko_1809.png",
+      "sha256": "82019731df297de75d265cba876b51797a55773134755df03ad65096e707e4c7",
+      "bytes": 638835,
+      "pixels": "876x441",
+      "received": "2026-11-12",
+      "via": "chat upload"
+    }
+  ]
+}

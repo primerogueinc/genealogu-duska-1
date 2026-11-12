@@ -376,5 +376,23 @@
   "date": "2026-11-12",
   "decided": "The data is not frozen and the comparison phase is not started.",
   "why": "The owner said he has no more folders, not that the archive is complete. The Sorter has placed one of 33 files so far; folder F-006 stays open."
+ },
+ {
+  "id": "DEC-64",
+  "date": "2026-11-12",
+  "decided": "Corrected B-018: the owner had more folders. The requests stay raised; nothing else in that batch changes.",
+  "why": "Two more folders arrived within minutes of 'that's all I have', which referred to the folder then in hand."
+ },
+ {
+  "id": "DEC-65",
+  "date": "2026-11-12",
+  "decided": "The two 1822 Nyemcsik strips are two documents and one child.",
+  "why": "Identical in every particular (H-045)."
+ },
+ {
+  "id": "DEC-66",
+  "date": "2026-11-12",
+  "decided": "Accepted the Demko agent's caution on the Javor chart: the woman's death year is now 199[?].",
+  "why": "X-012. Its tiles were read more closely than the crops made here; the 1991 may belong to the next box."
  }
 ]

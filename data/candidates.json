@@ -3692,7 +3692,7 @@
   {
     "id": "K-305",
     "name": "Mary D[an]ko or D[em]ko",
-    "vitals": "1906 to 1991 by a compiled chart; box appears to give a birthplace in the U.S.A. and names Vysoká nad Uhom",
+    "vitals": "1906 to 199[?] by a compiled chart; box appears to give a birthplace in the U.S.A. and names Vysoká nad Uhom",
     "proof": "lead",
     "sources": [
       "S-085"
@@ -4520,6 +4520,93 @@
     "sources": [],
     "relation": "Parent in D-007-40.",
     "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-376",
+    "name": "Andreas Nyemcsik",
+    "vitals": "bapt. 30 July [1822]; Eperjes",
+    "proof": "documented",
+    "sources": [
+      "S-131",
+      "S-132"
+    ],
+    "relation": "Child in D-008-01.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-377",
+    "name": "Catharina Kocsis",
+    "vitals": "bapt. 7 November [1804]; Eperjes",
+    "proof": "documented",
+    "sources": [
+      "S-133"
+    ],
+    "relation": "Child in D-008-03.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-378",
+    "name": "Stephanus Andreas Demko",
+    "vitals": "bapt. 10 September [1809]; Eperjes",
+    "proof": "documented",
+    "sources": [
+      "S-134"
+    ],
+    "relation": "Child in D-008-04.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-379",
+    "name": "Andreas Nyemcsik (Nyemtsik)",
+    "vitals": "Greek Catholic, clerk (manualista) at Eperjes, [1822]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in folder F-008.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-380",
+    "name": "Anna Nyemcsova",
+    "vitals": "Greek Catholic; wife of Andreas Nyemcsik, [1822]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in folder F-008.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-381",
+    "name": "Joannes Kocsis",
+    "vitals": "father at Eperjes, [1804]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in folder F-008.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-382",
+    "name": "Eva Kocsis",
+    "vitals": "mother at Eperjes, [1804]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in folder F-008.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-383",
+    "name": "Rev. Stephanus Demko",
+    "vitals": "Greek Catholic parish priest of Körösfő, [1809]; father of Stephanus Andreas",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in folder F-008.",
+    "route": "demko",
     "route_note": ""
   }
 ]

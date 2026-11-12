@@ -995,5 +995,23 @@
    }
   ],
   "route": "demko"
+ },
+ {
+  "id": "H-045",
+  "statement": "The two 1822 strips for Andreas Nyemcsik are one baptism entered twice: once as a sentence and once in columns.",
+  "confidence": 70,
+  "basis": "Same day (30 July), child, father and his occupation, mother, both sponsors and the same chaplain. One book in running Latin, one ruled in columns. Either a draft and a fair copy, or the parish book and a second copy made for the bishop.",
+  "test": "The title pages of the two books.",
+  "status": "supported",
+  "raised": "B-019",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-019",
+    "effect": "raised at 70, supported",
+    "note": "Sent to the Places agent. The two are indexed as one child."
+   }
+  ]
  }
 ]

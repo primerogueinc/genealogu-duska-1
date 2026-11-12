@@ -346,7 +346,7 @@
   {
     "id": "S-000-7",
     "batch": "B-018",
-    "type": "Statement by the subject, relayed",
+    "type": "Statement by the subject",
     "title": "Kevin J.S. Duska Jr., Duska chat, 12 Nov 2026: no more folders",
     "extract": "After the Reformed folder: \"that's all I have\". He asked whether anything missing goes to requests.",
     "reliability": "Second-hand for this agent: taken from the coordinator's ledger. Scored as given."
@@ -1094,5 +1094,37 @@
     "title": "Baptism of Zsuzsanna Knyezso, Solymos 41, [1888]",
     "extract": "Child: Zsuzsanna, female, legitimate. Father: György Knyezso, farmer. Mother: Mária Dzurina. Residence: Solymos, house 41. Godparents: János Perecs; the wife of Mihály Kenderes, farmers. Officiant: István Szakal. The year is from the owner's file name.",
     "reliability": "Original record, image copy. Years in square brackets come from the owner's file name, which is a label and not evidence. Reading level: medium."
+  },
+  {
+    "id": "S-131",
+    "batch": "B-019",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Andreas Nyemcsik, Eperjes, [1822]: the entry in columns",
+    "extract": "Child: Andreas. Father: Andreas Nyemcsik, Greek Catholic, 'manualista' (a clerk or copyist), of Eperjes. Mother: Anna, Greek Catholic. Godparents: Stephanus Tomka, advocate; Maria Dalczer, of Eperjes. Officiant: Michael Viszloczky, chaplain. The heading 'Mense Augusto' follows, so this is the last entry of July.",
+    "reliability": "Original record, image copy. The year comes from the owner's file name, which is a label and not evidence. Reading level: high."
+  },
+  {
+    "id": "S-132",
+    "batch": "B-019",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Andreas Nyemcsik, Eperjes, [1822]: the same baptism written out in a sentence",
+    "extract": "On 30 July Michael Viszloczky baptised and confirmed Andreas, son of Andreas Nyemtsik, Greek Catholic, a clerk of this place, and of Anna Nyemcsova, Greek Catholic. Sponsors: Mr Stephanus Tomka, advocate of this place, and Maria Dalczer. The line above ends '...am Körösfőensem', part of the entry before. This is the same baptism as D-008-01 in another book or an earlier draft of the same book: the same day, child, parents, sponsors and chaplain.",
+    "reliability": "Original record, image copy. The year comes from the owner's file name, which is a label and not evidence. Reading level: high."
+  },
+  {
+    "id": "S-133",
+    "batch": "B-019",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Catharina Kocsis, Eperjes, [1804]",
+    "extract": "On 7 November Catharina was baptised and confirmed, of the parents Joannes and Eva Kocsis. Sponsors: Andreas Siegenthaler and Susanna Henzelmann, of Eperjes. No rite, occupation or home is given for the parents.",
+    "reliability": "Original record, image copy. The year comes from the owner's file name, which is a label and not evidence. Reading level: medium."
+  },
+  {
+    "id": "S-134",
+    "batch": "B-019",
+    "type": "Parish baptism register, single entry (image strip)",
+    "title": "Baptism of Stephanus Andreas Demko, son of the parish priest of Körösfő, Eperjes, [1809]",
+    "extract": "On 10 September Stephanus Andreas was baptised and confirmed, little son of the Very Reverend Mr Stephanus Demko, parish priest of Körösfő; the sponsors being the most illustrious Mr Michael [Bradács?], advocate, and the noble Susanna T[z]iesenthaller, wife of Mr Andreas Weber. J. [Gorbory?], chaplain. The mother is not named.",
+    "reliability": "Original record, image copy. The year comes from the owner's file name, which is a label and not evidence. Reading level: medium."
   }
 ]

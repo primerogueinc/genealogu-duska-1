@@ -3810,15 +3810,15 @@
         "no": "n/a",
         "date": "1906 to 1991",
         "from": "Compiled family-tree chart (derivative source, author unknown)",
-        "abstract": "A printed family-tree chart, in colour, titled 'Rodostrom rodiny Javorovej' (family tree of the Javor family), with the word 'náhľad' (preview) stamped across it several times. About 250 name boxes in eight or nine generations, a coat of arms, eleven photographs and two churches. At this size only the lowest three generations and the photograph captions can be read at all. No Duska is legible anywhere on it. One ancestor is legible in part: Mary D[an]ko or D[em]ko, born 1906, died 1991, whose box appears to give a birthplace in the U.S.A. and a line naming Vysoká nad Uhom. Her parents' boxes read Andrej D[..]ko and Mária M[...]ová, both with Vysoká nad Uhom. The younger generations are living people and are not abstracted here.",
+        "abstract": "A printed family-tree chart, in colour, titled 'Rodostrom rodiny Javorovej' (family tree of the Javor family), with the word 'náhľad' (preview) stamped across it several times. About 250 name boxes in eight or nine generations, a coat of arms, eleven photographs and two churches. At this size only the lowest three generations and the photograph captions can be read at all. No Duska is legible anywhere on it. One ancestor is legible in part: Mary D[an]ko or D[em]ko, born 1906, died 199[?], whose box appears to give a birthplace in the U.S.A. and a line naming Vysoká nad Uhom. Her parents' boxes read Andrej D[..]ko and Mária M[...]ová, both with Vysoká nad Uhom. The younger generations are living people and are not abstracted here.",
         "reading": "low"
       }
     ],
     "transcriptions": [
       {
         "label": "The one photograph caption that bears on either line, as far as it can be read. Square brackets mark doubtful letters.",
-        "original": "Mary D[an]ko [or D[em]ko] 1906 - 1991",
-        "english": "Mary Danko or Demko, 1906 to 1991. The surname has five letters, begins with D and ends in -ko; the two in the middle cannot be told apart at this size. The image is not published because the chart shows living people with their dates of birth. Its file name and SHA-256 are given so that the copy can be checked."
+        "original": "Mary D[an]ko [or D[em]ko] 1906 - 199[?]",
+        "english": "Mary Danko or Demko, 1906 to 199[?]. The Demko agent reads a 1991 on the chart as the death year of her son, and the last figure of hers as unclear. The surname has five letters, begins with D and ends in -ko; the two in the middle cannot be told apart at this size. The image is not published because the chart shows living people with their dates of birth. Its file name and SHA-256 are given so that the copy can be checked."
       }
     ]
   },
@@ -5631,6 +5631,158 @@
         "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
         "original": "5. | Szept 29 30 | Zsuzsanna | 1 1 | Knyezso György földmíves, Dzurina Mária | Solymos 41 | Perecs János, Kenderes Mihályné földmívesek | Szakal István",
         "english": "Child: Zsuzsanna, female, legitimate. Father: György Knyezso, farmer. Mother: Mária Dzurina. Residence: Solymos, house 41. Godparents: János Perecs; the wife of Mihály Kenderes, farmers. Officiant: István Szakal. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-008-01",
+    "folder": "F-008",
+    "batch": "B-019",
+    "source": "S-131",
+    "file": "Baptism_of_Andras_Nyemcsik_1822.png",
+    "sha256": "f422d53402d02fd7f12b3eaddf4df406c90b5c8432a84b924ba82a93a35d6316",
+    "wide": true,
+    "title": "Baptism of Andreas Nyemcsik, Eperjes, [1822]: the entry in columns",
+    "span": "30 July [1822]",
+    "language": "Latin",
+    "collector_label": "Baptism of Andras Nyemcsik 1822",
+    "family": "FG-46",
+    "route": "duska",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic baptism register of Eperjes (Prešov), by the owner's folder name and the entries' wording",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "16",
+        "date": "30 July [1822]",
+        "from": "Baptism register, Greek Catholic, Eperjes (Prešov)",
+        "abstract": "Child: Andreas. Father: Andreas Nyemcsik, Greek Catholic, 'manualista' (a clerk or copyist), of Eperjes. Mother: Anna, Greek Catholic. Godparents: Stephanus Tomka, advocate; Maria Dalczer, of Eperjes. Officiant: Michael Viszloczky, chaplain. The heading 'Mense Augusto' follows, so this is the last entry of July.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written. Square brackets mark doubtful or supplied readings.",
+        "original": "16. | 30. | Andreas. | Andreas Nyem-csik G.C. Manualista Eperjes. Anna G.C. | Stephanus Tomka Gremialis Advocatus. Maria Dalczer Eperj. | Michael Viszloczky Capellanus. || Mense Augusto.",
+        "english": "Child: Andreas. Father: Andreas Nyemcsik, Greek Catholic, 'manualista' (a clerk or copyist), of Eperjes. Mother: Anna, Greek Catholic. Godparents: Stephanus Tomka, advocate; Maria Dalczer, of Eperjes. Officiant: Michael Viszloczky, chaplain. The heading 'Mense Augusto' follows, so this is the last entry of July. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-008-02",
+    "folder": "F-008",
+    "batch": "B-019",
+    "source": "S-132",
+    "file": "Baptism_of_Andream_Nyemcsik_1822.png",
+    "sha256": "42f1fe506193b5b816feaf07da9211e145a9a7eaff6a5855e3ae1ec833903285",
+    "wide": true,
+    "title": "Baptism of Andreas Nyemcsik, Eperjes, [1822]: the same baptism written out in a sentence",
+    "span": "30 July [1822]",
+    "language": "Latin",
+    "collector_label": "Baptism of Andream Nyemcsik 1822",
+    "family": "FG-46",
+    "route": "duska",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic baptism register of Eperjes (Prešov), by the owner's folder name and the entries' wording",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "30 July [1822]",
+        "from": "Baptism register, Greek Catholic, Eperjes (Prešov)",
+        "abstract": "On 30 July Michael Viszloczky baptised and confirmed Andreas, son of Andreas Nyemtsik, Greek Catholic, a clerk of this place, and of Anna Nyemcsova, Greek Catholic. Sponsors: Mr Stephanus Tomka, advocate of this place, and Maria Dalczer. The line above ends '...am Körösfőensem', part of the entry before. This is the same baptism as D-008-01 in another book or an earlier draft of the same book: the same day, child, parents, sponsors and chaplain.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written. Square brackets mark doubtful or supplied readings.",
+        "original": "Die 30a Julii Mich. Viszloczky baptisavit, et Confirmavit Andream, Andreae Nyemtsik G.C. hujatis Manualistae, et Annae Nyemcsova G.C. filium. Levantes D. Stephanus Tomka hujas Advocatus, et Maria Dalczer.",
+        "english": "On 30 July Michael Viszloczky baptised and confirmed Andreas, son of Andreas Nyemtsik, Greek Catholic, a clerk of this place, and of Anna Nyemcsova, Greek Catholic. Sponsors: Mr Stephanus Tomka, advocate of this place, and Maria Dalczer. The line above ends '...am Körösfőensem', part of the entry before. This is the same baptism as D-008-01 in another book or an earlier draft of the same book: the same day, child, parents, sponsors and chaplain. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-008-03",
+    "folder": "F-008",
+    "batch": "B-019",
+    "source": "S-133",
+    "file": "Baptism_of_Catharina_Kocsis_1804.png",
+    "sha256": "a62d7fc5eff86f542e063c477c4a29fcd47554edb65d9496daf8f7d39c558553",
+    "wide": true,
+    "title": "Baptism of Catharina Kocsis, Eperjes, [1804]",
+    "span": "7 November [1804]",
+    "language": "Latin",
+    "collector_label": "Baptism of Catharina Kocsis 1804",
+    "family": null,
+    "route": "demko",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic baptism register of Eperjes (Prešov), by the owner's folder name and the entries' wording",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "7 November [1804]",
+        "from": "Baptism register, Greek Catholic, Eperjes (Prešov)",
+        "abstract": "On 7 November Catharina was baptised and confirmed, of the parents Joannes and Eva Kocsis. Sponsors: Andreas Siegenthaler and Susanna Henzelmann, of Eperjes. No rite, occupation or home is given for the parents.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written. Square brackets mark doubtful or supplied readings.",
+        "original": "Die 7a 9bris bapt. & confirmata est Catharina e Parentib[us] Joanne & Eva Kocsis. levantib[us] Andrea Siegenthaler, & Susana Henzelmann Eperj[essi]ensib[us].",
+        "english": "On 7 November Catharina was baptised and confirmed, of the parents Joannes and Eva Kocsis. Sponsors: Andreas Siegenthaler and Susanna Henzelmann, of Eperjes. No rite, occupation or home is given for the parents. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-008-04",
+    "folder": "F-008",
+    "batch": "B-019",
+    "source": "S-134",
+    "file": "Baptism_of_Stephanus_Demko_1809.png",
+    "sha256": "82019731df297de75d265cba876b51797a55773134755df03ad65096e707e4c7",
+    "wide": true,
+    "title": "Baptism of Stephanus Andreas Demko, son of the parish priest of Körösfő, Eperjes, [1809]",
+    "span": "10 September [1809]",
+    "language": "Latin",
+    "collector_label": "Baptism of Stephanus Demko 1809",
+    "family": null,
+    "route": "demko",
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Greek Catholic baptism register of Eperjes (Prešov), by the owner's folder name and the entries' wording",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded."
+    },
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "10 September [1809]",
+        "from": "Baptism register, Greek Catholic, Eperjes (Prešov)",
+        "abstract": "On 10 September Stephanus Andreas was baptised and confirmed, little son of the Very Reverend Mr Stephanus Demko, parish priest of Körösfő; the sponsors being the most illustrious Mr Michael [Bradács?], advocate, and the noble Susanna T[z]iesenthaller, wife of Mr Andreas Weber. J. [Gorbory?], chaplain. The mother is not named.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written. Square brackets mark doubtful or supplied readings.",
+        "original": "Die 10a 7bris Baptisatus, et Confirmatus est Stephanus Andreas filiolus A[dmodum] R[everen]di D[omi]ni Stephani Demko Parochi Körösfőensis, et levantibus Per-illustri D. Michaele [Bradács?] Advocato, tum Nobili Susanna T[z]iesenthaller D[omi]ni Andreae Weber Consorte. J. [Gorbory?] Capel.",
+        "english": "On 10 September Stephanus Andreas was baptised and confirmed, little son of the Very Reverend Mr Stephanus Demko, parish priest of Körösfő; the sponsors being the most illustrious Mr Michael [Bradács?], advocate, and the noble Susanna T[z]iesenthaller, wife of Mr Andreas Weber. J. [Gorbory?], chaplain. The mother is not named. The year is from the owner's file name."
       }
     ]
   }

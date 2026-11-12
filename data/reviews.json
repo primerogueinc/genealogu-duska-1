@@ -108,5 +108,16 @@
   "holds": "No commit since the last pass (XR-09).",
   "found_for_duska_line": "Nothing new.",
   "sent_to_demko": "Thirteen strips of folder F-007 routed to it: eleven of the twelve Knyezso strips the owner labels 'Nyemcsik' (the twelfth also carries the Bradenville row and stays here), the strip labelled 'Anna Kocsis 1887' (a Jossio child; no Kocsis on it) and the one labelled 'Borbála Kocsis 1825' (a Kocsis mother, doubtful). Hypothesis H-044."
+ },
+ {
+  "id": "XR-11",
+  "batch": "B-019",
+  "date": "2026-11-12",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "05cc58c",
+  "read": "batch DM-B-011 and its note to this agent (DM→DU-009)",
+  "holds": "Its own reading of the Javor chart (DM-D-069, held), made before it opened the reading here. It reads the woman's birthplace as Passaic [?], New Jersey; cannot fix the last figure of her death year and warns that the clear 1991 on the chart belongs to her son; and reads one more generation, a Ján D[..]ko and Anna S[...] of Vysoká nad Uhom, whom it compares with János Demkó and Anna Szlekár of the Viszoka strips.",
+  "found_for_duska_line": "Nothing.",
+  "sent_to_demko": "Two strips of folder F-008: the Kocsis baptism of [1804] and the baptism of the son of the Rev. Stephanus Demko, [1809]. Its correction on the chart is accepted: the death year is entered as 199[?]."
  }
 ]

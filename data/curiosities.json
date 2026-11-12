@@ -202,5 +202,27 @@
     "doc": "D-007-19",
     "title": "The wrong wife",
     "text": "In 1882 the clerk entered another woman's name as the mother of Mihály Duska's son, crossed the whole of it out and wrote Ilona."
+  },
+  {
+    "id": "C-035",
+    "doc": "D-008-04",
+    "source": "S-134",
+    "title": "The priest's little son",
+    "text": "The father in this 1809 baptism is 'the Very Reverend Mr Stephanus Demko, parish priest of Körösfő'. Greek Catholic parish clergy married, so a priest's child in the baptism book is ordinary. What is odd is that the entry gives the father his full style, the godfather his ('most illustrious'), the godmother hers and her husband's name, and the mother nothing at all.",
+    "original": "filiolus A. Rdi Dni Stephani Demko Parochi Körösfőensis",
+    "translation": "little son of the Very Reverend Mr Stephanus Demko, parish priest of Körösfő",
+    "why": "A married priest named Demko, and a mother left out of her own child's baptism entry.",
+    "tone": "odd"
+  },
+  {
+    "id": "C-036",
+    "doc": "D-008-02",
+    "source": "S-132",
+    "title": "Baptised and confirmed in one go",
+    "text": "Each of these Prešov entries says the infant was 'baptised and confirmed'. In the Greek rite the priest anoints the child at baptism, so a baby a day old is confirmed, where a Roman Catholic neighbour waited years for a bishop.",
+    "original": "baptisavit, et Confirmavit Andream",
+    "translation": "baptised and confirmed Andreas",
+    "why": "It is the one phrase that shows at a glance which church a Latin entry comes from.",
+    "tone": "history"
   }
 ]

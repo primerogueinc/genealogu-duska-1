@@ -105,5 +105,18 @@
       "B-017"
     ],
     "archive_path": "records/F-007_Duska-Baptisms_Inacovce-Reformed/"
+  },
+  {
+    "id": "F-008",
+    "desktop_path": "Presov - Greek Catholic",
+    "described_as": "Given as 'Presov - Greek Catholic FULL', 4 files. Baptisms from the Greek Catholic parish of Eperjes (Prešov), 1804 to 1822, in Latin. No Duska.",
+    "status": "complete",
+    "first_seen": "2026-11-12",
+    "completed": "2026-11-12",
+    "files_received": 4,
+    "batches": [
+      "B-019"
+    ],
+    "archive_path": "records/F-008_Presov-Greek-Catholic/"
   }
 ]
