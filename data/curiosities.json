@@ -884,5 +884,49 @@
   "translation": "the priest was not called on",
   "why": "An unusual wording in a column that almost always holds one of two set words.",
   "tone": "odd"
+ },
+ {
+  "id": "C-097",
+  "doc": "D-013-18",
+  "source": "S-308",
+  "title": "Of minutes",
+  "text": "Where the age should stand, the priest of Csicser put a dot. In the next column he wrote one word, 'perces': of minutes. The boy has no name in the register. He was buried the next day.",
+  "original": "atyja: Demkó János gazda | fi | . | perces.",
+  "translation": "father: János Demkó, farmer | boy | . | of minutes",
+  "why": "The shortest life in the archive, entered in one word.",
+  "tone": "sad"
+ },
+ {
+  "id": "C-098",
+  "doc": "D-013-22",
+  "source": "S-312",
+  "title": "Cholera in the next row",
+  "text": "The owner filed it under 1783, a century early. The page gives itself away: a boy of seventeen dead of cholera on 7 August and buried the next day, and in the row below a boy of fourteen in the next village, cholera, buried the day he died. In the strip for the previous December a lodger of thirty is down as cholera too. The epidemic of 1872 and 1873 is known from the histories (recalled, not sourced); here it is two rows deep.",
+  "original": "cholera | Csepely aug. 8. … cholera | Bés aug. 11",
+  "translation": "cholera | Csepely, 8 August … cholera | Bés, 11 August",
+  "why": "An epidemic dates a mislabelled strip.",
+  "tone": "history"
+ },
+ {
+  "id": "C-099",
+  "doc": "D-013-23",
+  "source": "S-313",
+  "title": "The dry disease, in two alphabets",
+  "text": "In [1842] a Hungarian-writing priest put Anna Demko's death down to 'száraz kórság'. In 1857 his successor, writing in the Church Slavonic script, put Mária Demko's down to 'суха хорота'. Both mean the dry disease, which is consumption. The register changed its language and its alphabet in fifteen years and kept the diagnosis.",
+  "original": "Száraz kórság | суха хорота",
+  "translation": "the dry disease | the dry disease",
+  "why": "One parish book, two scripts, one folk name for tuberculosis.",
+  "tone": "history"
+ },
+ {
+  "id": "C-100",
+  "doc": "D-013-25",
+  "source": "S-315",
+  "title": "Twins, three days apart",
+  "text": "Mihály and János Demkó were baptised together on 29 May 1873 and the baptism register marks both names with a cross. The burial register now says when: Mihály on 11 June at twelve days, János on 14 June at fifteen. Both causes read 'weakness'. Their parents used both names again.",
+  "original": "Mihály … 12 napos gyengeség … János … 15 nap. gyengeség",
+  "translation": "Mihály … 12 days, weakness … János … 15 days, weakness",
+  "why": "The crosses in the baptism register get their dates.",
+  "tone": "sad"
  }
 ]

@@ -790,5 +790,23 @@
   "date": "2026-11-12",
   "decided": "The György Demko baptised in 1895 (K-004) is marked as a reused name on the burial of his brother in [1892].",
   "why": "X-017: two children with one name and one set of parents are two people, and here the first one's burial is in hand."
+ },
+ {
+  "id": "DEC-133",
+  "date": "2026-11-12",
+  "decided": "The eighteen Čičarovce burial strips are all routed to the Demko agent. This agent still rules on its own hypotheses that they touch: H-031 lowered to 12, H-076 to H-078 raised.",
+  "why": "Rules 5 and 14."
+ },
+ {
+  "id": "DEC-134",
+  "date": "2026-11-12",
+  "decided": "Four of the owner's file-name dates or names are not followed: '1905' (the form is of the 1830s), '1783' (the form and the cholera are of 1873), 'Maria 1883' (the entry reads Zsuzsánna), and '1878' against his own '1879' for the same child. '1888' is doubted, not rejected.",
+  "why": "X-004 and X-031: what the object is and says comes before its label."
+ },
+ {
+  "id": "DEC-135",
+  "date": "2026-11-12",
+  "decided": "R-020 asks the owner for page headers, which will not arrive with the folders of deaths and marriages.",
+  "why": "The ledger's request rule: ask only for what will not come in the ordinary run."
  }
 ]

@@ -15958,5 +15958,887 @@
     "D-003-01 and D-003-02, two baptisms the owner files under the same parish"
    ]
   }
+ },
+ {
+  "id": "D-013-10",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-300",
+  "file": "Death_of_Anna_Demko_1837.png",
+  "sha256": "a05159fba7f996da7cb1991469458f1c8e9efaf32e430029e8e30b1deab7c160",
+  "wide": true,
+  "title": "Burial of Anna Demko, widow, Pálóc, February [1837]",
+  "span": "9 February [1837]",
+  "language": "Hungarian",
+  "collector_label": "Death of Anna Demko 1837",
+  "family": null,
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "9 February [1837]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna Demko, a widow, aged 35, Greek Catholic, of Pálóc; died on the 9th of 'Böjt elő hava' (February); cause read doubtfully as wasting.",
+    "reading": "medium; low for the cause"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "Böjt Elő Hava 9én | Demko Anna | özvegy | 35. | GK | özvegy [...] | Pálócz | A[sz]ály [?]",
+    "english": "Anna Demko, a widow, aged 35, Greek Catholic, of Pálóc; died on the 9th of 'Böjt elő hava' (February); cause read doubtfully as wasting."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register in Hungarian on a hand-ruled single page, as used in this book in the 1830s and 1840s. The church is from the owner's folder name.",
+   "form": "Eight hand-ruled columns: day (with old Hungarian month names such as 'Böjt elő hava'), name, relation, age, rite ('GK'), state, place, cause.",
+   "does_not_fit": "Nothing names the church or the year. D-013-15 is filed by the owner as 1905 but is on this early layout (H-078).",
+   "made_by": "The parish clergy.",
+   "kept": "unknown",
+   "compared": [
+    "The dated two-page strips of 1857 to 1883 in the same sub-folder, which use a different, printed form"
+   ]
+  }
+ },
+ {
+  "id": "D-013-11",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-301",
+  "file": "Death_of_Anna_Demko_1873.png",
+  "sha256": "21c0a559aadaa6dd0a92c9450f733e485713bf5f6bcc3b2abb34acd0924bb4f0",
+  "wide": true,
+  "title": "Burial of Anna, daughter of János Demkó, Viszoka, August [1873]",
+  "span": "26 August [1873]",
+  "language": "Hungarian",
+  "collector_label": "Death of Anna Demko 1873",
+  "family": "FG-02",
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "86",
+    "date": "26 August [1873]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna, daughter of János Demkó, farmer, of Viszoka; aged 1; died on 26 August of weakness; buried at Viszoka on 27 August. A second death, of an András Juhász [?] of Csicser, is squeezed in under the same number. The Anna baptised to János Demkó in October [1874] (D-004) would be a second daughter of that name.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "86 | Aug. 26. | Anna | atyja: Demkó János gazda | Viszoka | \" | [nő] | 1. | gyengeség | - | Viszoka Aug 27 | d° [a second line under the same number: Aug. 27. | András | atyja: Juhász [?] zsellér | Csicser | fi | 15 | - | - | Csicser aug 28]",
+    "english": "Anna, daughter of János Demkó, farmer, of Viszoka; aged 1; died on 26 August of weakness; buried at Viszoka on 27 August. A second death, of an András Juhász [?] of Csicser, is squeezed in under the same number. The Anna baptised to János Demkó in October [1874] (D-004) would be a second daughter of that name."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, as used in this book from the 1870s. The church is from the owner's folder name.",
+   "form": "Columns across an opening: number, date, name, father or spouse with occupation, place with house number, sex, age, cause, sacraments, burial place and date, officiant (ditto marks), remarks. The right-hand page sits about one row lower than the left in these pictures.",
+   "does_not_fit": "The year is on the strip only where a burial date happens to carry it (D-013-25 shows '873' on the row above; D-013-24 has 1883).",
+   "made_by": "The parish clergy of Csicser.",
+   "kept": "unknown",
+   "compared": [
+    "D-004-18 and D-004-16, baptisms of 1873 and 1882 naming the Greek Catholic pastors of Csicser"
+   ]
+  }
+ },
+ {
+  "id": "D-013-12",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-302",
+  "file": "Death_of_Anna_Pesotar_Demko_1842.png",
+  "sha256": "e8100a3048e43f1ebc79017fbceca230592fe94ce60126c704414289ce2a7f35",
+  "wide": true,
+  "title": "Burial of Anna [Pesotár], wife of György Demko, Viszoka, [1842]",
+  "span": "7 [September?] [1842]",
+  "language": "Hungarian",
+  "collector_label": "Death of Anna Pesotar Demko 1842",
+  "family": null,
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "7 [September?] [1842]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna, surname read with the owner as Pesotár but doubtful, wife of György Demko; aged 37, Greek Catholic, of Viszoka; died on the 7th of 'the dry disease' (consumption).",
+    "reading": "medium; low for her surname and the month"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "[Sept?] 7. | [Pesotár] Anna | Férje Demko György | 37. | GK | d° | Viszoka | Száraz kórság",
+    "english": "Anna, surname read with the owner as Pesotár but doubtful, wife of György Demko; aged 37, Greek Catholic, of Viszoka; died on the 7th of 'the dry disease' (consumption)."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register in Hungarian on a hand-ruled single page, as used in this book in the 1830s and 1840s. The church is from the owner's folder name.",
+   "form": "Eight hand-ruled columns: day (with old Hungarian month names such as 'Böjt elő hava'), name, relation, age, rite ('GK'), state, place, cause.",
+   "does_not_fit": "Nothing names the church or the year. D-013-15 is filed by the owner as 1905 but is on this early layout (H-078).",
+   "made_by": "The parish clergy.",
+   "kept": "unknown",
+   "compared": [
+    "The dated two-page strips of 1857 to 1883 in the same sub-folder, which use a different, printed form"
+   ]
+  }
+ },
+ {
+  "id": "D-013-13",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-303",
+  "file": "Death_of_Barbara_Demko_1831.png",
+  "sha256": "ac4bcb3389612c209b7e2bffec76790d66e673918245148051496a701e599df0",
+  "wide": true,
+  "title": "Burial of Barbara, wife of Georgius Demko, Viszoka, [1831]",
+  "span": "22nd of a month in [1831]",
+  "language": "Latin",
+  "collector_label": "Death of Barbara Demko 1831",
+  "family": null,
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "22nd of a month in [1831]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Barbara, whose husband is Georgius Demko; aged 25; of Viszoka; died on the 22nd of phthisis (consumption). A Georgius was baptised to Georg. Demko and Barbara in [1831] (D-004): she died in the year of his birth, if the file names are right.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "22ª | Barbara | Georgius Demko maritus | 25. | d° | d° | Viszoka. | Phtysis.",
+    "english": "Barbara, whose husband is Georgius Demko; aged 25; of Viszoka; died on the 22nd of phthisis (consumption). A Georgius was baptised to Georg. Demko and Barbara in [1831] (D-004): she died in the year of his birth, if the file names are right."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register, Latin, one ruled line to an entry. The church is from the owner's folder name.",
+   "form": "Hand-ruled columns: day, name, relation, age, two columns of ditto marks, place, cause.",
+   "does_not_fit": "Nothing names the church or the year.",
+   "made_by": "The parish clergy.",
+   "kept": "unknown",
+   "compared": [
+    "D-004-04 and its neighbours, baptisms of the same years filed under the same parish"
+   ]
+  }
+ },
+ {
+  "id": "D-013-14",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-304",
+  "file": "Death_of_Erzebet_Demko_1875.png",
+  "sha256": "70593ad3f8f28a9fca67532986868c1c38abd15067d5fabd4affc68c3a46a03f",
+  "wide": true,
+  "title": "Burial of Erzsébet Demkó, widow of György H[ajtó], Pálóc, November [1875]",
+  "span": "8 November [1875]",
+  "language": "Hungarian",
+  "collector_label": "Death of Erzebet Demko 1875",
+  "family": null,
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "23",
+    "date": "8 November [1875]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Erzsébet Demkó, widow of György H[ajtó], cottar, of Pálóc; aged 54; died on 8 November of pneumonia, having received the sacraments; buried at Pálóc on 10 November.",
+    "reading": "medium; low for the husband's surname"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "23. | Nov. 8. | Demkó Erzsébet | H[ajtó] György özvegye. zsellér | Pálóc | \" | nő | 54 | tüdőgyuladás | volt. | Pálóc nov. 10. | d°",
+    "english": "Erzsébet Demkó, widow of György H[ajtó], cottar, of Pálóc; aged 54; died on 8 November of pneumonia, having received the sacraments; buried at Pálóc on 10 November."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, as used in this book from the 1870s. The church is from the owner's folder name.",
+   "form": "Columns across an opening: number, date, name, father or spouse with occupation, place with house number, sex, age, cause, sacraments, burial place and date, officiant (ditto marks), remarks. The right-hand page sits about one row lower than the left in these pictures.",
+   "does_not_fit": "The year is on the strip only where a burial date happens to carry it (D-013-25 shows '873' on the row above; D-013-24 has 1883).",
+   "made_by": "The parish clergy of Csicser.",
+   "kept": "unknown",
+   "compared": [
+    "D-004-18 and D-004-16, baptisms of 1873 and 1882 naming the Greek Catholic pastors of Csicser"
+   ]
+  }
+ },
+ {
+  "id": "D-013-15",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-305",
+  "file": "Death_of_Gyorgy_Demko_1905.png",
+  "sha256": "20ba74b849e18ccfbf8e1bf49bed4af1d195b8b7c8d4912da6b99e5786a09f73",
+  "wide": true,
+  "title": "Burial of György, aged 5, son of György Demkó, Viszoka; filed as 1905 but on the page layout of the 1830s",
+  "span": "15th of a month; year not on the strip (the owner: 1905)",
+  "language": "Hungarian",
+  "collector_label": "Death of Gyorgy Demko 1905",
+  "family": null,
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15th of a month; year not on the strip (the owner: 1905)",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "György, whose father is György Demkó; aged 5 years; Greek Catholic; the father's state read doubtfully as cottar; of Viszoka; died on the 15th. The cause is cut off. The strip is on the hand-ruled page with the columns of the 1830s and 1840s, like the strips of [1836] to [1842] in this sub-folder, and not on the two-page form used from the 1850s, so the owner's year of 1905 does not fit the object.",
+    "reading": "medium; low for the father's state"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "15. | György | Attya Demkó György | 5. E. | GK | [struck out] | [Zs]ellérség [?] | Viszoka [the cause column is cut off]",
+    "english": "György, whose father is György Demkó; aged 5 years; Greek Catholic; the father's state read doubtfully as cottar; of Viszoka; died on the 15th. The cause is cut off. The strip is on the hand-ruled page with the columns of the 1830s and 1840s, like the strips of [1836] to [1842] in this sub-folder, and not on the two-page form used from the 1850s, so the owner's year of 1905 does not fit the object."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register in Hungarian on a hand-ruled single page, as used in this book in the 1830s and 1840s. The church is from the owner's folder name.",
+   "form": "Eight hand-ruled columns: day (with old Hungarian month names such as 'Böjt elő hava'), name, relation, age, rite ('GK'), state, place, cause.",
+   "does_not_fit": "Nothing names the church or the year. D-013-15 is filed by the owner as 1905 but is on this early layout (H-078).",
+   "made_by": "The parish clergy.",
+   "kept": "unknown",
+   "compared": [
+    "The dated two-page strips of 1857 to 1883 in the same sub-folder, which use a different, printed form"
+   ]
+  }
+ },
+ {
+  "id": "D-013-16",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-306",
+  "file": "Death_of_Gyorgy_Kocsis_1841.png",
+  "sha256": "8516aa1d3a96e3bc1584727ddad090425f2fd8b37dee7d4ad91079b396d3d3cd",
+  "wide": true,
+  "title": "Burial of György Kocsis, aged 5, Mogyorós, [1841]",
+  "span": "15th of a month in [1841]",
+  "language": "Hungarian",
+  "collector_label": "Death of Gyorgy Kocsis 1841",
+  "family": null,
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15th of a month in [1841]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "György Kocsis, whose father is János Kocsis; aged 5 years; Greek Catholic; of Mogyorós; died on the 15th of fever (hideglelés).",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "15. | Kocsis György | Attya Kocsis János | 5. E. | GK | d° | Mogyorós | Hideglelés",
+    "english": "György Kocsis, whose father is János Kocsis; aged 5 years; Greek Catholic; of Mogyorós; died on the 15th of fever (hideglelés)."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register in Hungarian on a hand-ruled single page, as used in this book in the 1830s and 1840s. The church is from the owner's folder name.",
+   "form": "Eight hand-ruled columns: day (with old Hungarian month names such as 'Böjt elő hava'), name, relation, age, rite ('GK'), state, place, cause.",
+   "does_not_fit": "Nothing names the church or the year. D-013-15 is filed by the owner as 1905 but is on this early layout (H-078).",
+   "made_by": "The parish clergy.",
+   "kept": "unknown",
+   "compared": [
+    "The dated two-page strips of 1857 to 1883 in the same sub-folder, which use a different, printed form"
+   ]
+  }
+ },
+ {
+  "id": "D-013-17",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-307",
+  "file": "Death_of_Iliona_Demko_1836.png",
+  "sha256": "95a41debeea99e11c903e16945eba13a6ee169c35aa79f7f7e2d4011722927d0",
+  "wide": true,
+  "title": "Burial of Ilona, wife of György Demkó, Viszoka, [1836]",
+  "span": "14 [December?] [1836]",
+  "language": "Hungarian",
+  "collector_label": "Death of Iliona Demko 1836",
+  "family": null,
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "14 [December?] [1836]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Ilona, entered as 'Demkó Ilona' and as 'wife of György Demkó'; aged 33; Greek Catholic; a serf's wife; of Viszoka; died on the 14th; cause read doubtfully as worms. A short line written above the husband's name is not read.",
+    "reading": "medium; low for the month, the age and the cause"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "[...] 14én | Demkó Ilona | [a line written above, not read] Demkó György né | 33 | GK | Jobágy Feles. | Viszoka | Gilisz[t]a [?]",
+    "english": "Ilona, entered as 'Demkó Ilona' and as 'wife of György Demkó'; aged 33; Greek Catholic; a serf's wife; of Viszoka; died on the 14th; cause read doubtfully as worms. A short line written above the husband's name is not read."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register in Hungarian on a hand-ruled single page, as used in this book in the 1830s and 1840s. The church is from the owner's folder name.",
+   "form": "Eight hand-ruled columns: day (with old Hungarian month names such as 'Böjt elő hava'), name, relation, age, rite ('GK'), state, place, cause.",
+   "does_not_fit": "Nothing names the church or the year. D-013-15 is filed by the owner as 1905 but is on this early layout (H-078).",
+   "made_by": "The parish clergy.",
+   "kept": "unknown",
+   "compared": [
+    "The dated two-page strips of 1857 to 1883 in the same sub-folder, which use a different, printed form"
+   ]
+  }
+ },
+ {
+  "id": "D-013-18",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-308",
+  "file": "Death_of_Infant_Demko_1873.png",
+  "sha256": "fb6126367cd8a8029e08d8b4b6e417a955a31914312b064200987bdde8c0c896",
+  "wide": true,
+  "title": "Burial of an unnamed son of János Demkó, Viszoka, March [1873]",
+  "span": "22 March [1873]",
+  "language": "Hungarian",
+  "collector_label": "Death of Infant Demko 1873",
+  "family": "FG-02",
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "18",
+    "date": "22 March [1873]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "A boy with no name entered, whose father is János Demkó, farmer; no age given; in the next column the word 'perces', of minutes: he lived only minutes; died on 22 March; buried at Viszoka on 23 March.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "18. | Mart. 22. | [no name] | atyja: Demkó János gazda | \" | fi | . | perces. | - | Viszoka Mart 23. | d°",
+    "english": "A boy with no name entered, whose father is János Demkó, farmer; no age given; in the next column the word 'perces', of minutes: he lived only minutes; died on 22 March; buried at Viszoka on 23 March."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, as used in this book from the 1870s. The church is from the owner's folder name.",
+   "form": "Columns across an opening: number, date, name, father or spouse with occupation, place with house number, sex, age, cause, sacraments, burial place and date, officiant (ditto marks), remarks. The right-hand page sits about one row lower than the left in these pictures.",
+   "does_not_fit": "The year is on the strip only where a burial date happens to carry it (D-013-25 shows '873' on the row above; D-013-24 has 1883).",
+   "made_by": "The parish clergy of Csicser.",
+   "kept": "unknown",
+   "compared": [
+    "D-004-18 and D-004-16, baptisms of 1873 and 1882 naming the Greek Catholic pastors of Csicser"
+   ]
+  }
+ },
+ {
+  "id": "D-013-19",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-309",
+  "file": "Death_of_Janos_Demko_1872.png",
+  "sha256": "432eccb3313c3196895f94cd594f66671f2ebb9d70cf9574e06a031708d1811e",
+  "wide": true,
+  "title": "Burial of János, aged 2, son of György Demkó, Viszoka, December [1872]",
+  "span": "14 December [1872]",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Demko 1872",
+  "family": "FG-01",
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "49",
+    "date": "14 December [1872]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "János, whose father is György Demkó, farmer; a boy of 2; died on 14 December of a cough; buried at Viszoka on 15 December. The next entry is a man of 30 dead of cholera. This János is older than the twin János born in May 1873 and the János born in 1875 (FG-01): the name was given three times.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "49. | dec. 14. | János | atyja: Demkó György gazda | \" | fi | \" | 2. | [k]öhögés | - | Viszoka dec. 15. | d° [row 50: dec. 16. Podolinszki András, neje Vaskó Anna, lakó, 30, cholera, volt, Pálóc dec. 17.]",
+    "english": "János, whose father is György Demkó, farmer; a boy of 2; died on 14 December of a cough; buried at Viszoka on 15 December. The next entry is a man of 30 dead of cholera. This János is older than the twin János born in May 1873 and the János born in 1875 (FG-01): the name was given three times."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, as used in this book from the 1870s. The church is from the owner's folder name.",
+   "form": "Columns across an opening: number, date, name, father or spouse with occupation, place with house number, sex, age, cause, sacraments, burial place and date, officiant (ditto marks), remarks. The right-hand page sits about one row lower than the left in these pictures.",
+   "does_not_fit": "The year is on the strip only where a burial date happens to carry it (D-013-25 shows '873' on the row above; D-013-24 has 1883).",
+   "made_by": "The parish clergy of Csicser.",
+   "kept": "unknown",
+   "compared": [
+    "D-004-18 and D-004-16, baptisms of 1873 and 1882 naming the Greek Catholic pastors of Csicser"
+   ]
+  }
+ },
+ {
+  "id": "D-013-20",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-310",
+  "file": "Death_of_Janos_Demko_1873.png",
+  "sha256": "d5feafcde9e804ddfa008affb6b211bcbaecf07772af9f992a001f1ef2e52a31",
+  "wide": true,
+  "title": "Burial of János, 15 days old, twin son of György Demkó, Viszoka, June [1873]",
+  "span": "14 June [1873]",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Demko 1873",
+  "family": "FG-01",
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "31",
+    "date": "14 June [1873]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "János, whose father is György Demkó, farmer; a boy of 15 days; died on 14 June of weakness; buried at Viszoka on 15 June. He is the twin baptised on 29 May [1873] (D-004-18), whose name carries a cross there.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "31. | Junius 14 | János | atyja: Demkó György gazda | \" | fi | \" | 15 nap. | gyengeség | - | Viszoka Jun. 15. | d°",
+    "english": "János, whose father is György Demkó, farmer; a boy of 15 days; died on 14 June of weakness; buried at Viszoka on 15 June. He is the twin baptised on 29 May [1873] (D-004-18), whose name carries a cross there."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, as used in this book from the 1870s. The church is from the owner's folder name.",
+   "form": "Columns across an opening: number, date, name, father or spouse with occupation, place with house number, sex, age, cause, sacraments, burial place and date, officiant (ditto marks), remarks. The right-hand page sits about one row lower than the left in these pictures.",
+   "does_not_fit": "The year is on the strip only where a burial date happens to carry it (D-013-25 shows '873' on the row above; D-013-24 has 1883).",
+   "made_by": "The parish clergy of Csicser.",
+   "kept": "unknown",
+   "compared": [
+    "D-004-18 and D-004-16, baptisms of 1873 and 1882 naming the Greek Catholic pastors of Csicser"
+   ]
+  }
+ },
+ {
+  "id": "D-013-21",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-311",
+  "file": "Death_of_Janos_Demko_1878.png",
+  "sha256": "c8ff3995c2914d904f0a734604deb74e8d6d81da070b719228ac0781db02a2bb",
+  "wide": true,
+  "title": "Burial of János, 2 weeks old, son of János Demkó, Viszoka 120, March [1878 or 1879]",
+  "span": "14 March [1878, by the file name; 1879 by the baptism strip]",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Demko 1878",
+  "family": "FG-02",
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "11",
+    "date": "14 March [1878, by the file name; 1879 by the baptism strip]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "János, whose father is János Demkó, farmer, of Viszoka 120; a boy of 2 weeks; died on 14 March of weakness; buried at Viszoka on 16 March. He is the János born on 2 March at Viszoka 120 whose baptism carries the note of this death (D-004). The owner files the baptism as 1879 and this burial as 1878; one of the two years is wrong.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "11. | marc. 14. | János | atyja: Demkó János gazda | Viszoka 120 | fi | \" | 2 hetes | gyengeség | - | Viszoka marc. 16. | d°",
+    "english": "János, whose father is János Demkó, farmer, of Viszoka 120; a boy of 2 weeks; died on 14 March of weakness; buried at Viszoka on 16 March. He is the János born on 2 March at Viszoka 120 whose baptism carries the note of this death (D-004). The owner files the baptism as 1879 and this burial as 1878; one of the two years is wrong."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, as used in this book from the 1870s. The church is from the owner's folder name.",
+   "form": "Columns across an opening: number, date, name, father or spouse with occupation, place with house number, sex, age, cause, sacraments, burial place and date, officiant (ditto marks), remarks. The right-hand page sits about one row lower than the left in these pictures.",
+   "does_not_fit": "The year is on the strip only where a burial date happens to carry it (D-013-25 shows '873' on the row above; D-013-24 has 1883).",
+   "made_by": "The parish clergy of Csicser.",
+   "kept": "unknown",
+   "compared": [
+    "D-004-18 and D-004-16, baptisms of 1873 and 1882 naming the Greek Catholic pastors of Csicser"
+   ]
+  }
+ },
+ {
+  "id": "D-013-22",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-312",
+  "file": "Death_of_Janos_Kocsis_1783.png",
+  "sha256": "1a0989632a2202dec80f5c4b6f7abd5ec8af62f5f3d8aeed7216e8bb0b783e1e",
+  "wide": true,
+  "title": "Burial of János Kocsis, aged 17, Csepely 21, in the cholera of August [1873]; filed as 1783",
+  "span": "7 August [1873, by the form and the cholera; the owner: 1783]",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Kocsis 1783",
+  "family": null,
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "73",
+    "date": "7 August [1873, by the form and the cholera; the owner: 1783]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "János, whose father is János Kocsis, cottar, of Csepely 21; a youth of 17; died on 7 August of cholera; buried at Csepely on 8 August; a remark read doubtfully as 'belongs to the pastorate of Mátyóc'. The next entry, a boy of 14 at Bés, is also cholera. The form is the two-page form of the 1870s, so the owner's '1783' is a slip, most likely for 1873.",
+    "reading": "medium; low for the remark"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "73. | Aug. 7. | János | atyja: Kocsi[s] János zsellér | Csepely 21. | fi | \" | 17 | cholera | - | Csepely aug. 8. | d° | mátyóci lelkész[ethez] tartozik [?] [row 74: Aug. 11. András, atyja Magyar András zsellér, Bés, fi, 14, cholera, Bés aug. 11.]",
+    "english": "János, whose father is János Kocsis, cottar, of Csepely 21; a youth of 17; died on 7 August of cholera; buried at Csepely on 8 August; a remark read doubtfully as 'belongs to the pastorate of Mátyóc'. The next entry, a boy of 14 at Bés, is also cholera. The form is the two-page form of the 1870s, so the owner's '1783' is a slip, most likely for 1873."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, as used in this book from the 1870s. The church is from the owner's folder name.",
+   "form": "Columns across an opening: number, date, name, father or spouse with occupation, place with house number, sex, age, cause, sacraments, burial place and date, officiant (ditto marks), remarks. The right-hand page sits about one row lower than the left in these pictures.",
+   "does_not_fit": "The year is on the strip only where a burial date happens to carry it (D-013-25 shows '873' on the row above; D-013-24 has 1883).",
+   "made_by": "The parish clergy of Csicser.",
+   "kept": "unknown",
+   "compared": [
+    "D-004-18 and D-004-16, baptisms of 1873 and 1882 naming the Greek Catholic pastors of Csicser"
+   ]
+  }
+ },
+ {
+  "id": "D-013-23",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-313",
+  "file": "Death_of_Maria_Demko_1857.png",
+  "sha256": "ff42adc7434014232da89c0df0a942cefac4391a1ef3091860cea2ad43a0c422",
+  "wide": true,
+  "title": "Burial of Mária Demko, wife of György Tirpák, Viszoka 34, 1 January 1857",
+  "span": "1 January 1857",
+  "language": "Church Slavonic script (Rusyn)",
+  "collector_label": "Death of Maria Demko 1857",
+  "family": "FG-06",
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "1",
+    "date": "1 January 1857",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Mária Demko, wife of György Tirpák, of Viszoka 34; a woman of 60; died on 1 January 1857 of 'the dry disease' (consumption); buried at Viszoka on 3 January 1857 by Josif Kubek, parish priest of Csicser. She is the mother of the Tirpák children baptised from [1832] to [1839] (FG-06), born about 1797.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "1. | 1857 Януар. 1го | Марія Демко | Георгій Тирпакъ – супруга | Висока 34 | жен | 60. | суха хорота | [...] | Висока 1857 Януар. 3 | Іосифъ Кубекъ Пар. Чичер.",
+    "english": "Mária Demko, wife of György Tirpák, of Viszoka 34; a woman of 60; died on 1 January 1857 of 'the dry disease' (consumption); buried at Viszoka on 3 January 1857 by Josif Kubek, parish priest of Csicser. She is the mother of the Tirpák children baptised from [1832] to [1839] (FG-06), born about 1797."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a printed two-page form filled in in Church Slavonic script. The entry names the burying priest as parish priest of Csicser.",
+   "form": "Printed columns across an opening: number, date with the year, name, relation, place and house number, sex, age, cause, sacraments, burial place and date, officiant.",
+   "does_not_fit": "Nothing. The officiant's title supports the owner's folder name.",
+   "made_by": "Josif Kubek, parish priest of Csicser, January 1857.",
+   "kept": "unknown",
+   "compared": [
+    "D-004-13, a baptism of January 1857 in the same script, filed under the same parish"
+   ]
+  }
+ },
+ {
+  "id": "D-013-24",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-314",
+  "file": "Death_of_Maria_Demko_1883.png",
+  "sha256": "265acdf648439a022f66e1f1031ab5a78ac9d78472a43e0dbcf5819848e8735b",
+  "wide": true,
+  "title": "Burial of Zsuzsánna, 2 months old, daughter of János Demkó, Viszoka 136, March 1883; filed as Maria",
+  "span": "about 1 March 1883",
+  "language": "Hungarian",
+  "collector_label": "Death of Maria Demko 1883",
+  "family": "FG-02",
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "19",
+    "date": "about 1 March 1883",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Zsuzsánna Demkó, daughter of János Demkó, of Viszoka 136; a girl of 2 months; died about 1 March 1883 of a cough, without the sacraments; buried at Viszoka on 2 March. The owner's file name says Maria; the entry says Zsuzsánna, and a Zsuzsánna was baptised to János Demkó on 6 January 1883 (D-004).",
+    "reading": "medium; low for the day of death"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "19. | 1883. Marc. [1?]-jén | Demkó Zsuzsánna | Demkó János leánya [fia struck out] | Viszoka 136. | \" | nő | 2 hónapos | Köhögés | nem | Viszoka Marc. 2-án",
+    "english": "Zsuzsánna Demkó, daughter of János Demkó, of Viszoka 136; a girl of 2 months; died about 1 March 1883 of a cough, without the sacraments; buried at Viszoka on 2 March. The owner's file name says Maria; the entry says Zsuzsánna, and a Zsuzsánna was baptised to János Demkó on 6 January 1883 (D-004)."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, as used in this book from the 1870s. The church is from the owner's folder name.",
+   "form": "Columns across an opening: number, date, name, father or spouse with occupation, place with house number, sex, age, cause, sacraments, burial place and date, officiant (ditto marks), remarks. The right-hand page sits about one row lower than the left in these pictures.",
+   "does_not_fit": "The year is on the strip only where a burial date happens to carry it (D-013-25 shows '873' on the row above; D-013-24 has 1883).",
+   "made_by": "The parish clergy of Csicser.",
+   "kept": "unknown",
+   "compared": [
+    "D-004-18 and D-004-16, baptisms of 1873 and 1882 naming the Greek Catholic pastors of Csicser"
+   ]
+  }
+ },
+ {
+  "id": "D-013-25",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-315",
+  "file": "Death_of_Mihaly_Demko_1873.png",
+  "sha256": "4fb8b0a57d3dc6557aaf1c1b750317fe0f01e5833c59487fdea89c4b01f3fe53",
+  "wide": true,
+  "title": "Burial of Mihály, 12 days old, twin son of György Demkó, Viszoka, June 1873",
+  "span": "11 June 1873",
+  "language": "Hungarian",
+  "collector_label": "Death of Mihaly Demko 1873",
+  "family": "FG-01",
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "30",
+    "date": "11 June 1873",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Mihály, whose father is György Demkó, farmer; a boy of 12 days; died on 11 June of weakness; buried at Viszoka on 13 June. The row above carries the year 1873. He is the twin baptised on 29 May 1873 (D-004-18).",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "30. | Junius 11 | Mihály | atyja: Demkó György gazda | \" | fi | \" | 12 napos | gyengeség | - | Viszoka Jun. 13. | d° [the row above is buried 'Majus 28. 873']",
+    "english": "Mihály, whose father is György Demkó, farmer; a boy of 12 days; died on 11 June of weakness; buried at Viszoka on 13 June. The row above carries the year 1873. He is the twin baptised on 29 May 1873 (D-004-18)."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, as used in this book from the 1870s. The church is from the owner's folder name.",
+   "form": "Columns across an opening: number, date, name, father or spouse with occupation, place with house number, sex, age, cause, sacraments, burial place and date, officiant (ditto marks), remarks. The right-hand page sits about one row lower than the left in these pictures.",
+   "does_not_fit": "The year is on the strip only where a burial date happens to carry it (D-013-25 shows '873' on the row above; D-013-24 has 1883).",
+   "made_by": "The parish clergy of Csicser.",
+   "kept": "unknown",
+   "compared": [
+    "D-004-18 and D-004-16, baptisms of 1873 and 1882 naming the Greek Catholic pastors of Csicser"
+   ]
+  }
+ },
+ {
+  "id": "D-013-26",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-316",
+  "file": "Death_of_Mihaly_Demko_1888.png",
+  "sha256": "45458a6fdfa5ff4c9f39dfc1bd85a6ece156233631e1548af7b727b2ad34f2a4",
+  "wide": true,
+  "title": "Burial of Mihály, 1 month old, son of György Demkó, Viszoka 121; filed as 1888, year not on the strip",
+  "span": "3 May; year not on the strip (the owner: 1888)",
+  "language": "Hungarian",
+  "collector_label": "Death of Mihaly Demko 1888",
+  "family": "FG-01",
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "27",
+    "date": "3 May; year not on the strip (the owner: 1888)",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Mihály, whose father is György Demkó, farmer, of Viszoka 121; a boy of 1 month; died on 3 May of weakness; buried at Viszoka on 5 May. No year is on the strip. House 121 is where György Demkó's children were born in 1875 and [1879]; by 1882 the house was 132. A Mihály of this couple was baptised in August 1882 and was alive in 1930, so a brother Mihály born in 1888 would be a second living son of one name.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "27. | majus 3. | Mihály | atyja: Demkó György gazda | Viszoka 121. | fi | \" | 1 hónapos | gyengeség | - | Viszoka majus 5-én | d°",
+    "english": "Mihály, whose father is György Demkó, farmer, of Viszoka 121; a boy of 1 month; died on 3 May of weakness; buried at Viszoka on 5 May. No year is on the strip. House 121 is where György Demkó's children were born in 1875 and [1879]; by 1882 the house was 132. A Mihály of this couple was baptised in August 1882 and was alive in 1930, so a brother Mihály born in 1888 would be a second living son of one name."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, as used in this book from the 1870s. The church is from the owner's folder name.",
+   "form": "Columns across an opening: number, date, name, father or spouse with occupation, place with house number, sex, age, cause, sacraments, burial place and date, officiant (ditto marks), remarks. The right-hand page sits about one row lower than the left in these pictures.",
+   "does_not_fit": "The year is on the strip only where a burial date happens to carry it (D-013-25 shows '873' on the row above; D-013-24 has 1883).",
+   "made_by": "The parish clergy of Csicser.",
+   "kept": "unknown",
+   "compared": [
+    "D-004-18 and D-004-16, baptisms of 1873 and 1882 naming the Greek Catholic pastors of Csicser"
+   ]
+  }
+ },
+ {
+  "id": "D-013-27",
+  "folder": "F-013",
+  "batch": "B-044",
+  "source": "S-317",
+  "file": "Death_of_Mihaly_Pihulics_Demko_1837.png",
+  "sha256": "3d91100b4659c05b0a22d1ee96bbed5b2456460a1b40babe9883a4bb888af582",
+  "wide": true,
+  "title": "Burial of Mihály Pihulics, child of Mihály Pihulics and Mária Demko, Viszoka, March [1837]",
+  "span": "17 March [1837]",
+  "language": "Hungarian",
+  "collector_label": "Death of Mihaly Pihulics Demko 1837",
+  "family": null,
+  "route": "demko",
+  "part": "Cicarovce - Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "A burial register filed by the owner under the Greek Catholic parish of Čičarovce (Csicser); the church is not named on most strips",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Cicarovce - Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "17 March [1837]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Mihály Pihulics, child of Mihály Pihulics and Mária Demko; an infant, age read doubtfully as four months; Greek Catholic; of Viszoka; died on the 17th of 'Böjt más hava' (March) of fever.",
+    "reading": "medium; low for the age"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "Böjt Más Hava 17 | Pihulics Mihály | Pihulics Mihály, Demko Mária [fia] | [4 hó?] | GK | gyermek | Viszoka | Hideglelés",
+    "english": "Mihály Pihulics, child of Mihály Pihulics and Mária Demko; an infant, age read doubtfully as four months; Greek Catholic; of Viszoka; died on the 17th of 'Böjt más hava' (March) of fever."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register in Hungarian on a hand-ruled single page, as used in this book in the 1830s and 1840s. The church is from the owner's folder name.",
+   "form": "Eight hand-ruled columns: day (with old Hungarian month names such as 'Böjt elő hava'), name, relation, age, rite ('GK'), state, place, cause.",
+   "does_not_fit": "Nothing names the church or the year. D-013-15 is filed by the owner as 1905 but is on this early layout (H-078).",
+   "made_by": "The parish clergy.",
+   "kept": "unknown",
+   "compared": [
+    "The dated two-page strips of 1857 to 1883 in the same sub-folder, which use a different, printed form"
+   ]
+  }
  }
 ]

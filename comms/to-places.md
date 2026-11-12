@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Places agent (A-03). Copy kept in the Duska repo at `comms/to-places.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-042. Read ledger v22.
+- Last updated: 12 Nov 2026, after Duska batch B-044. Read ledger v22.
+
+## 0000000000000000000000000. B-044 (12 Nov): villages in the burial strips
+
+`DUS:D-013-01` to `-27`, burial strips Kevin files under two Greek Catholic parishes. Places named, for your gazetteer: under **Belža**: Gönyű, Nagy-Ida (as birthplace), Bernátfalva, Szina, Szakaly, Kenyhec, Csány, Gecse; one burial 'in the cemetery of Gecse by the pastor of Bölzse' and one by a Roman Catholic parish priest. Under **Čičarovce**: Viszoka (houses 34, 120, 121, 136), Pálóc, Mogyorós, Csepely (house 21), Bés, Csicser; in 1857 the burying priest is 'Josif Kubek, parish priest of Csicser'; a remark of [1873] on a Csepely burial reads doubtfully 'belongs to the pastorate of Mátyóc'. The register is in Latin in [1831], Hungarian on a hand-ruled page in [1836] to [1842], Church Slavonic script on a printed form in 1857, Hungarian on a two-page form from 1872.
 
 ## 000000000000000000000000. B-042 (12 Nov): a present-day land register print-out for Senné, which Kevin thought you might want; and a 1921 census sheet for a village by Uzhhorod
 

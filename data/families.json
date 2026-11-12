@@ -12,7 +12,7 @@
    "Borbála, b. 23 Apr [1879]",
    "Mihály, b. 19 Aug 1882"
   ],
-  "note": "Whether the couple of 1857 is the couple of 1873 to 1882 is hypothesis H-022. No child is recorded here between 1857 and 1873. Names reused after a death: Mihály (1873, then 1882) and János (1873, then 1875). The four are kept as four people.",
+  "note": "Whether the couple of 1857 is the couple of 1873 to 1882 is hypothesis H-022. No child is recorded here between 1857 and 1873. Names reused after a death: Mihály (1873, then 1882) and János (1873, then 1875). The four are kept as four people. Burials (B-044): János, aged 2, d. 14 Dec [1872]; the twins Mihály and János, d. 11 and 14 June 1873 at 12 and 15 days; Mihály, one month old, d. 3 May in a year not on the strip, at house 121. The name János was given three times and Mihály at least twice before 1882.",
   "route": "demko",
   "documents": [
    "D-002-01",
@@ -20,7 +20,11 @@
    "D-004-08",
    "D-004-13",
    "D-004-16",
-   "D-004-18"
+   "D-004-18",
+   "D-013-19",
+   "D-013-20",
+   "D-013-25",
+   "D-013-26"
   ],
   "route_note": "Demko agent"
  },
@@ -36,13 +40,17 @@
    "János, b. 2 Mar [1879], d. 14 Mar 1879",
    "Zsuzsánna, b. 6 Jan 1883"
   ],
-  "note": "House 120 in 1879 is next door to György Demkó at 121. One wife under two given names, or two wives, is not settled. Under ruling X-017 the change of the mother's given name between 1874 and 1877 is read as a possible second marriage, perhaps to a sister, until a record shows one wife.",
+  "note": "House 120 in 1879 is next door to György Demkó at 121. One wife under two given names, or two wives, is not settled. Under ruling X-017 the change of the mother's given name between 1874 and 1877 is read as a possible second marriage, perhaps to a sister, until a record shows one wife. Burials (B-044): Anna, aged 1, d. 26 Aug [1873], so the Anna of [1874] is a second; an unnamed boy who lived minutes, 22 Mar [1873]; János, d. 14 Mar [1878 or 1879]; Zsuzsánna, d. about 1 Mar 1883 at house 136.",
   "route": "demko",
   "documents": [
    "D-004-02",
    "D-004-04",
    "D-004-09",
-   "D-004-20"
+   "D-004-20",
+   "D-013-11",
+   "D-013-18",
+   "D-013-21",
+   "D-013-24"
   ],
   "route_note": "Demko agent"
  },
@@ -107,12 +115,13 @@
    "János, b. [1835]",
    "Mihály, b. [1839]"
   ],
-  "note": "A Demko daughter of the generation born about 1800 to 1812.",
+  "note": "A Demko daughter of the generation born about 1800 to 1812. Her burial (B-044): Mária Demko, wife of György Tirpák, d. 1 Jan 1857 at Viszoka 34, aged 60.",
   "route": "demko",
   "documents": [
    "D-004-10",
    "D-004-15",
-   "D-004-19"
+   "D-004-19",
+   "D-013-23"
   ],
   "route_note": "Demko agent"
  },

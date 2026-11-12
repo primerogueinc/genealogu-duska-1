@@ -387,6 +387,11 @@
     "batch": "B-010",
     "effect": "70% unchanged",
     "note": "Ruling X-017: necronym risk unresolved, because the Viszoka burials are not in hand. What is in hand argues for survival. This Mihály is already the second of the name (the twin of May 1873 has a cross). The 1906 civil record, as the Demko agent reads it, gives the father as aged 24 and born at Magasrév: a birth in 1881 or 1882, which fits the August 1882 baptism and not the 1873 twin, who would have been 33. No later Mihály to this couple is in the folder, which runs to January 1883. Stays at the cap."
+   },
+   {
+    "batch": "B-044",
+    "effect": "no change",
+    "note": "No burial of the Mihály of 1882 is among these strips. One strip of an infant Mihály is filed as 1888; if that year were right it would sit oddly beside a living brother of the same name (H-077). The Demko agent rules on this."
    }
   ],
   "question": "X-Q-03",
@@ -608,6 +613,11 @@
     "batch": "B-010",
     "effect": "40% to 45%",
     "note": "Ruling X-017. If the Demko fathers of 1831, 1834, 1838 and 1840 are one man (H-031), the Georgius of 1831 probably died and this György of 1834 is the survivor. Necronym risk unresolved: burials not in hand."
+   },
+   {
+    "batch": "B-044",
+    "effect": "no change",
+    "note": "A György aged 5, son of a György Demkó, died in a year not on the strip (D-013-15). If he is the boy of September [1834], this hypothesis is dead; if he is the boy of [1831], it is untouched. Not decidable yet."
    }
   ],
   "necronym_risk": "unresolved"
@@ -627,6 +637,11 @@
     "batch": "B-010",
     "effect": "30% to 20%",
     "note": "Ruling X-017. A second son of the same name three years later, in the wake of a cholera year, suggests the 1831 child died."
+   },
+   {
+    "batch": "B-044",
+    "effect": "no change",
+    "note": "As for H-020, with the two boys the other way round."
    }
   ],
   "necronym_risk": "unresolved"
@@ -646,6 +661,11 @@
     "batch": "B-010",
     "effect": "65% to 70%",
     "note": "The Demko agent reads the mother's rite in the 1857 entry as Roman Catholic, and a second look here agrees. That removes one of the three objections. Held at the cap."
+   },
+   {
+    "batch": "B-044",
+    "effect": "no change",
+    "note": "The burials of 1872 and 1873 call the father 'gazda' (farmer) throughout and add an earlier János; they fit one long marriage and do not test it."
    }
   ]
  },
@@ -840,14 +860,20 @@
  {
   "id": "H-031",
   "statement": "The Demko fathers at Viszoka in 1831, 1834, 1838 and 1840 are one György Demko with three wives in turn: Barbara Cs[encsarik?], then Anna Samudovszki [?], then Mária Vaszil [?].",
-  "confidence": 45,
+  "confidence": 12,
   "basis": "Ruling X-017, rule 7: a change of mother between baptisms to one father is a second marriage until shown to be a second man. The wives do not overlap in time, and 1831 to 1832 was a cholera wave. The Demko agent reads the same pattern. Against: György and Demko are both common at Viszoka.",
   "test": "Burials of Barbara and Anna; marriage entries of 1832 to 1834 and 1838 to 1840; house numbers.",
   "status": "open",
   "raised": "B-010",
   "resolved": null,
   "resolution": null,
-  "log": []
+  "log": [
+   {
+    "batch": "B-044",
+    "effect": "lowered from 45 to 12",
+    "note": "The burials named as its test have arrived. Barbara died in [1831], which fits a first wife. But an Ilona died as György Demkó's wife in [1836], between the two children of György and Anna, and Anna died in [1842], after a child of György and Mária. One man with three wives in turn does not survive that unless the file-name years are wrong. See H-076."
+   }
+  ]
  },
  {
   "id": "H-032",
@@ -2011,5 +2037,62 @@
    }
   ],
   "route": "duska"
+ },
+ {
+  "id": "H-076",
+  "statement": "At least two men named György Demko headed families at Viszoka in the 1830s.",
+  "confidence": 75,
+  "basis": "Three women were buried as the wife of a György Demko: Barbara, 25, in [1831]; Ilona, 33, a serf's wife, in [1836]; Anna, 37, in [1842]. A György Demko and an Anna had children baptised in [1834] and [1838], so the husband Ilona left in [1836] was not that man. A child was baptised to a György Demko and a Mária in [1840], while an Anna was still alive. Against: every year here stands only in the owner's file names, and a wrong year on one strip would dissolve the overlap.",
+  "test": "The page headers or years for the burials of [1836] and [1842]; marriage entries of 1831 to 1840; the house numbers.",
+  "status": "open",
+  "raised": "B-044",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-044",
+    "effect": "raised at 75",
+    "note": "First ruling."
+   }
+  ],
+  "route": "demko"
+ },
+ {
+  "id": "H-077",
+  "statement": "The burial of the infant Mihály, son of György Demkó of Viszoka 121, which the owner files as 1888, is of the 1870s.",
+  "confidence": 60,
+  "basis": "House 121 is the family's house in the baptisms of 1875 and [1879]; in 1882 it is 132. The mother was bearing by 1857 and would be past fifty in 1888. A Mihály born in 1882 lived, and a living son's name was not given to a brother. Against: the owner may have read the year on the page; a younger György Demkó could have lived at 121 in 1888.",
+  "test": "The year at the head of the page; the child's baptism a month earlier.",
+  "status": "open",
+  "raised": "B-044",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-044",
+    "effect": "raised at 60",
+    "note": "First ruling."
+   }
+  ],
+  "route": "demko"
+ },
+ {
+  "id": "H-078",
+  "statement": "The strip filed as 'Death of György Demko 1905' is from the 1830s or 1840s, and the boy of five is one of the Györgys baptised in [1831] and [1834].",
+  "confidence": 70,
+  "basis": "The page is hand-ruled with the eight columns and the abbreviations ('Attya', '5. E.', 'GK') of the strips of [1836] to [1842]; the dated strips of 1857 to 1883 are on a printed two-page form. A boy of five whose father is György Demkó fits either baptism. Against: the year is not on the strip, and which of the two boys he is cannot be told.",
+  "test": "The page header; the same page's neighbouring entries.",
+  "status": "open",
+  "raised": "B-044",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-044",
+    "effect": "raised at 70",
+    "note": "An X-031 finding: the form of the object contradicts the label's date."
+   }
+  ],
+  "route": "demko"
  }
 ]

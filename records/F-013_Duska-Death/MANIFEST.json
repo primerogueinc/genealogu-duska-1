@@ -1,7 +1,7 @@
 {
   "folder_id": "F-013",
   "desktop_path": "Duska Death",
-  "note": "Sub-folder 'Belza Kosice Greek Catholic', marked full by the owner: 9 image strips, received through chat upload on 12 Nov 2026.",
+  "note": "Sub-folder 'Belza Kosice Greek Catholic', marked full by the owner: 9 image strips, received through chat upload on 12 Nov 2026. Sub-folder 'Cicarovce - Greek Catholic', sent in two parts and complete by the owner's words 'rest of folder': 18 image strips.",
   "files": [
     {
       "file": "Death_of_Andras_Solsesz_Demko_1878.png",
@@ -83,6 +83,168 @@
       "received": "2026-11-12",
       "via": "chat upload",
       "part": "Belza Kosice Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Demko_1837.png",
+      "sha256": "a05159fba7f996da7cb1991469458f1c8e9efaf32e430029e8e30b1deab7c160",
+      "bytes": 604705,
+      "pixels": "1585x279",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Demko_1873.png",
+      "sha256": "21c0a559aadaa6dd0a92c9450f733e485713bf5f6bcc3b2abb34acd0924bb4f0",
+      "bytes": 353021,
+      "pixels": "1742x160",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Pesotar_Demko_1842.png",
+      "sha256": "e8100a3048e43f1ebc79017fbceca230592fe94ce60126c704414289ce2a7f35",
+      "bytes": 400607,
+      "pixels": "1453x202",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Barbara_Demko_1831.png",
+      "sha256": "ac4bcb3389612c209b7e2bffec76790d66e673918245148051496a701e599df0",
+      "bytes": 352003,
+      "pixels": "1547x172",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Erzebet_Demko_1875.png",
+      "sha256": "70593ad3f8f28a9fca67532986868c1c38abd15067d5fabd4affc68c3a46a03f",
+      "bytes": 193959,
+      "pixels": "1867x91",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Gyorgy_Demko_1905.png",
+      "sha256": "20ba74b849e18ccfbf8e1bf49bed4af1d195b8b7c8d4912da6b99e5786a09f73",
+      "bytes": 249798,
+      "pixels": "1346x188",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Gyorgy_Kocsis_1841.png",
+      "sha256": "8516aa1d3a96e3bc1584727ddad090425f2fd8b37dee7d4ad91079b396d3d3cd",
+      "bytes": 573417,
+      "pixels": "1563x300",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Iliona_Demko_1836.png",
+      "sha256": "95a41debeea99e11c903e16945eba13a6ee169c35aa79f7f7e2d4011722927d0",
+      "bytes": 549278,
+      "pixels": "1709x223",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Infant_Demko_1873.png",
+      "sha256": "fb6126367cd8a8029e08d8b4b6e417a955a31914312b064200987bdde8c0c896",
+      "bytes": 229503,
+      "pixels": "1597x129",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Janos_Demko_1872.png",
+      "sha256": "432eccb3313c3196895f94cd594f66671f2ebb9d70cf9574e06a031708d1811e",
+      "bytes": 252034,
+      "pixels": "1628x147",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Janos_Demko_1873.png",
+      "sha256": "d5feafcde9e804ddfa008affb6b211bcbaecf07772af9f992a001f1ef2e52a31",
+      "bytes": 208669,
+      "pixels": "1798x96",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Janos_Demko_1878.png",
+      "sha256": "c8ff3995c2914d904f0a734604deb74e8d6d81da070b719228ac0781db02a2bb",
+      "bytes": 237190,
+      "pixels": "1673x106",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Janos_Kocsis_1783.png",
+      "sha256": "1a0989632a2202dec80f5c4b6f7abd5ec8af62f5f3d8aeed7216e8bb0b783e1e",
+      "bytes": 229651,
+      "pixels": "1758x118",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Maria_Demko_1857.png",
+      "sha256": "ff42adc7434014232da89c0df0a942cefac4391a1ef3091860cea2ad43a0c422",
+      "bytes": 206933,
+      "pixels": "1508x115",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Maria_Demko_1883.png",
+      "sha256": "265acdf648439a022f66e1f1031ab5a78ac9d78472a43e0dbcf5819848e8735b",
+      "bytes": 298169,
+      "pixels": "1477x140",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Mihaly_Demko_1873.png",
+      "sha256": "4fb8b0a57d3dc6557aaf1c1b750317fe0f01e5833c59487fdea89c4b01f3fe53",
+      "bytes": 198396,
+      "pixels": "1831x79",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Mihaly_Demko_1888.png",
+      "sha256": "45458a6fdfa5ff4c9f39dfc1bd85a6ece156233631e1548af7b727b2ad34f2a4",
+      "bytes": 206231,
+      "pixels": "1559x98",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Mihaly_Pihulics_Demko_1837.png",
+      "sha256": "3d91100b4659c05b0a22d1ee96bbed5b2456460a1b40babe9883a4bb888af582",
+      "bytes": 409212,
+      "pixels": "1553x210",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Cicarovce - Greek Catholic"
     }
   ],
   "held": []

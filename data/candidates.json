@@ -11,7 +11,7 @@
   "route": "demko",
   "route_note": "Demko agent places the person; household sent to the Places agent",
   "necronym_risk": "unresolved",
-  "necronym_note": "The second son named Mihály to this couple: a twin Mihály of 1873 is marked with a cross. Burials at Viszoka for 1882 to 1897 are not in hand. Age evidence for survival: the Demko agent's 1906 civil record gives the father of Maria Demko as Mihály Demkó, born at Magasrév, aged 24, which implies a birth in 1881 or 1882 and fits this baptism, not the twin of 1873."
+  "necronym_note": "The second son named Mihály to this couple: a twin Mihály of 1873 is marked with a cross. Burials at Viszoka for 1882 to 1897 are not in hand. Age evidence for survival: the Demko agent's 1906 civil record gives the father of Maria Demko as Mihály Demkó, born at Magasrév, aged 24, which implies a birth in 1881 or 1882 and fits this baptism, not the twin of 1873. Burials now in hand (B-044): the twin Mihály died on 11 June 1873 (D-013-25); another Mihály of György Demkó, one month old, died on a 3 May at house 121 in a year not on the strip, filed by the owner as 1888 (D-013-26, H-077). No burial of the 1882 child is among the eighteen strips, and the census of 1930 has a Michal Demko born at Vysoká in August 1882."
  },
  {
   "id": "K-002",
@@ -7259,6 +7259,210 @@
    "S-299"
   ],
   "relation": "D-013-09. Wife of Michael L[ejk]o.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-611",
+  "name": "Anna Demko",
+  "vitals": "b. about 1802; d. 9 Feb [1837], Pálóc; a widow",
+  "proof": "documented",
+  "sources": [
+   "S-300"
+  ],
+  "relation": "D-013-10. Whether Demko is her own name or her late husband's is not said.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-612",
+  "name": "Anna Demkó (the first)",
+  "vitals": "b. about 1872; d. 26 Aug [1873], Viszoka",
+  "proof": "documented",
+  "sources": [
+   "S-301"
+  ],
+  "relation": "D-013-11. Daughter of János Demkó, farmer. An Anna was baptised to János Demkó and his wife Szlekár in Oct [1874] (FG-02).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-613",
+  "name": "Anna [Pesotár]",
+  "vitals": "b. about 1805; d. [1842], Viszoka",
+  "proof": "documented",
+  "sources": [
+   "S-302"
+  ],
+  "relation": "D-013-12. Wife of a György Demko. The baptisms of [1834] and [1838] give a György Demko's wife as Anna Samudovszki [?]; whether she is the same woman is open (H-076).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-614",
+  "name": "Barbara, wife of Georgius Demko",
+  "vitals": "b. about 1806; d. [1831], Viszoka",
+  "proof": "documented",
+  "sources": [
+   "S-303"
+  ],
+  "relation": "D-013-13. Mother of the Georgius baptised in [1831] (her surname there read Cs[encsarik?]).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-615",
+  "name": "Erzsébet Demkó",
+  "vitals": "b. about 1821; d. 8 Nov [1875], Pálóc",
+  "proof": "documented",
+  "sources": [
+   "S-304"
+  ],
+  "relation": "D-013-14. Widow of György H[ajtó], cottar.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-616",
+  "name": "György Demkó, a boy of 5",
+  "vitals": "d. on the 15th of a month, year not known, Viszoka",
+  "proof": "documented",
+  "sources": [
+   "S-305"
+  ],
+  "relation": "D-013-15. Son of a György Demkó. If the strip is of about 1836 he is the Georgius baptised in [1831]; if of about 1839, the György of September [1834] (H-078).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-617",
+  "name": "György Kocsis",
+  "vitals": "b. about 1836; d. [1841], Mogyorós",
+  "proof": "documented",
+  "sources": [
+   "S-306"
+  ],
+  "relation": "D-013-16. Son of János Kocsis. A Kocsis child was baptised at Mogyorós in [1832] (D-004).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-618",
+  "name": "Ilona, wife of György Demkó",
+  "vitals": "b. about 1803; d. [1836], Viszoka; a serf's wife",
+  "proof": "documented",
+  "sources": [
+   "S-307"
+  ],
+  "relation": "D-013-17. A third woman who died as the wife of a György Demko at Viszoka between [1831] and [1842] (H-076).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-619",
+  "name": "An unnamed son of János Demkó",
+  "vitals": "b. and d. 22 Mar [1873], Viszoka",
+  "proof": "documented",
+  "sources": [
+   "S-308"
+  ],
+  "relation": "D-013-18. Lived minutes; not named.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-620",
+  "name": "János Demkó (the first)",
+  "vitals": "b. about 1870; d. 14 Dec [1872], Viszoka",
+  "proof": "documented",
+  "sources": [
+   "S-309"
+  ],
+  "relation": "D-013-19. Son of György Demkó, farmer. Two later sons were named János, in 1873 and 1875.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-621",
+  "name": "János Demkó (the twin)",
+  "vitals": "b. 29 May [1873]; d. 14 Jun [1873], Viszoka",
+  "proof": "documented",
+  "sources": [
+   "S-310"
+  ],
+  "relation": "D-013-20. Twin son of György Demkó and Mária Hreskó.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-622",
+  "name": "János Kocsis",
+  "vitals": "b. about 1856; d. 7 Aug [1873], Csepely 21, of cholera",
+  "proof": "documented",
+  "sources": [
+   "S-312"
+  ],
+  "relation": "D-013-22. Son of János Kocsis, cottar.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-623",
+  "name": "Mária Demko, wife of György Tirpák",
+  "vitals": "b. about 1797; d. 1 Jan 1857, Viszoka 34",
+  "proof": "documented",
+  "sources": [
+   "S-313"
+  ],
+  "relation": "D-013-23. FG-06. The oldest Demko by birth year in the Viszoka material so far.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-624",
+  "name": "Mihály Demkó (the twin)",
+  "vitals": "b. 29 May 1873; d. 11 Jun 1873, Viszoka",
+  "proof": "documented",
+  "sources": [
+   "S-315"
+  ],
+  "relation": "D-013-25. Twin son of György Demkó and Mária Hreskó; the first Mihály of the couple on record.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-625",
+  "name": "Mihály Demkó, an infant of house 121",
+  "vitals": "b. about April, d. 3 May, year not known; Viszoka 121",
+  "proof": "documented",
+  "sources": [
+   "S-316"
+  ],
+  "relation": "D-013-26. Son of György Demkó, farmer. Most likely of the 1870s (H-077), which would make the Mihály of 1882 the third of the name.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-626",
+  "name": "Mihály Pihulics",
+  "vitals": "d. 17 Mar [1837], Viszoka; an infant",
+  "proof": "documented",
+  "sources": [
+   "S-317"
+  ],
+  "relation": "D-013-27. Son of Mihály Pihulics and Mária Demko.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-627",
+  "name": "Mária Demko, wife of Mihály Pihulics",
+  "vitals": "a mother at Viszoka in [1837]",
+  "proof": "documented",
+  "sources": [
+   "S-317"
+  ],
+  "relation": "D-013-27. A second Mária Demko married at Viszoka in the 1830s, beside the wife of György Tirpák.",
   "route": "demko",
   "route_note": ""
  }
