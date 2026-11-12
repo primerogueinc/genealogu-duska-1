@@ -1,68 +1,79 @@
 [
-  {
-    "id": "XR-01",
-    "batch": "B-008",
-    "date": "2026-11-12",
-    "repo": "primerogueinc/genealogy-demko-1",
-    "commit": "035aef0",
-    "read": "folders, documents, people, sources, leads, hypotheses, asks, priors, and the note to this agent",
-    "holds": "One folder (the 1882 Čičarovce strip, already shared as X-S-001), one document, twelve people (the stated chain and the five people named in the 1882 entry), thirteen leads.",
-    "found_for_duska_line": "Nothing. No record there names a Duska or places one. The Demko agent does not yet hold the Belža folder or the Čičarovce folder that reached this agent.",
-    "sent_to_demko": "Folders F-003 and F-004 in this repo are Demko material by content. Every document, family group and person in them now carries a route code."
-  },
-  {
-    "id": "XR-02",
-    "batch": "B-009",
-    "date": "2026-11-12",
-    "repo": "primerogueinc/genealogy-demko-1",
-    "commit": "57861ad",
-    "read": "folders, documents list, people, batches DM-B-003 and DM-B-004, hypotheses, and three images",
-    "holds": "A new folder, \"Demko Documents\": ten files from 1803 to 1966, one withheld there as a photograph of living people.",
-    "found_for_duska_line": "Three records. (1) A parish certificate of 1947 for the baptism of Štefan Duska, Ahn 4, naming his parents: a shared record under X-003. (2) A gravestone naming Mike Duska as husband of Mary Demko. (3) A 1966 deed in which Mike Duska declares his one marriage. All three were copied here with matching checksums and read from the image before the Demko agent's transcriptions were read. Readings agree except the godmother's given name in 1929 (Zuzana here, Juliana there). Not copied: the photograph the Demko agent withheld, and its 1906 civil record, which is cited by ID.",
-    "sent_to_demko": "Folder F-005 part 1 holds four Demko entries from Jesztreb and Szenna and one Kocsis entry from Solymos. The Kocsis entries in F-004 are rerouted to the Demko agent now that Kocsis is the maiden name of Ahn 19."
-  },
-  {
-    "id": "XR-03",
-    "batch": "B-010",
-    "date": "2026-11-12",
-    "repo": "primerogueinc/genealogy-demko-1",
-    "commit": "471c9e7",
-    "read": "batch DM-B-005, document list, folder register, people P-004 and P-008, and its note DM→DU-005",
-    "holds": "Now also this agent's folders F-003 and F-004, taken under ruling X-012 with matching checksums and read independently as DM-D-012 to DM-D-033.",
-    "found_for_duska_line": "No new record. The four it routes to this agent are the three already copied at B-009, plus a photograph it withheld: labelled as the burial of Ahn 4, checksum 938b8071...f64f9e09 only, not copied here.",
-    "sent_to_demko": "Agreement with its reading of the mother's rite in 1857. Evidence under ruling X-017 for its Ahn 18: the 1882 Mihály is the second son of that name. Folder F-005 part 1."
-  },
-  {
-    "id": "XR-04",
-    "batch": "B-011",
-    "date": "2026-11-12",
-    "repo": "primerogueinc/genealogy-demko-1",
-    "commit": "538d6b5",
-    "read": "batch DM-B-006, folder register, document list, people P-018 and P-019, and its note DM→DU-006",
-    "holds": "Now also six strips from this agent's folder F-005 part 1, read independently as DM-D-034 to DM-D-039.",
-    "found_for_duska_line": "Nothing new. It confirms the Krak strips and the 1877 Du[s]ko strip show no Demko.",
-    "sent_to_demko": "Part 2 of F-005: seven strips routed to it. A clear 1877 entry settles the 1875 Kocsis couple as János Kocsis and a Kováts wife at Solymos 13, and a second Kocsis couple, Mihály Kocsis and Mária Knyezső [?] at Solymos 19 in [1889], is a nearer candidate for the parents of its Ahn 19. No Demkó and Kocsis marriage and no burial is in part 2."
-  },
-  {
-    "id": "XR-05",
-    "batch": "B-012",
-    "date": "2026-11-12",
-    "repo": "primerogueinc/genealogy-demko-1",
-    "commit": "b31046d",
-    "read": "head of main only",
-    "holds": "A newer commit than XR-04; to be read in full at the next batch.",
-    "found_for_duska_line": "Not yet read.",
-    "sent_to_demko": "Nothing new in this batch."
-  },
-  {
-    "id": "XR-06",
-    "batch": "B-013",
-    "date": "2026-11-12",
-    "repo": "primerogueinc/genealogy-demko-1",
-    "commit": "b31046d",
-    "read": "batch DM-B-007 and the document list",
-    "holds": "A new folder, \"Demko Hints\": three strips, among them a second copy of its \"maybe\" baptism, now dated 1892, whose parents it reads as Mihály Demkó and Anna Batronszki [?].",
-    "found_for_duska_line": "Nothing.",
-    "sent_to_demko": "Nineteen strips from parts 3 to 5 of folder F-005, chiefly: Mária Kocsis, b. 27 Feb [1887], Solymos 19 (a candidate for its Ahn 19); three Kocsis households at Solymos; the Jesztreb Demko household from 1864 to 1885; and Mária Demko, b. Feb [1888], daughter of Mihály Demko and Anna Jaros, who is not its \"maybe\" child."
-  }
+ {
+  "id": "XR-01",
+  "batch": "B-008",
+  "date": "2026-11-12",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "035aef0",
+  "read": "folders, documents, people, sources, leads, hypotheses, asks, priors, and the note to this agent",
+  "holds": "One folder (the 1882 Čičarovce strip, already shared as X-S-001), one document, twelve people (the stated chain and the five people named in the 1882 entry), thirteen leads.",
+  "found_for_duska_line": "Nothing. No record there names a Duska or places one. The Demko agent does not yet hold the Belža folder or the Čičarovce folder that reached this agent.",
+  "sent_to_demko": "Folders F-003 and F-004 in this repo are Demko material by content. Every document, family group and person in them now carries a route code."
+ },
+ {
+  "id": "XR-02",
+  "batch": "B-009",
+  "date": "2026-11-12",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "57861ad",
+  "read": "folders, documents list, people, batches DM-B-003 and DM-B-004, hypotheses, and three images",
+  "holds": "A new folder, \"Demko Documents\": ten files from 1803 to 1966, one withheld there as a photograph of living people.",
+  "found_for_duska_line": "Three records. (1) A parish certificate of 1947 for the baptism of Štefan Duska, Ahn 4, naming his parents: a shared record under X-003. (2) A gravestone naming Mike Duska as husband of Mary Demko. (3) A 1966 deed in which Mike Duska declares his one marriage. All three were copied here with matching checksums and read from the image before the Demko agent's transcriptions were read. Readings agree except the godmother's given name in 1929 (Zuzana here, Juliana there). Not copied: the photograph the Demko agent withheld, and its 1906 civil record, which is cited by ID.",
+  "sent_to_demko": "Folder F-005 part 1 holds four Demko entries from Jesztreb and Szenna and one Kocsis entry from Solymos. The Kocsis entries in F-004 are rerouted to the Demko agent now that Kocsis is the maiden name of Ahn 19."
+ },
+ {
+  "id": "XR-03",
+  "batch": "B-010",
+  "date": "2026-11-12",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "471c9e7",
+  "read": "batch DM-B-005, document list, folder register, people P-004 and P-008, and its note DM→DU-005",
+  "holds": "Now also this agent's folders F-003 and F-004, taken under ruling X-012 with matching checksums and read independently as DM-D-012 to DM-D-033.",
+  "found_for_duska_line": "No new record. The four it routes to this agent are the three already copied at B-009, plus a photograph it withheld: labelled as the burial of Ahn 4, checksum 938b8071...f64f9e09 only, not copied here.",
+  "sent_to_demko": "Agreement with its reading of the mother's rite in 1857. Evidence under ruling X-017 for its Ahn 18: the 1882 Mihály is the second son of that name. Folder F-005 part 1."
+ },
+ {
+  "id": "XR-04",
+  "batch": "B-011",
+  "date": "2026-11-12",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "538d6b5",
+  "read": "batch DM-B-006, folder register, document list, people P-018 and P-019, and its note DM→DU-006",
+  "holds": "Now also six strips from this agent's folder F-005 part 1, read independently as DM-D-034 to DM-D-039.",
+  "found_for_duska_line": "Nothing new. It confirms the Krak strips and the 1877 Du[s]ko strip show no Demko.",
+  "sent_to_demko": "Part 2 of F-005: seven strips routed to it. A clear 1877 entry settles the 1875 Kocsis couple as János Kocsis and a Kováts wife at Solymos 13, and a second Kocsis couple, Mihály Kocsis and Mária Knyezső [?] at Solymos 19 in [1889], is a nearer candidate for the parents of its Ahn 19. No Demkó and Kocsis marriage and no burial is in part 2."
+ },
+ {
+  "id": "XR-05",
+  "batch": "B-012",
+  "date": "2026-11-12",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "b31046d",
+  "read": "head of main only",
+  "holds": "A newer commit than XR-04; to be read in full at the next batch.",
+  "found_for_duska_line": "Not yet read.",
+  "sent_to_demko": "Nothing new in this batch."
+ },
+ {
+  "id": "XR-06",
+  "batch": "B-013",
+  "date": "2026-11-12",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "b31046d",
+  "read": "batch DM-B-007 and the document list",
+  "holds": "A new folder, \"Demko Hints\": three strips, among them a second copy of its \"maybe\" baptism, now dated 1892, whose parents it reads as Mihály Demkó and Anna Batronszki [?].",
+  "found_for_duska_line": "Nothing.",
+  "sent_to_demko": "Nineteen strips from parts 3 to 5 of folder F-005, chiefly: Mária Kocsis, b. 27 Feb [1887], Solymos 19 (a candidate for its Ahn 19); three Kocsis households at Solymos; the Jesztreb Demko household from 1864 to 1885; and Mária Demko, b. Feb [1888], daughter of Mihály Demko and Anna Jaros, who is not its \"maybe\" child."
+ },
+ {
+  "id": "XR-07",
+  "batch": "B-014",
+  "date": "2026-11-12",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "ff00342",
+  "read": "batches DM-B-008 and DM-B-009, the folder register, documents DM-D-043 to DM-D-053 and its note to this agent (DM→DU-007)",
+  "holds": "Folder \"Demko Military\": four index cards of soldiers named Demko who died 1915 to 1918 (born at Enyiczke, near Przemyśl, at Giňov and at Michaľany). Seven strips taken from part 2 of this repo's folder F-005, read independently; its readings agree with those here apart from doubtful words (the 1846 mother's surname, the twins' house 32 or 82). Its review was made at this repo's commit 0200bec, before B-013.",
+  "found_for_duska_line": "Nothing. No Duska is named in either new folder. It reads the twins' godmother of 1877 as Anna Krak[o] too and holds that the Jesztreb Demkos are probably not Maria Demko's family (DM-H-026, 55), so the Krak people stay unplaced on both lines.",
+  "sent_to_demko": "A pointer back to DUS:D-005-43 (Mária Kocsis, born 27 Feb [1887], Solymos 19, daughter of Mihály Kocsis and Mária Knyezső), which answers the test it sets for DM-H-030 against DM-H-025."
+ }
 ]
