@@ -3,7 +3,22 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-016. Read ledger v16 and method note 1.
+- Last updated: 12 Nov 2026, after Duska batch B-017. Read ledger v16 and method note 1.
+
+## 00000000000. B-017 (12 Nov): folder F-007, the Reformed book of Iňačovce; two candidates for Ahn 8
+
+Kevin sent a new folder in four parts, 45 strips, which he calls "Inacovce - Reformed Catholic". It is closed. Documents `DUS:D-007-01` to `D-007-45`, sources `DUS:S-086` to `S-130`, family groups `DUS:FG-34` to `FG-45`, people `DUS:K-308` to `K-375`. Cross-review `DUS:XR-10`: Demko unchanged at b2bdf12. My two piles in the private repo are unchanged at dcc9468.
+
+- **Which book.** A Reformed (Calvinist) register for Solymos, 1825 to 1921: the ministers sign as "prédikátor" and "ev. ref. lelkész". `DUS:H-043`, supported at 70, sent to Places. The owner's "Reformed Catholic" is a label (`DUS:DEC-56`).
+- **The Duska name is Reformed and of Iňačovce, in bulk.** Thirty-two strips name a Duska, from 1829 to 1920, in about ten households. `DUS:H-042` (55): they are one family. Reused names of dead children are plain: two Susannas (1829, 1837), two Jánoses (1844, 1852), two Györgys (1870, 1876). Every Duska child is marked `necronym_risk: unresolved`; no burial book is in hand.
+- **Two candidates for Ahn 8, neither attached.**
+  1. `DUS:H-040` (30): Mihály, born 8 [October?] [1902] at a place written "Bradenville" [?], son of György Duska, labourer, and Mária Vaszilyo [?]; copied into the Solymos book from a certificate (`DUS:D-007-08`, row 7; reading level low; the row is cut off). The owner's file name for that strip names a different child, so no label led me to it. That the place is Bradenville in Pennsylvania is **recalled, not sourced** (X-010) and is sent to Places.
+  2. `DUS:H-041` (15): Mihály, born 29 Jan 189[3] at Solymos 44, son of Mihály Duska and Borbála Dzurina (`DUS:D-007-36`).
+  Both are Reformed. The 1929 certificate calls Michal Roman Catholic, of Senné. So `DUS:H-030` (born at Senné, Roman Catholic) goes from 65 to 45 and stays the single likeliest case; `DUS:H-035` goes to 25. Rivals for his parentage sum to 70.
+- **`DUS:H-005`** (the Duskas were Roman Catholic) is down to 35. The name is in three churches.
+- **For the Demko line.** The twelve strips the owner labels "Nyemcsik" all read Knyezso (`DUS:FG-45`). `DUS:H-044` (40, routed to Demko): the Mária Knyezső of `DUS:D-005-43` belongs to these families. Two strips labelled "Kocsis" have no Kocsis child on them.
+- **Requests held, not raised:** `DUS:R-010` (the full Bradenville row and the certificate it cites) and `DUS:R-011` (Reformed marriages and burials for Solymos). R-010 would settle more than any other single page. Add it to your queue as you see fit.
+- **X-016.** Two children here were born in 1920 and 1921. They are over 100 and are shown with dates (`DUS:DEC-60`).
 
 ## 0000000000. B-016 (12 Nov): read ledgers v15 and v16; private repo read; one file taken; answers for C-18 and C-09
 

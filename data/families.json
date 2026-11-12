@@ -616,5 +616,255 @@
     "documents": [
       "D-005-54"
     ]
+  },
+  {
+    "id": "FG-34",
+    "husband": "András Duska (Dusko)",
+    "wife": "Borbála Plyuksa [Pluchta]",
+    "rite": "Reformed",
+    "homes": "Solymos; no house numbers in these years",
+    "children": [
+      "Susanna, bapt. 12 May [1829]",
+      "Anna [?], bapt. 1 Feb 1832",
+      "János, b. 25 May [1834]",
+      "Susanna, b. 21 Jan [1837]",
+      "Mihály, b. 25 Jul [1840]",
+      "Borbála, bapt. 20 May [1843]"
+    ],
+    "note": "The earliest Duska household in the archive. Two daughters named Susanna, eight years apart: the first is presumed to have died (rule 20). The mother's surname is written Plyuksa; a Pluchta family stands godparent to the next generation.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-007-12",
+      "D-007-23",
+      "D-007-34",
+      "D-007-38",
+      "D-007-39",
+      "D-007-43"
+    ]
+  },
+  {
+    "id": "FG-35",
+    "husband": "János Duska (Dusko)",
+    "wife": "Anna Hura",
+    "rite": "Reformed",
+    "homes": "Solymos 33 ([1852], 1857)",
+    "children": [
+      "Anna, bapt. 8 Sep [1841]",
+      "János, bapt. 8 Jun [1844]",
+      "János, b. 23 Aug [1852]",
+      "György, b. 17 Jul 1857"
+    ],
+    "note": "A second Duska couple of the same years as FG-34; János is not the János of 1834, who was seven in 1841. Two sons named János. Commoner in 1852, cottar in 1857.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-007-04",
+      "D-007-16",
+      "D-007-24",
+      "D-007-25"
+    ]
+  },
+  {
+    "id": "FG-36",
+    "husband": "György Duska",
+    "wife": "[N...] Zsuzsanna",
+    "rite": "Reformed",
+    "homes": "Solymos",
+    "children": [
+      "György, bapt. 11 Apr 1847"
+    ],
+    "note": "One washed-out entry. A third Duska father of the 1840s.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-007-14"
+    ]
+  },
+  {
+    "id": "FG-37",
+    "husband": "András Dusko",
+    "wife": "Erzsébet Ková[cs] [?]",
+    "rite": "Reformed",
+    "homes": "Solymos 44 ([1852])",
+    "children": [
+      "György, b. 10 Apr [1852]"
+    ],
+    "note": "Either András of FG-34 with a second wife, nine years after his last child by Borbála, or a younger András. A change of mother is a second marriage until a second man is shown (rule 20). House 44 is a Duska house again in 189[3].",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-007-15"
+    ]
+  },
+  {
+    "id": "FG-38",
+    "husband": "János Dusko",
+    "wife": "Anna Kitko (Kitzka; written Minda once and corrected)",
+    "rite": "Reformed",
+    "homes": "Solymos 27 ([1863]), 24 ([1867], [1870]), 23 ([1872]), 34 ([1873], 1876)",
+    "children": [
+      "János, b. 1 Nov [1863]",
+      "Mihály, b. 3 Oct [1867]",
+      "György, b. 17 Jul [1870]",
+      "András, b. 8 Nov [1872]",
+      "Zsuzsanna, b. 9 Oct [1873]",
+      "György, b. 11 Apr 1876"
+    ],
+    "note": "The godparents János Hressan and his wife stand at every baptism. Two sons named György. The father may be the János of [1834] (FG-34) or either János of FG-35.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-007-01",
+      "D-007-17",
+      "D-007-18",
+      "D-007-30",
+      "D-007-41",
+      "D-007-44"
+    ]
+  },
+  {
+    "id": "FG-39",
+    "husband": "Mihály Dusko (Duska), 'the younger' in [1882]",
+    "wife": "Ilona Mihalko",
+    "rite": "Reformed",
+    "homes": "Solymos 33",
+    "children": [
+      "Anna, b. 17 Nov [1871]",
+      "Mihály, b. 24 Sep [1873]",
+      "György, b. 10 Jan [1882]"
+    ],
+    "note": "At house 33, where János Duska and Anna Hura lived in the 1850s. 'The younger' implies an older Mihály Duska alive in 1882. The Anna of [1871] may be the Reformed Anna Duska who is a mother at Solymos 43 in the Greek Catholic book in 1894.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-007-05",
+      "D-007-19",
+      "D-007-35"
+    ]
+  },
+  {
+    "id": "FG-40",
+    "husband": "György Duska",
+    "wife": "Zsuzsanna Valyocsik",
+    "rite": "Reformed",
+    "homes": "Solymos 26 [?] (1883), 37 [?] ([1888])",
+    "children": [
+      "György, b. 1 Feb 1883",
+      "Zsuzsanna, b. 21 Apr [1888]"
+    ],
+    "note": "The father may be the György of 1857 (FG-35), of [1852] (FG-37) or of 1847 (FG-36).",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-007-20",
+      "D-007-28"
+    ]
+  },
+  {
+    "id": "FG-41",
+    "husband": "Mihály Duska",
+    "wife": "Borbála Dzurina",
+    "rite": "Reformed",
+    "homes": "Solymos 44",
+    "children": [
+      "Mihály, b. 29 Jan 189[3]"
+    ],
+    "note": "The father may be the Mihály of [1867] (FG-38). The child is one of two candidates in this folder for Michal Duska, Ahn 8 (H-041).",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-007-36"
+    ]
+  },
+  {
+    "id": "FG-42",
+    "husband": "György Duska, labourer",
+    "wife": "Mária Vaszilyo [?]",
+    "rite": "Reformed",
+    "homes": "a place written 'Bradenville' [?]",
+    "children": [
+      "Mihály, b. 8 [October?] [1902]"
+    ],
+    "note": "A family living away from the village, whose child was entered in the home book from a certificate. The father may be the György of 1876 or [1870] (FG-38) or of [1882] (FG-39). The child is the other candidate for Ahn 8 (H-040).",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-007-08"
+    ]
+  },
+  {
+    "id": "FG-43",
+    "husband": "János Kudrócs (from 1896)",
+    "wife": "Zsuzsanna Duska, of Solymos 44",
+    "rite": "Reformed",
+    "homes": "Solymos 44 ([1893]), 11 ([1897])",
+    "children": [
+      "János, b. [1893], illegitimate, legitimised 4 May 1896",
+      "Anna, b. 21 Nov [1897]"
+    ],
+    "note": "Also filed here, without being joined to the couple: Anna, b. 24 Feb [1898], daughter of Mihály Ku[...]s and a Zsuzsánna Duska; and János, b. 15 Apr [1920], illegitimate son of a Zsuzsanna Duska, who may be the Zsuzsanna of [1888] (FG-40). Three women of one name are possible.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-007-02",
+      "D-007-03",
+      "D-007-26",
+      "D-007-27"
+    ]
+  },
+  {
+    "id": "FG-44",
+    "husband": "Mihály [Marczincsák] Elecsko [?]",
+    "wife": "Anna Duska",
+    "rite": "Reformed",
+    "homes": "Solymos",
+    "children": [
+      "Mária, b. 25 Mar [1903]",
+      "Mihály, b. 23 Jan 1904"
+    ],
+    "note": "The children are not Duskas; the owner's labels call them so. The husband's surname is written two ways.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-007-29",
+      "D-007-33"
+    ]
+  },
+  {
+    "id": "FG-45",
+    "husband": "Knyezso households of Solymos (several men)",
+    "wife": "see children",
+    "rite": "Reformed",
+    "homes": "Solymos 47, 46 [?], 5[6], 41, 59, 82, 64, 44, 99",
+    "children": [
+      "György Knyezso and Anna Kontra: Anna 1892, György 1894",
+      "György Knyezso and Anna Tomócsik: György 1890",
+      "György Knyezso and Mária Dzurina: Zsuzsanna 1888",
+      "György Knyezso and Anna Dzurina: Anna 1910",
+      "Mihály Knyezso and Erzsébet Sárik: Anna 1884",
+      "Mihály Knyezso and Anna Onderko: Mihály 1890, Zsuzsanna 1897",
+      "Mihály Knyezso and Erzsébet Sipos: Pál 1904",
+      "Mihály Knyezso Estók and Zsuzsanna Dzurina: Mihály 1904",
+      "János Knyezso the younger and Anna Verbószk[i]: Anna 1902",
+      "János Knyezső and Mária Estók: Anna 1921"
+    ],
+    "note": "Twelve strips the owner labels 'Nyemcsik'. Every one reads Knyezso. Knyezső is the surname of the mother of the Mária Kocsis born at Solymos 19 in [1887] (D-005-43), who is a candidate for the mother of Maria Demko's mother. Sent to the Demko agent.",
+    "route": "demko",
+    "route_note": "",
+    "documents": [
+      "D-007-07",
+      "D-007-08",
+      "D-007-09",
+      "D-007-10",
+      "D-007-11",
+      "D-007-21",
+      "D-007-22",
+      "D-007-31",
+      "D-007-32",
+      "D-007-37",
+      "D-007-42",
+      "D-007-45"
+    ]
   }
 ]

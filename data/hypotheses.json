@@ -98,13 +98,18 @@
     "batch": "B-013",
     "effect": "70% unchanged",
     "note": "Dusko is documented at Szenna from [1846] and [1874]. It is also at Solymos in 1877 and 1894, which fits the lead that places a Dúška family at Iňačovce in the 18th century (L-006)."
+   },
+   {
+    "batch": "B-017",
+    "effect": "no change",
+    "note": "The Duska name is at Iňačovce itself (Solymos) from 1829, which bears out lead L-006. Michal is still 'of Senné' on the one record that names his home, so this stays at 70."
    }
   ]
  },
  {
   "id": "H-005",
   "statement": "The Duskas were Roman Catholic and the Demkos Greek Catholic.",
-  "confidence": 50,
+  "confidence": 35,
   "basis": "Senné has a Roman Catholic register (1831-1926). A Rusyn Demko line (PR-4) would normally be Greek Catholic.",
   "test": "Denomination column in any baptism, marriage or census entry.",
   "status": "open",
@@ -151,6 +156,11 @@
     "batch": "B-013",
     "effect": "80% to 50%",
     "note": "The Dusko men in this Greek Catholic book, Mihály in [1846] and György in 1869 to 1877, are Greek Catholic with Roman Catholic wives. Only Michal in 1929 is Roman Catholic. The statement holds for Ahn 8 and fails for the earlier Duskas found so far."
+   },
+   {
+    "batch": "B-017",
+    "effect": "lowered from 50 to 35",
+    "note": "Thirty-two strips name a Duska in a Reformed register between 1829 and 1920. The surname is now in hand in three churches: Reformed at Solymos, Greek Catholic at Szenna and Solymos, Roman Catholic for Michal alone. 'The Duskas were Roman Catholic' no longer describes the name; it may still describe his branch."
    }
   ]
  },
@@ -714,7 +724,7 @@
  {
   "id": "H-030",
   "statement": "Michal Duska was born at Senné between 1895 and 1908 and baptised in its Roman Catholic church.",
-  "confidence": 65,
+  "confidence": 45,
   "basis": "He is Roman Catholic and \"of Senné\" in 1929, and his wife was born in 1906.",
   "test": "The Senné Roman Catholic baptism register, filmed for 1866 to 1912 (L-001). The Places agent identifies it as Prešov volume no. 1089 (L-018).",
   "status": "open",
@@ -726,6 +736,11 @@
     "batch": "B-015",
     "note": "The book that would settle it now has a number (L-018, a lead). No page of it is in hand.",
     "effect": "no change"
+   },
+   {
+    "batch": "B-017",
+    "effect": "lowered from 65 to 45",
+    "note": "Folder F-007 holds two boys named Mihály Duska of the right age who were not born at Senné and not baptised Roman Catholic: one at Solymos in 189[3], one at 'Bradenville' in [1902] (H-041, H-040). The 1929 entry still calls Michal a Roman Catholic cottar of Senné, so a Senné birth stays the single likeliest case."
    }
   ]
  },
@@ -792,7 +807,7 @@
  {
   "id": "H-035",
   "statement": "Michal Duska (Ahn 8) is a grandson of György Dusko and Mária Hornyák: his father is one of their sons, Mihail of [1869] or György of 1877.",
-  "confidence": 35,
+  "confidence": 25,
   "basis": "The only Duska household the archive follows, in the right villages, with sons of the right age to father a child about 1895 to 1908. Against: those sons would be Greek Catholic like their father, and Michal is Roman Catholic; other Duska households may simply not be in the folder.",
   "test": "Michal's baptism entry in the Senné Roman Catholic register, about 1895 to 1908, which names his father.",
   "status": "open",
@@ -804,6 +819,11 @@
     "batch": "B-015",
     "note": "The test is unchanged; the Senné volumes that hold the baptism and the burials are named in L-018.",
     "effect": "no change"
+   },
+   {
+    "batch": "B-017",
+    "effect": "lowered from 35 to 25",
+    "note": "The Reformed Duskas of Solymos are a far larger family than the Greek Catholic Duskos of Szenna, with two candidate boys of their own. Rivals for Michal's parentage on this board now: H-035 at 25, H-040 at 30, H-041 at 15; 30 is left for a family not yet seen."
    }
   ],
   "necronym_risk": "unresolved"
@@ -818,7 +838,13 @@
   "raised": "B-013",
   "resolved": null,
   "resolution": null,
-  "log": []
+  "log": [
+   {
+    "batch": "B-017",
+    "effect": "no change",
+    "note": "A György Duska is a father in the Reformed book in 1847 and another in 1883. They are Reformed; the György of this hypothesis is Greek Catholic. Kept apart."
+   }
+  ]
  },
  {
   "id": "H-037",
@@ -872,6 +898,100 @@
     "batch": "B-016",
     "effect": "raised at 50",
     "note": "Routed to the Demko agent, who owns the question. She is not Ahn 9: Maria Demko died at Montréal in 1950, this woman in 1991. Two women called Mary D..ko, both born in 1906, must not be merged."
+   }
+  ],
+  "route": "demko"
+ },
+ {
+  "id": "H-040",
+  "statement": "Michal Duska (Ahn 8) is the Mihály born on 8 [October?] [1902] at a place written 'Bradenville', son of György Duska, Reformed labourer, and Mária Vaszilyo [?].",
+  "confidence": 30,
+  "basis": "D-007-08, row 7. Age fits: he would be 26 or 27 at the birth of Štefan in 1929 and three or four years older than Maria Demko. A child born abroad to a village family and entered in the home book suggests parents who meant to return. Against: he is entered Reformed and Michal is Roman Catholic in 1929; nothing ties this child to Senné; the row is cut off; the surname of the mother and the place are low readings. That 'Bradenville' is the town of that name in Pennsylvania is recalled, not sourced (rule 15); it suggests a test only.",
+  "test": "Michal's marriage entry or any record giving his age, birthplace or parents; the rest of this row and the certificate it cites; a United States birth or baptism record at Bradenville for October 1902.",
+  "status": "open",
+  "raised": "B-017",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-017",
+    "effect": "raised at 30",
+    "note": "The owner's file name for this strip names another child. The row was found by reading the whole strip. No label moved this number."
+   }
+  ],
+  "necronym_risk": "unresolved"
+ },
+ {
+  "id": "H-041",
+  "statement": "Michal Duska (Ahn 8) is the Mihály born on 29 January 189[3] at Solymos 44, son of Mihály Duska and Borbála Dzurina, Reformed.",
+  "confidence": 15,
+  "basis": "D-007-36. He would be 36 at the birth of Štefan and thirteen years older than Maria Demko, which is possible and less usual. Reformed, like the other candidate. Born in Iňačovce, the village the family tradition names beside Senné.",
+  "test": "As for H-040; and the Reformed burial register for Solymos, 1893 to 1908, to see whether this child lived.",
+  "status": "open",
+  "raised": "B-017",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-017",
+    "effect": "raised at 15",
+    "note": "Rival to H-040 and H-035."
+   }
+  ],
+  "necronym_risk": "unresolved"
+ },
+ {
+  "id": "H-042",
+  "statement": "The Reformed Duskas of Solymos are one family: János Dusko, husband of Anna Kitko, and Mihály Dusko, husband of Ilona Mihalko, are sons of the 1830s and 1840s couples (András Duska and Borbála Pluchta; János Duska and Anna Hura).",
+  "confidence": 55,
+  "basis": "One village, one church, one surname, the right ages: a János baptised in [1834] and [1844], a Mihály in [1840]. Mihály and Ilona live at house 33, the house of János and Anna Hura in the 1850s. A Pluchta is godmother to Mihály's child in [1871]. No entry names a grandfather, so each father could be any of two or three boys.",
+  "test": "The Reformed marriage register for Solymos, 1860 to 1871, which should name the fathers; burials for the boys of 1834, 1840, 1844 and 1852.",
+  "status": "open",
+  "raised": "B-017",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-017",
+    "effect": "raised at 55",
+    "note": "Each link is capped at 70 without a marriage or burial register (rule 20)."
+   }
+  ],
+  "necronym_risk": "unresolved"
+ },
+ {
+  "id": "H-043",
+  "statement": "The book these 45 strips come from is the Reformed register for Iňačovce kept within the Lúčky parish (Prešov catalogue no. 592/1), not a Catholic register.",
+  "confidence": 70,
+  "basis": "The officiants style themselves preacher or Reformed pastor (prédikátor, ev. ref. lelkész); parents are marked 'ref. v.' and 'h. h.' (Helvetic confession); the entries run from 1825 to 1921, inside the catalogue's 1819 to 1927 (L-019). The owner's name for the folder, 'Reformed Catholic', is a label. Capped at 70: no title page or archive reference is in hand.",
+  "test": "A page header, title page or film number.",
+  "status": "supported",
+  "raised": "B-017",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-017",
+    "effect": "raised at 70, supported",
+    "note": "Sent to the Places agent, who owns the question of which book a record is from."
+   }
+  ]
+ },
+ {
+  "id": "H-044",
+  "statement": "Mária Knyezső, mother of the Mária Kocsis born at Solymos 19 in [1887], belongs to the Reformed Knyezso families of Solymos in folder F-007.",
+  "confidence": 40,
+  "basis": "D-005-43 names the mother Knyezso Mária, of Solymos. Twelve strips here show Knyezso households at Solymos from 1884 to 1921, all Reformed, and Knyezsos stand godparent to Duska children from 1829. Against: the 1887 entry was read as marking her Roman Catholic, not Reformed. That the owner collected these strips is a label and moves nothing.",
+  "test": "A second look at the rite written beside her name in D-005-43; her own baptism, about 1860 to 1870, in the Reformed or the Roman Catholic book.",
+  "status": "open",
+  "raised": "B-017",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-017",
+    "effect": "raised at 40",
+    "note": "Routed to the Demko agent, who owns Ahn 19 and above."
    }
   ],
   "route": "demko"

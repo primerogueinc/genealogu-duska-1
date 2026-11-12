@@ -97,5 +97,16 @@
   "holds": "Fifteen strips taken from parts 3 to 5 of folder F-005 here (DM-D-054 to DM-D-068), read by it before it opened the readings here. It holds the Mária Kocsis of [1887] as DM-H-031 at 58. It was also refused the private repository and had taken nothing from the piles.",
   "found_for_duska_line": "Nothing new for the line. Five differences of reading on Demko and Kocsis strips, each checked here against the image: four accepted (D-005-38 house 28; D-005-45 born 14 or 15 March; D-005-50 is of 1847; D-005-58 and D-005-08 are one child, Anna, of January 1871), and one where the two readings already agreed (the 1891 death note beside D-005-27 belongs to the next row).",
   "sent_to_demko": "The one file of the shared pile, D-006-01, read here before any reading of its own was seen; candidates K-305 to K-307 and hypothesis H-039; a warning not to merge the chart's Mary D..ko (1906 to 1991) with Ahn 9."
+ },
+ {
+  "id": "XR-10",
+  "batch": "B-017",
+  "date": "2026-11-12",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "b2bdf12",
+  "read": "head of main only",
+  "holds": "No commit since the last pass (XR-09).",
+  "found_for_duska_line": "Nothing new.",
+  "sent_to_demko": "Thirteen strips of folder F-007 routed to it: eleven of the twelve Knyezso strips the owner labels 'Nyemcsik' (the twelfth also carries the Bradenville row and stays here), the strip labelled 'Anna Kocsis 1887' (a Jossio child; no Kocsis on it) and the one labelled 'Borbála Kocsis 1825' (a Kocsis mother, doubtful). Hypothesis H-044."
  }
 ]

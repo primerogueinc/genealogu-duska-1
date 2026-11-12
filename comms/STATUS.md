@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-016 (read ledger v16). The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-017 (read ledger v16). The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -13,6 +13,7 @@ Updated 2026-11-12 after batch B-016 (read ledger v16). The convention in use is
 - F-X01: three files copied from the Demko repo under X-012 (1947 certificate, gravestone, 1966 deed).
 
 - F-006 `AAAA Unclassified`, through the Sorter's piles (open): `to-duska/` empty; `to-both/` one file, a compiled Javor family chart, image held (D-006-01). Read at private commit 2e9dd04, unchanged at 9bf2c7a.
+- F-007 `Inacovce - Reformed` (four parts, 45 files, complete): a Reformed register for Solymos, 1825 to 1921. About ten Duska households; two boys named Mihály Duska (189[3], Solymos 44; [1902], 'Bradenville') who are candidates for Ahn 8, neither attached. Twelve Knyezso strips for DEM.
 
 ## Concluded
 

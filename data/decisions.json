@@ -322,5 +322,47 @@
   "date": "2026-11-12",
   "decided": "Read ledger v16 in the same batch. Answered its question under C-18 in the note to the coordinator. Re-checked the private repository at 9bf2c7a: the two piles are unchanged. No entry here needed changing: the ledger's tables now show this board's own figures.",
   "why": "Ledger v16 arrived while B-016 was being written."
+ },
+ {
+  "id": "DEC-55",
+  "date": "2026-11-12",
+  "decided": "The four parts of 'Inacovce - Reformed Catholic' are one folder, F-007, and one batch, B-017. It is closed at 45 files on the owner's words 'final part'.",
+  "why": "The parts arrived within two minutes of each other, before the first was read."
+ },
+ {
+  "id": "DEC-56",
+  "date": "2026-11-12",
+  "decided": "The folder's church is recorded as Reformed. 'Reformed Catholic' is kept only as the owner's wording.",
+  "why": "The officiants' own titles in the entries (prédikátor, ev. ref. lelkész) and the marks 'ref.' and 'h. h.' beside the parents. A label does not decide a register (X-004)."
+ },
+ {
+  "id": "DEC-57",
+  "date": "2026-11-12",
+  "decided": "Every child and every parent couple of this folder is indexed in candidates. Godparents and officiants are named in the abstracts and not indexed one by one.",
+  "why": "Forty-five strips repeat the same thirty or so godparents; the abstracts are searchable. Same practice as DEC-39."
+ },
+ {
+  "id": "DEC-58",
+  "date": "2026-11-12",
+  "decided": "The row for Mihály Duska of 'Bradenville' is entered as a second entry on D-007-08 with reading level low, and raised as H-040 at 30, below the Senné hypothesis.",
+  "why": "It is the strongest new lead for Ahn 8 in the archive and also a cut-off row with a doubtful place and mother. The identification of the place with a town in Pennsylvania is recalled from training and is marked so (X-010). His rite, Reformed, disagrees with the 1929 certificate."
+ },
+ {
+  "id": "DEC-59",
+  "date": "2026-11-12",
+  "decided": "H-030 lowered to 45, H-035 to 25, H-005 to 35.",
+  "why": "Two documented rivals for Michal's birth now exist outside Senné and outside the Roman Catholic church. Rivals for his parentage sum to 70 on this board."
+ },
+ {
+  "id": "DEC-60",
+  "date": "2026-11-12",
+  "decided": "The children born in 1920 and 1921 are shown with full dates and marked not living.",
+  "why": "X-016 item 4: born 100 or more years ago."
+ },
+ {
+  "id": "DEC-61",
+  "date": "2026-11-12",
+  "decided": "Checked the private repository at dcc9468 before this batch: the two piles given to this agent are unchanged. Demko repo unchanged at b2bdf12.",
+  "why": "Rules 18 and 22."
  }
 ]

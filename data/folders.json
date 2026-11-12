@@ -92,5 +92,18 @@
     ],
     "archive_path": "records/F-006_AAAA-Unclassified_sorter-piles/ (manifest only; the image is held)",
     "private_commit_read": "2e9dd04; piles unchanged at 9bf2c7a"
+  },
+  {
+    "id": "F-007",
+    "desktop_path": "Inacovce - Reformed (the owner wrote 'Reformed Catholic')",
+    "described_as": "Given in four parts as 'Inacovce - Reformed Catholic', 45 files. The owner called the fourth part final. Baptism entries from a Reformed (Calvinist) register for Solymos, the Hungarian name of Iňačovce, 1825 to 1921. Whether it sits under 'Duska Baptisms' on his desktop was not said.",
+    "status": "complete",
+    "first_seen": "2026-11-12",
+    "completed": "2026-11-12",
+    "files_received": 45,
+    "batches": [
+      "B-017"
+    ],
+    "archive_path": "records/F-007_Duska-Baptisms_Inacovce-Reformed/"
   }
 ]

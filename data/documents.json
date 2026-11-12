@@ -3821,5 +3821,1817 @@
         "english": "Mary Danko or Demko, 1906 to 1991. The surname has five letters, begins with D and ends in -ko; the two in the middle cannot be told apart at this size. The image is not published because the chart shows living people with their dates of birth. Its file name and SHA-256 are given so that the copy can be checked."
       }
     ]
+  },
+  {
+    "id": "D-007-01",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-086",
+    "file": "Baptism_of_Andras_Duska_1872.png",
+    "sha256": "0a2f03a2937dae72bf3a1cee32db5e52816f9b45609ac9e1fdc108e09ddcea57",
+    "wide": true,
+    "title": "Baptism of András Dusko, Solymos 23, [1872]",
+    "span": "8 and 9 November [1872]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Andras Duska 1872",
+    "family": "FG-38",
+    "route": "duska",
+    "part": 1,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "9",
+        "date": "8 and 9 November [1872]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: András, male, legitimate. Father: János Dusko, Reformed, farmer (gazda). Mother: Anna Kit[z]ko. Residence: Solymos, house 23. Godparents: Mihály Bajovi[ts] [?]; Anna Jossi[o] [?]. Officiant: as above (detto).",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "9 | November 8 9 | András | 1 – 1 – | Dusko János Kit[z]ko Anna ref. v. gazda | Solymos h. sz. 23. | Bajovi[ts] Mihály Jossi[o] Anna | deto.",
+        "english": "Child: András, male, legitimate. Father: János Dusko, Reformed, farmer (gazda). Mother: Anna Kit[z]ko. Residence: Solymos, house 23. Godparents: Mihály Bajovi[ts] [?]; Anna Jossi[o] [?]. Officiant: as above (detto). The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-02",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-087",
+    "file": "Baptism_of_Anna_Duska_1897.png",
+    "sha256": "ce6a4a3f1c3b853ad136d9ac7563bf9b73dcf9af805db015fb0c3519f7f25ba5",
+    "wide": true,
+    "title": "Baptism of Anna Kudrócs, Solymos 11, [1897]",
+    "span": "21 and 28 November [1897]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Duska 1897",
+    "family": "FG-43",
+    "route": "duska",
+    "part": 1,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "5",
+        "date": "21 and 28 November [1897]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Anna, female, legitimate. Father: János Kudrócs, farmer. Mother: Zsuzsanna Duska. Residence: Solymos, house 11. Godparents: György Kenderes; Zsuzsanna Karsnyan [?]. Officiant: István Szakal.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "5 | Nov 21 28 | Anna | 1 1 | Kudrócs János földmíves Duska Zsuzsanna | Solymos 11. | Kenderes György, Karsnyan [?] Zsuzsanna | Szakal István",
+        "english": "Child: Anna, female, legitimate. Father: János Kudrócs, farmer. Mother: Zsuzsanna Duska. Residence: Solymos, house 11. Godparents: György Kenderes; Zsuzsanna Karsnyan [?]. Officiant: István Szakal. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-03",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-088",
+    "file": "Baptism_of_Anna_Duska_1898.png",
+    "sha256": "bbc0f25936fdaee12e781926cf18db8d314f9267974c0be7d601bfb968877315",
+    "wide": true,
+    "title": "Baptism of Anna Ku[...]s [?], Solymos [152?], [1898]",
+    "span": "24 and 27 February [1898]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Duska 1898",
+    "family": "FG-43",
+    "route": "duska",
+    "part": 1,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "3",
+        "date": "24 and 27 February [1898]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Anna, female, legitimate. Father: Mihály Ku[...]s [?], farmer. Mother: Zsuzsánna Duska. Residence: Solymos, house [152?]. Godparents: Mihály Dzurina; Anna Dzurina, farmers. Officiant: István Szakal. The father's surname is not Kudrócs as written the year before; a second Zsuzsanna Duska, or a second reading of one man, cannot be told from this strip.",
+        "reading": "low"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "3 | Febr 24 27 | Anna | 1 1 | Ku[...]s Mihály, Duska Zsuzsánna földmívesek | Solymos 152 [?] | Dzurina Mihály, Dzurina Anna földmívesek | Szakal István",
+        "english": "Child: Anna, female, legitimate. Father: Mihály Ku[...]s [?], farmer. Mother: Zsuzsánna Duska. Residence: Solymos, house [152?]. Godparents: Mihály Dzurina; Anna Dzurina, farmers. Officiant: István Szakal. The father's surname is not Kudrócs as written the year before; a second Zsuzsanna Duska, or a second reading of one man, cannot be told from this strip. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-04",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-089",
+    "file": "Baptism_of_Anna_Duska_1841.png",
+    "sha256": "3a783d649d7f632f78386cbf089c225cb09f5454a7b76cb5779f07a1b1550b07",
+    "wide": true,
+    "title": "Baptism of Anna Duska, Solymos parish, [1841]",
+    "span": "8 September [1841]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Duska 1841",
+    "family": "FG-35",
+    "route": "duska",
+    "part": 1,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "5",
+        "date": "8 September [1841]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Anna, female, legitimate. Father: János Duska. Mother: Anna Hura. Residence: not given. Godparents: Mihály Iván; Anna Pörös. Officiant: István Riskó, pastor.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "5. | 8. 7bris | 8. 7bris | Duska János, Hura Anna | L | Anna | Iván Mihály, Pörös Anna | Riskó István lelkész",
+        "english": "Child: Anna, female, legitimate. Father: János Duska. Mother: Anna Hura. Residence: not given. Godparents: Mihály Iván; Anna Pörös. Officiant: István Riskó, pastor. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-05",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-090",
+    "file": "Baptism_of_Anna_Duska_1871.png",
+    "sha256": "3765d2a1a6c151b26cd35525163835dbef12d94917070b7247f1a8ce8258d622",
+    "wide": true,
+    "title": "Baptism of Anna Dusko, Solymos 33, [1871]",
+    "span": "17 and 19 November [1871]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Duska 1871",
+    "family": "FG-39",
+    "route": "duska",
+    "part": 1,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "4",
+        "date": "17 and 19 November [1871]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Anna, female, legitimate. Father: Mihály Dusko, Reformed. Mother: Ilona Mihalko. Residence: Solymos, house 33. Godparents: Pál Kenderes; Anna Pluchta. Officiant: János Petrás.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "4 | November 17 19 | Anna | – 1 1 – | Dusko Mihály, Mihalko Illona ref. v. | Solymos h. sz. 33 | Kenderes Pál, Pluchta Anna | Petrás János",
+        "english": "Child: Anna, female, legitimate. Father: Mihály Dusko, Reformed. Mother: Ilona Mihalko. Residence: Solymos, house 33. Godparents: Pál Kenderes; Anna Pluchta. Officiant: János Petrás. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-06",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-091",
+    "file": "Baptism_of_Anna_Kocsis_1887.png",
+    "sha256": "41bf5fdd486f3e888b092a8f4483050fa20f32a148a6fd6279215d5b8c91d8ea",
+    "wide": true,
+    "title": "Baptism of Anna Jossio, Solymos 87 [?], [1887]",
+    "span": "19 and 23 March [1887]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Kocsis 1887",
+    "family": null,
+    "route": "demko",
+    "part": 1,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "2",
+        "date": "19 and 23 March [1887]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Anna, female, legitimate. Father: Pál Jossio, farmer. Mother: Ilona Kenderes. Residence: Solymos, house 87 [?]. Godparents: Mihály Knyezso the younger; Anna Estók, unmarried. Officiant: István Szakal. No Kocsis is written on this strip. The owner's label does not fit the entry.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "2. | Márcz 19 23 | Anna | 1 1 | Jossio Pál földmíves, Kenderes Ilona | Solymos 87 [?] | Knyezso Mihály ifj., Estók Anna hajadon | Szakal István",
+        "english": "Child: Anna, female, legitimate. Father: Pál Jossio, farmer. Mother: Ilona Kenderes. Residence: Solymos, house 87 [?]. Godparents: Mihály Knyezso the younger; Anna Estók, unmarried. Officiant: István Szakal. No Kocsis is written on this strip. The owner's label does not fit the entry. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-07",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-092",
+    "file": "Baptism_of_Anna_Nyemcsik_1892.png",
+    "sha256": "1c2ad877de640c5dfd7ca4fb063072fd17fd03f8c8ae1b44e55fcd494877a199",
+    "wide": true,
+    "title": "Baptism of Anna Knyezso, Solymos 47, [1892]",
+    "span": "8 and 11 February [1892]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Nyemcsik 1892",
+    "family": "FG-45",
+    "route": "demko",
+    "part": 1,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "1",
+        "date": "8 and 11 February [1892]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Anna, female, legitimate. Father: György Knyezso. Mother: Anna Kontra. Residence: Solymos, house 47. Godparents: Mihály Kenderes, farmer; Anna Kudrócs. Officiant: István Szakal. The strip shows the page's written column headings. The surname is Knyezso, not Nyemcsik.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "1 | Febr 8 11 | Anna | 1 1 | Knyezso György, Kontra Anna | Solymos 47. | Kenderes Mihály földmíves, Kudrócs Anna | Szakal István",
+        "english": "Child: Anna, female, legitimate. Father: György Knyezso. Mother: Anna Kontra. Residence: Solymos, house 47. Godparents: Mihály Kenderes, farmer; Anna Kudrócs. Officiant: István Szakal. The strip shows the page's written column headings. The surname is Knyezso, not Nyemcsik. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-08",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-093",
+    "file": "Baptism_of_Anna_Nyemcsik_1902.png",
+    "sha256": "2462da2b7cb635f109d2c94211c9a047b4949810b37fbbc0448d4630d3c9a409",
+    "wide": true,
+    "title": "Baptism of Anna Knyezso, Solymos, [1902]; and, on the next row, Mihály Duska, born at 'Bradenville' [?]",
+    "span": "12 and 14 December [1902]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Nyemcsik 1902",
+    "family": "FG-45",
+    "route": "duska",
+    "part": 1,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "6",
+        "date": "12 and 14 December [1902]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Anna, female, legitimate. Father: János Knyezso the younger, farmer. Mother: Anna Verbószk[i] [?]. Residence: Solymos, house [1]0 [?]. Godparents: Mihály Dzvonyik [?]; Anna Knyezso. Officiant: István Szakal.",
+        "reading": "medium"
+      },
+      {
+        "no": "7",
+        "date": "born 8 [October?], baptised 18; entered [1902 or 1903]",
+        "from": "the same page, next row; an entry made from a certificate sent from elsewhere",
+        "abstract": "Child: Mihály Duska. Father: György Duska, Reformed, labourer (munkás). Mother: Mária Vaszilyo [?]. Residence: a place written 'Bradenville' [?], not Solymos. Godparents: János Mielkai [?] and his wife, born Mária Gurnak [?]. Officiant: not the Solymos pastor; a name read as [Vanyko?] Gy. Remark: the entry was made from an extract of a certificate of the birth, with the figure 1903; the rest is cut off at the foot of the strip.",
+        "reading": "low"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "6 | Decz 12 14 | Anna | 1 1 | ifj. Knyezso János földmíves, Verbószk[i] Anna | Solymos [1]0 | Dzvonyik [?] Mihály, Knyezso Anna | Szakal István",
+        "english": "Child: Anna, female, legitimate. Father: János Knyezso the younger, farmer. Mother: Anna Verbószk[i] [?]. Residence: Solymos, house [1]0 [?]. Godparents: Mihály Dzvonyik [?]; Anna Knyezso. Officiant: István Szakal. The year is from the owner's file name."
+      },
+      {
+        "label": "Row 7 on the same strip: Mihály Duska, born away from the village. The bottom of the row is cut off.",
+        "original": "7. | [Okt?] 8 | 18 | Mihály | 1 | 1 | Duska György, Vaszilyo [?] Mária ref. munkás | Bradenville [?] | Mielkai [?] János és neje k. Gurnak [?] Mária | [Vanyko?] Gy. | A születésről szóló [...] az 1903 [...] k. kivonat [...]",
+        "english": "Child: Mihály Duska. Father: György Duska, Reformed, labourer (munkás). Mother: Mária Vaszilyo [?]. Residence: a place written 'Bradenville' [?], not Solymos. Godparents: János Mielkai [?] and his wife, born Mária Gurnak [?]. Officiant: not the Solymos pastor; a name read as [Vanyko?] Gy. Remark: the entry was made from an extract of a certificate of the birth, with the figure 1903; the rest is cut off at the foot of the strip. The owner's file name does not mention this row. If the place is Bradenville in Pennsylvania (an identification recalled, not sourced), the child was born in the United States and entered in the home parish's book afterwards."
+      }
+    ]
+  },
+  {
+    "id": "D-007-09",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-094",
+    "file": "Baptism_of_Anna_Nyemcsik_1910.png",
+    "sha256": "93f50935569a94931c798702e7a61b88d6e8ddb564d4454a04f00f1e1fad850c",
+    "wide": true,
+    "title": "Baptism of Anna Knyezso, Solymos 6[?], [1910]",
+    "span": "30 October and 1 November [1910]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Nyemcsik 1910",
+    "family": "FG-45",
+    "route": "demko",
+    "part": 1,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "7",
+        "date": "30 October and 1 November [1910]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Anna, female, legitimate. Father: György Knyezso. Mother: Anna Dzurina, farmers. Residence: Solymos, house 6[?]. Godparents: Mihály Perecsik; Anna Knyezso, farmers. Officiant: István Szakal.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "7 | Okt 30 Nov 1 | Anna | 1 1 | Knyezso György, Dzurina Anna földmívesek | Solymos 6[.] | Perecsik Mihály, Knyezso Anna földmívesek | Szakal István",
+        "english": "Child: Anna, female, legitimate. Father: György Knyezso. Mother: Anna Dzurina, farmers. Residence: Solymos, house 6[?]. Godparents: Mihály Perecsik; Anna Knyezso, farmers. Officiant: István Szakal. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-10",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-095",
+    "file": "Baptism_of_Anna_Nyemcsyk_1921.png",
+    "sha256": "6324b18d68fea55dc47ae169968288dd280dcebceb3a993f0a3411eb83809789",
+    "wide": true,
+    "title": "Baptism of Anna Knyezső, Solymos, 1921",
+    "span": "24 and 28 January 1921",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Nyemcsyk 1921",
+    "family": "FG-45",
+    "route": "demko",
+    "part": 1,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "1",
+        "date": "24 and 28 January 1921",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Anna, female, legitimate. Father: János Knyezső, [bogáti?]. Mother: Mária Estók, Reformed, farmers. Residence: Solymos. Godparents: György Onderko the younger; the wife of György Kudrócs, born Zsuzsanna Gergely, Reformed farmers. Officiant: [István Kányoci?], pastor. Written column headings on the strip. The year 1921 is in the entry.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "1921 | 1 | Jan 24 28 | Anna | – 1 1 | Knyezső János bogáti [?], Estók Mária ref. földmíve-sek | Solymos | ifj. Onderko György, Kudrócs Györgyné sz. Gergely Zsuzsanna ref. földmívesek | [Kányoci?] István ... lelkész",
+        "english": "Child: Anna, female, legitimate. Father: János Knyezső, [bogáti?]. Mother: Mária Estók, Reformed, farmers. Residence: Solymos. Godparents: György Onderko the younger; the wife of György Kudrócs, born Zsuzsanna Gergely, Reformed farmers. Officiant: [István Kányoci?], pastor. Written column headings on the strip. The year 1921 is in the entry."
+      }
+    ]
+  },
+  {
+    "id": "D-007-11",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-096",
+    "file": "Baptism_of_Annna_Nyemcsik_1884.png",
+    "sha256": "25af153848f9270700d945ae57e0641843f4f998ff5981d8516ecbcf8c465609",
+    "wide": true,
+    "title": "Baptism of Anna Knyezso, Solymos 59, [1884]",
+    "span": "28 and 29 May [1884]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Annna Nyemcsik 1884",
+    "family": "FG-45",
+    "route": "demko",
+    "part": 1,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "3",
+        "date": "28 and 29 May [1884]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Anna, female, legitimate. Father: Mihály Knyezso, farmer (gazda). Mother: Erzsébet Sárik. Residence: Solymos, house 59. Godparents: Mihály Kudrócs; Zsuzsanna Kudrócs. Officiant: István Szakal.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "3. | Maj 28 29 | Anna | 1 1 | Knyezso Mihály gazda, Sárik Erzsébet | Solymos 59 | Kudrócs Mihály, Kudrócs Zsuzsanna | Szakal István",
+        "english": "Child: Anna, female, legitimate. Father: Mihály Knyezso, farmer (gazda). Mother: Erzsébet Sárik. Residence: Solymos, house 59. Godparents: Mihály Kudrócs; Zsuzsanna Kudrócs. Officiant: István Szakal. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-12",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-097",
+    "file": "Baptism_of_Borbala_Duska_1843.png",
+    "sha256": "d12b7d436d0cedaef34e678e7b46845d27af5b359cdcd82823d62c8f382b0df1",
+    "wide": true,
+    "title": "Baptism of Borbála Duska, Solymos parish, [1843]",
+    "span": "20 May [1843]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Borbala Duska 1843",
+    "family": "FG-34",
+    "route": "duska",
+    "part": 2,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "2",
+        "date": "20 May [1843]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Borbála, female, legitimate. Father: András Duska. Mother: Borbála Plyuksa [Pluchta]. Residence: not given. Godparents: Páll Repej; Erzsébet Kósorj [?]. Officiant: István Riskó.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "2. | 20 Maj | 20 Maj | Duska András, Plyuksa Borbála | L | Borbála | Repej Páll, Kósorj [?] Erzsébeth | T. Riskó István",
+        "english": "Child: Borbála, female, legitimate. Father: András Duska. Mother: Borbála Plyuksa [Pluchta]. Residence: not given. Godparents: Páll Repej; Erzsébet Kósorj [?]. Officiant: István Riskó. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-13",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-098",
+    "file": "Baptism_of_Borbala_Kocsis_1825.png",
+    "sha256": "4c23715087ff69d1f036b71b88f4a785256c4ae1965ddeace697980ed8f6c6d7",
+    "wide": true,
+    "title": "Baptism of Borbála Kudrócs [?], Solymos parish, [1825]",
+    "span": "5 April [1825]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Borbala Kocsis 1825",
+    "family": null,
+    "route": "demko",
+    "part": 2,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "4",
+        "date": "5 April [1825]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Borbála, female, legitimate. Father: György Kudrócs the elder [?]. Mother: Borbála Kótsis [?]. Residence: not given. Godparents: János Hijják [?]; Anna Dimán [?]. Officiant: Mihály Rajkovits [?], pastor. Very faint. Kocsis, if that is the word, is the mother's surname.",
+        "reading": "low"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "4. | 5 April | 5 April | Ör. Kudrócs [?] György, Kótsis [?] Borbála | L. | Borbála | Hijják [?] János, Dimán [?] Anna | Rajkovits Mihály lelk.",
+        "english": "Child: Borbála, female, legitimate. Father: György Kudrócs the elder [?]. Mother: Borbála Kótsis [?]. Residence: not given. Godparents: János Hijják [?]; Anna Dimán [?]. Officiant: Mihály Rajkovits [?], pastor. Very faint. Kocsis, if that is the word, is the mother's surname. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-14",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-099",
+    "file": "Baptism_of_Gyorgy_Duska_1847.png",
+    "sha256": "903bed6d24d73c3159d4787727eb0ba744d98bee86afdce68c20d23b20428fde",
+    "wide": true,
+    "title": "Baptism of György Duska, Solymos, 1847",
+    "span": "11 April 1847",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Gyorgy Duska 1847",
+    "family": "FG-36",
+    "route": "duska",
+    "part": 2,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "1",
+        "date": "11 April 1847",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: György, male, legitimate. Father: György Duska. Mother: [N...] Zsuzsanna. Residence: Solymos. Godparents: Mihály Dud[...] [?]; Borbála [...]. Officiant: Danielo[vics?] [?]. Almost washed out. The heading 1847 stands just above the entry.",
+        "reading": "low"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "1847 | 1 | 11 Apr. | Sol. | Duska György, [N...] Zsuzsanna | F. | György | Dud[...] Mihály, [...] Borbála | Danielo[...]",
+        "english": "Child: György, male, legitimate. Father: György Duska. Mother: [N...] Zsuzsanna. Residence: Solymos. Godparents: Mihály Dud[...] [?]; Borbála [...]. Officiant: Danielo[vics?] [?]. Almost washed out. The heading 1847 stands just above the entry."
+      }
+    ]
+  },
+  {
+    "id": "D-007-15",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-100",
+    "file": "Baptism_of_Gyorgy_Duska_1852.png",
+    "sha256": "09ef01e6cf8138d0e81a6c515ffd2beaf96e3469fb3b73c0949fa576328cfd8e",
+    "wide": true,
+    "title": "Baptism of György Dusko, Solymos 44, [1852]",
+    "span": "10 and 11 April [1852]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Gyorgy Duska 1852",
+    "family": "FG-37",
+    "route": "duska",
+    "part": 2,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "1",
+        "date": "10 and 11 April [1852]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: György, male, legitimate. Father: András Dusko, commoner (nemtelen). Mother: Erzsébet Ková[cs] [?]. Residence: Solymos, house 44. Godparents: János Kosztursik [?]; Anna Dijak, commoners. Officiant: György Diószeghy, pastor.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "1, | 10dik Április | 11dik Április | György | fiu | törvényes | Dusko András, Ková[cs] Erzsébeth nemtelen | Solymos No 44. | Kosztursik János, Dijak Anna nemtelenek | Diószeghy György lelkész",
+        "english": "Child: György, male, legitimate. Father: András Dusko, commoner (nemtelen). Mother: Erzsébet Ková[cs] [?]. Residence: Solymos, house 44. Godparents: János Kosztursik [?]; Anna Dijak, commoners. Officiant: György Diószeghy, pastor. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-16",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-101",
+    "file": "Baptism_of_Gyorgy_Duska_1857.png",
+    "sha256": "98a2ce4f67c494945ef1cf5aecd87e4afa4c70ce7a6f3070f8fcabf5b49de66c",
+    "wide": true,
+    "title": "Baptism of György Dusko, Solymos 33, 1857",
+    "span": "17 and 18 July 1857",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Gyorgy Duska 1857",
+    "family": "FG-35",
+    "route": "duska",
+    "part": 2,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "1",
+        "date": "17 and 18 July 1857",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: György, male, legitimate. Father: János Dusko, cottar (zsellér). Mother: Anna Hura. Residence: Solymos, house 33. Godparents: Mihály Ivanó; Anna Mudri [?]. Officiant: not read. The heading '1857-dik évben' is on the strip.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "1857dik évben | 1 | Julius 17 | 18 | György | fiu | do | Dusko János, Hura Anna Zsellér | Solymos 33. | Ivanó Mihály, Mudri [?] Anna",
+        "english": "Child: György, male, legitimate. Father: János Dusko, cottar (zsellér). Mother: Anna Hura. Residence: Solymos, house 33. Godparents: Mihály Ivanó; Anna Mudri [?]. Officiant: not read. The heading '1857-dik évben' is on the strip."
+      }
+    ]
+  },
+  {
+    "id": "D-007-17",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-102",
+    "file": "Baptism_of_Gyorgy_Duska_1870.png",
+    "sha256": "650ab01c85e69811cc887b4f59494bb5bc919c51253dd129b411a6463c9f259a",
+    "wide": true,
+    "title": "Baptism of György Dusko, Solymos 24, [1870]",
+    "span": "17 and 18 July [1870]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Gyorgy Duska 1870",
+    "family": "FG-38",
+    "route": "duska",
+    "part": 2,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "2",
+        "date": "17 and 18 July [1870]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: György, male, legitimate. Father: János Dusko, Reformed. Mother: Anna Kitko. Residence: Solymos, house 24. Godparents: János Hressan; Borbála Hajdutko. Officiant: János Petrás.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "2 | Julius 17 18 | György | 1 – 1 – | Dusko János, Kitko Anna ref. v. | Solymos h. sz. 24 | Hressan János, Hajdutko Borbála | Petrás Ján.",
+        "english": "Child: György, male, legitimate. Father: János Dusko, Reformed. Mother: Anna Kitko. Residence: Solymos, house 24. Godparents: János Hressan; Borbála Hajdutko. Officiant: János Petrás. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-18",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-103",
+    "file": "Baptism_of_Gyorgy_Duska_1876.png",
+    "sha256": "e93750529e4bf2f32586b9bb35f6ef3a6fee28995e94a91088f878b6d191ecf8",
+    "wide": true,
+    "title": "Baptism of György Dusko, Solymos 34, 1876",
+    "span": "11 and 12 April 1876",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Gyorgy Duska 1876",
+    "family": "FG-38",
+    "route": "duska",
+    "part": 2,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "1",
+        "date": "11 and 12 April 1876",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: György, male, legitimate. Father: János Dusko, Reformed, farmer (gazda). Mother: Anna Kitz[ko]. Residence: Solymos, house 34. Godparents: János Hressan; Borbála Bajovits. Officiant: János Petrás. A short note in the remarks column is not legible; it may record a death. The heading '1876-dik év' is on the strip. A second György to this couple: the first was born in [1870].",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "1876dik év | 1 | Április 11 12 | György | 1 – 1 – | Dusko János Kitz[ko] Anna ref. v. gazda | Solymos h. sz. 34. | Hressan János Bajovits Borbála | Petrás János | [note not read]",
+        "english": "Child: György, male, legitimate. Father: János Dusko, Reformed, farmer (gazda). Mother: Anna Kitz[ko]. Residence: Solymos, house 34. Godparents: János Hressan; Borbála Bajovits. Officiant: János Petrás. A short note in the remarks column is not legible; it may record a death. The heading '1876-dik év' is on the strip. A second György to this couple: the first was born in [1870]."
+      }
+    ]
+  },
+  {
+    "id": "D-007-19",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-104",
+    "file": "Baptism_of_Gyorgy_Duska_1882.png",
+    "sha256": "5fca841ab504d99bd3251d43248f7d1c84402e5c74c6cc735b49f5f9aa47b8a7",
+    "wide": true,
+    "title": "Baptism of György Duska the younger (ifj.), Solymos 33, [1882]",
+    "span": "10 and 11 January [1882]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Gyorgy Duska 1882",
+    "family": "FG-39",
+    "route": "duska",
+    "part": 2,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "6",
+        "date": "10 and 11 January [1882]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: György, male, legitimate. Father: Mihály Duska the younger (ifj.). Mother: Ilona [surname not written again; 'Szabó Julianna' is struck out]. Residence: Solymos, house 33. Godparents: Pál Kenderes; the wife of Mihály Knyezso. Officiant: István Szakal, Reformed pastor. The clerk first wrote another woman's name as mother, struck it out and wrote Ilona.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "6. | Január 10 11 | György | 1 1 | ifj. Duska Mihály, [Szabó Julianna – struck out] Ilona | Solymos h. sz. 33 | Kenderes Pál, Knyezso Mihályné | Szakal István ref. lelkész",
+        "english": "Child: György, male, legitimate. Father: Mihály Duska the younger (ifj.). Mother: Ilona [surname not written again; 'Szabó Julianna' is struck out]. Residence: Solymos, house 33. Godparents: Pál Kenderes; the wife of Mihály Knyezso. Officiant: István Szakal, Reformed pastor. The clerk first wrote another woman's name as mother, struck it out and wrote Ilona. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-20",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-105",
+    "file": "Baptism_of_Gyorgy_Duska_1883.png",
+    "sha256": "6437232cb01a060bfd5f1f95a0fc36ac70cc3d210a9215efde8a743b15f2720c",
+    "wide": true,
+    "title": "Baptism of György Duska, Solymos 26 [?], 1883",
+    "span": "1 and 2 February 1883",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Gyorgy Duska 1883",
+    "family": "FG-40",
+    "route": "duska",
+    "part": 2,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "1",
+        "date": "1 and 2 February 1883",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: György, male, legitimate. Father: György Duska, farmer (gazda). Mother: Zsuzsanna Valyocsik, both of the Helvetic confession. Residence: Solymos, house 26 [?]. Godparents: János Perecsik the younger, farmer; Anna Knyezso, unmarried. Officiant: István Szakal, Reformed pastor. Written column headings and the heading '1883-ik év' are on the strip.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "1883ik év | 1. | febr. 1 2 | György | 1 1 | Duska György gazda, Valyocsik Zsuzsanna h. h. | Solymos 26 [?] | ifj. Perecsik János földmíves, Knyezso Anna leány | Szakal István ev. ref. lelkész",
+        "english": "Child: György, male, legitimate. Father: György Duska, farmer (gazda). Mother: Zsuzsanna Valyocsik, both of the Helvetic confession. Residence: Solymos, house 26 [?]. Godparents: János Perecsik the younger, farmer; Anna Knyezso, unmarried. Officiant: István Szakal, Reformed pastor. Written column headings and the heading '1883-ik év' are on the strip."
+      }
+    ]
+  },
+  {
+    "id": "D-007-21",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-106",
+    "file": "Baptism_of_Gyorgy_Nyemcsik_1890.png",
+    "sha256": "692e6d57594f05064cc9198f396eaf29e11a36cf705bf3e30dbaf25297f57684",
+    "wide": true,
+    "title": "Baptism of [György] Knyezso, Solymos 5[6], 1890",
+    "span": "[5 and 9] March 1890",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Gyorgy Nyemcsik 1890",
+    "family": "FG-45",
+    "route": "demko",
+    "part": 2,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "1",
+        "date": "[5 and 9] March 1890",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: [György], male, legitimate. Father: György Knyezso, farmer. Mother: Anna Tomócsik. Residence: Solymos, house 5[6]. Godparents: György Knyezso; Anna Kontra. Officiant: István Szakal. The heading '1890-ik év' is on the strip; the child's name and the days are cut off here and are taken from the next strip of the same page.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "1890ik év | [1] | Márcz [5 9] | [György] | 1 1 | Knyezso György földmíves, Tomócsik Anna | Solymos 5[6] | Knyezso György, Kontra Anna | Szakal István",
+        "english": "Child: [György], male, legitimate. Father: György Knyezso, farmer. Mother: Anna Tomócsik. Residence: Solymos, house 5[6]. Godparents: György Knyezso; Anna Kontra. Officiant: István Szakal. The heading '1890-ik év' is on the strip; the child's name and the days are cut off here and are taken from the next strip of the same page."
+      }
+    ]
+  },
+  {
+    "id": "D-007-22",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-107",
+    "file": "Baptism_of_Gyorgy_Nyemcsik_1894.png",
+    "sha256": "11cd6f6334d56c66cfdd718b4bb771ce9fd656296eca83e1a0e60be59117c30a",
+    "wide": true,
+    "title": "Baptism of György Knyezso, Solymos 46 [?], [1894]",
+    "span": "11 and 18 November [1894]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Gyorgy Nyemcsik 1894",
+    "family": "FG-45",
+    "route": "demko",
+    "part": 2,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "13",
+        "date": "11 and 18 November [1894]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: György, male, legitimate. Father: György Knyezso, farmer. Mother: Anna Kontra. Residence: Solymos, house 46 [?]. Godparents: Mihály [Jadlóczki?]; the wife of György Knyezso, born Anna Tomócsik. Officiant: István Szakal. Two men named György Knyezso: the godmother here is the wife of the other.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "13 | Nov 11 18 | György | 1 1 | Knyezso György földmíves, Kontra Anna | Solymos 46 [?] | [Jadlóczki?] Mihály, Knyezso Györgyné sz. Tomócsik Anna | Szakal István",
+        "english": "Child: György, male, legitimate. Father: György Knyezso, farmer. Mother: Anna Kontra. Residence: Solymos, house 46 [?]. Godparents: Mihály [Jadlóczki?]; the wife of György Knyezso, born Anna Tomócsik. Officiant: István Szakal. Two men named György Knyezso: the godmother here is the wife of the other. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-23",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-108",
+    "file": "Baptism_of_Janos_Duska_1834.png",
+    "sha256": "57b103f74b68333c36c46ddf43aca69c310f27e252387b72dcc7997823f55954",
+    "wide": true,
+    "title": "Baptism of János Dusko, Solymos parish, [1834]",
+    "span": "25 and 28 May [1834]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Janos Duska 1834",
+    "family": "FG-34",
+    "route": "duska",
+    "part": 3,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "11",
+        "date": "25 and 28 May [1834]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: János, male, legitimate. Father: András Dusko. Mother: Borbála Plyuksa [Pluchta]. Residence: not given. Godparents: Pál Repej; Bor[bála] Kósorj [?]; the wife of Mihály Knyezso. Officiant: István Riskó.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "11, | 25. Maj | 28. Maj | Dusko András, Plyuksa Borbála | F. | János | Repej Pál, Kósorj Bor., Knyezso Mihályné | T. Risko István",
+        "english": "Child: János, male, legitimate. Father: András Dusko. Mother: Borbála Plyuksa [Pluchta]. Residence: not given. Godparents: Pál Repej; Bor[bála] Kósorj [?]; the wife of Mihály Knyezso. Officiant: István Riskó. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-24",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-109",
+    "file": "Baptism_of_Janos_Duska_1844.png",
+    "sha256": "5c68e7298e45a53454f9a6cea569660dcf311c1e871a56c08575b2f63a043185",
+    "wide": true,
+    "title": "Baptism of János Duska, Solymos parish, [1844]",
+    "span": "8 June [1844]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Janos Duska 1844",
+    "family": "FG-35",
+    "route": "duska",
+    "part": 3,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "9",
+        "date": "8 June [1844]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: János, male, legitimate. Father: János Duska. Mother: Anna Hura. Residence: not given. Godparents: Mihály Iván; Anna Pörös. Officiant: István Riskó.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "9. | 8 Junij | Detto | Duska János, Hura Anna | F. | János | Iván Mihály, Pörös Anna | Riskó István Préd.",
+        "english": "Child: János, male, legitimate. Father: János Duska. Mother: Anna Hura. Residence: not given. Godparents: Mihály Iván; Anna Pörös. Officiant: István Riskó. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-25",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-110",
+    "file": "Baptism_of_Janos_Duska_1852.png",
+    "sha256": "655bf591cfe77dab0c91e0f19d2a7929d793f7b9972204ae5ca3668cb8d32950",
+    "wide": true,
+    "title": "Baptism of János Dusko, Solymos 33, [1852]",
+    "span": "23 and 24 August [1852]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Janos Duska 1852",
+    "family": "FG-35",
+    "route": "duska",
+    "part": 3,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "5",
+        "date": "23 and 24 August [1852]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: János, male, legitimate. Father: János Dusko, commoner. Mother: Anna Hura, Reformed. Residence: Solymos, house 33. Godparents: Mihály Knezso; Susánna Jusai [?]; Mihály Ivanó, [village officer]. Officiant: as above. A second János to this couple: the first was baptised in [1844].",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "5 | 23 Aug | 24 Aug | János | fiu | törvényes | Dusko János, Hura Anna ref. nemtelenek | Solymos 33. szám | Knezso Mihály, Jusai [?] Susánna, Ivanó Mihály kisb[író?] | do",
+        "english": "Child: János, male, legitimate. Father: János Dusko, commoner. Mother: Anna Hura, Reformed. Residence: Solymos, house 33. Godparents: Mihály Knezso; Susánna Jusai [?]; Mihály Ivanó, [village officer]. Officiant: as above. A second János to this couple: the first was baptised in [1844]. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-26",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-111",
+    "file": "Baptism_of_Janos_Duska_1893.png",
+    "sha256": "b92db6746898cf5be52933a6564f031125d871203b0c100dd8ed2d1011c7168b",
+    "wide": true,
+    "title": "Baptism of János Duska, Solymos 44, [1893]",
+    "span": "13 and 15 [month cut off] [1893]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Janos Duska 1893",
+    "family": "FG-43",
+    "route": "duska",
+    "part": 3,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "6",
+        "date": "13 and 15 [month cut off] [1893]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: János, male, illegitimate, legitimised in 1896. Father: not named. Mother: Zsuzsanna Duska. Residence: Solymos, house 44. Godparents: Pál Kenderes; Anna Perecs, farmers. Officiant: István Szakal. Remark: on 4 May 1896 he was legitimised by János Kudrócs through marriage to the mother.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "6 | 13 15. | János | 1 . 1 | Duska Zsuzsanna | Solymos 44 | Kenderes Pál, Perecs Anna földmívesek | Szakal István | 1896 máj. 4-én Kudrócs János által közös házasság által törvényesíttetett",
+        "english": "Child: János, male, illegitimate, legitimised in 1896. Father: not named. Mother: Zsuzsanna Duska. Residence: Solymos, house 44. Godparents: Pál Kenderes; Anna Perecs, farmers. Officiant: István Szakal. Remark: on 4 May 1896 he was legitimised by János Kudrócs through marriage to the mother. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-27",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-112",
+    "file": "Baptism_of_Janos_Duska_1920.png",
+    "sha256": "12a6b1ee6572bfaed7cf689ea99b31e174ad83d2e2d0c0a953c3e452075d2974",
+    "wide": true,
+    "title": "Baptism of János Duska, Solymos, [1920]",
+    "span": "15 and 18 April [1920]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Janos Duska 1920",
+    "family": "FG-43",
+    "route": "duska",
+    "part": 3,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "3",
+        "date": "15 and 18 April [1920]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: János, male, illegitimate. Father: not named. Mother: Zsuzsanna Duska, farm woman. Residence: Solymos. Godparents: Mihály Perecsik; Anna Csikar [?], farmers. Officiant: a Greek Catholic pastor [name not read]. A remark begins 'A keresztelő pap' (the baptising priest) and is cut off.",
+        "reading": "low"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "3 | Ápr 15 18 | János | 1 [törvénytelen] | Duska Zsuzsanna földmívesnő | Solymos | Perecsik Mihály, Csikar [?] Anna földmívesek | [...] g. kat. lelkész | A keresztelő pap [...]",
+        "english": "Child: János, male, illegitimate. Father: not named. Mother: Zsuzsanna Duska, farm woman. Residence: Solymos. Godparents: Mihály Perecsik; Anna Csikar [?], farmers. Officiant: a Greek Catholic pastor [name not read]. A remark begins 'A keresztelő pap' (the baptising priest) and is cut off. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-28",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-113",
+    "file": "Baptism_of_Loursemis_Duska_1888.png",
+    "sha256": "d63d97386f312e08d861464b0eba18de97706b7d06115fd5241649ffc7da096b",
+    "wide": true,
+    "title": "Baptism of Zsuzsanna Duska, Solymos 37 [?], [1888]",
+    "span": "21 and 22 April [1888]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Loursemis Duska 1888",
+    "family": "FG-40",
+    "route": "duska",
+    "part": 3,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "3",
+        "date": "21 and 22 April [1888]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Zsuzsanna, female, legitimate. Father: György Duska, farmer. Mother: Zsuzsanna Valyocsik. Residence: Solymos, house 37 [?]. Godparents: János Perecs; Zsuzsanna Knyezso, farmers. Officiant: István Szakal. The owner's label reads the child's name as 'Loursemis'. It is Zsuzsanna, in the clerk's looped Zs.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "3 | Ápr 21 22 | Zsuzsanna | 1 1 | Duska György földmíves, Valyocsik Zsuzsanna | Solymos 37 [?] | Perecs János, Knyezso Zsuzsanna földmívesek | Szakal István",
+        "english": "Child: Zsuzsanna, female, legitimate. Father: György Duska, farmer. Mother: Zsuzsanna Valyocsik. Residence: Solymos, house 37 [?]. Godparents: János Perecs; Zsuzsanna Knyezso, farmers. Officiant: István Szakal. The owner's label reads the child's name as 'Loursemis'. It is Zsuzsanna, in the clerk's looped Zs. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-29",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-114",
+    "file": "Baptism_of_Maria_Duska_1903.png",
+    "sha256": "762bd47821663c2957aad544c71fd8c1b9671b31cee33b374488db44c396a721",
+    "wide": true,
+    "title": "Baptism of Mária [Marczincsák] Elecsko [?], Solymos, [1903]",
+    "span": "25 and 29 March [1903]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Maria Duska 1903",
+    "family": "FG-44",
+    "route": "duska",
+    "part": 3,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "3",
+        "date": "25 and 29 March [1903]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Mária, female, legitimate. Father: Mihály Elecsko [?]. Mother: Anna Duska, farmers. Residence: Solymos. Godparents: Mihály Knyezso; Anna Kenderes. Officiant: István Szakal. Duska is the mother's surname.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "3 | Márcz 25 29 | Mária | 1 1 | Elecsko [?] Mihály, Dus-ka Anna földmíves | Solymos | Knyezso Mihály, Kenderes Anna | Szakal István",
+        "english": "Child: Mária, female, legitimate. Father: Mihály Elecsko [?]. Mother: Anna Duska, farmers. Residence: Solymos. Godparents: Mihály Knyezso; Anna Kenderes. Officiant: István Szakal. Duska is the mother's surname. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-30",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-115",
+    "file": "Baptism_of_Michaly_Duska_1867.png",
+    "sha256": "67cc4abac176d45d7f7f351ec04b3e6deb03dd4878be77a3dc1213e6ec99d21d",
+    "wide": true,
+    "title": "Baptism of Mihály Dusko, Solymos 24, [1867]",
+    "span": "3 October [1867]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Michaly Duska 1867",
+    "family": "FG-38",
+    "route": "duska",
+    "part": 3,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "3",
+        "date": "3 October [1867]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Mihály, male, legitimate. Father: János Dusko, Reformed, farmer (gazda). Mother: Anna Kitko. Residence: Solymos, house 24. Godparents: János Hressan; Borbála Hajdutko. Officiant: János Petrás.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "3 | Okt. 3 | 3 | Mihály | 1 – 1 – | Dusko János, Kitko Anna ref. v. gazda | Solymos h. sz. 24. | Hressan János, Hajdutko Borbála | Petrás János",
+        "english": "Child: Mihály, male, legitimate. Father: János Dusko, Reformed, farmer (gazda). Mother: Anna Kitko. Residence: Solymos, house 24. Godparents: János Hressan; Borbála Hajdutko. Officiant: János Petrás. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-31",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-116",
+    "file": "Baptism_of_Mihaily_Nyemcsik_1890.png",
+    "sha256": "ba6f380721299dcd9fcc59e0f1aebb19f5b84c8cb165a02c4f64b61187c69953",
+    "wide": true,
+    "title": "Baptism of Mihály Knyezso, Solymos 82, 1890",
+    "span": "9 and 11 March 1890",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Mihaily Nyemcsik 1890",
+    "family": "FG-45",
+    "route": "demko",
+    "part": 3,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "2",
+        "date": "9 and 11 March 1890",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Mihály, male, legitimate. Father: Mihály Knyezso, farmer. Mother: Anna Onderko. Residence: Solymos, house 82. Godparents: János Drotar; the wife of Pál Jossio, born Anna Kenderes. Officiant: István Szakal. Row 1 of the same page, above: György, born 5 March, son of György Knyezso and Anna Tomócsik.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "2 | Márcz 9 11 | Mihály | 1 1 | Knyezso Mihály földmíves, Onderko Anna | Solymos 82 | Drotar János, Jossio Pálné sz. Kenderes Anna | Szakal István",
+        "english": "Child: Mihály, male, legitimate. Father: Mihály Knyezso, farmer. Mother: Anna Onderko. Residence: Solymos, house 82. Godparents: János Drotar; the wife of Pál Jossio, born Anna Kenderes. Officiant: István Szakal. Row 1 of the same page, above: György, born 5 March, son of György Knyezso and Anna Tomócsik."
+      }
+    ]
+  },
+  {
+    "id": "D-007-32",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-117",
+    "file": "Baptism_of_Mihal_Nyemcsik_1904.png",
+    "sha256": "a4c247074e69c460d85d030e8129970d10640cb0a557207b50570588e44f51b3",
+    "wide": true,
+    "title": "Baptism of Mihály Knyezso Estók, Solymos 99, [1904]",
+    "span": "1 and 4 September [1904]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Mihal Nyemcsik 1904",
+    "family": "FG-45",
+    "route": "demko",
+    "part": 3,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "7",
+        "date": "1 and 4 September [1904]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Mihály, male, legitimate. Father: Mihály Knyezso Estók. Mother: Zsuzsanna Dzurina, farmers. Residence: Solymos, house 99. Godparents: Pál Onderko; the wife of János Dzvonyik [?], born Anna Jossio. Officiant: István Szakal.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "7 | Szept 1 4 | Mihál | 1 1 | Knyezso Estók Mihál, Dzurina Zsuzsanna földm. | Solymos 99 | Onderko Pál, Dzvonyik [?] Jánosné sz. Jossio Anna | Szakal István",
+        "english": "Child: Mihály, male, legitimate. Father: Mihály Knyezso Estók. Mother: Zsuzsanna Dzurina, farmers. Residence: Solymos, house 99. Godparents: Pál Onderko; the wife of János Dzvonyik [?], born Anna Jossio. Officiant: István Szakal. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-33",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-118",
+    "file": "Baptism_of_Mihaly_Duska_1904.png",
+    "sha256": "2f3ef44b3f11861d3a2c7e3a82c7cb376f4b6d89046f386b95ddc41d18a30335",
+    "wide": true,
+    "title": "Baptism of Mihály [Marczincsák] Elecsko [?], Solymos, 1904",
+    "span": "23 and 24 January 1904",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Mihaly Duska 1904",
+    "family": "FG-44",
+    "route": "duska",
+    "part": 3,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "1",
+        "date": "23 and 24 January 1904",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Mihály, male, legitimate. Father: Mihály Marczincsák Elecsk[o] [?]. Mother: Anna Duska. Residence: Solymos. Godparents: Pál Dzurina [?]; Anna Perecsik, farmers. Officiant: [János Kalniczky?]; the name of István Szakal is struck out. The clerk first wrote 'Mária' as the child's name and struck it out. Duska is the mother's surname. The heading '1904-ik év' is on the strip.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "1904ik év | 1 | Jan 23 24 | Mihály [Mária – struck out] | 1 1 | Marczincsák Elecsk[o] [?] Mi-hály, Duska Anna | Solymos | Dzurina [?] Pál, Perecsik Anna földmívesek | [Kalniczky?] János [Szakal István – struck out]",
+        "english": "Child: Mihály, male, legitimate. Father: Mihály Marczincsák Elecsk[o] [?]. Mother: Anna Duska. Residence: Solymos. Godparents: Pál Dzurina [?]; Anna Perecsik, farmers. Officiant: [János Kalniczky?]; the name of István Szakal is struck out. The clerk first wrote 'Mária' as the child's name and struck it out. Duska is the mother's surname. The heading '1904-ik év' is on the strip."
+      }
+    ]
+  },
+  {
+    "id": "D-007-34",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-119",
+    "file": "Baptism_of_Mihaly_Duska_1840.png",
+    "sha256": "98df3014810e60fc03efec91cbaddfd297ce2fe68336b20284f0d155d9dc92eb",
+    "wide": true,
+    "title": "Baptism of Mihály Duska, Solymos parish, [1840]",
+    "span": "25 and 26 July [1840]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Mihaly Duska 1840",
+    "family": "FG-34",
+    "route": "duska",
+    "part": 3,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "2",
+        "date": "25 and 26 July [1840]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Mihály, male, legitimate. Father: András Duska. Mother: Borbála Plyuksa [Pluchta]. Residence: not given. Godparents: Márton Kudrócs; Erzsébet Kósorj [?]. Officiant: István Riskó.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "2, | 25. Julij | 26. Julij | Duska András, Plyuksa Borbála | F. | Mihály | Kudrócs Márton, Kósorj Erzsébeth | Riskó István Préd.",
+        "english": "Child: Mihály, male, legitimate. Father: András Duska. Mother: Borbála Plyuksa [Pluchta]. Residence: not given. Godparents: Márton Kudrócs; Erzsébet Kósorj [?]. Officiant: István Riskó. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-35",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-120",
+    "file": "Baptism_of_Mihaly_Duska_1873.png",
+    "sha256": "b2de66e093251acb672e6fe114ad2a2743eebfcf55318ea1903733c391dc7ea0",
+    "wide": true,
+    "title": "Baptism of Mihály Dusko, Solymos 33, [1873]",
+    "span": "24 September [1873]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Mihaly Duska 1873",
+    "family": "FG-39",
+    "route": "duska",
+    "part": 3,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "6",
+        "date": "24 September [1873]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Mihály, male, legitimate. Father: Mihály Dusko, farmer (gazda). Mother: Ilona [surname read as Zabavsk.. or Babarik?; Mihalko in 1871]. Residence: Solymos, house 33. Godparents: [Pál Kenderes?]; Anna Knyezso. Officiant: József [Lastóczi?]. The next row, no. 7, is the Zsuzsanna of 9 October filed separately as D-007-41.",
+        "reading": "low"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "6 | September 24 24 | Mihály | 1 – 1 – | Dusko Mihály, [Zabavsk..?] Illona gazda | Solymos h. sz. 33 | [Kenderes Pál?], Knyezso Anna | [Lastóczi?] Josef",
+        "english": "Child: Mihály, male, legitimate. Father: Mihály Dusko, farmer (gazda). Mother: Ilona [surname read as Zabavsk.. or Babarik?; Mihalko in 1871]. Residence: Solymos, house 33. Godparents: [Pál Kenderes?]; Anna Knyezso. Officiant: József [Lastóczi?]. The next row, no. 7, is the Zsuzsanna of 9 October filed separately as D-007-41. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-36",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-121",
+    "file": "Baptism_of_Mihaly_Duska_1893.png",
+    "sha256": "4506ccb8c54d0edb77d24db9ada78b5e17753be56053488e0f50f36cb5e579cf",
+    "wide": true,
+    "title": "Baptism of Mihály Duska, Solymos 44, 189[3]",
+    "span": "29 January 189[3]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Mihaly Duska 1893",
+    "family": "FG-41",
+    "route": "duska",
+    "part": 4,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "1",
+        "date": "29 January 189[3]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Mihály, male, legitimate. Father: Mihály Duska, farmer. Mother: Borbála Dzurina. Residence: Solymos, house 44. Godparents: György Kenderes and Erzsébet Estók. Officiant: István Szakal, Reformed pastor. The heading reads '189[2 or 3]-ik év'; the owner's label says 1893. Born and baptised the same day.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "189[3]ik év | 1 | Jan 29 29 | Mihály | 1 1 | Duska Mihály földmíves, Dzurina Borbála | Solymos 44 | Kenderes György és Estók Erzsébet | Szakal István ev. ref. lelkész",
+        "english": "Child: Mihály, male, legitimate. Father: Mihály Duska, farmer. Mother: Borbála Dzurina. Residence: Solymos, house 44. Godparents: György Kenderes and Erzsébet Estók. Officiant: István Szakal, Reformed pastor. The heading reads '189[2 or 3]-ik év'; the owner's label says 1893. Born and baptised the same day."
+      }
+    ]
+  },
+  {
+    "id": "D-007-37",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-122",
+    "file": "Baptism_of_Pal_Nyemscik_1904.png",
+    "sha256": "8124a5ddc7cede7e70f7130ec1bf102122115d649fc77fc993162544ba03de7b",
+    "wide": true,
+    "title": "Baptism of Pál Knyezso, Solymos 44, [1904]",
+    "span": "26 and 29 May [1904]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Pal Nyemscik 1904",
+    "family": "FG-45",
+    "route": "demko",
+    "part": 4,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "6",
+        "date": "26 and 29 May [1904]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Pál, male, legitimate. Father: Mihály Knyezso. Mother: Erzsébet Sipos. Residence: Solymos, house 44. Godparents: György Knyezso; the wife of [János Jossio?], born Erzsébet [Dener?]. Officiant: István Szakal.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "6. | Maj 26 29 | Pál | 1 1 | Knyezso Mihály, Sipos Erzsébet | Solymos 44 | Knyezso György, Jossio [János?]né sz. [Dener?] Erzsébet | Szakal István",
+        "english": "Child: Pál, male, legitimate. Father: Mihály Knyezso. Mother: Erzsébet Sipos. Residence: Solymos, house 44. Godparents: György Knyezso; the wife of [János Jossio?], born Erzsébet [Dener?]. Officiant: István Szakal. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-38",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-123",
+    "file": "Baptism_of_Susanna_Duska_1829.png",
+    "sha256": "ece9d82e8957bc1f77f76170268c0f0c65843d7d7abf5a29a92c46e7cc5be9b6",
+    "wide": true,
+    "title": "Baptism of Susanna Duska, Solymos parish, [1829]",
+    "span": "12 May [1829]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Susanna Duska 1829",
+    "family": "FG-34",
+    "route": "duska",
+    "part": 4,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "6",
+        "date": "12 May [1829]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Susanna, female, legitimate. Father: András Duska. Mother: Borbála Plyuksa [Pluchta]. Residence: not given. Godparents: Mihály Knyezso; Anna [Fujcsák?]. Officiant: András [surname not read], pastor.",
+        "reading": "low"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "6 | 12. Maj | 12. Maj | Duska András, Plyuksa Borbála | L. | Susanna | Knyezso Mihály, [Fujcsák?] Anna | András [...] lelk.",
+        "english": "Child: Susanna, female, legitimate. Father: András Duska. Mother: Borbála Plyuksa [Pluchta]. Residence: not given. Godparents: Mihály Knyezso; Anna [Fujcsák?]. Officiant: András [surname not read], pastor. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-39",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-124",
+    "file": "Baptism_of_Thoma_Duska_1832.png",
+    "sha256": "d4b811588c51d31a5172f796efaeed7d5009d68d8cb986a55e447fba6cde4c9b",
+    "wide": true,
+    "title": "Baptism of Anna [?] Duska, Solymos parish, 1832",
+    "span": "1 February 1832",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Thoma Duska 1832",
+    "family": "FG-34",
+    "route": "duska",
+    "part": 4,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "1",
+        "date": "1 February 1832",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Anna [?], female, legitimate. Father: András Duska. Mother: Borbála Plyuksa [Pluchta]. Residence: not given. Godparents: Mihály Knyezso; Mária Fujcsák [?]. Officiant: Mihály Rajkovits [?]. The owner's label has 'Thoma'. The sex column has L (leány, girl) and the name reads Anna. The heading '1832. Esztendőben' is on the strip.",
+        "reading": "low"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "1832. Esztendőben | 1. | 1. Febr. | [.] Febr. | Duska András, Plyuksa Borbála | L. | Anna [?] | Knyezso Mihály, Fujcsák [?] Mária | Rajkovits Mihály lelk.",
+        "english": "Child: Anna [?], female, legitimate. Father: András Duska. Mother: Borbála Plyuksa [Pluchta]. Residence: not given. Godparents: Mihály Knyezso; Mária Fujcsák [?]. Officiant: Mihály Rajkovits [?]. The owner's label has 'Thoma'. The sex column has L (leány, girl) and the name reads Anna. The heading '1832. Esztendőben' is on the strip."
+      }
+    ]
+  },
+  {
+    "id": "D-007-40",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-125",
+    "file": "Baptism_of_Unknown_Duska_1833.png",
+    "sha256": "3f9130174fc88ddf86d8815b2da98f4e3d032c44960875db97700e6b91390941",
+    "wide": true,
+    "title": "Baptism of Anna [?] [surname not read], Solymos parish, 1833",
+    "span": "22 and [24?] February 1833",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Unknown Duska 1833",
+    "family": null,
+    "route": "duska",
+    "part": 4,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "1",
+        "date": "22 and [24?] February 1833",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Anna [?], female, legitimate. Father: János [surname not read]. Mother: Erzsébet [Du]ska [?]. Residence: not given. Godparents: Samu[el] Balogh, nobleman; Susánna Oláh; the wife of Mihály [...]. Officiant: István Riskó. Very faint. Duska, if rightly read, is the mother's surname. The heading 1833 is on the strip.",
+        "reading": "low"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "1833 Esztendő | 1. | 22. Febr | [24] Febr | [...] János, [Du]ska Erzsébeth | L | Anna [?] | Ns Balogh Samu[el], Oláh Susánna, [...] Mihályné | T. Riskó István",
+        "english": "Child: Anna [?], female, legitimate. Father: János [surname not read]. Mother: Erzsébet [Du]ska [?]. Residence: not given. Godparents: Samu[el] Balogh, nobleman; Susánna Oláh; the wife of Mihály [...]. Officiant: István Riskó. Very faint. Duska, if rightly read, is the mother's surname. The heading 1833 is on the strip."
+      }
+    ]
+  },
+  {
+    "id": "D-007-41",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-126",
+    "file": "Baptism_of_Zsusanna_Duska_1873.png",
+    "sha256": "bfa462553bb1de2a9a9ef819757928862cc10dc2f73812d0be9006b4e51f03b8",
+    "wide": true,
+    "title": "Baptism of Zsuzsanna Dusko, Solymos 34, [1873]",
+    "span": "9 October [1873]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Zsusanna Duska 1873",
+    "family": "FG-38",
+    "route": "duska",
+    "part": 4,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "7",
+        "date": "9 October [1873]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Zsuzsanna, female, legitimate. Father: János Dusko. Mother: Anna Kitzka [Kitko]. Residence: Solymos, house 34. Godparents: János Hressan; Anna Bajovits. Officiant: as above (detto). The heading 1874 follows the entry, so it is the last of 1873.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "7 | Október 9 9 | Zsuzsanna | – 1. 1. – | Dusko János, Kitzka Anna | Solymos h. sz. 34. | Hressan János, Bajovits Anna | Detto || 1874.",
+        "english": "Child: Zsuzsanna, female, legitimate. Father: János Dusko. Mother: Anna Kitzka [Kitko]. Residence: Solymos, house 34. Godparents: János Hressan; Anna Bajovits. Officiant: as above (detto). The heading 1874 follows the entry, so it is the last of 1873. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-42",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-127",
+    "file": "Baptism_of_Zsussana_Nyemcsik_1897.png",
+    "sha256": "71430eafb920086a3e65f9dfe474069f5a5312d9d85419fa1378ed49c1d4ad9b",
+    "wide": true,
+    "title": "Baptism of Zsuzsanna Knyezso, Solymos 64, 1897",
+    "span": "3 and 6 January 1897",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Zsussana Nyemcsik 1897",
+    "family": "FG-45",
+    "route": "demko",
+    "part": 4,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "1",
+        "date": "3 and 6 January 1897",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Zsuzsanna, female, legitimate. Father: Mihály Knyezso. Mother: Anna Onderko, farmers. Residence: Solymos, house 64. Godparents: János Drotar; the wife of Mihály Hresán, farmers. Officiant: István Szakal. The heading '1897-ik év' is on the strip.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "1897ik év | 1. | Jan 3 6 | Zsuzsanna | 1 1. | Knyezso Mihály, Onderko Anna földmívesek | Solymos 64 | Drotar János, Hresán Mihályné földmívesek | Szakal István",
+        "english": "Child: Zsuzsanna, female, legitimate. Father: Mihály Knyezso. Mother: Anna Onderko, farmers. Residence: Solymos, house 64. Godparents: János Drotar; the wife of Mihály Hresán, farmers. Officiant: István Szakal. The heading '1897-ik év' is on the strip."
+      }
+    ]
+  },
+  {
+    "id": "D-007-43",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-128",
+    "file": "Baptism_of_Zuzsanna_Duska_1837.png",
+    "sha256": "8681838d07b6b1930030c00f52cc86f1c182c154ba3b397a9963961bd876e9c6",
+    "wide": true,
+    "title": "Baptism of Susanna Duska, Solymos parish, [1837]",
+    "span": "21 and 22 January [1837]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Zuzsanna Duska 1837",
+    "family": "FG-34",
+    "route": "duska",
+    "part": 4,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "3",
+        "date": "21 and 22 January [1837]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Susanna, female, legitimate. Father: András Duska. Mother: Borbála Plyuksa [Pluchta]. Residence: not given. Godparents: Páll Repej; Erzsébet Kósorj [?]. Officiant: József Gööz, preacher of Pályin. A second Susanna to this couple: the first was baptised in [1829].",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "3, | 21. Jan. | 22. Jan. | Duska András, Plyuksa Borbála | L. | Susanna | Repej Páll, Kósorj Erzsébeth | T. Gööz Jósef Pályini Prédik.",
+        "english": "Child: Susanna, female, legitimate. Father: András Duska. Mother: Borbála Plyuksa [Pluchta]. Residence: not given. Godparents: Páll Repej; Erzsébet Kósorj [?]. Officiant: József Gööz, preacher of Pályin. A second Susanna to this couple: the first was baptised in [1829]. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-44",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-129",
+    "file": "Birth_of_Janos_Duska_1863.png",
+    "sha256": "7b477fd52403f3bef36b6f57adca556a01ec1c551e932fdf64c378d85a2ea940",
+    "wide": true,
+    "title": "Baptism of János Dusko, Solymos 27, [1863]",
+    "span": "1 November [1863]",
+    "language": "Hungarian",
+    "collector_label": "Birth of Janos Duska 1863",
+    "family": "FG-38",
+    "route": "duska",
+    "part": 4,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "4",
+        "date": "1 November [1863]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: János, male, legitimate. Father: János Dusko. Mother: Anna Minda, Reformed [corrected in the remarks]. Residence: Solymos, house 27. Godparents: János Hressan; Borbála Hajdutko. Officiant: János Petrás. Remark: 'gyermek anyja [Fridor?] Anna', the child's mother is [...] Anna. The clerk corrects the mother's surname; the correction itself is hard to read. The godparents are those of the Kitko children of 1867 and 1870. Row 5, below: Mihály, 20 November, son of Mihály Knyezso and Anna Pluchta, godfather Mihály Dusko.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "4 | Nov. 1 | 1 | János | 1 – 1 – | Dusko János, Min-da Anna ref. v. | Solymos h. sz. 27. | Hressan János, Hajdut-ko Borbála | Petrás János | gyermek anyja [Fridor?] Anna || 5 | Nov 20 | 20 | Mihály | Knyezso Mihály, Pluch-ta Anna ref. v. | Solymos h. sz. 27 [?] | Dusko Mihály, Zvonyik Anna | Petrás János",
+        "english": "Child: János, male, legitimate. Father: János Dusko. Mother: Anna Minda, Reformed [corrected in the remarks]. Residence: Solymos, house 27. Godparents: János Hressan; Borbála Hajdutko. Officiant: János Petrás. Remark: 'gyermek anyja [Fridor?] Anna', the child's mother is [...] Anna. The clerk corrects the mother's surname; the correction itself is hard to read. The godparents are those of the Kitko children of 1867 and 1870. Row 5, below: Mihály, 20 November, son of Mihály Knyezso and Anna Pluchta, godfather Mihály Dusko. The year is from the owner's file name."
+      }
+    ]
+  },
+  {
+    "id": "D-007-45",
+    "folder": "F-007",
+    "batch": "B-017",
+    "source": "S-130",
+    "file": "Birth_of_Zsusanna_Nyemcsik_1888.png",
+    "sha256": "8d582163136d9ad83d4e9f3e2152ffd23826e125e8d03fa3b76ea063bb0eca75",
+    "wide": true,
+    "title": "Baptism of Zsuzsanna Knyezso, Solymos 41, [1888]",
+    "span": "29 and 30 September [1888]",
+    "language": "Hungarian",
+    "collector_label": "Birth of Zsusanna Nyemcsik 1888",
+    "family": "FG-45",
+    "route": "demko",
+    "part": 4,
+    "provenance": {
+      "archive": "unknown",
+      "fond_or_film": "unknown",
+      "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+      "page_or_image": "unknown",
+      "obtained": "From the owner's desktop folder, sent through chat. How he obtained it is not recorded.",
+      "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+    },
+    "entries": [
+      {
+        "no": "5",
+        "date": "29 and 30 September [1888]",
+        "from": "Baptism register, Reformed, Solymos (Iňačovce)",
+        "abstract": "Child: Zsuzsanna, female, legitimate. Father: György Knyezso, farmer. Mother: Mária Dzurina. Residence: Solymos, house 41. Godparents: János Perecs; the wife of Mihály Kenderes, farmers. Officiant: István Szakal.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "5. | Szept 29 30 | Zsuzsanna | 1 1 | Knyezso György földmíves, Dzurina Mária | Solymos 41 | Perecs János, Kenderes Mihályné földmívesek | Szakal István",
+        "english": "Child: Zsuzsanna, female, legitimate. Father: György Knyezso, farmer. Mother: Mária Dzurina. Residence: Solymos, house 41. Godparents: János Perecs; the wife of Mihály Kenderes, farmers. Officiant: István Szakal. The year is from the owner's file name."
+      }
+    ]
   }
 ]

@@ -3724,5 +3724,802 @@
     "relation": "Mother of K-305 on the chart.",
     "route": "demko",
     "route_note": ""
+  },
+  {
+    "id": "K-308",
+    "name": "András Dusko",
+    "vitals": "b. 8 and 9 November [1872]; Solymos, house 23",
+    "proof": "documented",
+    "sources": [
+      "S-086"
+    ],
+    "relation": "Child of János Dusko, Reformed, farmer (gazda) and Anna Kit[z]ko (D-007-01).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-309",
+    "name": "Anna Kudrócs",
+    "vitals": "b. 21 and 28 November [1897]; Solymos, house 11",
+    "proof": "documented",
+    "sources": [
+      "S-087"
+    ],
+    "relation": "Child of János Kudrócs, farmer and Zsuzsanna Duska (D-007-02).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-310",
+    "name": "Anna Ku[...]s [?]",
+    "vitals": "b. 24 and 27 February [1898]; Solymos, house [152?]",
+    "proof": "documented",
+    "sources": [
+      "S-088"
+    ],
+    "relation": "Child of Mihály Ku[...]s [?], farmer and Zsuzsánna Duska (D-007-03).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-311",
+    "name": "Anna Duska",
+    "vitals": "b. 8 September [1841]; not given",
+    "proof": "documented",
+    "sources": [
+      "S-089"
+    ],
+    "relation": "Child of János Duska and Anna Hura (D-007-04).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-312",
+    "name": "Anna Dusko",
+    "vitals": "b. 17 and 19 November [1871]; Solymos, house 33",
+    "proof": "documented",
+    "sources": [
+      "S-090"
+    ],
+    "relation": "Child of Mihály Dusko, Reformed and Ilona Mihalko (D-007-05).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-313",
+    "name": "Anna Jossio",
+    "vitals": "b. 19 and 23 March [1887]; Solymos, house 87 [?]",
+    "proof": "documented",
+    "sources": [
+      "S-091"
+    ],
+    "relation": "Child of Pál Jossio, farmer and Ilona Kenderes (D-007-06).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-314",
+    "name": "Anna Knyezso",
+    "vitals": "b. 8 and 11 February [1892]; Solymos, house 47",
+    "proof": "documented",
+    "sources": [
+      "S-092"
+    ],
+    "relation": "Child of György Knyezso and Anna Kontra (D-007-07).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-315",
+    "name": "Anna Knyezso the younger",
+    "vitals": "b. 12 and 14 December [1902]; Solymos, house [1]0 [?]",
+    "proof": "documented",
+    "sources": [
+      "S-093"
+    ],
+    "relation": "Child of János Knyezso the younger, farmer and Anna Verbószk[i] [?] (D-007-08).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-316",
+    "name": "Mihály Duska",
+    "vitals": "b. 8 [October?] [1902], bapt. 18; at a place written 'Bradenville' [?]",
+    "proof": "documented",
+    "sources": [
+      "S-093"
+    ],
+    "relation": "Child of György Duska, Reformed, labourer, and Mária Vaszilyo [?] (D-007-08, row 7). A candidate for Ahn 8 (H-040).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-317",
+    "name": "Anna Knyezso",
+    "vitals": "b. 30 October and 1 November [1910]; Solymos, house 6[?]",
+    "proof": "documented",
+    "sources": [
+      "S-094"
+    ],
+    "relation": "Child of György Knyezso and Anna Dzurina, farmers (D-007-09).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-318",
+    "name": "Anna Knyezső",
+    "vitals": "b. 24 and 28 January 1921; Solymos",
+    "proof": "documented",
+    "sources": [
+      "S-095"
+    ],
+    "relation": "Child of János Knyezső, [bogáti?] and Mária Estók, Reformed, farmers (D-007-10).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-319",
+    "name": "Anna Knyezso",
+    "vitals": "b. 28 and 29 May [1884]; Solymos, house 59",
+    "proof": "documented",
+    "sources": [
+      "S-096"
+    ],
+    "relation": "Child of Mihály Knyezso, farmer (gazda) and Erzsébet Sárik (D-007-11).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-320",
+    "name": "Borbála Duska",
+    "vitals": "b. 20 May [1843]; not given",
+    "proof": "documented",
+    "sources": [
+      "S-097"
+    ],
+    "relation": "Child of András Duska and Borbála Plyuksa [Pluchta] (D-007-12).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-321",
+    "name": "Borbála Kudrócs [?]",
+    "vitals": "b. 5 April [1825]; not given",
+    "proof": "documented",
+    "sources": [
+      "S-098"
+    ],
+    "relation": "Child of György Kudrócs the elder [?] and Borbála Kótsis [?] (D-007-13).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-322",
+    "name": "György Duska",
+    "vitals": "b. 11 April 1847; Solymos",
+    "proof": "documented",
+    "sources": [
+      "S-099"
+    ],
+    "relation": "Child of György Duska and [N...] Zsuzsanna (D-007-14).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-323",
+    "name": "György Dusko",
+    "vitals": "b. 10 and 11 April [1852]; Solymos, house 44",
+    "proof": "documented",
+    "sources": [
+      "S-100"
+    ],
+    "relation": "Child of András Dusko, commoner (nemtelen) and Erzsébet Ková[cs] [?] (D-007-15).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-324",
+    "name": "György Dusko",
+    "vitals": "b. 17 and 18 July 1857; Solymos, house 33",
+    "proof": "documented",
+    "sources": [
+      "S-101"
+    ],
+    "relation": "Child of János Dusko, cottar (zsellér) and Anna Hura (D-007-16).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-325",
+    "name": "György Dusko",
+    "vitals": "b. 17 and 18 July [1870]; Solymos, house 24",
+    "proof": "documented",
+    "sources": [
+      "S-102"
+    ],
+    "relation": "Child of János Dusko, Reformed and Anna Kitko (D-007-17).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-326",
+    "name": "György Dusko",
+    "vitals": "b. 11 and 12 April 1876; Solymos, house 34",
+    "proof": "documented",
+    "sources": [
+      "S-103"
+    ],
+    "relation": "Child of János Dusko, Reformed, farmer (gazda) and Anna Kitz[ko] (D-007-18).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-327",
+    "name": "György Duska the younger (ifj.)",
+    "vitals": "b. 10 and 11 January [1882]; Solymos, house 33",
+    "proof": "documented",
+    "sources": [
+      "S-104"
+    ],
+    "relation": "Child of Mihály Duska the younger (ifj.) and Ilona [surname not written again; 'Szabó Julianna' is struck out] (D-007-19).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-328",
+    "name": "György Duska",
+    "vitals": "b. 1 and 2 February 1883; Solymos, house 26 [?]",
+    "proof": "documented",
+    "sources": [
+      "S-105"
+    ],
+    "relation": "Child of György Duska, farmer (gazda) and Zsuzsanna Valyocsik, both of the Helvetic confession (D-007-20).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-329",
+    "name": "[György] Knyezso",
+    "vitals": "b. [5 and 9] March 1890; Solymos, house 5[6]",
+    "proof": "documented",
+    "sources": [
+      "S-106"
+    ],
+    "relation": "Child of György Knyezso, farmer and Anna Tomócsik (D-007-21).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-330",
+    "name": "György Knyezso",
+    "vitals": "b. 11 and 18 November [1894]; Solymos, house 46 [?]",
+    "proof": "documented",
+    "sources": [
+      "S-107"
+    ],
+    "relation": "Child of György Knyezso, farmer and Anna Kontra (D-007-22).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-331",
+    "name": "János Dusko",
+    "vitals": "b. 25 and 28 May [1834]; not given",
+    "proof": "documented",
+    "sources": [
+      "S-108"
+    ],
+    "relation": "Child of András Dusko and Borbála Plyuksa [Pluchta] (D-007-23).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-332",
+    "name": "János Duska",
+    "vitals": "b. 8 June [1844]; not given",
+    "proof": "documented",
+    "sources": [
+      "S-109"
+    ],
+    "relation": "Child of János Duska and Anna Hura (D-007-24).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-333",
+    "name": "János Dusko",
+    "vitals": "b. 23 and 24 August [1852]; Solymos, house 33",
+    "proof": "documented",
+    "sources": [
+      "S-110"
+    ],
+    "relation": "Child of János Dusko, commoner and Anna Hura, Reformed (D-007-25).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-334",
+    "name": "János Duska",
+    "vitals": "b. 13 and 15 [month cut off] [1893]; Solymos, house 44",
+    "proof": "documented",
+    "sources": [
+      "S-111"
+    ],
+    "relation": "Child of not named and Zsuzsanna Duska (D-007-26).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-335",
+    "name": "János Duska",
+    "vitals": "b. 15 and 18 April [1920]; Solymos",
+    "proof": "documented",
+    "sources": [
+      "S-112"
+    ],
+    "relation": "Child of not named and Zsuzsanna Duska, farm woman (D-007-27).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-336",
+    "name": "Zsuzsanna Duska",
+    "vitals": "b. 21 and 22 April [1888]; Solymos, house 37 [?]",
+    "proof": "documented",
+    "sources": [
+      "S-113"
+    ],
+    "relation": "Child of György Duska, farmer and Zsuzsanna Valyocsik (D-007-28).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-337",
+    "name": "Mária [Marczincsák] Elecsko [?]",
+    "vitals": "b. 25 and 29 March [1903]; Solymos",
+    "proof": "documented",
+    "sources": [
+      "S-114"
+    ],
+    "relation": "Child of Mihály Elecsko [?] and Anna Duska, farmers (D-007-29).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-338",
+    "name": "Mihály Dusko",
+    "vitals": "b. 3 October [1867]; Solymos, house 24",
+    "proof": "documented",
+    "sources": [
+      "S-115"
+    ],
+    "relation": "Child of János Dusko, Reformed, farmer (gazda) and Anna Kitko (D-007-30).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-339",
+    "name": "Mihály Knyezso",
+    "vitals": "b. 9 and 11 March 1890; Solymos, house 82",
+    "proof": "documented",
+    "sources": [
+      "S-116"
+    ],
+    "relation": "Child of Mihály Knyezso, farmer and Anna Onderko (D-007-31).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-340",
+    "name": "Mihály Knyezso Estók",
+    "vitals": "b. 1 and 4 September [1904]; Solymos, house 99",
+    "proof": "documented",
+    "sources": [
+      "S-117"
+    ],
+    "relation": "Child of Mihály Knyezso Estók and Zsuzsanna Dzurina, farmers (D-007-32).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-341",
+    "name": "Mihály [Marczincsák] Elecsko [?]",
+    "vitals": "b. 23 and 24 January 1904; Solymos",
+    "proof": "documented",
+    "sources": [
+      "S-118"
+    ],
+    "relation": "Child of Mihály Marczincsák Elecsk[o] [?] and Anna Duska (D-007-33).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-342",
+    "name": "Mihály Duska",
+    "vitals": "b. 25 and 26 July [1840]; not given",
+    "proof": "documented",
+    "sources": [
+      "S-119"
+    ],
+    "relation": "Child of András Duska and Borbála Plyuksa [Pluchta] (D-007-34).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-343",
+    "name": "Mihály Dusko",
+    "vitals": "b. 24 September [1873]; Solymos, house 33",
+    "proof": "documented",
+    "sources": [
+      "S-120"
+    ],
+    "relation": "Child of Mihály Dusko, farmer (gazda) and Ilona [surname read as Zabavsk.. or Babarik?; Mihalko in 1871] (D-007-35).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-344",
+    "name": "Mihály Duska",
+    "vitals": "b. 29 January 189[3]; Solymos, house 44",
+    "proof": "documented",
+    "sources": [
+      "S-121"
+    ],
+    "relation": "Child of Mihály Duska, farmer and Borbála Dzurina (D-007-36).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-345",
+    "name": "Pál Knyezso",
+    "vitals": "b. 26 and 29 May [1904]; Solymos, house 44",
+    "proof": "documented",
+    "sources": [
+      "S-122"
+    ],
+    "relation": "Child of Mihály Knyezso and Erzsébet Sipos (D-007-37).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-346",
+    "name": "Susanna Duska",
+    "vitals": "b. 12 May [1829]; not given",
+    "proof": "documented",
+    "sources": [
+      "S-123"
+    ],
+    "relation": "Child of András Duska and Borbála Plyuksa [Pluchta] (D-007-38).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-347",
+    "name": "Anna [?] Duska",
+    "vitals": "b. 1 February 1832; not given",
+    "proof": "documented",
+    "sources": [
+      "S-124"
+    ],
+    "relation": "Child of András Duska and Borbála Plyuksa [Pluchta] (D-007-39).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-348",
+    "name": "Anna [?] [surname not read]",
+    "vitals": "b. 22 and [24?] February 1833; not given",
+    "proof": "documented",
+    "sources": [
+      "S-125"
+    ],
+    "relation": "Child of János [surname not read] and Erzsébet [Du]ska [?] (D-007-40).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-349",
+    "name": "Zsuzsanna Dusko",
+    "vitals": "b. 9 October [1873]; Solymos, house 34",
+    "proof": "documented",
+    "sources": [
+      "S-126"
+    ],
+    "relation": "Child of János Dusko and Anna Kitzka [Kitko] (D-007-41).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-350",
+    "name": "Zsuzsanna Knyezso",
+    "vitals": "b. 3 and 6 January 1897; Solymos, house 64",
+    "proof": "documented",
+    "sources": [
+      "S-127"
+    ],
+    "relation": "Child of Mihály Knyezso and Anna Onderko, farmers (D-007-42).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-351",
+    "name": "Susanna Duska",
+    "vitals": "b. 21 and 22 January [1837]; not given",
+    "proof": "documented",
+    "sources": [
+      "S-128"
+    ],
+    "relation": "Child of András Duska and Borbála Plyuksa [Pluchta] (D-007-43).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-352",
+    "name": "János Dusko",
+    "vitals": "b. 1 November [1863]; Solymos, house 27",
+    "proof": "documented",
+    "sources": [
+      "S-129"
+    ],
+    "relation": "Child of János Dusko and Anna Minda, Reformed [corrected in the remarks] (D-007-44).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-353",
+    "name": "Zsuzsanna Knyezso",
+    "vitals": "b. 29 and 30 September [1888]; Solymos, house 41",
+    "proof": "documented",
+    "sources": [
+      "S-130"
+    ],
+    "relation": "Child of György Knyezso, farmer and Mária Dzurina (D-007-45).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-354",
+    "name": "András Duska",
+    "vitals": "Reformed; father at Solymos [1829] to [1843]; an András Dusko is father again in [1852] at house 44",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-34.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-355",
+    "name": "Borbála Plyuksa [Pluchta]",
+    "vitals": "mother at Solymos [1829] to [1843]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-34.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-356",
+    "name": "János Duska",
+    "vitals": "Reformed; father at Solymos [1841] to 1857, cottar, house 33",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-35.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-357",
+    "name": "Anna Hura",
+    "vitals": "mother [1841] to 1857",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-35.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-358",
+    "name": "György Duska",
+    "vitals": "father at Solymos, 1847",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-36.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-359",
+    "name": "Erzsébet Ková[cs] [?]",
+    "vitals": "wife of András Dusko, Solymos 44, [1852]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-37.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-360",
+    "name": "János Dusko",
+    "vitals": "Reformed farmer; father at Solymos [1863] to 1876, houses 27, 24, 23, 34",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-38.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-361",
+    "name": "Anna Kitko (Kitzka; once written Minda)",
+    "vitals": "mother [1863] to 1876",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-38.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-362",
+    "name": "Mihály Dusko (Duska) the younger",
+    "vitals": "Reformed farmer; father at Solymos 33, [1871] to [1882]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-39.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-363",
+    "name": "Ilona Mihalko",
+    "vitals": "mother [1871] to [1882]; surname read differently in [1873]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-39.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-364",
+    "name": "György Duska",
+    "vitals": "Reformed farmer; father at Solymos, 1883 and [1888]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-40.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-365",
+    "name": "Zsuzsanna Valyocsik",
+    "vitals": "mother 1883 and [1888]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-40.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-366",
+    "name": "Mihály Duska",
+    "vitals": "Reformed farmer; father at Solymos 44, 189[3]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-41.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-367",
+    "name": "Borbála Dzurina",
+    "vitals": "mother 189[3]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-41.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-368",
+    "name": "György Duska",
+    "vitals": "Reformed, labourer; father at 'Bradenville' [?], [1902]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-42.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-369",
+    "name": "Mária Vaszilyo [?]",
+    "vitals": "mother at 'Bradenville' [?], [1902]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-42.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-370",
+    "name": "Zsuzsanna Duska",
+    "vitals": "of Solymos 44; mother of an illegitimate son in [1893]; married János Kudrócs by 4 May 1896",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-43.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-371",
+    "name": "János Kudrócs",
+    "vitals": "farmer, Solymos 11; husband of Zsuzsanna Duska from 1896",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-43.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-372",
+    "name": "Zsuzsanna Duska",
+    "vitals": "farm woman of Solymos; mother of an illegitimate son in [1920]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-43.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-373",
+    "name": "Anna Duska",
+    "vitals": "wife of Mihály [Marczincsák] Elecsko [?]; mother at Solymos [1903] and 1904",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-44.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-374",
+    "name": "Mihály [Marczincsák] Elecsko [?]",
+    "vitals": "father at Solymos [1903] and 1904",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-44.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-375",
+    "name": "Erzsébet [Du]ska [?]",
+    "vitals": "mother, 1833; surname doubtful",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in D-007-40.",
+    "route": "duska",
+    "route_note": ""
   }
 ]
