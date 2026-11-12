@@ -430,5 +430,35 @@
   "date": "2026-11-12",
   "decided": "The match between house 73 on these strips and prior PR-6 is noted on H-046 and moves no confidence.",
   "why": "PR-6 is a snippet of the owner's own writing (C-02). A prior cannot support a hypothesis (X-004, X-011)."
+ },
+ {
+  "id": "DEC-73",
+  "date": "2026-11-12",
+  "decided": "Read ledger v19. Replaced .github/workflows/stamp.yml with version 2 (SHA-256 a6aca81c3e4d1d87057b63866014dbccda74db757b3aae1006eaf655a6858974). Tagged H-030, H-035, H-040, H-041, H-046 and H-047 with question X-Q-06.",
+  "why": "X-007 as amended; the new question table. The file was taken from the public address the ledger names; that copy has a different minute in its schedule line and a different checksum, so the one line was set to match the Site agent's published text, and the result has the published checksum."
+ },
+ {
+  "id": "DEC-74",
+  "date": "2026-11-12",
+  "decided": "X-016 item 6, X-020 item 3 and X-022 item 3 as amended are taken into protocol rules 24 and 29: the children of Ahn 4 other than Ahn 2 are not entered here; this agent never pushes to the private repository and transcribes no withheld field anywhere.",
+  "why": "Ledger v19."
+ },
+ {
+  "id": "DEC-75",
+  "date": "2026-11-12",
+  "decided": "Reported to the coordinator: a search of the Project's documents for the ledger, made at B-020, returned part of the Sorter's note to the coordinator, which this agent is not to read. It showed pile counts, batch times and one checksum already known here. The Project's document search is not used again; the ledger is read from the coordinator's public repository.",
+  "why": "X-021 item 4."
+ },
+ {
+  "id": "DEC-76",
+  "date": "2026-11-12",
+  "decided": "The miller's surname in D-009-17 is entered as Du[s]ka [?] and his household is kept as a separate family group.",
+  "why": "The owner's label is itself in doubt and so is the stroke. A doubtful reading is not resolved toward the surname being looked for (the lesson of the Danko entry, DEC-38)."
+ },
+ {
+  "id": "DEC-77",
+  "date": "2026-11-12",
+  "decided": "The untitled delivery of eleven strips is taken as part 2 of folder F-009, which stays open.",
+  "why": "The owner asked 'next batch from Senne Catholic?' and the files continue the alphabetical run."
  }
 ]

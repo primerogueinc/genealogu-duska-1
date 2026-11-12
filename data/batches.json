@@ -1115,6 +1115,66 @@
    "S-149",
    "S-150"
   ],
+  "committed_utc": "2026-11-12T07:33:27Z"
+ },
+ {
+  "id": "B-021",
+  "date": "2026-11-12",
+  "title": "The Senné Roman Catholic book, part 2: eleven girls named Anna, and a second miller",
+  "folder": "F-009",
+  "files": 11,
+  "blurb": "Read ledger v19. Eleven more strips from the Senné Roman Catholic register, and every child on them is an Anna: the owner's files are in alphabetical order and have not yet reached M. So there is still no entry for a Mihály, and the question of Michal Duska's parents stands where the last batch left it. Two strips touch the Duska name. A miller called János, of house 115, baptised a daughter in 1900; the owner himself is unsure whether the surname is Duska or Drska, and so is this reading. If it is Duska, Senné had two Duska millers within five years. And a Roman Catholic Anna Duska was the wife of János Marczinyik at Solymos in 1876. The rest are the other names the owner gathers: six Nyemcsik strips, showing at least three men called János Nyemcsik; three Kocsis strips, sent to the Demko agent; and one child filed as Nyemcsik who is a Murnyik with a Nyemcsik godfather. The husband of Mária Nyemcsik turns out to be the sexton of the last batch, a farmer fourteen years earlier, spelled a third way. The strips also narrow when the village was renamed Ungszenna: after June 1903 and by May 1906. From the ledger: the stamping file is replaced with its second version, and the question of Michal's parents now has a number of its own. Curiosities: 2",
+  "raised": [],
+  "resolved": [],
+  "revised": [
+   "H-046",
+   "H-047",
+   "H-049"
+  ],
+  "people_added": [
+   "K-419",
+   "K-420",
+   "K-421",
+   "K-422",
+   "K-423",
+   "K-424",
+   "K-425",
+   "K-426",
+   "K-427",
+   "K-428",
+   "K-429",
+   "K-430",
+   "K-431",
+   "K-432",
+   "K-433",
+   "K-434",
+   "K-435",
+   "K-436",
+   "K-437",
+   "K-438",
+   "K-439",
+   "K-440",
+   "K-441",
+   "K-442",
+   "K-443",
+   "K-444",
+   "K-445",
+   "K-446",
+   "K-447"
+  ],
+  "sources_added": [
+   "S-151",
+   "S-152",
+   "S-153",
+   "S-154",
+   "S-155",
+   "S-156",
+   "S-157",
+   "S-158",
+   "S-159",
+   "S-160",
+   "S-161"
+  ],
   "committed_utc": null
  }
 ]

@@ -130,5 +130,16 @@
   "holds": "No commit since the last pass (XR-11).",
   "found_for_duska_line": "Nothing new.",
   "sent_to_demko": "Two strips of folder F-009: Anna, daughter of János Demko, Roman Catholic, of Szenna 87, and Mária Ivanko of Lasztomér, 1900 (D-009-09); and András, son of Mihály Marczinko and Mária Kocsis, 1909 (D-009-05)."
+ },
+ {
+  "id": "XR-13",
+  "batch": "B-021",
+  "date": "2026-11-12",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "c30be69",
+  "read": "batch DM-B-012 and its note to this agent (DM→DU-010)",
+  "holds": "Its own readings of the thirteen Reformed strips routed to it (DM-D-070 to DM-D-082), made before it opened the entries here. Every pair of parents agrees. Eight differences on doubtful words: house numbers on four strips, two godparents, a baptism day, and the father's surname of 1825 (Kudrócs here, Kendres or Kenderes there). It confirms that the mother of Mária Kocsis is written Roman Catholic, twice.",
+  "found_for_duska_line": "A caution it raises for this line: two men named György Knyezső stand godparent to each other's sons, so a Knyezső godparent at a Duska baptism picks out no one man.",
+  "sent_to_demko": "Three Kocsis strips of folder F-009 part 2 (D-009-19, -20, -21). Its differences are noted on the eight documents without changing the readings here, since each is marked doubtful on both boards."
  }
 ]

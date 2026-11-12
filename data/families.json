@@ -983,17 +983,26 @@
     "husband": "Nyemcsik of Senné (two entries)",
     "wife": "see children",
     "rite": "Roman Catholic",
-    "homes": "Szenna 47 ([1866]); Ungszenna 64 (1910)",
+    "homes": "Szenna 47 ([1866], 1896), 79 ([1872]), 89 ([1878]), 63 (1903); Ungszenna 64 (1910); Nagyszeretva 44 (1908)",
     "children": [
-      "Michael Nyemcsik and Maria Obsitnyik: Andreas, b. 22 Jul [1866]",
-      "András Hankuscsik [?], sexton, and Mária Nyemcsik: András, b. 15 Oct 1910"
+      "Michael Nyemcsik and Maria Obsitnyik: Andreas, b. 22 Jul [1866] (house 47)",
+      "János Nyemcsik and Erzsébet Hresko: Anna, b. 24 Aug [1872]",
+      "György Nyemcsik the younger and Mária Basiszta: Anna, b. 14 Aug [1878]",
+      "András Hankos[n]ák and Mária Nyemcsik: Anna, b. 24 Oct 1896 (house 47); András, b. 15 Oct 1910",
+      "János Nyemcsik and Mária Szalontai: Anna, b. 23 Jun 1903",
+      "János Nyemcsik and Susanna Kuslán [?], of Nagyszeretva: Anna, b. 30 Jun 1908"
     ],
-    "note": "Real Nyemcsiks, at Senné. No link to a Duska or a Demko is shown on these strips.",
+    "note": "The Nyemcsiks of the Senné Roman Catholic book: at least three men named János. Mária Nyemcsik and her husband live at house 47, the house of Michael Nyemcsik in 1866. No link to a Duska or a Demko is shown on these strips; why the owner collected the name is not known and is not guessed at here.",
     "route": "duska",
     "route_note": "",
     "documents": [
       "D-009-07",
-      "D-009-04"
+      "D-009-04",
+      "D-009-18",
+      "D-009-23",
+      "D-009-24",
+      "D-009-26",
+      "D-009-27"
     ]
   },
   {
@@ -1010,6 +1019,57 @@
     "route_note": "",
     "documents": [
       "D-009-09"
+    ]
+  },
+  {
+    "id": "FG-54",
+    "husband": "János Du[s]ka [?], miller",
+    "wife": "Anna Opsitnyik",
+    "rite": "Roman Catholic",
+    "homes": "Szenna 115",
+    "children": [
+      "Anna, b. 31 May 1900"
+    ],
+    "note": "A second miller of the name at Senné, five years after György Duska the younger, miller of house 1 (FG-50). The surname may be Drska. A third household in which Michal could have been born, if it is a Duska household at all.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-009-17"
+    ]
+  },
+  {
+    "id": "FG-55",
+    "husband": "János Marczinyik",
+    "wife": "Anna Duska",
+    "rite": "Roman Catholic",
+    "homes": "Solymos 35",
+    "children": [
+      "Anna, b. 29 Dec [1876]"
+    ],
+    "note": "A Roman Catholic Duska woman married at Solymos, the Reformed Duskas' village.",
+    "route": "duska",
+    "route_note": "",
+    "documents": [
+      "D-009-22"
+    ]
+  },
+  {
+    "id": "FG-56",
+    "husband": "Kocsis households of Senné (two men)",
+    "wife": "see children",
+    "rite": "Roman Catholic",
+    "homes": "Szenna 94 (1891), 95 (1895); Ungszenna 101 (1906)",
+    "children": [
+      "János Kocsis and Anna Halász: Anna, b. 17 Dec 1891, d. 28 Jan 1894; Anna, b. 17 May 1906, d. 15 Apr 1908",
+      "Mihály Kocsis and Anna Dzvonyik: Anna, b. 26 Dec 1895"
+    ],
+    "note": "Roman Catholic Kocsis families at Senné, next door to each other in the 1890s. The Kocsis of the Demko line are Greek Catholic, of Solymos. This Anna Halász is the wife of János Kocsis from 1891 to 1906, so the Anna Halász who is wife of the miller György Duska in 1895 (FG-50) is another woman or a misreading.",
+    "route": "demko",
+    "route_note": "",
+    "documents": [
+      "D-009-19",
+      "D-009-20",
+      "D-009-21"
     ]
   }
 ]

@@ -3,7 +3,31 @@
 Written by the Duska agent (A-01) for the Places agent (A-03). Copy kept in the Duska repo at `comms/to-places.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-020. Read ledger v18.
+- Last updated: 12 Nov 2026, after Duska batch B-021. Read ledger v19.
+
+## 00000000000. B-021 (12 Nov): Senné Roman Catholic, part 2 (11 strips)
+
+| Source | Year | Residence | House | Household |
+|---|---|---|---|---|
+| `DUS:D-009-23` | [1872] | Szenna | 79 | Nyemcsik János, Hresko Erzsébet, RK zsel. |
+| `DUS:D-009-22` | [1876] | Solymos | 35 | Marczinyik János RK, Duska Anna RK, zsellér |
+| `DUS:D-009-24` | [1878] | Szenna | 89 | ifj. Nyemcsik György, Basiszta Mária |
+| `DUS:D-009-25` | 1886 | Szenna | 102 | Murnyik János, Szanko Mária |
+| `DUS:D-009-19` | 1891 | Szenna | 94 | Kocsis János r.k. gazda, Halász Anna |
+| `DUS:D-009-20` | 1895 | Szenna | 95 | Kocsis Mihály rk. zsellér, Dzvonyik Anna |
+| `DUS:D-009-18` | 1896 | Szenna | 47 | Hankos[n]ák András rk. gazd., Nyemcsik Mária |
+| `DUS:D-009-17` | 1900 | Szenna | 115 | Du[s]ka [?] János rk. molnár, Opsitnyik Anna |
+| `DUS:D-009-26` | 1903 | Szenna | 63 | Nyemcsik János rk. zsellér, Szalontai Mária |
+| `DUS:D-009-21` | 1906 | Ung Szenna | 101 | Kocsis János r.k. zsellér, Halász Anna |
+| `DUS:D-009-27` | 1908 | Nagyszeretva | 44 | Nyemcsik János r.k. zsellér, Kuslán [?] Susanna |
+
+- **The rename, narrowed:** "Szenna" on 25 June 1903, "Ung Szenna" on 19 May 1906.
+- **Two millers:** house 1 in 1895 (if. Duska György) and house 115 in 1900 (Du[s]ka [?] János). One mill and two houses, or two mills?
+- **Nagyszeretva is in the Senné Roman Catholic book** in 1908, with Greek Catholic godparents of the same village.
+- **Officiants:** Rusznák István, lelkész in 1886 and [esperes] plébános in 1891, between Balás and Buzinkay; Barna János signs "r.k. lelkész" in May 1906 and "plébános" by 1907.
+- **A second visitation:** "1906 évi május hó 22-én tartott egyházi látogatáskor", under the May 1906 entries.
+- **Column order:** the 1891 page has the residence before the parents; 1886 and 1895 have it after.
+- **Deaths noted:** 28 Nov 1886 (five weeks old), 28 Jan 1894, 15 Apr 1908.
 
 ## 0000000000. B-019 and B-020 (12 Nov): Prešov (4 strips) and the Senné Roman Catholic book (16 strips, part 1)
 

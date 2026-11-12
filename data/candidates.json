@@ -4939,8 +4939,8 @@
   },
   {
     "id": "K-413",
-    "name": "András Hankuscsik [?]",
-    "vitals": "Roman Catholic sexton of Ungszenna 64; father 1910",
+    "name": "András Hankos[n]ák (Hankuscsik) [?]",
+    "vitals": "Roman Catholic farmer of Szenna 47 (1896); sexton of Ungszenna 64 (1910)",
     "proof": "documented",
     "sources": [],
     "relation": "Parent in family group FG-52.",
@@ -4995,6 +4995,318 @@
     "sources": [],
     "relation": "Parent in D-009-05.",
     "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-419",
+    "name": "Anna Du[s]ka [?]",
+    "vitals": "b. 31 May and 1 June 1900; Szenna, house 115",
+    "proof": "documented",
+    "sources": [
+      "S-151"
+    ],
+    "relation": "Child of János Du[s]ka [?] and Anna Opsitnyik (D-009-17).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-420",
+    "name": "Anna Hankos[n]ák [?]",
+    "vitals": "b. 24 and 25 October 1896; Szenna, house 47",
+    "proof": "documented",
+    "sources": [
+      "S-152"
+    ],
+    "relation": "Child of András Hankos[n]ák [?] and Mária Nyemcsik (D-009-18).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-421",
+    "name": "Anna Kocsis",
+    "vitals": "b. 17 and 18 December 1891; Szenna, house 94",
+    "proof": "documented",
+    "sources": [
+      "S-153"
+    ],
+    "relation": "Child of János Kocsis and Anna Halász (D-009-19).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-422",
+    "name": "Anna Kocsis",
+    "vitals": "b. 26 and 28 December 1895; Szenna, house 95",
+    "proof": "documented",
+    "sources": [
+      "S-154"
+    ],
+    "relation": "Child of Mihály Kocsis and Anna Dzvonyik (D-009-20).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-423",
+    "name": "Anna Kocsis",
+    "vitals": "b. 17 and 19 May 1906; Ungszenna, house 101",
+    "proof": "documented",
+    "sources": [
+      "S-155"
+    ],
+    "relation": "Child of János Kocsis and Anna Halász (D-009-21).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-424",
+    "name": "Anna Marczinyik",
+    "vitals": "b. 29 December [1876]; Solymos, house 35",
+    "proof": "documented",
+    "sources": [
+      "S-156"
+    ],
+    "relation": "Child of János Marczinyik and Anna Duska (D-009-22).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-425",
+    "name": "Anna Nyemcsik",
+    "vitals": "b. 24 August [1872]; Szenna, house 79",
+    "proof": "documented",
+    "sources": [
+      "S-157"
+    ],
+    "relation": "Child of János Nyemcsik and Erzsébet Hresko (D-009-23).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-426",
+    "name": "Anna Nyemcsik",
+    "vitals": "b. 14 August [1878]; Szenna, house 89",
+    "proof": "documented",
+    "sources": [
+      "S-158"
+    ],
+    "relation": "Child of György Nyemcsik the younger and Mária Basiszta (D-009-24).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-427",
+    "name": "Anna Murnyik",
+    "vitals": "b. 24 October 1886; Szenna, house 102",
+    "proof": "documented",
+    "sources": [
+      "S-159"
+    ],
+    "relation": "Child of János Murnyik and Mária Szanko (D-009-25).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-428",
+    "name": "Anna Nyemcsik",
+    "vitals": "b. 23 and 25 June 1903; Szenna, house 63",
+    "proof": "documented",
+    "sources": [
+      "S-160"
+    ],
+    "relation": "Child of János Nyemcsik and Mária Szalontai (D-009-26).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-429",
+    "name": "Anna Nyemcsik",
+    "vitals": "b. 30 June and 1 July 1908; Nagyszeretva, house 44",
+    "proof": "documented",
+    "sources": [
+      "S-161"
+    ],
+    "relation": "Child of János Nyemcsik and Susanna Kuslán [?] (D-009-27).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-430",
+    "name": "János Du[s]ka [?]",
+    "vitals": "Roman Catholic miller of Szenna 115; father 1900",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-54.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-431",
+    "name": "Anna Opsitnyik",
+    "vitals": "Roman Catholic, of Szenna; mother 1900",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-54.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-432",
+    "name": "János Marczinyik",
+    "vitals": "Roman Catholic cottar of Solymos 35; father [1876]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-55.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-433",
+    "name": "Anna Duska",
+    "vitals": "Roman Catholic; wife of János Marczinyik, Solymos 35, [1876]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-55.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-434",
+    "name": "János Kocsis",
+    "vitals": "Roman Catholic farmer, later cottar, of Szenna 94 (1891) and Ungszenna 101 (1906)",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-435",
+    "name": "Anna Halász",
+    "vitals": "Roman Catholic; wife of János Kocsis, 1891 and 1906",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-436",
+    "name": "Mihály Kocsis",
+    "vitals": "Roman Catholic cottar of Szenna 95; father 1895",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-437",
+    "name": "Anna Dzvonyik",
+    "vitals": "mother 1895",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-56.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-438",
+    "name": "János Nyemcsik",
+    "vitals": "Roman Catholic cottar of Szenna 79; father [1872]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-439",
+    "name": "Erzsébet Hresko",
+    "vitals": "mother [1872]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-440",
+    "name": "György Nyemcsik the younger",
+    "vitals": "Roman Catholic, of Szenna 89; father [1878]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-441",
+    "name": "Mária Basiszta",
+    "vitals": "mother [1878]; godmother 1886",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-442",
+    "name": "János Murnyik",
+    "vitals": "Roman Catholic cottar of Szenna 102; father 1886; godfather 1903",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in D-009-25.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-443",
+    "name": "Mária Szanko",
+    "vitals": "mother 1886",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in D-009-25.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-444",
+    "name": "János Nyemcsik",
+    "vitals": "Roman Catholic cottar of Szenna 63; father 1903",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-445",
+    "name": "Mária Szalontai",
+    "vitals": "mother 1903",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-446",
+    "name": "János Nyemcsik",
+    "vitals": "Roman Catholic cottar of Nagyszeretva 44; father 1908",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-447",
+    "name": "Susanna Kuslán [?]",
+    "vitals": "mother 1908",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-52.",
+    "route": "duska",
     "route_note": ""
   }
 ]

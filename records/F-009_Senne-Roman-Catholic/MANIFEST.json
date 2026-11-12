@@ -1,7 +1,7 @@
 {
   "folder_id": "F-009",
   "desktop_path": "Senne - Roman Catholic",
-  "note": "Part 1 of the folder (16 files). Files as received through chat upload.",
+  "note": "Parts 1 and 2 of the folder (27 files). Files as received through chat upload.",
   "files": [
     {
       "file": "Baptism_of_Andras_Duska_1882.png",
@@ -146,6 +146,105 @@
       "received": "2026-11-12",
       "via": "chat upload",
       "part": 1
+    },
+    {
+      "file": "Baptism_of_Anna_Duska_or_Drska_1900.png",
+      "sha256": "36674a6da8c9d9b3782b5e176249bcab195c54bec4b3ce74c43932f84ebce5fe",
+      "bytes": 437429,
+      "pixels": "1678x200",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Anna_Haurcosnak_Nyemcsik_1896.png",
+      "sha256": "f88999e4046443d5ed29f6d235a15ddd63b2d1efce825be86ac0545adc871443",
+      "bytes": 631843,
+      "pixels": "1753x254",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Anna_Kocsis_1891.png",
+      "sha256": "315a5342a18dad80f67b4008a80ba10c97187f01bc4641d5c3beb839b1cb3680",
+      "bytes": 894873,
+      "pixels": "1762x393",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Anna_Kocsis_1895.png",
+      "sha256": "96574c65ded5de828c6522b0814f401f39519cb4e893506aaef8a7a43387b856",
+      "bytes": 530919,
+      "pixels": "1742x232",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Anna_Kocsis_1906.png",
+      "sha256": "45b1135d525e877e127130086b3f6345486925df50a5d27fe5de65dc69d3b180",
+      "bytes": 519194,
+      "pixels": "1731x217",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Anna_Marczinyik_1876.png",
+      "sha256": "796e2ecf68e2a1bac67f4290f08d37017d8c29c6f340382e5e8205c8dfcc1979",
+      "bytes": 333305,
+      "pixels": "1729x133",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Anna_Nyemcsik_1872.png",
+      "sha256": "2daced46d19786744be8be33f1955421f66de6122e3e923116e96673a068c65e",
+      "bytes": 440495,
+      "pixels": "1704x177",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Anna_Nyemcsik_1878.png",
+      "sha256": "45ae8c2ba9aac26bf86502b5c60ffee1cbdf5db7c1673232661f5545d1e9fec3",
+      "bytes": 379287,
+      "pixels": "1720x157",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Anna_Nyemcsik_1886.png",
+      "sha256": "d5f94334d07611009d935050581e599e1206e704b1244ced3bd9b6e201f1da38",
+      "bytes": 667387,
+      "pixels": "1662x273",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Anna_Nyemcsik_1903.png",
+      "sha256": "e11909d3f38883efbc29ad23f0db06acf3594a3d40a35177ab88cd43fa3121be",
+      "bytes": 535533,
+      "pixels": "1770x228",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
+    },
+    {
+      "file": "Baptism_of_Anna_Nyemcsik_1908.png",
+      "sha256": "5e7b5025ed3d244464001135362c214771917f338dd87566a21702a152e358af",
+      "bytes": 516471,
+      "pixels": "1790x219",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 2
     }
   ]
 }

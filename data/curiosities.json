@@ -241,10 +241,10 @@
     "doc": "D-009-08",
     "source": "S-142",
     "title": "Szenna becomes Ungszenna",
-    "text": "Up to 1900 the priest writes the village as Szenna. By 1907 every line says Ungszenna, the county's name bolted on the front: the Hungarian state had gone through its villages giving each a name no other shared.",
+    "text": "Up to 1900 the priest writes the village as Szenna. By 1907 every line says Ungszenna, the county's name bolted on the front: the Hungarian state had gone through its villages giving each a name no other shared. Part 2 narrows it: the priest still writes Szenna in June 1903 and Ungszenna in May 1906.",
     "original": "Ungszenna",
     "translation": "Senné in Ung county",
-    "why": "A date for the rename can be read straight off the strips: after March 1900, by July 1907.",
+    "why": "A date for the rename can be read straight off the strips: after June 1903, by May 1906.",
     "tone": "history"
   },
   {
@@ -279,5 +279,27 @@
     "translation": "at the church visitation held on 6 June 1893",
     "why": "It dates the moment an inspector had this very page open.",
     "tone": "history"
+  },
+  {
+    "id": "C-042",
+    "doc": "D-009-18",
+    "source": "S-152",
+    "title": "One man, three spellings, two jobs",
+    "text": "The husband of Mária Nyemcsik is a farmer at house 47 in 1896 and the church's sexton at house 64 in 1910. The owner's two file names spell him Haurcosnak and Harucsak; the strips look like Hankosnák and Hankuscsik. The godparents, András Raskóczki and Zsuzsanna Tkács, are the same both times, which is how it is known to be one man.",
+    "original": "Hankos[n]ák András rk. gazd. (1896); Hankuscsik András, r.k. egyházfi (1910)",
+    "translation": "András Hankosnák, Roman Catholic farmer (1896); András Hankuscsik, Roman Catholic sexton (1910)",
+    "why": "A surname nobody, clerk or collector, could settle on.",
+    "tone": "funny"
+  },
+  {
+    "id": "C-043",
+    "doc": "D-009-17",
+    "source": "S-151",
+    "title": "Duska or Drska?",
+    "text": "The owner's own file name asks the question. The father is a miller called János, and the third letter of his surname is a single hooked stroke that this clerk uses for both u and r. Five years earlier the same priest entered another miller of the village as Duska, without doubt.",
+    "original": "D[u]ska János rk. molnár Szenna",
+    "translation": "János D[u]ska, Roman Catholic miller, of Szenna",
+    "why": "Whether Senné had one milling family or two turns on one pen stroke.",
+    "tone": "odd"
   }
 ]

@@ -757,7 +757,8 @@
     "effect": "raised from 45 to 60",
     "note": "Folder F-009 is the Senné Roman Catholic book itself. It shows Roman Catholic Duskas at Senné from 1866 to 1907, cottars and a miller, with two households bearing children in the 1890s and 1900s. Michal's own entry is not among the sixteen strips of part 1, which run only from 'Andras' to 'Anna' in the owner's file names."
    }
-  ]
+  ],
+  "question": "X-Q-06"
  },
  {
   "id": "H-031",
@@ -851,7 +852,8 @@
     "note": "The Greek Catholic György Dusko is one remove further off. One thread remains: a János Hornyák, Greek Catholic, is godfather to the children of András Duska of Senné 73 in 1893 and 1907, and György Dusko's wife was a Hornyák."
    }
   ],
-  "necronym_risk": "unresolved"
+  "necronym_risk": "unresolved",
+  "question": "X-Q-06"
  },
  {
   "id": "H-036",
@@ -949,7 +951,8 @@
     "note": "The Reformed boy of 'Bradenville' now has rivals in the right church and the right village (H-046, H-047)."
    }
   ],
-  "necronym_risk": "unresolved"
+  "necronym_risk": "unresolved",
+  "question": "X-Q-06"
  },
  {
   "id": "H-041",
@@ -973,7 +976,8 @@
     "note": "As for H-040, and he was the older and less likely of the two."
    }
   ],
-  "necronym_risk": "unresolved"
+  "necronym_risk": "unresolved",
+  "question": "X-Q-06"
  },
  {
   "id": "H-042",
@@ -1064,9 +1068,15 @@
     "batch": "B-020",
     "effect": "raised at 35",
     "note": "The leading candidate for Michal's parentage on this board."
+   },
+   {
+    "batch": "B-021",
+    "effect": "no change",
+    "note": "Part 2 has eleven more strips, every one an Anna. No Mihály yet. The mother of the 1907 twins is written Nyemecz; the owner collects a Nyemcsik family of the same village. The two names are close and the strip is to be looked at again before anything is made of it."
    }
   ],
-  "necronym_risk": "unresolved"
+  "necronym_risk": "unresolved",
+  "question": "X-Q-06"
  },
  {
   "id": "H-047",
@@ -1083,8 +1093,14 @@
     "batch": "B-020",
     "effect": "raised at 15",
     "note": "Rivals for Michal's parentage now: H-046 35, H-047 15, H-040 15, H-035 8, H-041 5; 22 left for a couple not yet seen."
+   },
+   {
+    "batch": "B-021",
+    "effect": "no change",
+    "note": "A second miller appears: János Du[s]ka [?] of house 115, with Anna Opsitnyik, 1900 (FG-54). If the name is Duska, the milling Duskas are two households and this hypothesis covers only one of them. Also, an Anna Halász is the wife of János Kocsis in 1891 and 1906, which throws doubt on the miller's wife's name as read in 1895."
    }
-  ]
+  ],
+  "question": "X-Q-06"
  },
  {
   "id": "H-048",
@@ -1107,7 +1123,7 @@
  {
   "id": "H-049",
   "statement": "György Duska 'the younger', cottar of Senné 5 and 6 with Erzsébet Schwarz in [1879] and [1882], and György Duska 'the younger', miller of Senné 1 with Anna Halász in 1895, are one man who married twice.",
-  "confidence": 45,
+  "confidence": 40,
   "basis": "Same name and the same 'ifj.', same church and village, thirteen years apart, with the wife changed. A change of mother is a second marriage until a second man is shown. Against: cottar to miller is a real change of standing, and a son of the first couple could himself be 'the younger' by 1895 only if born by about 1875.",
   "test": "The burial of Erzsébet Schwarz between 1882 and 1895; György's second marriage entry.",
   "status": "open",
@@ -1119,6 +1135,11 @@
     "batch": "B-020",
     "effect": "raised at 45",
     "note": ""
+   },
+   {
+    "batch": "B-021",
+    "effect": "lowered from 45 to 40",
+    "note": "With a miller named János D[u]ska in 1900, 'the younger György the miller' is less likely to be the cottar György of 1882 with a new trade and more likely to belong to a milling family."
    }
   ]
  },
