@@ -1,7 +1,7 @@
 {
   "folder_id": "F-013",
   "desktop_path": "Duska Death",
-  "note": "Sub-folder 'Belza Kosice Greek Catholic', marked full by the owner: 9 image strips, received through chat upload on 12 Nov 2026. Sub-folder 'Cicarovce - Greek Catholic', sent in two parts and complete by the owner's words 'rest of folder': 18 image strips.",
+  "note": "Sub-folder 'Belza Kosice Greek Catholic', marked full by the owner: 9 image strips, received through chat upload on 12 Nov 2026. Sub-folder 'Cicarovce - Greek Catholic', sent in two parts and complete by the owner's words 'rest of folder': 18 image strips. Sub-folder 'Inacovce Greek Catholic', sent in four parts and marked final: 46 image strips.",
   "files": [
     {
       "file": "Death_of_Andras_Solsesz_Demko_1878.png",
@@ -245,6 +245,420 @@
       "received": "2026-11-12",
       "via": "chat upload",
       "part": "Cicarovce - Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Bodriar_Krak_1865.png",
+      "sha256": "695f160df6cfbcba12970a0a73b11c7d91c25c04cf9334a30d5aa2d90efb54d1",
+      "bytes": 777481,
+      "pixels": "1748x332",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Demko_1870.png",
+      "sha256": "5e2550a1cb5b26e2675fb18a074d7adb743172d48ee28fb966fcc84af1089861",
+      "bytes": 354707,
+      "pixels": "1499x169",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Demko_1891.png",
+      "sha256": "915a79f395bdbdef8fed72216d805c859d78994e3e81255214e4fe51b734b690",
+      "bytes": 704543,
+      "pixels": "1607x226",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Duska_1831.png",
+      "sha256": "c021e313b8c64bffcac35570d4812545cbaf2f9a5775c02f265a89cad007de5c",
+      "bytes": 466846,
+      "pixels": "1484x165",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Duska_1846.png",
+      "sha256": "39f0c38258e6ae52f617a2c7f98d86946722ca8cd476cc176d6a45bbd928f87c",
+      "bytes": 504193,
+      "pixels": "1762x155",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Duska_1873.png",
+      "sha256": "7f46b2db6439d7016d8be5054455393c59e2fe182ad17082fa686992ff42e8e4",
+      "bytes": 456866,
+      "pixels": "1799x203",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Krak_1836.png",
+      "sha256": "3399b9656d9b3ff58afb3c80e4054a9a72c2b0d272b1281987c65993df848185",
+      "bytes": 944286,
+      "pixels": "1531x336",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Krak_1847.png",
+      "sha256": "5492b90513c7a878a85d4fae85058bf0703788e7954f3ea4787d923aa0783f4e",
+      "bytes": 898355,
+      "pixels": "1651x288",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Krak_1848.png",
+      "sha256": "35c55a80317449d0bb9da8f7e29dc236fa4d5c741cda2b18f8e430f4d10a92b2",
+      "bytes": 714343,
+      "pixels": "1588x236",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Krak_1860.png",
+      "sha256": "2cd08b851fd754c9f38743e3608dbcf414fb5e38a8370bfd705d6addceb051b0",
+      "bytes": 205743,
+      "pixels": "1637x89",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Krak_1873.png",
+      "sha256": "2e01738873da32ff1b9a8ec1f47f3c830b20f5177605701dbd7e4b2e4415bc69",
+      "bytes": 393113,
+      "pixels": "1633x192",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Krak_1881.png",
+      "sha256": "b596458e288bb492ebbce7a4d9de4acc4e4d870dac3200df39a03baf98900edd",
+      "bytes": 524205,
+      "pixels": "1627x164",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_E._Krak_1851.png",
+      "sha256": "1f2b360feff74461fffa9782740cbc6dd31f88a70beab355c606f5d101bf9c05",
+      "bytes": 759330,
+      "pixels": "1605x249",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Erzsebet_Demko_1885.png",
+      "sha256": "642653bb76a087e13b33c75d4d592947bfe4eb9839b6339d837295636fd29c24",
+      "bytes": 544400,
+      "pixels": "1673x174",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Eva_Demko_1837.png",
+      "sha256": "97e0015ecb9de95cf243f85bca9f6698b66b03ef477bae3d0e37b67d42cc5dc3",
+      "bytes": 907603,
+      "pixels": "1531x325",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Georgius_Krak_1873.png",
+      "sha256": "aeb40a9173e1a5c8a959ef7e8f70c8cc127770fc583ef33160ead1769cc9fcce",
+      "bytes": 485009,
+      "pixels": "1708x196",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Gyorgy_Demko_1879.png",
+      "sha256": "158df96bc1efd9af1b848c3dda09eea61a34afdc06b68969f74deb19113ac162",
+      "bytes": 560187,
+      "pixels": "1581x189",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Gyorgy_Krak_1847.png",
+      "sha256": "f7b26bad04b86a4fafaed6b57d894b494fa8e64abc7abe84a79dd10613cc44e2",
+      "bytes": 660665,
+      "pixels": "1581x217",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Janos_Demko_1883.png",
+      "sha256": "d83d5cc3503cdfc58031417d8ad92387d3e857ab0254767fa3cd96a3b30a57f3",
+      "bytes": 720265,
+      "pixels": "1732x221",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Janos_Kocsis_1891.png",
+      "sha256": "7322707221c34cfc982f3292d1b15cd2208d3cdc229041a98eaa91ea27de07a2",
+      "bytes": 734841,
+      "pixels": "1689x233",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Janos_Krak_1892.png",
+      "sha256": "3a1f8b1194c67726fe7449dbbbb55b358e8d9031c57eda7042baf0be2b42fdb6",
+      "bytes": 532965,
+      "pixels": "1708x164",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Joan_Krak_1851.png",
+      "sha256": "fb25fe82c03df6ab8d104f69ae92c74863b6fc98118185946e710159fad6c613",
+      "bytes": 497742,
+      "pixels": "1475x184",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Joannes_Demko_1864.png",
+      "sha256": "a861c0514d6fef7b1842abd0cb808d77124f19793a2ec6bca82e41a36b451b43",
+      "bytes": 829094,
+      "pixels": "1755x360",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Joannes_Duska_1830.png",
+      "sha256": "e9d302d87e82a84a089fb82bba6b296e205b3329be122581ea499d43e06054df",
+      "bytes": 898671,
+      "pixels": "1659x322",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Joannes_Krak_August_1812.png",
+      "sha256": "eed6b3ec29068ce0296290dfc871f2d69cc4ac9d9e2c0295c1037c6fe6f48871",
+      "bytes": 349917,
+      "pixels": "1860x115",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Joannes_Krak_May_1812.png",
+      "sha256": "569cff3b8a6aa0dcca50fbac3ac5591421d88fdebca6239f6fe09a4369ee511f",
+      "bytes": 276217,
+      "pixels": "1720x93",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Joanny_Krak_May_1812.png",
+      "sha256": "9dc9113cfaedf41d8f950e153d8aa3ac3927c024d9206840edd236a77907ce9b",
+      "bytes": 381841,
+      "pixels": "1806x123",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Johannes_Krak_1874.png",
+      "sha256": "b57bed7a651cf0ff6524253ad29ebbcc680003716c2a900d762fe3df0e31fe54",
+      "bytes": 561755,
+      "pixels": "1769x206",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Johannes_Velk_Demko_1872.png",
+      "sha256": "ea6dfe1d9143ca550b850e9d05d42fc973015115cc336d286aca51dd490aacaf",
+      "bytes": 547792,
+      "pixels": "1782x201",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Maria__Holos_1894.png",
+      "sha256": "81cf98361ba50e4d2ecf9b580632b59e42c6504107438765159cfb6a0b0adcdc",
+      "bytes": 698571,
+      "pixels": "1731x210",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Maria_Duska_-_Maybe_1829.png",
+      "sha256": "915535a8e7837274ff940f1dd280c5bb822d26436c31cc6aeb34752bc4c62680",
+      "bytes": 763271,
+      "pixels": "1637x260",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Maria_Duska_1874.png",
+      "sha256": "345afaaf480d8b7a1086895fd9e15a6000cbba590d75188f4efbe2a69556b65b",
+      "bytes": 219747,
+      "pixels": "1710x78",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Maria_Kocsis_1876.png",
+      "sha256": "b113b695e24613495309063ca58e8f5ecb3eabe1d196754d2052a6429dbd4735",
+      "bytes": 500374,
+      "pixels": "1712x192",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Maria_Krak_1842.png",
+      "sha256": "8f264f8cbaf5fd213db2874ab8212c9f41c429c1a2c8d827ada8f8a73540df45",
+      "bytes": 664818,
+      "pixels": "1478x237",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Maria_Krak_1846.png",
+      "sha256": "b54732db8364bbc8e4baa1f3b10a6262bac7251aeca72390812a93aa061bd65a",
+      "bytes": 809685,
+      "pixels": "1696x260",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Maria_Krak_June_1813.png",
+      "sha256": "df79d570c90bff0418e0cb721ce975cd95b6ad40bef25f454ea8bcd5c66e00b7",
+      "bytes": 610692,
+      "pixels": "1862x200",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Maria_Lazar_Demko_1897.png",
+      "sha256": "8a8aa688f93c92d8f8204d748f5e548af8dcc65681619a3888f8ea0b5624f17e",
+      "bytes": 495841,
+      "pixels": "1557x162",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Michael_Duska_1872.png",
+      "sha256": "4a70a959bb774667dd4a80fc1fe8294d047313c24e0a908c8525f8edd19a250a",
+      "bytes": 517442,
+      "pixels": "1768x208",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Michael_Duska_1870.png",
+      "sha256": "d92aa3ee90058382f6af26d95dbf8ad18beae4d6a3036d4dbbe6023d5aea6181",
+      "bytes": 373404,
+      "pixels": "1695x171",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Michael_Krak_December_1814.png",
+      "sha256": "478498c2ecc4d4682a0d2a03cd6ef247c9b7a44e36788a2fa8633cf04dbcadf6",
+      "bytes": 534887,
+      "pixels": "1880x174",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Mihaily_Krak_1875.png",
+      "sha256": "156cb0483931d094de750d86ee7d62c193f31be348aab930c68e1393eb55c950",
+      "bytes": 296444,
+      "pixels": "1613x121",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Mihaly_Holos_1891.png",
+      "sha256": "6e6560766a2d14fbd1b47675a7e0a8c665aee0624f37481da8ddb8b39561b02e",
+      "bytes": 582260,
+      "pixels": "1714x176",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Pal_Kocsis_1848.png",
+      "sha256": "a9545dc3710208d4feaf8f3352bb7d0c3eca103c8b28a3aa8e111e2dc8fa7cf2",
+      "bytes": 698296,
+      "pixels": "1800x214",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Unknown_Demko_1867.png",
+      "sha256": "4f2987dbf24bdf204c43b00413dcde23758ec7cf87c21ed802812d107b10df57",
+      "bytes": 748229,
+      "pixels": "1760x311",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Unknown_Duska_1827.png",
+      "sha256": "e3cfb0686328e90f1bac62db96807ad8019ac64cdd14742c96d67e66d4e0340a",
+      "bytes": 921914,
+      "pixels": "1820x295",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Death_of_Zuzanna_Duska_1876.png",
+      "sha256": "bf1e4c22eb5f6df7a180dca416c92bdd8c9c46b6dc377892c5fe2b6cee0fd2b5",
+      "bytes": 374446,
+      "pixels": "1717x157",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": "Inacovce Greek Catholic"
     }
   ],
   "held": []

@@ -2646,5 +2646,373 @@
   "title": "Burial of Mihály Pihulics, child of Mihály Pihulics and Mária Demko, Viszoka, March [1837]",
   "extract": "Mihály Pihulics, child of Mihály Pihulics and Mária Demko; an infant, age read doubtfully as four months; Greek Catholic; of Viszoka; died on the 17th of 'Böjt más hava' (March) of fever.",
   "reliability": "A register entry made at the burial. Reading level: medium; low for the age. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-318",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, one day old, daughter of Michael Bodnar and Anna Krak, Jesztreb 20, June 1865",
+  "extract": "Anna, daughter of Michael Bodnar and Anna Krak, Greek Catholic; Jesztreb, house 20; one day old; cause 'immatura' (born before her time); died 18 June 1865; buried at Jesztreb on 19 June by Josephus Danilovics, parish priest of Solymos. The owner's file name has 'Bodriar'; the entry reads Bodnar. The father is written with his own surname here and as 'Krak' on other pages.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-319",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, 2 months old, daughter of Michael Demko and Maria Lazar, Jesztreb 64, March [1871; filed as 1870]",
+  "extract": "Anna, daughter of Michael Demko, Greek Catholic, and Maria Lazar; Jesztreb, house 64; 2 months old; smallpox; died 16 March; buried at Jesztreb on 17 March. No year on the strip. The Anna of this couple was born on 12 January 1871 (D-005-08, D-005-58), which makes this March 1871, not 1870.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-320",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, daughter of Mihály Demko the younger and Anna Járos, Jesztreb 46, 17 March 1891",
+  "extract": "Anna, daughter of Mihály Demko the younger and Anna Járos; Jesztreb, house 46; aged 1 year and 3½ months; cause 'not known'; died 17 March 1891; buried at Jesztreb on 19 March. She is the Anna born 26 November [1889] (D-005-09), whose baptism carries this date of death.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-321",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Duska, widow, Szenna, in the cholera of August [1831]",
+  "extract": "Anna Duska, 'widow Duska'; Greek Catholic; of Szenna; died on 17 August 'in the cholera'. The age is two short strokes and is not read; it cannot be 11 for a widow. No year is on the strip. She is most likely the widow of the Joannes Duska who died at Szenna in May 1830 with Anna Hornyák named beside him (D-013-51).",
+  "reliability": "A register entry made at the burial. Reading level: medium; low for the age. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-322",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Dusko, widow, aged 64, September [1846]",
+  "extract": "Anna Dusko, a widow, aged 64, Greek Catholic; died on 28 September; cause begins 'hideg' (fever or ague); the village is written over and reads Szenna doubtfully. Born about 1782.",
+  "reliability": "A register entry made at the burial. Reading level: medium; low for the cause and the village. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-323",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, daughter of Michael Dankó, Jesztreb 14, March [1873]; filed as Duska",
+  "extract": "Anna, daughter of Michael Dankó, farmer, and Susana [J]erov; Jesztreb, house 14; a girl of about 2; a cough; died 12 March. The owner files her as a Duska. The surname is Dankó, with its accent, as in the Danko entries of Szenna in the baptism folder. Not a Duska.",
+  "reliability": "A register entry made at the burial. Reading level: high for the surname; low for the age and the mother. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-324",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Krak, aged 1, daughter of János, Jesztreb, March [1836]",
+  "extract": "Anna Krak, whose father is János, a farmer; aged 1; Greek Catholic; of Jesztreb; died on 8 March of smallpox. The rows above and below are also smallpox.",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-325",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Krak, aged 7, daughter of János Krak, Jesztreb, August [1847]",
+  "extract": "Anna Krak, whose father is János Krak, cottar; aged 7; Greek Catholic; of Jesztreb; died on 7 August of dysentery (vérhas). Born about 1840.",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-326",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Krak, an infant, daughter of János Krak and Zsuzsi Mihalko, Jesztreb, 8 December [1848]",
+  "extract": "Anna Krak, daughter of János Krak, cottar, and Zsuzsi Mihalko; age written as a fraction, read 1/12, that is about a month; Greek Catholic; of Jesztreb; died on 8 December; the cause ends 'nyav.' (nyavalya, a sickness or fits). She is the Anna baptised to this couple on 14 October [1848] (D-005-15), who was one of the two candidates for the wife of György Duska the elder. She died at about eight weeks.",
+  "reliability": "A register entry made at the burial. Reading level: high for the names; medium for the age; low for the cause. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-327",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Krak, aged 68, Jesztreb 13, May [1860]",
+  "extract": "Anna Krak, of Jesztreb, house 13; aged 68; dropsy; she had received the sacraments; died 16 May; buried at Jesztreb on 18 May. Born about 1792. No husband is named.",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-328",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, aged 2, daughter of Joannes Krak and Anna Mraz, Jesztreb, in the cholera of [1873]",
+  "extract": "Anna, daughter of Joannes Krak and Anna Mraz; Jesztreb; a girl of 2; cholera. The date and burial columns are empty; the row above is also cholera and the row below is September. She is the Anna baptised in 1871 at Jesztreb 19 (D-005-14).",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-329",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Krak, widow of Miklós Bodnár, aged 65, Jesztreb, 28 July 1881",
+  "extract": "Anna Krak, widow of Miklós Bodnár; Jesztreb; a woman of 65; decrepitude; sacraments: 'she was not [provided], through the negligence of the household'; died 28 July 1881; buried at Jesztreb on 30 July. Born about 1816, which is the year of the Anna baptised to Lucas and Zuzanna Krak (D-005-03). Her husband is Miklós here and Michael or Mihály in every other entry.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-330",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of [Gr]egorij Krak, husband of Anna Červenak, Jesztreb, November [1851]",
+  "extract": "A Krak whose given name the owner could not read and which is read here as Grigorij (Gregory); his wife Anna Červenak; aged 33, or perhaps 53; a farmer; of Jesztreb; 'he was not conscious', so no sacraments; died 15 November. A Gregorius Krak had a daughter of 13 in [1842] (D-013-61), which a man of 33 in [1851] could not have fathered: either the age is 53 or there were two.",
+  "reliability": "A register entry made at the burial. Reading level: medium; low for the given name, the age and the cause. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-331",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Erzsébet, daughter of Mihály Demko and Mária Lazár, Jesztreb 47, 11 February 1885",
+  "extract": "Erzsébet, daughter of Mihály Demko and Mária Lazár; Jesztreb, house 47; six months old; smallpox; died 11 February 1885; buried the next day. The Erzsébet born 13 August [1884] (D-005-18).",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-332",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Éva Demko, wife of András, Nagy Szeretva, March [1837]",
+  "extract": "Éva Demko, whose husband is András; aged 39; Greek Catholic; a farmer's wife; of Nagy Szeretva; died on 23 March of fever. Born about 1798.",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-333",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Georgius, aged 14, son of Michael 'Krak' and Anna Krak, Jesztreb 26, in the cholera of August [1873]",
+  "extract": "Georgius, son of Michael, whose surname the clerk began, struck out and wrote as Krak, and of Anna Krak; Jesztreb, house 26; a boy of 14; cholera; died about 24 August and was buried the next day. Born about 1859. A György of the same parents died in [1847] aged 3 (D-013-45): the name was given again.",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-334",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György, son of Mihály Demko, Jesztreb, 1 June 1879",
+  "extract": "György, son of Mihály Demko; Jesztreb; aged 1½; smallpox; died 1 June 1879; buried 3 June. The twin György born 27 June 1877 (D-005-22) would be nearly two.",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is in the entry."
+ },
+ {
+  "id": "S-335",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György Krak, aged 3, son of Mihály 'Krak' and Anna Krak, Jesztreb, April [1847]",
+  "extract": "György Krak, son of Mihály Krak and Anna Krak; aged 3; Greek Catholic; a farmer's child; of Jesztreb; died on 26 April of smallpox. The rows above and below are smallpox or measles.",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-336",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János, son of Mihály Demko and Mária Lázár, Jesztreb 47, 23 January 1883",
+  "extract": "János, son of Mihály Demko and Mária Lázár; Jesztreb, house 47; aged 4½; sore throat; died 23 January 1883; buried 25 January. The twin János born 27 June 1877 would be 5½. A later son of the couple was named János in December [1885].",
+  "reliability": "A register entry made at the burial. Reading level: high; medium for the age. The year is in the entry."
+ },
+ {
+  "id": "S-337",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János Kocsis, husband of Anna Kovács, born at Zavatka, Solymos 16, 3 November 1891",
+  "extract": "János Kocsis, husband of Anna Kovács, cottar; born at Zavatka, living at Solymos, house 16; a man of 70; decrepitude; sacraments yes; died 3 November 1891; buried at Solymos the next day. Born about 1821.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-338",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János Krak, widower, aged 69, Jesztreb, 3 April 1892",
+  "extract": "János Krak, widower, farmer; Jesztreb; a man of 69; decrepitude; sacraments yes; died 3 April 1892; buried at Jesztreb on 5 April by György Lescsisin, Greek Catholic pastor of Solymos. Born about 1823.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-339",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Ioan Krak, aged 1, son of Ioan Krak and Anna Krak, Jesztreb, February [1851]",
+  "extract": "Ioan Krak, son of Ioan Krak and Anna Krak; aged 1; of Jesztreb; died on 18 February.",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-340",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Joannes, aged 19, son of Joannes [Rusnak?] and Susana Demko, Jesztreb 18, 13 December 1864",
+  "extract": "Joannes, son of Joannes, surname read doubtfully as Rusnak, and Susana Demko; Jesztreb, house 18; a youth of 19; nervous fever (typhus); he received the sacraments; died 13 December 1864; buried at Jesztreb by Josephus Danilovics, parish priest of Solymos. Page 106 of the volume. The owner files him as a Demko; Demko is his mother's name. In 1867 a Susana Demko is the wife of Joannes Szmeriga (D-013-71).",
+  "reliability": "A register entry made at the burial. Reading level: high; low for the father's surname. The year is in the entry."
+ },
+ {
+  "id": "S-341",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Joannes Duska, aged 61, Szenna, 4 May 1830",
+  "extract": "Joannes Duska; in the next column Anna Hornyák, his wife by the form's usage; aged 61; Greek Catholic; a cottar; of Szenna; died on 4 May 1830; the cause begins 'In Ca...'. Born about 1769. He is the earliest Duska found at Szenna, and he is Greek Catholic.",
+  "reliability": "A register entry made at the burial. Reading level: high; low for the cause. The year is in the entry."
+ },
+ {
+  "id": "S-342",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Georgius, son of Joannes Krak, Jesztreb, August [1812]",
+  "extract": "Buried at Jesztreb: Georgius, son of Joannes Krak, aged about 4. The owner's file name gives the father's name; the dead child is Georgius.",
+  "reliability": "A register entry made at the burial. Reading level: medium; low for the day and age. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-343",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Joannes Krak, farmer, aged 30, Jesztreb, [1812]",
+  "extract": "Buried at Jesztreb: Joannes Krak, farmer, aged 30. Born about 1782. If the two children buried in the same year are his, the family lost the father and two sons within months.",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-344",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Michael, son of Joannes Krak, Jesztreb, 15 May [1812]",
+  "extract": "Buried at Jesztreb on the 15th of the same month as the row above, which is May: Michael, son of Joannes Krak, aged about 2.",
+  "reliability": "A register entry made at the burial. Reading level: medium; low for the age. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-345",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Joannes Krak, aged 64, husband of Maria, Jesztreb, 27 January [1874]",
+  "extract": "Joannes Krak, whose wife is Maria; Jesztreb; a man of 64; old age; he received the sacraments; died 27 January; buried the next day. Born about 1810. A third adult János Krak of Jesztreb, beside the widower who died in 1892 and the man of FG-23.",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-346",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Joannes, infant son of Anna Danko, Solymos, December [1872]; filed as Demko",
+  "extract": "Joannes, with a word after the name that the owner reads 'Velk' and that may be 'illeg.'; one parent only, the mother, Anna Danko; Solymos; a boy a few weeks old; died 9 December; buried the next day. The owner files him as a Demko; the mother's name is Danko.",
+  "reliability": "A register entry made at the burial. Reading level: medium; low for the word after the name and the cause. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-347",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária Holos, daughter of Mihály Holos and Mária Demko, Jesztreb 34, 4 February 1894",
+  "extract": "Mária Holos, daughter of Mihály Holos and Mária Demko; Jesztreb, house 34; aged 2 years and 2 months; measles (veres himlő); died 4 February 1894; buried 6 February by György Lescsisin, Greek Catholic pastor of Solymos.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-348",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Maria, wife of Joannes Duska, aged 45, Szenna, 20 December 1829",
+  "extract": "Maria, with a surname or by-name beginning 'Hor' that is not securely read; in the next column Joannes Duska, her husband by the form's usage; aged 45; Greek Catholic; a sub-cottar's wife; of Szenna; died on 20 December 1829 of a burning fever. The owner's 'maybe 1829' is right: the year is in the entry. Born about 1784.",
+  "reliability": "A register entry made at the burial. Reading level: high for the year, Joannes Duska and Szenna; low for her own surname. The year is in the entry."
+ },
+ {
+  "id": "S-349",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Maria Dusko, widow of Georgius, aged 65, Szenna, 29 May 1874",
+  "extract": "Maria Dusko, widow of Georgius; of Szenna; a woman of 65; old age; she received the sacraments; died 29 May; buried at Szenna on 30 May. The remark on the next row names 'the flood of the year 1874', which fixes the year. Born about 1809. She is a Greek Catholic widow at Szenna in the generation of the parents of György Duska the elder.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-350",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Maria, daughter of Joannes Kocsis, cottar, Solymos 13, 3 January 1876",
+  "extract": "Maria, daughter of Joannes Kocsis, cottar of Solymos; Solymos, house 13; no age entered; 'carbunculus' (a malignant boil; anthrax); died 3 January 1876; buried the next day.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-351",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Maria Krak, aged 13, daughter of Gregorius Krak, Jesztreb, December [1842]",
+  "extract": "Maria Krak, whose father is Gregorius Krak; aged 13; Greek Catholic; of Jesztreb; died on 22 December of inflammation of the lungs. Born about 1829.",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-352",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Maria Krak, aged 1, daughter of János Krak and Zsuzsi Michalko, Jesztreb, January [1846]",
+  "extract": "Maria Krak, daughter of János Krak, cottar, and Zsuzsi Michalko; aged 1; Greek Catholic; of Jesztreb; died at the end of January of measles (veres himlő).",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-353",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Maria Krak, aged 35, Jesztreb, [June 1813]",
+  "extract": "Buried at Jesztreb: Maria Krak, aged 35. Born about 1778. Month and year are from the owner's file name.",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-354",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária Lázár, wife of Mihály Demko, Jesztreb 54, 23 April 1897",
+  "extract": "Mária Lázár, wife of Mihály Demko; Jesztreb, house 54; a woman of 54; pneumonia; sacraments yes; died 23 April 1897; buried 25 April. Born about 1843. Her husband survived her.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-355",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Michael, aged 1, son of Paulus [B]o[ly]ár and Maria Dusko, at the Hrabó farm of Szenna, November [1872]",
+  "extract": "Michael, son of Paulus, surname read doubtfully, and Maria Dusko; 'Hrabó, Szenna'; a boy of 1; a cough; died 27 November; buried at Hrabó, Szenna; remark: '(from Kraska, serving at Hrabó)'. The owner files the child as a Duska; Dusko is his mother's name. The family were farm servants on the Hrabó farm of Senné, where András Duska was living when he married in 1892.",
+  "reliability": "A register entry made at the burial. Reading level: medium; low for the father's surname. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-356",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Michael, aged 1½, son of Georgius Dusko and Susana Prachonyik, Solymos, December [1870]",
+  "extract": "Michael, son of Georgius Dusko and Susana Prachonyik; Solymos; a boy of 1½; 'carbunculus' (anthrax); died 11 December; buried the next day. He is the Mihály born in 1869 of the census sheet (D-011-09) and the Mihail baptised on 5 September [1869], whose mother's name was doubtful there. It reads Prachonyik plainly here.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-357",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Michael, son of Lucas Krak, 9 months, Jesztreb, 13 December [1814]",
+  "extract": "Buried at Jesztreb on the 13th: Michael, son of Lucas Krak, aged 9 months. Lucas Krak is the father of the Anna baptised in [1816] (FG-11).",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-358",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mihály, son of János Krak and Anna Mráz, Jesztreb 20, 18 February [1875]",
+  "extract": "Mihály Krak, whose parents are János and Anna Mráz; Jesztreb, house 20; a boy of about 5; fever; died 18 February; buried the next day.",
+  "reliability": "A register entry made at the burial. Reading level: medium; low for the age. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-359",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mihály, son of Mihály Holos and Mária Demko, Jesztreb 38, 16 January 1891",
+  "extract": "Mihály, son of Mihály Holos and Mária Demko; Jesztreb, house 38; six months old; diphtheria (torokgyík); died 16 January 1891; buried 18 January.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-360",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Pál Kocsis, aged 32, husband of Maria Jevcsak, February [1848]",
+  "extract": "Pál Kocsis, whose wife is Maria Jevcsak; aged 32; Greek Catholic; a farmer with a holding; died on 17 February; the cause is not read; the village on his row reads Jesztreb, where his children's baptisms have Solymos. Born about 1816. His wife is the Mária Iv[a]ncsák of the baptism of [1846]. A Pál Kocsis with a wife Anna Cservenyák has children before and after, so there were two men of the name, or the file-name years are out.",
+  "reliability": "A register entry made at the burial. Reading level: medium; low for the cause and the village. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-361",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Josephus, aged 6, son of Joannes Szmeriga and Susana Demko, Jesztreb 15, 28 February 1867",
+  "extract": "Josephus, son of Joannes Szmeriga, Greek Catholic farmer, and Susana Demko; Jesztreb, house 15; a boy of 6; 'red pox' (measles); died 28 February 1867; buried 2 March by Josephus Danilovics, parish priest of Solymos. The owner's 'unknown Demko' is a Szmeriga; Demko is the mother's name.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-362",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of a person of the Duska name, aged 58, Solymos, 30 March 1827",
+  "extract": "A person entered under 'Duska' with further words that are not read; in the next column Joannes Spi[sz...]; aged 58; Greek Catholic; cottar; of Solymos; died on 30 March 1827 of dropsy. If the first column is a woman's birth name and the second her husband, she is a Duska by birth, born about 1769, married to a Joannes Spi[sz...]. The owner could not read the name either.",
+  "reliability": "A register entry made at the burial. Reading level: high for the year, age and village; low for the names. The year is in the entry."
+ },
+ {
+  "id": "S-363",
+  "batch": "B-046",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Zuzanna, 9 months, daughter of Michael Demko, Jesztreb 34, 10 April [1876]; filed as Duska",
+  "extract": "Zuzanna, daughter of Michael Demko, Greek Catholic cottar of Jesztreb; Jesztreb, house 34; 9 months; measles; died 10 April; buried the next day. The surname is split over two lines, 'Dem' and 'ka'; the owner read Duska. She is the Susanna born 12 May [1875] to Michael Demko and Maria Lazár, whose baptism notes a death in 1876. Not a Duska.",
+  "reliability": "A register entry made at the burial. Reading level: high for the surname. The year is from the owner's file name only."
  }
 ]

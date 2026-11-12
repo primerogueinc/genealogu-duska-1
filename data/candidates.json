@@ -7465,5 +7465,485 @@
   "relation": "D-013-27. A second Mária Demko married at Viszoka in the 1830s, beside the wife of György Tirpák.",
   "route": "demko",
   "route_note": ""
+ },
+ {
+  "id": "K-628",
+  "name": "Anna Bodnar",
+  "vitals": "b. and d. June 1865, Jesztreb 20",
+  "proof": "documented",
+  "sources": [
+   "S-318"
+  ],
+  "relation": "D-013-28. Daughter of Michael Bodnar and Anna Krak (FG-12).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-629",
+  "name": "Anna Duska, widow",
+  "vitals": "d. 17 Aug [1831], Szenna, of cholera; Greek Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-321"
+  ],
+  "relation": "D-013-31. Most likely Anna Hornyák, widow of Joannes Duska (d. 1830). FG-64.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-630",
+  "name": "Anna Dusko, widow",
+  "vitals": "b. about 1782; d. 28 Sep [1846], Sz[enna?]; Greek Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-322"
+  ],
+  "relation": "D-013-32. A second Duska widow named Anna in the Greek Catholic book, fifteen years after the first.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-631",
+  "name": "Anna Dankó",
+  "vitals": "d. 12 Mar [1873], Jesztreb 14, a small child",
+  "proof": "documented",
+  "sources": [
+   "S-323"
+  ],
+  "relation": "D-013-33. Daughter of Michael Dankó. Filed by the owner as Duska; not one.",
+  "route": "places",
+  "route_note": ""
+ },
+ {
+  "id": "K-632",
+  "name": "Anna Krak (I)",
+  "vitals": "b. about 1835; d. 8 Mar [1836], Jesztreb, of smallpox",
+  "proof": "documented",
+  "sources": [
+   "S-324"
+  ],
+  "relation": "D-013-34. Daughter of a János Krak, farmer. The first of three Annas of a János Krak to die in childhood.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-633",
+  "name": "Anna Krak (II)",
+  "vitals": "b. about 1840; d. 7 Aug [1847], Jesztreb, of dysentery",
+  "proof": "documented",
+  "sources": [
+   "S-325"
+  ],
+  "relation": "D-013-35. Daughter of János Krak, cottar.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-634",
+  "name": "Anna Krak (III)",
+  "vitals": "b. 14 Oct [1848]; d. 8 Dec [1848], Jesztreb",
+  "proof": "documented",
+  "sources": [
+   "S-326"
+  ],
+  "relation": "D-013-36. Daughter of János Krak and Zsuzsanna Michalko. Not the wife of György Duska (H-056 refuted).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-635",
+  "name": "Anna Krak, aged 68",
+  "vitals": "b. about 1792; d. 16 May [1860], Jesztreb 13",
+  "proof": "documented",
+  "sources": [
+   "S-327"
+  ],
+  "relation": "D-013-37. An old woman of the Krak name or marriage at Jesztreb.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-636",
+  "name": "Anna Krak (IV)",
+  "vitals": "b. 1871; d. [1873], Jesztreb, of cholera",
+  "proof": "documented",
+  "sources": [
+   "S-328"
+  ],
+  "relation": "D-013-38. Daughter of János Krak (properly Bodnár) and Anna Mraz (FG-23).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-637",
+  "name": "Anna Krak, wife of Bodnár",
+  "vitals": "b. about 1816; d. 28 Jul 1881, Jesztreb",
+  "proof": "documented",
+  "sources": [
+   "S-329"
+  ],
+  "relation": "D-013-39. Widow of a Bodnár called Miklós here and Mihály elsewhere (FG-12, H-033). Too old to be the wife of György Duska.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-638",
+  "name": "Grigorij (Gregorius) Krak",
+  "vitals": "d. 15 Nov [1851], Jesztreb; farmer",
+  "proof": "documented",
+  "sources": [
+   "S-330"
+  ],
+  "relation": "D-013-40. Husband of Anna Červenak.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-639",
+  "name": "Éva, wife of András Demko",
+  "vitals": "b. about 1798; d. 23 Mar [1837], Nagy Szeretva",
+  "proof": "documented",
+  "sources": [
+   "S-332"
+  ],
+  "relation": "D-013-42. A Demko household at Nagy Szeretva (Stretava).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-640",
+  "name": "Georgius Krak (the second)",
+  "vitals": "b. about 1859; d. Aug [1873], Jesztreb 26, of cholera",
+  "proof": "documented",
+  "sources": [
+   "S-333"
+  ],
+  "relation": "D-013-43. Son of Michael Bodnár, written Krak, and Anna Krak (FG-12).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-641",
+  "name": "György Krak (the first)",
+  "vitals": "b. about 1844; d. 26 Apr [1847], Jesztreb, of smallpox",
+  "proof": "documented",
+  "sources": [
+   "S-335"
+  ],
+  "relation": "D-013-45. Son of Mihály Bodnár, written Krak, and Anna Krak (FG-12).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-642",
+  "name": "János Kocsis",
+  "vitals": "b. about 1821, Zavatka; d. 3 Nov 1891, Solymos 16",
+  "proof": "documented",
+  "sources": [
+   "S-337"
+  ],
+  "relation": "D-013-47. Husband of Anna Kovács (FG-19).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-643",
+  "name": "János Krak, widower",
+  "vitals": "b. about 1823; d. 3 Apr 1892, Jesztreb",
+  "proof": "documented",
+  "sources": [
+   "S-338"
+  ],
+  "relation": "D-013-48. Of an age to be the husband of Zsuzsanna Michalko (FG-22) or of Anna Mraz (FG-23); the entry does not say.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-644",
+  "name": "Ioan Krak, an infant",
+  "vitals": "b. about 1850; d. 18 Feb [1851], Jesztreb",
+  "proof": "documented",
+  "sources": [
+   "S-339"
+  ],
+  "relation": "D-013-49. Son of an Ioan Krak and an Anna Krak.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-645",
+  "name": "Joannes, son of Susana Demko",
+  "vitals": "b. about 1845; d. 13 Dec 1864, Jesztreb 18",
+  "proof": "documented",
+  "sources": [
+   "S-340"
+  ],
+  "relation": "D-013-50. Father Joannes [Rusnak?]; mother Susana Demko.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-646",
+  "name": "Joannes Duska",
+  "vitals": "b. about 1769; d. 4 May 1830, Szenna; Greek Catholic cottar",
+  "proof": "documented",
+  "sources": [
+   "S-341"
+  ],
+  "relation": "D-013-51. The earliest Duska on record at Szenna. FG-64.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-647",
+  "name": "Anna Hornyák",
+  "vitals": "wife of Joannes Duska in 1830",
+  "proof": "documented",
+  "sources": [
+   "S-341"
+  ],
+  "relation": "D-013-51. Most likely the 'widow Duska' who died in the cholera of August [1831].",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-648",
+  "name": "Georgius Krak",
+  "vitals": "d. Aug [1812], Jesztreb, a child",
+  "proof": "documented",
+  "sources": [
+   "S-342"
+  ],
+  "relation": "D-013-52. Son of a Joannes Krak.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-649",
+  "name": "Joannes Krak",
+  "vitals": "b. about 1782; d. [1812], Jesztreb; farmer",
+  "proof": "documented",
+  "sources": [
+   "S-343"
+  ],
+  "relation": "D-013-53. Perhaps the father of the Georgius and Michael buried the same year.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-650",
+  "name": "Michael Krak",
+  "vitals": "d. 15 May [1812], Jesztreb, a child",
+  "proof": "documented",
+  "sources": [
+   "S-344"
+  ],
+  "relation": "D-013-54. Son of a Joannes Krak.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-651",
+  "name": "Joannes Krak, husband of Maria",
+  "vitals": "b. about 1810; d. 27 Jan [1874], Jesztreb",
+  "proof": "documented",
+  "sources": [
+   "S-345"
+  ],
+  "relation": "D-013-55. Of an age to be the János Krak, farmer, who buried an Anna in [1836].",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-652",
+  "name": "Joannes, son of Anna Danko",
+  "vitals": "d. 9 Dec [1872], Solymos, an infant",
+  "proof": "documented",
+  "sources": [
+   "S-346"
+  ],
+  "relation": "D-013-56. Filed by the owner as Demko; the mother is a Danko.",
+  "route": "places",
+  "route_note": ""
+ },
+ {
+  "id": "K-653",
+  "name": "Maria, wife of Joannes Duska",
+  "vitals": "b. about 1784; d. 20 Dec 1829, Szenna",
+  "proof": "documented",
+  "sources": [
+   "S-348"
+  ],
+  "relation": "D-013-58. Whether her husband is the Joannes who died five months later is H-081.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-654",
+  "name": "Maria Dusko, widow of Georgius",
+  "vitals": "b. about 1809; d. 29 May 1874, Szenna; Greek Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-349"
+  ],
+  "relation": "D-013-59. Perhaps the mother of György Duska the elder (H-080). FG-65.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-655",
+  "name": "Georgius Dusko of Szenna",
+  "vitals": "d. before May 1874",
+  "proof": "documented",
+  "sources": [
+   "S-349"
+  ],
+  "relation": "D-013-59. Husband of Maria (b. about 1809).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-656",
+  "name": "Maria Kocsis",
+  "vitals": "d. 3 Jan 1876, Solymos 13",
+  "proof": "documented",
+  "sources": [
+   "S-350"
+  ],
+  "relation": "D-013-60. Daughter of János Kocsis, cottar (FG-19).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-657",
+  "name": "Maria Krak",
+  "vitals": "b. about 1829; d. 22 Dec [1842], Jesztreb",
+  "proof": "documented",
+  "sources": [
+   "S-351"
+  ],
+  "relation": "D-013-61. Daughter of Gregorius Krak.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-658",
+  "name": "Maria Krak, an infant",
+  "vitals": "b. about 1845; d. Jan [1846], Jesztreb",
+  "proof": "documented",
+  "sources": [
+   "S-352"
+  ],
+  "relation": "D-013-62. Daughter of János Krak and Zsuzsanna Michalko (FG-22).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-659",
+  "name": "Maria Krak",
+  "vitals": "b. about 1778; d. [June 1813], Jesztreb",
+  "proof": "documented",
+  "sources": [
+   "S-353"
+  ],
+  "relation": "D-013-63. An adult of the Krak name or marriage.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-660",
+  "name": "Mária Lázár",
+  "vitals": "b. about 1843; d. 23 Apr 1897, Jesztreb 54",
+  "proof": "documented",
+  "sources": [
+   "S-354"
+  ],
+  "relation": "D-013-64. Wife of Mihály (Michael) Demko of Jesztreb (FG-15).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-661",
+  "name": "Maria Dusko, wife of Paulus [B]o[ly]ár",
+  "vitals": "a mother at the Hrabó farm of Szenna in [1872]",
+  "proof": "documented",
+  "sources": [
+   "S-355"
+  ],
+  "relation": "D-013-65. Her husband is 'from Kraska, serving at Hrabó'. A Duska woman on the farm twenty years before András Duska is found there.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-662",
+  "name": "Mihály Dusko",
+  "vitals": "b. Sep [1869]; d. 11 Dec [1870], Solymos",
+  "proof": "documented",
+  "sources": [
+   "S-356"
+  ],
+  "relation": "D-013-66. Son of György Dusko (b. 1846) and Zsuzsanna Prachonyik (FG-61, FG-25).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-663",
+  "name": "Michael Krak, an infant",
+  "vitals": "b. about Mar [1814]; d. 13 Dec [1814], Jesztreb",
+  "proof": "documented",
+  "sources": [
+   "S-357"
+  ],
+  "relation": "D-013-67. Son of Lucas Krak (FG-11).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-664",
+  "name": "Mihály Krak",
+  "vitals": "b. about 1869; d. 18 Feb [1875], Jesztreb 20",
+  "proof": "documented",
+  "sources": [
+   "S-358"
+  ],
+  "relation": "D-013-68. Son of János Krak (properly Bodnár) and Anna Mraz (FG-23).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-665",
+  "name": "Pál Kocsis",
+  "vitals": "b. about 1816; d. 17 Feb [1848]",
+  "proof": "documented",
+  "sources": [
+   "S-360"
+  ],
+  "relation": "D-013-70. Husband of Maria Jevcsak (FG-21).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-666",
+  "name": "Josephus Szmeriga",
+  "vitals": "b. about 1861; d. 28 Feb 1867, Jesztreb 15",
+  "proof": "documented",
+  "sources": [
+   "S-361"
+  ],
+  "relation": "D-013-71. Son of János Szmeriga and Zsuzsanna Demko.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-667",
+  "name": "A Duska of Solymos, aged 58",
+  "vitals": "b. about 1769; d. 30 Mar 1827, Solymos; Greek Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-362"
+  ],
+  "relation": "D-013-72. Name not read; perhaps a woman born Duska, wife of Joannes Spi[sz...].",
+  "route": "duska",
+  "route_note": ""
  }
 ]

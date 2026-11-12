@@ -928,5 +928,60 @@
   "translation": "Mihály … 12 days, weakness … János … 15 days, weakness",
   "why": "The crosses in the baptism register get their dates.",
   "tone": "sad"
+ },
+ {
+  "id": "C-101",
+  "doc": "D-013-59",
+  "source": "S-349",
+  "title": "The flood of 1874",
+  "text": "On the line under Maria Dusko's burial the priest entered a girl of sixteen from Solymos with the cause 'suffocata', and in the remarks, in Hungarian in a Latin book, the reason: the flood of the year 1874. Both villages lie in the wet lowland between the Uh and the Latorica.",
+  "original": "suffocata … 1874 évi víz áradás",
+  "translation": "drowned … the flood of the year 1874",
+  "why": "A dated disaster written into a register, and the only thing on the strip that gives its year.",
+  "tone": "history"
+ },
+ {
+  "id": "C-102",
+  "doc": "D-013-39",
+  "source": "S-329",
+  "title": "Through the negligence of the household",
+  "text": "Anna Krak died at 65 of old age. The column for the last sacraments usually says yes or no. Here the pastor wrote a sentence and named the guilty: she was not provided, 'through the negligence of those of the house'.",
+  "original": "nem volt a háziak hanyagsága miatt",
+  "translation": "she was not [provided], through the negligence of the household",
+  "why": "A priest using a register column to record a grievance.",
+  "tone": "odd"
+ },
+ {
+  "id": "C-103",
+  "doc": "D-013-36",
+  "source": "S-326",
+  "title": "Anna, three times",
+  "text": "A János Krak of Jesztreb buried a daughter Anna of one in March [1836], of smallpox. A János Krak buried an Anna of seven in August [1847], of dysentery. Fourteen months later János Krak and Zsuzsi Mihalko baptised another Anna, and buried her that December. This rebuild had the last one down as the likeliest future wife of György Duska.",
+  "original": "Krak Anna | Krak János, Zsuzsi Mihalko | 1/12",
+  "translation": "Anna Krak | János Krak, Zsuzsi Mihalko | one twelfth [of a year]",
+  "why": "It is why a baptism cannot be taken for an adult until the burials have been searched.",
+  "tone": "sad"
+ },
+ {
+  "id": "C-104",
+  "doc": "D-013-31",
+  "source": "S-321",
+  "title": "Two cholera summers",
+  "text": "Anna Duska, a widow of Szenna, died on 17 August in the first cholera, the cause written across two lines: 'In Chole-ra'. Forty-two years later, on the printed form, three Krak children's rows at Jesztreb read 'Cholera' in August, and for one of them the priest never filled in the day.",
+  "original": "In Chole-ra … Cholera",
+  "translation": "of the cholera … cholera",
+  "why": "The epidemics of 1831 and 1873 in one parish book, with the same family names.",
+  "tone": "history"
+ },
+ {
+  "id": "C-105",
+  "doc": "D-013-66",
+  "source": "S-356",
+  "title": "Carbuncle",
+  "text": "The grandson of the Solymos census household, eighteen months old, died of 'carbunculus'. So did a Kocsis girl of Solymos five years later. In a cattle village the word most likely means anthrax, caught from animals or hides (recalled, not sourced).",
+  "original": "Carbunc. … carbunculus",
+  "translation": "carbuncle",
+  "why": "A cause of death that points at the livestock.",
+  "tone": "history"
  }
 ]

@@ -190,13 +190,14 @@
  {
   "id": "F-013",
   "desktop_path": "Duska Death",
-  "described_as": "Announced by the owner as 'Duska Death Folder', beginning with the sub-folder 'Belza Kosice Greek Catholic', marked full: nine burial strips, eight of them Demko and Kocsis, one a D[u]ska of Galicia. Sub-folder 'Cicarovce - Greek Catholic', in two parts, complete: eighteen burial strips, [1831] to 1883, sixteen Demko and two Kocsis, all routed to the Demko agent. More sub-folders are expected.",
+  "described_as": "Announced by the owner as 'Duska Death Folder', beginning with the sub-folder 'Belza Kosice Greek Catholic', marked full: nine burial strips, eight of them Demko and Kocsis, one a D[u]ska of Galicia. Sub-folder 'Cicarovce - Greek Catholic', in two parts, complete: eighteen burial strips, [1831] to 1883, sixteen Demko and two Kocsis, all routed to the Demko agent. More sub-folders are expected. Sub-folder 'Inacovce Greek Catholic', four parts, final: 46 burial strips, 1812 to 1897: Krak (21), Demko, Kocsis and their kin (15), Duska or Dusko (8), and two Danko strips filed under other names.",
   "status": "open",
   "first_seen": "2026-11-12",
-  "files_received": 27,
+  "files_received": 73,
   "batches": [
    "B-043",
-   "B-044"
+   "B-044",
+   "B-046"
   ],
   "archive_path": "records/F-013_Duska-Death/"
  }

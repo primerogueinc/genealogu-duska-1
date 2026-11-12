@@ -913,6 +913,11 @@
     "batch": "B-015",
     "note": "The Places agent searched for a documented custom of entering a man under his wife's surname or house name in these villages and found none (PL-SR-19, PL-N-027 @208af51); Slovak studies describe a 'name of the house' elsewhere in the country. The identification rests on the entries themselves.",
     "effect": "no change"
+   },
+   {
+    "batch": "B-046",
+    "effect": "no change",
+    "note": "For: a burial of June 1865 writes the father 'Michael Bodnar' with the mother Anna Krak, and one of [1873] shows the clerk striking out a surname and writing Krak for him. A wrinkle: Anna Krak's own burial in 1881 calls her the widow of Miklós Bodnár, not Mihály. One slip of a given name, or a second husband; it stays at the cap."
    }
   ]
  },
@@ -1425,7 +1430,7 @@
  {
   "id": "H-050",
   "statement": "Anna Krak, Greek Catholic wife of Georgius Duska of Senné 6, belongs to the Krak families of Jesztreb and Szenna in folder F-005, and that marriage is why Krak baptisms sit among the Duska records.",
-  "confidence": 55,
+  "confidence": 40,
   "basis": "D-009-06 and D-009-10 name her beside a Duska; she is Greek Catholic, and the Kraks of F-005 are in the Greek Catholic book that served Senné. A girl Anna is among those strips (the one the owner labelled 'János Hrim Krak 1841'). The second half of the statement is about the owner's filing and is a label; only the first half is tested.",
   "test": "The marriage of Georgius Duska and Anna Krak, about 1860 to 1865, in either book, naming her father.",
   "status": "open",
@@ -1447,6 +1452,11 @@
     "batch": "B-024",
     "effect": "no change",
     "note": "A Krak baptism from Sztára is now in the archive as well. H-050 says she belongs to the Kraks of Jesztreb and Szenna; H-055 and H-056 now put the two named girls side by side."
+   },
+   {
+    "batch": "B-046",
+    "effect": "lowered from 55 to 40",
+    "note": "Four girls named Anna Krak at Jesztreb are now known to have died as children ([1836], [1847], [1848], [1873]) and one woman of the name was the wife of a Bodnár. No Anna Krak of Jesztreb born between about 1835 and 1848 is left standing in the strips in hand. She may still be of these families through a baptism not collected."
    }
   ]
  },
@@ -1557,7 +1567,7 @@
  {
   "id": "H-055",
   "statement": "Anna Krak, Greek Catholic wife of György Duska the elder of Senné, is the Anna baptised in January 1848 at Sztára, daughter of János Krak and Mária [Z]ebro.",
-  "confidence": 20,
+  "confidence": 25,
   "basis": "The name, and an age that fits: she would be 18 at the birth of her first known child in March 1866. This is the owner's own identification (PR-8), which carries no weight. Against it: the father is marked Roman Catholic and she is Greek Catholic in every Senné entry; Sztára is about 26 km from Senné in another county; and an Anna Krak was born the same year at Jesztreb, 4 km from Senné, in a Greek Catholic book (H-056). The word after her name in the 1892 marriage entry is not read as Sztára.",
   "test": "Her marriage to György Duska (about 1864 to 1866), which should name her parents or her village; her burial with an age; the church this Sztára book belongs to.",
   "status": "open",
@@ -1579,19 +1589,24 @@
     "batch": "B-040",
     "effect": "no change",
     "note": "The word after Anna Krak's name in the 1892 entry reads 'Deba' [?] on a second look, 'I[sk]e' [?] on the first. Neither is Sztára or Jesztreb. It is in the column for the parents' origin."
+   },
+   {
+    "batch": "B-046",
+    "effect": "raised from 20 to 25",
+    "note": "Its only named rival is gone. It does not rise far: the word after Anna Krak's name in the marriage entry of 1892 reads neither Sztára nor Jesztreb, and the Sztára father is Roman Catholic where she is Greek Catholic. 'Some other Anna Krak' is now the largest share."
    }
   ]
  },
  {
   "id": "H-056",
   "statement": "Anna Krak, Greek Catholic wife of György Duska the elder of Senné, is the Anna born on 14 October [1848] at Jesztreb, daughter of János Krak, cottar, and Zsuzsanna Michalko.",
-  "confidence": 35,
+  "confidence": 3,
   "basis": "Same name, Greek Catholic book, a village 4 km from Senné whose Krak baptisms the owner collected with the Duska ones (H-050). She would be 17 at the birth of the first known child in March 1866, which is young but not rare. No record joins the two.",
   "test": "As for H-055.",
-  "status": "open",
+  "status": "refuted",
   "raised": "B-024",
-  "resolved": null,
-  "resolution": null,
+  "resolved": "B-046",
+  "resolution": "The Jesztreb Anna of October [1848] died in December [1848].",
   "log": [
    {
     "batch": "B-024",
@@ -1607,13 +1622,18 @@
     "batch": "B-040",
     "effect": "no change",
     "note": "As for H-055."
+   },
+   {
+    "batch": "B-046",
+    "effect": "refuted; lowered from 35 to 3",
+    "note": "Her burial is in hand: Anna, daughter of János Krak and Zsuzsi Mihalko, died at Jesztreb on 8 December aged about a month (D-013-36). The search of burials that the coordinator's rule on reused names asks for was run on the folder as it arrived, and it removed the leading candidate. The year stands in the owner's file names for both the baptism and the burial; an infant of that age on 8 December fits a baptism of 14 October and no other."
    }
   ]
  },
  {
   "id": "H-057",
   "statement": "The Roman Catholic Duskas of Senné came from Solymos (Iňačovce): they descend from one of the two Duska households in the urbarial table there, Mihály the serf or György the cottar.",
-  "confidence": 35,
+  "confidence": 40,
   "basis": "The table lists every household head of Solymos and has two Duskas. The table for Szenna, complete but for one serf, has none. By 1866 a Duska family is at Senné, 6 km away. Against: the Duskas known at Solymos later are Reformed and Greek Catholic, and those of Senné are Roman Catholic; ninety years lie between the table and the first Senné baptism in hand; and the surname may have other homes not yet looked at.",
   "test": "The missing page of the Szenna table; the Senné Roman Catholic register before 1866; the census of 1828 for both villages; the marriage of György Duska the elder.",
   "status": "open",
@@ -1641,6 +1661,11 @@
     "batch": "B-039",
     "effect": "no change",
     "note": "With György Duska the elder entered as Ahn 32, this is now the question of where Ahn 32 was born."
+   },
+   {
+    "batch": "B-046",
+    "effect": "raised from 35 to 40",
+    "note": "Duskas were at Szenna by 1829 and they were Greek Catholic, like the György Duska born at Solymos in 1820 and unlike the Reformed majority of the name there. The tables of about 1770 show none at Szenna. That fits a move from Solymos between about 1770 and 1829; it does not show one."
    }
   ]
  },
@@ -1749,7 +1774,7 @@
  {
   "id": "H-062",
   "statement": "György Dusko, father of Mihail in [1869] and husband of Mária Hornyák in [1874] and 1877, is one man: the György born in 1846 of the census. Zsuzsanna Pra[ch]onyik [?] was his first wife and Mária Hornyák his second.",
-  "confidence": 55,
+  "confidence": 65,
   "basis": "One Greek Catholic György Duska of that generation is in the Solymos census, and the baptisms of 1869, 1874 and 1877 are in one parish book. A change of mother between baptisms is a second marriage until a second man is shown (X-017). Against: the 1874 child was entered at Szenna 31, and a second György could have lived there.",
   "test": "A burial of Zsuzsanna between 1869 and 1874; the marriage to Mária Hornyák; the census sheet for Szenna.",
   "status": "open",
@@ -1762,6 +1787,11 @@
     "batch": "B-027",
     "effect": "raised at 55",
     "note": "Raised from the four census sheets of Solymos."
+   },
+   {
+    "batch": "B-046",
+    "effect": "raised from 55 to 65",
+    "note": "A burial of December [1870] names the parents of the infant Michael as Georgius Dusko and Susana Prachonyik (D-013-66): the mother of the Mihail of [1869] was Prachonyik, as read with doubt from the census and the baptism. Mária Hornyák follows from [1874]. Zsuzsanna's own burial would close it."
    }
   ]
  },
@@ -2099,5 +2129,64 @@
    }
   ],
   "route": "demko"
+ },
+ {
+  "id": "H-079",
+  "statement": "The Roman Catholic Duskas of Senné, György the elder among them, descend from the Greek Catholic Duskas who were at Szenna by 1829.",
+  "confidence": 55,
+  "basis": "One uncommon surname in one small village a generation apart: Joannes Duska, cottar, died there in 1830 aged 61; two widows named Anna in [1831] and [1846]; Mihály Dusko, Greek Catholic, had a son there in [1846]; Maria, widow of Georgius, died there in 1874. György the elder's wife was Greek Catholic and his household used the Greek Catholic book's neighbour villages. Against: he is Roman Catholic, and under the rule of the time a son followed his father's church (recalled, not sourced); a second, Roman Catholic Duska family could have come to the village separately.",
+  "test": "His baptism, about 1825 to 1845, in the Iňačovce Greek Catholic book or the Senné Roman Catholic book before 1866; his marriage to Anna Krak; the census sheets of 1869 for Senné.",
+  "status": "open",
+  "raised": "B-046",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-046",
+    "effect": "raised at 55",
+    "note": "Background to the line above Ahn 32. Nobody is added to the tree on it."
+   }
+  ],
+  "question": "X-Q-06"
+ },
+ {
+  "id": "H-080",
+  "statement": "Maria Dusko, widow of Georgius, who died at Szenna on 29 May 1874 aged 65, is the mother of György Duska the elder (Ahn 32).",
+  "confidence": 30,
+  "basis": "She was born about 1809 and he was a father by 1866, so the ages fit; her husband was a György, and the son carries the name; she is the only Duska of that generation at Szenna in the strips in hand. Against: nothing names her children; she was buried by the Greek Catholic priest and he is Roman Catholic; György the younger of house 6 could as well be her son.",
+  "test": "As for H-079; and her own marriage to Georgius Dusko, about 1825 to 1835.",
+  "status": "open",
+  "raised": "B-046",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-046",
+    "effect": "raised at 30",
+    "note": "If it held she and Georgius would be Ahn 64 and 65. Not entered."
+   }
+  ],
+  "question": "X-Q-06",
+  "depends_on": [
+   "H-079"
+  ]
+ },
+ {
+  "id": "H-081",
+  "statement": "The Joannes Duska whose wife Maria died at Szenna in December 1829 and the Joannes Duska who died there in May 1830 with Anna Hornyák beside his name are two men.",
+  "confidence": 55,
+  "basis": "A widower of 60 would have to remarry within four and a half months. The first is a sub-cottar, the second a cottar. Against: the third column of this register is not labelled, and quick remarriage was common; Maria's own surname begins 'Hor' and could be a misreading of the same name.",
+  "test": "The marriage register of Iňačovce for January to April 1830; a clearer image of the 1829 entry.",
+  "status": "open",
+  "raised": "B-046",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-046",
+    "effect": "raised at 55",
+    "note": "First ruling."
+   }
+  ]
  }
 ]

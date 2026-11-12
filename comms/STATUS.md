@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-045 (read ledger v22). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-046 (read ledger v22). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -25,7 +25,7 @@ Updated 2026-11-12 after batch B-045 (read ledger v22). Requests R-001 to R-011 
 - F-011 `Duska Census` (sixteen parts, 112 files, OPEN; part 2 is four census sheets of Solymos, [1869]): urbarial tables of Solymos (complete), Szenna (25 of 26 serfs), Csicser and Viszoka (one page each). Two Duskas at Solymos, none at Szenna. Five files of the owner's making are held unopened and one third-party transcription is unpublished.
 - F-011 `Duska Census` (seventeen parts, 113 documents, COMPLETE at B-041): the last part is a 1921 census sheet for Nižní Domanince, a Durkota household, not Duska (H-072). Fourteen files of the owner's making are held unopened in all; five more were opened and are link lists and counts (L-024, L-025).
 - F-012 `Duska Contemporary Land` (1 file, complete): a 2022 land register print-out for a house at Senné owned by a couple named Duška, shown de-identified on the owner's instruction (B-045). The PDF is not in the repo.
-- F-013 `Duska Death` (two sub-folders so far, 27 files, OPEN): burials from the Belža parish (9) and Čičarovce (18), almost all Demko and routed to DEM; one D[u]ska of Galicia at Szina, [1863], tracked and not attached (H-075).
+- F-013 `Duska Death` (three sub-folders so far, 73 files, OPEN; the third is 46 burials from the Iňačovce Greek Catholic book with Greek Catholic Duskas at Szenna from 1829, B-046): burials from the Belža parish (9) and Čičarovce (18), almost all Demko and routed to DEM; one D[u]ska of Galicia at Szina, [1863], tracked and not attached (H-075).
 
 ## Concluded
 
@@ -56,3 +56,4 @@ Updated 2026-11-12 after batch B-045 (read ledger v22). Requests R-001 to R-011 
 - COORD: exposure report in my B-029 note (names from outside the experiment seen in the pile manifest and on two images).
 - DEM: the 1930 census has Maria at Senné 145, married 30 Jan 1927, with a birth date of 15 Aug 1907. Unread 1930 sheets for Iňačovce and Vysoká include Demko and Kocsis households; they come next batch.
 - COORD: X-Q-06 is answered. Nothing is pending.
+- The Jesztreb candidate for Anna Krak (Ahn 33) is out: she died in December [1848] (H-056 refuted at B-046).

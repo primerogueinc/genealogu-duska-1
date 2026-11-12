@@ -16841,5 +16841,2308 @@
     "The dated two-page strips of 1857 to 1883 in the same sub-folder, which use a different, printed form"
    ]
   }
+ },
+ {
+  "id": "D-013-28",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-318",
+  "file": "Death_of_Anna_Bodriar_Krak_1865.png",
+  "sha256": "695f160df6cfbcba12970a0a73b11c7d91c25c04cf9334a30d5aa2d90efb54d1",
+  "wide": true,
+  "title": "Burial of Anna, one day old, daughter of Michael Bodnar and Anna Krak, Jesztreb 20, June 1865",
+  "span": "18 June 1865",
+  "language": "Latin",
+  "collector_label": "Death of Anna Bodriar Krak 1865",
+  "family": "FG-12",
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "1[4]",
+    "date": "18 June 1865",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna, daughter of Michael Bodnar and Anna Krak, Greek Catholic; Jesztreb, house 20; one day old; cause 'immatura' (born before her time); died 18 June 1865; buried at Jesztreb on 19 June by Josephus Danilovics, parish priest of Solymos. The owner's file name has 'Bodriar'; the entry reads Bodnar. The father is written with his own surname here and as 'Krak' on other pages.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "1[4] | 1865. Junius 18. | Anna - parentes Michaël Bodnar et GC [?] Anna Krak GC | Jesztreb numero domus 20. | - | foem | 1. dies | immatura | - | Jesztreb Junius 19. | Josephus Danilovics Parochus Solymosiensis",
+    "english": "Anna, daughter of Michael Bodnar and Anna Krak, Greek Catholic; Jesztreb, house 20; one day old; cause 'immatura' (born before her time); died 18 June 1865; buried at Jesztreb on 19 June by Josephus Danilovics, parish priest of Solymos. The owner's file name has 'Bodriar'; the entry reads Bodnar. The father is written with his own surname here and as 'Krak' on other pages."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
+   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
+   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
+   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-29",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-319",
+  "file": "Death_of_Anna_Demko_1870.png",
+  "sha256": "5e2550a1cb5b26e2675fb18a074d7adb743172d48ee28fb966fcc84af1089861",
+  "wide": true,
+  "title": "Burial of Anna, 2 months old, daughter of Michael Demko and Maria Lazar, Jesztreb 64, March [1871; filed as 1870]",
+  "span": "16 March [1870 by the file name; 1871 by her baptism]",
+  "language": "Latin",
+  "collector_label": "Death of Anna Demko 1870",
+  "family": "FG-15",
+  "route": "demko",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "11",
+    "date": "16 March [1870 by the file name; 1871 by her baptism]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna, daughter of Michael Demko, Greek Catholic, and Maria Lazar; Jesztreb, house 64; 2 months old; smallpox; died 16 March; buried at Jesztreb on 17 March. No year on the strip. The Anna of this couple was born on 12 January 1871 (D-005-08, D-005-58), which makes this March 1871, not 1870.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "11 | Martius 16. | Anna parentes Michaël Demko GC Maria Lazar | Jesztreb numer 64. | - | foem | 2. mens. | variolae | - | Jesztreb Martius 17.",
+    "english": "Anna, daughter of Michael Demko, Greek Catholic, and Maria Lazar; Jesztreb, house 64; 2 months old; smallpox; died 16 March; buried at Jesztreb on 17 March. No year on the strip. The Anna of this couple was born on 12 January 1871 (D-005-08, D-005-58), which makes this March 1871, not 1870."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
+   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
+   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
+   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-30",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-320",
+  "file": "Death_of_Anna_Demko_1891.png",
+  "sha256": "915a79f395bdbdef8fed72216d805c859d78994e3e81255214e4fe51b734b690",
+  "wide": true,
+  "title": "Burial of Anna, daughter of Mihály Demko the younger and Anna Járos, Jesztreb 46, 17 March 1891",
+  "span": "17 March 1891",
+  "language": "Hungarian",
+  "collector_label": "Death of Anna Demko 1891",
+  "family": null,
+  "route": "demko",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "7",
+    "date": "17 March 1891",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna, daughter of Mihály Demko the younger and Anna Járos; Jesztreb, house 46; aged 1 year and 3½ months; cause 'not known'; died 17 March 1891; buried at Jesztreb on 19 March. She is the Anna born 26 November [1889] (D-005-09), whose baptism carries this date of death.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "7. | 1891 márczius 17. | Anna, szülei: ifj. Demko Mihály, Járos Anna. | Jesztreb 46. | - | nő | 1 éves és 3½ hónapos | nem tudatik | - | Jesztreb márczius 19. | Dtto",
+    "english": "Anna, daughter of Mihály Demko the younger and Anna Járos; Jesztreb, house 46; aged 1 year and 3½ months; cause 'not known'; died 17 March 1891; buried at Jesztreb on 19 March. She is the Anna born 26 November [1889] (D-005-09), whose baptism carries this date of death."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, 1875 to 1897",
+   "form": "Columns across an opening: number; year, month and day; name with parents or spouse; residence and house number; sex; age; cause; sacraments; burial place and day; officiant. From 1879 the year is written in each entry. Two strips name 'Lescsisin György solymosi gk. lelkész'.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The Greek Catholic pastors of Solymos; György Lescsisin by 1892.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-31",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-321",
+  "file": "Death_of_Anna_Duska_1831.png",
+  "sha256": "c021e313b8c64bffcac35570d4812545cbaf2f9a5775c02f265a89cad007de5c",
+  "wide": true,
+  "title": "Burial of Anna Duska, widow, Szenna, in the cholera of August [1831]",
+  "span": "17 August [1831]",
+  "language": "Latin",
+  "collector_label": "Death of Anna Duska 1831",
+  "family": "FG-64",
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "17 August [1831]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna Duska, 'widow Duska'; Greek Catholic; of Szenna; died on 17 August 'in the cholera'. The age is two short strokes and is not read; it cannot be 11 for a widow. No year is on the strip. She is most likely the widow of the Joannes Duska who died at Szenna in May 1830 with Anna Hornyák named beside him (D-013-51).",
+    "reading": "medium; low for the age"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "Aug: 17: | Anna Duska. | vidua. Duska – | [two strokes: 71? 41?] | G.C | inq. [?] | Szenna | In Chole-ra",
+    "english": "Anna Duska, 'widow Duska'; Greek Catholic; of Szenna; died on 17 August 'in the cholera'. The age is two short strokes and is not read; it cannot be 11 for a widow. No year is on the strip. She is most likely the widow of the Joannes Duska who died at Szenna in May 1830 with Anna Hornyák named beside him (D-013-51)."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register in Latin on a hand-ruled page with the year written in the date column, 1827 to 1831",
+   "form": "Eight hand-ruled columns: year, day and month; the dead person; the spouse or parent; age; rite ('G.C.'); state ('Inquilinus', 'Subinquilinus'); village; cause, begun 'In ...'.",
+   "does_not_fit": "Nothing names the church. Whether the third column gives a husband, a wife or a parent is not stated on the page and has to be judged entry by entry.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-32",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-322",
+  "file": "Death_of_Anna_Duska_1846.png",
+  "sha256": "39f0c38258e6ae52f617a2c7f98d86946722ca8cd476cc176d6a45bbd928f87c",
+  "wide": true,
+  "title": "Burial of Anna Dusko, widow, aged 64, September [1846]",
+  "span": "28 September [1846]",
+  "language": "Hungarian",
+  "collector_label": "Death of Anna Duska 1846",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "28 September [1846]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna Dusko, a widow, aged 64, Greek Catholic; died on 28 September; cause begins 'hideg' (fever or ague); the village is written over and reads Szenna doubtfully. Born about 1782.",
+    "reading": "medium; low for the cause and the village"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "28. Sept | Anna Dusko | Özvegy | 64 | Gk | - | hideg [kórság?] | Sz[enna?]",
+    "english": "Anna Dusko, a widow, aged 64, Greek Catholic; died on 28 September; cause begins 'hideg' (fever or ague); the village is written over and reads Szenna doubtfully. Born about 1782."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a hand-ruled single page, in Hungarian or Latin, 1836 to 1848",
+   "form": "Hand-ruled columns: day and month; surname and name; father, husband or wife; age; rite ('Gk'); state ('Gazda', 'Zsellér'); cause; village.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-33",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-323",
+  "file": "Death_of_Anna_Duska_1873.png",
+  "sha256": "7f46b2db6439d7016d8be5054455393c59e2fe182ad17082fa686992ff42e8e4",
+  "wide": true,
+  "title": "Burial of Anna, daughter of Michael Dankó, Jesztreb 14, March [1873]; filed as Duska",
+  "span": "12 March [1873]",
+  "language": "Latin",
+  "collector_label": "Death of Anna Duska 1873",
+  "family": null,
+  "route": "places",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "24",
+    "date": "12 March [1873]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna, daughter of Michael Dankó, farmer, and Susana [J]erov; Jesztreb, house 14; a girl of about 2; a cough; died 12 March. The owner files her as a Duska. The surname is Dankó, with its accent, as in the Danko entries of Szenna in the baptism folder. Not a Duska.",
+    "reading": "high for the surname; low for the age and the mother"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "24. | Mart. 12. | Anna parentes Michaël Dankó [...] Susana [J]erov colonus | Jesztreb 14 | - | foem | 2[¼?] anno | tussis | \" | Jesztreb Martii 1[3].",
+    "english": "Anna, daughter of Michael Dankó, farmer, and Susana [J]erov; Jesztreb, house 14; a girl of about 2; a cough; died 12 March. The owner files her as a Duska. The surname is Dankó, with its accent, as in the Danko entries of Szenna in the baptism folder. Not a Duska."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
+   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
+   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
+   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-34",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-324",
+  "file": "Death_of_Anna_Krak_1836.png",
+  "sha256": "3399b9656d9b3ff58afb3c80e4054a9a72c2b0d272b1281987c65993df848185",
+  "wide": true,
+  "title": "Burial of Anna Krak, aged 1, daughter of János, Jesztreb, March [1836]",
+  "span": "8 March [1836]",
+  "language": "Hungarian",
+  "collector_label": "Death of Anna Krak 1836",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "8 March [1836]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna Krak, whose father is János, a farmer; aged 1; Greek Catholic; of Jesztreb; died on 8 March of smallpox. The rows above and below are also smallpox.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "8. Mart | Krak Anna | Attya János | 1 | Gk. | Gaz-da | Jesztreb | himlő",
+    "english": "Anna Krak, whose father is János, a farmer; aged 1; Greek Catholic; of Jesztreb; died on 8 March of smallpox. The rows above and below are also smallpox."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a hand-ruled single page, in Hungarian or Latin, 1836 to 1848",
+   "form": "Hand-ruled columns: day and month; surname and name; father, husband or wife; age; rite ('Gk'); state ('Gazda', 'Zsellér'); cause; village.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-35",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-325",
+  "file": "Death_of_Anna_Krak_1847.png",
+  "sha256": "5492b90513c7a878a85d4fae85058bf0703788e7954f3ea4787d923aa0783f4e",
+  "wide": true,
+  "title": "Burial of Anna Krak, aged 7, daughter of János Krak, Jesztreb, August [1847]",
+  "span": "7 August [1847]",
+  "language": "Hungarian",
+  "collector_label": "Death of Anna Krak 1847",
+  "family": "FG-22",
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "7 August [1847]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna Krak, whose father is János Krak, cottar; aged 7; Greek Catholic; of Jesztreb; died on 7 August of dysentery (vérhas). Born about 1840.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "Aug 7. | Krak Anna | Krak János | 7. | Gk. | Zsel-lér | vérhas | Jesztreb",
+    "english": "Anna Krak, whose father is János Krak, cottar; aged 7; Greek Catholic; of Jesztreb; died on 7 August of dysentery (vérhas). Born about 1840."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a hand-ruled single page, in Hungarian or Latin, 1836 to 1848",
+   "form": "Hand-ruled columns: day and month; surname and name; father, husband or wife; age; rite ('Gk'); state ('Gazda', 'Zsellér'); cause; village.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-36",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-326",
+  "file": "Death_of_Anna_Krak_1848.png",
+  "sha256": "35c55a80317449d0bb9da8f7e29dc236fa4d5c741cda2b18f8e430f4d10a92b2",
+  "wide": true,
+  "title": "Burial of Anna Krak, an infant, daughter of János Krak and Zsuzsi Mihalko, Jesztreb, 8 December [1848]",
+  "span": "8 December [1848]",
+  "language": "Hungarian",
+  "collector_label": "Death of Anna Krak 1848",
+  "family": "FG-22",
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "8 December [1848]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna Krak, daughter of János Krak, cottar, and Zsuzsi Mihalko; age written as a fraction, read 1/12, that is about a month; Greek Catholic; of Jesztreb; died on 8 December; the cause ends 'nyav.' (nyavalya, a sickness or fits). She is the Anna baptised to this couple on 14 October [1848] (D-005-15), who was one of the two candidates for the wife of György Duska the elder. She died at about eight weeks.",
+    "reading": "high for the names; medium for the age; low for the cause"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "Dec. 8. | Krak Anna | Krak János, Zsuzsi Mihalko | 1/12 | Gk | Zsel-lér | [...] nyav. | Jesztreb",
+    "english": "Anna Krak, daughter of János Krak, cottar, and Zsuzsi Mihalko; age written as a fraction, read 1/12, that is about a month; Greek Catholic; of Jesztreb; died on 8 December; the cause ends 'nyav.' (nyavalya, a sickness or fits). She is the Anna baptised to this couple on 14 October [1848] (D-005-15), who was one of the two candidates for the wife of György Duska the elder. She died at about eight weeks."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a hand-ruled single page, in Hungarian or Latin, 1836 to 1848",
+   "form": "Hand-ruled columns: day and month; surname and name; father, husband or wife; age; rite ('Gk'); state ('Gazda', 'Zsellér'); cause; village.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-37",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-327",
+  "file": "Death_of_Anna_Krak_1860.png",
+  "sha256": "2cd08b851fd754c9f38743e3608dbcf414fb5e38a8370bfd705d6addceb051b0",
+  "wide": true,
+  "title": "Burial of Anna Krak, aged 68, Jesztreb 13, May [1860]",
+  "span": "16 May [1860]",
+  "language": "Church Slavonic script (Rusyn)",
+  "collector_label": "Death of Anna Krak 1860",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "17",
+    "date": "16 May [1860]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna Krak, of Jesztreb, house 13; aged 68; dropsy; she had received the sacraments; died 16 May; buried at Jesztreb on 18 May. Born about 1792. No husband is named.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "17 | Маій 16. | Анна Кракъ | Ястреб число дома 13 | 68 | Водянка | Была [исповѣдана] | Маій Ястреб 18",
+    "english": "Anna Krak, of Jesztreb, house 13; aged 68; dropsy; she had received the sacraments; died 16 May; buried at Jesztreb on 18 May. Born about 1792. No husband is named."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register in Church Slavonic script, 1851 and 1860",
+   "form": "Ruled columns: day and month, name, spouse or parents, village and house number, age, cause, sacraments, burial.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017",
+    "D-005-07, a baptism of [1853] in the same script"
+   ]
+  }
+ },
+ {
+  "id": "D-013-38",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-328",
+  "file": "Death_of_Anna_Krak_1873.png",
+  "sha256": "2e01738873da32ff1b9a8ec1f47f3c830b20f5177605701dbd7e4b2e4415bc69",
+  "wide": true,
+  "title": "Burial of Anna, aged 2, daughter of Joannes Krak and Anna Mraz, Jesztreb, in the cholera of [1873]",
+  "span": "[August or September 1873]",
+  "language": "Latin",
+  "collector_label": "Death of Anna Krak 1873",
+  "family": "FG-23",
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "80",
+    "date": "[August or September 1873]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna, daughter of Joannes Krak and Anna Mraz; Jesztreb; a girl of 2; cholera. The date and burial columns are empty; the row above is also cholera and the row below is September. She is the Anna baptised in 1871 at Jesztreb 19 (D-005-14).",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "80 | [date not entered] | Anna parentes Joannes Krak, Anna Mraz | Jesztreb | - | foem | 2 | cholera",
+    "english": "Anna, daughter of Joannes Krak and Anna Mraz; Jesztreb; a girl of 2; cholera. The date and burial columns are empty; the row above is also cholera and the row below is September. She is the Anna baptised in 1871 at Jesztreb 19 (D-005-14)."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
+   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
+   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
+   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-39",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-329",
+  "file": "Death_of_Anna_Krak_1881.png",
+  "sha256": "b596458e288bb492ebbce7a4d9de4acc4e4d870dac3200df39a03baf98900edd",
+  "wide": true,
+  "title": "Burial of Anna Krak, widow of Miklós Bodnár, aged 65, Jesztreb, 28 July 1881",
+  "span": "28 July 1881",
+  "language": "Hungarian",
+  "collector_label": "Death of Anna Krak 1881",
+  "family": "FG-12",
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "32",
+    "date": "28 July 1881",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna Krak, widow of Miklós Bodnár; Jesztreb; a woman of 65; decrepitude; sacraments: 'she was not [provided], through the negligence of the household'; died 28 July 1881; buried at Jesztreb on 30 July. Born about 1816, which is the year of the Anna baptised to Lucas and Zuzanna Krak (D-005-03). Her husband is Miklós here and Michael or Mihály in every other entry.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "32. | 1881 Julius 28. | Krák Anna, Bodnár Miklós özvegye | Jesztreb | \" | nő | 65. év | végelgyengülés | nem volt a háziak hanyagsága miatt | Jesztreb Julius 30 | Dtto",
+    "english": "Anna Krak, widow of Miklós Bodnár; Jesztreb; a woman of 65; decrepitude; sacraments: 'she was not [provided], through the negligence of the household'; died 28 July 1881; buried at Jesztreb on 30 July. Born about 1816, which is the year of the Anna baptised to Lucas and Zuzanna Krak (D-005-03). Her husband is Miklós here and Michael or Mihály in every other entry."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, 1875 to 1897",
+   "form": "Columns across an opening: number; year, month and day; name with parents or spouse; residence and house number; sex; age; cause; sacraments; burial place and day; officiant. From 1879 the year is written in each entry. Two strips name 'Lescsisin György solymosi gk. lelkész'.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The Greek Catholic pastors of Solymos; György Lescsisin by 1892.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-40",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-330",
+  "file": "Death_of_E._Krak_1851.png",
+  "sha256": "1f2b360feff74461fffa9782740cbc6dd31f88a70beab355c606f5d101bf9c05",
+  "wide": true,
+  "title": "Burial of [Gr]egorij Krak, husband of Anna Červenak, Jesztreb, November [1851]",
+  "span": "15 November [1851]",
+  "language": "Church Slavonic script (Rusyn)",
+  "collector_label": "Death of E. Krak 1851",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15 November [1851]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "A Krak whose given name the owner could not read and which is read here as Grigorij (Gregory); his wife Anna Červenak; aged 33, or perhaps 53; a farmer; of Jesztreb; 'he was not conscious', so no sacraments; died 15 November. A Gregorius Krak had a daughter of 13 in [1842] (D-013-61), which a man of 33 in [1851] could not have fathered: either the age is 53 or there were two.",
+    "reading": "medium; low for the given name, the age and the cause"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "15. Ноем. | Кракъ [Гр]игорій | Сопружница Анна Червенак | 33. [or 53?] | [...] | Газ-да | [...] | [...] Ястраб | не былъ притом-ный",
+    "english": "A Krak whose given name the owner could not read and which is read here as Grigorij (Gregory); his wife Anna Červenak; aged 33, or perhaps 53; a farmer; of Jesztreb; 'he was not conscious', so no sacraments; died 15 November. A Gregorius Krak had a daughter of 13 in [1842] (D-013-61), which a man of 33 in [1851] could not have fathered: either the age is 53 or there were two."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register in Church Slavonic script, 1851 and 1860",
+   "form": "Ruled columns: day and month, name, spouse or parents, village and house number, age, cause, sacraments, burial.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017",
+    "D-005-07, a baptism of [1853] in the same script"
+   ]
+  }
+ },
+ {
+  "id": "D-013-41",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-331",
+  "file": "Death_of_Erzsebet_Demko_1885.png",
+  "sha256": "642653bb76a087e13b33c75d4d592947bfe4eb9839b6339d837295636fd29c24",
+  "wide": true,
+  "title": "Burial of Erzsébet, daughter of Mihály Demko and Mária Lazár, Jesztreb 47, 11 February 1885",
+  "span": "11 February 1885",
+  "language": "Hungarian",
+  "collector_label": "Death of Erzsebet Demko 1885",
+  "family": "FG-15",
+  "route": "demko",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "8",
+    "date": "11 February 1885",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Erzsébet, daughter of Mihály Demko and Mária Lazár; Jesztreb, house 47; six months old; smallpox; died 11 February 1885; buried the next day. The Erzsébet born 13 August [1884] (D-005-18).",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "8 | 1885 Február 11. | Erzsébet, Demko Mihály és Lazár Mária leánya | Jesztreb 47 | \" | nő | 6 hó nap. | himlő | \" | Jesztreb Február 12. | Dtto",
+    "english": "Erzsébet, daughter of Mihály Demko and Mária Lazár; Jesztreb, house 47; six months old; smallpox; died 11 February 1885; buried the next day. The Erzsébet born 13 August [1884] (D-005-18)."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, 1875 to 1897",
+   "form": "Columns across an opening: number; year, month and day; name with parents or spouse; residence and house number; sex; age; cause; sacraments; burial place and day; officiant. From 1879 the year is written in each entry. Two strips name 'Lescsisin György solymosi gk. lelkész'.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The Greek Catholic pastors of Solymos; György Lescsisin by 1892.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-42",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-332",
+  "file": "Death_of_Eva_Demko_1837.png",
+  "sha256": "97e0015ecb9de95cf243f85bca9f6698b66b03ef477bae3d0e37b67d42cc5dc3",
+  "wide": true,
+  "title": "Burial of Éva Demko, wife of András, Nagy Szeretva, March [1837]",
+  "span": "23 March [1837]",
+  "language": "Hungarian",
+  "collector_label": "Death of Eva Demko 1837",
+  "family": null,
+  "route": "demko",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "23 March [1837]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Éva Demko, whose husband is András; aged 39; Greek Catholic; a farmer's wife; of Nagy Szeretva; died on 23 March of fever. Born about 1798.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "23. Martii | Demko Éva | Férje András | 39. | Gk | Gaz-da | Nagy Szeretva | hideg-lelés",
+    "english": "Éva Demko, whose husband is András; aged 39; Greek Catholic; a farmer's wife; of Nagy Szeretva; died on 23 March of fever. Born about 1798."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a hand-ruled single page, in Hungarian or Latin, 1836 to 1848",
+   "form": "Hand-ruled columns: day and month; surname and name; father, husband or wife; age; rite ('Gk'); state ('Gazda', 'Zsellér'); cause; village.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-43",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-333",
+  "file": "Death_of_Georgius_Krak_1873.png",
+  "sha256": "aeb40a9173e1a5c8a959ef7e8f70c8cc127770fc583ef33160ead1769cc9fcce",
+  "wide": true,
+  "title": "Burial of Georgius, aged 14, son of Michael 'Krak' and Anna Krak, Jesztreb 26, in the cholera of August [1873]",
+  "span": "2[4] August [1873]",
+  "language": "Latin",
+  "collector_label": "Death of Georgius Krak 1873",
+  "family": "FG-12",
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "73",
+    "date": "2[4] August [1873]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Georgius, son of Michael, whose surname the clerk began, struck out and wrote as Krak, and of Anna Krak; Jesztreb, house 26; a boy of 14; cholera; died about 24 August and was buried the next day. Born about 1859. A György of the same parents died in [1847] aged 3 (D-013-45): the name was given again.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "73 | August 2[4] | Georgius parentes Michael [a word struck out] Krak, Anna Krak | Jesztreb 26 | masc | - | 14 | Cholera | - | Jesztreb August 2[5]",
+    "english": "Georgius, son of Michael, whose surname the clerk began, struck out and wrote as Krak, and of Anna Krak; Jesztreb, house 26; a boy of 14; cholera; died about 24 August and was buried the next day. Born about 1859. A György of the same parents died in [1847] aged 3 (D-013-45): the name was given again."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
+   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
+   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
+   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-44",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-334",
+  "file": "Death_of_Gyorgy_Demko_1879.png",
+  "sha256": "158df96bc1efd9af1b848c3dda09eea61a34afdc06b68969f74deb19113ac162",
+  "wide": true,
+  "title": "Burial of György, son of Mihály Demko, Jesztreb, 1 June 1879",
+  "span": "1 June 1879",
+  "language": "Hungarian",
+  "collector_label": "Death of Gyorgy Demko 1879",
+  "family": "FG-15",
+  "route": "demko",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "16",
+    "date": "1 June 1879",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "György, son of Mihály Demko; Jesztreb; aged 1½; smallpox; died 1 June 1879; buried 3 June. The twin György born 27 June 1877 (D-005-22) would be nearly two.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "16 | 1879 Junius 1 | György Demko Mihály fia | Jesztreb | fi | 1½ éves | himlő | - | - | [...] Junius 3.",
+    "english": "György, son of Mihály Demko; Jesztreb; aged 1½; smallpox; died 1 June 1879; buried 3 June. The twin György born 27 June 1877 (D-005-22) would be nearly two."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, 1875 to 1897",
+   "form": "Columns across an opening: number; year, month and day; name with parents or spouse; residence and house number; sex; age; cause; sacraments; burial place and day; officiant. From 1879 the year is written in each entry. Two strips name 'Lescsisin György solymosi gk. lelkész'.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The Greek Catholic pastors of Solymos; György Lescsisin by 1892.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-45",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-335",
+  "file": "Death_of_Gyorgy_Krak_1847.png",
+  "sha256": "f7b26bad04b86a4fafaed6b57d894b494fa8e64abc7abe84a79dd10613cc44e2",
+  "wide": true,
+  "title": "Burial of György Krak, aged 3, son of Mihály 'Krak' and Anna Krak, Jesztreb, April [1847]",
+  "span": "26 April [1847]",
+  "language": "Hungarian",
+  "collector_label": "Death of Gyorgy Krak 1847",
+  "family": "FG-12",
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "26 April [1847]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "György Krak, son of Mihály Krak and Anna Krak; aged 3; Greek Catholic; a farmer's child; of Jesztreb; died on 26 April of smallpox. The rows above and below are smallpox or measles.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "26. Apr | Krak György | Mihály Krak, Anna Krak. | 3. | Gk | gazda | himlő | Jesztreb",
+    "english": "György Krak, son of Mihály Krak and Anna Krak; aged 3; Greek Catholic; a farmer's child; of Jesztreb; died on 26 April of smallpox. The rows above and below are smallpox or measles."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a hand-ruled single page, in Hungarian or Latin, 1836 to 1848",
+   "form": "Hand-ruled columns: day and month; surname and name; father, husband or wife; age; rite ('Gk'); state ('Gazda', 'Zsellér'); cause; village.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-46",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-336",
+  "file": "Death_of_Janos_Demko_1883.png",
+  "sha256": "d83d5cc3503cdfc58031417d8ad92387d3e857ab0254767fa3cd96a3b30a57f3",
+  "wide": true,
+  "title": "Burial of János, son of Mihály Demko and Mária Lázár, Jesztreb 47, 23 January 1883",
+  "span": "23 January 1883",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Demko 1883",
+  "family": "FG-15",
+  "route": "demko",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "2",
+    "date": "23 January 1883",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "János, son of Mihály Demko and Mária Lázár; Jesztreb, house 47; aged 4½; sore throat; died 23 January 1883; buried 25 January. The twin János born 27 June 1877 would be 5½. A later son of the couple was named János in December [1885].",
+    "reading": "high; medium for the age"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "2. | 1883, Január 23. | János, Demko Mihály és Lázár Mária fia | Jesztreb 47 | fi | \" | 4½ éves | torokfájás | \" | Jesztreb Január 25 | Dtto",
+    "english": "János, son of Mihály Demko and Mária Lázár; Jesztreb, house 47; aged 4½; sore throat; died 23 January 1883; buried 25 January. The twin János born 27 June 1877 would be 5½. A later son of the couple was named János in December [1885]."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, 1875 to 1897",
+   "form": "Columns across an opening: number; year, month and day; name with parents or spouse; residence and house number; sex; age; cause; sacraments; burial place and day; officiant. From 1879 the year is written in each entry. Two strips name 'Lescsisin György solymosi gk. lelkész'.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The Greek Catholic pastors of Solymos; György Lescsisin by 1892.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-47",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-337",
+  "file": "Death_of_Janos_Kocsis_1891.png",
+  "sha256": "7322707221c34cfc982f3292d1b15cd2208d3cdc229041a98eaa91ea27de07a2",
+  "wide": true,
+  "title": "Burial of János Kocsis, husband of Anna Kovács, born at Zavatka, Solymos 16, 3 November 1891",
+  "span": "3 November 1891",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Kocsis 1891",
+  "family": "FG-19",
+  "route": "demko",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "28",
+    "date": "3 November 1891",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "János Kocsis, husband of Anna Kovács, cottar; born at Zavatka, living at Solymos, house 16; a man of 70; decrepitude; sacraments yes; died 3 November 1891; buried at Solymos the next day. Born about 1821.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "28. | 1891. november 3. | Kocsis János, Kovács Anna férje, zsellér. | Zavatka; Solymos 16. | fi | - | 70. | végelgyengülés | igen | Solymos nov. 4. | Dtto",
+    "english": "János Kocsis, husband of Anna Kovács, cottar; born at Zavatka, living at Solymos, house 16; a man of 70; decrepitude; sacraments yes; died 3 November 1891; buried at Solymos the next day. Born about 1821."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, 1875 to 1897",
+   "form": "Columns across an opening: number; year, month and day; name with parents or spouse; residence and house number; sex; age; cause; sacraments; burial place and day; officiant. From 1879 the year is written in each entry. Two strips name 'Lescsisin György solymosi gk. lelkész'.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The Greek Catholic pastors of Solymos; György Lescsisin by 1892.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-48",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-338",
+  "file": "Death_of_Janos_Krak_1892.png",
+  "sha256": "3a1f8b1194c67726fe7449dbbbb55b358e8d9031c57eda7042baf0be2b42fdb6",
+  "wide": true,
+  "title": "Burial of János Krak, widower, aged 69, Jesztreb, 3 April 1892",
+  "span": "3 April 1892",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Krak 1892",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "9",
+    "date": "3 April 1892",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "János Krak, widower, farmer; Jesztreb; a man of 69; decrepitude; sacraments yes; died 3 April 1892; buried at Jesztreb on 5 April by György Lescsisin, Greek Catholic pastor of Solymos. Born about 1823.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "9. | 1892 április 3. | Krák János özvegy gazda | Jesztreb | fi | - | 69. | végelgyengülés | igen | Jesztreb április 5. | Lescsisin György solymosi gk. lelkész",
+    "english": "János Krak, widower, farmer; Jesztreb; a man of 69; decrepitude; sacraments yes; died 3 April 1892; buried at Jesztreb on 5 April by György Lescsisin, Greek Catholic pastor of Solymos. Born about 1823."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, 1875 to 1897",
+   "form": "Columns across an opening: number; year, month and day; name with parents or spouse; residence and house number; sex; age; cause; sacraments; burial place and day; officiant. From 1879 the year is written in each entry. Two strips name 'Lescsisin György solymosi gk. lelkész'.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The Greek Catholic pastors of Solymos; György Lescsisin by 1892.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-49",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-339",
+  "file": "Death_of_Joan_Krak_1851.png",
+  "sha256": "fb25fe82c03df6ab8d104f69ae92c74863b6fc98118185946e710159fad6c613",
+  "wide": true,
+  "title": "Burial of Ioan Krak, aged 1, son of Ioan Krak and Anna Krak, Jesztreb, February [1851]",
+  "span": "18 February [1851]",
+  "language": "Church Slavonic script (Rusyn)",
+  "collector_label": "Death of Joan Krak 1851",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "18 February [1851]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Ioan Krak, son of Ioan Krak and Anna Krak; aged 1; of Jesztreb; died on 18 February.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "Феб. 18. | Іоан Кракъ | Кракъ Іоан, Анна Кракъ | 1 | [...] | \" | \" | Ястреб",
+    "english": "Ioan Krak, son of Ioan Krak and Anna Krak; aged 1; of Jesztreb; died on 18 February."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register in Church Slavonic script, 1851 and 1860",
+   "form": "Ruled columns: day and month, name, spouse or parents, village and house number, age, cause, sacraments, burial.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017",
+    "D-005-07, a baptism of [1853] in the same script"
+   ]
+  }
+ },
+ {
+  "id": "D-013-50",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-340",
+  "file": "Death_of_Joannes_Demko_1864.png",
+  "sha256": "a861c0514d6fef7b1842abd0cb808d77124f19793a2ec6bca82e41a36b451b43",
+  "wide": true,
+  "title": "Burial of Joannes, aged 19, son of Joannes [Rusnak?] and Susana Demko, Jesztreb 18, 13 December 1864",
+  "span": "13 December 1864",
+  "language": "Latin",
+  "collector_label": "Death of Joannes Demko 1864",
+  "family": null,
+  "route": "demko",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "22",
+    "date": "13 December 1864",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Joannes, son of Joannes, surname read doubtfully as Rusnak, and Susana Demko; Jesztreb, house 18; a youth of 19; nervous fever (typhus); he received the sacraments; died 13 December 1864; buried at Jesztreb by Josephus Danilovics, parish priest of Solymos. Page 106 of the volume. The owner files him as a Demko; Demko is his mother's name. In 1867 a Susana Demko is the wife of Joannes Szmeriga (D-013-71).",
+    "reading": "high; low for the father's surname"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "[page 106; printed heading MATRICULA DEFUNCTORUM] 22 | 1864 Decembris 13. | Joannes - parentes Joannes [Rusnak?], Susana Demko | Jesztreb numero domus 18. | mascul. | - | 19. | febres nervosae | fuit provisus | Jesztreb Decembr. 1[5] | Josephus Danilovics Parochus Solymosiensis",
+    "english": "Joannes, son of Joannes, surname read doubtfully as Rusnak, and Susana Demko; Jesztreb, house 18; a youth of 19; nervous fever (typhus); he received the sacraments; died 13 December 1864; buried at Jesztreb by Josephus Danilovics, parish priest of Solymos. Page 106 of the volume. The owner files him as a Demko; Demko is his mother's name. In 1867 a Susana Demko is the wife of Joannes Szmeriga (D-013-71)."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
+   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
+   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
+   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-51",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-341",
+  "file": "Death_of_Joannes_Duska_1830.png",
+  "sha256": "e9d302d87e82a84a089fb82bba6b296e205b3329be122581ea499d43e06054df",
+  "wide": true,
+  "title": "Burial of Joannes Duska, aged 61, Szenna, 4 May 1830",
+  "span": "4 May 1830",
+  "language": "Latin",
+  "collector_label": "Death of Joannes Duska 1830",
+  "family": "FG-64",
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "4 May 1830",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Joannes Duska; in the next column Anna Hornyák, his wife by the form's usage; aged 61; Greek Catholic; a cottar; of Szenna; died on 4 May 1830; the cause begins 'In Ca...'. Born about 1769. He is the earliest Duska found at Szenna, and he is Greek Catholic.",
+    "reading": "high; low for the cause"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "1830 Die 4. Maij | Joannes Duska | Anna Hor-nyák | 61. | G.C. | Inqui[linus] | Szenna | In Ca[...]",
+    "english": "Joannes Duska; in the next column Anna Hornyák, his wife by the form's usage; aged 61; Greek Catholic; a cottar; of Szenna; died on 4 May 1830; the cause begins 'In Ca...'. Born about 1769. He is the earliest Duska found at Szenna, and he is Greek Catholic."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register in Latin on a hand-ruled page with the year written in the date column, 1827 to 1831",
+   "form": "Eight hand-ruled columns: year, day and month; the dead person; the spouse or parent; age; rite ('G.C.'); state ('Inquilinus', 'Subinquilinus'); village; cause, begun 'In ...'.",
+   "does_not_fit": "Nothing names the church. Whether the third column gives a husband, a wife or a parent is not stated on the page and has to be judged entry by entry.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-52",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-342",
+  "file": "Death_of_Joannes_Krak_August_1812.png",
+  "sha256": "eed6b3ec29068ce0296290dfc871f2d69cc4ac9d9e2c0295c1037c6fe6f48871",
+  "wide": true,
+  "title": "Burial of Georgius, son of Joannes Krak, Jesztreb, August [1812]",
+  "span": "August [1812]",
+  "language": "Latin",
+  "collector_label": "Death of Joannes Krak August 1812",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "August [1812]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Buried at Jesztreb: Georgius, son of Joannes Krak, aged about 4. The owner's file name gives the father's name; the dead child is Georgius.",
+    "reading": "medium; low for the day and age"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "[...] Augu[sti] | Sepultus est in Jesztreb Joannis Krak filius Georgius Annor[um] [4?]",
+    "english": "Buried at Jesztreb: Georgius, son of Joannes Krak, aged about 4. The owner's file name gives the father's name; the dead child is Georgius."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register kept as running Latin sentences, one line to a burial, 1812 to 1814",
+   "form": "No columns for the entry: a narrow date column, then 'Sepultus est in [village] ...' with the name, the father or state, and the age at the end of the line.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-53",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-343",
+  "file": "Death_of_Joannes_Krak_May_1812.png",
+  "sha256": "569cff3b8a6aa0dcca50fbac3ac5591421d88fdebca6239f6fe09a4369ee511f",
+  "wide": true,
+  "title": "Burial of Joannes Krak, farmer, aged 30, Jesztreb, [1812]",
+  "span": "[1812]; day and month not read",
+  "language": "Latin",
+  "collector_label": "Death of Joannes Krak May 1812",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "[1812]; day and month not read",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Buried at Jesztreb: Joannes Krak, farmer, aged 30. Born about 1782. If the two children buried in the same year are his, the family lost the father and two sons within months.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "2[...] d° | Sepultus est in Jesztreb Joannes Krak colonus Annorum 30",
+    "english": "Buried at Jesztreb: Joannes Krak, farmer, aged 30. Born about 1782. If the two children buried in the same year are his, the family lost the father and two sons within months."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register kept as running Latin sentences, one line to a burial, 1812 to 1814",
+   "form": "No columns for the entry: a narrow date column, then 'Sepultus est in [village] ...' with the name, the father or state, and the age at the end of the line.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-54",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-344",
+  "file": "Death_of_Joanny_Krak_May_1812.png",
+  "sha256": "9dc9113cfaedf41d8f950e153d8aa3ac3927c024d9206840edd236a77907ce9b",
+  "wide": true,
+  "title": "Burial of Michael, son of Joannes Krak, Jesztreb, 15 May [1812]",
+  "span": "15 May [1812]",
+  "language": "Latin",
+  "collector_label": "Death of Joanny Krak May 1812",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15 May [1812]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Buried at Jesztreb on the 15th of the same month as the row above, which is May: Michael, son of Joannes Krak, aged about 2.",
+    "reading": "medium; low for the age"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "d° 15ª d° | Sepultus est in Jesztreb Joannis Krak filius Michael annor[um] [2?]",
+    "english": "Buried at Jesztreb on the 15th of the same month as the row above, which is May: Michael, son of Joannes Krak, aged about 2."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register kept as running Latin sentences, one line to a burial, 1812 to 1814",
+   "form": "No columns for the entry: a narrow date column, then 'Sepultus est in [village] ...' with the name, the father or state, and the age at the end of the line.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-55",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-345",
+  "file": "Death_of_Johannes_Krak_1874.png",
+  "sha256": "b57bed7a651cf0ff6524253ad29ebbcc680003716c2a900d762fe3df0e31fe54",
+  "wide": true,
+  "title": "Burial of Joannes Krak, aged 64, husband of Maria, Jesztreb, 27 January [1874]",
+  "span": "27 January [1874]",
+  "language": "Latin",
+  "collector_label": "Death of Johannes Krak 1874",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "97",
+    "date": "27 January [1874]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Joannes Krak, whose wife is Maria; Jesztreb; a man of 64; old age; he received the sacraments; died 27 January; buried the next day. Born about 1810. A third adult János Krak of Jesztreb, beside the widower who died in 1892 and the man of FG-23.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "97 | Januar 27 | Joannes Krak, uxor Maria | Jesztreb | mas | - | 64 | senectus | fuit provisus | Jesztreb Januar 28",
+    "english": "Joannes Krak, whose wife is Maria; Jesztreb; a man of 64; old age; he received the sacraments; died 27 January; buried the next day. Born about 1810. A third adult János Krak of Jesztreb, beside the widower who died in 1892 and the man of FG-23."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
+   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
+   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
+   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-56",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-346",
+  "file": "Death_of_Johannes_Velk_Demko_1872.png",
+  "sha256": "ea6dfe1d9143ca550b850e9d05d42fc973015115cc336d286aca51dd490aacaf",
+  "wide": true,
+  "title": "Burial of Joannes, infant son of Anna Danko, Solymos, December [1872]; filed as Demko",
+  "span": "9 December [1872]",
+  "language": "Latin",
+  "collector_label": "Death of Johannes Velk Demko 1872",
+  "family": null,
+  "route": "places",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "41",
+    "date": "9 December [1872]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Joannes, with a word after the name that the owner reads 'Velk' and that may be 'illeg.'; one parent only, the mother, Anna Danko; Solymos; a boy a few weeks old; died 9 December; buried the next day. The owner files him as a Demko; the mother's name is Danko.",
+    "reading": "medium; low for the word after the name and the cause"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "41. | Decemb 9. | Joannes [Velk? illeg.?] Parens: Anna Danko | Solymos | mas | - | [4?] hebd. | [tabes?] | - | Solymos Dec 10",
+    "english": "Joannes, with a word after the name that the owner reads 'Velk' and that may be 'illeg.'; one parent only, the mother, Anna Danko; Solymos; a boy a few weeks old; died 9 December; buried the next day. The owner files him as a Demko; the mother's name is Danko."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
+   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
+   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
+   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-57",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-347",
+  "file": "Death_of_Maria__Holos_1894.png",
+  "sha256": "81cf98361ba50e4d2ecf9b580632b59e42c6504107438765159cfb6a0b0adcdc",
+  "wide": true,
+  "title": "Burial of Mária Holos, daughter of Mihály Holos and Mária Demko, Jesztreb 34, 4 February 1894",
+  "span": "4 February 1894",
+  "language": "Hungarian",
+  "collector_label": "Death of Maria  Holos 1894",
+  "family": "FG-32",
+  "route": "demko",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "5",
+    "date": "4 February 1894",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Mária Holos, daughter of Mihály Holos and Mária Demko; Jesztreb, house 34; aged 2 years and 2 months; measles (veres himlő); died 4 February 1894; buried 6 February by György Lescsisin, Greek Catholic pastor of Solymos.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "5. | 1894. Februar 4. | Holos Mária, szül: Holos Mihály, Demko Mária | Jesztreb 34. | - | nő | 2 év és 2 hónap | veres himlő | - | Jesztreb Februar 6. | Lescsisin György solymosi gk. lelkész",
+    "english": "Mária Holos, daughter of Mihály Holos and Mária Demko; Jesztreb, house 34; aged 2 years and 2 months; measles (veres himlő); died 4 February 1894; buried 6 February by György Lescsisin, Greek Catholic pastor of Solymos."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, 1875 to 1897",
+   "form": "Columns across an opening: number; year, month and day; name with parents or spouse; residence and house number; sex; age; cause; sacraments; burial place and day; officiant. From 1879 the year is written in each entry. Two strips name 'Lescsisin György solymosi gk. lelkész'.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The Greek Catholic pastors of Solymos; György Lescsisin by 1892.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-58",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-348",
+  "file": "Death_of_Maria_Duska_-_Maybe_1829.png",
+  "sha256": "915535a8e7837274ff940f1dd280c5bb822d26436c31cc6aeb34752bc4c62680",
+  "wide": true,
+  "title": "Burial of Maria, wife of Joannes Duska, aged 45, Szenna, 20 December 1829",
+  "span": "20 December 1829",
+  "language": "Latin",
+  "collector_label": "Death of Maria Duska - Maybe 1829",
+  "family": "FG-64",
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "20 December 1829",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Maria, with a surname or by-name beginning 'Hor' that is not securely read; in the next column Joannes Duska, her husband by the form's usage; aged 45; Greek Catholic; a sub-cottar's wife; of Szenna; died on 20 December 1829 of a burning fever. The owner's 'maybe 1829' is right: the year is in the entry. Born about 1784.",
+    "reading": "high for the year, Joannes Duska and Szenna; low for her own surname"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "1829 Die 20ª Xbris | Maria Hor[b?]tka-nya [?] | Joannes Duska | 45: | G. Cath. | Subin-quilin[us] | Szenna | In ca-lida febr[i]",
+    "english": "Maria, with a surname or by-name beginning 'Hor' that is not securely read; in the next column Joannes Duska, her husband by the form's usage; aged 45; Greek Catholic; a sub-cottar's wife; of Szenna; died on 20 December 1829 of a burning fever. The owner's 'maybe 1829' is right: the year is in the entry. Born about 1784."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register in Latin on a hand-ruled page with the year written in the date column, 1827 to 1831",
+   "form": "Eight hand-ruled columns: year, day and month; the dead person; the spouse or parent; age; rite ('G.C.'); state ('Inquilinus', 'Subinquilinus'); village; cause, begun 'In ...'.",
+   "does_not_fit": "Nothing names the church. Whether the third column gives a husband, a wife or a parent is not stated on the page and has to be judged entry by entry.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-59",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-349",
+  "file": "Death_of_Maria_Duska_1874.png",
+  "sha256": "345afaaf480d8b7a1086895fd9e15a6000cbba590d75188f4efbe2a69556b65b",
+  "wide": true,
+  "title": "Burial of Maria Dusko, widow of Georgius, aged 65, Szenna, 29 May 1874",
+  "span": "29 May 1874",
+  "language": "Latin",
+  "collector_label": "Death of Maria Duska 1874",
+  "family": "FG-65",
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "26",
+    "date": "29 May 1874",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Maria Dusko, widow of Georgius; of Szenna; a woman of 65; old age; she received the sacraments; died 29 May; buried at Szenna on 30 May. The remark on the next row names 'the flood of the year 1874', which fixes the year. Born about 1809. She is a Greek Catholic widow at Szenna in the generation of the parents of György Duska the elder.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "26. | maj 29. | Mari[a] Dusko Georgi[i] vidua | Szenna | - | foemi | 65 | Senec[tus] | fuit provisa | Szenna Maji 30 [next row: Maria ... Solymos ... 16 ... suffocata ... remark: 1874 évi víz áradás ...]",
+    "english": "Maria Dusko, widow of Georgius; of Szenna; a woman of 65; old age; she received the sacraments; died 29 May; buried at Szenna on 30 May. The remark on the next row names 'the flood of the year 1874', which fixes the year. Born about 1809. She is a Greek Catholic widow at Szenna in the generation of the parents of György Duska the elder."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
+   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
+   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
+   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-60",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-350",
+  "file": "Death_of_Maria_Kocsis_1876.png",
+  "sha256": "b113b695e24613495309063ca58e8f5ecb3eabe1d196754d2052a6429dbd4735",
+  "wide": true,
+  "title": "Burial of Maria, daughter of Joannes Kocsis, cottar, Solymos 13, 3 January 1876",
+  "span": "3 January 1876",
+  "language": "Latin",
+  "collector_label": "Death of Maria Kocsis 1876",
+  "family": "FG-19",
+  "route": "demko",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "1",
+    "date": "3 January 1876",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Maria, daughter of Joannes Kocsis, cottar of Solymos; Solymos, house 13; no age entered; 'carbunculus' (a malignant boil; anthrax); died 3 January 1876; buried the next day.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "1. | 1876. 3ª Januar | Maria, Joannis Kocsis inquil. Solymosensis filia. | Solymos N° 13. | \" | foem | [age not entered] | carbunculus | \" | Solymos 4ª Januarii",
+    "english": "Maria, daughter of Joannes Kocsis, cottar of Solymos; Solymos, house 13; no age entered; 'carbunculus' (a malignant boil; anthrax); died 3 January 1876; buried the next day."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
+   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
+   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
+   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-61",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-351",
+  "file": "Death_of_Maria_Krak_1842.png",
+  "sha256": "8f264f8cbaf5fd213db2874ab8212c9f41c429c1a2c8d827ada8f8a73540df45",
+  "wide": true,
+  "title": "Burial of Maria Krak, aged 13, daughter of Gregorius Krak, Jesztreb, December [1842]",
+  "span": "22 December [1842]",
+  "language": "Latin",
+  "collector_label": "Death of Maria Krak 1842",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "22 December [1842]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Maria Krak, whose father is Gregorius Krak; aged 13; Greek Catholic; of Jesztreb; died on 22 December of inflammation of the lungs. Born about 1829.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "22. December | Maria Krak | Parens Gregorius Krak | 13 | GC | - | in accensione pulmon[um] | Jesztreb",
+    "english": "Maria Krak, whose father is Gregorius Krak; aged 13; Greek Catholic; of Jesztreb; died on 22 December of inflammation of the lungs. Born about 1829."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a hand-ruled single page, in Hungarian or Latin, 1836 to 1848",
+   "form": "Hand-ruled columns: day and month; surname and name; father, husband or wife; age; rite ('Gk'); state ('Gazda', 'Zsellér'); cause; village.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-62",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-352",
+  "file": "Death_of_Maria_Krak_1846.png",
+  "sha256": "b54732db8364bbc8e4baa1f3b10a6262bac7251aeca72390812a93aa061bd65a",
+  "wide": true,
+  "title": "Burial of Maria Krak, aged 1, daughter of János Krak and Zsuzsi Michalko, Jesztreb, January [1846]",
+  "span": "28 or 29 January [1846]",
+  "language": "Hungarian",
+  "collector_label": "Death of Maria Krak 1846",
+  "family": "FG-22",
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "28 or 29 January [1846]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Maria Krak, daughter of János Krak, cottar, and Zsuzsi Michalko; aged 1; Greek Catholic; of Jesztreb; died at the end of January of measles (veres himlő).",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "Jan 2[8] | Maria Krak | Krak János, Michalko Zsuzsi | 1. | Gk | Zsel-lér | veres himlő | Jesztreb.",
+    "english": "Maria Krak, daughter of János Krak, cottar, and Zsuzsi Michalko; aged 1; Greek Catholic; of Jesztreb; died at the end of January of measles (veres himlő)."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a hand-ruled single page, in Hungarian or Latin, 1836 to 1848",
+   "form": "Hand-ruled columns: day and month; surname and name; father, husband or wife; age; rite ('Gk'); state ('Gazda', 'Zsellér'); cause; village.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-63",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-353",
+  "file": "Death_of_Maria_Krak_June_1813.png",
+  "sha256": "df79d570c90bff0418e0cb721ce975cd95b6ad40bef25f454ea8bcd5c66e00b7",
+  "wide": true,
+  "title": "Burial of Maria Krak, aged 35, Jesztreb, [June 1813]",
+  "span": "1[7] [June 1813]",
+  "language": "Latin",
+  "collector_label": "Death of Maria Krak June 1813",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "1[7] [June 1813]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Buried at Jesztreb: Maria Krak, aged 35. Born about 1778. Month and year are from the owner's file name.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "d° 1[7]ª d° | Jesztreb Sepulta est Maria Krak Annorum 35",
+    "english": "Buried at Jesztreb: Maria Krak, aged 35. Born about 1778. Month and year are from the owner's file name."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register kept as running Latin sentences, one line to a burial, 1812 to 1814",
+   "form": "No columns for the entry: a narrow date column, then 'Sepultus est in [village] ...' with the name, the father or state, and the age at the end of the line.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-64",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-354",
+  "file": "Death_of_Maria_Lazar_Demko_1897.png",
+  "sha256": "8a8aa688f93c92d8f8204d748f5e548af8dcc65681619a3888f8ea0b5624f17e",
+  "wide": true,
+  "title": "Burial of Mária Lázár, wife of Mihály Demko, Jesztreb 54, 23 April 1897",
+  "span": "23 April 1897",
+  "language": "Hungarian",
+  "collector_label": "Death of Maria Lazar Demko 1897",
+  "family": "FG-15",
+  "route": "demko",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "10",
+    "date": "23 April 1897",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Mária Lázár, wife of Mihály Demko; Jesztreb, house 54; a woman of 54; pneumonia; sacraments yes; died 23 April 1897; buried 25 April. Born about 1843. Her husband survived her.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "10. | 1897. április 23. | Lázár Mária, Demko Mihály neje. | Jesztreb 54. | - | nő | 54 éves | tüdőgyuladás | igen | Jesztreb április 25. | Dtto",
+    "english": "Mária Lázár, wife of Mihály Demko; Jesztreb, house 54; a woman of 54; pneumonia; sacraments yes; died 23 April 1897; buried 25 April. Born about 1843. Her husband survived her."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, 1875 to 1897",
+   "form": "Columns across an opening: number; year, month and day; name with parents or spouse; residence and house number; sex; age; cause; sacraments; burial place and day; officiant. From 1879 the year is written in each entry. Two strips name 'Lescsisin György solymosi gk. lelkész'.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The Greek Catholic pastors of Solymos; György Lescsisin by 1892.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-65",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-355",
+  "file": "Death_of_Michael_Duska_1872.png",
+  "sha256": "4a70a959bb774667dd4a80fc1fe8294d047313c24e0a908c8525f8edd19a250a",
+  "wide": true,
+  "title": "Burial of Michael, aged 1, son of Paulus [B]o[ly]ár and Maria Dusko, at the Hrabó farm of Szenna, November [1872]",
+  "span": "27 November [1872]",
+  "language": "Latin",
+  "collector_label": "Death of Michael Duska 1872",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "[7]7",
+    "date": "27 November [1872]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Michael, son of Paulus, surname read doubtfully, and Maria Dusko; 'Hrabó, Szenna'; a boy of 1; a cough; died 27 November; buried at Hrabó, Szenna; remark: '(from Kraska, serving at Hrabó)'. The owner files the child as a Duska; Dusko is his mother's name. The family were farm servants on the Hrabó farm of Senné, where András Duska was living when he married in 1892.",
+    "reading": "medium; low for the father's surname"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "[7]7. | Novemb 27. | Michael, parentes Paulus [B]o[ly]ár, Maria Dusko | Hrabó Szenna | mas | - | 1. | tussis | \" | Hrabó Szenna | [...] | (E Kraska, in Hrabó serv.)",
+    "english": "Michael, son of Paulus, surname read doubtfully, and Maria Dusko; 'Hrabó, Szenna'; a boy of 1; a cough; died 27 November; buried at Hrabó, Szenna; remark: '(from Kraska, serving at Hrabó)'. The owner files the child as a Duska; Dusko is his mother's name. The family were farm servants on the Hrabó farm of Senné, where András Duska was living when he married in 1892."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
+   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
+   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
+   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-66",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-356",
+  "file": "Death_of_Michael_Duska_1870.png",
+  "sha256": "d92aa3ee90058382f6af26d95dbf8ad18beae4d6a3036d4dbbe6023d5aea6181",
+  "wide": true,
+  "title": "Burial of Michael, aged 1½, son of Georgius Dusko and Susana Prachonyik, Solymos, December [1870]",
+  "span": "11 December [1870]",
+  "language": "Latin",
+  "collector_label": "Death of Michael Duska 1870",
+  "family": "FG-61",
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "29",
+    "date": "11 December [1870]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Michael, son of Georgius Dusko and Susana Prachonyik; Solymos; a boy of 1½; 'carbunculus' (anthrax); died 11 December; buried the next day. He is the Mihály born in 1869 of the census sheet (D-011-09) and the Mihail baptised on 5 September [1869], whose mother's name was doubtful there. It reads Prachonyik plainly here.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "29. | Decemb 11 | Michaël parentes Georgius Dusko, Susana Prachonyik | Solymos numer [blank] | masc | - | 1½ ann. | Carbunc[ulus] | - | Solymos December 12",
+    "english": "Michael, son of Georgius Dusko and Susana Prachonyik; Solymos; a boy of 1½; 'carbunculus' (anthrax); died 11 December; buried the next day. He is the Mihály born in 1869 of the census sheet (D-011-09) and the Mihail baptised on 5 September [1869], whose mother's name was doubtful there. It reads Prachonyik plainly here."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
+   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
+   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
+   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-67",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-357",
+  "file": "Death_of_Michael_Krak_December_1814.png",
+  "sha256": "478498c2ecc4d4682a0d2a03cd6ef247c9b7a44e36788a2fa8633cf04dbcadf6",
+  "wide": true,
+  "title": "Burial of Michael, son of Lucas Krak, 9 months, Jesztreb, 13 December [1814]",
+  "span": "13 December [1814]",
+  "language": "Latin",
+  "collector_label": "Death of Michael Krak December 1814",
+  "family": "FG-11",
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "13 December [1814]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Buried at Jesztreb on the 13th: Michael, son of Lucas Krak, aged 9 months. Lucas Krak is the father of the Anna baptised in [1816] (FG-11).",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "d° 13 d° | Jesztreb Sepultus est Michael Luca Krak filius mensium 9",
+    "english": "Buried at Jesztreb on the 13th: Michael, son of Lucas Krak, aged 9 months. Lucas Krak is the father of the Anna baptised in [1816] (FG-11)."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register kept as running Latin sentences, one line to a burial, 1812 to 1814",
+   "form": "No columns for the entry: a narrow date column, then 'Sepultus est in [village] ...' with the name, the father or state, and the age at the end of the line.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-68",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-358",
+  "file": "Death_of_Mihaily_Krak_1875.png",
+  "sha256": "156cb0483931d094de750d86ee7d62c193f31be348aab930c68e1393eb55c950",
+  "wide": true,
+  "title": "Burial of Mihály, son of János Krak and Anna Mráz, Jesztreb 20, 18 February [1875]",
+  "span": "18 February [1875]",
+  "language": "Hungarian",
+  "collector_label": "Death of Mihaily Krak 1875",
+  "family": "FG-23",
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "9",
+    "date": "18 February [1875]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Mihály Krak, whose parents are János and Anna Mráz; Jesztreb, house 20; a boy of about 5; fever; died 18 February; buried the next day.",
+    "reading": "medium; low for the age"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "9 | Febr 18ª | Mihály Krák, János és Mráz Anna szülei | Jesztreb 20 | ferfi | - | 5[½?] éves | hideglelés | - | Jesztreb Február 19ª | Dto",
+    "english": "Mihály Krak, whose parents are János and Anna Mráz; Jesztreb, house 20; a boy of about 5; fever; died 18 February; buried the next day."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, 1875 to 1897",
+   "form": "Columns across an opening: number; year, month and day; name with parents or spouse; residence and house number; sex; age; cause; sacraments; burial place and day; officiant. From 1879 the year is written in each entry. Two strips name 'Lescsisin György solymosi gk. lelkész'.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The Greek Catholic pastors of Solymos; György Lescsisin by 1892.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-69",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-359",
+  "file": "Death_of_Mihaly_Holos_1891.png",
+  "sha256": "6e6560766a2d14fbd1b47675a7e0a8c665aee0624f37481da8ddb8b39561b02e",
+  "wide": true,
+  "title": "Burial of Mihály, son of Mihály Holos and Mária Demko, Jesztreb 38, 16 January 1891",
+  "span": "16 January 1891",
+  "language": "Hungarian",
+  "collector_label": "Death of Mihaly Holos 1891",
+  "family": "FG-32",
+  "route": "demko",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "3",
+    "date": "16 January 1891",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Mihály, son of Mihály Holos and Mária Demko; Jesztreb, house 38; six months old; diphtheria (torokgyík); died 16 January 1891; buried 18 January.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "3. | 1891, Január 16. | Mihály, szülei: Holos Mihály és Demko Mária | Jesztreb 38. | fi | - | 6 hónapos | torokgyík | - | Jesztreb Január 18. | Dtto",
+    "english": "Mihály, son of Mihály Holos and Mária Demko; Jesztreb, house 38; six months old; diphtheria (torokgyík); died 16 January 1891; buried 18 January."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a two-page form in Hungarian, 1875 to 1897",
+   "form": "Columns across an opening: number; year, month and day; name with parents or spouse; residence and house number; sex; age; cause; sacraments; burial place and day; officiant. From 1879 the year is written in each entry. Two strips name 'Lescsisin György solymosi gk. lelkész'.",
+   "does_not_fit": "Nothing.",
+   "made_by": "The Greek Catholic pastors of Solymos; György Lescsisin by 1892.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-70",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-360",
+  "file": "Death_of_Pal_Kocsis_1848.png",
+  "sha256": "a9545dc3710208d4feaf8f3352bb7d0c3eca103c8b28a3aa8e111e2dc8fa7cf2",
+  "wide": true,
+  "title": "Burial of Pál Kocsis, aged 32, husband of Maria Jevcsak, February [1848]",
+  "span": "17 February [1848]",
+  "language": "Hungarian",
+  "collector_label": "Death of Pal Kocsis 1848",
+  "family": "FG-21",
+  "route": "demko",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "17 February [1848]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Pál Kocsis, whose wife is Maria Jevcsak; aged 32; Greek Catholic; a farmer with a holding; died on 17 February; the cause is not read; the village on his row reads Jesztreb, where his children's baptisms have Solymos. Born about 1816. His wife is the Mária Iv[a]ncsák of the baptism of [1846]. A Pál Kocsis with a wife Anna Cservenyák has children before and after, so there were two men of the name, or the file-name years are out.",
+    "reading": "medium; low for the cause and the village"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "Febr. 17. | Kocsis Pál | neje Maria Jevcsak | 32 | Gk. | Telkes gazda | [...]ség | Jesztreb [?]",
+    "english": "Pál Kocsis, whose wife is Maria Jevcsak; aged 32; Greek Catholic; a farmer with a holding; died on 17 February; the cause is not read; the village on his row reads Jesztreb, where his children's baptisms have Solymos. Born about 1816. His wife is the Mária Iv[a]ncsák of the baptism of [1846]. A Pál Kocsis with a wife Anna Cservenyák has children before and after, so there were two men of the name, or the file-name years are out."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a hand-ruled single page, in Hungarian or Latin, 1836 to 1848",
+   "form": "Hand-ruled columns: day and month; surname and name; father, husband or wife; age; rite ('Gk'); state ('Gazda', 'Zsellér'); cause; village.",
+   "does_not_fit": "The year is not on the strips; it is from the owner's file names.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-71",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-361",
+  "file": "Death_of_Unknown_Demko_1867.png",
+  "sha256": "4f2987dbf24bdf204c43b00413dcde23758ec7cf87c21ed802812d107b10df57",
+  "wide": true,
+  "title": "Burial of Josephus, aged 6, son of Joannes Szmeriga and Susana Demko, Jesztreb 15, 28 February 1867",
+  "span": "28 February 1867",
+  "language": "Latin",
+  "collector_label": "Death of Unknown Demko 1867",
+  "family": null,
+  "route": "demko",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "7",
+    "date": "28 February 1867",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Josephus, son of Joannes Szmeriga, Greek Catholic farmer, and Susana Demko; Jesztreb, house 15; a boy of 6; 'red pox' (measles); died 28 February 1867; buried 2 March by Josephus Danilovics, parish priest of Solymos. The owner's 'unknown Demko' is a Szmeriga; Demko is the mother's name.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "7 | 1867 Februa. 28. | Josephus, parentes Joannes Szmeriga GC colonus, Susana Demko | Jesztreb numer. domus 15. | masc | - | 6. | rubrae variolae | - | Jesztreb Martius 2. | Josephus Danilovics Parochus Solymosiensis",
+    "english": "Josephus, son of Joannes Szmeriga, Greek Catholic farmer, and Susana Demko; Jesztreb, house 15; a boy of 6; 'red pox' (measles); died 28 February 1867; buried 2 March by Josephus Danilovics, parish priest of Solymos. The owner's 'unknown Demko' is a Szmeriga; Demko is the mother's name."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
+   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
+   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
+   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-72",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-362",
+  "file": "Death_of_Unknown_Duska_1827.png",
+  "sha256": "e3cfb0686328e90f1bac62db96807ad8019ac64cdd14742c96d67e66d4e0340a",
+  "wide": true,
+  "title": "Burial of a person of the Duska name, aged 58, Solymos, 30 March 1827",
+  "span": "30 March 1827",
+  "language": "Latin",
+  "collector_label": "Death of Unknown Duska 1827",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "30 March 1827",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "A person entered under 'Duska' with further words that are not read; in the next column Joannes Spi[sz...]; aged 58; Greek Catholic; cottar; of Solymos; died on 30 March 1827 of dropsy. If the first column is a woman's birth name and the second her husband, she is a Duska by birth, born about 1769, married to a Joannes Spi[sz...]. The owner could not read the name either.",
+    "reading": "high for the year, age and village; low for the names"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "1827. Die 30. Martii | Duska [...]a [...] | Joannes Spi[sz...] | 58. | G.C. | Inqui[linus] | Solymos | In Hy-drope",
+    "english": "A person entered under 'Duska' with further words that are not read; in the next column Joannes Spi[sz...]; aged 58; Greek Catholic; cottar; of Solymos; died on 30 March 1827 of dropsy. If the first column is a woman's birth name and the second her husband, she is a Duska by birth, born about 1769, married to a Joannes Spi[sz...]. The owner could not read the name either."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register in Latin on a hand-ruled page with the year written in the date column, 1827 to 1831",
+   "form": "Eight hand-ruled columns: year, day and month; the dead person; the spouse or parent; age; rite ('G.C.'); state ('Inquilinus', 'Subinquilinus'); village; cause, begun 'In ...'.",
+   "does_not_fit": "Nothing names the church. Whether the third column gives a husband, a wife or a parent is not stated on the page and has to be judged entry by entry.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
+ },
+ {
+  "id": "D-013-73",
+  "folder": "F-013",
+  "batch": "B-046",
+  "source": "S-363",
+  "file": "Death_of_Zuzanna_Duska_1876.png",
+  "sha256": "bf1e4c22eb5f6df7a180dca416c92bdd8c9c46b6dc377892c5fe2b6cee0fd2b5",
+  "wide": true,
+  "title": "Burial of Zuzanna, 9 months, daughter of Michael Demko, Jesztreb 34, 10 April [1876]; filed as Duska",
+  "span": "10 April [1876]",
+  "language": "Latin, the cause in Hungarian",
+  "collector_label": "Death of Zuzanna Duska 1876",
+  "family": "FG-15",
+  "route": "demko",
+  "part": "Inacovce Greek Catholic",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
+   "page_or_image": "unknown",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "27",
+    "date": "10 April [1876]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Zuzanna, daughter of Michael Demko, Greek Catholic cottar of Jesztreb; Jesztreb, house 34; 9 months; measles; died 10 April; buried the next day. The surname is split over two lines, 'Dem' and 'ka'; the owner read Duska. She is the Susanna born 12 May [1875] to Michael Demko and Maria Lazár, whose baptism notes a death in 1876. Not a Duska.",
+    "reading": "high for the surname"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "27 | 10 Aprilis | Zuzanna, Michaëlis Dem-ka g.c. inquil. Jesztr. filia. | Jesztreb N° 34. | \" | d° | 9 mens. | veres himlő | \" | Jesztreb 11ª Aprilis",
+    "english": "Zuzanna, daughter of Michael Demko, Greek Catholic cottar of Jesztreb; Jesztreb, house 34; 9 months; measles; died 10 April; buried the next day. The surname is split over two lines, 'Dem' and 'ka'; the owner read Duska. She is the Susanna born 12 May [1875] to Michael Demko and Maria Lazár, whose baptism notes a death in 1876. Not a Duska."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
+   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
+   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
+   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
+   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "compared": [
+    "D-005-18, a baptism page of the same parish with its printed header",
+    "L-017"
+   ]
+  }
  }
 ]
