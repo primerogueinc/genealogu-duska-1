@@ -1782,6 +1782,30 @@
   "sources_added": [
    "S-000-12"
   ],
+  "committed_utc": "2026-11-12T12:55:37Z"
+ },
+ {
+  "id": "B-039",
+  "date": "2026-11-12",
+  "title": "Four great-great-great-grandparents entered; the 1906 birth record read",
+  "folder": null,
+  "files": 1,
+  "blurb": "The owner asked for the latest ledger to be read and acted on. It is still version 20, which was taken in last batch for its two new rulings; this batch works through the rest of it. First, the ledger points to the Places agent's entry for the Senné register, which gives the archive's volume numbers. That supplies what was missing for the marriage of 18 January 1892: the entry is in hand as an image with page and entry number, the volume is no. 1092 at the Prešov state archive, and the census of 1930 gives the same wedding date for Andrej and Anna Duška. The entry names all four of their parents. So the generation above is entered: György Duska the elder and Anna Krak, János Nyemcsik and Erzsébet Hresko, also called Minarcsin. Nothing is known yet of their own births. Second, the ledger told this agent to read the state birth registration of Maria Demko for itself and stop citing it at second hand. It is copied in and read: born at Solymos on 22 August 1906 to Mihály Demkó, 24, and Mária Kocsis, 20. By this agent's own slip the Demko agent's transcription was seen first, so the reading is a check, not an independent one; the two agree. Third, the coordinator's reference numbers are added to seven documents, and its new request, for the original 1929 baptism entry of Štefan, is added to the list. The Demko agent's request that shared files be announced by name and checksum only, without readings, is adopted from now on. Curiosities: 1",
+  "raised": [],
+  "resolved": [
+   "H-048",
+   "H-054"
+  ],
+  "revised": [],
+  "people_added": [
+   "P-032",
+   "P-033",
+   "P-034",
+   "P-035"
+  ],
+  "sources_added": [
+   "S-288"
+  ],
   "committed_utc": null
  }
 ]

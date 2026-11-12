@@ -29,6 +29,15 @@
       "received": "2026-11-12",
       "via": "copied from primerogueinc/genealogy-demko-1 @57861ad under ruling X-012",
       "demko_id": "DM-D-007"
+    },
+    {
+      "file": "Screenshot_20220113-134619_Drive_1.jpg",
+      "sha256": "63ee80ca4856715009a902ebd6c45fe9cbf83fc26b1db0b854e140e3cee48e2a",
+      "bytes": 528214,
+      "pixels": "793x1842",
+      "received": "2026-11-12",
+      "via": "copied from primerogueinc/genealogy-demko-1 @5a10545 (DM-D-008) under ruling X-012",
+      "part": 2
     }
   ]
 }

@@ -3,7 +3,13 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-033.
+- Last updated: 12 Nov 2026, after Duska batch B-039.
+
+## 0000000000000000. New at B-039
+
+- `documents.json`: optional `x_s` (the coordinator's crosswalk number). New document `D-X01-04`.
+- `people.json`: `P-032` to `P-035` added, with `birth.date` and `birth.place` null.
+- `hypotheses.json`: H-048 and H-054 are `solved`.
 
 ## 000000000000000. New at B-033
 

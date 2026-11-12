@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-038 (read ledger v20). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-039 (read ledger v20). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -27,6 +27,7 @@ Updated 2026-11-12 after batch B-038 (read ledger v20). Requests R-001 to R-011 
 ## Concluded
 
 - Michal Duska (Ahn 8) is the Mihály born 3 Jul 1903 at Senné 79, son of András Duska (b. 24 Nov 1868) and Anna Nyemcsik (b. 24 Aug 1872), by the census of 1930 and a passenger list (H-046, solved). Ahn 16 and 17 are on the tree.
+- Ahn 32 to 35 are on the tree: György Duska the elder and Anna Krak; János Nyemcsik and Erzsébet Hresko alias Minarcsin (marriage entry of 18 Jan 1892, Prešov no. 1092; H-054, solved).
 - Michal and Maria Demko married on 30 Jan 1927 (census). He sailed for Canada between Nov 1929 and Jul 1930 with Mikulas Duska.
 - Ahn 2 is documented as son of Steve (Štefan) Duska by a Québec declaration of marriage of 1984 (published redacted).
 - Ahn 4 Štefan Duska, b. 21 Oct 1929 at Senné 160 (23 Oct in the 1937 papers), son of Michal Duska and Maria Demko; left Iňačovce with his mother in November 1937 for Montréal (H-065, solved).

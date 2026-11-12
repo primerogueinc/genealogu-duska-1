@@ -166,16 +166,17 @@
   "living": false,
   "birth": {
    "date": "22 Aug 1906",
-   "place": "Iňačovce (Solymos), by her passport of 1937 (S-254); the Demko agent holds the civil registration"
+   "place": "Solymos (Iňačovce)"
   },
   "proof": "documented",
   "sources": [
    "S-024",
    "S-025",
    "S-026",
-   "S-254"
+   "S-254",
+   "S-288"
   ],
-  "note": "Wife of Michal Duska and mother of Štefan by the 1947 certificate; Greek Catholic, of Iňačovce. Died at Montréal on 9 September 1950 by her husband's declaration of 1966. Stone: born 1906, died 1950. Her parents are the Demko agent's to establish: it has Mihály Demkó and Mária Kocsis (DM P-018, P-019 @57861ad). Her emigrant passport of 1937 gives her birth as 22 August 1906 at Iňačovce and her occupation as farmer; she left in November 1937 with her son. The census of 1930 has her at Senné 145 in her father-in-law's house, married 30 January 1927, with a birth date of 15 August 1907 that disagrees with her passport.",
+  "note": "Wife of Michal Duska and mother of Štefan by the 1947 certificate; Greek Catholic, of Iňačovce. Died at Montréal on 9 September 1950 by her husband's declaration of 1966. Stone: born 1906, died 1950. Her parents are the Demko agent's to establish: it has Mihály Demkó and Mária Kocsis (DM P-018, P-019 @57861ad). Her emigrant passport of 1937 gives her birth as 22 August 1906 at Iňačovce and her occupation as farmer; she left in November 1937 with her son. The census of 1930 has her at Senné 145 in her father-in-law's house, married 30 January 1927, with a birth date of 15 August 1907 that disagrees with her passport. Her state birth registration, no. 45 of 1906 at Alsókánya, is read here too (D-X01-04): daughter of Mihály Demkó, born at Magasrév, aged 24, and Mária Kocsis, born at Solymos, aged 20.",
   "owner": "Demko",
   "death": {
    "date": "9 Sep 1950",
@@ -199,7 +200,7 @@
    "S-213",
    "S-140"
   ],
-  "note": "Roman Catholic servant, then cottar and day-labourer of Senné: houses 73, 92, 79, 98, 138 and, in 1930, 145. Married Anna Nyemcsik on 18 January 1892. Father of Michal by the census of 1930 and the baptism of 1903. Could not read or write. A death date of 22 August 1940 is noted beside a baptism of [1868] that is probably his (H-048); that he is the son of György Duska the elder and Anna Krak rests on the marriage entry, which has no archive reference yet.",
+  "note": "Roman Catholic servant, then cottar and day-labourer of Senné: houses 73, 92, 79, 98, 138 and, in 1930, 145. Married Anna Nyemcsik on 18 January 1892. Father of Michal by the census of 1930 and the baptism of 1903. Could not read or write. Son of György Duska and Anna Krak by his marriage entry (D-006-03). A death date of 22 August 1940 is noted beside a baptism of [1868] with those parents (D-009-06); the day of that baptism is not on the strip.",
   "owner": "Duska",
   "death": {
    "date": "22 Aug 1940 [?]",
@@ -226,5 +227,81 @@
   "note": "Wife of András Duska from 18 January 1892; twelve children, nine living in 1930. Her birth date in the census is the date of the baptism of Anna, daughter of János Nyemcsik and Erzsébet Hresko, in the Senné register (H-051). She could read.",
   "owner": "Duska",
   "living_basis": "Born 1872."
+ },
+ {
+  "id": "P-032",
+  "ahnentafel": 32,
+  "name": "György Duska (the elder)",
+  "role": "3rd great-grandfather",
+  "living": false,
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "S-231",
+   "S-140"
+  ],
+  "note": "Roman Catholic cottar of Senné, house 6, from [1866]; called 'the elder' from 1875. Named as the father of the groom András Duska in the marriage entry of 18 January 1892. Children by Anna Krak from [1866] to [1875]; a second wife, Mária Kozej, by 1880 (H-052). His own birth and parents are not known; whether he came from Solymos is hypothesis H-057.",
+  "owner": "Duska",
+  "living_basis": "A father by 1866."
+ },
+ {
+  "id": "P-033",
+  "ahnentafel": 33,
+  "name": "Anna Krak",
+  "role": "3rd great-grandmother",
+  "living": false,
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "S-231",
+   "S-140"
+  ],
+  "note": "Greek Catholic. Named as the mother of the groom in the marriage entry of 1892, with a word after her name read 'I[sk]e' [?], perhaps her village. Mother of György Duska's children from [1866] to [1875]. Two baptisms of an Anna Krak in 1848 are candidates for hers, at Sztára and at Jesztreb (H-055, 20; H-056, 35); neither is attached.",
+  "owner": "Duska",
+  "living_basis": "A mother by 1866."
+ },
+ {
+  "id": "P-034",
+  "ahnentafel": 34,
+  "name": "János Nyemcsik",
+  "role": "3rd great-grandfather",
+  "living": false,
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "S-231",
+   "S-157"
+  ],
+  "note": "Roman Catholic cottar of Senné, house 79 ([1866] to 1872), then 77. Named as the father of the bride in the marriage entry of 1892 and of Anna in her baptism of 24 August 1872. Several men of this name lived at Senné; this one is fixed by his wife.",
+  "owner": "Duska",
+  "living_basis": "A father by 1866."
+ },
+ {
+  "id": "P-035",
+  "ahnentafel": 35,
+  "name": "Erzsébet Hresko, alias Minarcsin",
+  "role": "3rd great-grandmother",
+  "living": false,
+  "birth": {
+   "date": null,
+   "place": null
+  },
+  "proof": "documented",
+  "sources": [
+   "S-231",
+   "S-157"
+  ],
+  "note": "Named as the mother of the bride in the marriage entry of 1892 and of Anna in 1872. Two baptisms write her 'Hresko alias Minarcsin'; her daughter is entered as Anna Minarcsin at her own children's baptisms in the 1890s.",
+  "owner": "Duska",
+  "living_basis": "A mother by 1866."
  }
 ]

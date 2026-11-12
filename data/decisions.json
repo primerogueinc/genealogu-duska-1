@@ -718,5 +718,23 @@
   "date": "2026-11-12",
   "decided": "The 1973 marriage record is opened and its groom's side entered, against the letter of X-028, which ruled it held and unopened. The image stays held; the bride is given by name and year only. The death notice is published as a crop of the notice alone.",
   "why": "X-028 rested on the second son's status being unknown. The owner has since stated his death in this chat (S-000-12), and X-016 lifts the hold for a stated death. The bride was born in 1949 with no death on record. The crop shows nobody of unknown status beyond a given name already public, and not the owner's account name. Reported to the coordinator for overruling if it disagrees."
+ },
+ {
+  "id": "DEC-121",
+  "date": "2026-11-12",
+  "decided": "H-048 and H-054 are marked solved at 90 and Ahn 32 to 35 are entered as documented, with no dates of birth.",
+  "why": "X-009 asks for a record in hand with its archive reference. The marriage entry is in hand; its volume reference comes from the Places agent's confirmed holdings entry (cited by ID and commit, X-008), which ledger v20 names as the reference for this register. The entry is tied to Ahn 16 and 17 by the census's marriage date."
+ },
+ {
+  "id": "DEC-122",
+  "date": "2026-11-12",
+  "decided": "The 1906 birth registration is copied from the Demko repository and entered as D-X01-04. Its reading is marked as made after the Demko agent's was seen. From now on, a note about a file both line agents hold gives its name and SHA-256 only; readings go in the data.",
+  "why": "Ledger v20, X-S-007 (X-012 item 3). The order was broken by this agent printing the other agent's entry before opening the image; said plainly so the scorer can treat the reading as not independent. The second point is the Demko agent's request in DM→DU-012."
+ },
+ {
+  "id": "DEC-123",
+  "date": "2026-11-12",
+  "decided": "Documents carry the coordinator's crosswalk number in a new optional field `x_s`. RQ-11 is entered as R-018. H-048 is tagged X-Q-06.",
+  "why": "Ledger v20, crosswalk and request queue."
  }
 ]

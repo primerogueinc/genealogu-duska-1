@@ -796,5 +796,16 @@
   "translation": "Ethnic origin: Hindu. Birthplace of father: India.",
   "why": "An official record, typed and stamped, and flatly wrong: a caution for every 'origin' column in this archive.",
   "tone": "funny"
+ },
+ {
+  "id": "C-089",
+  "doc": "D-X01-04",
+  "source": "S-288",
+  "title": "Explained in the Slovak tongue",
+  "text": "The state's birth form of 1906 is printed in Hungarian and filled in in Hungarian. Its last printed word is 'Felolvastatván', 'having been read out', and after it the registrar wrote by hand that the entry was explained 'tót nyelven', in Slovak, before Mihály Demkó signed. The father of the child could write his name; he could not read what he was signing in the language of the form.",
+  "original": "Felolvastatván tót nyelven megmagyaráztatott, helybenhagyatott és aláíratott",
+  "translation": "Having been read out, it was explained in the Slovak language, approved and signed",
+  "why": "One handwritten phrase records which language the family actually spoke in 1906.",
+  "tone": "history"
  }
 ]

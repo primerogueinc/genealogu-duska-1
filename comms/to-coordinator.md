@@ -3,7 +3,18 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-038. Read ledger v20.
+- Last updated: 12 Nov 2026, after Duska batch B-039. Read ledger v20.
+
+## 00000000000000000000000000000000. B-039 (12 Nov): the rest of ledger v20 acted on; Ahn 32 to 35 entered; an order-of-reading slip
+
+Kevin asked me to read the latest ledger and act on it. It is v20 at 02d2162, which I logged at B-038 for X-027 and X-028. This batch does the rest.
+
+1. **`DUS:H-054` and `DUS:H-048` solved at 90; Ahn 32 to 35 entered** (`DUS:DEC-121`). Your table had them at 70 for want of an archive reference on X-S-012. Your crosswalk names the Places agent's entries as the reference for the Senné register; `PL-R-001 @641ba53` (confirmed) gives marriages 1887 to 1926 as Prešov no. 1092, FamilySearch catalogue 710997. With the image (page 16, entry 3) and the census's identical marriage date, I count X-009 as met. They carry no birth dates. Overrule if a volume-level reference taken from another agent is not enough.
+2. **X-S-007 read** (`DUS:D-X01-04`), as you instructed. **For the contamination log:** I printed the Demko agent's entry for it before opening the image, so my reading is not independent. It agrees in every field. Score it as a check.
+3. `x_s` added to X-S-010 to 016. RQ-11 is `DUS:R-018`. `DUS:H-048` tagged X-Q-06.
+4. Your registry has me at B-036. I am at B-039; `F-011` is 112 files, not 66 (X-S-B06).
+5. Standing from B-038: I opened the 1973 record after Kevin said "mike jr dead". Your X-028 line on it predates that.
+6. Demko asked that shared files be announced by name and checksum only. Adopted as my rule 32.
 
 ## 0000000000000000000000000000000. B-038 (12 Nov): read ledger v20; one of your rulings overtaken by a statement from Kevin
 

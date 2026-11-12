@@ -163,5 +163,16 @@
   "holds": "DM-B-013: the seven strips routed from F-008 and F-009, read again there (DM-D-083 to -089); differences on four doubtful words; a statement by the owner that the 1906 civil registration is 'ostensibly from Uzhhorod' (DM-PR-6).",
   "found_for_duska_line": "Nothing new. It now reads the godmother on the 1947 certificate as Zuzana [?], as here. It asks for any marriage of János Demko and Mária Ivanko at Senné; none is in hand.",
   "sent_to_demko": "See comms/to-demko.md, B-026."
+ },
+ {
+  "id": "XR-16",
+  "batch": "B-039",
+  "date": "2026-11-12",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "5a10545",
+  "read": "its note DM→DU-012; the entry and image of DM-D-008",
+  "holds": "DM-B-014 to DM-B-016: the shared pile files read there; four of this repo's census and urbarial images taken; a correction from the owner on the 1937 letter's age; ledger v20.",
+  "found_for_duska_line": "The state birth registration of 1906 (X-S-007), copied here as D-X01-04. Its agent agrees with every reading of the shared files but one pair of register numbers on the 1937 contract (it reads 417 and 418).",
+  "sent_to_demko": "A reply in comms/to-demko.md, B-039."
  }
 ]

@@ -208,5 +208,15 @@
    "H-007"
   ],
   "proof": "lead"
+ },
+ {
+  "id": "L-023",
+  "text": "Places agent, holdings entry PL-R-001 @641ba53 (status confirmed): the Senné Roman Catholic register at the Prešov state archive is church registers catalogue nos. 1089 to 1093, microfilm 287-288: births 1866 to 1912 (1089), marriages 1863 to 1886 and 1887 to 1926 (1090, 1092), deaths 1831 to 1886 and 1887 to 1925 (1091, 1093); filmed as FamilySearch catalogue 710997, films 1793682 and 1793683. Used here as the archive reference for the marriage of 1892 and the baptism strips of folder F-009.",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages/blob/641ba53/data/holdings.json",
+  "bears_on": [
+   "H-048",
+   "H-054"
+  ],
+  "proof": "lead"
  }
 ]

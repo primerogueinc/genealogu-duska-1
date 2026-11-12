@@ -1322,13 +1322,13 @@
  {
   "id": "H-048",
   "statement": "András Duska of Senné, father of thirteen children from 1893 to 1912, is the Andreas baptised in [1868], son of György Duska the elder and Anna Krak; he died on 22 August 1940.",
-  "confidence": 70,
+  "confidence": 90,
   "basis": "He would be 24 or 25 at his first child's birth in 1893. One village, one church, one rare surname. The death note of 1940 shows the boy of 1868 lived, which is the usual doubt with a baptism (rule 20). Against: an older András Duska, Roman Catholic, is a father at Jesztreb in [1875], so the name is not unique.",
   "test": "András's marriage entry, about 1890 to 1893, naming his father; his burial entry of 1940 giving age and spouse.",
-  "status": "supported",
+  "status": "solved",
   "raised": "B-020",
-  "resolved": null,
-  "resolution": null,
+  "resolved": "B-039",
+  "resolution": "The marriage entry of 18 January 1892 (D-006-03) is in hand as an image with its page and entry number, and the Places agent's confirmed holdings entry gives the volume: Prešov state archive, church registers no. 1092, FamilySearch catalogue 710997. The census of 1930 gives the same marriage date for Andrej and Anna Duška, so the entry is theirs, and it names all four parents. The baptism strip of [1868] still shows no day, so the death date of 1940 stays marked with a query.",
   "log": [
    {
     "batch": "B-020",
@@ -1344,8 +1344,14 @@
     "batch": "B-033",
     "effect": "no change",
     "note": "The census gives Andrej's birth as 24 November 1868. The baptism strip D-009-06 is of [1868]; its day should be checked against this. That he is György the elder's son still rests on the marriage entry of 1892, which has no archive reference. Kept at the cap."
+   },
+   {
+    "batch": "B-039",
+    "effect": "solved, from 70 to 90",
+    "note": "The marriage entry of 18 January 1892 (D-006-03) is in hand as an image with its page and entry number, and the Places agent's confirmed holdings entry gives the volume: Prešov state archive, church registers no. 1092, FamilySearch catalogue 710997. The census of 1930 gives the same marriage date for Andrej and Anna Duška, so the entry is theirs, and it names all four parents. The baptism strip of [1868] still shows no day, so the death date of 1940 stays marked with a query."
    }
-  ]
+  ],
+  "question": "X-Q-06"
  },
  {
   "id": "H-049",
@@ -1442,6 +1448,11 @@
     "batch": "B-022",
     "effect": "raised at 60",
     "note": ""
+   },
+   {
+    "batch": "B-039",
+    "effect": "no change",
+    "note": "György Duska the elder is now on the tree as Ahn 32. His second marriage does not touch the line: András was born of the first."
    }
   ]
  },
@@ -1466,13 +1477,13 @@
  {
   "id": "H-054",
   "statement": "Michal Duska's father's parents are György Duska the elder and Anna Krak, and his mother's parents are János Nyemcsik and Erzsébet Hresko alias Minarcsin.",
-  "confidence": 70,
+  "confidence": 90,
   "basis": "Follows if H-046 holds (Michal is the Mihály of 1903) together with H-048 and H-051, which the marriage entry of 1892 supports at the cap.",
   "test": "As for H-046.",
-  "status": "open",
+  "status": "solved",
   "raised": "B-022",
-  "resolved": null,
-  "resolution": null,
+  "resolved": "B-039",
+  "resolution": "The marriage entry of 18 January 1892 (D-006-03) is in hand as an image with its page and entry number, and the Places agent's confirmed holdings entry gives the volume: Prešov state archive, church registers no. 1092, FamilySearch catalogue 710997. The census of 1930 gives the same marriage date for Andrej and Anna Duška, so the entry is theirs, and it names all four parents. The bride's baptism of 24 August 1872 (image 34 of 337 in the baptism volume, no. 1089) agrees with the census to the day.",
   "depends_on": [
    "H-046",
    "H-048",
@@ -1493,6 +1504,11 @@
     "batch": "B-033",
     "effect": "raised from 55 to 70",
     "note": "H-046 is solved and H-051 solved; the remaining weak link is H-048. Shown at the cap. Nobody above Ahn 16 and 17 is entered on the tree."
+   },
+   {
+    "batch": "B-039",
+    "effect": "solved, from 70 to 90",
+    "note": "The marriage entry of 18 January 1892 (D-006-03) is in hand as an image with its page and entry number, and the Places agent's confirmed holdings entry gives the volume: Prešov state archive, church registers no. 1092, FamilySearch catalogue 710997. The census of 1930 gives the same marriage date for Andrej and Anna Duška, so the entry is theirs, and it names all four parents. The bride's baptism of 24 August 1872 (image 34 of 337 in the baptism volume, no. 1089) agrees with the census to the day."
    }
   ],
   "question": "X-Q-06"
@@ -1512,6 +1528,11 @@
     "batch": "B-024",
     "effect": "raised at 20",
     "note": "Raised because the owner filed this strip as her baptism. Nothing on the strip joins it to Senné."
+   },
+   {
+    "batch": "B-039",
+    "effect": "no change",
+    "note": "Anna Krak is now on the tree as Ahn 33. Which baptism is hers is still open."
    }
   ]
  },
@@ -1530,6 +1551,11 @@
     "batch": "B-024",
     "effect": "raised at 35",
     "note": "The rival to H-055, from a strip read at B-008. The remaining 45 in 100 is an Anna Krak not yet seen."
+   },
+   {
+    "batch": "B-039",
+    "effect": "no change",
+    "note": "As for H-055."
    }
   ]
  },
@@ -1559,6 +1585,11 @@
     "batch": "B-028",
     "effect": "no change",
     "note": "By the 1890s county map Solymos and Szenna are about 4 km apart, not the 6 km written when this was raised, with marsh between them and a district line. Nearer, but distance alone moves nothing."
+   },
+   {
+    "batch": "B-039",
+    "effect": "no change",
+    "note": "With György Duska the elder entered as Ahn 32, this is now the question of where Ahn 32 was born."
    }
   ]
  },
