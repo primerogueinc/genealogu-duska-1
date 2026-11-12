@@ -12568,5 +12568,478 @@
     "english": "An enlarged crop of a typed passenger list of men arriving in Canada, with later notes by the immigration office. Three men in a row are from Senné, Czechoslovakia, Slovak: Andrey Dzvonik, 24; Mikulas Duska, 39; and Michal Duska, 26. The ship, the port and the date are not in the crop. Against Michal an office hand has written 'Copy on O.F. 633695' and 'Nat. 22/4/40': a copy of the entry went to file 633695, and he was naturalised on 22 April 1940. That file number is the one on the Immigration Branch letter of 1937 to Mike Duska of Montréal (D-006-11, read there as 6336[93]), so this Michal is Štefan's father. Against Mikulas: 'Nat: 21/1/46'. Between the two lines a hand has written what looks like '+ Brother'; the typed relationship column has only ditto marks under 'none'. The ages date the voyage: a man born on 3 July 1903 was 26 until July 1930, and one born on 28 November 1890 was 39 from November 1929, so they sailed between late November 1929 and early July 1930, within months of Štefan's birth. A Michal born in December 1896 would have been 33."
    }
   ]
+ },
+ {
+  "id": "D-011-55",
+  "folder": "F-011",
+  "batch": "B-034",
+  "source": "S-273",
+  "file": "Senne_915-811-11-8-915_Part_1.png",
+  "sha256": "e4324b6188ee7ca4d01733e0054059e5ce537e3af7f197179ab3c664cf65f58f",
+  "wide": true,
+  "title": "Census of 1940, Senné: Senne 915-811-11-8-915 Part 1",
+  "span": "15 December 1940",
+  "language": "Slovak",
+  "collector_label": "Senne 915-811-11-8-915 Part 1",
+  "family": null,
+  "route": "duska",
+  "part": 16,
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record on the image",
+   "fond_or_film": "Sčítanie ľudu 1940 (census of 1940), box 915; box 547 for the Modrý Kameň sheet",
+   "book": "Popisný hárok (household sheet), Senné",
+   "page_or_image": "see the abstract for the sheet number",
+   "obtained": "From the owner's desktop folder '1940 Senne', sent through chat. Screen captures of the Slovakiana portal, taken by the owner on 24 April 2025 by the clock in two of them. The black areas are the portal's."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15 Dec 1940",
+    "from": "Census household sheet, names only",
+    "abstract": "House 11, front, small: the portal page with its record (box 915, sheet 8, identifier urn:nbn:sk:cair-ko13xvt, dated 1940, district Michalovce) and five names in the left column; everything to the right is blacked out by the portal.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Summary of what can be seen.",
+    "original": "[names only; see the abstract]",
+    "english": "House 11, front, small: the portal page with its record (box 915, sheet 8, identifier urn:nbn:sk:cair-ko13xvt, dated 1940, district Michalovce) and five names in the left column; everything to the right is blacked out by the portal."
+   }
+  ],
+  "held": "it names a person born less than 100 years ago whose status is not known (X-016)"
+ },
+ {
+  "id": "D-011-56",
+  "folder": "F-011",
+  "batch": "B-034",
+  "source": "S-273",
+  "file": "Senne_915-811-11-8-915_Part_2.png",
+  "sha256": "adc6a54a057f30dc489a9af341706bfec463c246515072b8c56a4c1465f155bf",
+  "wide": true,
+  "title": "Census of 1940, Senné: Senne 915-811-11-8-915 Part 2",
+  "span": "15 December 1940",
+  "language": "Slovak",
+  "collector_label": "Senne 915-811-11-8-915 Part 2",
+  "family": null,
+  "route": "duska",
+  "part": 16,
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record on the image",
+   "fond_or_film": "Sčítanie ľudu 1940 (census of 1940), box 915; box 547 for the Modrý Kameň sheet",
+   "book": "Popisný hárok (household sheet), Senné",
+   "page_or_image": "see the abstract for the sheet number",
+   "obtained": "From the owner's desktop folder '1940 Senne', sent through chat. Screen captures of the Slovakiana portal, taken by the owner on 24 April 2025 by the clock in two of them. The black areas are the portal's."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15 Dec 1940",
+    "from": "Census household sheet, names only",
+    "abstract": "House 11, front, enlarged: 1 'Dušková rod. Hankoščáková Mária'; 2 Dušková Anna; 3 Dušková Mária.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Summary of what can be seen.",
+    "original": "[names only; see the abstract]",
+    "english": "House 11, front, enlarged: 1 'Dušková rod. Hankoščáková Mária'; 2 Dušková Anna; 3 Dušková Mária."
+   }
+  ],
+  "held": "it names a person born less than 100 years ago whose status is not known (X-016)"
+ },
+ {
+  "id": "D-011-57",
+  "folder": "F-011",
+  "batch": "B-034",
+  "source": "S-273",
+  "file": "Senne_915-811-11-8-915_Part_3.png",
+  "sha256": "4cf86f1568dcba15e6c98bef89b95442d57aa714966204400c6531fb3f47d7c7",
+  "wide": true,
+  "title": "Census of 1940, Senné: Senne 915-811-11-8-915 Part 3",
+  "span": "15 December 1940",
+  "language": "Slovak",
+  "collector_label": "Senne 915-811-11-8-915 Part 3",
+  "family": null,
+  "route": "duska",
+  "part": 16,
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record on the image",
+   "fond_or_film": "Sčítanie ľudu 1940 (census of 1940), box 915; box 547 for the Modrý Kameň sheet",
+   "book": "Popisný hárok (household sheet), Senné",
+   "page_or_image": "see the abstract for the sheet number",
+   "obtained": "From the owner's desktop folder '1940 Senne', sent through chat. Screen captures of the Slovakiana portal, taken by the owner on 24 April 2025 by the clock in two of them. The black areas are the portal's."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15 Dec 1940",
+    "from": "Census household sheet, names only",
+    "abstract": "House 11, front, enlarged: 4 S[n]íčko Ján; 5 'S[n]íčková rod. Čorbová Anna'. A second couple in the house.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Summary of what can be seen.",
+    "original": "[names only; see the abstract]",
+    "english": "House 11, front, enlarged: 4 S[n]íčko Ján; 5 'S[n]íčková rod. Čorbová Anna'. A second couple in the house."
+   }
+  ]
+ },
+ {
+  "id": "D-011-58",
+  "folder": "F-011",
+  "batch": "B-034",
+  "source": "S-273",
+  "file": "Senne_915-811-11-8-915_Part_4_Rear.png",
+  "sha256": "39b3371e8571afa34368681fa6bed876992170e10f2bb07768bfce3485fd932f",
+  "wide": true,
+  "title": "Census of 1940, Senné: Senne 915-811-11-8-915 Part 4 Rear",
+  "span": "15 December 1940",
+  "language": "Slovak",
+  "collector_label": "Senne 915-811-11-8-915 Part 4 Rear",
+  "family": null,
+  "route": "duska",
+  "part": 16,
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record on the image",
+   "fond_or_film": "Sčítanie ľudu 1940 (census of 1940), box 915; box 547 for the Modrý Kameň sheet",
+   "book": "Popisný hárok (household sheet), Senné",
+   "page_or_image": "see the abstract for the sheet number",
+   "obtained": "From the owner's desktop folder '1940 Senne', sent through chat. Screen captures of the Slovakiana portal, taken by the owner on 24 April 2025 by the clock in two of them. The black areas are the portal's."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15 Dec 1940",
+    "from": "Census household sheet, names only",
+    "abstract": "House 11, the back of the sheet, where people away from home were listed: one line, the rest blacked out.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Summary of what can be seen.",
+    "original": "[names only; see the abstract]",
+    "english": "House 11, the back of the sheet, where people away from home were listed: one line, the rest blacked out."
+   }
+  ]
+ },
+ {
+  "id": "D-011-59",
+  "folder": "F-011",
+  "batch": "B-034",
+  "source": "S-273",
+  "file": "Senne_915-811-11-8-915_Part_5_Rear2.png",
+  "sha256": "6e052cf26b92b6ba4a95669a5dd3687b95223db7cd0a8df8eeb0b289d3820b03",
+  "wide": true,
+  "title": "Census of 1940, Senné: Senne 915-811-11-8-915 Part 5 Rear2",
+  "span": "15 December 1940",
+  "language": "Slovak",
+  "collector_label": "Senne 915-811-11-8-915 Part 5 Rear2",
+  "family": null,
+  "route": "duska",
+  "part": 16,
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record on the image",
+   "fond_or_film": "Sčítanie ľudu 1940 (census of 1940), box 915; box 547 for the Modrý Kameň sheet",
+   "book": "Popisný hárok (household sheet), Senné",
+   "page_or_image": "see the abstract for the sheet number",
+   "obtained": "From the owner's desktop folder '1940 Senne', sent through chat. Screen captures of the Slovakiana portal, taken by the owner on 24 April 2025 by the clock in two of them. The black areas are the portal's."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15 Dec 1940",
+    "from": "Census household sheet, names only",
+    "abstract": "House 11, back, enlarged: 1 Duška Mikuláš. He is entered among the absent.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Summary of what can be seen.",
+    "original": "[names only; see the abstract]",
+    "english": "House 11, back, enlarged: 1 Duška Mikuláš. He is entered among the absent."
+   }
+  ]
+ },
+ {
+  "id": "D-011-60",
+  "folder": "F-011",
+  "batch": "B-034",
+  "source": "S-273",
+  "file": "Senne_915-811-14-10_Part_1.png",
+  "sha256": "ec4b32841db30e8f78ee5fe56881d869de769c1c138219054761e9025bc736d7",
+  "wide": true,
+  "title": "Census of 1940, Senné: Senne 915-811-14-10 Part 1",
+  "span": "15 December 1940",
+  "language": "Slovak",
+  "collector_label": "Senne 915-811-14-10 Part 1",
+  "family": null,
+  "route": "duska",
+  "part": 16,
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record on the image",
+   "fond_or_film": "Sčítanie ľudu 1940 (census of 1940), box 915; box 547 for the Modrý Kameň sheet",
+   "book": "Popisný hárok (household sheet), Senné",
+   "page_or_image": "see the abstract for the sheet number",
+   "obtained": "From the owner's desktop folder '1940 Senne', sent through chat. Screen captures of the Slovakiana portal, taken by the owner on 24 April 2025 by the clock in two of them. The black areas are the portal's."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15 Dec 1940",
+    "from": "Census household sheet, names only",
+    "abstract": "House 14: the portal page (box 915, sheet 10, identifier urn:nbn:sk:cair-ko13xw0) with one name.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Summary of what can be seen.",
+    "original": "[names only; see the abstract]",
+    "english": "House 14: the portal page (box 915, sheet 10, identifier urn:nbn:sk:cair-ko13xw0) with one name."
+   }
+  ]
+ },
+ {
+  "id": "D-011-61",
+  "folder": "F-011",
+  "batch": "B-034",
+  "source": "S-273",
+  "file": "Senne_915-811-14-10_Part_2_-_Rear_is_Empty.png",
+  "sha256": "b5bd649d1bdf98525eac69a3ead6d18e7da4a20290516779d72d4a177af26d7f",
+  "wide": true,
+  "title": "Census of 1940, Senné: Senne 915-811-14-10 Part 2 - Rear is Empty",
+  "span": "15 December 1940",
+  "language": "Slovak",
+  "collector_label": "Senne 915-811-14-10 Part 2 - Rear is Empty",
+  "family": null,
+  "route": "duska",
+  "part": 16,
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record on the image",
+   "fond_or_film": "Sčítanie ľudu 1940 (census of 1940), box 915; box 547 for the Modrý Kameň sheet",
+   "book": "Popisný hárok (household sheet), Senné",
+   "page_or_image": "see the abstract for the sheet number",
+   "obtained": "From the owner's desktop folder '1940 Senne', sent through chat. Screen captures of the Slovakiana portal, taken by the owner on 24 April 2025 by the clock in two of them. The black areas are the portal's."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15 Dec 1940",
+    "from": "Census household sheet, names only",
+    "abstract": "House 14, enlarged: 1 'Dušková rod. Feigerle [?] Mária'. Alone in the house; the owner notes the back is empty.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Summary of what can be seen.",
+    "original": "[names only; see the abstract]",
+    "english": "House 14, enlarged: 1 'Dušková rod. Feigerle [?] Mária'. Alone in the house; the owner notes the back is empty."
+   }
+  ]
+ },
+ {
+  "id": "D-011-62",
+  "folder": "F-011",
+  "batch": "B-034",
+  "source": "S-273",
+  "file": "Senne_915-811-73-67-915_Part_1.png",
+  "sha256": "8d7fdc0a42981612b03b2095f14f5bd6231f2c9eb5bdd3f5e41879a425482972",
+  "wide": true,
+  "title": "Census of 1940, Senné: Senne 915-811-73-67-915 Part 1",
+  "span": "15 December 1940",
+  "language": "Slovak",
+  "collector_label": "Senne 915-811-73-67-915 Part 1",
+  "family": null,
+  "route": "duska",
+  "part": 16,
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record on the image",
+   "fond_or_film": "Sčítanie ľudu 1940 (census of 1940), box 915; box 547 for the Modrý Kameň sheet",
+   "book": "Popisný hárok (household sheet), Senné",
+   "page_or_image": "see the abstract for the sheet number",
+   "obtained": "From the owner's desktop folder '1940 Senne', sent through chat. Screen captures of the Slovakiana portal, taken by the owner on 24 April 2025 by the clock in two of them. The black areas are the portal's."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15 Dec 1940",
+    "from": "Census household sheet, names only",
+    "abstract": "House 73: the portal page (box 915, sheet 67, identifier urn:nbn:sk:cair-ko13y0q) with eight names.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Summary of what can be seen.",
+    "original": "[names only; see the abstract]",
+    "english": "House 73: the portal page (box 915, sheet 67, identifier urn:nbn:sk:cair-ko13y0q) with eight names."
+   }
+  ],
+  "held": "it names a person born less than 100 years ago whose status is not known (X-016)"
+ },
+ {
+  "id": "D-011-63",
+  "folder": "F-011",
+  "batch": "B-034",
+  "source": "S-273",
+  "file": "Senne_915-811-73-67-915_Part_2.png",
+  "sha256": "a607d3e7130a3d9c05570c3164012c2d4232f35d9d74599c88c0c46d8ff460af",
+  "wide": true,
+  "title": "Census of 1940, Senné: Senne 915-811-73-67-915 Part 2",
+  "span": "15 December 1940",
+  "language": "Slovak",
+  "collector_label": "Senne 915-811-73-67-915 Part 2",
+  "family": null,
+  "route": "duska",
+  "part": 16,
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record on the image",
+   "fond_or_film": "Sčítanie ľudu 1940 (census of 1940), box 915; box 547 for the Modrý Kameň sheet",
+   "book": "Popisný hárok (household sheet), Senné",
+   "page_or_image": "see the abstract for the sheet number",
+   "obtained": "From the owner's desktop folder '1940 Senne', sent through chat. Screen captures of the Slovakiana portal, taken by the owner on 24 April 2025 by the clock in two of them. The black areas are the portal's."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15 Dec 1940",
+    "from": "Census household sheet, names only",
+    "abstract": "House 73, the sheet at a larger size.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Summary of what can be seen.",
+    "original": "[names only; see the abstract]",
+    "english": "House 73, the sheet at a larger size."
+   }
+  ],
+  "held": "it names a person born less than 100 years ago whose status is not known (X-016)"
+ },
+ {
+  "id": "D-011-64",
+  "folder": "F-011",
+  "batch": "B-034",
+  "source": "S-273",
+  "file": "Senne_915-811-73-67-915_Part_3.1.png",
+  "sha256": "b23471d1a9c56586872e1d34c94acc72eecc87b2064e1861bca20107b48da9f6",
+  "wide": true,
+  "title": "Census of 1940, Senné: Senne 915-811-73-67-915 Part 3.1",
+  "span": "15 December 1940",
+  "language": "Slovak",
+  "collector_label": "Senne 915-811-73-67-915 Part 3.1",
+  "family": null,
+  "route": "duska",
+  "part": 16,
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record on the image",
+   "fond_or_film": "Sčítanie ľudu 1940 (census of 1940), box 915; box 547 for the Modrý Kameň sheet",
+   "book": "Popisný hárok (household sheet), Senné",
+   "page_or_image": "see the abstract for the sheet number",
+   "obtained": "From the owner's desktop folder '1940 Senne', sent through chat. Screen captures of the Slovakiana portal, taken by the owner on 24 April 2025 by the clock in two of them. The black areas are the portal's."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15 Dec 1940",
+    "from": "Census household sheet, names only",
+    "abstract": "House 73, enlarged: 1 Duška Jozef; 2 'Dušková rod. Chalahánová Anna'; 3 Duška Jozef; 4 'Dušková rod. [Leváková?] Anna'.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Summary of what can be seen.",
+    "original": "[names only; see the abstract]",
+    "english": "House 73, enlarged: 1 Duška Jozef; 2 'Dušková rod. Chalahánová Anna'; 3 Duška Jozef; 4 'Dušková rod. [Leváková?] Anna'."
+   }
+  ]
+ },
+ {
+  "id": "D-011-65",
+  "folder": "F-011",
+  "batch": "B-034",
+  "source": "S-273",
+  "file": "Senne_915-811-73-67-915_Part_3.2.png",
+  "sha256": "a2b171f5e0917e74c18db21e02e560759fd9ed47b803f9cfbee0f4ec3cb42796",
+  "wide": true,
+  "title": "Census of 1940, Senné: Senne 915-811-73-67-915 Part 3.2",
+  "span": "15 December 1940",
+  "language": "Slovak",
+  "collector_label": "Senne 915-811-73-67-915 Part 3.2",
+  "family": null,
+  "route": "duska",
+  "part": 16,
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record on the image",
+   "fond_or_film": "Sčítanie ľudu 1940 (census of 1940), box 915; box 547 for the Modrý Kameň sheet",
+   "book": "Popisný hárok (household sheet), Senné",
+   "page_or_image": "see the abstract for the sheet number",
+   "obtained": "From the owner's desktop folder '1940 Senne', sent through chat. Screen captures of the Slovakiana portal, taken by the owner on 24 April 2025 by the clock in two of them. The black areas are the portal's."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15 Dec 1940",
+    "from": "Census household sheet, names only",
+    "abstract": "House 73, enlarged: 5 '[P]állová rod. Dušková Mária Anna'; 6 Dušková Mária; 7 Duška Ján; 8 Duška Milan.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Summary of what can be seen.",
+    "original": "[names only; see the abstract]",
+    "english": "House 73, enlarged: 5 '[P]állová rod. Dušková Mária Anna'; 6 Dušková Mária; 7 Duška Ján; 8 Duška Milan."
+   }
+  ],
+  "held": "it names a person born less than 100 years ago whose status is not known (X-016)"
+ },
+ {
+  "id": "D-011-66",
+  "folder": "F-011",
+  "batch": "B-034",
+  "source": "S-273",
+  "file": "Senne_915-811-206-547_MAYBE_DEMKO_SOLE_PART.png",
+  "sha256": "f6ad5890c212e6acaec4782c3e7abbf6a07b7500dec765912e1ad61c70789f5e",
+  "wide": true,
+  "title": "Census of 1940, Senné: Senne 915-811-206-547 MAYBE DEMKO SOLE PART",
+  "span": "15 December 1940",
+  "language": "Slovak",
+  "collector_label": "Senne 915-811-206-547 MAYBE DEMKO SOLE PART",
+  "family": null,
+  "route": "places",
+  "part": 16,
+  "provenance": {
+   "archive": "Slovenský národný archív (Slovak National Archive), by the portal record on the image",
+   "fond_or_film": "Sčítanie ľudu 1940 (census of 1940), box 915; box 547 for the Modrý Kameň sheet",
+   "book": "Popisný hárok (household sheet), Senné",
+   "page_or_image": "see the abstract for the sheet number",
+   "obtained": "From the owner's desktop folder '1940 Senne', sent through chat. Screen captures of the Slovakiana portal, taken by the owner on 24 April 2025 by the clock in two of them. The black areas are the portal's."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "15 Dec 1940",
+    "from": "Census household sheet, names only",
+    "abstract": "A sheet from a different Senné, in the district of Modrý Kameň in southern Slovakia (box 547, sheet 206): one name, read here as Semko Andrej, not Demko. The owner's label says 'maybe Demko'.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Summary of what can be seen.",
+    "original": "[names only; see the abstract]",
+    "english": "A sheet from a different Senné, in the district of Modrý Kameň in southern Slovakia (box 547, sheet 206): one name, read here as Semko Andrej, not Demko. The owner's label says 'maybe Demko'."
+   }
+  ]
  }
 ]

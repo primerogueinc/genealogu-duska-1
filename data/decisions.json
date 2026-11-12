@@ -682,5 +682,11 @@
   "date": "2026-11-12",
   "decided": "The owner's file name that states the finding is logged as prior PR-12; the finding is taken from the sheet. The file name with a dated word for Roma is kept as the owner wrote it and the abstract uses 'Roma settlement'.",
   "why": "X-004. File names are part of the archive as received (rule 2)."
+ },
+ {
+  "id": "DEC-115",
+  "date": "2026-11-12",
+  "decided": "The five 'Initial List' word files are held unopened; the transcriber's given name in their file names is withheld. Five of the twelve 1940 captures are held because they show the name of a person who may be living; seven are published.",
+  "why": "DEC-91 and DEC-97 (the owner's own lists about this family); X-016 item 7; rule 21."
  }
 ]

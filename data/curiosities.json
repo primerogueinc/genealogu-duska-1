@@ -708,5 +708,27 @@
   "translation": "Total for the whole commune: 161 houses, 152 lived in, 9 empty, 169 households, 754 people",
   "why": "The whole world of this family, with its total.",
   "tone": "history"
+ },
+ {
+  "id": "C-081",
+  "doc": "D-011-59",
+  "source": "S-273",
+  "title": "Listed on the back, among the absent",
+  "text": "The census of 1940 had a place on the back of each sheet for members of the household who were away. At house 11 it holds one name, Mikuláš Duška. He had been in Canada for ten years, and his wife still gave his name to the enumerator.",
+  "original": "1 | Duška Mikuláš",
+  "translation": "1. Mikuláš Duška",
+  "why": "A decade after he sailed, the village still counted him as belonging to house 11.",
+  "tone": "sad"
+ },
+ {
+  "id": "C-082",
+  "doc": "D-011-56",
+  "source": "S-273",
+  "title": "Hankoščáková to Hancosek",
+  "text": "At Senné in 1940 the enumerator wrote the wife's maiden name as Hankoščáková. In a French-language cemetery system, generations later, a spouse's surname reads Hancosek. Four diacritics, a feminine ending and two syllables went missing between the Uh and the St. Lawrence, and the name is still the same name.",
+  "original": "Dušková rod. Hankoščáková | Nom conjoint(e) : Hancosek",
+  "translation": "Dušková née Hankoščáková | spouse's surname: Hancosek",
+  "why": "It is the match that ties a Canadian grave to a Senné house.",
+  "tone": "odd"
  }
 ]

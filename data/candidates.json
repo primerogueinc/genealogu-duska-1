@@ -6593,7 +6593,7 @@
   "sources": [
    "S-242"
   ],
-  "relation": "Spouse named in the cemetery record D-006-09. The surname is close to Hankos[n]ák and Hankuscsik, a Roman Catholic family of Senné in the 1890s and 1900s (FG-52); that is a likeness, not a link.",
+  "relation": "Spouse named in the cemetery record D-006-09. The surname is close to Hankos[n]ák and Hankuscsik, a Roman Catholic family of Senné in the 1890s and 1900s (FG-52); that is a likeness, not a link. B-034: the census of 1940 enters the wife of Mikuláš Duška at Senné 11 as Mária née Hankoščáková: the same surname.",
   "route": "duska",
   "route_note": ""
  },
@@ -6863,11 +6863,12 @@
  },
  {
   "id": "K-578",
-  "name": "Maria Dušková",
+  "name": "Mária Dušková née Hankoščáková",
   "vitals": "b. 18 Apr 1892, Senné; m. 22 Jan 1913; wife of Mikuláš Duška, Senné 11",
   "proof": "documented",
   "sources": [
-   "S-265"
+   "S-265",
+   "S-273"
   ],
   "relation": "D-011-29 (image held). Her husband is absent in 1930.",
   "route": "duska",
@@ -6887,11 +6888,12 @@
  },
  {
   "id": "K-580",
-  "name": "Maria Dušková, widow",
+  "name": "Mária Dušková née Feigerle [?], widow",
   "vitals": "b. 24 Dec 1869, Senné; m. 8 Jun 1910; widowed 24 Oct 1923; Senné 14",
   "proof": "documented",
   "sources": [
-   "S-266"
+   "S-266",
+   "S-273"
   ],
   "relation": "D-011-30. Her husband, a Duska, is not named.",
   "route": "duska",

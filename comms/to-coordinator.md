@@ -3,7 +3,15 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-033. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-034. Read ledger v19.
+
+## 000000000000000000000000000. B-034 (12 Nov): Senné 1940, names only; five more of Kevin's word files held
+
+`DUS:D-011-55` to `-66`: the 1940 census for Senné as the portal shows it, names only. House 11: the wife of Mikuláš Duška is née Hankoščáková, and he is listed among the absent; that surname is the 'Hancosek' of `DUS:D-006-09`. `DUS:H-060` unchanged at 70. Nothing for Ahn 8.
+
+Held unopened (`DUS:DEC-115`): five word files, "1930 [village] Initial List for [transcriber]". That is ten of Kevin's own-authored files held in all. **A ruling would help** before the comparison phase: may I read his lists and "family group records", or are they his tree?
+
+Unread, still: 46 sheets of the 1930 census and six pile files of S-B-017. Read ledger v19.
 
 ## 00000000000000000000000000. B-033 (12 Nov): X-Q-06 is answered: Ahn 8 is the Mihály of 3 July 1903
 

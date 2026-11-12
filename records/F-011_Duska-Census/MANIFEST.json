@@ -1,7 +1,7 @@
 {
   "folder_id": "F-011",
   "desktop_path": "Duska Census",
-  "note": "Part 1 of the folder, '1767 - Urbanarium' (the owner's spelling): 8 image files and one word-processor file, which is held unopened. Received through chat upload. Part 2, '1869 Solymos Census Full': four photographs of a screen (full size, taken from the archive file the owner sent), four screenshots of the same, and six files not published (see 'held'). Part 3, '1921 Census Folder': two maps of Ung county and one guide document (held, summarised). Part 4, '1930 - BESA Whole Folder': one census sheet. Parts 5 and 6, '1930 Senne' (15) and '1930 Senne Second Pass' (20). Nine more parts of the 1930 census (46 images) are listed under 'pending': received, checksummed, not yet read, and no image copied until each has been checked for people born less than 100 years ago.",
+  "note": "Part 1 of the folder, '1767 - Urbanarium' (the owner's spelling): 8 image files and one word-processor file, which is held unopened. Received through chat upload. Part 2, '1869 Solymos Census Full': four photographs of a screen (full size, taken from the archive file the owner sent), four screenshots of the same, and six files not published (see 'held'). Part 3, '1921 Census Folder': two maps of Ung county and one guide document (held, summarised). Part 4, '1930 - BESA Whole Folder': one census sheet. Parts 5 and 6, '1930 Senne' (15) and '1930 Senne Second Pass' (20). Nine more parts of the 1930 census (46 images) are listed under 'pending': received, checksummed, not yet read, and no image copied until each has been checked for people born less than 100 years ago. Part 16, '1940 Senne' (12 screen captures). Five word-processor lists ('Initial List for Filip') are held unopened.",
   "files": [
     {
       "file": "Andref_Duska_in_Solymos.png",
@@ -510,6 +510,124 @@
       "received": "2026-11-12",
       "via": "chat upload",
       "part": 6
+    },
+    {
+      "file": "Senne_915-811-11-8-915_Part_1.png",
+      "sha256": "e4324b6188ee7ca4d01733e0054059e5ce537e3af7f197179ab3c664cf65f58f",
+      "bytes": 336897,
+      "pixels": "1608x697",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 16,
+      "held": "it names a person born less than 100 years ago whose status is not known (X-016)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Senne_915-811-11-8-915_Part_2.png",
+      "sha256": "adc6a54a057f30dc489a9af341706bfec463c246515072b8c56a4c1465f155bf",
+      "bytes": 400636,
+      "pixels": "1557x573",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 16,
+      "held": "it names a person born less than 100 years ago whose status is not known (X-016)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Senne_915-811-11-8-915_Part_3.png",
+      "sha256": "4cf86f1568dcba15e6c98bef89b95442d57aa714966204400c6531fb3f47d7c7",
+      "bytes": 433619,
+      "pixels": "1919x898",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 16
+    },
+    {
+      "file": "Senne_915-811-11-8-915_Part_4_Rear.png",
+      "sha256": "39b3371e8571afa34368681fa6bed876992170e10f2bb07768bfce3485fd932f",
+      "bytes": 303975,
+      "pixels": "1905x913",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 16
+    },
+    {
+      "file": "Senne_915-811-11-8-915_Part_5_Rear2.png",
+      "sha256": "6e052cf26b92b6ba4a95669a5dd3687b95223db7cd0a8df8eeb0b289d3820b03",
+      "bytes": 416162,
+      "pixels": "1918x920",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 16
+    },
+    {
+      "file": "Senne_915-811-14-10_Part_1.png",
+      "sha256": "ec4b32841db30e8f78ee5fe56881d869de769c1c138219054761e9025bc736d7",
+      "bytes": 405180,
+      "pixels": "1919x923",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 16
+    },
+    {
+      "file": "Senne_915-811-14-10_Part_2_-_Rear_is_Empty.png",
+      "sha256": "b5bd649d1bdf98525eac69a3ead6d18e7da4a20290516779d72d4a177af26d7f",
+      "bytes": 348983,
+      "pixels": "829x564",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 16
+    },
+    {
+      "file": "Senne_915-811-73-67-915_Part_1.png",
+      "sha256": "8d7fdc0a42981612b03b2095f14f5bd6231f2c9eb5bdd3f5e41879a425482972",
+      "bytes": 289969,
+      "pixels": "1919x700",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 16,
+      "held": "it names a person born less than 100 years ago whose status is not known (X-016)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Senne_915-811-73-67-915_Part_2.png",
+      "sha256": "a607d3e7130a3d9c05570c3164012c2d4232f35d9d74599c88c0c46d8ff460af",
+      "bytes": 225237,
+      "pixels": "785x559",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 16,
+      "held": "it names a person born less than 100 years ago whose status is not known (X-016)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Senne_915-811-73-67-915_Part_3.1.png",
+      "sha256": "b23471d1a9c56586872e1d34c94acc72eecc87b2064e1861bca20107b48da9f6",
+      "bytes": 284151,
+      "pixels": "816x557",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 16
+    },
+    {
+      "file": "Senne_915-811-73-67-915_Part_3.2.png",
+      "sha256": "a2b171f5e0917e74c18db21e02e560759fd9ed47b803f9cfbee0f4ec3cb42796",
+      "bytes": 282755,
+      "pixels": "824x563",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 16,
+      "held": "it names a person born less than 100 years ago whose status is not known (X-016)",
+      "file_in_repo": false
+    },
+    {
+      "file": "Senne_915-811-206-547_MAYBE_DEMKO_SOLE_PART.png",
+      "sha256": "f6ad5890c212e6acaec4782c3e7abbf6a07b7500dec765912e1ad61c70789f5e",
+      "bytes": 428607,
+      "pixels": "1919x890",
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "part": 16
     }
   ],
   "held": [
@@ -583,6 +701,51 @@
       "received": "2026-11-12",
       "via": "chat upload",
       "held": "the owner's machine translation of an archive portal's web page about the 1921 census; read and summarised (lead L-022), not republished because the text is the portal's",
+      "file_in_repo": false
+    },
+    {
+      "file": "1930_Inacovce_Initial_List_for_NAME_WITHHELD.docx",
+      "sha256": "becc3b3c2493872d6116fde906082450ecb28edeb27a86f99a009fbf5089e8ad",
+      "bytes": 13255,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "the owner's own list of census households drawn up for a transcriber; not opened (blind rule, X-011 item 1). The transcriber's given name in the file name is withheld.",
+      "file_in_repo": false
+    },
+    {
+      "file": "1930_Senne_Initial_List_for_NAME_WITHHELD.docx",
+      "sha256": "00b9a220283fe88ad27f92e970b2e8a4c8800132ddb43285e327ec9291a0d223",
+      "bytes": 13428,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "the owner's own list of census households drawn up for a transcriber; not opened (blind rule, X-011 item 1). The transcriber's given name in the file name is withheld.",
+      "file_in_repo": false
+    },
+    {
+      "file": "1930_Palin_Initial_List_for_NAME_WITHHELD.docx",
+      "sha256": "f6311a4677c92542056b38701a14289b523e34908dc826201c6a1a1a496bfc75",
+      "bytes": 12944,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "the owner's own list of census households drawn up for a transcriber; not opened (blind rule, X-011 item 1). The transcriber's given name in the file name is withheld.",
+      "file_in_repo": false
+    },
+    {
+      "file": "1930_Sarisske_Initial_List_for_NAME_WITHHELD.docx",
+      "sha256": "ee4dfa6afc9f72d886bb7c01d02720403920c69a521f2e523b5f441d9f06300d",
+      "bytes": 12668,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "the owner's own list of census households drawn up for a transcriber; not opened (blind rule, X-011 item 1). The transcriber's given name in the file name is withheld.",
+      "file_in_repo": false
+    },
+    {
+      "file": "1930_Vysny_Hrabovec_Initial_List_for_NAME_WITHHELD.docx",
+      "sha256": "461473efc0d987e85462f57191b5a9dbd071d2f32a2568eda3f52fef7203f7a4",
+      "bytes": 13587,
+      "received": "2026-11-12",
+      "via": "chat upload",
+      "held": "the owner's own list of census households drawn up for a transcriber; not opened (blind rule, X-011 item 1). The transcriber's given name in the file name is withheld.",
       "file_in_repo": false
     }
   ],

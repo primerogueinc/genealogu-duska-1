@@ -1608,6 +1608,11 @@
     "batch": "B-033",
     "effect": "no change",
     "note": "Mikulas Duska of Senné, 39, is on the passenger list with Michal, and was naturalised in Canada on 21 January 1946: so Miklós did go to Canada. But his wife in the census is Maria, born 1892, and the cemetery record names a spouse Anna Hancosek. A second marriage, or a wrong field, or a different man. Kept at 70."
+   },
+   {
+    "batch": "B-034",
+    "effect": "no change",
+    "note": "The census of 1940 gives the maiden name of Mikuláš Duška's wife at Senné 11 as Hankoščáková, the 'Hancosek' of the cemetery record, and lists Mikuláš among the absent. The surname now agrees and the given name (Mária here, Anna there) does not. With the birth date and the Canadian naturalisation of 1946 the identification is firm in substance; it stays at the cap because the cemetery is still unnamed."
    }
   ]
  },
@@ -1733,6 +1738,11 @@
     "batch": "B-033",
     "effect": "raised from 55 to 85; supported",
     "note": "The passenger list's ages put the crossing between late November 1929 and early July 1930, and on 1 December 1930 he is not in his father's house with his wife and child. The ship and date are not in the crop."
+   },
+   {
+    "batch": "B-034",
+    "effect": "no change",
+    "note": "No 1940 sheet for house 145 is in the folder. By then Maria and Štefan were in Montréal."
    }
   ]
  },
