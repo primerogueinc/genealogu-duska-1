@@ -224,5 +224,60 @@
     "translation": "baptised and confirmed Andreas",
     "why": "It is the one phrase that shows at a glance which church a Latin entry comes from.",
     "tone": "history"
+  },
+  {
+    "id": "C-037",
+    "doc": "D-009-06",
+    "source": "S-140",
+    "title": "A death written beside a baptism, seventy-two years later",
+    "text": "Andreas Duska was baptised at Senné in 1868. In the remarks column of the same line, in a later hand and in another style of date, someone has added a cross and '1940. VIII. 22'. The parish was still going back to its Hungarian-era baptism book to close out lives in the Second World War.",
+    "original": "+ 1940. VIII. 22",
+    "translation": "died 22 August 1940",
+    "why": "One line of a register spans a whole life and three states.",
+    "tone": "history"
+  },
+  {
+    "id": "C-038",
+    "doc": "D-009-08",
+    "source": "S-142",
+    "title": "Szenna becomes Ungszenna",
+    "text": "Up to 1900 the priest writes the village as Szenna. By 1907 every line says Ungszenna, the county's name bolted on the front: the Hungarian state had gone through its villages giving each a name no other shared.",
+    "original": "Ungszenna",
+    "translation": "Senné in Ung county",
+    "why": "A date for the rename can be read straight off the strips: after March 1900, by July 1907.",
+    "tone": "history"
+  },
+  {
+    "id": "C-039",
+    "doc": "D-009-04",
+    "source": "S-138",
+    "title": "The sexton's son",
+    "text": "The father of the boy baptised in October 1910 is entered as 'r.k. egyházfi', the Roman Catholic church's own sexton, so the priest was baptising his bell-ringer's child. The owner's file name has the surname as Harucsak; on the strip it looks more like Hankuscsik.",
+    "original": "r.k. egyházfi Ungszenna",
+    "translation": "Roman Catholic sexton, of Ungszenna",
+    "why": "An occupation that only the church register would bother to record so exactly.",
+    "tone": "odd"
+  },
+  {
+    "id": "C-040",
+    "doc": "D-009-08",
+    "source": "S-142",
+    "title": "Three daughters named Anna",
+    "text": "András Duska of house 73 baptised an Anna in July 1898, who lived nineteen days; an Anna in September 1899; and an Anna, a twin, in July 1907, who died at two. Her twin Susanna died on 29 October 1918, aged eleven. He had already buried a twelve-day-old son András in 1893 and named the next boy András.",
+    "original": "meghalt 1898. júl. 30. / + 1909. szept. 20 / + 1918. okt. 29.",
+    "translation": "died 30 July 1898 / died 20 September 1909 / died 29 October 1918",
+    "why": "The reuse of a dead child's name, three times over in one household, with the dates beside each.",
+    "tone": "sad"
+  },
+  {
+    "id": "C-041",
+    "doc": "D-009-02",
+    "source": "S-136",
+    "title": "The bishop's visit, noted mid-page",
+    "text": "Under the April 1893 baptisms a line runs across the columns: at the church visitation of 6 June 1893. The visitor read the book this far and it was marked.",
+    "original": "1893. év junius 6án [tartott] egyházi látogatáskor",
+    "translation": "at the church visitation held on 6 June 1893",
+    "why": "It dates the moment an inspector had this very page open.",
+    "tone": "history"
   }
 ]

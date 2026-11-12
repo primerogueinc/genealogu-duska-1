@@ -4608,5 +4608,393 @@
     "relation": "Parent in folder F-008.",
     "route": "demko",
     "route_note": ""
+  },
+  {
+    "id": "K-384",
+    "name": "András Duska",
+    "vitals": "b. 22 and 23 September [1882]; Szenna, house 6",
+    "proof": "documented",
+    "sources": [
+      "S-135"
+    ],
+    "relation": "Child of György Duska the younger (ifj.) and Erzsébet Schwarcz (D-009-01).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-385",
+    "name": "András Duska",
+    "vitals": "b. 17 and 18 April 1893; Szenna, house 73; Remark: [died] 29 April 1893. Below the entry a note begins: at the church visitation of 6 June 1893.",
+    "proof": "documented",
+    "sources": [
+      "S-136"
+    ],
+    "relation": "Child of András Duska and Anna Minarcsin (D-009-02).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-386",
+    "name": "András Duska",
+    "vitals": "b. 3 and 4 June 1896; Szenna, house 73",
+    "proof": "documented",
+    "sources": [
+      "S-137"
+    ],
+    "relation": "Child of András Duska and Anna Minarcsin (D-009-03).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-387",
+    "name": "András Hankuscsik",
+    "vitals": "b. 15 and 16 October 1910; Ungszenna, house 64",
+    "proof": "documented",
+    "sources": [
+      "S-138"
+    ],
+    "relation": "Child of András Hankuscsik [?] and Mária Nyemcsik (D-009-04).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-388",
+    "name": "András Marczinko",
+    "vitals": "b. 3 and 4 February 1909; Ungszenna, house 27; Remark: died 14 October 1925.",
+    "proof": "documented",
+    "sources": [
+      "S-139"
+    ],
+    "relation": "Child of Mihály Marczinko and Mária Kocsis (D-009-05).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-389",
+    "name": "Andreas Duska",
+    "vitals": "b. date as the entry above (dtto), [1868]; Szenna, house 6; Remark, in a later hand: died 22 August 1940.",
+    "proof": "documented",
+    "sources": [
+      "S-140"
+    ],
+    "relation": "Child of Georgius Duska and Anna Krak (D-009-06).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-390",
+    "name": "Andreas Nyemcsik",
+    "vitals": "b. 22 July [1866]; Szenna, house 47",
+    "proof": "documented",
+    "sources": [
+      "S-141"
+    ],
+    "relation": "Child of Michael Nyemcsik and Maria Obsitnyik (D-009-07).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-391",
+    "name": "Anna Duska",
+    "vitals": "b. 13 and 14 July 1907; Ungszenna, house 73; Twin (ikrek). Remark: died 20 September 1909.",
+    "proof": "documented",
+    "sources": [
+      "S-142"
+    ],
+    "relation": "Child of András Duska and Anna Nyemecz (D-009-08).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-392",
+    "name": "Susanna Duska",
+    "vitals": "b. 13 and 14 July 1907; Ungszenna, house 73; Twin. Remark: died 29 October 1918.",
+    "proof": "documented",
+    "sources": [
+      "S-142"
+    ],
+    "relation": "Child of András Duska and Anna Nyemecz (D-009-08).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-393",
+    "name": "Anna Demko",
+    "vitals": "b. 9 and 10 March 1900; Szenna, house 87",
+    "proof": "documented",
+    "sources": [
+      "S-143"
+    ],
+    "relation": "Child of János Demko and Mária Ivanko (D-009-09).",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-394",
+    "name": "Anna Duska",
+    "vitals": "b. 17 March [1866]; Szenna, house 6",
+    "proof": "documented",
+    "sources": [
+      "S-144",
+      "S-145"
+    ],
+    "relation": "Child of Georgius Duska and Anna Krak (D-009-10).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-395",
+    "name": "Anna Duska",
+    "vitals": "b. 16 August [1875]; Jesztreb",
+    "proof": "documented",
+    "sources": [
+      "S-146"
+    ],
+    "relation": "Child of András Duska and Anna Jakuvics [?] (D-009-12).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-396",
+    "name": "Anna Duska",
+    "vitals": "b. 21 July [1879]; Szenna, house 5",
+    "proof": "documented",
+    "sources": [
+      "S-147"
+    ],
+    "relation": "Child of György Duska the younger (ifj.) and Erzsébet Schwarz (D-009-13).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-397",
+    "name": "Anna Duska",
+    "vitals": "b. 9 and 10 October 1895; Szenna, house 1",
+    "proof": "documented",
+    "sources": [
+      "S-148"
+    ],
+    "relation": "Child of György Duska the younger (if.) and Anna Halás[z] (D-009-14).",
+    "route": "duska",
+    "route_note": "",
+    "necronym_risk": "unresolved"
+  },
+  {
+    "id": "K-398",
+    "name": "Anna Duska",
+    "vitals": "b. 11 and 12 July 1898; Szenna, house 92; Remark: died 30 July 1898.",
+    "proof": "documented",
+    "sources": [
+      "S-149"
+    ],
+    "relation": "Child of András Duska and Anna Minarcsin (D-009-15).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-399",
+    "name": "Anna Duska",
+    "vitals": "b. 19 and 20 September 1899; Szenna, house 7[1 or 3]",
+    "proof": "documented",
+    "sources": [
+      "S-150"
+    ],
+    "relation": "Child of András Duska and Anna Minarcsin (D-009-16).",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-400",
+    "name": "Georgius Duska",
+    "vitals": "Roman Catholic cottar of Szenna 6; father [1866], [1868]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-47.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-401",
+    "name": "Anna Krak",
+    "vitals": "Greek Catholic; wife of Georgius Duska, [1866], [1868]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-47.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-402",
+    "name": "György Duska the younger",
+    "vitals": "Roman Catholic cottar of Szenna 5 and 6; father [1879], [1882]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-48.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-403",
+    "name": "Erzsébet Schwarz (Schwarcz)",
+    "vitals": "Greek Catholic, of Ribnicze; mother [1879], [1882]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-48.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-404",
+    "name": "András Duska",
+    "vitals": "Roman Catholic farm servant, then cottar, of Szenna 73 (92 in 1898); father 1893 to 1907",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-49.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-405",
+    "name": "Anna Minarcsin",
+    "vitals": "Roman Catholic, of Szenna; mother 1893 to 1899",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-49.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-406",
+    "name": "Anna Nyemecz",
+    "vitals": "Roman Catholic, of Ungszenna; mother of the twins of 1907",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-49.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-407",
+    "name": "György Duska the younger, miller",
+    "vitals": "Roman Catholic miller of Szenna 1; father 1895",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-50.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-408",
+    "name": "Anna Halás[z]",
+    "vitals": "Roman Catholic, of Szenna; mother 1895",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-50.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-409",
+    "name": "András Duska",
+    "vitals": "Roman Catholic, of Jesztreb; father [1875]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-51.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-410",
+    "name": "Anna Jakuvics [?]",
+    "vitals": "Greek Catholic; mother at Jesztreb [1875]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-51.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-411",
+    "name": "Michael Nyemcsik",
+    "vitals": "Roman Catholic commoner of Szenna 47; father [1866]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-412",
+    "name": "Maria Obsitnyik",
+    "vitals": "mother [1866]",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-413",
+    "name": "András Hankuscsik [?]",
+    "vitals": "Roman Catholic sexton of Ungszenna 64; father 1910",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-414",
+    "name": "Mária Nyemcsik",
+    "vitals": "Roman Catholic, of Ungszenna; mother 1910",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-52.",
+    "route": "duska",
+    "route_note": ""
+  },
+  {
+    "id": "K-415",
+    "name": "János Demko",
+    "vitals": "Roman Catholic, [carpenter?], of Szenna 87; father 1900",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-53.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-416",
+    "name": "Mária Ivanko",
+    "vitals": "Greek Catholic, of Lasztomér, Zemplén; mother 1900",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in family group FG-53.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-417",
+    "name": "Mihály Marczinko",
+    "vitals": "Roman Catholic farmer of Ungszenna 27; father 1909",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in D-009-05.",
+    "route": "demko",
+    "route_note": ""
+  },
+  {
+    "id": "K-418",
+    "name": "Mária Kocsis",
+    "vitals": "Roman Catholic, of Ungszenna; mother 1909",
+    "proof": "documented",
+    "sources": [],
+    "relation": "Parent in D-009-05.",
+    "route": "demko",
+    "route_note": ""
   }
 ]

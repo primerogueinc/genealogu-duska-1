@@ -394,5 +394,41 @@
   "date": "2026-11-12",
   "decided": "Accepted the Demko agent's caution on the Javor chart: the woman's death year is now 199[?].",
   "why": "X-012. Its tiles were read more closely than the crops made here; the 1991 may belong to the next box."
+ },
+ {
+  "id": "DEC-67",
+  "date": "2026-11-12",
+  "decided": "Read ledger v18 and the scoring rubric's first sections. Adopted X-023 (DNA), X-024 (curiosities every batch) and X-025 (read the ledger every batch) as protocol rules 26 to 28.",
+  "why": "Ledger v18. The rubric counts only facts with proof level documented, inferred or stated; open hypotheses are scored apart. Nothing in the data needed changing for it."
+ },
+ {
+  "id": "DEC-68",
+  "date": "2026-11-12",
+  "decided": "Curiosities from C-035 on carry source, original wording, translation, a reason and a tone. The 34 earlier ones are left as written.",
+  "why": "X-024 item 2. Back-filling tone on old entries would be a rewrite for form."
+ },
+ {
+  "id": "DEC-69",
+  "date": "2026-11-12",
+  "decided": "H-046 raised at 35 and not attached to the tree; H-030 raised to 60; the Reformed candidates lowered.",
+  "why": "A household of the right church, village, standing and years is strong context and no more: no entry names Michal as its child (X-009). Part 1 of the folder cannot contain a strip named 'Mihaly', so its absence proves nothing either way."
+ },
+ {
+  "id": "DEC-70",
+  "date": "2026-11-12",
+  "decided": "D-009-10 and D-009-11 are two files of one entry: two documents, one child.",
+  "why": "Different checksums and crops, identical line."
+ },
+ {
+  "id": "DEC-71",
+  "date": "2026-11-12",
+  "decided": "Children born in 1907, 1909 and 1910 are shown with full dates.",
+  "why": "X-016 item 4: born more than 100 years ago; three of the four also have a death noted."
+ },
+ {
+  "id": "DEC-72",
+  "date": "2026-11-12",
+  "decided": "The match between house 73 on these strips and prior PR-6 is noted on H-046 and moves no confidence.",
+  "why": "PR-6 is a snippet of the owner's own writing (C-02). A prior cannot support a hypothesis (X-004, X-011)."
  }
 ]

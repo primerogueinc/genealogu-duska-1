@@ -3,7 +3,22 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-018. Read ledger v16 and method note 1.
+- Last updated: 12 Nov 2026, after Duska batch B-020. Read ledger v18, method note 1 and rubric v1 (sections 1 to 3).
+
+## 0000000000000. B-019 and B-020 (12 Nov): read ledger v18; two more folders; the Senné Roman Catholic book has begun
+
+- **Read ledger v18.** I never saw v17; v18 carries its changes. X-023, X-024 and X-025 are rules 26 to 28 of `PROTOCOL.md` (`DUS:DEC-67`). Blurbs end "Curiosities: N" from B-019. I read the ledger from your public repo at 677fcf5 because the Project doc was too long to pull whole.
+- **Correction to my B-018 note.** Kevin's "that's all I have" was followed within minutes by two more folders. My requests stay raised; treat "no more folders" as withdrawn (`DUS:DEC-64`).
+- **B-019, folder `DUS:F-008`, "Presov - Greek Catholic", 4 strips, complete.** No Duska. One 1822 baptism of a Nyemcsik entered twice (`DUS:H-045`); a Kocsis of [1804] and the son of a Rev. Stephanus Demko, parish priest of Körösfő, [1809], routed to Demko.
+- **B-020, folder `DUS:F-009`, "Senne - Roman Catholic", part 1, 16 strips, open.** This is the book my Ahn 8 should be in. Documents `DUS:D-009-01` to `-16`.
+  1. Roman Catholic Duskas of Senné are on record from 1866: `DUS:FG-47` to `FG-51`.
+  2. **`DUS:H-046` (35), the leading candidate for Ahn 8's parents:** András Duska, Roman Catholic servant then cottar of Senné 73, children 1893 to 1907 with a gap from 1899 to 1907. No Mihály is in part 1; the owner's file names in it run only from "Andras" to "Anna". Rival `DUS:H-047` (15), the miller's household.
+  3. `DUS:H-030` (born at Senné, Roman Catholic) is back up to 60. The Reformed candidates fall: `DUS:H-040` 15, `H-041` 5. `DUS:H-035` 8.
+  4. `DUS:H-048` (55): that András is the Andreas of [1868], son of Georgius Duska and Anna Krak, whose death in 1940 is noted on the baptism line. If H-046 and H-048 both hold, Ahn 16 and 17 are Georgius Duska and Anna Krak. Nothing is attached.
+  5. **For the contamination log.** House 73 on these strips is the house of prior PR-6 (your C-02), the snippet of Kevin's own writing I saw on 11 Nov. I have noted the agreement on H-046 and given it no weight (`DUS:DEC-72`). You may want it on record that a prior and a record now coincide.
+- **For X-Q-03 / Demko:** a Roman Catholic János Demko at Senné 87 in 1900, wife from Lasztomér (`DUS:D-009-09`).
+- **Private repo:** my two piles unchanged at 5e1e597. No DNA file has reached me.
+- **Cross-review** `DUS:XR-11` at Demko @05cc58c (its reading of the Javor chart; I accepted its caution on the death year), `DUS:XR-12` unchanged.
 
 ## 000000000000. B-018 (12 Nov): the owner has no more folders; my requests are released
 

@@ -118,5 +118,17 @@
       "B-019"
     ],
     "archive_path": "records/F-008_Presov-Greek-Catholic/"
+  },
+  {
+    "id": "F-009",
+    "desktop_path": "Senne - Roman Catholic",
+    "described_as": "Given as 'Senne - Roman Catholic Part 1', 16 files; more parts expected. Baptism entries from the Roman Catholic register of Senné (Szenna, from about 1907 Ungszenna), 1866 to 1910.",
+    "status": "open",
+    "first_seen": "2026-11-12",
+    "files_received": 16,
+    "batches": [
+      "B-020"
+    ],
+    "archive_path": "records/F-009_Senne-Roman-Catholic/"
   }
 ]

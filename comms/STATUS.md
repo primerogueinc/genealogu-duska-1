@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-12 after batch B-018 (read ledger v16). The owner has no more folders; requests R-001 to R-011 are released to him. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-12 after batch B-020 (read ledger v18). Requests R-001 to R-011 are released to the owner. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -14,6 +14,8 @@ Updated 2026-11-12 after batch B-018 (read ledger v16). The owner has no more fo
 
 - F-006 `AAAA Unclassified`, through the Sorter's piles (open): `to-duska/` empty; `to-both/` one file, a compiled Javor family chart, image held (D-006-01). Read at private commit 2e9dd04, unchanged at 9bf2c7a.
 - F-007 `Inacovce - Reformed` (four parts, 45 files, complete): a Reformed register for Solymos, 1825 to 1921. About ten Duska households; two boys named Mihály Duska (189[3], Solymos 44; [1902], 'Bradenville') who are candidates for Ahn 8, neither attached. Twelve Knyezso strips for DEM.
+- F-008 `Presov - Greek Catholic` (4 files, complete): Latin baptisms at Eperjes, 1804 to 1822; a Nyemcsik, a Kocsis, and the son of a priest named Demko. No Duska.
+- F-009 `Senne - Roman Catholic` (part 1, 16 files, open): Roman Catholic Duskas of Senné, 1866 to 1907. András Duska of house 73 is the leading candidate for the father of Ahn 8 (H-046, 35); no entry for a Mihály yet.
 
 ## Concluded
 

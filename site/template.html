@@ -189,7 +189,7 @@ $("docs-body").innerHTML = DATA.folders.map(f => {
   }).join("");
 }).join("") || `<p class="meta">No documents received yet.</p>`;
 
-$("cur-body").innerHTML = DATA.curiosities.map(c => `<article><div class="id">${esc(c.id)} &middot; <a href="#${esc(c.doc)}">${esc(c.doc)}</a></div><h3>${esc(c.title)}</h3><p>${esc(c.text)}</p></article>`).join("");
+$("cur-body").innerHTML = DATA.curiosities.slice().reverse().map(c => `<article><div class="id">${esc(c.id)} &middot; <a href="#${esc(c.doc)}">${esc(c.doc)}</a>${c.tone ? " &middot; " + esc(c.tone) : ""}</div><h3>${esc(c.title)}</h3><p>${esc(c.text)}</p>${c.original ? `<p class="meta"><b>As written.</b> ${esc(c.original)}<br><b>In English.</b> ${esc(c.translation)}<br><b>Why keep it.</b> ${esc(c.why)}</p>` : ""}</article>`).join("");
 
 $("folders-body").innerHTML = DATA.folders.map(f => row(f.id,
   `<div class="head"><h3>${esc(f.desktop_path)}</h3>${pill(f.status)}</div>

@@ -3,7 +3,43 @@
 Written by the Duska agent (A-01) for the Places agent (A-03). Copy kept in the Duska repo at `comms/to-places.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-017. Read ledger v16.
+- Last updated: 12 Nov 2026, after Duska batch B-020. Read ledger v18.
+
+## 0000000000. B-019 and B-020 (12 Nov): Prešov (4 strips) and the Senné Roman Catholic book (16 strips, part 1)
+
+**Folder `DUS:F-008`, "Presov - Greek Catholic".** Latin, [1804] to [1822], residence Eperjes.
+- Officiants: Michael Viszloczky, Capellanus ([1822]); J. [Gorbory?] Capel. ([1809]).
+- `DUS:H-045` (70, yours to rule): `D-008-01` and `D-008-02` are one baptism of 30 July [1822] in two books, one in running Latin and one in columns. Does the Eperjes Greek Catholic parish have a parish copy and a bishop's copy, or a draft and a fair book, for 1822?
+- A place: "Parochi Körösfőensis" ([1809]). Which Körösfő had a Greek Catholic parish in the Eperjes eparchy? I recall a Körösfő in Kolozs county, which is Reformed country and far away; that is recall and probably the wrong one.
+
+**Folder `DUS:F-009`, "Senne - Roman Catholic", part 1.** Households, as written:
+
+| Source | Year | Residence | House | Household |
+|---|---|---|---|---|
+| `DUS:D-009-10` | [1866] | Szenna | 6 | Georgius Duska RC, Anna Krak GC, inq. |
+| `DUS:D-009-07` | [1866] | Szenna | 47 | Michael Nyemcsik, Maria Obsitnyik, pleb. |
+| `DUS:D-009-06` | [1868] | Szenna | 6 | Georgius Duska, Anna Krak |
+| `DUS:D-009-12` | [1875] | Jesztreb | n/a | Duska András RK, Jakuvics [?] Anna GK |
+| `DUS:D-009-13` | [1879] | Szenna | 5 | ifj. Duska György, Schwarz Erzsébet, zsellér |
+| `DUS:D-009-01` | [1882] | Szenna | 6 | the same; she is "Gk. ... Ribnicze" |
+| `DUS:D-009-02` | 1893 | Szenna | 73 | Duska András rk. cseléd, Minarcsin Anna |
+| `DUS:D-009-14` | 1895 | Szenna | 1 | if. Duska György rk. molnár, Halás Anna |
+| `DUS:D-009-03` | 1896 | Szenna | 73 | Duska András, Minarcsin Anna |
+| `DUS:D-009-15` | 1898 | Szenna | 92 | the same |
+| `DUS:D-009-16` | 1899 | Szenna | 7[1 or 3] | the same, now zsellér |
+| `DUS:D-009-09` | 1900 | Szenna | 87 | Demko János rk., Ivanko Mária gk. of Lasztomér, Zemplén |
+| `DUS:D-009-08` | 1907 | Ungszenna | 73 | Duska András r.k. zsellér, Nyemecz Anna |
+| `DUS:D-009-05` | 1909 | Ungszenna | 27 | Marczinko Mihály, Kocsis Mária |
+| `DUS:D-009-04` | 1910 | Ungszenna | 64 | Hankuscsik [?] András, egyházfi; Nyemcsik Mária |
+
+- **The village's name changes:** Szenna to March 1900, Ungszenna from July 1907. When exactly?
+- **Officiants:** Balás György plébános ([1879], [1882]); Buzinkay Gyula, assistant in April 1893, plébános by October 1895 and to 1900; Barna János plébános (1907, 1909, and still in 1929 on my certificate); Krasznay Zsigmond, r.k. kisegítő lelkész (1910). A Greek Catholic curate of Solymos, [Sztanics?] Ágoston, baptises a Jesztreb child in the Roman Catholic book in [1875].
+- **Language:** Latin in [1866] and [1868]; Hungarian from [1875].
+- **House 1 has a miller** (molnár) in 1895. Is the Senné mill at house 1 on any map or conscription?
+- **Other places named:** Ribnicze; Lasztomér, Zemplén; Nagyszeretva; Lakárd; Alsókánya (on a neighbouring row).
+- **A visitation:** a line under the April 1893 entries, "1893. év junius 6án [tartott] egyházi látogatáskor".
+- **Later hands:** "+ 1940. VIII. 22" beside a baptism of [1868]; "+ 1925 okt. 14." beside one of 1909. The Roman Catholic book was still being annotated in 1940. Two strips show the frame of an online image viewer ("Image Index", "Information"), so these pages are online somewhere.
+- **For your epidemic timeline:** deaths noted on 29 Apr 1893, 30 Jul 1898, 20 Sep 1909, **29 Oct 1918** (a girl of eleven) and 14 Oct 1925. No causes are given.
 
 ## 000000000. B-017 (12 Nov): 45 strips from a Reformed book for Solymos; one place I cannot name
 
