@@ -384,6 +384,14 @@
   "reliability": "The owner's word. He can know it of his own kin; for unrelated villagers on the same sheets it is a general statement and is recorded as stated, not documented."
  },
  {
+  "id": "S-000-12",
+  "batch": "B-038",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 12 Nov 2026: 'mike jr dead'",
+  "extract": "The second son of Mike Duska, Sr., called Mike Jr, has died. No date given.",
+  "reliability": "The owner's word on his own great-uncle. No record of the death is in hand."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -2276,7 +2284,7 @@
   "batch": "B-036",
   "type": "Newspaper death notice (derivative, supplied by the family; print from a newspaper archive)",
   "title": "Death notice of Mike Duska, Sr., The Montreal Star, 2 February 1974",
-  "extract": "A death notice from The Montreal Star of Saturday 2 February 1974, page 10. Mike Duska, Sr., died at the Montreal General Hospital on 31 January 1974, aged 71. He was the husband of the late Mary Demko, the father of Steve and Mike, and the grandfather of Kevin. The funeral was on Monday 4 February from the Slovak church of St. Cyril and Method, with burial in Côte-des-Neiges cemetery, where his wife's stone stands. This is Michal Duska, Ahn 8. A man born on 3 July 1903 was 70, not 71, on that day; a family's count a year out is ordinary. The notice shows a second son, Mike, not met in any earlier record; he was not on his mother's passport in 1937, so he was born in Canada after that. The 'Sr.' is for him. The image is held; the notice is given here in full.",
+  "extract": "A death notice from The Montreal Star of Saturday 2 February 1974, page 10. Mike Duska, Sr., died at the Montreal General Hospital on 31 January 1974, aged 71. He was the husband of the late Mary Demko, the father of Steve and Mike, and the grandfather of Kevin. The funeral was on Monday 4 February from the Slovak church of St. Cyril and Method, with burial in Côte-des-Neiges cemetery, where his wife's stone stands. This is Michal Duska, Ahn 8. A man born on 3 July 1903 was 70, not 71, on that day; a family's count a year out is ordinary. The notice shows a second son, Mike, not met in any earlier record; he was not on his mother's passport in 1937, so he was born in Canada after that. The 'Sr.' is for him. The page as the owner saved it prints his account name on a newspaper website and is not published; the notice itself is shown as a crop.",
   "reliability": "The pile is the sorter's label and is not evidence. Reading level: high."
  },
  {
@@ -2298,10 +2306,10 @@
  {
   "id": "S-277",
   "batch": "B-036",
-  "type": "Civil registration of marriage (original record; not opened)",
-  "title": "Québec registration of a marriage of a Mike Duska, 1973 (not opened)",
-  "extract": "Not opened. The Sorter describes it as a typed Québec form, 'Enregistrement de mariage', of 1973, in French, whose groom is named Duska, with both parties born less than 100 years ago. The owner's file name calls it 'Mike Duska 1st marriage'. He is presumably the younger son Mike of the death notice of 1974. Held by name and SHA-256.",
-  "reliability": "The pile is the sorter's label and is not evidence. Reading level: n/a."
+  "type": "Civil registration of marriage (original record; image held)",
+  "title": "Québec registration of the marriage of Michael Duska, born 1 December 1938, Montréal, 8 December 1973",
+  "extract": "The provincial registration of a marriage at the church of St-Alphonse d'Youville, Montréal, on 8 December 1973, after banns. The groom is Michael Duska, inspection manager, single, 35, born in Montréal on 1 December 1938, Roman Catholic, a Canadian citizen. The bride is Marie-Claire-Francine Quenneville, born in 1949; her status is not known, so she is given by name and year only and the image is held. The owner states that the groom, his great-uncle 'Mike Jr', has died (S-000-12). A boy born in Montréal on 1 December 1938 fits a couple reunited there in November 1937, and eight weeks after this wedding the death notice of Mike Duska, Sr., names a son Mike. One thing on the form is wrong on any reading: the groom's ethnic origin is typed 'Indou' and his father's birthplace 'Inde', Hindu and India. His father was born at Senné. That he is the son of Michal Duska and Maria Demko is held at 75 in 100 (H-071): the form does not name his parents.",
+  "reliability": "Typed at the time from the parties' statements, with one plain clerical error (the groom's origin and his father's birthplace). Reading level: high."
  },
  {
   "id": "S-278",

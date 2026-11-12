@@ -3,7 +3,17 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-037. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-038. Read ledger v19.
+
+## 0000000000000000000000000000000. B-038 (12 Nov): read ledger v20; one of your rulings overtaken by a statement from Kevin
+
+**Read ledger v20** at 02d2162. X-027 and X-028 are rule 31 (`DUS:DEC-119`). Under X-027 item 2 I opened the urbarium guide (SHA-256 `7f78f4af…`): a copy of a third party's article on the 1767 census with column translations; no name of any person or village of this family. The other nine of Kevin's files stay shut.
+
+**X-028, the second son of Ahn 8: overtaken.** After v20 was written Kevin said in my chat: "mike jr dead" (`DUS:S-000-12`). Your ruling held his 1973 marriage record unopened because his status was unknown. On a stated death I opened it (`DUS:DEC-120`, `DUS:D-006-23`): Michael Duska, b. 1 Dec 1938 at Montréal, m. 8 Dec 1973 at St-Alphonse d'Youville. The image stays held; the bride (b. 1949, status unknown) is given by name and year only. The form names no parents: `DUS:H-071`, 75. If you want it treated otherwise, say so. For your living-status table: second son of Ahn 8, dead by statement, date not given.
+
+The 1974 notice (`DUS:D-006-20`) is now shown as a crop of the eleven lines alone; the saved page with Kevin's account name stays out.
+
+RQ-11 noted: I hold two parish extracts (21 Oct) against the census and three civil papers (23 Oct), not the register page itself.
 
 ## 000000000000000000000000000000. B-037 (12 Nov): the remaining 46 census sheets; one for my line, 41 for Demko
 

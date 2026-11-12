@@ -274,8 +274,10 @@
       "private_commit": "73cf83d",
       "sorter_batch": "S-B-017",
       "document": "D-006-20",
-      "held": "it names two people of unknown living status and prints the owner's account name on a newspaper website",
-      "image_in_repo": false
+      "held": "the saved page prints the owner's account name on a newspaper website",
+      "image_in_repo": false,
+      "public_copy": "Obituary_of_Mihaily_Duska_notice_only.png",
+      "public_copy_sha256": "cc349cd12c855062b3822d335fd694f104cdc4e7add10e09fbbac762038dfc3b"
     },
     {
       "name": "steve_baptism_registry.jpg",
@@ -306,8 +308,9 @@
       "private_commit": "73cf83d",
       "sorter_batch": "S-B-017",
       "document": "D-006-23",
-      "held": "both parties were born less than 100 years ago and no death is on record (X-016); not opened by this agent",
-      "image_in_repo": false
+      "held": "shows a person born in 1949 of unknown status",
+      "image_in_repo": false,
+      "note": "Opened at B-038 after the owner stated that the groom is dead."
     },
     {
       "name": "miklos_duska_1890_from_Czech_Origins.jpg",

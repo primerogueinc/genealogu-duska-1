@@ -1577,6 +1577,11 @@
     "batch": "B-025",
     "effect": "raised at 55",
     "note": "Raised from the urbarial tables in folder F-011."
+   },
+   {
+    "batch": "B-038",
+    "effect": "no change",
+    "note": "The owner's urbarium guide was read under X-027 item 2: a third party's article with column translations and no names. It does not bear on the reading of page 27."
    }
   ]
  },
@@ -1729,6 +1734,11 @@
     "batch": "B-030",
     "effect": "no change",
     "note": "The owner states that he found the 1937 papers himself in the basement of Štefan Duska, the boy who travelled on them. That is an unbroken line of keeping from the traveller to the finder. Already solved."
+   },
+   {
+    "batch": "B-038",
+    "effect": "no change",
+    "note": "Ledger v20 (X-028) agrees that an event shown on dated originals is not capped."
    }
   ]
  },
@@ -1836,6 +1846,24 @@
     "batch": "B-037",
     "effect": "raised at 60",
     "note": "Routed to the Demko agent, who owns Ahn 18 and 19."
+   }
+  ]
+ },
+ {
+  "id": "H-071",
+  "statement": "The Michael Duska who married in Montréal on 8 December 1973, born there on 1 December 1938, is the son Mike of Michal Duska and Maria Demko.",
+  "confidence": 75,
+  "basis": "The surname, rare in Montréal; a birth thirteen months after Maria reached Montréal; the death notice of February 1974, which names a son Mike and calls the father 'Sr.'; the owner's file label, which is a prior. Against: the form names no parents, and gives the groom's origin as 'Indou' and his father's birthplace as 'Inde', which is false of Michal Duska and is read as a clerk's error.",
+  "test": "His baptism at Montréal, December 1938 (St. Cyril and Method, or the parish of 1196a St. George Street); the church's own marriage entry, which names parents.",
+  "status": "open",
+  "raised": "B-038",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-038",
+    "effect": "raised at 75",
+    "note": "Above the usual 70 because two independent originals bear on it; not higher, because neither names his parents."
    }
   ]
  }
