@@ -94,6 +94,11 @@
         "batch": "B-006",
         "effect": "60% to 55%",
         "note": "L-006 and L-012: Iňačovce was the Greek Catholic parish seat and a third of Senné was Greek Catholic in 1904. The Roman Catholic half of this guess is weaker."
+      },
+      {
+        "batch": "B-007",
+        "effect": "55% to 55%",
+        "note": "The Demko half is now documented across three generations: every Demko father at Viszoka from 1831 to 1883 is Greek Catholic. The Duska half is still untested."
       }
     ]
   },
@@ -223,7 +228,7 @@
   {
     "id": "H-012",
     "statement": "Mihály Demkó (b. 1882) is the father of Maria Demko, Ahn 9. That would make him Ahn 18 and György Demkó and Mária Hreskó Ahn 36 and 37.",
-    "confidence": 30,
+    "confidence": 25,
     "basis": "The owner filed this under leads and named the file for Mihály, which is what a researcher does with a person on the line. A man born in 1882 fits as father of a woman whose son was born c. 1925-1942.",
     "test": "Maria Demko's birth or marriage record naming her father; any record giving her age.",
     "status": "open",
@@ -245,6 +250,11 @@
         "batch": "B-005",
         "effect": "25% to 30%",
         "note": "Ruling X-004 (ledger v2): the owner's labels and filing are priors and move nothing on their own. The B-004 cut that rested on H-019 is undone."
+      },
+      {
+        "batch": "B-007",
+        "effect": "30% to 25%",
+        "note": "Still possible. This folder adds rival fathers for a Maria Demko born about 1885 to 1910 (H-023, H-024). A first Mihály, a twin of 1873, is marked with a cross, so the Mihály of 1882 was the couple's second son of that name."
       }
     ],
     "question": "X-Q-03"
@@ -252,7 +262,7 @@
   {
     "id": "H-013",
     "statement": "Maria Demko is a sister of Mihály: a daughter of György Demkó and Mária Hreskó of Viszoka, born c. 1885-1900.",
-    "confidence": 20,
+    "confidence": 8,
     "basis": "Rival to H-012. The same couple could have had a daughter Maria in those years.",
     "test": "Search the same register for other children of this couple, 1875-1900.",
     "status": "open",
@@ -269,6 +279,11 @@
         "batch": "B-005",
         "effect": "25% to 20%",
         "note": "Same ruling. The B-004 rise that rested on H-019 is undone."
+      },
+      {
+        "batch": "B-007",
+        "effect": "20% to 8%",
+        "note": "Mária Hreskó was already a mother in January 1857 (D-004-13). She cannot plausibly have borne a daughter late enough to be the grandmother of a man born in 1962."
       }
     ],
     "question": "X-Q-03"
@@ -289,13 +304,13 @@
   {
     "id": "H-015",
     "statement": "The entry is from the Roman Catholic register of Čičarovce (Csicser), which served Viszoka.",
-    "confidence": 20,
+    "confidence": 3,
     "basis": "File name says Čičarovce. The mother and both godparents are Roman Catholic, and neighbouring entries note 'rom. k.'.",
     "test": "The page header or film title for this image (R-003).",
-    "status": "open",
+    "status": "refuted",
     "raised": "B-002",
-    "resolved": null,
-    "resolution": null,
+    "resolved": "B-007",
+    "resolution": "The 1870s entries for this same couple, in the same column layout as the 1882 strip, name the officiant as 'Kubek József csicseri g.k. lelkész', Greek Catholic pastor of Csicser (D-004-08, D-004-09). The priest of 1882 appears again on 7 Jan 1883 as 'Csurgovich János ... lelkész' (D-004-20). The book is the Greek Catholic register of Čičarovce. Still missing: the page header and archive reference (R-003).",
     "log": [
       {
         "batch": "B-003",
@@ -311,6 +326,11 @@
         "batch": "B-006",
         "effect": "35% to 20%",
         "note": "L-007 and L-009: Viszoka's Greek Catholics belonged to the Čičarovce Greek Catholic parish, and Csurgovich is now sourced as a Greek Catholic clerical family."
+      },
+      {
+        "batch": "B-007",
+        "effect": "20% to 3%",
+        "note": "Refuted on the entries themselves."
       }
     ],
     "question": "X-Q-02"
@@ -318,7 +338,7 @@
   {
     "id": "H-016",
     "statement": "György Demko of Gönyű 24 (1895) is a different man from György Demkó of Viszoka 132 (1882), and the two households are different Demko families.",
-    "confidence": 65,
+    "confidence": 70,
     "basis": "Different wife (Katalin Jobbágy against Mária Hreskó), different county (Abaúj-Torna against Ung), about 80 km apart, both settled farmers. Demko and György are both common.",
     "test": "Marriage entry of György Demko and Katalin Jobbágy, giving his age, birthplace and whether he was a widower.",
     "status": "open",
@@ -330,6 +350,11 @@
         "batch": "B-005",
         "effect": "75% to 65%",
         "note": "Coordinator, X-Q-04: one man with two marriages has not been ruled out. Held at 65 until the Demko agent tests it."
+      },
+      {
+        "batch": "B-007",
+        "effect": "65% to 70%",
+        "note": "György Demkó of Viszoka had the same wife, Mária Hreskó, from 1857 to 1882. A move to Gönyű and a new wife by 1895 is unlikely. Held at the X-009 cap; the Demko agent should still rule out a second marriage."
       }
     ],
     "question": "X-Q-04"
@@ -337,10 +362,10 @@
   {
     "id": "H-017",
     "statement": "Hriczko of Szina and Hreskó of Viszoka are two surnames, not spellings of one family.",
-    "confidence": 65,
+    "confidence": 70,
     "basis": "Different vowel and consonant pattern in clear hands, and different counties. The owner may have saved the Hriczko entry to test exactly this.",
     "test": "Any record of the Viszoka family spelling the name Hriczko, or the reverse.",
-    "status": "open",
+    "status": "supported",
     "raised": "B-004",
     "resolved": null,
     "resolution": null,
@@ -349,6 +374,11 @@
         "batch": "B-006",
         "effect": "60% to 65%",
         "note": "L-010: linguists list Hreško and Hricko as separate surnames."
+      },
+      {
+        "batch": "B-007",
+        "effect": "65% to 70%",
+        "note": "D-004-03: one clerk writes Hreskó and Hricko on adjacent lines for two different people."
       }
     ]
   },
@@ -373,7 +403,7 @@
   {
     "id": "H-019",
     "statement": "The owner was searching 1894-1895 because a later record gave Maria Demko an age that points to a birth around 1894-1896.",
-    "confidence": 30,
+    "confidence": 15,
     "basis": "Both files kept from this parish fall within thirteen months of each other, one a Demko and one a Mária.",
     "test": "Maria Demko's age in any passenger list, census, marriage or burial record.",
     "status": "open",
@@ -385,8 +415,87 @@
         "batch": "B-005",
         "effect": "30% to 30%",
         "note": "Rests on which files the owner kept, a prior under ruling X-004. It moves no other entry until a record gives Maria Demko's age."
+      },
+      {
+        "batch": "B-007",
+        "effect": "30% to 15%",
+        "note": "This folder shows the owner collected Demko baptisms from 1831 to 1883, not a narrow window."
       }
     ],
     "question": "X-Q-03"
+  },
+  {
+    "id": "H-020",
+    "statement": "György Demkó, husband of Mária Hreskó, is the György baptised at Viszoka in September [1834], son of György Demko and Anna Samudovszki [?].",
+    "confidence": 40,
+    "basis": "A man married by 1856 fits a birth in the early 1830s. Two boys named György Demko were baptised at Viszoka then; this one has a brother János.",
+    "test": "His marriage entry (about 1855 to 1856), which should give his age and father; burial entries for either György.",
+    "status": "open",
+    "raised": "B-007",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-021",
+    "statement": "György Demkó, husband of Mária Hreskó, is the Georgius baptised at Viszoka in [1831], son of Georg. Demko and Barbara Cs[encsarik?].",
+    "confidence": 30,
+    "basis": "Rival to H-020.",
+    "test": "As H-020.",
+    "status": "open",
+    "raised": "B-007",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-022",
+    "statement": "The couple of 1857 (Georgij Demko and Mária Hreško, Viszoka 79) is the couple of 1873 to 1882 (György Demkó and Mária Hreskó, Viszoka 121 and 132).",
+    "confidence": 65,
+    "basis": "Same two names, same village, same rite for him. Against: a sixteen-year gap with no child in this folder, a different house number, and her rite entered as Greek Catholic in 1857.",
+    "test": "Baptisms at Viszoka between 1857 and 1873; the marriage entry; the 1869 census sheet for Viszoka.",
+    "status": "open",
+    "raised": "B-007",
+    "resolved": null,
+    "resolution": null,
+    "log": []
+  },
+  {
+    "id": "H-023",
+    "statement": "Maria Demko (Ahn 9) is a daughter of János Demkó and Mária Szlekár of Viszoka, born about 1884 to 1895.",
+    "confidence": 15,
+    "basis": "This couple was still having children in 1883, and their daughters so far are Anna, Erzsébet and Zsuzsánna. Rests on the unproved premise that Ahn 9 belongs to the Viszoka Demkos at all.",
+    "test": "Baptisms at Viszoka from 1883 to 1895; any record of Maria's age or father.",
+    "status": "open",
+    "raised": "B-007",
+    "resolved": null,
+    "resolution": null,
+    "log": [],
+    "question": "X-Q-03"
+  },
+  {
+    "id": "H-024",
+    "statement": "Maria Demko (Ahn 9) is a daughter of János Demkó, born 1875, son of György Demkó and Mária Hreskó.",
+    "confidence": 10,
+    "basis": "He is seven years older than his brother Mihály and could have a daughter from about 1898. Same unproved premise as H-023.",
+    "test": "Civil birth registrations for Viszoka after 1895.",
+    "status": "open",
+    "raised": "B-007",
+    "resolved": null,
+    "resolution": null,
+    "log": [],
+    "question": "X-Q-03"
+  },
+  {
+    "id": "H-025",
+    "statement": "János Demkó, husband of Szlekár, is the János baptised at Viszoka in [1838], and so a brother of the György of 1834.",
+    "confidence": 45,
+    "basis": "Right name, village and generation. In 1879 he lives at Viszoka 120, next door to György Demkó at 121.",
+    "test": "His marriage entry; the 1869 census sheets for Viszoka 120 and 121.",
+    "status": "open",
+    "raised": "B-007",
+    "resolved": null,
+    "resolution": null,
+    "log": []
   }
 ]

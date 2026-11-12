@@ -37,5 +37,18 @@
       "B-004"
     ],
     "archive_path": "records/F-003_Duska-Baptisms_Belza-Kosice-Greek-Catholic/"
+  },
+  {
+    "id": "F-004",
+    "desktop_path": "Duska Baptisms/Cicarovce",
+    "described_as": "Duska Baptisms / Cicarovce. Full folder.",
+    "status": "complete",
+    "first_seen": "2026-11-12",
+    "completed": "2026-11-12",
+    "files_received": 20,
+    "batches": [
+      "B-007"
+    ],
+    "archive_path": "records/F-004_Duska-Baptisms_Cicarovce/"
   }
 ]

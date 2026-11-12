@@ -88,5 +88,23 @@
     "date": "2026-11-12",
     "decided": "Research findings are logged as leads only. Confidences moved by a lead move by small steps and stay under the cap in ruling X-009.",
     "why": "A website or dictionary is not a record in hand."
+  },
+  {
+    "id": "DEC-16",
+    "date": "2026-11-12",
+    "decided": "For strips that show neighbouring entries, only people in the entry the file is about are indexed, plus neighbours who carry a tracked surname (Demko, Hreskó, Hricko, Szlekár, Kocsis, Tirpák).",
+    "why": "Twenty strips carry dozens of half-visible strangers. Indexing all of them would bury the families that matter."
+  },
+  {
+    "id": "DEC-17",
+    "date": "2026-11-12",
+    "decided": "Added data/families.json: family groups rebuilt from the baptisms, each marked unplaced.",
+    "why": "Twenty baptisms are easier to check as nine couples with their children than as twenty rows."
+  },
+  {
+    "id": "DEC-18",
+    "date": "2026-11-12",
+    "decided": "Years that appear only in the owner's file names are written in square brackets.",
+    "why": "Ruling X-004: his labels are priors, not readings."
   }
 ]

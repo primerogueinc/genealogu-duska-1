@@ -112,10 +112,11 @@ footer{padding:36px 0 48px;color:var(--muted);font-size:13.5px}
   <ul class="stats" id="stats"></ul>
 </div></header>
 <nav class="toc" aria-label="Sections"><div class="wrap">
-  <a href="#lineage">Lineage</a><a href="#candidates">Candidates</a><a href="#batches">Batches</a><a href="#hypotheses">Hypotheses</a><a href="#documents">Documents</a><a href="#curiosities">Curiosities</a><a href="#folders">Folders</a><a href="#priors">Known beforehand</a><a href="#leads">Leads</a><a href="#requests">Requests</a><a href="#sources">Sources</a><a href="#role">Analyst brief</a>
+  <a href="#lineage">Lineage</a><a href="#families">Families</a><a href="#candidates">Candidates</a><a href="#batches">Batches</a><a href="#hypotheses">Hypotheses</a><a href="#documents">Documents</a><a href="#curiosities">Curiosities</a><a href="#folders">Folders</a><a href="#priors">Known beforehand</a><a href="#leads">Leads</a><a href="#requests">Requests</a><a href="#sources">Sources</a><a href="#role">Analyst brief</a>
 </div></nav>
 <main class="wrap">
   <section id="lineage"><h2>Lineage</h2><p class="sub">Direct line by Ahnentafel number. A dashed label means no record supports the entry yet.</p><div class="lineage" id="lineage-body"></div></section>
+  <section id="families"><h2>Family groups</h2><p class="sub">Couples and their children as rebuilt from the baptisms. All are unplaced: none is yet tied to the direct line by a record. Years in square brackets come from the owner's file names.</p><div id="fam-body"></div></section>
   <section id="candidates"><h2>Unplaced candidates</h2><p class="sub">People proved by a record whose link to the direct line is still a hypothesis.</p><div id="cand-body"></div></section>
   <section id="batches"><h2>Batch log</h2><p class="sub">Newest first. One entry per delivery of files.</p><div id="batches-body"></div></section>
   <section id="hypotheses"><h2>Hypotheses</h2><p class="sub">Each one is a prediction that a later record can confirm or kill. Confidence is the analyst's own estimate at the latest batch.</p><div id="hyp-body"></div></section>
@@ -155,6 +156,8 @@ $("lineage-body").innerHTML = DATA.people.slice().sort((a, b) => a.ahnentafel - 
     <div><div class="name">${esc(p.name)}</div><div class="meta"><b>${esc(p.role)}</b> &middot; ${esc(vit)}</div><p>${esc(p.note)}</p><div class="meta">Evidence: ${p.sources.map(esc).join(", ")}</div></div>
     <div>${pill(p.proof)}</div></div>`;
 }).join("");
+
+$("fam-body").innerHTML = DATA.families.map(f => row(f.id, `<div class="head"><h3>${esc(f.husband)} and ${esc(f.wife)}</h3></div><div class="meta">${esc(f.rite)} &middot; <b>${esc(f.homes)}</b></div><ul class="rules">${f.children.map(c => `<li>${esc(c)}</li>`).join("")}</ul>${f.note ? `<p>${esc(f.note)}</p>` : ""}<div class="meta">Documents: ${f.documents.map(d => `<a href="#${esc(d)}">${esc(d)}</a>`).join(", ")} &middot; Route: <b>${esc(f.route)}</b></div>`)).join("");
 
 $("cand-body").innerHTML = DATA.candidates.map(k => row(k.id, `<div class="head"><h3>${esc(k.name)}</h3>${pill(k.proof)}</div><div class="meta">${esc(k.vitals)} &middot; evidence ${k.sources.map(esc).join(", ")}</div><p>${esc(k.relation)}</p>${k.route ? `<div class="meta">Route: <b>${esc(k.route)}</b></div>` : ""}`)).join("");
 

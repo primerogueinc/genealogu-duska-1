@@ -1,0 +1,160 @@
+[
+  {
+    "id": "FG-01",
+    "husband": "György Demkó",
+    "wife": "Mária Hreskó",
+    "rite": "He Greek Catholic. She Roman Catholic in 1873 to 1882; entered as Greek Catholic in 1857.",
+    "homes": "Viszoka 79 (1857); [Feke]temező [?] 33 (1873); Viszoka 121 (1875, 1879); Viszoka 132 (1882)",
+    "children": [
+      "Mária, b. 2 Jan 1857, d. 15 Feb 1857",
+      "Mihály and János, twins, b. 29 May [1873], both marked with a cross",
+      "János, b. 29 Mar 1875",
+      "Borbála, b. 23 Apr [1879]",
+      "Mihály, b. 19 Aug 1882"
+    ],
+    "note": "Whether the couple of 1857 is the couple of 1873 to 1882 is hypothesis H-022. No child is recorded here between 1857 and 1873.",
+    "route": "Demko agent",
+    "documents": [
+      "D-002-01",
+      "D-004-03",
+      "D-004-08",
+      "D-004-13",
+      "D-004-16",
+      "D-004-18"
+    ]
+  },
+  {
+    "id": "FG-02",
+    "husband": "János Demkó",
+    "wife": "Szlekár, given as Anna in 1874 and Mária in 1877, 1879 and 1883",
+    "rite": "Both Greek Catholic",
+    "homes": "Viszoka (1874); Viszoka 141 (1877); Viszoka 120 (1879); Viszoka (1883)",
+    "children": [
+      "Anna, b. 13 Oct [1874]",
+      "Erzsébet, b. 10 Apr [1877]",
+      "János, b. 2 Mar [1879], d. 14 Mar 1879",
+      "Zsuzsánna, b. 6 Jan 1883"
+    ],
+    "note": "House 120 in 1879 is next door to György Demkó at 121. One wife under two given names, or two wives, is not settled.",
+    "route": "Demko agent",
+    "documents": [
+      "D-004-02",
+      "D-004-04",
+      "D-004-09",
+      "D-004-20"
+    ]
+  },
+  {
+    "id": "FG-03",
+    "husband": "György Demko",
+    "wife": "Anna Samudovszki [?]",
+    "rite": "He Greek Catholic",
+    "homes": "Viszoka",
+    "children": [
+      "György, b. Sept [1834]",
+      "János, b. [1838]"
+    ],
+    "note": "",
+    "route": "Demko agent",
+    "documents": [
+      "D-004-06",
+      "D-004-07"
+    ]
+  },
+  {
+    "id": "FG-04",
+    "husband": "Georg. Demko",
+    "wife": "Barbara Cs[encsarik?]",
+    "rite": "He Greek Catholic",
+    "homes": "Viszoka",
+    "children": [
+      "Georgius, b. [1831]"
+    ],
+    "note": "A second father named György Demko at Viszoka in the same years as FG-03, or the same man with an earlier wife.",
+    "route": "Demko agent",
+    "documents": [
+      "D-004-05"
+    ]
+  },
+  {
+    "id": "FG-05",
+    "husband": "György Demko",
+    "wife": "Mária Vaszil [?]",
+    "rite": "Greek Catholic",
+    "homes": "Viszoka",
+    "children": [
+      "Mária, b. [1840]"
+    ],
+    "note": "May be the father of FG-03 or FG-04 with a later wife, or a third man.",
+    "route": "Demko agent",
+    "documents": [
+      "D-004-12"
+    ]
+  },
+  {
+    "id": "FG-06",
+    "husband": "György Tirpák",
+    "wife": "Mária Demko",
+    "rite": "Both Greek Catholic",
+    "homes": "Viszoka",
+    "children": [
+      "Maria, b. Oct [1832]",
+      "János, b. [1835]",
+      "Mihály, b. [1839]"
+    ],
+    "note": "A Demko daughter of the generation born about 1800 to 1812.",
+    "route": "Demko agent",
+    "documents": [
+      "D-004-10",
+      "D-004-15",
+      "D-004-19"
+    ]
+  },
+  {
+    "id": "FG-07",
+    "husband": "István Kocsis",
+    "wife": "Erzsébet Dubics",
+    "rite": "He Greek Catholic, she Roman Catholic",
+    "homes": "Mogyorós (1832); Nagy[...] (1836)",
+    "children": [
+      "Maria, b. [1832]",
+      "Julianna, b. 27 Jan [1836]"
+    ],
+    "note": "No stated link to a Demko or a Duska. Why the owner kept the Kocsis entries is not known.",
+    "route": "Duska agent keeps; Places agent for the villages",
+    "documents": [
+      "D-004-11",
+      "D-004-14"
+    ]
+  },
+  {
+    "id": "FG-08",
+    "husband": "Pál Hornyák",
+    "wife": "Erzsébet Kocsis",
+    "rite": "He Greek Catholic, she Reformed",
+    "homes": "Csicser 90",
+    "children": [
+      "Mihály, b. 15 May 1873"
+    ],
+    "note": "A second Kocsis record, a generation after FG-07.",
+    "route": "Duska agent keeps",
+    "documents": [
+      "D-004-17"
+    ]
+  },
+  {
+    "id": "FG-09",
+    "husband": "György Szulák",
+    "wife": "Mária Hre[k]ó",
+    "rite": "Both Greek Catholic",
+    "homes": "Tán. [?]; sponsors of Viszoka",
+    "children": [
+      "Anna, b. 7 May [1872]"
+    ],
+    "note": "The owner's file name calls the child Anna Demko. The strip does not show that name.",
+    "route": "Demko agent, to check against the full page",
+    "documents": [
+      "D-004-01"
+    ]
+  }
+]

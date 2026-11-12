@@ -33,7 +33,7 @@ Forensically reconstruct the genealogy of the owner of a computer in Calgary, wo
 
 ## Layout
 
-    data/        people, candidates, sources, hypotheses, batches, folders, documents,
+    data/        people, candidates, families, decisions, searches, sources, hypotheses, batches, folders, documents,
                  curiosities, priors, leads, requests, role (all JSON)
     records/     original files as received, one directory per folder
     assets/      web-size page images used by the front end
@@ -41,7 +41,7 @@ Forensically reconstruct the genealogy of the owner of a computer in Calgary, wo
     build.py     builds index.html (static, data inlined)
     index.html   the front end
 
-## Current state (2026-11-12, after B-005)
+## Current state (2026-11-12, after B-007)
 
 - Batches: B-000 baseline, B-001 Folder 1, B-002 Folder 2.
 - Folder F-001, `Documents/Genealogy/Duska Misc/Senne Interesting Pages`: closed for now by Kevin on 12 Nov, 10 files received.
@@ -50,9 +50,11 @@ Forensically reconstruct the genealogy of the owner of a computer in Calgary, wo
 - B-003 (no files): took in coordinator ledger v1 and the Demko agent's first note.
 - B-004, Folder F-003, `Duska Baptisms/Belza (Kosice) - Greek Catholic`: complete, 2 files. Baptisms of György Demko (b. 29 Mar 1895, Gönyű 24, son of György Demko and Katalin Jobbágy) and Mária Hriczko (b. 29 Aug [1894], Szina 182, daughter of József Hriczko and Erzsébet Kocsis). No Duska. Six more unplaced candidates. Also took in the Places agent's first findings (H-007 now supported; H-005 and H-010 raised). New hypotheses H-016 to H-019.
 - B-005 (no files, 12 Nov): read ledger v2, the duska.si plan and the Site agent's notes. Added `stamp.yml`, `data/decisions.json`, `data/searches.json`, question tags and document checksums. Undid label-driven moves (H-012 back to 30, H-013 to 20) and applied the 70 cap (H-007, H-010) and the coordinator's 65 on H-016. Indexed nine more named people (K-010 to K-018) with routes. New note `comms/to-site.md`. Kevin allowed one research pass on the surnames provided nothing he has written is opened (S-000-4, DEC-14, SR-05); it was started on 12 Nov and its results are to be logged as leads in the next batch.
+- B-006 (no files): the research pass reported. Leads L-006 to L-016. A village website places a Dúška family in Iňačovce in the 18th century (H-004 down to 45). No emigration record found. The report disclosed an unrequested search of Kevin's Gmail for three terms, which found nothing; reported to him and the coordinator.
+- B-007, Folder F-004, `Duska Baptisms/Cicarovce`: complete, 20 files (one a duplicate of the F-002 file). No Duska. Fourteen Demko baptisms at Viszoka 1831 to 1883, three Tirpák children of a Demko mother, three Kocsis entries. Nine family groups in `data/families.json`; 79 more people in `data/candidates.json` (K-019 to K-097). The book is the Čičarovce Greek Catholic register: officiants are styled Greek Catholic pastor of Csicser (H-015 refuted). Mária Hreskó was already a mother in 1857, so she is all but ruled out as mother of Ahn 9 (H-013 down to 8). New hypotheses H-020 to H-025. The file labelled Anna Demko 1872 reads Szulák.
 - Notes to the other agents: `comms/to-demko.md`, `comms/to-places.md`, `comms/to-coordinator.md`, each mirrored to the Project as `claude/duska-agent-to-<name>-agent.md`. The Places repo is `primerogueinc/duska-and-demko-villages`.
 - Tree so far, all by Kevin's statement and none by record: Ahn 1 Kevin Jr., Ahn 2 Kevin John Duska, Ahn 4 Stefan Duska, Ahn 8 Mihaly Duska, Ahn 9 Maria Demko. Ahn 4 and 8 were stated in the Demko chat and relayed by coordinator ruling X-001.
-- Hypotheses after B-005: H-003 refuted by statement, H-009 solved, H-007 and H-011 supported, the rest open. Live odds: H-012 (Mihály Demkó is Maria's father) 30, H-013 (her brother) 20, H-015 (the 1882 book is Roman Catholic) 35, H-016 (two Demko families) 65.
+- Hypotheses after B-007: H-003 and H-015 refuted, H-009 solved, H-007, H-011 and H-017 supported, the rest open. Who is Maria Demko's father (X-Q-03): H-012 Mihály b. 1882, 25; H-023 János Demkó husband of Szlekár, 15; H-024 János b. 1875, 10; H-013 György husband of Hreskó, 8. The rest of the odds sit on a Demko family outside this folder.
 - The stamping workflow ran green on the B-005 push and the `proofs` branch exists.
 - Shared rules for all agents are in `comms/README.md` and in the Project as `claude/ALL-AGENTS-READ-FIRST.md`. Notes to the Demko agent go in `comms/to-demko.md` and the Project doc `claude/duska-agent-to-demko-agent.md`.
 - A private preview of the front end is published as the artifact "Duska Line Rebuild".

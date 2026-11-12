@@ -519,5 +519,599 @@
       }
     ],
     "sha256": "46e6322d5c04bf53c1987b59501ba9e25cdd52a9375f0b3acb3c38ede2c36910"
+  },
+  {
+    "id": "D-004-01",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-005",
+    "file": "Baptism_of_Anna_Demko_1872.png",
+    "sha256": "312348325d1f73e23bb1ed07953c7102833f6f2a6824a03c46d6dd080b1b0c12",
+    "wide": true,
+    "title": "Baptism of Anna, 1872 (labelled Demko; the name read is Szulák)",
+    "span": "7 and 9 May [1872]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Demko 1872",
+    "family": "FG-09",
+    "entries": [
+      {
+        "no": "33",
+        "date": "b. 7 May, bapt. 9 May [1872]",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "Anna, girl, legitimate. Father: György Szulák, Greek Catholic, cottar. Mother: Mária Hre[k]ó, Greek Catholic. Residence column reads 'Tán.' [?]. The sponsor column carries the end of a longer note: '... and the mother [Jámas?] Mária, János Magyar and godmother [...] Mária, residents of Viszoka'. The owner's file name calls this child Anna Demko. No Demko can be read on the strip as cropped. The start of the note is cut off and may explain the label.",
+        "reading": "low"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "33. | Május 7. | 9. | Anna | nő | törv. | Szulák György g.k. zsellér, Hre[k]ó Mária g.k. | Tán. [?] | [...] és az anyja [Jámas?] Mária, Magyar János és Kereszt an[ya] [...] Mária Viszokai lakosok",
+        "english": "Anna, girl, legitimate. Father: György Szulák, Greek Catholic, cottar. Mother: Mária Hre[k]ó, Greek Catholic. Residence column reads 'Tán.' [?]. The sponsor column carries the end of a longer note: '... and the mother [Jámas?] Mária, János Magyar and godmother [...] Mária, residents of Viszoka'. The owner's file name calls this child Anna Demko. No Demko can be read on the strip as cropped. The start of the note is cut off and may explain the label."
+      }
+    ]
+  },
+  {
+    "id": "D-004-02",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-006",
+    "file": "Baptism_of_Anna_Demko_1874.png",
+    "sha256": "1c9ee94c522dac8fe13583e1014afaa36e87db85e68ba48e12508368d8088202",
+    "wide": true,
+    "title": "Baptism of Anna Demkó, 1874",
+    "span": "13 October [1874]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Anna Demko 1874",
+    "family": "FG-02",
+    "entries": [
+      {
+        "no": "39",
+        "date": "b. and bapt. 13 Oct [1874]",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "Anna, girl, legitimate. Father: János Demkó, Greek Catholic, farmer. Mother: Anna Szlekár, Greek Catholic. Residence: Viszoka. Godparents: Mihály Soltész, farmer, and Mária Bernát. Officiant: József Salamon, pastor of Bező. The next entry (40) is György, son of Mihály Szlekár, Greek Catholic farmer of Viszoka, with Mihály Hreskó, farmer, as godfather.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "39. | oct. 13. | oct. 13. | Anna | nő | törv. | Demkó János g.k. gazda, Szlekár Anna g.k. | Viszoka | Soltész Mihály gazda, Bernát Mária | Salamon József bezői lelkész",
+        "english": "Anna, girl, legitimate. Father: János Demkó, Greek Catholic, farmer. Mother: Anna Szlekár, Greek Catholic. Residence: Viszoka. Godparents: Mihály Soltész, farmer, and Mária Bernát. Officiant: József Salamon, pastor of Bező. The next entry (40) is György, son of Mihály Szlekár, Greek Catholic farmer of Viszoka, with Mihály Hreskó, farmer, as godfather."
+      }
+    ]
+  },
+  {
+    "id": "D-004-03",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-007",
+    "file": "Baptism_of_Borbala_Demko_1879.png",
+    "sha256": "05285e3bab47be9e8adff0da021636a55237dfff4be511c26065add174c64c7f",
+    "wide": true,
+    "title": "Baptism of Borbála Demkó, 1879",
+    "span": "23 and 24 April [1879]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Borbala Demko 1879",
+    "family": "FG-01",
+    "entries": [
+      {
+        "no": "16",
+        "date": "b. 23 Apr, bapt. 24 Apr [1879]",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "Borbála, girl, legitimate. Father: György Demkó, Greek Catholic, farmer. Mother: Mária Hreskó, Roman Catholic. Residence: Viszoka, house 121. Godparents: Mihály Ördög, farmer, and Mária H[...]kov [?]. Officiant: as the entry above, the Greek Catholic pastor of Csicser. The next entry (17) is Mária, daughter of György Hricko, Greek Catholic shepherd at the Vaján farmstead: the same clerk writes Hreskó and Hricko on adjacent lines as two different names.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "16. | april 23 | april 24. | Borbála | nő | törv. | Demkó György g.k. gazda, Hreskó Mária rom. k. | Viszoka 121. | Ördög Mihály gazda, H[...]kov Mária | [u.a.: csicseri g.k. lelkész] || 17. | jun. 11. | jun. 12. | Mária | nő | törv. | Hricko György g.k. bacsó, Majorszki [?] Borbála r.k. | Vajáni tag",
+        "english": "Borbála, girl, legitimate. Father: György Demkó, Greek Catholic, farmer. Mother: Mária Hreskó, Roman Catholic. Residence: Viszoka, house 121. Godparents: Mihály Ördög, farmer, and Mária H[...]kov [?]. Officiant: as the entry above, the Greek Catholic pastor of Csicser. The next entry (17) is Mária, daughter of György Hricko, Greek Catholic shepherd at the Vaján farmstead: the same clerk writes Hreskó and Hricko on adjacent lines as two different names."
+      }
+    ]
+  },
+  {
+    "id": "D-004-04",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-008",
+    "file": "Baptism_of_Erzsebet_Demko_1877.png",
+    "sha256": "f794a61608537fb11cbac2e72f85147e93a5ad6308e947296cddcfdb3b5885ec",
+    "wide": true,
+    "title": "Baptism of Erzsébet Demkó, 1877",
+    "span": "10 and 11 April [1877]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Erzsebet Demko 1877",
+    "family": "FG-02",
+    "entries": [
+      {
+        "no": "26",
+        "date": "b. 10 Apr, bapt. 11 Apr [1877]",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "Erzsébet, girl, legitimate. Father: János Demkó, Greek Catholic, landholder. Mother: Mária Szlekár, Greek Catholic. Residence: Viszoka, house 141. Godparents: Mihály Soltész and Anna [Bugyis?]. Officiant: József Salamon, Greek Catholic pastor of Bező. Entered out of order, after an entry of 5 June.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "26. | Április 10. | Április 11. | Erzsébet | nő | törv. | Demkó János g.k. [telk.], Szlekár Mária g.k. | Viszoka 141 | Soltész Mihály, [Bugyis?] Anna | Salamon József bezői g.k. lelkész",
+        "english": "Erzsébet, girl, legitimate. Father: János Demkó, Greek Catholic, landholder. Mother: Mária Szlekár, Greek Catholic. Residence: Viszoka, house 141. Godparents: Mihály Soltész and Anna [Bugyis?]. Officiant: József Salamon, Greek Catholic pastor of Bező. Entered out of order, after an entry of 5 June."
+      }
+    ]
+  },
+  {
+    "id": "D-004-05",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-009",
+    "file": "Baptism_of_Georgius_Demko_1831.png",
+    "sha256": "531fdba6094bf5e073d3fb32ebce3cce2612ed84e92fe4ad5daba55d7aef8b8d",
+    "wide": true,
+    "title": "Baptism of Georgius Demko, 1831",
+    "span": "12th and 13th of an unnamed month [1831]",
+    "language": "Latin",
+    "collector_label": "Baptism of Georgius Demko 1831",
+    "family": "FG-04",
+    "entries": [
+      {
+        "no": "10",
+        "date": "b. 12th, bapt. 13th [month not on strip; 1831]",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "Georgius. Father: Georg. Demko. Mother: Barbara Cs[encsarik?]. Rite marks: Greek Catholic for the father; the mother's mark is not securely read. Godparents: Joan. Lencsés and Maria Kontra, unmarried. Residence: Viszoka. Baptised by Jos. Toma[...]sek, Latin-rite parish priest of Pálóc, with the consent of the local parish priest.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "12a nat., 13a bapt. | Jos. Toma[...]sek R.L. Par. Pálóc. Cons. Par. Loci | 10. | Georgius | Georg. Demko et Barbara Cs[encsarik?] | G.C. / [?] | d° | Joan. Lencsés et Maria Kontra virgo | Viszoka",
+        "english": "Georgius. Father: Georg. Demko. Mother: Barbara Cs[encsarik?]. Rite marks: Greek Catholic for the father; the mother's mark is not securely read. Godparents: Joan. Lencsés and Maria Kontra, unmarried. Residence: Viszoka. Baptised by Jos. Toma[...]sek, Latin-rite parish priest of Pálóc, with the consent of the local parish priest."
+      }
+    ]
+  },
+  {
+    "id": "D-004-06",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-010",
+    "file": "Baptism_of_Gyorgy_Demko_1834.png",
+    "sha256": "bb0d4c9931e5a7403b9297da338ddca68ce2e4522cfe1184c2e77fa136a32d04",
+    "wide": true,
+    "title": "Baptism of György Demko, 1834",
+    "span": "15 and 16 September [1834]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Gyorgy Demko 1834",
+    "family": "FG-03",
+    "entries": [
+      {
+        "no": "53",
+        "date": "b. 15th [?], bapt. 16th, month of St Michael (September) [1834]",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "György. Father: György Demko. Mother: Anna Samudovszki [?]. Rite marks: Greek Catholic for the father; the mother's mark differs and is not securely read. Godparents: Mária Kovál [?] and János Cibulás [?]. Residence: Viszoka. Baptised by János Salamon, parish priest [place not read].",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "Sz. Mihály hava | 15 [?] | 16 | Salamon János [...] G. Parok | 53 | György | Demko György, Samudo[v]szki Anna | G.C. / [?] | d° | Kovál [?] Mária, Cibulás [?] János | Viszoka",
+        "english": "György. Father: György Demko. Mother: Anna Samudovszki [?]. Rite marks: Greek Catholic for the father; the mother's mark differs and is not securely read. Godparents: Mária Kovál [?] and János Cibulás [?]. Residence: Viszoka. Baptised by János Salamon, parish priest [place not read]."
+      }
+    ]
+  },
+  {
+    "id": "D-004-07",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-011",
+    "file": "Baptism_of_Janos_Demko_1838.png",
+    "sha256": "9156c7c56e24a2cdf79eb8f648f2c0f7de61c2941f51fa66d7830a87f5dae7a1",
+    "wide": true,
+    "title": "Baptism of János Demko, 1838",
+    "span": "28th of an unnamed month [1838]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Janos Demko 1838",
+    "family": "FG-03",
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "b. and bapt. 28th [month not on strip; 1838]",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "János. Father: György Demko. Mother: Anna Samudovszki [?]. Greek Catholic. Godparents: András Skornyicski [?] and Anna Kobzurbanics [?], unmarried. Residence: Viszoka. Baptiser's name read as Stelbiczki [?].",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "28 | 28 | Stelbiczki [?] | János | Demko György, Samudovszki Anna | G.K. | [...] | Skornyicski [?] And., Kobzurbanics [?] Anna hajadon | Viszoka",
+        "english": "János. Father: György Demko. Mother: Anna Samudovszki [?]. Greek Catholic. Godparents: András Skornyicski [?] and Anna Kobzurbanics [?], unmarried. Residence: Viszoka. Baptiser's name read as Stelbiczki [?]."
+      }
+    ]
+  },
+  {
+    "id": "D-004-08",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-012",
+    "file": "Baptism_of_Janos_Demko_1875.png",
+    "sha256": "8788f04bdad2a89e752f496f0f0f4d44b2c8cb5f198e73077d16327a5d5a7fcf",
+    "wide": true,
+    "title": "Baptism of János Demkó, 1875",
+    "span": "29 March 1875",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Janos Demko 1875",
+    "family": "FG-01",
+    "entries": [
+      {
+        "no": "14",
+        "date": "b. and bapt. 29 Mar 1875",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "János, boy, legitimate. Father: György Demkó, Greek Catholic, farmer. Mother: Mária Hreskó, Roman Catholic. Residence: Viszoka, house 121. Godparents: János Varga, farmer, and Erzsébet Takács. Officiant: József Kubek, Greek Catholic pastor of Csicser.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "14 | 1875 Mart. 29. | 1875 Mart. 29. | János | fi | törv. | Demkó György g.k. gazda, Hreskó Mária r.k. | Viszoka 121. | Varga János gazda, Takács Erzsébet | Kubek József csicseri g.k. lelkész",
+        "english": "János, boy, legitimate. Father: György Demkó, Greek Catholic, farmer. Mother: Mária Hreskó, Roman Catholic. Residence: Viszoka, house 121. Godparents: János Varga, farmer, and Erzsébet Takács. Officiant: József Kubek, Greek Catholic pastor of Csicser."
+      }
+    ]
+  },
+  {
+    "id": "D-004-09",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-013",
+    "file": "Baptism_of_Janos_Demko_1879.png",
+    "sha256": "13a30e805e3bd47a2b83356fef6dc819101dfeb9f7e7a02266e05b5376effbcd",
+    "wide": true,
+    "title": "Baptism of János Demkó, 1879",
+    "span": "2 March [1879]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Janos Demko 1879",
+    "family": "FG-02",
+    "entries": [
+      {
+        "no": "7",
+        "date": "b. and bapt. 2 Mar [1879]; d. 14 Mar 1879",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "János, boy, legitimate. Father: János Demkó, Greek Catholic, farmer. Mother: Mária Szlekár, Greek Catholic. Residence: Viszoka, house 120. Godparents: János Cihulics [?], farmer, and Anna Soltész. Officiant: József Kubek, Greek Catholic pastor of Csicser. Remark: died 14 March 1879.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "7. | Marc. 2. | marc. 2. | János | fi | törv. | Demkó János g.k. gazda, Szlekár Mária g.k. | Viszoka 120. | Cihulics [?] János gazda, Soltész Anna | Kubek József csicseri g.k. lelkész | meghalt 1879 marc. 14-én",
+        "english": "János, boy, legitimate. Father: János Demkó, Greek Catholic, farmer. Mother: Mária Szlekár, Greek Catholic. Residence: Viszoka, house 120. Godparents: János Cihulics [?], farmer, and Anna Soltész. Officiant: József Kubek, Greek Catholic pastor of Csicser. Remark: died 14 March 1879."
+      }
+    ]
+  },
+  {
+    "id": "D-004-10",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-014",
+    "file": "Baptism_of_Janos_Tirpak_Demko_1835.png",
+    "sha256": "e4279615b529be3361684ecd867aaab016a07c4bc2582db535ce987f12cf4939",
+    "wide": true,
+    "title": "Baptism of János Tirpák, 1835",
+    "span": "17th of an unnamed month [1835]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Janos Tirpak Demko 1835",
+    "family": "FG-06",
+    "entries": [
+      {
+        "no": "5",
+        "date": "bapt. 17th [month not on strip; 1835]",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "János. Father: György Tirpák. Mother: Mária Demko. Both Greek Catholic. Godparents: János Soltész and Borbála Soltész, wife of György Kondás. Residence: Viszoka.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "[...] | 17 | 5. | d° | János | Tirpák György, Demko Mária | G.K. / G.K. | d° | Soltész János, Soltész Borbála Kondás György neje | Viszoka",
+        "english": "János. Father: György Tirpák. Mother: Mária Demko. Both Greek Catholic. Godparents: János Soltész and Borbála Soltész, wife of György Kondás. Residence: Viszoka."
+      }
+    ]
+  },
+  {
+    "id": "D-004-11",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-015",
+    "file": "Baptism_of_Julianna_Kocsis_1836.png",
+    "sha256": "f00cd30a1d5c4eeafb8ffd5e9e1bd17503fd0a712c8974f33edf1a5eaa52b64e",
+    "wide": true,
+    "title": "Baptism of Julianna Kocsis, 1836",
+    "span": "27 and 30 January [1836]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Julianna Kocsis 1836",
+    "family": "FG-07",
+    "entries": [
+      {
+        "no": "3",
+        "date": "b. 27 Jan, bapt. 30 Jan [1836]",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "Julianna. Father: István Kocsis, Greek Catholic. Mother: Erzsébet Dubics, Roman Catholic. Cottar. Godparents: János Haraszti [?] and Julianna Galgóczi. Residence begins 'Nagy' and is cut off at the torn page edge.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "Januárius 27 | 30 | d° | 3. | Julianna | Kocsis István, Dubics Erzsébet | G.K. / R.K. | zsellér | Haraszti [?] János, Galgóczi Julianna | Nagy[...]",
+        "english": "Julianna. Father: István Kocsis, Greek Catholic. Mother: Erzsébet Dubics, Roman Catholic. Cottar. Godparents: János Haraszti [?] and Julianna Galgóczi. Residence begins 'Nagy' and is cut off at the torn page edge."
+      }
+    ]
+  },
+  {
+    "id": "D-004-12",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-016",
+    "file": "Baptism_of_Maria_Demko_1840.png",
+    "sha256": "274f9efecf9d11911218eb9d16e35c0d84cf33fd0ccfea276392264e28745687",
+    "wide": true,
+    "title": "Baptism of Mária Demko, 1840",
+    "span": "29th of an unnamed month [1840]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Maria Demko 1840",
+    "family": "FG-05",
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "b. and bapt. 29th [month not on strip; 1840]",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "Mária. Father: György Demko. Mother: Mária Vaszil [?]. Greek Catholic. Farmer. Godparents: András Rebo and Mária Kontra. Residence: Viszoka.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "29. | 29. | d° | Mária | Demko György, Vaszil [?] Mária | G.K. | gazda | Rebo András, Kontra Mária | Viszoka",
+        "english": "Mária. Father: György Demko. Mother: Mária Vaszil [?]. Greek Catholic. Farmer. Godparents: András Rebo and Mária Kontra. Residence: Viszoka."
+      }
+    ]
+  },
+  {
+    "id": "D-004-13",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-017",
+    "file": "Baptism_of_Maria_Demko_1857.png",
+    "sha256": "7c1aea735d5b1fa22b24d5957ea704621a518b08e0523975fe86770778a8f487",
+    "wide": true,
+    "title": "Baptism of Mária Demko, 1857 (entry in Cyrillic)",
+    "span": "2 January 1857",
+    "language": "Church Slavonic / Rusyn in Cyrillic, with a Latin-script death note",
+    "collector_label": "Baptism of Maria Demko 1857",
+    "family": "FG-01",
+    "entries": [
+      {
+        "no": "1",
+        "date": "b. and bapt. 2 Jan 1857; d. 15 Feb 1857",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "Mária, girl, legitimate. Father: Georgij Demko, Greek Catholic. Mother: Mária Hreško, entered as Greek Catholic. Residence: Viszoka, house 79. Godparents: Andr. Hreško, farmer, and Mária Podhor[...] [?]. Officiant: Ioann Bokshai, parish priest of Lekárt. Remark: died 15 February 1857.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "1. | 1857 Януар. 2. | 1857 Януар. 2. | Марія | жен. | зак. | Георгій Демко гре. кат. [...], Марія Грешко грек. кат. | Вишока 79 | Андр. Грешко газда, Марія Подгор[...] | Іоаннъ Бокшай Пар. Лекарскій | + 1857 febr. 15.",
+        "english": "Mária, girl, legitimate. Father: Georgij Demko, Greek Catholic. Mother: Mária Hreško, entered as Greek Catholic. Residence: Viszoka, house 79. Godparents: Andr. Hreško, farmer, and Mária Podhor[...] [?]. Officiant: Ioann Bokshai, parish priest of Lekárt. Remark: died 15 February 1857."
+      }
+    ]
+  },
+  {
+    "id": "D-004-14",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-018",
+    "file": "Baptism_of_Maria_Kocsis_1832.png",
+    "sha256": "3a17505fd22bbb15bd7425aadf14c3606958caea9b971a912974d7a063b8b0e4",
+    "wide": true,
+    "title": "Baptism of Maria Kocsis, 1832",
+    "span": "[1832]",
+    "language": "Latin",
+    "collector_label": "Baptism of Maria Kocsis 1832",
+    "family": "FG-07",
+    "entries": [
+      {
+        "no": "42",
+        "date": "[day not read; 1832]",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "Maria. Father: Steph. Kocsis, Greek Catholic. Mother: Elis. Dubics, Roman Catholic. Godparents: Jos. Rácz and Maria Dudo[v]szky [?], wife of Joan. Tóth. Residence: Mogyorós.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "[...] nat. [...] bapt. | d° | 42 | Maria | Steph. Kocsis et Elis. Dubics | G.C. / R.C. | d° | Jos. Rácz et Maria Dudo[v]szky [?] C. Joan. Tóth | Mogyorós",
+        "english": "Maria. Father: Steph. Kocsis, Greek Catholic. Mother: Elis. Dubics, Roman Catholic. Godparents: Jos. Rácz and Maria Dudo[v]szky [?], wife of Joan. Tóth. Residence: Mogyorós."
+      }
+    ]
+  },
+  {
+    "id": "D-004-15",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-019",
+    "file": "Baptism_of_Maria_Tirpak_Demko_1832.png",
+    "sha256": "329e1ccdb78f395d15702ee3226c0dd405901c4689cdc9476154007dc8f5a109",
+    "wide": true,
+    "title": "Baptism of Maria Tirpák, 1832",
+    "span": "October [1832]",
+    "language": "Latin",
+    "collector_label": "Baptism of Maria Tirpak Demko 1832",
+    "family": "FG-06",
+    "entries": [
+      {
+        "no": "33",
+        "date": "[October; day not read; 1832]",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "Maria. Father: Georg. Tirpák. Mother: Maria Demko. Both Greek Catholic. Godparents: Joan. Kop[csay?] and Barbara Kontra, wife of Joan. Soltész. Residence: Viszoka.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "[Octobris] nat. [...] bapt. | d° | 33. | Maria | Georg. Tirpák et Maria Demko | G.C. / G.C. | d° | Joan. Kop[csay?] et Barbara Kontra C. Joan. Soltész | Viszoka",
+        "english": "Maria. Father: Georg. Tirpák. Mother: Maria Demko. Both Greek Catholic. Godparents: Joan. Kop[csay?] and Barbara Kontra, wife of Joan. Soltész. Residence: Viszoka."
+      }
+    ]
+  },
+  {
+    "id": "D-004-16",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-002",
+    "file": "Baptism_of_Mihaly_Demko_1882.png",
+    "sha256": "cb7dc2a5ae3f74f572532b6d3cead7436dd81d9c42b6b956f64950c1b1c33f7d",
+    "wide": true,
+    "title": "Baptism of Mihály Demkó, 1882 (second copy of the Folder 2 file)",
+    "span": "19 and 20 August 1882",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Mihaly Demko 1882",
+    "family": "FG-01",
+    "entries": [
+      {
+        "no": "36",
+        "date": "b. 19 Aug 1882, bapt. 20 Aug 1882",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "Byte-for-byte the same file as the one in Folder 2 (same SHA-256). See D-002-01 for the reading. It shares its column layout with the 1870s entries in this folder, which name the officiant as the Greek Catholic pastor of Csicser.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": []
+  },
+  {
+    "id": "D-004-17",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-020",
+    "file": "Baptism_of_Mihaly_Hornyak_Kocsis_1873.png",
+    "sha256": "45b00fe6c5d6f9663870f4bf8f5bfd430a6ff1c09ead565a5f62ad37a5d1edd8",
+    "wide": true,
+    "title": "Baptism of Mihály Hornyák, 1873",
+    "span": "15 and 18 May 1873",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Mihaly Hornyak Kocsis 1873",
+    "family": "FG-08",
+    "entries": [
+      {
+        "no": "21",
+        "date": "b. 15 May 1873, bapt. 18 May 1873",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "Mihály, boy, legitimate. Father: Pál Hornyák, Greek Catholic, cottar. Mother: Erzsébet Kocsis, Reformed. Residence: Csicser, house 90. Godparents: András Vojtkó, farmer, and Erzsébet Jakub. Officiant: József Kubek, pastor of Csicser. A note above the entry says it was written two pages too early by mistake.",
+        "reading": "high"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "[Tévedésből] 2 lappal előbb! | 21. | 1873 Május 15. | 1873 Május 18. | Mihály | fi | törv. | Hornyák Pál g.k. zsellér, Kocsis Erzsébet helv. v. | Csicser 90. | Vojtkó András gazda, Jakub Erzsébet | Kubek József csicseri lelkész",
+        "english": "Mihály, boy, legitimate. Father: Pál Hornyák, Greek Catholic, cottar. Mother: Erzsébet Kocsis, Reformed. Residence: Csicser, house 90. Godparents: András Vojtkó, farmer, and Erzsébet Jakub. Officiant: József Kubek, pastor of Csicser. A note above the entry says it was written two pages too early by mistake."
+      }
+    ]
+  },
+  {
+    "id": "D-004-18",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-021",
+    "file": "Baptism_of_Mihaly_Janos_Demko_1873.png",
+    "sha256": "25a6561cb3acf8fd7915e433945576a815428a73025dd9da829c843cba8c2549",
+    "wide": true,
+    "title": "Baptism of the twins Mihály and János Demkó, 1873",
+    "span": "29 and 30 May [1873]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Mihaly Janos Demko 1873",
+    "family": "FG-01",
+    "entries": [
+      {
+        "no": "24",
+        "date": "b. 29 May, bapt. 30 May [1873]",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "Mihály and János, boys (twins), legitimate. Each name is marked with a cross. Father: György Demkó, Greek Catholic, farmer. Mother: Mária Hreskó, Roman Catholic. The residence column reads '[Feke]temező 33' and not Viszoka; Feketemező is the Hungarian name of Čierne Pole. Godparents: Mihály Orlavik [?], cottar, and Mária Bugyis [?].",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "24. | Május 29. | Május 30. | Mihály †, János † | fiúk | törv. | Demkó György g.k. gazda, Hreskó Mária r.k. | [Feke]temező [?] 33. | Orlavik [?] Mihály zsellér, Bugyis [?] Mária | [u.a.]",
+        "english": "Mihály and János, boys (twins), legitimate. Each name is marked with a cross. Father: György Demkó, Greek Catholic, farmer. Mother: Mária Hreskó, Roman Catholic. The residence column reads '[Feke]temező 33' and not Viszoka; Feketemező is the Hungarian name of Čierne Pole. Godparents: Mihály Orlavik [?], cottar, and Mária Bugyis [?]."
+      }
+    ]
+  },
+  {
+    "id": "D-004-19",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-022",
+    "file": "Baptism_of_Mihaly_Tirpak_Demko_1839.png",
+    "sha256": "fe6670f03ea6275ec83f925976492f23e8bb80e1675329795727f383c0bf4f2a",
+    "wide": true,
+    "title": "Baptism of Mihály Tirpák, 1839",
+    "span": "17th of an unnamed month [1839]",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Mihaly Tirpak Demko 1839",
+    "family": "FG-06",
+    "entries": [
+      {
+        "no": "n/a",
+        "date": "bapt. 17th [month not on strip; 1839]",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "Mihály. Father: György Tirpák. Mother: Mária Demko. Both Greek Catholic. Cottar. Godparents: György Tót and Borbála Kontra. Residence: Viszoka.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "[...] | 17. | d° | Mihály | Tirpák György, Demko Mária | G.K. / G.K. | zsellér | Tót György, Kontra Borbála | Viszoka",
+        "english": "Mihály. Father: György Tirpák. Mother: Mária Demko. Both Greek Catholic. Cottar. Godparents: György Tót and Borbála Kontra. Residence: Viszoka."
+      }
+    ]
+  },
+  {
+    "id": "D-004-20",
+    "folder": "F-004",
+    "batch": "B-007",
+    "source": "S-023",
+    "file": "Baptism_of_Zsuzanna_Demko_1883.png",
+    "sha256": "6fd7827974ac47b9503476f76e60c00733bcedd41dde5cd1da67993df4fdacea",
+    "wide": true,
+    "title": "Baptism of Zsuzsánna Demkó, 1883",
+    "span": "6 and 7 January 1883",
+    "language": "Hungarian",
+    "collector_label": "Baptism of Zsuzanna Demko 1883",
+    "family": "FG-02",
+    "entries": [
+      {
+        "no": "3",
+        "date": "b. 6 Jan 1883, bapt. 7 Jan 1883",
+        "from": "Baptism register, Čičarovce (per folder name)",
+        "abstract": "Zsuzsánna, girl, legitimate. Residence: Viszoka. Father: János Demkó, Greek Catholic. Mother: Mária Szlek[ár]. Godparents: János Keszti [?] and Borb. [surname not read]. Officiant: János Csurgovich, pastor; the word before 'lelkész' is not securely read. The columns run in a different order from the 1870s entries, with residence before the parents.",
+        "reading": "medium"
+      }
+    ],
+    "transcriptions": [
+      {
+        "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+        "original": "1883 | 3. | Január 6. | 7. | Zsuzsánna | nő | törv. | Viszoka | Demkó Já[nos] g.k., Szlek[ár] Mária | Keszti [?] János, [...] Borb. | Csurgovich János [...] lelkész | –",
+        "english": "Zsuzsánna, girl, legitimate. Residence: Viszoka. Father: János Demkó, Greek Catholic. Mother: Mária Szlek[ár]. Godparents: János Keszti [?] and Borb. [surname not read]. Officiant: János Csurgovich, pastor; the word before 'lelkész' is not securely read. The columns run in a different order from the 1870s entries, with residence before the parents."
+      }
+    ]
   }
 ]

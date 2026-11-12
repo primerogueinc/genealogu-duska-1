@@ -18,7 +18,7 @@
     "sources": [
       "S-002"
     ],
-    "relation": "Father of K-001. Unplaced.",
+    "relation": "Father in family group FG-01. Possibly the György baptised at Viszoka in 1834 or the Georgius of 1831 (H-020, H-021).",
     "route": "Demko agent places the person; household sent to the Places agent"
   },
   {
@@ -29,7 +29,7 @@
     "sources": [
       "S-002"
     ],
-    "relation": "Mother of K-001. Unplaced. Godmother Anna Hreskó is probably her kin.",
+    "relation": "Mother in family group FG-01. Godmother Anna Hreskó is probably her kin.",
     "route": "Demko agent places the person; household sent to the Places agent"
   },
   {
@@ -122,11 +122,12 @@
   },
   {
     "id": "K-012",
-    "name": "[...] Csurgovich [?]",
-    "vitals": "Officiant of the baptism of 20 Aug 1882",
+    "name": "János Csurgovich",
+    "vitals": "Pastor; officiant at Viszoka baptisms of 20 Aug 1882 and 7 Jan 1883",
     "proof": "documented",
     "sources": [
-      "S-002"
+      "S-002",
+      "S-023"
     ],
     "relation": "Priest. Reading uncertain. Identifying him and his parish settles which book the entry is from (H-015).",
     "route": "Places agent (which parish he served)"
@@ -196,5 +197,891 @@
     ],
     "relation": "Benefactor named in the Folder 1 copy-book. The one local person in those ten pages.",
     "route": "Duska agent keeps the person; household sent to the Places agent"
+  },
+  {
+    "id": "K-019",
+    "name": "Mária Demko",
+    "vitals": "b. 2 Jan 1857, d. 15 Feb 1857, Viszoka 79",
+    "proof": "documented",
+    "sources": [
+      "S-017"
+    ],
+    "relation": "Child in FG-01.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-020",
+    "name": "Mihály Demkó (twin)",
+    "vitals": "b. 29 May [1873]; name marked with a cross",
+    "proof": "documented",
+    "sources": [
+      "S-021"
+    ],
+    "relation": "Child in FG-01. The name was given again to the son of 1882.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-021",
+    "name": "János Demkó (twin)",
+    "vitals": "b. 29 May [1873]; name marked with a cross",
+    "proof": "documented",
+    "sources": [
+      "S-021"
+    ],
+    "relation": "Child in FG-01.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-022",
+    "name": "János Demkó",
+    "vitals": "b. 29 Mar 1875, Viszoka 121",
+    "proof": "documented",
+    "sources": [
+      "S-012"
+    ],
+    "relation": "Child in FG-01. A possible father for Maria Demko, Ahn 9 (H-024).",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-023",
+    "name": "Borbála Demkó",
+    "vitals": "b. 23 Apr [1879], Viszoka 121",
+    "proof": "documented",
+    "sources": [
+      "S-007"
+    ],
+    "relation": "Child in FG-01.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-024",
+    "name": "János Demkó (the elder)",
+    "vitals": "Greek Catholic, farmer, of Viszoka 141 (1877) and 120 (1879)",
+    "proof": "documented",
+    "sources": [
+      "S-006",
+      "S-008",
+      "S-013",
+      "S-023"
+    ],
+    "relation": "Father in FG-02. Possibly the János baptised in 1838 (H-025).",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-025",
+    "name": "Anna or Mária Szlekár",
+    "vitals": "Greek Catholic, of Viszoka",
+    "proof": "documented",
+    "sources": [
+      "S-006",
+      "S-008",
+      "S-013",
+      "S-023"
+    ],
+    "relation": "Mother in FG-02, named Anna once and Mária three times.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-026",
+    "name": "Anna Demkó",
+    "vitals": "b. 13 Oct [1874], Viszoka",
+    "proof": "documented",
+    "sources": [
+      "S-006"
+    ],
+    "relation": "Child in FG-02.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-027",
+    "name": "Erzsébet Demkó",
+    "vitals": "b. 10 Apr [1877], Viszoka 141",
+    "proof": "documented",
+    "sources": [
+      "S-008"
+    ],
+    "relation": "Child in FG-02.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-028",
+    "name": "János Demkó",
+    "vitals": "b. 2 Mar [1879], d. 14 Mar 1879, Viszoka 120",
+    "proof": "documented",
+    "sources": [
+      "S-013"
+    ],
+    "relation": "Child in FG-02.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-029",
+    "name": "Zsuzsánna Demkó",
+    "vitals": "b. 6 Jan 1883, Viszoka",
+    "proof": "documented",
+    "sources": [
+      "S-023"
+    ],
+    "relation": "Child in FG-02.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-030",
+    "name": "György Demko",
+    "vitals": "father at Viszoka in [1834] and [1838]",
+    "proof": "documented",
+    "sources": [
+      "S-010",
+      "S-011"
+    ],
+    "relation": "Father in FG-03.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-031",
+    "name": "Anna Samudovszki [?]",
+    "vitals": "mother at Viszoka in [1834] and [1838]",
+    "proof": "documented",
+    "sources": [
+      "S-010",
+      "S-011"
+    ],
+    "relation": "Mother in FG-03. Surname reading uncertain.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-032",
+    "name": "György Demko",
+    "vitals": "b. Sept [1834], Viszoka",
+    "proof": "documented",
+    "sources": [
+      "S-010"
+    ],
+    "relation": "Child in FG-03. A candidate for the father in FG-01 (H-020).",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-033",
+    "name": "János Demko",
+    "vitals": "b. [1838], Viszoka",
+    "proof": "documented",
+    "sources": [
+      "S-011"
+    ],
+    "relation": "Child in FG-03. A candidate for the father in FG-02 (H-025).",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-034",
+    "name": "Georg. Demko",
+    "vitals": "father at Viszoka in [1831]",
+    "proof": "documented",
+    "sources": [
+      "S-009"
+    ],
+    "relation": "Father in FG-04.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-035",
+    "name": "Barbara Cs[encsarik?]",
+    "vitals": "mother at Viszoka in [1831]",
+    "proof": "documented",
+    "sources": [
+      "S-009"
+    ],
+    "relation": "Mother in FG-04. Surname reading uncertain.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-036",
+    "name": "Georgius Demko",
+    "vitals": "b. [1831], Viszoka",
+    "proof": "documented",
+    "sources": [
+      "S-009"
+    ],
+    "relation": "Child in FG-04. A candidate for the father in FG-01 (H-021).",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-037",
+    "name": "György Demko",
+    "vitals": "father at Viszoka in [1840]",
+    "proof": "documented",
+    "sources": [
+      "S-016"
+    ],
+    "relation": "Father in FG-05.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-038",
+    "name": "Mária Vaszil [?]",
+    "vitals": "mother at Viszoka in [1840]",
+    "proof": "documented",
+    "sources": [
+      "S-016"
+    ],
+    "relation": "Mother in FG-05. Surname reading uncertain.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-039",
+    "name": "Mária Demko",
+    "vitals": "b. [1840], Viszoka",
+    "proof": "documented",
+    "sources": [
+      "S-016"
+    ],
+    "relation": "Child in FG-05.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-040",
+    "name": "György Tirpák",
+    "vitals": "Greek Catholic, cottar, of Viszoka",
+    "proof": "documented",
+    "sources": [
+      "S-019",
+      "S-014",
+      "S-022"
+    ],
+    "relation": "Father in FG-06.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-041",
+    "name": "Mária Demko",
+    "vitals": "Greek Catholic, of Viszoka; wife of György Tirpák",
+    "proof": "documented",
+    "sources": [
+      "S-019",
+      "S-014",
+      "S-022"
+    ],
+    "relation": "Mother in FG-06. Born about 1800 to 1812.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-042",
+    "name": "Maria Tirpák",
+    "vitals": "b. Oct [1832], Viszoka",
+    "proof": "documented",
+    "sources": [
+      "S-019"
+    ],
+    "relation": "Child in FG-06.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-043",
+    "name": "János Tirpák",
+    "vitals": "b. [1835], Viszoka",
+    "proof": "documented",
+    "sources": [
+      "S-014"
+    ],
+    "relation": "Child in FG-06.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-044",
+    "name": "Mihály Tirpák",
+    "vitals": "b. [1839], Viszoka",
+    "proof": "documented",
+    "sources": [
+      "S-022"
+    ],
+    "relation": "Child in FG-06.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-045",
+    "name": "István Kocsis",
+    "vitals": "Greek Catholic, cottar",
+    "proof": "documented",
+    "sources": [
+      "S-018",
+      "S-015"
+    ],
+    "relation": "Father in FG-07.",
+    "route": "Duska agent keeps; Places agent for the village"
+  },
+  {
+    "id": "K-046",
+    "name": "Erzsébet Dubics",
+    "vitals": "Roman Catholic",
+    "proof": "documented",
+    "sources": [
+      "S-018",
+      "S-015"
+    ],
+    "relation": "Mother in FG-07.",
+    "route": "Duska agent keeps; Places agent for the village"
+  },
+  {
+    "id": "K-047",
+    "name": "Maria Kocsis",
+    "vitals": "b. [1832], Mogyorós",
+    "proof": "documented",
+    "sources": [
+      "S-018"
+    ],
+    "relation": "Child in FG-07.",
+    "route": "Duska agent keeps; Places agent for the village"
+  },
+  {
+    "id": "K-048",
+    "name": "Julianna Kocsis",
+    "vitals": "b. 27 Jan [1836], Nagy[...]",
+    "proof": "documented",
+    "sources": [
+      "S-015"
+    ],
+    "relation": "Child in FG-07.",
+    "route": "Duska agent keeps; Places agent for the village"
+  },
+  {
+    "id": "K-049",
+    "name": "Pál Hornyák",
+    "vitals": "Greek Catholic, cottar, of Csicser 90",
+    "proof": "documented",
+    "sources": [
+      "S-020"
+    ],
+    "relation": "Father in FG-08.",
+    "route": "Duska agent keeps; Places agent for the village"
+  },
+  {
+    "id": "K-050",
+    "name": "Erzsébet Kocsis",
+    "vitals": "Reformed, of Csicser 90",
+    "proof": "documented",
+    "sources": [
+      "S-020"
+    ],
+    "relation": "Mother in FG-08.",
+    "route": "Duska agent keeps; Places agent for the village"
+  },
+  {
+    "id": "K-051",
+    "name": "Mihály Hornyák",
+    "vitals": "b. 15 May 1873, Csicser 90",
+    "proof": "documented",
+    "sources": [
+      "S-020"
+    ],
+    "relation": "Child in FG-08.",
+    "route": "Duska agent keeps; Places agent for the village"
+  },
+  {
+    "id": "K-052",
+    "name": "György Szulák",
+    "vitals": "Greek Catholic, cottar",
+    "proof": "documented",
+    "sources": [
+      "S-005"
+    ],
+    "relation": "Father in FG-09.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-053",
+    "name": "Mária Hre[k]ó",
+    "vitals": "Greek Catholic",
+    "proof": "documented",
+    "sources": [
+      "S-005"
+    ],
+    "relation": "Mother in FG-09.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-054",
+    "name": "Anna [Szulák; labelled Demko by the owner]",
+    "vitals": "b. 7 May [1872]",
+    "proof": "documented",
+    "sources": [
+      "S-005"
+    ],
+    "relation": "Child in FG-09. The owner's label and the reading disagree.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-055",
+    "name": "József Kubek",
+    "vitals": "Greek Catholic pastor of Csicser; officiant in 1873, 1875 and 1879",
+    "proof": "documented",
+    "sources": [
+      "S-020",
+      "S-012",
+      "S-013"
+    ],
+    "relation": "Officiant. His title in the entries shows the book was kept by the Čičarovce Greek Catholic parish.",
+    "route": "Places agent (which parish he served)"
+  },
+  {
+    "id": "K-056",
+    "name": "József Salamon",
+    "vitals": "Greek Catholic pastor of Bező; officiant in [1874] and [1877]",
+    "proof": "documented",
+    "sources": [
+      "S-006",
+      "S-008"
+    ],
+    "relation": "Officiant.",
+    "route": "Places agent (which parish he served)"
+  },
+  {
+    "id": "K-057",
+    "name": "János Salamon",
+    "vitals": "parish priest; officiant in [1834]",
+    "proof": "documented",
+    "sources": [
+      "S-010"
+    ],
+    "relation": "Officiant. Parish not read.",
+    "route": "Places agent (which parish he served)"
+  },
+  {
+    "id": "K-058",
+    "name": "Ioann Bokshai",
+    "vitals": "parish priest of Lekárt; officiant on 2 Jan 1857",
+    "proof": "documented",
+    "sources": [
+      "S-017"
+    ],
+    "relation": "Officiant. He wrote the entry in Cyrillic.",
+    "route": "Places agent (which parish he served)"
+  },
+  {
+    "id": "K-059",
+    "name": "Jos. Toma[...]sek",
+    "vitals": "Latin-rite parish priest of Pálóc; baptised in [1831] with the local priest's consent",
+    "proof": "documented",
+    "sources": [
+      "S-009"
+    ],
+    "relation": "Officiant.",
+    "route": "Places agent (which parish he served)"
+  },
+  {
+    "id": "K-060",
+    "name": "[...] Stelbiczki [?]",
+    "vitals": "baptiser in [1838]",
+    "proof": "documented",
+    "sources": [
+      "S-011"
+    ],
+    "relation": "Officiant. Name reading uncertain.",
+    "route": "Places agent (which parish he served)"
+  },
+  {
+    "id": "K-061",
+    "name": "János Varga",
+    "vitals": "farmer; godparent, 1875",
+    "proof": "documented",
+    "sources": [
+      "S-012"
+    ],
+    "relation": "Godparent in D-004-08.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-062",
+    "name": "Erzsébet Takács",
+    "vitals": "godparent, 1875",
+    "proof": "documented",
+    "sources": [
+      "S-012"
+    ],
+    "relation": "Godparent in D-004-08.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-063",
+    "name": "Mihály Ördög",
+    "vitals": "farmer; godparent, 1879",
+    "proof": "documented",
+    "sources": [
+      "S-007"
+    ],
+    "relation": "Godparent in D-004-03.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-064",
+    "name": "Mária H[...]kov [?]",
+    "vitals": "godparent, 1879",
+    "proof": "documented",
+    "sources": [
+      "S-007"
+    ],
+    "relation": "Godparent in D-004-03.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-065",
+    "name": "Mihály Orlavik [?]",
+    "vitals": "cottar; godparent, 1873",
+    "proof": "documented",
+    "sources": [
+      "S-021"
+    ],
+    "relation": "Godparent in D-004-18.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-066",
+    "name": "Mária Bugyis [?]",
+    "vitals": "godparent, 1873",
+    "proof": "documented",
+    "sources": [
+      "S-021"
+    ],
+    "relation": "Godparent in D-004-18.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-067",
+    "name": "Andr. Hreško",
+    "vitals": "farmer; godparent, 1857",
+    "proof": "documented",
+    "sources": [
+      "S-017"
+    ],
+    "relation": "Godparent in D-004-13.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-068",
+    "name": "Mária Podhor[...] [?]",
+    "vitals": "godparent, 1857",
+    "proof": "documented",
+    "sources": [
+      "S-017"
+    ],
+    "relation": "Godparent in D-004-13.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-069",
+    "name": "Mihály Soltész",
+    "vitals": "farmer; godfather twice; godparent, 1874",
+    "proof": "documented",
+    "sources": [
+      "S-006"
+    ],
+    "relation": "Godparent in D-004-02.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-070",
+    "name": "Mária Bernát",
+    "vitals": "godparent, 1874",
+    "proof": "documented",
+    "sources": [
+      "S-006"
+    ],
+    "relation": "Godparent in D-004-02.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-071",
+    "name": "Anna [Bugyis?]",
+    "vitals": "godparent, 1877",
+    "proof": "documented",
+    "sources": [
+      "S-008"
+    ],
+    "relation": "Godparent in D-004-04.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-072",
+    "name": "János Cihulics [?]",
+    "vitals": "farmer; godparent, 1879",
+    "proof": "documented",
+    "sources": [
+      "S-013"
+    ],
+    "relation": "Godparent in D-004-09.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-073",
+    "name": "Anna Soltész",
+    "vitals": "godparent, 1879",
+    "proof": "documented",
+    "sources": [
+      "S-013"
+    ],
+    "relation": "Godparent in D-004-09.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-074",
+    "name": "János Keszti [?]",
+    "vitals": "godparent, 1883",
+    "proof": "documented",
+    "sources": [
+      "S-023"
+    ],
+    "relation": "Godparent in D-004-20.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-075",
+    "name": "Borb. [surname not read]",
+    "vitals": "godparent, 1883",
+    "proof": "documented",
+    "sources": [
+      "S-023"
+    ],
+    "relation": "Godparent in D-004-20.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-076",
+    "name": "Mária Kovál [?]",
+    "vitals": "godparent, 1834",
+    "proof": "documented",
+    "sources": [
+      "S-010"
+    ],
+    "relation": "Godparent in D-004-06.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-077",
+    "name": "János Cibulás [?]",
+    "vitals": "godparent, 1834",
+    "proof": "documented",
+    "sources": [
+      "S-010"
+    ],
+    "relation": "Godparent in D-004-06.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-078",
+    "name": "András Skornyicski [?]",
+    "vitals": "godparent, 1838",
+    "proof": "documented",
+    "sources": [
+      "S-011"
+    ],
+    "relation": "Godparent in D-004-07.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-079",
+    "name": "Anna Kobzurbanics [?]",
+    "vitals": "unmarried; godparent, 1838",
+    "proof": "documented",
+    "sources": [
+      "S-011"
+    ],
+    "relation": "Godparent in D-004-07.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-080",
+    "name": "Joan. Lencsés",
+    "vitals": "godparent, 1831",
+    "proof": "documented",
+    "sources": [
+      "S-009"
+    ],
+    "relation": "Godparent in D-004-05.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-081",
+    "name": "Maria Kontra",
+    "vitals": "unmarried in 1831; godmother again in 1840; godparent, 1831",
+    "proof": "documented",
+    "sources": [
+      "S-009"
+    ],
+    "relation": "Godparent in D-004-05.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-082",
+    "name": "András Rebo",
+    "vitals": "godparent, 1840",
+    "proof": "documented",
+    "sources": [
+      "S-016"
+    ],
+    "relation": "Godparent in D-004-12.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-083",
+    "name": "Joan. Kop[csay?]",
+    "vitals": "godparent, 1832",
+    "proof": "documented",
+    "sources": [
+      "S-019"
+    ],
+    "relation": "Godparent in D-004-15.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-084",
+    "name": "Barbara Kontra",
+    "vitals": "wife of Joan. Soltész in 1832; godmother again in 1839; godparent, 1832",
+    "proof": "documented",
+    "sources": [
+      "S-019"
+    ],
+    "relation": "Godparent in D-004-15.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-085",
+    "name": "János Soltész",
+    "vitals": "godparent, 1835",
+    "proof": "documented",
+    "sources": [
+      "S-014"
+    ],
+    "relation": "Godparent in D-004-10.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-086",
+    "name": "Borbála Soltész",
+    "vitals": "wife of György Kondás; godparent, 1835",
+    "proof": "documented",
+    "sources": [
+      "S-014"
+    ],
+    "relation": "Godparent in D-004-10.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-087",
+    "name": "György Tót",
+    "vitals": "godparent, 1839",
+    "proof": "documented",
+    "sources": [
+      "S-022"
+    ],
+    "relation": "Godparent in D-004-19.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-088",
+    "name": "Jos. Rácz",
+    "vitals": "godparent, 1832",
+    "proof": "documented",
+    "sources": [
+      "S-018"
+    ],
+    "relation": "Godparent in D-004-14.",
+    "route": "Duska agent keeps; Places agent for the village"
+  },
+  {
+    "id": "K-089",
+    "name": "Maria Dudo[v]szky [?]",
+    "vitals": "wife of Joan. Tóth; godparent, 1832",
+    "proof": "documented",
+    "sources": [
+      "S-018"
+    ],
+    "relation": "Godparent in D-004-14.",
+    "route": "Duska agent keeps; Places agent for the village"
+  },
+  {
+    "id": "K-090",
+    "name": "János Haraszti [?]",
+    "vitals": "godparent, 1836",
+    "proof": "documented",
+    "sources": [
+      "S-015"
+    ],
+    "relation": "Godparent in D-004-11.",
+    "route": "Duska agent keeps; Places agent for the village"
+  },
+  {
+    "id": "K-091",
+    "name": "Julianna Galgóczi",
+    "vitals": "godparent, 1836",
+    "proof": "documented",
+    "sources": [
+      "S-015"
+    ],
+    "relation": "Godparent in D-004-11.",
+    "route": "Duska agent keeps; Places agent for the village"
+  },
+  {
+    "id": "K-092",
+    "name": "András Vojtkó",
+    "vitals": "farmer; godparent, 1873",
+    "proof": "documented",
+    "sources": [
+      "S-020"
+    ],
+    "relation": "Godparent in D-004-17.",
+    "route": "Duska agent keeps; Places agent for the village"
+  },
+  {
+    "id": "K-093",
+    "name": "Erzsébet Jakub",
+    "vitals": "godparent, 1873",
+    "proof": "documented",
+    "sources": [
+      "S-020"
+    ],
+    "relation": "Godparent in D-004-17.",
+    "route": "Duska agent keeps; Places agent for the village"
+  },
+  {
+    "id": "K-094",
+    "name": "János Magyar",
+    "vitals": "of Viszoka; godparent, 1872",
+    "proof": "documented",
+    "sources": [
+      "S-005"
+    ],
+    "relation": "Godparent in D-004-01.",
+    "route": "Demko agent (associate of the Viszoka Demkos)"
+  },
+  {
+    "id": "K-095",
+    "name": "Mihály Szlekár",
+    "vitals": "Greek Catholic, farmer, of Viszoka; father in the entry after D-004-02",
+    "proof": "documented",
+    "sources": [
+      "S-006"
+    ],
+    "relation": "Bystander with a tracked surname: same surname as the wife in FG-02.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-096",
+    "name": "Mihály Hreskó",
+    "vitals": "farmer; godfather in the entry after D-004-02",
+    "proof": "documented",
+    "sources": [
+      "S-006"
+    ],
+    "relation": "Bystander with a tracked surname: a Hreskó man at Viszoka in 1874.",
+    "route": "Demko agent"
+  },
+  {
+    "id": "K-097",
+    "name": "György Hricko",
+    "vitals": "Greek Catholic, shepherd at the Vaján farmstead; father in the entry after D-004-03",
+    "proof": "documented",
+    "sources": [
+      "S-007"
+    ],
+    "relation": "Bystander. Written Hricko on the line below a Hreskó, in the same hand.",
+    "route": "Demko agent"
   }
 ]

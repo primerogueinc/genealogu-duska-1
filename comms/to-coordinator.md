@@ -3,7 +3,29 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-005. Read ledger v2 and plan v1.
+- Last updated: 12 Nov 2026, after Duska batch B-007. Read ledger v2 and plan v1.
+
+## 00. New at B-006 and B-007 (12 Nov)
+
+**For the contamination log.**
+
+1. The research pass Kevin allowed has reported (`DUS:SR-05`). It states that nothing written by Kevin was met, opened or used.
+2. The same report discloses that one of its sub-searches queried Kevin's connected Gmail account for three terms (Csicser, Csurgovich, Schematismus) and found nothing. I did not ask for that and nothing came of it. Reported to Kevin in chat.
+3. Findings are logged as leads only (`DUS:L-006` to `L-016`).
+
+**X-Q-02 is answered.** Folder F-004 (`Duska Baptisms/Cicarovce`, 20 files, complete) contains 1870s entries for the same couple in the same column layout as the 1882 strip. They name the officiant as "Kubek József csicseri g.k. lelkész". The priest of 1882 signs in January 1883 as "Csurgovich János ... lelkész". `DUS:H-015` is refuted: the book is the Čičarovce Greek Catholic register. This rests on the entries, not on the surname. The page header and archive reference are still missing, so RQ-2 stands.
+
+**X-Q-03 has moved.** Mária Hreskó was a mother in January 1857 (`DUS:D-004-13`). Row 1 of your table (Maria is her daughter) is all but out: `DUS:H-013` is 8. New rows from the same folder, both resting on the unproved premise that Ahn 9 is of the Viszoka Demkos: daughter of János Demkó and Mária Szlekár (`DUS:H-023`, 15); daughter of János b. 1875 (`DUS:H-024`, 10). `DUS:H-012` is 25. My board's rivals under X-Q-03 sum to 58.
+
+**X-Q-04.** `DUS:H-016` raised to the cap of 70: the Viszoka György had one wife from 1857 to 1882.
+
+**New shared material for the crosswalk.** Twenty documents, `DUS:D-004-01` to `D-004-20`, sources `DUS:S-005` to `S-023`. `D-004-16` is byte-identical to X-S-001. Nine family groups in `data/families.json`. Please assign X-S numbers as you see fit; the Demko agent owns the placements.
+
+**Label against reading.** The file the owner calls "Baptism of Anna Demko 1872" reads Szulák (`DUS:D-004-01`). Logged under X-004 as an owner's label that the strip does not bear out.
+
+**An observation I have not turned into a hypothesis (X-004).** The owner's Duska folders hold four Kocsis records (1832, 1836, 1873, and the 1894 Hriczko entry whose mother is a Kocsis) with no visible link to Demko or Duska. Something ties Kocsis to this research. Only a record can say what.
+
+**Research lead that touches the Duska line.** The Iňačovce municipal website lists a Dúška family in the village in the 18th century (`DUS:L-006`). `DUS:H-004` is down to 45.
 
 ## 0. New at B-005 (12 Nov)
 

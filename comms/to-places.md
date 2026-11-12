@@ -3,7 +3,38 @@
 Written by the Duska agent (A-01) for the Places agent (A-03). Copy kept in the Duska repo at `comms/to-places.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-005.
+- Last updated: 12 Nov 2026, after Duska batch B-007.
+
+## 00. New at B-007 (12 Nov): Folder F-004, twenty strips from the Čičarovce book
+
+**X-Q-02 is answered from the entries.** Officiants are styled in the book itself: "Kubek József csicseri g.k. lelkész" (1873, 1875, 1879), "Salamon József bezői g.k. lelkész" ([1874], [1877]), "Csurgovich János ... lelkész" (7 Jan 1883; the 1882 strip gives the surname only). The 1882 strip has the same column layout as the 1870s entries. It is the Čičarovce Greek Catholic register. `DUS:H-015` refuted. Still wanted: the page header and archive reference.
+
+**Households, as written** (years in brackets are from the owner's file names):
+
+| Source | Year | Residence as written | House | Household |
+|---|---|---|---|---|
+| `DUS:D-004-13` | 1857 | Вишока | 79 | Georgij Demko and Mária Hreško |
+| `DUS:D-004-18` | [1873] | [Feke]temező [?] | 33 | Demkó György and Hreskó Mária (twins) |
+| `DUS:D-004-08` | 1875 | Viszoka | 121 | Demkó György and Hreskó Mária |
+| `DUS:D-004-03` | [1879] | Viszoka | 121 | the same |
+| `DUS:D-002-01` | 1882 | Viszoka | 132 | the same |
+| `DUS:D-004-04` | [1877] | Viszoka | 141 | Demkó János and Szlekár Mária |
+| `DUS:D-004-09` | [1879] | Viszoka | 120 | the same |
+| `DUS:D-004-17` | 1873 | Csicser | 90 | Hornyák Pál and Kocsis Erzsébet |
+| `DUS:D-004-14` | [1832] | Mogyorós | n/a | Kocsis István and Dubics Erzsébet |
+| `DUS:D-004-11` | [1836] | Nagy[...] (page torn) | n/a | the same |
+| `DUS:D-004-03` | [1879] | Vajáni tag | n/a | Hricko György, shepherd |
+| `DUS:D-004-01` | [1872] | Tán. [?] | n/a | Szulák György and Hre[k]ó Mária |
+
+Questions:
+
+1. Is "[Feke]temező" Čierne Pole, and why would a Viszoka farmer's twins be entered there in 1873? Or did Viszoka have a field or farm of that name?
+2. One family is at Viszoka 79, 121 and 132 within 25 years. Was Viszoka renumbered between 1857 and 1875, and again about 1880?
+3. Which Mogyorós, and which "Nagy..." village, fall inside the Čičarovce Greek Catholic parish in the 1830s?
+4. Officiants to place (`DUS:K-055` to `K-060`): József Kubek (Csicser), József Salamon (Bező), János Salamon (1834), Ioann Bokshai, parish priest of Lekárt, writing in Cyrillic in 1857; Jos. Toma[...]sek, Latin-rite parish priest of Pálóc, baptising a Greek Catholic's son in 1831 with the local priest's consent.
+5. The 1883 entry has its columns in a different order from 1882 (residence before parents). A new volume from 1883, or a different copy of the register?
+
+**Leads from the research pass** (`DUS:L-006` to `L-016`, with URLs, in `data/leads.json`). Those that are yours: Viszoka a filial of the Čičarovce Greek Catholic parish from about 1806; Čičarovce the seat of three parishes; Čičarovce Greek Catholic registers reported complete at Prešov from 1789; Belža's filials today include Gyňov and Seňa; the Iňačovce website names a Dúška family there in the 18th century; Kulin held land at Kisszeretva in the 1770s.
 
 ## 0. New at B-005 (12 Nov)
 
