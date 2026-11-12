@@ -86,16 +86,17 @@
   "described_as": "The owner's mixed folder. A sorting agent divides it into piles in a private repository; this agent reads the pile for the Duska line and the pile for both lines (rulings X-019, X-020). At private commit 2e9dd04 the Duska pile was empty and the shared pile held one file. The pile is the sorter's label: a prior, not evidence. At private commit 4f16658 the Duska pile held four files: a gravestone photograph, a marriage register page of 1892, a screenshot of the Senné baptism register in an online viewer, and a page of burials of 1831 to 1841. At b9e7b06 three more: a census household (image kept), a page from an online family tree (held unopened) and a newspaper print of 1911 (held; transcribed in part). At 31b6cf5 one more: a cemetery record of a Duska born 28 Nov 1890. At 2bea03e nine more: a Québec declaration of marriage of 1984 (held) and eight photographs of the 1937 emigration papers of Maria Duska and her son.",
   "status": "open",
   "first_seen": "2026-11-12",
-  "files_received": 18,
+  "files_received": 19,
   "batches": [
    "B-016",
    "B-022",
    "B-023",
    "B-026",
-   "B-029"
+   "B-029",
+   "B-033"
   ],
   "archive_path": "records/F-006_AAAA-Unclassified_sorter-piles/ (manifest only; the image is held)",
-  "private_commit_read": "2e9dd04; 4f16658; b9e7b06; 31b6cf5; 2bea03e"
+  "private_commit_read": "2e9dd04; 4f16658; b9e7b06; 31b6cf5; 2bea03e; 73cf83d (one file of seven taken)"
  },
  {
   "id": "F-007",
@@ -154,15 +155,16 @@
  {
   "id": "F-011",
   "desktop_path": "Duska Census",
-  "described_as": "Announced by the owner as 'Beginning Duska Census'. Part 1, '1767 - Urbanarium': eight images of urbarial tables for Solymos (three pages, one of them twice), Szenna (two pages), Csicser and Viszoka (one page each), with one word-processor file held unopened. More parts are expected. Part 2, '1869 Solymos Census Full': four census household sheets as photographs of a screen, four screenshots of them, and six files not published (four compiled pages unopened; a third party's transcription; the archive file). Part 3, '1921 Census Folder': two maps of Ung county and a guide to the 1921 census (held, summarised); census pages are expected to follow. Part 4, '1930 - BESA Whole Folder': one household sheet of the 1930 census, a Schwarcz family of Beša.",
+  "described_as": "Announced by the owner as 'Beginning Duska Census'. Part 1, '1767 - Urbanarium': eight images of urbarial tables for Solymos (three pages, one of them twice), Szenna (two pages), Csicser and Viszoka (one page each), with one word-processor file held unopened. More parts are expected. Part 2, '1869 Solymos Census Full': four census household sheets as photographs of a screen, four screenshots of them, and six files not published (four compiled pages unopened; a third party's transcription; the archive file). Part 3, '1921 Census Folder': two maps of Ung county and a guide to the 1921 census (held, summarised); census pages are expected to follow. Part 4, '1930 - BESA Whole Folder': one household sheet of the 1930 census, a Schwarcz family of Beša. Parts 5 and 6, '1930 Senne' (15 sheets) and '1930 Senne Second Pass' (20 enlargements and portal pages). RECEIVED AND NOT YET READ: nine more parts of the 1930 census, 46 images (Čičarovce 4, Iňačovce 18, Maťovce 3, 'Mogyoros' 2, Palín 1, Pavlovce 1, Veľké Kapušany 3, Veľké Slemence 1, Vysoká 13).",
   "status": "open",
   "first_seen": "2026-11-12",
-  "files_received": 19,
+  "files_received": 54,
   "batches": [
    "B-025",
    "B-027",
    "B-028",
-   "B-032"
+   "B-032",
+   "B-033"
   ],
   "archive_path": "records/F-011_Duska-Census/"
  }

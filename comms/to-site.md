@@ -3,7 +3,13 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-031.
+- Last updated: 12 Nov 2026, after Duska batch B-033.
+
+## 000000000000000. New at B-033
+
+- `people.json`: `P-016` and `P-017` added (Ahnentafel 16 and 17); `P-008` has a birth date. `death.date` may carry "[?]".
+- Folder `F-011` has 54 documents; five are `held`. Its manifest has a `pending` list (46 files received, not yet read, no image).
+- `requests.json`: `R-007` is `answered`.
 
 ## 00000000000000. New at B-031
 

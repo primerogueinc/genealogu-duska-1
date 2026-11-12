@@ -49,11 +49,12 @@
  },
  {
   "id": "R-007",
-  "status": "raised",
+  "status": "answered",
   "raised": "B-009",
-  "text": "Michal Duska's marriage to Maria Demko (about 1925 to 1929), or any record that gives his age, birth date or parents: a passenger list, a naturalisation or a Canadian burial record would do. His baptism is now in hand twice over: a Mihály of 6 December 1896 and a Mihály of 3 July 1903. One record with his age chooses between them (H-046, H-047). B-029: the 1937 emigration papers name Michal four times and give no age. Still open.",
+  "text": "Michal Duska's marriage to Maria Demko (about 1925 to 1929), or any record that gives his age, birth date or parents: a passenger list, a naturalisation or a Canadian burial record would do. His baptism is now in hand twice over: a Mihály of 6 December 1896 and a Mihály of 3 July 1903. One record with his age chooses between them (H-046, H-047). B-029: the 1937 emigration papers name Michal four times and give no age. Still open. ANSWERED at B-033 by the census of 1930 (D-011-24) and the passenger list (D-006-19).",
   "raised_with_owner": "2026-11-12",
-  "rank": 1
+  "rank": 1,
+  "answered": "B-033"
  },
  {
   "id": "R-008",
@@ -114,15 +115,23 @@
   "id": "R-015",
   "status": "raised",
   "raised": "B-028",
-  "text": "From the 1921 census: the household form or forms for every Duska at Senné (and at Iňačovce), with the summary sheet for the village. One form with Michal on it, giving his date of birth and his father's name, answers the first question on this line. B-032: the same for the census of 1930: the sheet for Maria Duska and her son (Senné 160 or her parents' house at Iňačovce), and any other Duska sheet of Senné. Those sheets give exact dates of birth.",
+  "text": "From the 1921 census: the household form or forms for every Duska at Senné (and at Iňačovce), with the summary sheet for the village. One form with Michal on it, giving his date of birth and his father's name, answers the first question on this line. B-032: the same for the census of 1930: the sheet for Maria Duska and her son (Senné 160 or her parents' house at Iňačovce), and any other Duska sheet of Senné. Those sheets give exact dates of birth. B-033: the 1930 sheets for Senné have come and answer it. The 1921 sheets would add little now.",
   "raised_with_owner": "2026-11-12",
-  "rank": 1
+  "rank": 5
  },
  {
   "id": "R-016",
   "status": "raised",
   "raised": "B-029",
-  "text": "Michal (Mike) Duska's own arrival in Canada, most likely 1929 to 1931: the ship's passenger list or his landing card, and his naturalisation papers if he took citizenship. Each gives his age. Also the Montrose manifest of November 1937 for Maria and Štefan.",
+  "text": "Michal (Mike) Duska's own arrival in Canada, most likely 1929 to 1931: the ship's passenger list or his landing card, and his naturalisation papers if he took citizenship. Each gives his age. Also the Montrose manifest of November 1937 for Maria and Štefan. B-033: a crop of his passenger list is in hand. Still wanted: the whole page, with the ship, the date and the columns for nearest relative and destination.",
+  "raised_with_owner": "2026-11-12",
+  "rank": 2
+ },
+ {
+  "id": "R-017",
+  "status": "raised",
+  "raised": "B-033",
+  "text": "Two records to close the generation above: the marriage of Michal Duska and Maria Demko, 30 January 1927 (probably in the Greek Catholic book of Iňačovce or the Roman Catholic book of Senné), and the source of the 1892 marriage image (which book, which website), so that the link from András to György Duska and Anna Krak can be cited.",
   "raised_with_owner": "2026-11-12",
   "rank": 1
  }

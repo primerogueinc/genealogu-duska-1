@@ -658,5 +658,29 @@
   "date": "2026-11-12",
   "decided": "'1930 - BESA Whole Folder' is entered as part 4 of folder F-011 and taken as complete for that part. No hypothesis is raised linking the Schwarcz household of Beša to Erzsébet Schwarz; the filing is prior PR-11. All seven people are shown with full dates.",
   "why": "X-004: a surname and a folder are a prior. X-016: the youngest was born on 6 October 1926, one hundred years ago."
+ },
+ {
+  "id": "DEC-111",
+  "date": "2026-11-12",
+  "decided": "Eleven deliveries arrived together. Batch B-033 reads the two Senné parts and one pile file; the other nine parts (46 images) are logged in the F-011 manifest under 'pending' by name and SHA-256, with no image copied, and will be read next.",
+  "why": "The Senné sheets bear on the first open question; reading 81 sheets in one batch would have thinned every reading. No image is committed before it is checked for people of unknown status (rule 21)."
+ },
+ {
+  "id": "DEC-112",
+  "date": "2026-11-12",
+  "decided": "A census sheet that shows anyone born after 12 November 1926 with no death on record is held: name and SHA-256 only, with that person given by name and year. Five Senné sheets are held (houses 11, 88, 112, 126, 133).",
+  "why": "X-016 and rule 21. The sheets are public at the archive; this repository still follows its own rule."
+ },
+ {
+  "id": "DEC-113",
+  "date": "2026-11-12",
+  "decided": "H-046, H-030 and H-051 are marked solved. Ahn 16 (András Duska) and Ahn 17 (Anna Nyemcsik) are entered on the tree; Ahn 8 is given his birth of 3 July 1903. Nobody above Ahn 16 and 17 is entered.",
+  "why": "X-009: a record in hand with its archive reference (Slovak National Archive, census of 1930, box 0311, by the portal record in D-011-41). The link from András to his parents has no archive reference and stays at 70."
+ },
+ {
+  "id": "DEC-114",
+  "date": "2026-11-12",
+  "decided": "The owner's file name that states the finding is logged as prior PR-12; the finding is taken from the sheet. The file name with a dated word for Roma is kept as the owner wrote it and the abstract uses 'Roma settlement'.",
+  "why": "X-004. File names are part of the archive as received (rule 2)."
  }
 ]

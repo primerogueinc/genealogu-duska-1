@@ -251,6 +251,21 @@
       "sorter_batch": "S-B-014",
       "document": "D-006-18",
       "image_in_repo": true
+    },
+    {
+      "name": "Mihaily_and_Mikulas_Ship_Manifest.png",
+      "sha256": "f0b6c7a2cb2687af2f0f4b4f3b3aebc4514ae5a2121083f0bcaaae3dc8582926",
+      "bytes": 1004544,
+      "pixels": [
+        1920,
+        902
+      ],
+      "pile": "to-duska",
+      "private_commit": "73cf83d",
+      "sorter_batch": "S-B-017",
+      "document": "D-006-19",
+      "image_in_repo": true
     }
-  ]
+  ],
+  "note_b033": "Six more files of Sorter batch S-B-017 are in the pile at 73cf83d and not yet taken: two Québec marriage forms, a baptismal certificate of 1955, a death notice of 1974, a baptism strip of 1890 and a second copy of the cemetery record."
 }

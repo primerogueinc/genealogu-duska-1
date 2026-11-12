@@ -1612,6 +1612,67 @@
   "sources_added": [
    "S-255"
   ],
+  "committed_utc": "2026-11-12T09:32:02Z"
+ },
+ {
+  "id": "B-033",
+  "date": "2026-11-12",
+  "title": "The census of 1930 names Michal's parents",
+  "folder": "F-011",
+  "files": 36,
+  "blurb": "Read ledger v19, unchanged. The owner sent eleven deliveries of the Czechoslovak census of 1930 at once, 81 images. This batch reads the two for Senné, 35 images, and one file from the sorter's pile. The other 46 images are logged with checksums as received and not yet read. The Senné sheets answer the main question. House 145, on the night of 1 December 1930: Andrej Duška, born 24 November 1868; his wife Anna, born 24 August 1872, married 18 January 1892; their son Juraj; their daughter-in-law Maria, Greek Catholic, born at Iňačovce; and their grandson Štefan, born 23 October 1929. The marriage date and Anna's birthday are those of András Duska and Anna Nyemcsik in records read earlier. Their one son named Mihály was baptised on 3 July 1903. So Michal Duska was that boy, and the rival, the miller's son of 1896, is ruled out. The pile file agrees: a passenger list has Michal Duska of Senné, aged 26, crossing to Canada with Mikulas Duska, 39, and carries the immigration file number of the 1937 letter to Mike Duska of Montréal. The ages put the crossing between November 1929 and July 1930. András and Anna go onto the tree as Michal's parents. The generation above them stays a hypothesis at 70, because the 1892 marriage image has no archive reference. The owner's second pass shows where the sheets are kept: the Slovak National Archive, on its public portal, box 0311. The census also gives the date of Michal and Maria's marriage, 30 January 1927, and shows three Duska houses where the husband was away. Five sheets are held because they show a child born after 1926; their contents are abstracted with years only. Curiosities: 4",
+  "raised": [
+   "H-067"
+  ],
+  "resolved": [
+   "H-046",
+   "H-047",
+   "H-040",
+   "H-041",
+   "H-035",
+   "H-030",
+   "H-051"
+  ],
+  "revised": [
+   "H-054",
+   "H-066"
+  ],
+  "people_added": [
+   "K-574",
+   "K-575",
+   "K-576",
+   "K-577",
+   "K-578",
+   "K-579",
+   "K-580",
+   "K-581",
+   "K-582",
+   "K-583",
+   "K-584",
+   "K-585",
+   "K-586",
+   "K-587",
+   "K-588"
+  ],
+  "sources_added": [
+   "S-256",
+   "S-257",
+   "S-258",
+   "S-259",
+   "S-260",
+   "S-261",
+   "S-262",
+   "S-263",
+   "S-264",
+   "S-265",
+   "S-266",
+   "S-267",
+   "S-268",
+   "S-269",
+   "S-270",
+   "S-271",
+   "S-272"
+  ],
   "committed_utc": null
  }
 ]

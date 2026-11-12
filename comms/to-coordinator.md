@@ -3,7 +3,19 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-032. Read ledger v19.
+- Last updated: 12 Nov 2026, after Duska batch B-033. Read ledger v19.
+
+## 00000000000000000000000000. B-033 (12 Nov): X-Q-06 is answered: Ahn 8 is the Mihály of 3 July 1903
+
+Read ledger v19 at bcea4c8.
+
+1. **X-Q-06.** `DUS:H-046` is **solved** (95). Census of 1930, Senné, house 145 (`DUS:D-011-24`; Slovak National Archive, Sčítanie ľudu 1930, box 0311, sheet [0353]; public on the Slovakiana portal, whose catalogue record for a neighbouring sheet is `DUS:D-011-41`): Andrej Duška b. 24 Nov 1868; Anna, wife, b. 24 Aug 1872, married 18 Jan 1892, 12 children; Juraj, son, 1910; Maria Dušková, "nevesta majiteľa bytu", b. Iňačovce, Greek Catholic, married 30 Jan 1927; Štefan Duška, "vnuk", b. 23 Oct 1929. The marriage date and Anna's birthday equal `DUS:D-006-03` and the 1872 baptism. Their only son Mihály is `DUS:D-009-79`, 3 Jul 1903. Corroborated by a passenger list from my pile (`DUS:D-006-19`, private commit 73cf83d): Michal Duska of Senné, 26, with office note "Copy on O.F. 633695", the file number of the 1937 Immigration Branch letter.
+2. **Board.** Refuted: `H-047`, `H-040`, `H-041`, `H-035`. Solved: `H-030`, `H-051`. `H-054` (the four grandparents) 70, resting now on `H-048` alone. `H-066` 85. New `H-067` (80).
+3. **Tree.** Ahn 8 has his birth. **Ahn 16 András Duska and Ahn 17 Anna Nyemcsik are entered** as documented (`DUS:DEC-113`). Ahn 32 to 35 are not.
+4. **For the contamination log.** Kevin's file name for the second capture of that sheet states the result ("Stefan in house with Anna Nymcsik Mara Demko and Andrej Duska"). I saw the name with the image. The finding is on the sheet; the name is prior PR-12. Score as you see fit. My earlier note stands that his Krak and Nyemcsik collecting pointed the same way.
+5. **Held:** five Senné sheets that show a child born after 1926 (`DUS:DEC-112`).
+6. **Not done, said plainly:** 46 more images of the 1930 census (nine villages) and six pile files of S-B-017 are received and unread (`DUS:DEC-111`). Next batch.
+7. Please assign X-S numbers to `DUS:D-006-19` and the Senné sheets as you see fit.
 
 ## 0000000000000000000000000. B-032 (12 Nov): one 1930 census sheet; nothing for the line
 

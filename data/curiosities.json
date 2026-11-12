@@ -664,5 +664,49 @@
   "translation": "(codes)",
   "why": "The marks show the sheet was used for its purpose, and they sit on top of some of the dates a reader most wants.",
   "tone": "odd"
+ },
+ {
+  "id": "C-077",
+  "doc": "D-011-24",
+  "source": "S-260",
+  "title": "One word, 'vnuk'",
+  "text": "The question this rebuild had carried for twenty batches was answered by a census clerk's four-letter word. In the column for each person's relation to the head of the house, against a thirteen-month-old boy, he wrote 'vnuk': grandson. Against the boy's mother, 'nevesta': daughter-in-law.",
+  "original": "Dušková Maria | nevesta majiteľa bytu || Duška Štefan | vnuk",
+  "translation": "Maria Dušková, daughter-in-law of the head of the flat. Štefan Duška, grandson.",
+  "why": "Two words of kinship did what ninety-five baptism strips could not.",
+  "tone": "history"
+ },
+ {
+  "id": "C-078",
+  "doc": "D-011-21",
+  "source": "S-257",
+  "title": "The houses with no husbands",
+  "text": "On census night three Duska houses in Senné had a wife and children and no man. House 11 belonged to Mikuláš, house 12 to Andrej the younger, and in house 145 Maria was living with her in-laws. Two of the three husbands are on one page of a Canadian passenger list.",
+  "original": "manželka majiteľa bytu ... manželka prednostu domácnosti",
+  "translation": "wife of the owner of the flat ... wife of the head of the household",
+  "why": "The census counted who slept in the house. Read for who is missing, it is a list of emigrants.",
+  "tone": "sad"
+ },
+ {
+  "id": "C-079",
+  "doc": "D-011-24",
+  "source": "S-260",
+  "title": "A father-in-law's guess",
+  "text": "Andrej Duška could not read or write. Someone in his house told the enumerator that his daughter-in-law was born on 15 August 1907. Her passport, seven years later, says 22 August 1906. He had the month right.",
+  "original": "15. aug. 1907 [census] | 22. VIII. 1906 [passport]",
+  "translation": "15 August 1907; 22 August 1906",
+  "why": "The same sheet gives his own wife's birthday correctly to the day, sixty years on.",
+  "tone": "funny"
+ },
+ {
+  "id": "C-080",
+  "doc": "D-011-49",
+  "source": "S-271",
+  "title": "754 people, counted twice",
+  "text": "The commune summary gives Senné 161 houses and 754 people, signed at Palín on 10 December 1930. Underneath, a reviser with a red pencil made it 160 houses and 753 people, and noted in blue how many of the dwellings were in the Roma settlement at the edge of the village.",
+  "original": "Súčet pre celú obec: 161 | 152 | 9 | 169 | 754",
+  "translation": "Total for the whole commune: 161 houses, 152 lived in, 9 empty, 169 households, 754 people",
+  "why": "The whole world of this family, with its total.",
+  "tone": "history"
  }
 ]

@@ -932,7 +932,7 @@
    "Pál, b. 28 Oct 1887",
    "Miklós, b. 28 Nov 1890; probably the 'Mikalis' Duska, husband of Anna Hancosek, of a cemetery record with a received date of 28 Nov 1965 (D-006-09, H-060)"
   ],
-  "note": "György Duska 'the younger' and Erzsébet Schwarz of Alsó-Ribnicze: eight children in eighteen years, the same godfather, János Muha, almost throughout. He shares house 6 with György Duska the elder; how the two are related is not stated anywhere. He cannot be a son of the elder György and Anna Krak, whose first known child is of 1866. The mother's rite is written Greek Catholic in the 1870s and Roman Catholic from 1885.",
+  "note": "György Duska 'the younger' and Erzsébet Schwarz of Alsó-Ribnicze: eight children in eighteen years, the same godfather, János Muha, almost throughout. He shares house 6 with György Duska the elder; how the two are related is not stated anywhere. He cannot be a son of the elder György and Anna Krak, whose first known child is of 1866. The mother's rite is written Greek Catholic in the 1870s and Roman Catholic from 1885. In 1930 Jozef (1885) is at house 73 (D-011-33) and Mikuláš (1890) owns house 11 but is abroad (D-011-29); he sailed to Canada with Michal Duska (D-006-19).",
   "route": "duska",
   "route_note": "",
   "documents": [
@@ -944,7 +944,10 @@
    "D-009-75",
    "D-009-84",
    "D-009-93",
-   "D-006-09"
+   "D-006-09",
+   "D-011-33",
+   "D-011-29",
+   "D-006-19"
   ]
  },
  {
@@ -965,7 +968,7 @@
    "György, b. 17 Feb 1910; married 8 Jun 1937",
    "József, b. 5 Jan 1912, d. 27 Sep 1913"
   ],
-  "note": "Married at Senné on 18 January 1892: András Duska, cottar, 24, son of György Duska and Anna Krak; Anna Nyemcsik, 19, daughter of János Nyemcsik and Erzsébet Hresko (D-006-03). The wife's mother is 'Hresko alias Minarcsin' in her own children's baptisms, which is why the wife is entered as Minarcsin in the 1890s; from 1903 the priest writes Nyemecz. One couple, thirteen children in nineteen years, seven dead in childhood by the notes in the book. Two sets of twins. Their son Mihály, born 3 July 1903, is the leading candidate for Michal Duska, Ahn 8 (H-046).",
+  "note": "Married at Senné on 18 January 1892: András Duska, cottar, 24, son of György Duska and Anna Krak; Anna Nyemcsik, 19, daughter of János Nyemcsik and Erzsébet Hresko (D-006-03). The wife's mother is 'Hresko alias Minarcsin' in her own children's baptisms, which is why the wife is entered as Minarcsin in the 1890s; from 1903 the priest writes Nyemecz. One couple, thirteen children in nineteen years, seven dead in childhood by the notes in the book. Two sets of twins. Their son Mihály, born 3 July 1903, is the leading candidate for Michal Duska, Ahn 8 (H-046). CENSUS OF 1930 (D-011-24): Andrej, born 24 November 1868, and Anna, born 24 August 1872, married 18 January 1892, twelve children, nine living, at house 145 with their son Juraj (1910), their daughter-in-law Maria, born at Iňačovce, and their grandson Štefan, born 23 October 1929. So their son Mihály of 1903 is Michal Duska, Ahn 8, and this couple are Ahn 16 and 17.",
   "route": "duska",
   "route_note": "",
   "documents": [
@@ -981,7 +984,9 @@
    "D-009-59",
    "D-009-66",
    "D-009-79",
-   "D-006-03"
+   "D-006-03",
+   "D-011-24",
+   "D-011-34"
   ]
  },
  {
@@ -1213,11 +1218,12 @@
   "children": [
    "József, b. 31 Oct 1910"
   ],
-  "note": "The father may be the József of 1885 (FG-48), who died in 1950.",
+  "note": "The father may be the József of 1885 (FG-48), who died in 1950. Census of 1930, house 73: three more children and the wife's mother, Anna Chalahánová (D-011-33).",
   "route": "duska",
   "route_note": "",
   "documents": [
-   "D-009-58"
+   "D-009-58",
+   "D-011-33"
   ]
  },
  {
@@ -1251,6 +1257,26 @@
   "documents": [
    "D-011-09",
    "D-006-07"
+  ]
+ },
+ {
+  "id": "FG-62",
+  "husband": "Michal (Mihály, Mike) Duska, b. 3 Jul 1903 at Senné 79; Roman Catholic",
+  "wife": "Maria Demko, b. 22 Aug 1906 at Iňačovce; Greek Catholic",
+  "rite": "He Roman Catholic, she Greek Catholic; the son Roman Catholic",
+  "homes": "Senné 160 (1929); Senné 145, his parents' house (1930); she at Iňačovce by 1937; Montréal",
+  "children": [
+   "Štefan, b. 21 Oct 1929 (23 Oct in civil papers), d. 2018"
+  ],
+  "note": "Married on 30 January 1927 by the census of 1930; the marriage entry itself is not in hand. He sailed for Canada with his kinsman Mikuláš between November 1929 and July 1930; she and the boy followed in November 1937.",
+  "route": "duska",
+  "route_note": "Ahn 9 is the Demko agent's.",
+  "documents": [
+   "D-011-24",
+   "D-006-19",
+   "D-X01-01",
+   "D-006-13",
+   "D-006-17"
   ]
  }
 ]

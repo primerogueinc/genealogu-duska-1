@@ -92,8 +92,8 @@
   "role": "Great-grandfather",
   "living": false,
   "birth": {
-   "date": null,
-   "place": null
+   "date": "3 Jul 1903",
+   "place": "Senné, house 79"
   },
   "proof": "documented",
   "sources": [
@@ -103,14 +103,25 @@
    "S-000-2",
    "S-250",
    "S-251",
-   "S-252"
+   "S-252",
+   "S-213",
+   "S-260",
+   "S-272"
   ],
-  "note": "Father of Štefan by the 1947 certificate: Roman Catholic, cottar, of Senné in 1929. \"Mike Duska\" on the Montréal gravestone of his wife and in a deed of 1966, when he was alive and declared he had married once. His own birth, parents and marriage are not yet on record here. By September 1937 he was settled at 1196a St. George Street, Montréal, applied for his wife and son to be admitted, and paid their passage (S-250, S-251). The court at Michalovce calls him Michal Duško, father, in Canada (S-252). His wife's passport gives her home commune as Senné, which was his. None of these papers gives his age.",
+  "note": "Born 3 July 1903 at Senné, house 79, son of András Duska, cottar, and Anna Nyemcsik (baptism D-009-79). Identified by the census of 1930: his wife Maria and son Štefan are entered at Senné 145 as the daughter-in-law and grandson of Andrej Duška and Anna, married 18 January 1892 (D-011-24). Married Maria Demko on 30 January 1927 by that census. Roman Catholic cottar of Senné 160 in 1929. Sailed for Canada aged 26, with Mikulas Duska, between November 1929 and July 1930 (D-006-19); naturalised 22 April 1940; at 1196a St. George Street, Montréal, in 1937, when he sent for his family; 'Mike Duska' on his wife's stone; alive in November 1966.",
   "owner": "Duska",
   "residence": [
    {
+    "date": "1903",
+    "place": "Senné, house 79"
+   },
+   {
     "date": "1929",
     "place": "Senné, house 160"
+   },
+   {
+    "date": "1929 or 1930",
+    "place": "to Canada"
    },
    {
     "date": "Sep 1937",
@@ -139,11 +150,56 @@
    "S-026",
    "S-254"
   ],
-  "note": "Wife of Michal Duska and mother of Štefan by the 1947 certificate; Greek Catholic, of Iňačovce. Died at Montréal on 9 September 1950 by her husband's declaration of 1966. Stone: born 1906, died 1950. Her parents are the Demko agent's to establish: it has Mihály Demkó and Mária Kocsis (DM P-018, P-019 @57861ad). Her emigrant passport of 1937 gives her birth as 22 August 1906 at Iňačovce and her occupation as farmer; she left in November 1937 with her son.",
+  "note": "Wife of Michal Duska and mother of Štefan by the 1947 certificate; Greek Catholic, of Iňačovce. Died at Montréal on 9 September 1950 by her husband's declaration of 1966. Stone: born 1906, died 1950. Her parents are the Demko agent's to establish: it has Mihály Demkó and Mária Kocsis (DM P-018, P-019 @57861ad). Her emigrant passport of 1937 gives her birth as 22 August 1906 at Iňačovce and her occupation as farmer; she left in November 1937 with her son. The census of 1930 has her at Senné 145 in her father-in-law's house, married 30 January 1927, with a birth date of 15 August 1907 that disagrees with her passport.",
   "owner": "Demko",
   "death": {
    "date": "9 Sep 1950",
    "place": "Montréal"
   }
+ },
+ {
+  "id": "P-016",
+  "ahnentafel": 16,
+  "name": "András (Andrej) Duska",
+  "role": "Great-great-grandfather",
+  "living": false,
+  "birth": {
+   "date": "24 Nov 1868",
+   "place": "Senné"
+  },
+  "proof": "documented",
+  "sources": [
+   "S-260",
+   "S-231",
+   "S-213",
+   "S-140"
+  ],
+  "note": "Roman Catholic servant, then cottar and day-labourer of Senné: houses 73, 92, 79, 98, 138 and, in 1930, 145. Married Anna Nyemcsik on 18 January 1892. Father of Michal by the census of 1930 and the baptism of 1903. Could not read or write. A death date of 22 August 1940 is noted beside a baptism of [1868] that is probably his (H-048); that he is the son of György Duska the elder and Anna Krak rests on the marriage entry, which has no archive reference yet.",
+  "owner": "Duska",
+  "death": {
+   "date": "22 Aug 1940 [?]",
+   "place": null
+  },
+  "living_basis": "Born 1868."
+ },
+ {
+  "id": "P-017",
+  "ahnentafel": 17,
+  "name": "Anna Nyemcsik (Nemčíková; written Minarcsin and Nyemecz)",
+  "role": "Great-great-grandmother",
+  "living": false,
+  "birth": {
+   "date": "24 Aug 1872",
+   "place": "Senné, house 79"
+  },
+  "proof": "documented",
+  "sources": [
+   "S-260",
+   "S-231",
+   "S-213"
+  ],
+  "note": "Wife of András Duska from 18 January 1892; twelve children, nine living in 1930. Her birth date in the census is the date of the baptism of Anna, daughter of János Nyemcsik and Erzsébet Hresko, in the Senné register (H-051). She could read.",
+  "owner": "Duska",
+  "living_basis": "Born 1872."
  }
 ]

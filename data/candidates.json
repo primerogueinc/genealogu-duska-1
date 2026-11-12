@@ -6812,5 +6812,185 @@
   "relation": "In the household of Ignác Schwarcz, Beša, census of 1930 (D-011-19). Not shown to be connected with any Duska.",
   "route": "places",
   "route_note": "A household for the gazetteer; the only tie to this archive is a surname."
+ },
+ {
+  "id": "K-574",
+  "name": "Juraj Duška",
+  "vitals": "b. 2 Mar 1910, Senné; day-labourer, single, house 145 in 1930",
+  "proof": "documented",
+  "sources": [
+   "S-260"
+  ],
+  "relation": "Son of Andrej Duška and Anna (D-011-24); brother of Michal (Ahn 8).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-575",
+  "name": "Maria Dušková",
+  "vitals": "b. 8 Sep 1898, Budkovce; Greek Catholic; m. 15 Nov 1920; wife of Andrej Duška the younger, Senné 12",
+  "proof": "documented",
+  "sources": [
+   "S-257"
+  ],
+  "relation": "D-011-21. Her husband is absent in 1930.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-576",
+  "name": "Ján Duška",
+  "vitals": "b. 18 Jan 1924, Senné 12",
+  "proof": "documented",
+  "sources": [
+   "S-257"
+  ],
+  "relation": "Son in D-011-21.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-577",
+  "name": "Andrej Duška",
+  "vitals": "b. 13 Jul 1926, Senné 12",
+  "proof": "documented",
+  "sources": [
+   "S-257"
+  ],
+  "relation": "Son in D-011-21.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-578",
+  "name": "Maria Dušková",
+  "vitals": "b. 18 Apr 1892, Senné; m. 22 Jan 1913; wife of Mikuláš Duška, Senné 11",
+  "proof": "documented",
+  "sources": [
+   "S-265"
+  ],
+  "relation": "D-011-29 (image held). Her husband is absent in 1930.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-579",
+  "name": "Anna Dušková",
+  "vitals": "b. 9 Nov 1921, Senné 11",
+  "proof": "documented",
+  "sources": [
+   "S-265"
+  ],
+  "relation": "Daughter of Mikuláš Duška (D-011-29).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-580",
+  "name": "Maria Dušková, widow",
+  "vitals": "b. 24 Dec 1869, Senné; m. 8 Jun 1910; widowed 24 Oct 1923; Senné 14",
+  "proof": "documented",
+  "sources": [
+   "S-266"
+  ],
+  "relation": "D-011-30. Her husband, a Duska, is not named.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-581",
+  "name": "Zuzana Dušková",
+  "vitals": "b. 3 Mar 1913, Senné 14",
+  "proof": "documented",
+  "sources": [
+   "S-266"
+  ],
+  "relation": "Daughter in D-011-30.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-582",
+  "name": "Ján Duška",
+  "vitals": "b. 5 [Apr] 1905, Senné; farm labourer, Senné 112; m. 14 Feb 1928 to Anna (b. 8 Oct 1909)",
+  "proof": "documented",
+  "sources": [
+   "S-261"
+  ],
+  "relation": "D-011-25 (image held). Probably the János baptised in 1905.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-583",
+  "name": "Zuzana Duška",
+  "vitals": "b. 12 Aug 1902; m. 16 Sep 1923; subtenant at Senné 112, husband absent",
+  "proof": "documented",
+  "sources": [
+   "S-261"
+  ],
+  "relation": "D-011-25.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-584",
+  "name": "Anna Dušková",
+  "vitals": "b. 5 May 1890; Greek Catholic; m. 22 Jan 1910; wife of Jozef Duška, Senné 73",
+  "proof": "documented",
+  "sources": [
+   "S-269"
+  ],
+  "relation": "D-011-33; the Anna Halahan of FG-59.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-585",
+  "name": "Anna Dušková",
+  "vitals": "b. 12 Feb 1921, Senné 73",
+  "proof": "documented",
+  "sources": [
+   "S-269"
+  ],
+  "relation": "Daughter of Jozef (D-011-33).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-586",
+  "name": "Ján Duška",
+  "vitals": "b. 19 Mar 1923, Senné 73",
+  "proof": "documented",
+  "sources": [
+   "S-269"
+  ],
+  "relation": "Son of Jozef (D-011-33).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-587",
+  "name": "Maria Dušková",
+  "vitals": "b. 5 Mar 1925, Senné 73",
+  "proof": "documented",
+  "sources": [
+   "S-269"
+  ],
+  "relation": "Daughter of Jozef (D-011-33).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-588",
+  "name": "Andrey Dzvonik",
+  "vitals": "b. about 1905, of Senné; arrived in Canada with the two Duskas; naturalised 24 Jan 1940",
+  "proof": "documented",
+  "sources": [
+   "S-272"
+  ],
+  "relation": "Line 2 of the passenger list D-006-19.",
+  "route": "duska",
+  "route_note": ""
  }
 ]
