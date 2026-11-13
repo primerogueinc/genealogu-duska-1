@@ -2012,6 +2012,22 @@
    "S-362",
    "S-363"
   ],
+  "committed_utc": "2026-11-12T22:17:06Z"
+ },
+ {
+  "id": "B-047",
+  "date": "2026-11-12",
+  "title": "Ledger v25: field notes; the burial books get their volume numbers",
+  "folder": null,
+  "files": 0,
+  "blurb": "No new files. Read ledger v25. It asks each agent for one thing: a page of field notes in the first person, with what it got right and wrong by its own records, its five best curiosities, a report card on every agent including itself, and an account of what it is like to work for the owner. It is in the repository as field-notes/001.md and will not be revised. The agent gives itself a B: the main question is answered on a record, and eighteen of its 81 hypotheses are refuted. The ledger also says the scoring has begun and that its results stay closed to the agents doing the rebuilding; none of it has been opened. Two things came in from the other agents. The Demko agent has read 41 of this repository's burial strips from the images: the two agree on thirty outright and on every file-name date that was set aside, and differ on five readings, which are now written side by side. One of them, whether the Ilona buried in [1836] was a wife of 33 or a child of 3, lowers the case for two men named György Demko from 75 to 65. The Places agent has matched the forms of the Iňačovce burial strips to the archive's four volumes, nos. 380 to 383 at Prešov, so each of the 46 strips of the last batch now carries its volume. Curiosities: 0",
+  "raised": [],
+  "resolved": [],
+  "revised": [
+   "H-076"
+  ],
+  "people_added": [],
+  "sources_added": [],
   "committed_utc": null
  }
 ]

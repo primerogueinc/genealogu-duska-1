@@ -918,6 +918,11 @@
     "batch": "B-046",
     "effect": "no change",
     "note": "For: a burial of June 1865 writes the father 'Michael Bodnar' with the mother Anna Krak, and one of [1873] shows the clerk striking out a surname and writing Krak for him. A wrinkle: Anna Krak's own burial in 1881 calls her the widow of Miklós Bodnár, not Mihály. One slip of a given name, or a second husband; it stays at the cap."
+   },
+   {
+    "batch": "B-047",
+    "effect": "no change",
+    "note": "The volumes that hold the burials of 1865, [1873] and 1881 are now named (L-026). The Miklós against Mihály wrinkle keeps it from solved."
    }
   ]
  },
@@ -2076,7 +2081,7 @@
  {
   "id": "H-076",
   "statement": "At least two men named György Demko headed families at Viszoka in the 1830s.",
-  "confidence": 75,
+  "confidence": 65,
   "basis": "Three women were buried as the wife of a György Demko: Barbara, 25, in [1831]; Ilona, 33, a serf's wife, in [1836]; Anna, 37, in [1842]. A György Demko and an Anna had children baptised in [1834] and [1838], so the husband Ilona left in [1836] was not that man. A child was baptised to a György Demko and a Mária in [1840], while an Anna was still alive. Against: every year here stands only in the owner's file names, and a wrong year on one strip would dissolve the overlap.",
   "test": "The page headers or years for the burials of [1836] and [1842]; marriage entries of 1831 to 1840; the house numbers.",
   "status": "open",
@@ -2088,6 +2093,11 @@
     "batch": "B-044",
     "effect": "raised at 75",
     "note": "First ruling."
+   },
+   {
+    "batch": "B-047",
+    "effect": "lowered from 75 to 65",
+    "note": "The Demko agent, reading the [1836] strip from the image, takes Ilona for a child of 3 [?] of György Demkó's wife, not a wife of 33 (DM→DU-014 @f1bbdcf). If so, one of the three wives goes. Two men still follow from a György with a wife Mária in [1840] while an Anna lived to [1842]. Its own figure for two men is 68 (DM-H-021)."
    }
   ],
   "route": "demko"
@@ -2107,6 +2117,11 @@
     "batch": "B-044",
     "effect": "raised at 60",
     "note": "First ruling."
+   },
+   {
+    "batch": "B-047",
+    "effect": "no change",
+    "note": "The Demko agent agrees that the strip carries no year and puts the death between 1876 and 1881 (DM-H-043, 65)."
    }
   ],
   "route": "demko"
@@ -2126,6 +2141,11 @@
     "batch": "B-044",
     "effect": "raised at 70",
     "note": "An X-031 finding: the form of the object contradicts the label's date."
+   },
+   {
+    "batch": "B-047",
+    "effect": "no change",
+    "note": "The Demko agent reads the page the same way from the image (DM-H-044, 70)."
    }
   ],
   "route": "demko"

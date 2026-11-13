@@ -16085,7 +16085,7 @@
     "no": "n/a",
     "date": "7 [September?] [1842]",
     "from": "Church burial register (original record, cropped strip)",
-    "abstract": "Anna, surname read with the owner as Pesotár but doubtful, wife of György Demko; aged 37, Greek Catholic, of Viszoka; died on the 7th of 'the dry disease' (consumption).",
+    "abstract": "Anna, surname read with the owner as Pesotár but doubtful, wife of György Demko; aged 37, Greek Catholic, of Viszoka; died on the 7th of 'the dry disease' (consumption). [Demko agent, DM→DU-014 @f1bbdcf, reads the age as 34 [?].]",
     "reading": "medium; low for her surname and the month"
    }
   ],
@@ -16330,7 +16330,7 @@
     "no": "n/a",
     "date": "14 [December?] [1836]",
     "from": "Church burial register (original record, cropped strip)",
-    "abstract": "Ilona, entered as 'Demkó Ilona' and as 'wife of György Demkó'; aged 33; Greek Catholic; a serf's wife; of Viszoka; died on the 14th; cause read doubtfully as worms. A short line written above the husband's name is not read.",
+    "abstract": "Ilona, entered as 'Demkó Ilona' and as 'wife of György Demkó'; aged 33; Greek Catholic; a serf's wife; of Viszoka; died on the 14th; cause read doubtfully as worms. A short line written above the husband's name is not read. [Demko agent, DM→DU-014 @f1bbdcf, reads a child of 3 [?], with 'her mother' written over 'her father' above 'Demko Györgyné'; this agent keeps a wife of 33 and marks it open.]",
     "reading": "medium; low for the month, the age and the cause"
    }
   ],
@@ -16508,7 +16508,7 @@
   "sha256": "c8ff3995c2914d904f0a734604deb74e8d6d81da070b719228ac0781db02a2bb",
   "wide": true,
   "title": "Burial of János, 2 weeks old, son of János Demkó, Viszoka 120, March [1878 or 1879]",
-  "span": "14 March [1878, by the file name; 1879 by the baptism strip]",
+  "span": "14 March 1879 (filed by the owner as 1878)",
   "language": "Hungarian",
   "collector_label": "Death of Janos Demko 1878",
   "family": "FG-02",
@@ -16526,7 +16526,7 @@
     "no": "11",
     "date": "14 March [1878, by the file name; 1879 by the baptism strip]",
     "from": "Church burial register (original record, cropped strip)",
-    "abstract": "János, whose father is János Demkó, farmer, of Viszoka 120; a boy of 2 weeks; died on 14 March of weakness; buried at Viszoka on 16 March. He is the János born on 2 March at Viszoka 120 whose baptism carries the note of this death (D-004). The owner files the baptism as 1879 and this burial as 1878; one of the two years is wrong.",
+    "abstract": "János, whose father is János Demkó, farmer, of Viszoka 120; a boy of 2 weeks; died on 14 March of weakness; buried at Viszoka on 16 March. He is the János born on 2 March at Viszoka 120 whose baptism carries the note of this death (D-004). The owner files the baptism as 1879 and this burial as 1878; one of the two years is wrong. [Demko agent, DM→DU-014 @f1bbdcf, dates it 1879 outright, because the baptism strip carries the death note with that year. Accepted.]",
     "reading": "high"
    }
   ],
@@ -16820,7 +16820,7 @@
     "no": "n/a",
     "date": "17 March [1837]",
     "from": "Church burial register (original record, cropped strip)",
-    "abstract": "Mihály Pihulics, child of Mihály Pihulics and Mária Demko; an infant, age read doubtfully as four months; Greek Catholic; of Viszoka; died on the 17th of 'Böjt más hava' (March) of fever.",
+    "abstract": "Mihály Pihulics, child of Mihály Pihulics and Mária Demko; an infant, age read doubtfully as four months; Greek Catholic; of Viszoka; died on the 17th of 'Böjt más hava' (March) of fever. [Demko agent, DM→DU-014 @f1bbdcf, reads February and four and a half years.]",
     "reading": "medium; low for the age"
    }
   ],
@@ -16858,10 +16858,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 382; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within leaves 83 to 141 (deaths 1861 to 1874); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -16908,10 +16908,10 @@
   "route": "demko",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 382; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within leaves 83 to 141 (deaths 1861 to 1874); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -16958,10 +16958,10 @@
   "route": "demko",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 383; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 215 to 295 (deaths from 1860); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17008,10 +17008,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 380; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 167 to 190 (deaths 1827 to 1831); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17058,10 +17058,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 381; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 154 to 255 (deaths 1831 to 1859); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17108,10 +17108,10 @@
   "route": "places",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 382; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within leaves 83 to 141 (deaths 1861 to 1874); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17158,10 +17158,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 381; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 154 to 255 (deaths 1831 to 1859); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17208,10 +17208,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 381; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 154 to 255 (deaths 1831 to 1859); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17258,10 +17258,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 381; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 154 to 255 (deaths 1831 to 1859); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17308,10 +17308,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 383; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 215 to 295 (deaths from 1860); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17359,10 +17359,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 382; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within leaves 83 to 141 (deaths 1861 to 1874); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17409,10 +17409,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 383; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 215 to 295 (deaths from 1860); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17459,10 +17459,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 381; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 154 to 255 (deaths 1831 to 1859); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17510,10 +17510,10 @@
   "route": "demko",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 383; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 215 to 295 (deaths from 1860); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17560,10 +17560,10 @@
   "route": "demko",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 381; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 154 to 255 (deaths 1831 to 1859); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17610,10 +17610,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 382; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within leaves 83 to 141 (deaths 1861 to 1874); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17660,10 +17660,10 @@
   "route": "demko",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 383; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 215 to 295 (deaths from 1860); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17710,10 +17710,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 381; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 154 to 255 (deaths 1831 to 1859); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17760,10 +17760,10 @@
   "route": "demko",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 383; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 215 to 295 (deaths from 1860); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17810,10 +17810,10 @@
   "route": "demko",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 383; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 215 to 295 (deaths from 1860); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17860,10 +17860,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 383; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 215 to 295 (deaths from 1860); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17910,10 +17910,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 381; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 154 to 255 (deaths 1831 to 1859); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17961,10 +17961,10 @@
   "route": "demko",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 382; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "leaf 106",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -17972,7 +17972,7 @@
     "no": "22",
     "date": "13 December 1864",
     "from": "Church burial register (original record, cropped strip)",
-    "abstract": "Joannes, son of Joannes, surname read doubtfully as Rusnak, and Susana Demko; Jesztreb, house 18; a youth of 19; nervous fever (typhus); he received the sacraments; died 13 December 1864; buried at Jesztreb by Josephus Danilovics, parish priest of Solymos. Page 106 of the volume. The owner files him as a Demko; Demko is his mother's name. In 1867 a Susana Demko is the wife of Joannes Szmeriga (D-013-71).",
+    "abstract": "Joannes, son of Joannes, surname read doubtfully as Rusnak, and Susana Demko; Jesztreb, house 18; a youth of 19; nervous fever (typhus); he received the sacraments; died 13 December 1864; buried at Jesztreb by Josephus Danilovics, parish priest of Solymos. Page 106 of the volume. The owner files him as a Demko; Demko is his mother's name. In 1867 a Susana Demko is the wife of Joannes Szmeriga (D-013-71). [Demko agent, DM→DU-014 @f1bbdcf: a Susana Demko is the wife of János Szmeriga in a baptism of 13 November [1864] at Jesztreb (DM-D-036), a month before this burial. Two women, or a by-name.]",
     "reading": "high; low for the father's surname"
    }
   ],
@@ -18011,10 +18011,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 380; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 167 to 190 (deaths 1827 to 1831); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18061,10 +18061,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 380; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 138 to 165 (deaths 1811 to 1826); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18111,10 +18111,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 380; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 138 to 165 (deaths 1811 to 1826); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18161,10 +18161,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 380; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 138 to 165 (deaths 1811 to 1826); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18211,10 +18211,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 382; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within leaves 83 to 141 (deaths 1861 to 1874); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18261,10 +18261,10 @@
   "route": "places",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 382; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within leaves 83 to 141 (deaths 1861 to 1874); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18311,10 +18311,10 @@
   "route": "demko",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 383; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 215 to 295 (deaths from 1860); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18361,10 +18361,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 380; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 167 to 190 (deaths 1827 to 1831); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18411,10 +18411,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 382; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within leaves 83 to 141 (deaths 1861 to 1874); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18461,10 +18461,10 @@
   "route": "demko",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 383; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 215 to 295 (deaths from 1860); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18484,14 +18484,14 @@
    }
   ],
   "object": {
-   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
-   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
-   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
-   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
-   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "kind": "A strip from a burial register on a hand-ruled two-page form, in Latin, 1876",
+   "form": "Columns across an opening as on the printed form, but ruled by hand and without printed headings: number; date, with the year written in the first entry of the year; name with the father and his state in one Latin phrase ('Joannis Kocsis inquil. Solymosensis filia'); place and house number; sex; age; cause; burial.",
+   "does_not_fit": "The cause on one of the two strips is written in Hungarian in a Latin entry.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017, L-026).",
    "compared": [
-    "D-005-18, a baptism page of the same parish with its printed header",
-    "L-017"
+    "D-005-18",
+    "L-026"
    ]
   }
  },
@@ -18511,10 +18511,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 381; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 154 to 255 (deaths 1831 to 1859); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18561,10 +18561,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 381; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 154 to 255 (deaths 1831 to 1859); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18611,10 +18611,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 380; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 138 to 165 (deaths 1811 to 1826); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18661,10 +18661,10 @@
   "route": "demko",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 383; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 215 to 295 (deaths from 1860); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18711,10 +18711,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 382; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within leaves 83 to 141 (deaths 1861 to 1874); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18761,10 +18761,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 382; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within leaves 83 to 141 (deaths 1861 to 1874); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18811,10 +18811,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 380; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 138 to 165 (deaths 1811 to 1826); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18861,10 +18861,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 383; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 215 to 295 (deaths from 1860); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18911,10 +18911,10 @@
   "route": "demko",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 383; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 215 to 295 (deaths from 1860); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -18961,10 +18961,10 @@
   "route": "demko",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 381; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 154 to 255 (deaths 1831 to 1859); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -19011,10 +19011,10 @@
   "route": "demko",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 382; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within leaves 83 to 141 (deaths 1861 to 1874); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -19022,7 +19022,7 @@
     "no": "7",
     "date": "28 February 1867",
     "from": "Church burial register (original record, cropped strip)",
-    "abstract": "Josephus, son of Joannes Szmeriga, Greek Catholic farmer, and Susana Demko; Jesztreb, house 15; a boy of 6; 'red pox' (measles); died 28 February 1867; buried 2 March by Josephus Danilovics, parish priest of Solymos. The owner's 'unknown Demko' is a Szmeriga; Demko is the mother's name.",
+    "abstract": "Josephus, son of Joannes Szmeriga, Greek Catholic farmer, and Susana Demko; Jesztreb, house 15; a boy of 6; 'red pox' (measles); died 28 February 1867; buried 2 March by Josephus Danilovics, parish priest of Solymos. The owner's 'unknown Demko' is a Szmeriga; Demko is the mother's name. [Demko agent, DM→DU-014 @f1bbdcf, reads house 19.]",
     "reading": "high"
    }
   ],
@@ -19061,10 +19061,10 @@
   "route": "duska",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 380; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 167 to 190 (deaths 1827 to 1831); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -19111,10 +19111,10 @@
   "route": "demko",
   "part": "Inacovce Greek Catholic",
   "provenance": {
-   "archive": "unknown",
-   "fond_or_film": "unknown",
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue of church registers (PL-N-041 @fc7360d)",
+   "fond_or_film": "Greek Catholic parish of Iňačovce, no. 383; microfilm 88",
    "book": "Burial register of the Greek Catholic parish of Solymos (Iňačovce): the printed pages of 1864 to 1867 and the entries of 1892 and 1894 name the burying priest as parish priest of Solymos. Volume numbers by the Places agent's note (L-017): Prešov state archive, church registers nos. 380 to 383; which volume holds which year is not established.",
-   "page_or_image": "unknown",
+   "page_or_image": "within pp. 215 to 295 (deaths from 1860); the strip's own page is not known",
    "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce Greek Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
   },
   "entries": [
@@ -19134,14 +19134,14 @@
    }
   ],
   "object": {
-   "kind": "A strip from a burial register on a printed Latin form headed 'Matricula Defunctorum', in use from 1864 to about 1875",
-   "form": "Printed headings across an opening: Numerus currens; Annus et dies obitus; Nomen et conditio defuncti item eius coniugis vel parentis; Locus originis et habitationis, numerus domus; Sexus; Aetas; Morbus sive aliud genus mortis; Fuitne provisus sacramentis moribundorum; Locus et dies sepulturae; Nomen sepelientis; Observationes. One strip shows the page number 106. The burying priest signs 'Josephus Danilovics Parochus Solymosiensis'.",
-   "does_not_fit": "Nothing. The form names the parish through its priest. Strips cut from lower down a page do not show the year.",
-   "made_by": "Josephus Danilovics, parish priest of Solymos, and his successors.",
-   "kept": "The parish, then the state archive at Prešov (L-017).",
+   "kind": "A strip from a burial register on a hand-ruled two-page form, in Latin, 1876",
+   "form": "Columns across an opening as on the printed form, but ruled by hand and without printed headings: number; date, with the year written in the first entry of the year; name with the father and his state in one Latin phrase ('Joannis Kocsis inquil. Solymosensis filia'); place and house number; sex; age; cause; burial.",
+   "does_not_fit": "The cause on one of the two strips is written in Hungarian in a Latin entry.",
+   "made_by": "The Greek Catholic parish priest of Solymos.",
+   "kept": "The parish, then the state archive at Prešov (L-017, L-026).",
    "compared": [
-    "D-005-18, a baptism page of the same parish with its printed header",
-    "L-017"
+    "D-005-18",
+    "L-026"
    ]
   }
  }

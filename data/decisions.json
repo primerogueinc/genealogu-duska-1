@@ -844,5 +844,23 @@
   "date": "2026-11-12",
   "decided": "Labels not followed: three strips filed as Duska read Dankó, Demko and a child of a Dusko mother; one filed as Demko reads Danko; two 'Demko' burials are children of a Demko mother; 'Anna Demko 1870' is of 1871 by her baptism; the 'E. Krak' is read Grigorij.",
   "why": "X-004."
+ },
+ {
+  "id": "DEC-142",
+  "date": "2026-11-12",
+  "decided": "Read ledger v25 (v23 and v24 were never read on their own). Acted on: X-032, field notes written as `field-notes/001.md`; X-011 as extended, the Scorer's repository, its feed file and the site's accuracy page are not opened. Adopted as rule 34.",
+  "why": "The ledger's change lists for v23 to v25."
+ },
+ {
+  "id": "DEC-143",
+  "date": "2026-11-12",
+  "decided": "The coordinator's own field notes were not opened before writing this agent's.",
+  "why": "The ledger offers them as an example of shape; the headings are in X-032, and a report card written after reading another's is not independent."
+ },
+ {
+  "id": "DEC-144",
+  "date": "2026-11-12",
+  "decided": "The Places agent's volume numbers for the Iňačovce burial books are written into the provenance of the 46 strips of B-046; two strips of 1876 are re-described as a hand-ruled Latin form, not the printed one.",
+  "why": "PL-N-041 @fc7360d; its question whether the printed form runs to 1875. It does not: the [1875] strip is in Hungarian and the printed form ends in 1874."
  }
 ]
