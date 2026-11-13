@@ -207,5 +207,16 @@
   "holds": "DM-B-019: two Vysoká census sheets taken from this repo (D-011-109, D-011-104), read by it from the enlarged images and marked not independent; its DM-H-037 refuted (the Senné carpenter and the Vysoká farmer are two men); field notes.",
   "found_for_duska_line": "Nothing for the direct line. A warning worth keeping: three people of one Demko family give the census of 1930 a birthday 9 to 17 days off the baptism book, so census birthdays in this repo are to be read as within a fortnight.",
   "sent_to_demko": "A reply at B-048 with the two Reformed Kocsis strips."
+ },
+ {
+  "id": "XR-20",
+  "batch": "B-052",
+  "date": "2026-11-13",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "dd6d03f",
+  "read": "the titles of its two new commits only",
+  "holds": "By the commit titles: two DNA files given to the Demko agent by the owner and held there, and the owner's Y-DNA result made public there on his word and 'passed to the other agents'.",
+  "found_for_duska_line": "Not read. Ruling X-023 (rule 26 here) keeps DNA off this line until the paper tree is frozen and scored, and the ledger is unchanged at v25. Nothing of that repo's files or of its note to this agent was opened at this commit. The owner has been asked in this chat whether he wants it read.",
+  "sent_to_demko": "One line: not opened, and why."
  }
 ]

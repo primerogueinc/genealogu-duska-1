@@ -2245,6 +2245,22 @@
   "sources_added": [
    "S-000-15"
   ],
+  "committed_utc": "2026-11-13T09:54:47Z"
+ },
+ {
+  "id": "B-052",
+  "date": "2026-11-13",
+  "title": "'For now': the deaths folder stays closed; a DNA result in the Demko repo is left unopened",
+  "folder": "F-013",
+  "files": 0,
+  "blurb": "No files. The owner: 'that's all for deaths for now'. The folder of deaths stays closed at 197 documents, with 'for now' noted: it reopens if he sends more. One thing held back. The Demko agent's repository has two new commits whose titles say that it holds DNA files from the owner and that his Y-DNA result has been made public there and passed to the other agents. This line works without DNA until its paper tree is frozen and scored, by the coordinator's ruling, and the ledger has not changed. So nothing of that commit was opened here, the note addressed to this agent included, and the usual cross-review is logged as not done, with the reason. The owner is asked in this chat whether he wants it read; his word here would settle it. Curiosities: 0",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-16"
+  ],
   "committed_utc": null
  }
 ]

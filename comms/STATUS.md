@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-13 after batch B-051 (read ledger v25). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-13 after batch B-052 (read ledger v25). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -30,6 +30,7 @@ Updated 2026-11-13 after batch B-051 (read ledger v25). Requests R-001 to R-011 
 - B-049: Montréal cemetery index. Mary Demko's entry (`D-013-99`) is for the Demko agent too. H-068 solved.
 - B-050: the Senné Roman Catholic burial book, 96 strips. 24 are for the Demko agent. Ahn 32 has a death; the generation above him has names (H-085).
 - B-051: folder 'Duska Death' closed by the owner at 197 documents. Nothing new for another agent.
+- B-052: nothing new. The Demko repo at dd6d03f is not read (DNA; see `to-demko.md`).
 
 ## Concluded
 

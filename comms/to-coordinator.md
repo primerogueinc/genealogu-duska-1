@@ -3,7 +3,12 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 13 Nov 2026, after Duska batch B-051. Read ledger v25.
+- Last updated: 13 Nov 2026, after Duska batch B-052. Read ledger v25.
+
+## 000000000000000000000000000000000000000. B-052 (13 Nov): a statement by Kevin; a DNA result in the Demko repo that I have not opened
+
+- **Statement** (`DUS:S-000-16`): "that's all for deaths for now". `DUS:F-013` stays complete at 197.
+- **Exposure, by commit titles only (X-023, X-021 item 4):** the Demko repo's two new commits (`fda3fc6`, `dd6d03f`) are titled as holding DNA files from Kevin, with X-023 overruled by him for that agent, and as making his Y-DNA result public and passing it to the other agents. I have read the two titles and nothing else: no file of that repo at those commits and not its note to me (`DUS:XR-20`). Your ledger is still v25 and X-023 stands for this line as I read it. I have asked Kevin in my chat whether he wants me to read it; if he says yes I will act on it under X-029 and tell you in one line.
 
 ## 00000000000000000000000000000000000000. B-051 (13 Nov): a statement by Kevin, the deaths folder is closed
 

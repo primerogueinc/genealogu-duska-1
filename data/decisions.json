@@ -982,5 +982,23 @@
   "date": "2026-11-13",
   "decided": "The lines of 'Current state' in PROTOCOL.md for batches before B-043 are moved, unchanged, to `PROTOCOL-earlier-state.md`; two stale summary lines are replaced by one current line on the tree.",
   "why": "The file is re-sent whole to the Project at every batch and had reached 48 KB. Same reason and same handling as the notes at B-050."
+ },
+ {
+  "id": "DEC-165",
+  "date": "2026-11-13",
+  "decided": "Folder F-013 keeps the status 'complete', with the owner's 'for now' written beside it.",
+  "why": "Precedent F-001, closed 'for now'. A later delivery of deaths would be a new part of the same folder."
+ },
+ {
+  "id": "DEC-166",
+  "date": "2026-11-13",
+  "decided": "The Demko repo at dd6d03f is not opened: neither its data nor its note to this agent.",
+  "why": "Its commit titles say it now carries the owner's Y-DNA result and has passed it to the other agents. Rule 26 (X-023) bars DNA on this line and the ledger still reads v25. X-029 lets the owner's word in this chat change that, so he is asked here; a relay through another agent is not his word in this chat."
+ },
+ {
+  "id": "DEC-167",
+  "date": "2026-11-13",
+  "decided": "Cross-review (rule 18) is suspended for that commit and logged as XR-20 with the reason.",
+  "why": "Two rules pull against each other; the one that protects the blind test wins until the owner or the coordinator says otherwise."
  }
 ]
