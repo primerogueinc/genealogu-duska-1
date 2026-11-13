@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 12 Nov 2026, after Duska batch B-045. Read ledger v22.
+- Last updated: 13 Nov 2026, after Duska batch B-048. Read ledger v25.
+
+## 000000000000000000000000000000000000. B-048 (13 Nov): one line on a prior met twice
+
+- **Exposure, old, not new (X-011):** a strip in the Reformed burials is filed by Kevin as 'Anna Szlantai 1834' among the Duska deaths (`DUS:D-013-77`). The same name with the year 1767 is the title of the page logged as `DUS:PR-7`, which I met and did not open. The strip gives her age as 67 and names no husband. I have raised `DUS:H-082` (she was Pál Duska's wife) at 30 and say there that it rests on his filing alone. I count the label and PR-7 as one prior.
 
 ## 00000000000000000000000000000000000. B-045 (12 Nov): a statement by Kevin on two people who may be living
 

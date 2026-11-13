@@ -983,5 +983,38 @@
   "translation": "carbuncle",
   "why": "A cause of death that points at the livestock.",
   "tone": "history"
+ },
+ {
+  "id": "C-106",
+  "doc": "D-013-80",
+  "source": "S-370",
+  "title": "An ordinary death",
+  "text": "Erzsébet Kocsis died at Solymos in November 1841 aged 72, and where the book wants a cause the minister wrote 'rendes halál': an ordinary death. The rows around hers are dropsy, dysentery and cough.",
+  "original": "Rendes halál",
+  "translation": "An ordinary death",
+  "why": "The only entry in 170 burial strips where the cause of death is that nothing in particular was wrong.",
+  "tone": "dry"
+ },
+ {
+  "id": "C-107",
+  "doc": "D-013-77",
+  "source": "S-367",
+  "title": "Sermons for the old, singing for the young",
+  "text": "The Reformed book of Solymos does not say who buried the dead but how. Adults went 'Tanítással', with a sermon; children 'Énekszóval', with singing. Borbála Plyuchta, 43, mother of six, got the sermon in January 1847; a six-month-old Susanna Duska got the singing in May.",
+  "original": "Tanítással / Énekszóval",
+  "translation": "With teaching / With song",
+  "why": "A column that sorts the dead by whether there was a life to preach about.",
+  "tone": "wry"
+ },
+ {
+  "id": "C-108",
+  "doc": "D-013-74",
+  "source": "S-364",
+  "title": "A baptism that is a burial",
+  "text": "The file is named as the baptism of János Duska, 1872. The row is a burial: András, six days old, 'son of János Dusko', dead of weakness on 14 November. The boy had been baptised on the 8th. The collector filed the father's name and the wrong sacrament.",
+  "original": "Dusko János fia András, 6 napos",
+  "translation": "András, son of János Dusko, six days old",
+  "why": "Six days hold both records of one life, and the label merges them.",
+  "tone": "sad"
  }
 ]

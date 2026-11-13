@@ -862,5 +862,35 @@
   "date": "2026-11-12",
   "decided": "The Places agent's volume numbers for the Iňačovce burial books are written into the provenance of the 46 strips of B-046; two strips of 1876 are re-described as a hand-ruled Latin form, not the printed one.",
   "why": "PL-N-041 @fc7360d; its question whether the printed form runs to 1875. It does not: the [1875] strip is in Hungarian and the printed form ends in 1874."
+ },
+ {
+  "id": "DEC-145",
+  "date": "2026-11-13",
+  "decided": "The two parts of the sub-folder 'Inacovce - Reform Catholic' are one batch.",
+  "why": "The owner marked the second part final for the sub-folder; precedent B-046."
+ },
+ {
+  "id": "DEC-146",
+  "date": "2026-11-13",
+  "decided": "A file whose name is already used in the folder is stored with a suffix for its sub-folder ('__Reform'); the owner's own file name is kept in the manifest and as the collector's label.",
+  "why": "The owner uses one naming pattern across sub-folders; two strips of different books now share a name."
+ },
+ {
+  "id": "DEC-147",
+  "date": "2026-11-13",
+  "decided": "The Reformed Duskas of Solymos are routed 'duska' and stay in this repo.",
+  "why": "Rule 30: we track Duskas. None is shown to be kin to the Roman Catholic line."
+ },
+ {
+  "id": "DEC-148",
+  "date": "2026-11-13",
+  "decided": "H-082 is raised from the owner's filing alone and held at 30.",
+  "why": "X-004: a label is a prior. It is written down so that it can be tested, not because the strip supports it."
+ },
+ {
+  "id": "DEC-149",
+  "date": "2026-11-13",
+  "decided": "The strip of 1918 is recorded with the surname unread.",
+  "why": "This agent cannot make the letters read Duska and will not copy the label into a reading."
  }
 ]

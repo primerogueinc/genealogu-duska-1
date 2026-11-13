@@ -1,7 +1,7 @@
 {
   "folder_id": "F-013",
   "desktop_path": "Duska Death",
-  "note": "Sub-folder 'Belza Kosice Greek Catholic', marked full by the owner: 9 image strips, received through chat upload on 12 Nov 2026. Sub-folder 'Cicarovce - Greek Catholic', sent in two parts and complete by the owner's words 'rest of folder': 18 image strips. Sub-folder 'Inacovce Greek Catholic', sent in four parts and marked final: 46 image strips.",
+  "note": "Sub-folder 'Belza Kosice Greek Catholic', marked full by the owner: 9 image strips, received through chat upload on 12 Nov 2026. Sub-folder 'Cicarovce - Greek Catholic', sent in two parts and complete by the owner's words 'rest of folder': 18 image strips. Sub-folder 'Inacovce Greek Catholic', sent in four parts and marked final: 46 image strips. Sub-folder 'Inacovce - Reform Catholic', sent in two parts and marked final for the sub-folder: 25 image strips.",
   "files": [
     {
       "file": "Death_of_Andras_Solsesz_Demko_1878.png",
@@ -659,6 +659,231 @@
       "received": "2026-11-12",
       "via": "chat upload",
       "part": "Inacovce Greek Catholic"
+    },
+    {
+      "file": "Baptism_of_Janos_Duska_1872.png",
+      "sha256": "ff01af92e077b0754bb1a87d7b5bbe9a9478a8c5dd36a092b1454207727aee87",
+      "bytes": 338493,
+      "pixels": "1575x130",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Andras_Duska_1854.png",
+      "sha256": "3c3b538aa14a510ee15deefd91d808c0320d3e1adffee66da1e7710573785e58",
+      "bytes": 334058,
+      "pixels": "1737x116",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Andras_Duska_1873.png",
+      "sha256": "7f4fb3c6370a498a6b2b355cc7afef94bb60c0446d13c78be1fa38b3533aa4cd",
+      "bytes": 527592,
+      "pixels": "1773x182",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Szlantai_1834.png",
+      "sha256": "b2adf9a04fe347b76e8577cebbab400be95e1f869dd96b4ac453fda3d7de52bc",
+      "bytes": 520227,
+      "pixels": "1693x169",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Borbala_Duska_1843.png",
+      "sha256": "fef26bf0ab25a38b1cd70e0a24177890dfa8ade920e4758a78272ed48292c925",
+      "bytes": 410934,
+      "pixels": "1735x135",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Borbala_Plyuchta_1847.png",
+      "sha256": "8da903e613bf71bdb4169be56f370af89cc52666486b85ee0019b8171a5acd49",
+      "bytes": 503728,
+      "pixels": "1791x170",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Erzebet_Kocsis_1841.png",
+      "sha256": "06a10e3d33406f7ac4d9c454f74202065fe0a6fe5dadbf5f1e02f0ada3d2a8de",
+      "bytes": 380518,
+      "pixels": "1668x124",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Gyorgy_Duska_1833.png",
+      "sha256": "5d8bacecd6cbadca1275bce770651f255a4cede1643bdbfe7786e94b03fff6f5",
+      "bytes": 334799,
+      "pixels": "1544x124",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Gyorgy_Duska_1883.png",
+      "sha256": "3cb960c300f3d1ce81366b4eaf923ca9f3fa8fe562b0e62e13fb29492b201b98",
+      "bytes": 330112,
+      "pixels": "1617x142",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Gyorgy_Duska_1918.png",
+      "sha256": "2e35e9ca2a344ca9a052fbb9c32f0202b7d2112b773f303ae3a7a69f2755b624",
+      "bytes": 356522,
+      "pixels": "1836x115",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Gyorgy_Duska_1926.png",
+      "sha256": "f8162425154a034964b8ab42caed2edc3c0a79951603255dffa354044711c5a6",
+      "bytes": 429930,
+      "pixels": "1696x159",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Janos_Duska_1847.png",
+      "sha256": "ee1a8a7f163bb4205f3199f41850e5c8f3ea4afac744bdba46519ce339edb289",
+      "bytes": 426340,
+      "pixels": "1833x134",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Unknown_Duska_1880.png",
+      "sha256": "e591c6f9c85aa355884d9ebfb09bd61b7275960abd33ce7e8d022a6ab02fd61a",
+      "bytes": 434541,
+      "pixels": "1737x154",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Janos_Duska_1873.png",
+      "sha256": "d39f28f4553358d10cf9e8ba729529120019c8d89ef74c227083d99ce1ad971c",
+      "bytes": 433194,
+      "pixels": "1536x168",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Janos_Duska_1875.png",
+      "sha256": "fca05d1d8cf9baf46b3c055bbc8ff283ded473ef0be7f65eb02ee5b6d233cc18",
+      "bytes": 490295,
+      "pixels": "1854x214",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Janos_Duska_1877.png",
+      "sha256": "68cf495b19b150dfde0fd1522ed08b0f570ea859e25f111ca4a8900a19e37dae",
+      "bytes": 285266,
+      "pixels": "1838x92",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Janos_Duska_1878.png",
+      "sha256": "6bb5c5dfe08f623ea87e475e3295fd006af566b63e977d49f2c9010b32b2a83a",
+      "bytes": 385474,
+      "pixels": "1893x136",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Janos_Duska_1883.png",
+      "sha256": "b829dfb4286ee7cc02ed157bd85238e9593737427bd74c4c242caaadefa5c98a",
+      "bytes": 506251,
+      "pixels": "1819x160",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Janos_Duska_1903.png",
+      "sha256": "dc11ae9abfd5c3055b350d31cfc561a30ba07a183f8971d88793900b1fa4e1ca",
+      "bytes": 342124,
+      "pixels": "1764x114",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Maria_Duska_1890.png",
+      "sha256": "c95cfb8775f361a23db9903e047900124f90568ad90cc19a6e4f32ef4449aaae",
+      "bytes": 403302,
+      "pixels": "1726x141",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Mihaily_Duska_1856.png",
+      "sha256": "b61b4aa225e405b32178cbd8ed7a9dcb0dc1d0149f9c1897e6a2408a403d19cc",
+      "bytes": 701268,
+      "pixels": "1579x258",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Mihaily_Kocsis_1883.png",
+      "sha256": "b487f5acd5bbd15dbc60e9a86309c49bed8fccf8ec915a29b754903a7006fd91",
+      "bytes": 389228,
+      "pixels": "1777x127",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Pal_Duska_1838_-_processed.png",
+      "sha256": "13c4622f9547eebbef18dce1ea88ce28049eb285ad976452ba11b6680999d5b5",
+      "bytes": 719732,
+      "pixels": "1685x243",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_S._Duska_1830.png",
+      "sha256": "730ab5d26723a463fee6c95b2337ccd693d6da15e4815fbaacf11f1e806a9ca1",
+      "bytes": 404247,
+      "pixels": "1464x143",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Susanna_Duska_1847.png",
+      "sha256": "2960e65f11d74204350e6b23fde8f25b52240881b931e46cc86143c437747f1e",
+      "bytes": 263603,
+      "pixels": "1695x92",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Inacovce - Reform Catholic"
     }
   ],
   "held": []

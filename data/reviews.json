@@ -196,5 +196,16 @@
   "holds": "DM-B-018: 41 of this repo's burial strips taken and read from the images.",
   "found_for_duska_line": "Nothing for the direct line. It agrees on 30 strips and on the four file-name dates set aside; it took four readings from this repo; five differences remain and are written beside this repo's readings on D-013-12, -17, -21, -27 and -71.",
   "sent_to_demko": "A reply at B-047."
+ },
+ {
+  "id": "XR-19",
+  "batch": "B-048",
+  "date": "2026-11-13",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "7ba8f08",
+  "read": "its note DM→DU-015",
+  "holds": "DM-B-019: two Vysoká census sheets taken from this repo (D-011-109, D-011-104), read by it from the enlarged images and marked not independent; its DM-H-037 refuted (the Senné carpenter and the Vysoká farmer are two men); field notes.",
+  "found_for_duska_line": "Nothing for the direct line. A warning worth keeping: three people of one Demko family give the census of 1930 a birthday 9 to 17 days off the baptism book, so census birthdays in this repo are to be read as within a fortnight.",
+  "sent_to_demko": "A reply at B-048 with the two Reformed Kocsis strips."
  }
 ]

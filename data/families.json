@@ -662,7 +662,7 @@
    "Mihály, b. 25 Jul [1840]",
    "Borbála, bapt. 20 May [1843]"
   ],
-  "note": "The earliest Duska household in the archive. Two daughters named Susanna, eight years apart: the first is presumed to have died (rule 20). The mother's surname is written Plyuksa; a Pluchta family stands godparent to the next generation. Census of [1869] (D-011-12): an András Duska, born 1797, Reformed, with a wife Erzsébet born 1816 (H-063).",
+  "note": "The earliest Duska household in the archive. Two daughters named Susanna, eight years apart: the first is presumed to have died (rule 20). The mother's surname is written Plyuksa; a Pluchta family stands godparent to the next generation. Census of [1869] (D-011-12): an András Duska, born 1797, Reformed, with a wife Erzsébet born 1816 (H-063). Burials (B-048): Susanna d. 8 Nov [1830] aged 1½; Borbála d. 26 Aug [1843]; the mother, Borbála Plyuchta, d. 9 Jan 1847 aged 43; András d. 1 Jun [1873] aged 78 at Solymos 34.",
   "route": "duska",
   "route_note": "",
   "documents": [
@@ -672,7 +672,11 @@
    "D-007-38",
    "D-007-39",
    "D-007-43",
-   "D-011-12"
+   "D-011-12",
+   "D-013-97",
+   "D-013-78",
+   "D-013-79",
+   "D-013-76"
   ]
  },
  {
@@ -687,7 +691,7 @@
    "János, b. 23 Aug [1852]",
    "György, b. 17 Jul 1857"
   ],
-  "note": "A second Duska couple of the same years as FG-34; János is not the János of 1834, who was seven in 1841. Two sons named János. Commoner in 1852, cottar in 1857. Census of [1869] (D-011-11): János born 1810, Anna born 1820, with sons Mihály (1850) and György (1857).",
+  "note": "A second Duska couple of the same years as FG-34; János is not the János of 1834, who was seven in 1841. Two sons named János. Commoner in 1852, cottar in 1857. Census of [1869] (D-011-11): János born 1810, Anna born 1820, with sons Mihály (1850) and György (1857). Burials (B-048): János d. 16 Sep [1855] aged 3, of cholera (house 30); the father János d. [Oct 1877] aged 70 (house 33); Anna Hura d. 10 Jun 1880 aged 60; György (b. 1857) d. 20 Oct 1926, his burial naming both parents. A Mihály Dusko, 'son of a farmer with a full holding', d. 25 May 1856 aged 2[9] at house 31; whose son is not stated.",
   "route": "duska",
   "route_note": "",
   "documents": [
@@ -695,7 +699,11 @@
    "D-007-16",
    "D-007-24",
    "D-007-25",
-   "D-011-11"
+   "D-011-11",
+   "D-013-94",
+   "D-013-89",
+   "D-013-86",
+   "D-013-84"
   ]
  },
  {
@@ -723,12 +731,13 @@
   "children": [
    "György, b. 10 Apr [1852]"
   ],
-  "note": "Either András of FG-34 with a second wife, nine years after his last child by Borbála, or a younger András. A change of mother is a second marriage until a second man is shown (rule 20). House 44 is a Duska house again in 189[3]. Census of [1869] (D-011-12): András Duska, born 1797, and Erzsébet, Roman Catholic, born 1816 at Szenna; the third party reads her surname as Szakács [?]. The György of [1852] is not in the household.",
+  "note": "Either András of FG-34 with a second wife, nine years after his last child by Borbála, or a younger András. A change of mother is a second marriage until a second man is shown (rule 20). House 44 is a Duska house again in 189[3]. Census of [1869] (D-011-12): András Duska, born 1797, and Erzsébet, Roman Catholic, born 1816 at Szenna; the third party reads her surname as Szakács [?]. The György of [1852] is not in the household. A son András, b. about 1850, d. 7 Apr [1854] at Solymos 34, both parents alive (B-048). House 34 is where András the father died in [1873].",
   "route": "duska",
   "route_note": "",
   "documents": [
    "D-007-15",
-   "D-011-12"
+   "D-011-12",
+   "D-013-75"
   ]
  },
  {
@@ -745,7 +754,7 @@
    "Zsuzsanna, b. 9 Oct [1873]",
    "György, b. 11 Apr 1876"
   ],
-  "note": "The godparents János Hressan and his wife stand at every baptism. Two sons named György. The father may be the János of [1834] (FG-34) or either János of FG-35. Census of [1869] (D-011-10): János born 1835, a servant, lodging as a second family in János Prada's dwelling, with Anna and Mihály (1867). The János of [1863] is absent.",
+  "note": "The godparents János Hressan and his wife stand at every baptism. Two sons named György. The father may be the János of [1834] (FG-34) or either János of FG-35. Census of [1869] (D-011-10): János born 1835, a servant, lodging as a second family in János Prada's dwelling, with Anna and Mihály (1867). The János of [1863] is absent. Burials (B-048): András d. 14 Nov [1872] at six days (house 23); György d. 27 Jul [1873] aged 3, of cholera; János d. 19 Jan 1878 aged 13, of smallpox (house 24). A János Duska, farmer, d. 26 Sep 1883 aged 44 at house 2[6] may be the father (H-083).",
   "route": "duska",
   "route_note": "",
   "documents": [
@@ -755,7 +764,11 @@
    "D-007-30",
    "D-007-41",
    "D-007-44",
-   "D-011-10"
+   "D-011-10",
+   "D-013-74",
+   "D-013-87",
+   "D-013-90",
+   "D-013-91"
   ]
  },
  {
@@ -769,13 +782,14 @@
    "Mihály, b. 24 Sep [1873]",
    "György, b. 10 Jan [1882]"
   ],
-  "note": "At house 33, where János Duska and Anna Hura lived in the 1850s. 'The younger' implies an older Mihály Duska alive in 1882. The Anna of [1871] may be the Reformed Anna Duska who is a mother at Solymos 43 in the Greek Catholic book in 1894.",
+  "note": "At house 33, where János Duska and Anna Hura lived in the 1850s. 'The younger' implies an older Mihály Duska alive in 1882. The Anna of [1871] may be the Reformed Anna Duska who is a mother at Solymos 43 in the Greek Catholic book in 1894. A son János, b. and d. June [1875] at Solymos 33 (B-048): the house of János Duska and Anna Hura, which makes Mihály their son in all likelihood (H-042).",
   "route": "duska",
   "route_note": "",
   "documents": [
    "D-007-05",
    "D-007-19",
-   "D-007-35"
+   "D-007-35",
+   "D-013-88"
   ]
  },
  {
@@ -788,12 +802,13 @@
    "György, b. 1 Feb 1883",
    "Zsuzsanna, b. 21 Apr [1888]"
   ],
-  "note": "The father may be the György of 1857 (FG-35), of [1852] (FG-37) or of 1847 (FG-36).",
+  "note": "The father may be the György of 1857 (FG-35), of [1852] (FG-37) or of 1847 (FG-36). György d. 7 Mar 1883 at one month (B-048).",
   "route": "duska",
   "route_note": "",
   "documents": [
    "D-007-20",
-   "D-007-28"
+   "D-007-28",
+   "D-013-82"
   ]
  },
  {
@@ -1359,6 +1374,22 @@
   "route": "duska",
   "documents": [
    "D-013-59"
+  ]
+ },
+ {
+  "id": "FG-66",
+  "husband": "János Duska, Reformed, of Solymos",
+  "wife": "Anna Fedor, b. about 1843 at Pályin, d. 11 Oct 1903 at Solymos",
+  "rite": "Reformed",
+  "homes": "Solymos (Iňačovce)",
+  "children": [
+   "Mária, b. about 1882, d. 19 Oct 1890"
+  ],
+  "note": "Known from two burials. Whether this János is the widower of Anna Kitko (FG-38) is H-083.",
+  "route": "duska",
+  "documents": [
+   "D-013-92",
+   "D-013-93"
   ]
  }
 ]

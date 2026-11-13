@@ -9897,7 +9897,7 @@
     "no": "n/a",
     "date": "1831 to 1841",
     "from": "Parish burial register, page image (original record), low resolution",
-    "abstract": "A two-page spread of a handwritten burial register with Hungarian headings: date of death and of burial, name, age in years, months and days, illness, and manner of burial. The surnames on it (Kenderes, Kudrócs, Knyezso, Dzvonyik, Kolyibás) are those of the Reformed baptisms of Solymos in folder F-007, so this is taken to be the Reformed burial book of the same place; the image carries no title. Two entries name the family. Under 1833, no. 3: György Dusko, buried 27 February, aged 29. Under 1838, no. 2: Pál Duska, buried in May, aged 68; the illness reads as dropsy (vízibetegség) and he was buried 'with a sermon' (tanítással). The image is small and the writing is at the limit of what it will bear: names and ages are read, days and causes are doubtful. Pál Duska, born about 1770, is the oldest person of the surname in the archive.",
+    "abstract": "A two-page spread of a handwritten burial register with Hungarian headings: date of death and of burial, name, age in years, months and days, illness, and manner of burial. The surnames on it (Kenderes, Kudrócs, Knyezso, Dzvonyik, Kolyibás) are those of the Reformed baptisms of Solymos in folder F-007, so this is taken to be the Reformed burial book of the same place; the image carries no title. Two entries name the family. Under 1833, no. 3: György Dusko, buried 27 February, aged 29. Under 1838, no. 2: Pál Duska, buried in May, aged 68; the illness reads as dropsy (vízibetegség) and he was buried 'with a sermon' (tanítással). The image is small and the writing is at the limit of what it will bear: names and ages are read, days and causes are doubtful. Pál Duska, born about 1770, is the oldest person of the surname in the archive. [B-048: the strips cut from this book give more. György Dusko died on 26 February [1833] of dropsy (D-013-81); Pál Duska died on 7 June 1838, not in May (D-013-96).]",
     "reading": "low"
    }
   ],
@@ -19142,6 +19142,1231 @@
    "compared": [
     "D-005-18",
     "L-026"
+   ]
+  }
+ },
+ {
+  "id": "D-013-74",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-364",
+  "file": "Baptism_of_Janos_Duska_1872.png",
+  "sha256": "ff01af92e077b0754bb1a87d7b5bbe9a9478a8c5dd36a092b1454207727aee87",
+  "wide": true,
+  "title": "Burial of András, six days old, son of János Dusko, Solymos 23, November [1872]; filed by the owner as a baptism",
+  "span": "14 November [1872]",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Janos Duska 1872",
+  "family": "FG-38",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "10",
+    "date": "14 November [1872]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "András, son of János Dusko; six days old; Solymos, house 23; of weakness; died 14 November, buried 16 November by Mihály Könyves. The owner's file name calls this a baptism of János Duska; it is a burial row, and János is the father. The child is the András born on 8 November [1872] to János Dusko and Anna Kitko.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "10 | Nov. 14. | Dusko János fia András | 6 napos | Solymos h.sz. 23. | gyengeségbe | Nov. 16. | Könyves Mih.",
+    "english": "András, son of János Dusko; six days old; Solymos, house 23; of weakness; died 14 November, buried 16 November by Mihály Könyves. The owner's file name calls this a baptism of János Duska; it is a burial row, and János is the father. The child is the András born on 8 November [1872] to János Dusko and Anna Kitko."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register on a two-page ruled form in Hungarian, 1872 to 1918",
+   "form": "Across an opening: number; date (from 1878 with the year in each entry); name, with a father or husband; sex and age; village and house number; cause; place and day of burial; from 1883 the manner ('Tanítással'); the burier: Mihály Könyves, schoolmaster, János Petrás, and from 1883 István Szakal, 'ev. ref. lelkész' (Reformed minister).",
+   "does_not_fit": "Nothing.",
+   "made_by": "The schoolmaster or minister who buried.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-75",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-365",
+  "file": "Death_of_Andras_Duska_1854.png",
+  "sha256": "3c3b538aa14a510ee15deefd91d808c0320d3e1adffee66da1e7710573785e58",
+  "wide": true,
+  "title": "Burial of András, aged 4, son of András Dusko, Solymos 34, April [1854]",
+  "span": "7 April [1854]",
+  "language": "Hungarian",
+  "collector_label": "Death of Andras Duska 1854",
+  "family": "FG-37",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "6",
+    "date": "7 April [1854]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "András, son of András Dusko; Solymos, house 34; a boy of 4; died 7 April, buried 9 April. Remarks: the father is a farmer with a full holding (telkes gazda) and both parents are alive. Born about 1850, so András the father had a living wife in 1850 and 1854, after Borbála Plyuchta's death in 1847 (H-063).",
+    "reading": "high; medium for the remarks"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "6. | April 7-én | Dusko András, András fia | Solymos No 34. | férfi | \" | 4 | - | April 9-én | Dő | Telkes g[azda]. Él mind [két] szülője",
+    "english": "András, son of András Dusko; Solymos, house 34; a boy of 4; died 7 April, buried 9 April. Remarks: the father is a farmer with a full holding (telkes gazda) and both parents are alive. Born about 1850, so András the father had a living wife in 1850 and 1854, after Borbála Plyuchta's death in 1847 (H-063)."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register on a page with handwritten Hungarian headings, 1854 to 1856",
+   "form": "Headings, read from the strip of 1856: running number; 'Éve és napja a meghalásnak' (year and day of death); 'Neve és polgári állása a megholtnak, vagy annak házastársának, vagy szülőjének' (name and state of the dead, or of the spouse or parent); 'Származásának vagy annak lakásának helye, száma a háznak' (place and house number); 'Neme' (sex); 'Életkora' (age); 'Betegség vagy más neme a halálnak' (cause); 'Helye és napja az eltemetésnek' (burial); 'Neve az eltemetőnek' (who buried); 'Észrevétel' (remarks). The remarks say whether the parents are alive and what the father's holding is.",
+   "does_not_fit": "Nothing. The year is a heading ('1856-ik évben'), so strips cut from below it show no year.",
+   "made_by": "János Petrás [reading doubtful], who signs as the burier.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-76",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-366",
+  "file": "Death_of_Andras_Duska_1873.png",
+  "sha256": "7f4fb3c6370a498a6b2b355cc7afef94bb60c0446d13c78be1fa38b3533aa4cd",
+  "wide": true,
+  "title": "Burial of András Dusko, aged 78, Solymos 34, June [1873]",
+  "span": "1 June [1873]",
+  "language": "Hungarian",
+  "collector_label": "Death of Andras Duska 1873",
+  "family": "FG-34",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "3",
+    "date": "1 June [1873]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "András Dusko, aged 78; Solymos, house 34; of old age; died 1 June, buried 3 June. Born about 1795. He is the András of the census, entered there as born in 1797, husband of Borbála Plyuchta and then of Erzsébet.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "3 | Junius 1. | Dusko András | 78 éves | Solymos h.sz. 34. | öregségben | Jun. 3. | Petrás János",
+    "english": "András Dusko, aged 78; Solymos, house 34; of old age; died 1 June, buried 3 June. Born about 1795. He is the András of the census, entered there as born in 1797, husband of Borbála Plyuchta and then of Erzsébet."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register on a two-page ruled form in Hungarian, 1872 to 1918",
+   "form": "Across an opening: number; date (from 1878 with the year in each entry); name, with a father or husband; sex and age; village and house number; cause; place and day of burial; from 1883 the manner ('Tanítással'); the burier: Mihály Könyves, schoolmaster, János Petrás, and from 1883 István Szakal, 'ev. ref. lelkész' (Reformed minister).",
+   "does_not_fit": "Nothing.",
+   "made_by": "The schoolmaster or minister who buried.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-77",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-367",
+  "file": "Death_of_Anna_Szlantai_1834.png",
+  "sha256": "b2adf9a04fe347b76e8577cebbab400be95e1f869dd96b4ac453fda3d7de52bc",
+  "wide": true,
+  "title": "Burial of Anna Szalontai, aged 67, Solymos, May [1834]; filed by the owner among the Duska deaths",
+  "span": "14 May [1834]",
+  "language": "Hungarian",
+  "collector_label": "Death of Anna Szlantai 1834",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "2",
+    "date": "14 May [1834]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna Szalontai, aged 67; died 14 May, buried 15 May with a sermon; cause 'dry sickness' (a wasting illness). Born about 1767. Nothing on the strip names a husband or a Duska. The owner files her among the Duska deaths, and the same name with the year 1767 was the title of a page this agent met and did not open (PR-7); both are one prior, his.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "2. | 14 Maj | 15 Maj | Szalon[t]ai Anna | 67 | - | - | Száraz betegség | Tanítással",
+    "english": "Anna Szalontai, aged 67; died 14 May, buried 15 May with a sermon; cause 'dry sickness' (a wasting illness). Born about 1767. Nothing on the strip names a husband or a Duska. The owner files her among the Duska deaths, and the same name with the year 1767 was the title of a page this agent met and did not open (PR-7); both are one prior, his."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register kept one line to a burial on a hand-ruled page, 1830 to 1847",
+   "form": "Columns without headings: number in the year; day of death; day of burial; name; age in years, months and days; cause, with the ending -ba or -be ('of'); how the dead was buried: 'Tanítással' (with a sermon) for adults, 'Énekszóval' or 'Énekelve' (with singing) for children. The year stands once, as a heading above its first entry.",
+   "does_not_fit": "The owner calls the sub-folder 'Reform Catholic'; the book is Reformed (Calvinist), which is not a Catholic church. No entry names a parent, a spouse or a house, so a child can be placed only by name and age.",
+   "made_by": "The Reformed minister or schoolmaster of Solymos.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-78",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-368",
+  "file": "Death_of_Borbala_Duska_1843.png",
+  "sha256": "fef26bf0ab25a38b1cd70e0a24177890dfa8ade920e4758a78272ed48292c925",
+  "wide": true,
+  "title": "Burial of Borbála Duska, an infant, Solymos, August [1843]",
+  "span": "26 August [1843]",
+  "language": "Hungarian",
+  "collector_label": "Death of Borbala Duska 1843",
+  "family": "FG-34",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "5",
+    "date": "26 August [1843]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Borbála Duska, aged [2] months and 7 days; died 26 August, buried 27 August with singing; cause read doubtfully as 'hurut' (catarrh). The months figure is written over. She is the Borbála baptised on 20 May [1843], daughter of András Duska and Borbála Plyuchta, which would make her three months old.",
+    "reading": "high; low for the months and the cause"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "5. | 26 Aug. | 27 Aug. | Duska Borbála | - | [2] | 7 | H[u]r[ut]ba [?] | Énekelve",
+    "english": "Borbála Duska, aged [2] months and 7 days; died 26 August, buried 27 August with singing; cause read doubtfully as 'hurut' (catarrh). The months figure is written over. She is the Borbála baptised on 20 May [1843], daughter of András Duska and Borbála Plyuchta, which would make her three months old."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register kept one line to a burial on a hand-ruled page, 1830 to 1847",
+   "form": "Columns without headings: number in the year; day of death; day of burial; name; age in years, months and days; cause, with the ending -ba or -be ('of'); how the dead was buried: 'Tanítással' (with a sermon) for adults, 'Énekszóval' or 'Énekelve' (with singing) for children. The year stands once, as a heading above its first entry.",
+   "does_not_fit": "The owner calls the sub-folder 'Reform Catholic'; the book is Reformed (Calvinist), which is not a Catholic church. No entry names a parent, a spouse or a house, so a child can be placed only by name and age.",
+   "made_by": "The Reformed minister or schoolmaster of Solymos.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-79",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-369",
+  "file": "Death_of_Borbala_Plyuchta_1847.png",
+  "sha256": "8da903e613bf71bdb4169be56f370af89cc52666486b85ee0019b8171a5acd49",
+  "wide": true,
+  "title": "Burial of Borbála Plyuchta, aged 43, Solymos, January 1847",
+  "span": "9 January 1847",
+  "language": "Hungarian",
+  "collector_label": "Death of Borbala Plyuchta 1847",
+  "family": "FG-34",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "1",
+    "date": "9 January 1847",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Borbála Plyuchta, aged 43; died 9 January 1847 of dropsy, buried 10 January with a sermon. The year is the heading above the entry. Born about 1804. She is entered under her own surname, as Reformed books do; she is the wife of András Duska and mother of his children of 1829 to 1843.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "1847 | 1. | 9 Jan | 10 Jan | Plyuchta Borbála | 43 | - | - | Vízi betegségbe | Tanítással",
+    "english": "Borbála Plyuchta, aged 43; died 9 January 1847 of dropsy, buried 10 January with a sermon. The year is the heading above the entry. Born about 1804. She is entered under her own surname, as Reformed books do; she is the wife of András Duska and mother of his children of 1829 to 1843."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register kept one line to a burial on a hand-ruled page, 1830 to 1847",
+   "form": "Columns without headings: number in the year; day of death; day of burial; name; age in years, months and days; cause, with the ending -ba or -be ('of'); how the dead was buried: 'Tanítással' (with a sermon) for adults, 'Énekszóval' or 'Énekelve' (with singing) for children. The year stands once, as a heading above its first entry.",
+   "does_not_fit": "The owner calls the sub-folder 'Reform Catholic'; the book is Reformed (Calvinist), which is not a Catholic church. No entry names a parent, a spouse or a house, so a child can be placed only by name and age.",
+   "made_by": "The Reformed minister or schoolmaster of Solymos.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-80",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-370",
+  "file": "Death_of_Erzebet_Kocsis_1841.png",
+  "sha256": "06a10e3d33406f7ac4d9c454f74202065fe0a6fe5dadbf5f1e02f0ada3d2a8de",
+  "wide": true,
+  "title": "Burial of Erzsébet Kocsis, aged 72, Solymos, November 1841",
+  "span": "13 November 1841",
+  "language": "Hungarian",
+  "collector_label": "Death of Erzebet Kocsis 1841",
+  "family": null,
+  "route": "demko",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "3",
+    "date": "13 November 1841",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Erzsébet Kocsis, aged 72; died 13 November 1841, buried 14 November with a sermon; cause 'rendes halál', an ordinary death. Born about 1769. Reformed, so not of the Greek Catholic Kocsis family unless she married out of it.",
+    "reading": "high; medium for the cause"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "1841 | 3. | 13 9bris | 14 9bris | Kocsis Ersébeth | 72 | - | - | Rendes halál | Tanítással",
+    "english": "Erzsébet Kocsis, aged 72; died 13 November 1841, buried 14 November with a sermon; cause 'rendes halál', an ordinary death. Born about 1769. Reformed, so not of the Greek Catholic Kocsis family unless she married out of it."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register kept one line to a burial on a hand-ruled page, 1830 to 1847",
+   "form": "Columns without headings: number in the year; day of death; day of burial; name; age in years, months and days; cause, with the ending -ba or -be ('of'); how the dead was buried: 'Tanítással' (with a sermon) for adults, 'Énekszóval' or 'Énekelve' (with singing) for children. The year stands once, as a heading above its first entry.",
+   "does_not_fit": "The owner calls the sub-folder 'Reform Catholic'; the book is Reformed (Calvinist), which is not a Catholic church. No entry names a parent, a spouse or a house, so a child can be placed only by name and age.",
+   "made_by": "The Reformed minister or schoolmaster of Solymos.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-81",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-371",
+  "file": "Death_of_Gyorgy_Duska_1833.png",
+  "sha256": "5d8bacecd6cbadca1275bce770651f255a4cede1643bdbfe7786e94b03fff6f5",
+  "wide": true,
+  "title": "Burial of György Dusko, aged 29, Solymos, February [1833]",
+  "span": "26 February [1833]",
+  "language": "Hungarian",
+  "collector_label": "Death of Gyorgy Duska 1833",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "3",
+    "date": "26 February [1833]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "György Dusko, aged 29; died 26 February of dropsy, buried 27 February with a sermon. The same entry as on the full page D-006-05, where only the burial day had been noted. Born about 1804.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "3. | 26 Febr | 27 Febr | Dusko György | 29 | - | - | Vízibetegség | Tanítással",
+    "english": "György Dusko, aged 29; died 26 February of dropsy, buried 27 February with a sermon. The same entry as on the full page D-006-05, where only the burial day had been noted. Born about 1804."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register kept one line to a burial on a hand-ruled page, 1830 to 1847",
+   "form": "Columns without headings: number in the year; day of death; day of burial; name; age in years, months and days; cause, with the ending -ba or -be ('of'); how the dead was buried: 'Tanítással' (with a sermon) for adults, 'Énekszóval' or 'Énekelve' (with singing) for children. The year stands once, as a heading above its first entry.",
+   "does_not_fit": "The owner calls the sub-folder 'Reform Catholic'; the book is Reformed (Calvinist), which is not a Catholic church. No entry names a parent, a spouse or a house, so a child can be placed only by name and age.",
+   "made_by": "The Reformed minister or schoolmaster of Solymos.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-82",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-372",
+  "file": "Death_of_Gyorgy_Duska_1883.png",
+  "sha256": "3cb960c300f3d1ce81366b4eaf923ca9f3fa8fe562b0e62e13fb29492b201b98",
+  "wide": true,
+  "title": "Burial of György, one month old, son of György Duska and Zsuzsanna Va[lyo]csik, Solymos, 7 March 1883",
+  "span": "7 March 1883",
+  "language": "Hungarian",
+  "collector_label": "Death of Gyorgy Duska 1883",
+  "family": "FG-40",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "1",
+    "date": "7 March 1883",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "György, son of György Duska, farmer, and Zsuzsanna Va[lyo]csik; Solymos; one month old; a cough; died 7 March 1883, buried 9 March by Mihály Könyves, schoolmaster. He is the György born on 1 February 1883.",
+    "reading": "high; medium for the mother's surname"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "1 | 1883 Márcz. 7. | Duska György, Duska György földmíves és Va[lyo]csik Zsuzsanna fia | Solymos | 1 | - | 1 hó | köhögés | Solymos márcz. 9. | Könyves Mihály tanító",
+    "english": "György, son of György Duska, farmer, and Zsuzsanna Va[lyo]csik; Solymos; one month old; a cough; died 7 March 1883, buried 9 March by Mihály Könyves, schoolmaster. He is the György born on 1 February 1883."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register on a two-page ruled form in Hungarian, 1872 to 1918",
+   "form": "Across an opening: number; date (from 1878 with the year in each entry); name, with a father or husband; sex and age; village and house number; cause; place and day of burial; from 1883 the manner ('Tanítással'); the burier: Mihály Könyves, schoolmaster, János Petrás, and from 1883 István Szakal, 'ev. ref. lelkész' (Reformed minister).",
+   "does_not_fit": "Nothing.",
+   "made_by": "The schoolmaster or minister who buried.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-83",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-373",
+  "file": "Death_of_Gyorgy_Duska_1918.png",
+  "sha256": "2e35e9ca2a344ca9a052fbb9c32f0202b7d2112b773f303ae3a7a69f2755b624",
+  "wide": true,
+  "title": "Burial of a farmer named György, aged 41, Solymos, 11 July 1918; the surname is doubtful",
+  "span": "11 July 1918",
+  "language": "Hungarian",
+  "collector_label": "Death of Gyorgy Duska 1918",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "3",
+    "date": "11 July 1918",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "A farmer named György, husband of Erzsébet Tom[…]; Solymos; aged 41; consumption; died 11 July 1918, buried 13 July by István Szakal. The owner reads the surname as Duska. This agent reads five letters that begin with a K or an R and end in -as, and cannot make them Duska; the capital D of the next row is formed differently. If he is a Duska, the György born on 11 April 1876 to János Dusko and Anna Kitko is of the right age within a year.",
+    "reading": "low for the surname and the wife; high for the rest"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "3 | 1918 Jul. 11 | [K]u[t]as [?] György, Tom[…]ulya Erzsébet férje, földmíves | Solymos | 1 | - | 41 | tüdővész | Jul. 13. | Szakal István",
+    "english": "A farmer named György, husband of Erzsébet Tom[…]; Solymos; aged 41; consumption; died 11 July 1918, buried 13 July by István Szakal. The owner reads the surname as Duska. This agent reads five letters that begin with a K or an R and end in -as, and cannot make them Duska; the capital D of the next row is formed differently. If he is a Duska, the György born on 11 April 1876 to János Dusko and Anna Kitko is of the right age within a year."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register on a two-page ruled form in Hungarian, 1872 to 1918",
+   "form": "Across an opening: number; date (from 1878 with the year in each entry); name, with a father or husband; sex and age; village and house number; cause; place and day of burial; from 1883 the manner ('Tanítással'); the burier: Mihály Könyves, schoolmaster, János Petrás, and from 1883 István Szakal, 'ev. ref. lelkész' (Reformed minister).",
+   "does_not_fit": "Nothing.",
+   "made_by": "The schoolmaster or minister who buried.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-84",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-374",
+  "file": "Death_of_Gyorgy_Duska_1926.png",
+  "sha256": "f8162425154a034964b8ab42caed2edc3c0a79951603255dffa354044711c5a6",
+  "wide": true,
+  "title": "Burial of Juraj Duska, farmer, aged 70, son of Ján Duska and Anna Hura, Iňačovce, 20 October 1926",
+  "span": "20 October 1926",
+  "language": "Slovak",
+  "collector_label": "Death of Gyorgy Duska 1926",
+  "family": "FG-35",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "3",
+    "date": "20 October 1926",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Juraj (György) Duska, farmer, son of Ján Duska and Anna Hura; Iňačovce; aged 70; rheumatism; died 20 October 1926, buried 21 October with prayer and sermon by Štefan Szakal. He is the György born on 17 July 1857, who was 69. A burial that names both parents of a man of seventy; no wife is named.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "3 | 20 okt. 1926 | Juraj Duska, syn Jána Dušky a Anny Hura, roľník | Inačovce | 1 | - | 70 | Reuma | Inačovce 21 okt. | modlitba, kázanie | Štefan Szakal",
+    "english": "Juraj (György) Duska, farmer, son of Ján Duska and Anna Hura; Iňačovce; aged 70; rheumatism; died 20 October 1926, buried 21 October with prayer and sermon by Štefan Szakal. He is the György born on 17 July 1857, who was 69. A burial that names both parents of a man of seventy; no wife is named."
+   }
+  ],
+  "object": {
+   "kind": "A strip from the same Reformed burial register, kept in Slovak, 1926",
+   "form": "The same two-page form, filled in Slovak: number; date; name with parents and occupation; village; sex; age; cause; burial place and day; the service ('modlitba, kázanie': prayer, sermon); the minister, Štefan Szakal.",
+   "does_not_fit": "Nothing. The minister of 1883 to 1918, István Szakal, signs as Štefan in the new state's language.",
+   "made_by": "Štefan (István) Szakal, Reformed minister.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-85",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-375",
+  "file": "Death_of_Janos_Duska_1847.png",
+  "sha256": "ee1a8a7f163bb4205f3199f41850e5c8f3ea4afac744bdba46519ce339edb289",
+  "wide": true,
+  "title": "Burial of János Duska, aged 1, Solymos, August [1847]",
+  "span": "15 August [1847]",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Duska 1847",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "6",
+    "date": "15 August [1847]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "János Duska, aged 1; died 15 August, buried 16 August with singing; cause read as 'dry sickness'. No parent is named. Born about 1846. The János baptised on 8 June [1844] to János Duska and Anna Hura would be three, so either the bracketed year of that baptism is two years out or this is another child.",
+    "reading": "high; medium for the cause"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "6. | 15 Aug. | 16 Aug. | Duska János | 1. | \" | \" | [S]záraz betegség | Énekelve",
+    "english": "János Duska, aged 1; died 15 August, buried 16 August with singing; cause read as 'dry sickness'. No parent is named. Born about 1846. The János baptised on 8 June [1844] to János Duska and Anna Hura would be three, so either the bracketed year of that baptism is two years out or this is another child."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register kept one line to a burial on a hand-ruled page, 1830 to 1847",
+   "form": "Columns without headings: number in the year; day of death; day of burial; name; age in years, months and days; cause, with the ending -ba or -be ('of'); how the dead was buried: 'Tanítással' (with a sermon) for adults, 'Énekszóval' or 'Énekelve' (with singing) for children. The year stands once, as a heading above its first entry.",
+   "does_not_fit": "The owner calls the sub-folder 'Reform Catholic'; the book is Reformed (Calvinist), which is not a Catholic church. No entry names a parent, a spouse or a house, so a child can be placed only by name and age.",
+   "made_by": "The Reformed minister or schoolmaster of Solymos.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-86",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-376",
+  "file": "Death_of_Unknown_Duska_1880.png",
+  "sha256": "e591c6f9c85aa355884d9ebfb09bd61b7275960abd33ce7e8d022a6ab02fd61a",
+  "wide": true,
+  "title": "Burial of Anna Hura, widow of János Duska, aged 60, Solymos, 10 June 1880",
+  "span": "10 June 1880",
+  "language": "Hungarian",
+  "collector_label": "Death of Unknown Duska 1880",
+  "family": "FG-35",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "7",
+    "date": "10 June 1880",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna Hura, widow of János Duska; Solymos; aged 60; 'a long ailing'; died 10 June 1880, buried 12 June. Born about 1820. The owner's 'Unknown Duska' is the mother of the Solymos 33 household.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "7 | 1880 Jun. 10 | özv. Duska Jánosné sz. Hura Anna | Solymos | - | 1 | 60 év | hosszas gyengélkedés | Jun. 12.",
+    "english": "Anna Hura, widow of János Duska; Solymos; aged 60; 'a long ailing'; died 10 June 1880, buried 12 June. Born about 1820. The owner's 'Unknown Duska' is the mother of the Solymos 33 household."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register on a two-page ruled form in Hungarian, 1872 to 1918",
+   "form": "Across an opening: number; date (from 1878 with the year in each entry); name, with a father or husband; sex and age; village and house number; cause; place and day of burial; from 1883 the manner ('Tanítással'); the burier: Mihály Könyves, schoolmaster, János Petrás, and from 1883 István Szakal, 'ev. ref. lelkész' (Reformed minister).",
+   "does_not_fit": "Nothing.",
+   "made_by": "The schoolmaster or minister who buried.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-87",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-377",
+  "file": "Death_of_Janos_Duska_1873.png",
+  "sha256": "d39f28f4553358d10cf9e8ba729529120019c8d89ef74c227083d99ce1ad971c",
+  "wide": true,
+  "title": "Burial of György, aged 3, son of János Duska, Solymos, in the cholera of July [1873]; filed as János",
+  "span": "27 July [1873]",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Duska 1873",
+  "family": "FG-38",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "6",
+    "date": "27 July [1873]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "György, son of János Duska; aged 3; Solymos; of cholera; died 27 July, buried 29 July. The rows beside it are cholera too. He is the György born on 17 July [1870] to János Dusko and Anna Kitko; the couple named another son György in 1876. The owner's file name gives the father's name.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "6 | Julius 27. | Duska János fia György | 3 éves | Solymos | kolerába | Julius 29.",
+    "english": "György, son of János Duska; aged 3; Solymos; of cholera; died 27 July, buried 29 July. The rows beside it are cholera too. He is the György born on 17 July [1870] to János Dusko and Anna Kitko; the couple named another son György in 1876. The owner's file name gives the father's name."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register on a two-page ruled form in Hungarian, 1872 to 1918",
+   "form": "Across an opening: number; date (from 1878 with the year in each entry); name, with a father or husband; sex and age; village and house number; cause; place and day of burial; from 1883 the manner ('Tanítással'); the burier: Mihály Könyves, schoolmaster, János Petrás, and from 1883 István Szakal, 'ev. ref. lelkész' (Reformed minister).",
+   "does_not_fit": "Nothing.",
+   "made_by": "The schoolmaster or minister who buried.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-88",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-378",
+  "file": "Death_of_Janos_Duska_1875.png",
+  "sha256": "fca05d1d8cf9baf46b3c055bbc8ff283ded473ef0be7f65eb02ee5b6d233cc18",
+  "wide": true,
+  "title": "Burial of János, two weeks old, son of Mihály Duska, Solymos 33, June [1875]",
+  "span": "17 June [1875]",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Duska 1875",
+  "family": "FG-39",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "5",
+    "date": "17 June [1875]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "János, son of Mihály Duska; two weeks old; Solymos, house 33; of weakness; died 17 June, buried 19 June. The clerk first wrote the father as János, struck it out and wrote Mihály. A child of Mihály Dusko and Ilona Mihalko not among the baptism strips, born in the house where old János Duska died two years later.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "5 | Junius 17. | Duska [János, struck out] Mihály fia János | 2 hetes | Solymos h.sz. 33. | gyengeségbe | Junius 19. | Könyves Mihály",
+    "english": "János, son of Mihály Duska; two weeks old; Solymos, house 33; of weakness; died 17 June, buried 19 June. The clerk first wrote the father as János, struck it out and wrote Mihály. A child of Mihály Dusko and Ilona Mihalko not among the baptism strips, born in the house where old János Duska died two years later."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register on a two-page ruled form in Hungarian, 1872 to 1918",
+   "form": "Across an opening: number; date (from 1878 with the year in each entry); name, with a father or husband; sex and age; village and house number; cause; place and day of burial; from 1883 the manner ('Tanítással'); the burier: Mihály Könyves, schoolmaster, János Petrás, and from 1883 István Szakal, 'ev. ref. lelkész' (Reformed minister).",
+   "does_not_fit": "Nothing.",
+   "made_by": "The schoolmaster or minister who buried.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-89",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-379",
+  "file": "Death_of_Janos_Duska_1877.png",
+  "sha256": "68cf495b19b150dfde0fd1522ed08b0f570ea859e25f111ca4a8900a19e37dae",
+  "wide": true,
+  "title": "Burial of János Duska, aged 70, Solymos 33, [October 1877]",
+  "span": "[October 1877]",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Duska 1877",
+  "family": "FG-35",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "10",
+    "date": "[October 1877]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "János Duska, aged 70; Solymos, house 33; of old age; buried by János Petrás. The date cell is cut off; the row above is October. Born about 1807 (1810 by the census). Husband of Anna Hura, who died a widow in 1880.",
+    "reading": "high; the day is not on the strip"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "10 | [the row above: October] | Duska János | 1 | - | 70 éves | Solymos h.sz. 33 | öregségben | Solymos | Petrás János",
+    "english": "János Duska, aged 70; Solymos, house 33; of old age; buried by János Petrás. The date cell is cut off; the row above is October. Born about 1807 (1810 by the census). Husband of Anna Hura, who died a widow in 1880."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register on a two-page ruled form in Hungarian, 1872 to 1918",
+   "form": "Across an opening: number; date (from 1878 with the year in each entry); name, with a father or husband; sex and age; village and house number; cause; place and day of burial; from 1883 the manner ('Tanítással'); the burier: Mihály Könyves, schoolmaster, János Petrás, and from 1883 István Szakal, 'ev. ref. lelkész' (Reformed minister).",
+   "does_not_fit": "Nothing.",
+   "made_by": "The schoolmaster or minister who buried.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-90",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-380",
+  "file": "Death_of_Janos_Duska_1878.png",
+  "sha256": "6bb5c5dfe08f623ea87e475e3295fd006af566b63e977d49f2c9010b32b2a83a",
+  "wide": true,
+  "title": "Burial of János Duska, aged 13, Solymos 24, of smallpox, 19 January 1878",
+  "span": "19 January 1878",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Duska 1878",
+  "family": "FG-38",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "1",
+    "date": "19 January 1878",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "János Duska, aged 13; Solymos, house 24; of smallpox; died 19 January 1878, buried 21 January. No parent is named. House 24 is that of János Dusko and Anna Kitko, whose son János was born on 1 November [1863]; he would be 14.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "1878 | 1 | Januar 19. | Duska János | 13 éves | Solymos h.sz. 24. | himlőbe | Januar 21.",
+    "english": "János Duska, aged 13; Solymos, house 24; of smallpox; died 19 January 1878, buried 21 January. No parent is named. House 24 is that of János Dusko and Anna Kitko, whose son János was born on 1 November [1863]; he would be 14."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register on a two-page ruled form in Hungarian, 1872 to 1918",
+   "form": "Across an opening: number; date (from 1878 with the year in each entry); name, with a father or husband; sex and age; village and house number; cause; place and day of burial; from 1883 the manner ('Tanítással'); the burier: Mihály Könyves, schoolmaster, János Petrás, and from 1883 István Szakal, 'ev. ref. lelkész' (Reformed minister).",
+   "does_not_fit": "Nothing.",
+   "made_by": "The schoolmaster or minister who buried.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-91",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-381",
+  "file": "Death_of_Janos_Duska_1883.png",
+  "sha256": "b829dfb4286ee7cc02ed157bd85238e9593737427bd74c4c242caaadefa5c98a",
+  "wide": true,
+  "title": "Burial of János Duska, farmer, aged 44, Solymos 26, 26 September 1883",
+  "span": "26 September 1883",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Duska 1883",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "7",
+    "date": "26 September 1883",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "János Duska, farmer; Solymos, house 2[6]; aged 44; 'nehézkór' (the falling sickness, epilepsy); died 26 September 1883, buried 28 September with a sermon by István Szakal, Reformed minister. Born about 1839. No wife or parent is named. He is of an age to be the husband of Anna Kitko (children 1863 to 1876, houses 23 to 34) and of Anna Fedor (H-083).",
+    "reading": "high; medium for the house number"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "7 | 1883 szept. 26 | Duska János gazda | Solymos 2[6] h. | 1 | - | 44 | Nehézkór | Solymos szept. 28. | Tanítással | Szakal István ev. ref. lelkész",
+    "english": "János Duska, farmer; Solymos, house 2[6]; aged 44; 'nehézkór' (the falling sickness, epilepsy); died 26 September 1883, buried 28 September with a sermon by István Szakal, Reformed minister. Born about 1839. No wife or parent is named. He is of an age to be the husband of Anna Kitko (children 1863 to 1876, houses 23 to 34) and of Anna Fedor (H-083)."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register on a two-page ruled form in Hungarian, 1872 to 1918",
+   "form": "Across an opening: number; date (from 1878 with the year in each entry); name, with a father or husband; sex and age; village and house number; cause; place and day of burial; from 1883 the manner ('Tanítással'); the burier: Mihály Könyves, schoolmaster, János Petrás, and from 1883 István Szakal, 'ev. ref. lelkész' (Reformed minister).",
+   "does_not_fit": "Nothing.",
+   "made_by": "The schoolmaster or minister who buried.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-92",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-382",
+  "file": "Death_of_Janos_Duska_1903.png",
+  "sha256": "dc11ae9abfd5c3055b350d31cfc561a30ba07a183f8971d88793900b1fa4e1ca",
+  "wide": true,
+  "title": "Burial of Anna Fedor, wife of János Duska, born at Pályin, aged 60, Solymos, 11 October 1903; filed as János",
+  "span": "11 October 1903",
+  "language": "Hungarian",
+  "collector_label": "Death of Janos Duska 1903",
+  "family": "FG-66",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "3",
+    "date": "11 October 1903",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Anna [F]edor, wife of János Duska, farm woman; born at Pályin, of Solymos; aged 60; pneumonia; died 11 October 1903, buried 14 October. Born about 1843. She is not called a widow. The owner's file name gives the husband.",
+    "reading": "high; medium for the maiden name"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "3 | 1903 okt. 11 | Duska Jánosné sz. [F]edor Anna, földmíves | Pályin; Solymos | - | 1 | 60 | tüdőgyuladás | okt. 14. | Tanítással | Szakal István",
+    "english": "Anna [F]edor, wife of János Duska, farm woman; born at Pályin, of Solymos; aged 60; pneumonia; died 11 October 1903, buried 14 October. Born about 1843. She is not called a widow. The owner's file name gives the husband."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register on a two-page ruled form in Hungarian, 1872 to 1918",
+   "form": "Across an opening: number; date (from 1878 with the year in each entry); name, with a father or husband; sex and age; village and house number; cause; place and day of burial; from 1883 the manner ('Tanítással'); the burier: Mihály Könyves, schoolmaster, János Petrás, and from 1883 István Szakal, 'ev. ref. lelkész' (Reformed minister).",
+   "does_not_fit": "Nothing.",
+   "made_by": "The schoolmaster or minister who buried.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-93",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-383",
+  "file": "Death_of_Maria_Duska_1890.png",
+  "sha256": "c95cfb8775f361a23db9903e047900124f90568ad90cc19a6e4f32ef4449aaae",
+  "wide": true,
+  "title": "Burial of Mária Duska, aged 8, daughter of János Duska and Anna Fedor, Solymos, 19 October 1890",
+  "span": "19 October 1890",
+  "language": "Hungarian",
+  "collector_label": "Death of Maria Duska 1890",
+  "family": "FG-66",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "4",
+    "date": "19 October 1890",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Mária Duska, daughter of János Duska and Anna [F]edor; Solymos; aged 8; cause read doubtfully as diphtheria; died 19 October 1890, buried 21 October. Born about 1882.",
+    "reading": "high; low for the cause"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "4 | 1890 okt. 19 | Duska Mária, Duska János, [F]edor Anna leánya | Solymos | - | 1 | 8 | [torokgyík?] | okt. 21.",
+    "english": "Mária Duska, daughter of János Duska and Anna [F]edor; Solymos; aged 8; cause read doubtfully as diphtheria; died 19 October 1890, buried 21 October. Born about 1882."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register on a two-page ruled form in Hungarian, 1872 to 1918",
+   "form": "Across an opening: number; date (from 1878 with the year in each entry); name, with a father or husband; sex and age; village and house number; cause; place and day of burial; from 1883 the manner ('Tanítással'); the burier: Mihály Könyves, schoolmaster, János Petrás, and from 1883 István Szakal, 'ev. ref. lelkész' (Reformed minister).",
+   "does_not_fit": "Nothing.",
+   "made_by": "The schoolmaster or minister who buried.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-94",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-384",
+  "file": "Death_of_Mihaily_Duska_1856.png",
+  "sha256": "b61b4aa225e405b32178cbd8ed7a9dcb0dc1d0149f9c1897e6a2408a403d19cc",
+  "wide": true,
+  "title": "Two burials with the page's headings: János Dusko, aged 3, of cholera, Solymos 30, September [1855], and Mihály Dusko, aged 2[9], Solymos 31, 25 May 1856",
+  "span": "16 September [1855] and 25 May 1856",
+  "language": "Hungarian",
+  "collector_label": "Death of Mihaily Duska 1856",
+  "family": "FG-35",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "8; 3",
+    "date": "16 September [1855] and 25 May 1856",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Two rows and the headings of the form. (1) János Dusko, of a farmer's family with a full holding; Solymos, house 30; a boy of 3; cholera; died 16 September, buried 17 September; both parents alive. The year is the one before the heading '1856', so 1855. He fits the János born on 23 August [1852] to János Duska and Anna Hura, who named another son György in 1857. (2) Mihály Dusko; house 31; aged 2[9], the figure written over; stomach cramp; died 25 May 1856, buried 27 May; 'son of a farmer with a full holding'. A grown son, unmarried by the wording, born about 1827 if the age is 29. He is not the Mihály baptised in [1840].",
+    "reading": "high; low for Mihály's age"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "8. | 16-án Sept. | Dusko János, Telkes | Solymos 30 sz. | férfi | \" | 3. | cholera | Solymos Sept. 17. | Petrás János | Él [mind két] szülője || 1856-ik évben || 3 | Május 25-én | Dusko Mihály | Dő 31. szám | férfi | \" | 2[9] | gyomor görcs | Dő Máj. 27. | Dő | Telkes gazda fia",
+    "english": "Two rows and the headings of the form. (1) János Dusko, of a farmer's family with a full holding; Solymos, house 30; a boy of 3; cholera; died 16 September, buried 17 September; both parents alive. The year is the one before the heading '1856', so 1855. He fits the János born on 23 August [1852] to János Duska and Anna Hura, who named another son György in 1857. (2) Mihály Dusko; house 31; aged 2[9], the figure written over; stomach cramp; died 25 May 1856, buried 27 May; 'son of a farmer with a full holding'. A grown son, unmarried by the wording, born about 1827 if the age is 29. He is not the Mihály baptised in [1840]."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register on a page with handwritten Hungarian headings, 1854 to 1856",
+   "form": "Headings, read from the strip of 1856: running number; 'Éve és napja a meghalásnak' (year and day of death); 'Neve és polgári állása a megholtnak, vagy annak házastársának, vagy szülőjének' (name and state of the dead, or of the spouse or parent); 'Származásának vagy annak lakásának helye, száma a háznak' (place and house number); 'Neme' (sex); 'Életkora' (age); 'Betegség vagy más neme a halálnak' (cause); 'Helye és napja az eltemetésnek' (burial); 'Neve az eltemetőnek' (who buried); 'Észrevétel' (remarks). The remarks say whether the parents are alive and what the father's holding is.",
+   "does_not_fit": "Nothing. The year is a heading ('1856-ik évben'), so strips cut from below it show no year.",
+   "made_by": "János Petrás [reading doubtful], who signs as the burier.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-95",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-385",
+  "file": "Death_of_Mihaily_Kocsis_1883.png",
+  "sha256": "b487f5acd5bbd15dbc60e9a86309c49bed8fccf8ec915a29b754903a7006fd91",
+  "wide": true,
+  "title": "Burial of Mihály Kocsis, farmer, aged about 82, Solymos 80, 19 August 1883",
+  "span": "19 August 1883",
+  "language": "Hungarian",
+  "collector_label": "Death of Mihaily Kocsis 1883",
+  "family": null,
+  "route": "demko",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "6",
+    "date": "19 August 1883",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Mihály Kocsis, farmer; Solymos, house 80; aged about 82, the figure written over; old age; died 19 August 1883, buried 21 August by István Szakal, Reformed minister. A Reformed Kocsis of Solymos, born about 1801.",
+    "reading": "high; low for the age"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "6 | 1883 aug. 19 | Kocsis Mihály gazda | Solymos 80 h. | 1 | - | 8[2] | öregség | aug. 21. | Szakal István ev. ref. lelkész",
+    "english": "Mihály Kocsis, farmer; Solymos, house 80; aged about 82, the figure written over; old age; died 19 August 1883, buried 21 August by István Szakal, Reformed minister. A Reformed Kocsis of Solymos, born about 1801."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register on a two-page ruled form in Hungarian, 1872 to 1918",
+   "form": "Across an opening: number; date (from 1878 with the year in each entry); name, with a father or husband; sex and age; village and house number; cause; place and day of burial; from 1883 the manner ('Tanítással'); the burier: Mihály Könyves, schoolmaster, János Petrás, and from 1883 István Szakal, 'ev. ref. lelkész' (Reformed minister).",
+   "does_not_fit": "Nothing.",
+   "made_by": "The schoolmaster or minister who buried.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-96",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-386",
+  "file": "Death_of_Pal_Duska_1838_-_processed.png",
+  "sha256": "13c4622f9547eebbef18dce1ea88ce28049eb285ad976452ba11b6680999d5b5",
+  "wide": true,
+  "title": "Burial of Pál Duska, aged 68, Solymos, 7 June 1838",
+  "span": "7 June 1838",
+  "language": "Hungarian",
+  "collector_label": "Death of Pal Duska 1838 - processed",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "2",
+    "date": "7 June 1838",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Pál Duska, aged 68; died 7 June 1838 of dropsy, buried 8 June with a sermon. Born about 1770. The month had been read as May from the full page (D-006-05); on this cleaned strip the burial day reads '8 Juny', between an entry of January and one of late June. The owner's file name says the image was processed.",
+    "reading": "high; medium for the month"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "1838 | 1. | 12 Jan | 13 Jan | [...] Borbála | 5 | ... || 2. | 7 Jun[y] | 8 Juny | Duska Páll | 68 | - | - | Vízibetegségbe | Tanítással",
+    "english": "Pál Duska, aged 68; died 7 June 1838 of dropsy, buried 8 June with a sermon. Born about 1770. The month had been read as May from the full page (D-006-05); on this cleaned strip the burial day reads '8 Juny', between an entry of January and one of late June. The owner's file name says the image was processed."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register kept one line to a burial on a hand-ruled page, 1830 to 1847",
+   "form": "Columns without headings: number in the year; day of death; day of burial; name; age in years, months and days; cause, with the ending -ba or -be ('of'); how the dead was buried: 'Tanítással' (with a sermon) for adults, 'Énekszóval' or 'Énekelve' (with singing) for children. The year stands once, as a heading above its first entry.",
+   "does_not_fit": "The owner calls the sub-folder 'Reform Catholic'; the book is Reformed (Calvinist), which is not a Catholic church. No entry names a parent, a spouse or a house, so a child can be placed only by name and age.",
+   "made_by": "The Reformed minister or schoolmaster of Solymos.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-97",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-387",
+  "file": "Death_of_S._Duska_1830.png",
+  "sha256": "730ab5d26723a463fee6c95b2337ccd693d6da15e4815fbaacf11f1e806a9ca1",
+  "wide": true,
+  "title": "Burial of Susanna Duska, aged 1 year 6 months 8 days, Solymos, of dysentery, November [1830]",
+  "span": "8 November [1830]",
+  "language": "Hungarian",
+  "collector_label": "Death of S. Duska 1830",
+  "family": "FG-34",
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "7",
+    "date": "8 November [1830]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Susanna Duska, aged 1 year, 6 months and 8 days; of dysentery ('vérhas'); buried with singing. The page slants across the strip and her name sits between a July row and a November row. The November date is taken: 8 November [1830] less the age gives a birth about 30 April 1829, and the first child of András Duska and Borbála Plyuchta, Susanna, was baptised on 12 May [1829]. The couple named another daughter Susanna in [1837].",
+    "reading": "medium: the rows slant and two dates could be hers"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "6 | 18 Julij | 19 Julij | [...] Anna | 5. | 2. | 10. || 7. | 8 Novemb | 9 Novemb | Duska Susanna | 1. | 6. | 8. | Vérhasba | Énekszóval",
+    "english": "Susanna Duska, aged 1 year, 6 months and 8 days; of dysentery ('vérhas'); buried with singing. The page slants across the strip and her name sits between a July row and a November row. The November date is taken: 8 November [1830] less the age gives a birth about 30 April 1829, and the first child of András Duska and Borbála Plyuchta, Susanna, was baptised on 12 May [1829]. The couple named another daughter Susanna in [1837]."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register kept one line to a burial on a hand-ruled page, 1830 to 1847",
+   "form": "Columns without headings: number in the year; day of death; day of burial; name; age in years, months and days; cause, with the ending -ba or -be ('of'); how the dead was buried: 'Tanítással' (with a sermon) for adults, 'Énekszóval' or 'Énekelve' (with singing) for children. The year stands once, as a heading above its first entry.",
+   "does_not_fit": "The owner calls the sub-folder 'Reform Catholic'; the book is Reformed (Calvinist), which is not a Catholic church. No entry names a parent, a spouse or a house, so a child can be placed only by name and age.",
+   "made_by": "The Reformed minister or schoolmaster of Solymos.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
+   ]
+  }
+ },
+ {
+  "id": "D-013-98",
+  "folder": "F-013",
+  "batch": "B-048",
+  "source": "S-388",
+  "file": "Death_of_Susanna_Duska_1847.png",
+  "sha256": "2960e65f11d74204350e6b23fde8f25b52240881b931e46cc86143c437747f1e",
+  "wide": true,
+  "title": "Burial of Susanna Duska, six months old, Solymos, May [1847]",
+  "span": "21 May [1847]",
+  "language": "Hungarian",
+  "collector_label": "Death of Susanna Duska 1847",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce - Reform Catholic",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's holdings table (@fc7360d)",
+   "fond_or_film": "Reformed parish of Lúčky, filial Iňačovce, no. 592/1 (deaths 1819 to 1936); microfilm 88 to 89",
+   "book": "Burial register of the Reformed (Calvinist) congregation of Solymos (Iňačovce), a daughter church of Lúčky. The strips of 1883 name 'Szakal István ev. ref. lelkész' and the one of 1926 is headed for Iňačovce. Volume by the Places agent's holdings table (@fc7360d): Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1 (deaths 1819 to 1936), microfilm 88 to 89.",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Inacovce - Reform Catholic', sent through chat. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "7",
+    "date": "21 May [1847]",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Susanna Duska, six months old; died 21 May of a cough, buried 22 May with singing. No parent is named. Born about November 1846. If she is a last child of Borbála Plyuchta, who died in January 1847, the Susanna of [1837] was dead by then.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
+    "original": "7 | 21 Maj. | 22 Maj. | Duska Susánna | - | 6. | - | Köhögésbe | Énekszóval",
+    "english": "Susanna Duska, six months old; died 21 May of a cough, buried 22 May with singing. No parent is named. Born about November 1846. If she is a last child of Borbála Plyuchta, who died in January 1847, the Susanna of [1837] was dead by then."
+   }
+  ],
+  "object": {
+   "kind": "A strip from a Reformed burial register kept one line to a burial on a hand-ruled page, 1830 to 1847",
+   "form": "Columns without headings: number in the year; day of death; day of burial; name; age in years, months and days; cause, with the ending -ba or -be ('of'); how the dead was buried: 'Tanítással' (with a sermon) for adults, 'Énekszóval' or 'Énekelve' (with singing) for children. The year stands once, as a heading above its first entry.",
+   "does_not_fit": "The owner calls the sub-folder 'Reform Catholic'; the book is Reformed (Calvinist), which is not a Catholic church. No entry names a parent, a spouse or a house, so a child can be placed only by name and age.",
+   "made_by": "The Reformed minister or schoolmaster of Solymos.",
+   "kept": "The congregation, then the state archive at Prešov (Places agent, @fc7360d).",
+   "compared": [
+    "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
    ]
   }
  }

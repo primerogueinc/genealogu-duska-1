@@ -1165,7 +1165,7 @@
  {
   "id": "H-042",
   "statement": "The Reformed Duskas of Solymos are one family: János Dusko, husband of Anna Kitko, and Mihály Dusko, husband of Ilona Mihalko, are sons of the 1830s and 1840s couples (András Duska and Borbála Pluchta; János Duska and Anna Hura).",
-  "confidence": 65,
+  "confidence": 70,
   "basis": "One village, one church, one surname, the right ages: a János baptised in [1834] and [1844], a Mihály in [1840]. Mihály and Ilona live at house 33, the house of János and Anna Hura in the 1850s. A Pluchta is godmother to Mihály's child in [1871]. No entry names a grandfather, so each father could be any of two or three boys.",
   "test": "The Reformed marriage register for Solymos, 1860 to 1871, which should name the fathers; burials for the boys of 1834, 1840, 1844 and 1852.",
   "status": "open",
@@ -1192,6 +1192,11 @@
     "batch": "B-027",
     "effect": "raised from 55 to 65",
     "note": "The census bears out both links. János, the servant born 1835 with wife Anna Ki[tk]a, fits the János baptised in May [1834] to András Duska and Borbála Pluchta. Mihály, born 1850 and unmarried in his father János's house, fits 'Mihály Dusko the younger' who has children in that house from [1871]."
+   },
+   {
+    "batch": "B-048",
+    "effect": "raised from 65 to 70",
+    "note": "Mihály Duska's infant died in June [1875] at Solymos 33 (D-013-88), the house where János Duska, husband of Anna Hura, died in [1877] (D-013-89). A married son in his father's house. The clerk first wrote the child's father as János. For János Dusko, husband of Anna Kitko, nothing new: his houses are 23 and 24, and no parent is named for him."
    }
   ],
   "necronym_risk": "unresolved"
@@ -1699,7 +1704,7 @@
  },
  {
   "id": "H-059",
-  "statement": "Pál Duska of Solymos, Reformed, who died in May 1838 aged 68, was born into one of the two Duska households of the urbarial table.",
+  "statement": "Pál Duska of Solymos, Reformed, who died on 7 June 1838 aged 68, was born into one of the two Duska households of the urbarial table.",
   "confidence": 45,
   "basis": "His age puts his birth about 1770, when the table shows exactly two Duska households in the village where he was buried. His birthplace is not stated, and the burial entry names no parent.",
   "test": "Reformed baptisms for Solymos before 1790, if any survive; the 1828 census.",
@@ -1712,6 +1717,11 @@
     "batch": "B-025",
     "effect": "raised at 45",
     "note": "Raised from the urbarial tables in folder F-011."
+   },
+   {
+    "batch": "B-048",
+    "effect": "no change; the statement is corrected",
+    "note": "The month of Pál Duska's death is June, not May (D-013-96). Nothing else in the strip bears on where he was born."
    }
   ]
  },
@@ -1803,10 +1813,10 @@
  {
   "id": "H-063",
   "statement": "András Duska, Reformed, born 1797, is the husband both of Borbála Pluchta (children 1829 to 1843) and of Erzsébet, Roman Catholic, of Szenna (a son in 1852).",
-  "confidence": 60,
+  "confidence": 75,
   "basis": "The census has one András Duska at Solymos, aged 72, with a wife Erzsébet born 1816. He was 32 at the first Pluchta baptism. The wife's surname is read Ková[cs] in 1852 and begins Sz in the census; neither reading is firm.",
   "test": "A burial of Borbála Pluchta between 1843 and 1852; András's second marriage; the Reformed burial of András with his age.",
-  "status": "open",
+  "status": "supported",
   "raised": "B-027",
   "resolved": null,
   "resolution": null,
@@ -1815,13 +1825,18 @@
     "batch": "B-027",
     "effect": "raised at 60",
     "note": "Raised from the four census sheets of Solymos."
+   },
+   {
+    "batch": "B-048",
+    "effect": "raised from 60 to 75; supported",
+    "note": "Two of its three tests are met. Borbála Plyuchta was buried on 10 January 1847 aged 43 (D-013-79). András Dusko was buried in June [1873] aged 78, of house 34 (D-013-76). In between, a son András of 'András Dusko', aged 4, died at house 34 in April [1854] with both parents alive (D-013-75): a wife after 1847 in the same house. Against: no entry names Erzsébet, and his second marriage is not in hand."
    }
   ]
  },
  {
   "id": "H-064",
   "statement": "András Duska (b. 1797) and János Duska (b. 1810), both Reformed farmers of Solymos, are sons of Pál Duska, Reformed, who died there in 1838 aged 68.",
-  "confidence": 40,
+  "confidence": 45,
   "basis": "Pál is the only Reformed Duska of the right age on record, born about 1770; a György Dusko who died in 1833 aged 29 would be a third son. No record names a father for any of them.",
   "test": "Reformed baptisms of Solymos for 1797 and 1810, if they survive; the census of 1828.",
   "status": "open",
@@ -1833,6 +1848,11 @@
     "batch": "B-027",
     "effect": "raised at 40",
     "note": "Raised from the four census sheets of Solymos."
+   },
+   {
+    "batch": "B-048",
+    "effect": "raised from 40 to 45",
+    "note": "Ages at burial put András at about 1795, György at about 1804 and János at about 1807, with Pál at about 1770: three men a generation below him in one small congregation. Still no entry that names a father."
    }
   ]
  },
@@ -2205,6 +2225,42 @@
    {
     "batch": "B-046",
     "effect": "raised at 55",
+    "note": "First ruling."
+   }
+  ]
+ },
+ {
+  "id": "H-082",
+  "statement": "Anna Szalontai, who died at Solymos on 14 May [1834] aged 67, was the wife of Pál Duska, who died there on 7 June 1838 aged 68.",
+  "confidence": 30,
+  "basis": "For: the owner files her burial among the Duska deaths, and she is of Pál's generation in the same Reformed book (D-013-77, D-013-96). Against: the strip names no husband; the owner's filing is a prior and not evidence (X-004), and the name with the year 1767 is the same prior this agent met once before as a page title (PR-7). Largest alternative: she is the wife or widow of another man of the congregation, about 50.",
+  "test": "A Reformed baptism of Solymos before 1810 naming Pál Duska's wife; the marriage register; the census of 1828.",
+  "status": "open",
+  "raised": "B-048",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-048",
+    "effect": "raised at 30",
+    "note": "Raised from a file name. Kept low on purpose."
+   }
+  ]
+ },
+ {
+  "id": "H-083",
+  "statement": "János Duska, Reformed farmer of Solymos who died on 26 September 1883 aged 44, is the husband of Anna Kitko (children 1863 to 1876) and then of Anna Fedor of Pályin (a daughter born about 1882).",
+  "confidence": 45,
+  "basis": "For: one János of the right age to father children from 1863; Anna Kitko's last known child is of 1876 and Anna Fedor's daughter was born about 1882 (D-013-93); the houses are neighbours (23, 24, 26). Against: Anna Fedor is not called a widow at her burial in 1903 (D-013-92), which fits a husband still alive then; no burial of Anna Kitko is in hand. Alternatives: Fedor's husband is another János who outlived 1903, about 40; other, 15.",
+  "test": "A burial of Anna Kitko between 1876 and 1882; the Reformed marriage of János Duska and Anna Fedor; a burial of a János Duska after 1903.",
+  "status": "open",
+  "raised": "B-048",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-048",
+    "effect": "raised at 45",
     "note": "First ruling."
    }
   ]
