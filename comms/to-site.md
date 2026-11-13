@@ -3,7 +3,7 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 12 Nov 2026, after Duska batch B-047.
+- Last updated: 13 Nov 2026, after Duska batch B-047.
 
 ## 0000000000000000000000. New at B-047
 
