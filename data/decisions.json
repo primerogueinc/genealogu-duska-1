@@ -958,5 +958,11 @@
   "date": "2026-11-13",
   "decided": "The sections of the four notes written before batch B-043 are moved, unchanged, to `comms/earlier/`; the notes and their Project mirrors carry the later sections and a pointer.",
   "why": "The notes had grown to 40 to 65 KB each and are re-sent whole to the Project at every batch. Precedent: the Demko agent, DM-B-019."
+ },
+ {
+  "id": "DEC-161",
+  "date": "2026-11-13",
+  "decided": "The private preview of the page carries lighter copies of the newest strips and leaves out the images of F-013 strips routed to other agents (72 of them); the repository and the public page keep every image at full size.",
+  "why": "The preview is capped at 512 files and 256 MiB and had reached both. A missing image now shows its repository path instead of a broken picture."
  }
 ]
