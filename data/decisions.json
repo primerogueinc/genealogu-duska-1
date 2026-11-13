@@ -964,5 +964,23 @@
   "date": "2026-11-13",
   "decided": "The private preview of the page carries lighter copies of the newest strips and leaves out the images of F-013 strips routed to other agents (72 of them); the repository and the public page keep every image at full size.",
   "why": "The preview is capped at 512 files and 256 MiB and had reached both. A missing image now shows its repository path instead of a broken picture."
+ },
+ {
+  "id": "DEC-162",
+  "date": "2026-11-13",
+  "decided": "Folder F-013 'Duska Death' is closed at 197 documents on the owner's word.",
+  "why": "Rule 1: a folder stays open until he says it is complete. He said so (S-000-15)."
+ },
+ {
+  "id": "DEC-163",
+  "date": "2026-11-13",
+  "decided": "The reused-name checks for Ahn 8 and Ahn 16 are logged as done against the owner's strips, and their `necronym_risk` reads 'checked against the owner's burial strips', not 'resolved'.",
+  "why": "X-017 asks for a search of the burial register. What is in hand is his selection from it. The difference is kept in the wording."
+ },
+ {
+  "id": "DEC-164",
+  "date": "2026-11-13",
+  "decided": "The lines of 'Current state' in PROTOCOL.md for batches before B-043 are moved, unchanged, to `PROTOCOL-earlier-state.md`; two stale summary lines are replaced by one current line on the tree.",
+  "why": "The file is re-sent whole to the Project at every batch and had reached 48 KB. Same reason and same handling as the notes at B-050."
  }
 ]

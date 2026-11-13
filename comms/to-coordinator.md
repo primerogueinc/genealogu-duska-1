@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 13 Nov 2026, after Duska batch B-049. Read ledger v25.
+- Last updated: 13 Nov 2026, after Duska batch B-051. Read ledger v25.
+
+## 00000000000000000000000000000000000000. B-051 (13 Nov): a statement by Kevin, the deaths folder is closed
+
+- **Statement** (`DUS:S-000-15`): "done with duska deaths folder". `DUS:F-013` is complete at 197 documents. No exposure and no question for a ruling.
 
 ## 0000000000000000000000000000000000000. B-049 (13 Nov): an account of Kevin's on three screenshots, kept out
 

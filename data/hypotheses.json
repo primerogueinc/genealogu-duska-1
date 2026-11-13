@@ -1311,9 +1311,14 @@
     "batch": "B-036",
     "effect": "no change",
     "note": "His death notice gives 'age 71' on 31 January 1974. Born 3 July 1903 he was 70. It fits 1903 within a year and excludes 1896, when he would have been 77. Already solved."
+   },
+   {
+    "batch": "B-051",
+    "effect": "no change; reused-name check logged",
+    "note": "Reused-name check now that the burial folder is closed: among the 96 Senné Roman Catholic burial strips ([1831] to 1924) there is no burial of the Mihály born on 3 July 1903. The one Mihály Duska buried as a child, in 1915, is a son of János (D-013-181). The folder is the owner's selection of strips by surname, not the whole register, so this is a check against what he pulled and is marked as such."
    }
   ],
-  "necronym_risk": "unresolved",
+  "necronym_risk": "checked against the owner's burial strips",
   "question": "X-Q-06"
  },
  {
@@ -1405,6 +1410,11 @@
     "batch": "B-040",
     "effect": "no change",
     "note": "On a second look at the marriage register's form, the groom's residence reads 'Hrabó', the farmstead Hrabov of Senné. The parents' names are as read."
+   },
+   {
+    "batch": "B-051",
+    "effect": "no change; reused-name check logged",
+    "note": "Reused-name check: no burial of an András, son of György Duska and Anna Krak, in the Senné strips between [1868] and 1891. The András buried at Jesztreb in 1891 was 60 (D-013-104). The folder is the owner's selection of strips by surname, not the whole register, so this is a check against what he pulled and is marked as such."
    }
   ],
   "question": "X-Q-06"

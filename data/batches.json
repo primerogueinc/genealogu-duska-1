@@ -2226,6 +2226,25 @@
    "S-486",
    "S-487"
   ],
+  "committed_utc": "2026-11-13T08:40:54Z"
+ },
+ {
+  "id": "B-051",
+  "date": "2026-11-13",
+  "title": "The folder of deaths is closed at 197 documents",
+  "folder": "F-013",
+  "files": 0,
+  "blurb": "No files. The owner closed the folder 'Duska Death': 197 documents in six sub-folders, sent between 12 and 13 November. By sub-folder: Belža Greek Catholic 9, Čičarovce Greek Catholic 18, Iňačovce Greek Catholic 46, Iňačovce Reformed 25, a Montréal cemetery index 3, Senné Roman Catholic 96. By line: 124 kept here, 68 for the Demko agent, 5 for the Places agent. What the folder did for the direct line: a death for György Duska the elder (5 January 1908); the burial plot of the great-grandparents in Montréal; eight burials of Michal Duska's brothers and sisters; a household a generation above György the elder, with two candidate fathers and a named candidate mother; and the refutation of one of the two candidates for Anna Krak. What it did not bring: any burial of Anna Krak, the death of András Duska (the book ends in 1924; he died in 1940 by a note on his baptism), or anyone above 1798. A caution written into the data: the folder is his selection of strips by surname, not the registers. A burial that is absent from it is absent from what he pulled, no more. The reused-name checks for Michal (born 1903) and András (born 1868) are logged in those words. Still open with him, and not asked again: page headers for the strips whose year is only in a file name. Marriages are the kind of folder still to come. Curiosities: 0",
+  "raised": [],
+  "resolved": [],
+  "revised": [
+   "H-046",
+   "H-048"
+  ],
+  "people_added": [],
+  "sources_added": [
+   "S-000-15"
+  ],
   "committed_utc": null
  }
 ]
