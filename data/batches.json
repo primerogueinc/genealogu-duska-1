@@ -2261,6 +2261,38 @@
   "sources_added": [
    "S-000-16"
   ],
+  "committed_utc": "2026-11-13T21:19:14Z"
+ },
+ {
+  "id": "B-053",
+  "date": "2026-11-13",
+  "title": "Ten files from 'Duska Random': seven full pages of the Senné baptism book, a second passenger list, and the cemetery on its common graves",
+  "folder": "F-014",
+  "files": 10,
+  "blurb": "Ten files from a folder the owner calls 'Duska Random'. One, a word file named for DNA, was not opened: this line works without DNA until its paper tree is scored. The other nine are read. Seven are full openings of the Senné Roman Catholic baptism book, the pages the earlier single-row strips were cut from. They put a page number and a year on entries that had neither. The baptism of Michal Duska (Ahn 8) is page 203, entry 33 of 1903. One date was wrong: the Anna Duska of Jesztreb filed under 1875 was born in 1879. And one page teaches a caution: Anna Duska of 1899 has no death note on her own line, because the priest wrote it against the child below. A blank remarks cell is weak evidence that a child lived. A message from Notre-Dame-des-Neiges cemetery explains last batch's oddity. Section FT is 'fosses temporaires': common graves, the lot numbered for the year. 'Mikalis' Duska was buried in one in 1965. The cemetery adds that it kept almost no dates of birth before the 1980s. That matters: the link between Mikalis and Miklós of Senné began with a birth date matching to the day, and that date may have been computed from an age of 75. The link is lowered from 85 to 80 and now rests on the names, the wife's surname and the shared passenger list. With only three Duskas on the cemetery's books, a second wife buried in Montréal is less likely (the cemetery's 'Anna' is the Senné wife Mária: 40 to 50). A handwritten strip of a passenger list has Mikulas, 39, and Michal, 26, as the typed Canadian list does. The owner's file name says Hamburg, 1930. The ages agree with the first half of 1930; the port is his word only (new hypothesis, 55). Curiosities: 3",
+  "raised": [
+   "H-090"
+  ],
+  "resolved": [],
+  "revised": [
+   "H-046",
+   "H-060",
+   "H-066",
+   "H-068",
+   "H-084"
+  ],
+  "people_added": [],
+  "sources_added": [
+   "S-488",
+   "S-489",
+   "S-490",
+   "S-491",
+   "S-492",
+   "S-493",
+   "S-494",
+   "S-495",
+   "S-496"
+  ],
   "committed_utc": null
  }
 ]

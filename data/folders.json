@@ -206,5 +206,18 @@
   ],
   "archive_path": "records/F-013_Duska-Death/",
   "completed": "2026-11-13"
+ },
+ {
+  "id": "F-014",
+  "desktop_path": "Duska Random",
+  "described_as": "Announced by the owner as 'DUSKA RANDOM WHOLE FOLDER': seven full openings of the Senné Roman Catholic baptism book (1879 to 1907), a two-row passenger-list strip, a screenshot of a message from Notre-Dame-des-Neiges cemetery, and a word file named for DNA that was not opened.",
+  "status": "complete",
+  "first_seen": "2026-11-13",
+  "files_received": 10,
+  "batches": [
+   "B-053"
+  ],
+  "archive_path": "records/F-014_Duska-Random/",
+  "completed": "2026-11-13"
  }
 ]

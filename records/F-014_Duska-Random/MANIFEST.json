@@ -1,0 +1,90 @@
+{
+  "folder": "F-014",
+  "desktop_path": "Duska Random",
+  "note": "Sent whole on 13 Nov 2026: nine images and one word file. The word file is named for DNA and was not opened.",
+  "files": [
+    {
+      "file": "Mikulas_Duska_1890_Hamburg_Ship_Departure_in_1930.png",
+      "sha256": "bcb949490b6ba2f6ef13f0218a31bd775dbaf1f1096e10a99694db136538d5e5",
+      "bytes": 97150,
+      "pixels": "1486x92",
+      "received": "2026-11-13",
+      "via": "chat upload"
+    },
+    {
+      "file": "Andras_Duska_1882_baptism.jpg",
+      "sha256": "cc3fe7a2f9b75ee148eb407c600afbe9cab4c6efee2e5221763485fc94676c0b",
+      "bytes": 1460947,
+      "pixels": "2576x1963",
+      "received": "2026-11-13",
+      "via": "chat upload"
+    },
+    {
+      "file": "Anna_and_Susanna_Duska_1907_baptism_twins.jpg",
+      "sha256": "649feec99c6dc91848ecfb55642311503e9fd90c04e0291f5cfa06207681b6e1",
+      "bytes": 1326607,
+      "pixels": "2576x2035",
+      "received": "2026-11-13",
+      "via": "chat upload"
+    },
+    {
+      "file": "Anna_Duska_1899_Baptism.jpg",
+      "sha256": "99e1a1d62ec846fb8e4ad56eea7dfbc2efe42bd1dcc810a38ea695c16aedbc14",
+      "bytes": 1447564,
+      "pixels": "2576x2043",
+      "received": "2026-11-13",
+      "via": "chat upload"
+    },
+    {
+      "file": "Gyorgy_Duska_1880.jpg",
+      "sha256": "58ca935d14bb1932b2f8723fccb0176732c54dab29fdf387d9e85cd6b2528904",
+      "bytes": 1555787,
+      "pixels": "2576x1943",
+      "received": "2026-11-13",
+      "via": "chat upload"
+    },
+    {
+      "file": "Maria_Duska_1905_Baptism.jpg",
+      "sha256": "030bda4ad03a9a82c238e022058873332dc60dec1438b2dd8ef8064ef87ac942",
+      "bytes": 1498247,
+      "pixels": "2576x2033",
+      "received": "2026-11-13",
+      "via": "chat upload"
+    },
+    {
+      "file": "Mihaly_Duska_1903_-_Birth_and_Baptism.jpg",
+      "sha256": "d2d1f5b2889e218193722bd5d7284d99ce856b3d58b69102afa11d810a1545c6",
+      "bytes": 1482995,
+      "pixels": "2576x2147",
+      "received": "2026-11-13",
+      "via": "chat upload"
+    },
+    {
+      "file": "Mikalos_Duska_mass_grave_records.png",
+      "sha256": "317e44863b5f3b1f5c35eebf712092457f68d4d77c93afbef0c5b390cfafb37b",
+      "bytes": 99671,
+      "pixels": "1406x532",
+      "received": "2026-11-13",
+      "via": "chat upload"
+    },
+    {
+      "file": "Miklos_or_Mikulas_Duska_1890_-_baptism.jpg",
+      "sha256": "05ba4b21e6ad6b13b77517a944cf6e1a2018a225486584c6664bb8b99b0c89d2",
+      "bytes": 1624058,
+      "pixels": "2576x2065",
+      "received": "2026-11-13",
+      "via": "chat upload"
+    }
+  ],
+  "held": [
+    {
+      "file": "DUSKA_DNA_TO_DO.docx",
+      "sha256": "796f451bd3b52d70648b03a4557aecd386f81abf7d5aa5833cc41579d88f0d86",
+      "bytes": 14413,
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "held": "Not opened. By its name it is about DNA, and it is the owner's own working file. Rule 26 (ruling X-023): this line does not read DNA material until its paper tree is frozen and scored. The owner and the coordinator are told.",
+      "file_in_repo": false
+    }
+  ]
+}

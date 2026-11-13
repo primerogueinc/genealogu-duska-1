@@ -1316,6 +1316,11 @@
     "batch": "B-051",
     "effect": "no change; reused-name check logged",
     "note": "Reused-name check now that the burial folder is closed: among the 96 Senné Roman Catholic burial strips ([1831] to 1924) there is no burial of the Mihály born on 3 July 1903. The one Mihály Duska buried as a child, in 1915, is a son of János (D-013-181). The folder is the owner's selection of strips by surname, not the whole register, so this is a check against what he pulled and is marked as such."
+   },
+   {
+    "batch": "B-053",
+    "effect": "no change; the reference is now complete",
+    "note": "The baptism of 3 July 1903 is in hand on its full page: page 203, entry 33 of 1903, in the Senné Roman Catholic baptism book (Prešov no. 1089 by the Places agent). The page shows the year heading and the column headings (D-014-07). The remarks cell is blank; a blank cell is weak evidence of survival in this book (D-014-04)."
    }
   ],
   "necronym_risk": "checked against the owner's burial strips",
@@ -1753,7 +1758,7 @@
  {
   "id": "H-060",
   "statement": "The 'Mikalis' Duska of the cemetery record, born 28 November 1890 and husband of Anna Hancosek, is Miklós Duska, born 28 November 1890 at Senné, house 6, son of György Duska the younger and Erzsébet Schwarz.",
-  "confidence": 85,
+  "confidence": 80,
   "basis": "The date of birth agrees to the day with the baptism entry (D-009-84), in a surname with only a handful of bearers. 'Mikalis' is a fair French clerk's rendering of Miklós or Mikuláš. His wife's surname resembles a Senné family's. Against: the record is a database entry with stand-in values elsewhere, the cemetery is not named, and no document shows Miklós leaving Senné.",
   "test": "The cemetery's burial register or the gravestone for section FT, plot 01965; a Québec death or marriage registration naming his parents; a passenger list.",
   "status": "supported",
@@ -1800,6 +1805,11 @@
     "batch": "B-050",
     "effect": "raised from 75 to 85",
     "note": "A Miklós Duska was at Senné in March 1921 with a wife named Hankovcsák (D-013-172); her family's surname is the one the Montréal cemetery wrote Hancosek, and her likely father, the bell-ringer, has a burial with it spelled out (D-013-195). The Senné man and the Montréal man share a name, a birth date and a wife's surname."
+   },
+   {
+    "batch": "B-053",
+    "effect": "lowered from 85 to 80",
+    "note": "One of its legs is weaker. The case began with a birth date on the cemetery's printout that matches the Senné baptism to the day. The cemetery now writes that before the 1980s it recorded almost no dates of birth (D-014-08). The printed date is exactly 75 years before the day of arrival, so it may have been computed from an age of 75 and not copied from a paper. If so, it shows a man of about 75, not a man born on that day. Miklós would have turned 75 on 28 November 1965, which still fits. What carries the link now: the rare surname, the given name, the wife's surname (Hancosek for Hankovcsák), and Mikulas and Michal Duska on one passenger list."
    }
   ]
  },
@@ -1960,6 +1970,11 @@
     "batch": "B-040",
     "effect": "no change",
     "note": "The passenger list is the official record of arrival and its heading would give the ship and date; only a crop is in hand."
+   },
+   {
+    "batch": "B-053",
+    "effect": "no change",
+    "note": "A second list of the same voyage, handwritten, gives the same ages, 39 and 26 (D-014-01). The two ages together put the sailing between 28 November 1929 and 2 July 1930."
    }
   ]
  },
@@ -2006,6 +2021,11 @@
     "batch": "B-049",
     "effect": "solved; raised from 60 to 97",
     "note": "The society's index to Montréal cemeteries has 'Duska Mikalis', spouse 'Hancosek Anna', received 28-11-1965, section FT, concession 1965, at Notre-Dame-des-Neiges (D-013-100): the section, number and date of the printout D-006-09, with the cemetery named. The same index has Mike Duska and Mary Demko there in section TR, concession 6650 (D-013-99, D-013-101). Record and reference are in hand (X-009): the database 'SGCF - Cimetières de Montréal 1724-2003'. It is an index, so the cemetery's own register would still be the better citation."
+   },
+   {
+    "batch": "B-053",
+    "effect": "no change; confirmed by the cemetery itself",
+    "note": "The cemetery's own message, with its web address, names section FT 01965 and Mikalis Duska's arrival on 28 November 1965 (D-014-08)."
    }
   ]
  },
@@ -2328,7 +2348,7 @@
  {
   "id": "H-084",
   "statement": "The 'Hancosek Anna' of the Montréal cemetery records is Mária Hankovcsák (Hankoščáková), born 18 April 1892 at Senné, the wife Mikuláš Duška left at Senné 11 in 1930, entered under a wrong given name.",
-  "confidence": 40,
+  "confidence": 50,
   "basis": "For: the census of 1930 has Mária Dušková, born Hankoščáková on 18 April 1892, married 22 January 1913, wife of an absent Mikuláš Duška (D-011-29, K-578); Miklós is the only man of that name and birth date; Hancosek is a fair hearing of Hankovcsák. Against: the given names differ, in two records made by the cemetery (D-013-100, D-006-09). A family of that surname at Senné had a daughter Anna in 1896 (FG-52, K-420). Alternatives: he married a second wife in Canada, perhaps that Anna, about 30; the cemetery's Anna is another woman, about 30.",
   "test": "A Québec burial or death record of the wife with her age; the Senné death book after 1930 for Mária; the manifest of a wife joining him; a marriage in Montréal.",
   "status": "open",
@@ -2345,6 +2365,11 @@
     "batch": "B-050",
     "effect": "no change",
     "note": "The burial of 1921 confirms the census: his wife at Senné was Mária Hankovcsák (D-013-172). It says nothing on why Montréal has Anna."
+   },
+   {
+    "batch": "B-053",
+    "effect": "raised from 40 to 50",
+    "note": "The cemetery has three Duskas on its books and no more (D-014-08); the society's index shows who they are: Mikalis, Mike, and Mary Demko. So no wife of Mikalis is buried there under his name, though the index marks her dead before him. A second wife who died in Montréal would most likely lie in the same cemetery. A wife who stayed at Senné, where Mária was in 1940, would not."
    }
   ]
  },
@@ -2435,6 +2460,24 @@
     "batch": "B-050",
     "effect": "raised at 35",
     "note": "Raised under the coordinator's rule on reused names."
+   }
+  ]
+ },
+ {
+  "id": "H-090",
+  "statement": "Mikulas and Michal Duska left Europe through Hamburg in the first half of 1930.",
+  "confidence": 55,
+  "basis": "For: a handwritten list strip with both men and their ages (D-014-01) in the layout of a port-of-departure list; the ages date the voyage to between late November 1929 and early July 1930, and Štefan's birth in October 1929 with his father named at the baptism leans to the later part. Against: the port and the year are in the owner's file name only (PR-17), and Czechoslovak emigrants to Canada also left by Bremen, Antwerp, Cherbourg and Gdynia (recalled). Other port, 30; Hamburg in December 1929, 15.",
+  "test": "The heading of the list page: ship, port and date. It is the kind of page header the owner has said will come at the end.",
+  "status": "open",
+  "raised": "B-053",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-053",
+    "effect": "raised at 55",
+    "note": "Raised from a label and a form; the cap of 70 applies until the page is in hand."
    }
   ]
  }

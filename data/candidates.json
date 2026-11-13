@@ -4747,7 +4747,7 @@
  {
   "id": "K-395",
   "name": "Anna Duska",
-  "vitals": "b. 16 August [1875]; Jesztreb",
+  "vitals": "b. 16 August 1879; Jesztreb (year corrected at B-053 from the page)",
   "proof": "documented",
   "sources": [
    "S-146"
@@ -5977,7 +5977,7 @@
    "S-242",
    "S-390"
   ],
-  "relation": "Child in D-009-84, family group FG-48. See D-006-09 and H-060. B-050: with his wife Mária Hankovcsák he buried a week-old daughter at Ungszenna in March 1921 (D-013-172).",
+  "relation": "Child in D-009-84, family group FG-48. See D-006-09 and H-060. B-050: with his wife Mária Hankovcsák he buried a week-old daughter at Ungszenna in March 1921 (D-013-172). B-053: buried in a common grave (section FT, lot 1965) by the cemetery's own account (D-014-08).",
   "route": "duska",
   "route_note": "",
   "necronym_risk": "unresolved"
@@ -8894,6 +8894,18 @@
   ],
   "relation": "D-013-195. Widower of Mária Nyemcsik (FG-52; H-086).",
   "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-747",
+  "name": "Mária Bruhács",
+  "vitals": "b. 22 Apr 1905, bapt. 30 Apr 1905 at Newark [New Jersey?]",
+  "proof": "documented",
+  "sources": [
+   "S-493"
+  ],
+  "relation": "D-014-06, entry 35b. Daughter of Michael Bruhács and Mária Sabak, entered in the Senné book from an extract sent from America. No tie to the line.",
+  "route": "places",
   "route_note": ""
  }
 ]

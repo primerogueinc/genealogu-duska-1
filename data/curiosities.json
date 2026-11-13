@@ -1026,7 +1026,8 @@
   "original": "Réception du corps 28-11-1965 | Concession 1965",
   "translation": "Body received 28-11-1965 | Plot 1965",
   "why": "A row of figures that looks like a data-entry error and is not one.",
-  "tone": "wry"
+  "tone": "wry",
+  "note": "B-053: explained. The cemetery writes that FT lots were common graves numbered for the year of arrival (D-014-08); and the birth date may be one its system worked out from an age. Neither coincidence may be one."
  },
  {
   "id": "C-110",
@@ -1104,5 +1105,38 @@
   "translation": "no; the illness was not believed serious",
   "why": "A cause of death and a family's misjudgement in one cell.",
   "tone": "dry"
+ },
+ {
+  "id": "C-117",
+  "doc": "D-014-08",
+  "source": "S-495",
+  "title": "The lot number is the year",
+  "text": "Asked about plot FT 01965, the cemetery answered that FT means 'fosses temporaires': common graves, filled in order of arrival, each lot numbered for its year. More than a thousand people a year went into them in the 1960s, and nothing joins them but the year. Mikalis Duska went into lot 1965. If he is the Mikuláš of Senné, he had left a wife there thirty-five years before. The Mike Duska he sailed with lies in a numbered plot of his own, with his wife, in another section.",
+  "original": "Le numéro de lot correspond à l'année d'arrivé au cimetière.",
+  "translation": "The lot number is the year of arrival at the cemetery.",
+  "why": "Last batch's curiosity about a plot numbered like its year has an answer, and it is not a happy one.",
+  "tone": "sad"
+ },
+ {
+  "id": "C-118",
+  "doc": "D-014-04",
+  "source": "S-491",
+  "title": "The death note on the wrong child",
+  "text": "Anna Duska was baptised on 20 September 1899 and died on 17 June 1900. Her line in the baptism book has nothing in the remarks. The line below, a boy from Pályin born four days after her, says 'died 17 June 1900'. The priest wrote her death against her neighbour.",
+  "original": "meghalt 1900. Jun. 17.",
+  "translation": "died 17 June 1900",
+  "why": "A single-row cutting of her baptism made her look like a survivor. Only the full page shows the slip.",
+  "tone": "odd"
+ },
+ {
+  "id": "C-119",
+  "doc": "D-014-06",
+  "source": "S-493",
+  "title": "Born in Newark, entered at Senné",
+  "text": "At the foot of a page of 1905, squeezed in as number 35b and in Latin: Mária, born at Newark on 22 April, baptised there on the 30th by the parish priest of Newark. In the remarks: 'Ex America missus est extractus', an extract was sent from America. The parents wanted the child on the home parish's books.",
+  "original": "Ex America missus est extractus",
+  "translation": "An extract was sent from America",
+  "why": "Emigration seen from the village end: the parish register followed its people across the ocean by post.",
+  "tone": "history"
  }
 ]

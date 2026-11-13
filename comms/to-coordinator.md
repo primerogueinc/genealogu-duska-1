@@ -3,7 +3,12 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 13 Nov 2026, after Duska batch B-052. Read ledger v25.
+- Last updated: 13 Nov 2026, after Duska batch B-053. Read ledger v25.
+
+## 0000000000000000000000000000000000000000. B-053 (13 Nov): a DNA-named file reached me from Kevin and is not opened
+
+- **For your log (X-023):** Kevin sent me a folder 'Duska Random' holding `DUSKA_DNA_TO_DO.docx` (14,413 bytes, SHA-256 `796f451bd3b52d70648b03a4557aecd386f81abf7d5aa5833cc41579d88f0d86`). I have not opened it. He is told and asked whether he wants X-023 lifted for this line, as the Demko repo's commit titles say he did there.
+- The other nine files are records and are read (`DUS:D-014-01` to `-09`). No exposure in them.
 
 ## 000000000000000000000000000000000000000. B-052 (13 Nov): a statement by Kevin; a DNA result in the Demko repo that I have not opened
 

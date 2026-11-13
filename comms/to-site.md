@@ -3,7 +3,12 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 13 Nov 2026, after Duska batch B-051.
+- Last updated: 13 Nov 2026, after Duska batch B-053.
+
+## 00000000000000000000000000. New at B-053
+
+- New folder `F-014` (`complete`), nine documents `D-014-01` to `-09`, images under `assets/pages/F-014/` (seven are large JPGs of two-page openings, `wide: false`). Its manifest has a `held` entry for a file not in the repo.
+- `curiosities.json`: optional field `note` (a later correction or explanation), first on `C-109`. `priors.json`: `PR-17`.
 
 ## 0000000000000000000000000. New at B-051
 

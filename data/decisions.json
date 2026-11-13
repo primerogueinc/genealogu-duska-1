@@ -1000,5 +1000,35 @@
   "date": "2026-11-13",
   "decided": "Cross-review (rule 18) is suspended for that commit and logged as XR-20 with the reason.",
   "why": "Two rules pull against each other; the one that protects the blind test wins until the owner or the coordinator says otherwise."
+ },
+ {
+  "id": "DEC-168",
+  "date": "2026-11-13",
+  "decided": "The file `DUSKA_DNA_TO_DO.docx` is held unopened: name, size and SHA-256 only.",
+  "why": "Rule 26 (X-023): if a DNA file arrives, do not open it and tell the owner and the coordinator. It is also his own working file (rule 31). His sending it is not a word to read it; he is asked."
+ },
+ {
+  "id": "DEC-169",
+  "date": "2026-11-13",
+  "decided": "On the seven full register pages only the rows that bear on the line are transcribed and indexed; the other rows are left to the image.",
+  "why": "Each opening holds some twenty entries of unrelated villagers. Precedent: the census sheets at B-037 (DEC-118). The images are public for the other agents."
+ },
+ {
+  "id": "DEC-170",
+  "date": "2026-11-13",
+  "decided": "The date of the Jesztreb baptism filed as 1875 (D-009-12) is corrected to 1879.",
+  "why": "The page it was cut from is headed 1879 (X-031: re-rule when a better object arrives). Nothing rested on the year."
+ },
+ {
+  "id": "DEC-171",
+  "date": "2026-11-13",
+  "decided": "H-060 is lowered on the cemetery's remark about dates of birth, though it stays supported.",
+  "why": "The match 'to the day' was its first evidence. If the date was computed from an age it is worth far less, and that has to be said even though the conclusion probably stands."
+ },
+ {
+  "id": "DEC-172",
+  "date": "2026-11-13",
+  "decided": "H-090 is raised with a port and a year that are on a file name only, and is capped.",
+  "why": "X-004: the label is a prior. The ages are evidence for the half-year; nothing in hand is evidence for the port."
  }
 ]
