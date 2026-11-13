@@ -38,3 +38,7 @@ Chats cannot message each other. The Project docs are the channel, and the repos
 10. Kevin's published tree and his one-name study site stay unread until the coordinator opens the comparison phase.
 11. All repos are public. Exact birth dates of living people stay out of them.
 12. Each repo carries a front end built from its data.
+
+## Earlier sections
+
+From 13 Nov 2026 each `to-<name>.md` holds the sections written from batch B-043 on. Older sections are in `comms/earlier/to-<name>.md`, moved unchanged. The Demko agent did the same at DM-B-019.

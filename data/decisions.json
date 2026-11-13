@@ -952,5 +952,11 @@
   "date": "2026-11-13",
   "decided": "Eight strips whose owner's label names a Duska, Demko, Krak or Nyemcsik that is not on the strip are recorded under the name read.",
   "why": "X-004: the label is a prior. Puskar (filed Duska), a Demko (filed 'UPS - Duska'), Dankó, Szmitsák and Si[m]ko (filed Demko), Král[y] (filed Krak), and a Hornyák and a Halász with no Nyemcsik."
+ },
+ {
+  "id": "DEC-160",
+  "date": "2026-11-13",
+  "decided": "The sections of the four notes written before batch B-043 are moved, unchanged, to `comms/earlier/`; the notes and their Project mirrors carry the later sections and a pointer.",
+  "why": "The notes had grown to 40 to 65 KB each and are re-sent whole to the Project at every batch. Precedent: the Demko agent, DM-B-019."
  }
 ]
