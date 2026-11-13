@@ -8163,9 +8163,54 @@
     "H-090"
    ],
    "look_for": "The same list as D-006-19, a second crop. One heading serves both."
+  },
+  {
+   "id": "D-015-03",
+   "file": "Steve_and_Joan_Duska_Residence_in_1957.png",
+   "folder": "F-015",
+   "register": "Voters' list, Montréal",
+   "date_on_file": "[1957], by the owner's file name",
+   "title": "Voters' list, Montréal, [1957]: Steve Duska, machinist, and Mrs. Joan Duska at no. 5218A",
+   "route": "duska",
+   "rank": 1,
+   "status": "wanted",
+   "want": [
+    "page heading: year and page number",
+    "the year as written on the page",
+    "the rows above and below"
+   ],
+   "direct_line": true,
+   "hypotheses": [],
+   "look_for": "The heading of the page: the year, the electoral district and the street. All three now rest on the file name and on the house number."
+  },
+  {
+   "id": "D-015-04",
+   "file": "Steve_and_Joan_Residence_in_1968.png",
+   "folder": "F-015",
+   "register": "Voters' list, Montréal",
+   "date_on_file": "[1968], by the owner's file name",
+   "title": "Voters' list, Montréal, [1968]: 'Steeve' Duska, letter carrier, and Joan Duska at no. 5520",
+   "route": "duska",
+   "rank": 1,
+   "status": "wanted",
+   "want": [
+    "page heading: year and page number",
+    "the year as written on the page",
+    "the rows above and below"
+   ],
+   "direct_line": true,
+   "hypotheses": [
+    "H-092"
+   ],
+   "look_for": "The heading of the section the two rows stand in: the street. And the year and district from the top of the page (H-092)."
   }
  ],
  "never_seen": [
+  {
+   "what": "The passenger list of 1937, page 263: Maria Duska and her son Stephan",
+   "where": "The lists of arrivals for 1937 that the typed index points to (D-015-02)",
+   "settles": "The ship, port and day of their arrival, who they were going to and at what address; H-065 on its own record."
+  },
   {
    "what": "Marriage of György Duska (Ahn 32) and Anna Krak, about 1864 to 1866",
    "where": "Senné Roman Catholic marriages, or the bride's Greek Catholic parish",

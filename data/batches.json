@@ -2315,6 +2315,28 @@
    "S-000-17",
    "S-000-18"
   ],
+  "committed_utc": "2026-11-13T21:49:51Z"
+ },
+ {
+  "id": "B-055",
+  "date": "2026-11-13",
+  "title": "Five files from 'Duska documents part 1': Štefan's obituary, the index to his arrival in 1937, and two voters' lists",
+  "folder": "F-015",
+  "files": 5,
+  "blurb": "Five files from a new folder, 'Duska documents part 1', left open because of the 'part 1'. The obituary of Štefan 'Steve' Duska gives the line its first full date of death in Canada for him: Montréal, 6 June 2018, aged 88, funeral at St-Brendan's in Rosemont, interment at Notre-Dame-des-Neiges. It names his parents as Michal and Maria (Demko) and his birthplace as Senné, as the records already had it. It also says his wife died before him, so Ahn 5 is no longer of unknown status. Its heading gives his birthday as September 21; the owner wrote the notice and says that is his own slip for October, which the paper and the funeral home both missed. He asked to be quoted and is. A typed index to arrivals of 1937 has 'Duska, Maria' and 'Stephan', 8, on one page, 263: a second record of their crossing and a pointer to the passenger list, which is now in the page tally. Two voters' lists follow him through Montréal: a machinist at 5218A in [1957], the flat on his marriage form, and 'Steeve', letter carrier, at 5520 on a numbered avenue of Rosemont in [1968] (H-092). The lists are published as two-row crops and the obituary with two living people's names blacked out. The fifth file is a second copy of the marriage form already held. Curiosities: 4",
+  "raised": [
+   "H-092"
+  ],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-497",
+   "S-498",
+   "S-499",
+   "S-500",
+   "S-000-19"
+  ],
   "committed_utc": null
  }
 ]

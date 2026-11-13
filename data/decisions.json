@@ -1066,5 +1066,41 @@
   "date": "2026-11-13",
   "decided": "H-084 is put back to 40.",
   "why": "The raise at B-053 rested on a count of 'Duskas' that cannot include a wife, since Québec enters married women under their maiden names. An error of mine, corrected in the log and not erased."
+ },
+ {
+  "id": "DEC-179",
+  "date": "2026-11-13",
+  "decided": "The obituary is published with two given names blacked out, and the file as sent stays out of the repo.",
+  "why": "The two are living people outside the line, named only as partners. The rest of the notice was printed in a newspaper by the owner himself and concerns the dead, the owner, and his father by first name only."
+ },
+ {
+  "id": "DEC-180",
+  "date": "2026-11-13",
+  "decided": "The obituary is marked not independent, and no relationship in the tree is rested on it.",
+  "why": "The owner wrote it. Reading it was not an exposure to his tree: every link in it was already here from records. It is used for the death, the funeral, the cemetery and his wife's death before him."
+ },
+ {
+  "id": "DEC-181",
+  "date": "2026-11-13",
+  "decided": "The two voters' lists are published as crops of the Duska rows only.",
+  "why": "Each capture names eighty to ninety neighbours with address and trade; many could be living (X-016)."
+ },
+ {
+  "id": "DEC-182",
+  "date": "2026-11-13",
+  "decided": "Ahn 5 is marked dead on her husband's obituary; her fields on the marriage form stay withheld.",
+  "why": "X-016 turns on her status, which is now known. X-022 turns on her line being outside the experiment, which has not changed. The coordinator is told."
+ },
+ {
+  "id": "DEC-183",
+  "date": "2026-11-13",
+  "decided": "The second copy of the marriage registration is logged in the manifest and makes no new document.",
+  "why": "Same checksum as D-006-22."
+ },
+ {
+  "id": "DEC-184",
+  "date": "2026-11-13",
+  "decided": "The index sheet of 1937 is in the repo whole.",
+  "why": "It shows strangers by name and age only, which X-016 allows; the rows transcribed are the Duskas and the two above them."
  }
 ]

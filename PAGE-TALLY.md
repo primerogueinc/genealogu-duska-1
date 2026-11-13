@@ -4,11 +4,11 @@ The owner said on 13 November 2026 that he will send the full register pages at 
 
 Nearly every record in this archive is one row cut from a page. A row keeps the names. It loses the page number, often the year, and the entries above and below it. The year on most strips is the one in the owner's file name, and at least eight of those have already proved wrong.
 
-- **42** strips are rank 1: a direct-line entry, or one an open hypothesis rests on.
+- **44** strips are rank 1: a direct-line entry, or one an open hypothesis rests on.
 - **130** are rank 2: other Duska strips whose year is only in the file name.
 - **252** are rank 3: the rest, most of them routed to the Demko and Places agents, who will rank their own.
 - **11** are already covered by a full page that has arrived.
-- **9** pages are needed and have not been seen in any form (last table).
+- **10** pages are needed and have not been seen in any form (last table).
 
 ## Rank 1: what each page would settle
 
@@ -18,6 +18,8 @@ Nearly every record in this archive is one row cut from a page. A row keeps the 
 | `D-009-06` | Baptism_of_Andreas_Duska_1868.png | date as the entry above (dtto), [1868] | direct line; H-050 | The baptism of Ahn 16. The date is 'as above' on the strip: the entry above gives it. The year, page and entry number. |
 | `D-009-23` | Baptism_of_Anna_Nyemcsik_1872.png | 24 August [1872] | direct line; - | The baptism of Ahn 17. The year (1872 is the owner's), the page number and entry number. |
 | `D-013-138` | Death_of_Gyorgy_Duska_1908.png | 5 January 1908 | direct line; H-052 | The death of Ahn 32. The page number and entry number for the citation; the rows around it for other deaths in house 3. |
+| `D-015-03` | Steve_and_Joan_Duska_Residence_in_1957.png | [1957], by the owner's file name | direct line; - | The heading of the page: the year, the electoral district and the street. All three now rest on the file name and on the house number. |
+| `D-015-04` | Steve_and_Joan_Residence_in_1968.png | [1968], by the owner's file name | direct line; H-092 | The heading of the section the two rows stand in: the street. And the year and district from the top of the page (H-092). |
 | `D-007-08` | Baptism_of_Anna_Nyemcsik_1902.png | 12 and 14 December [1902] | - | The row below the one kept: Mihály Duska, born at 'Bradenville'. The full row and the rows under it (R-010). A Duska born in America and baptised at home. |
 | `D-009-10` | Baptism_of_Anna_Duska_1866.png | 17 March [1866] | H-050 | The first child of Ahn 32 and Anna Krak. The year (1866 is the owner's) bounds their marriage, which is not in hand. |
 | `D-009-33` | Baptism_of_Gyorgy_Duska_1872_to_Anna_Krak_and_Gyorgy_Duska.png | 10 February [1872] | - | A son of Ahn 32 and Anna Krak. The year (1872 is the owner's) fixes the order of their children, who run to August 1875 (H-052). |
@@ -118,6 +120,7 @@ Noted here, not asked for: marriages and further deaths come as folders of their
 
 | Page | Where it should be | What it settles |
 |---|---|---|
+| The passenger list of 1937, page 263: Maria Duska and her son Stephan | The lists of arrivals for 1937 that the typed index points to (D-015-02) | The ship, port and day of their arrival, who they were going to and at what address; H-065 on its own record. |
 | Marriage of György Duska (Ahn 32) and Anna Krak, about 1864 to 1866 | Senné Roman Catholic marriages, or the bride's Greek Catholic parish | Which Anna Krak she is and who her parents were (Ahn 66 and 67); H-050, H-055. |
 | Burial of Anna Krak, wife of György Duska, between August 1875 and 1879 | The Greek Catholic book that served Szenna; she is not among the Senné Roman Catholic strips | Her age, so her birth year, and with it which Anna Krak she is; H-052, H-055. |
 | Marriage of Michal Duska and Maria Demko, 30 January 1927 | Probably Iňačovce Greek Catholic marriages | The ages and parents of Ahn 8 and Ahn 9 on one record; R-017. |

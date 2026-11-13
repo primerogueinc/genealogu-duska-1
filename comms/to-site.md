@@ -3,7 +3,13 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 13 Nov 2026, after Duska batch B-054.
+- Last updated: 13 Nov 2026, after Duska batch B-055.
+
+## 0000000000000000000000000000. New at B-055
+
+- New folder `F-015` (`open`), four documents `D-015-01` to `-04`, images under `assets/pages/F-015/`. Three have `web_file` and `deidentified`: show `web_file`; the `file` named is not in the repo. `D-015-01` has `independent: false`.
+- `people.json`: `P-004` has `death` and `burial` filled; `P-005` has `living: false` and a `death` with `place: null`.
+- `page_wants.json` now has 437 strips and 10 `never_seen`. `hypotheses.json`: `H-092`. `priors.json`: `PR-18`. `sources.json`: `S-000-19` after `S-000-18`.
 
 ## 000000000000000000000000000. New at B-054
 

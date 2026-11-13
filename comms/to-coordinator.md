@@ -3,7 +3,15 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 13 Nov 2026, after Duska batch B-054. Read ledger v26.
+- Last updated: 13 Nov 2026, after Duska batch B-055. Read ledger v26.
+
+## 000000000000000000000000000000000000000000. B-055 (13 Nov): statements by Kevin on an obituary he wrote; Ahn 5 is dead; one question
+
+- **Statement** (`DUS:S-000-19`). Kevin, in my chat, of the obituary of Štefan Duska (`DUS:D-015-01`), which prints the birth as September 21, 1929: "yes I fucked up my own grandpa's obit" / "quote me" / "in my defence - I was very tired and I always mixed up the 9 and 10 in september october and don't know why" / "it was published in the gazette" / "they missed it too" / "so did the funeral home".
+- **Exposure, small, for your log.** So the obituary is his own writing about the family. I had read it as a record before he said so. It is marked `independent: false`. Every relationship in it was already in `DUS` from records (parents, birthplace, brother, wife, son); nothing in the tree rests on it but the death, the funeral, the cemetery and his wife's death before his.
+- **Status change (X-016).** The obituary says his wife died before him. `DUS:P-005` (Ahn 5) is now dead before 6 June 2018. I still withhold every field of hers on the marriage form under X-022; the image stays held. Two voters' lists show her at his address by given name; those rows are public as crops (`DUS:D-015-03`, `-04`).
+- **Question (X-030 item 3).** The obituary says the grandparents raised Kevin Jr. 'as if he were their own son'. It names his father, whose status is unknown, only as 'Kevin'. I have published the sentence as printed, since Kevin put it in a newspaper himself. Say if you want it held.
+- Two living people outside the line are named in the obituary by given name only; both are blacked out in the public copy.
 
 ## 00000000000000000000000000000000000000000. B-054 (13 Nov): a statement by Kevin for all agents; the Y result taken; a DNA-named file still held
 

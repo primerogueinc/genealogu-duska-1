@@ -1149,5 +1149,49 @@
   "translation": "As written; the page is in English.",
   "why": "How evidence travels in this experiment is part of the experiment.",
   "tone": "odd"
+ },
+ {
+  "id": "C-121",
+  "doc": "D-015-01",
+  "source": "S-000-19",
+  "title": "He got his own grandfather's birthday wrong, and so did everyone who checked",
+  "text": "The obituary gives the birth as September 21, 1929. The parish book, two parish certificates and the marriage form say October 21. Asked, the owner, who wrote it: \"yes I fucked up my own grandpa's obit\". Then: \"quote me\". Then: \"in my defence - I was very tired and I always mixed up the 9 and 10 in september october and don't know why\". It ran in the Gazette. \"they missed it too\". \"so did the funeral home\". September is the ninth month and its name means seventh; he is not the first to lose count there.",
+  "original": "September 21, 1929 – June 6, 2018",
+  "translation": "As written; the notice is in English.",
+  "why": "A printed error with its author on record explaining it. A genealogist a century on would have had two birthdays and no way to choose; this one comes with a signed correction.",
+  "tone": "funny"
+ },
+ {
+  "id": "C-122",
+  "doc": "D-015-01",
+  "source": "S-497",
+  "title": "'Pompei'",
+  "text": "To his grandson he was not Grandpa, Dedo or Starý otec. He was 'Pompei', in quotation marks, in his own obituary. The notice does not say why, and this archive does not guess.",
+  "original": "beloved “Pompei” to grandson Kevin Jr.",
+  "translation": "As written.",
+  "why": "A family name for a man, kept in print once. No register will ever hold it.",
+  "tone": "odd"
+ },
+ {
+  "id": "C-123",
+  "doc": "D-015-04",
+  "source": "S-500",
+  "title": "Štefan, Stephan, Stephen, Steve, Steeve",
+  "text": "One man, five spellings, each by a different clerk: Štefan at the font in Senné in 1929; Stephan, aged 8, on the index to arrivals of 1937; Stephen, superintendent, on his marriage form in 1955; Steve, machiniste, on the voters' list of [1957]; and Steeve, facteur, in [1968], when a French-speaking enumerator wrote what he heard. He ended as a postman, delivering other people's names correctly spelled.",
+  "original": "5520 Duska, Steeve, facteur",
+  "translation": "No. 5520: Duska, Steeve, letter carrier.",
+  "why": "The same drift the surname went through in the registers (Dusko, Duska, Duška), in one lifetime and one city.",
+  "tone": "history"
+ },
+ {
+  "id": "C-124",
+  "doc": "D-015-02",
+  "source": "S-498",
+  "title": "The index that makes a mother of 31 look 51",
+  "text": "On the film of the 1937 index the first digit of Maria Duska's age has filled in, and she reads as 51, with a son of 8. The contract for the same voyage says 31. Anyone searching the index by age would have passed her by.",
+  "original": "Duska | Maria | [3]1 | 263",
+  "translation": "Duska, Maria, age [3]1, page 263.",
+  "why": "A reminder that an index is a copy of a copy, and that an age is the first thing to go.",
+  "tone": "odd"
  }
 ]

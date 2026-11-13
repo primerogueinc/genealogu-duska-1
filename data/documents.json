@@ -25664,5 +25664,209 @@
     "the single-row strips of folder F-009 cut from the same pages"
    ]
   }
+ },
+ {
+  "id": "D-015-01",
+  "folder": "F-015",
+  "batch": "B-055",
+  "source": "S-497",
+  "file": "Obituary_for_Stefan_.jpg",
+  "web_file": "Obituary_for_Stefan__two_names_blacked_out.jpg",
+  "sha256": "fdc4b6f7d4c8d2b253491f19c8ae68bb228179dca3fd0dccb195d7501e96b566",
+  "wide": false,
+  "title": "Obituary of Stefan 'Steve' Duska, died Montréal 6 June 2018, written by his grandson, the owner of this archive",
+  "span": "6 June 2018; funeral 27 June 2018",
+  "language": "English",
+  "collector_label": "Obituary for Stefan",
+  "family": "FG-62",
+  "route": "duska",
+  "provenance": {
+   "archive": "A funeral home's notice, by the footer 'Alfred Dallaire MEMORIA'; by the owner, also printed in the Montreal Gazette (S-000-19). No newspaper, date or page is on the image.",
+   "fond_or_film": "not a register",
+   "book": "not a register",
+   "page_or_image": "one image, a tall column",
+   "obtained": "From the owner's desktop folder 'Duska documents part 1', sent through chat on 13 Nov 2026. He wrote the text himself in 2018 (S-000-19)."
+  },
+  "deidentified": "Published with two words blacked out: the given names, in brackets, of two living people who are not on the line. The file as sent is not in the repository.",
+  "independent": false,
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "6 June 2018",
+    "from": "Obituary (written by the grandson, the owner of this archive; printed by a funeral home and, by his word, a newspaper)",
+    "abstract": "Stefan 'Steve' Duska died in Montréal on Wednesday 6 June 2018, aged 88. He was the son of Michal and Maria (Demko), was born at Senné, came to Canada 'in early childhood', and retired from the postal service. His wife Joan (Leonard) died before him. He was father to Kevin, grandfather to Kevin Jr., whom he and his wife raised, and brother to Mike. Funeral mass on Wednesday 27 June 2018 at St-Brendan's, 3542 Rosemont Boulevard, Montréal; the remains to be interred afterwards at Notre-Dame-des-Neiges. The heading gives his birth as 21 September 1929. Every record made in his lifetime says October: the 21st in the parish book and on his marriage form, the 23rd on the papers of 1937. The owner wrote the obituary and says September is his own slip (S-000-19). Every relationship in the text was already in this tree from records before it was read; what is new is the day of death, the funeral, the cemetery, that his wife died first, and that his brother was living in June 2018.",
+    "reading": "high: print"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The whole notice. Two given names are withheld.",
+    "original": "[photograph of an old man in a cap]\nDUSKA, Stefan “Steve”\nSeptember 21, 1929 – June 6, 2018\nPassed away peacefully in Montreal on Wednesday, June 6, 2018 at the age of 88. The son of Michal and Maria (Demko), Steve was predeceased by his wife Joan (Leonard), father to Kevin, beloved “Pompei” to grandson Kevin Jr. [a given name in brackets, withheld], brother to Mike [a given name in brackets, withheld], and friend to many others. Born in Senné, Slovakia, Steve immigrated to Canada in early childhood. After his retirement from the postal service, he and his wife raised their grandson Kevin Jr. as if he were their own son. An avid reader and a quiet man, Steve was nevertheless a prankster whose heart was filled with great humor and kindness. He will be missed dearly by all those whose lives he touched. A funeral mass to celebrate his life will be held at St-Brendan's Catholic Church (3542, Rosemont Blvd., Montreal, Qc) on Wednesday, June 27 at 11:30 a.m. The family will receive condolences starting at 10:30 a.m. His remains will subsequently be interred at the Notre-Dame-des-Neiges Cemetery.\n[footer] Alfred Dallaire MEMORIA",
+    "english": "As written; the notice is in English."
+   }
+  ],
+  "object": {
+   "kind": "An obituary as shown on a funeral home's website or printed card, saved as one tall image",
+   "form": "A portrait photograph, a name in capitals, the dates of birth and death, three paragraphs of text and the funeral home's mark in a grey footer.",
+   "does_not_fit": "The birth date in the heading, September 21, is a month early (see the abstract). 'Slovakia' for a birth of 1929 is the present name of the country; the papers of the time say Czechoslovakia. 'Early childhood': he was eight.",
+   "made_by": "The owner, Kevin J.S. Duska Jr., his grandson, by his own statement; set by the funeral home.",
+   "kept": "The funeral home's site; by the owner, the Montreal Gazette of June 2018.",
+   "compared": [
+    "D-006-22, the marriage registration of 1955, which has 'Oct 21 1929'",
+    "D-006-21 and the parish certificate of 1947, both 21 October 1929",
+    "D-006-20, his father's death notice of 1974, which names the same two sons"
+   ]
+  }
+ },
+ {
+  "id": "D-015-02",
+  "folder": "F-015",
+  "batch": "B-055",
+  "source": "S-498",
+  "file": "Stefan_Duska_and_Maria_Demko_Canada_Arrival_1937.png",
+  "sha256": "80b0eceedda9c2652b32ef7a3b04aa5a53f82c8011c9e2898876682fd70861e9",
+  "wide": true,
+  "title": "Index to arrivals of 1937: Duska, Maria and Stephan, both on page 263",
+  "span": "1937",
+  "language": "English",
+  "collector_label": "Stefan Duska and Maria Demko Canada Arrival 1937",
+  "family": "FG-62",
+  "route": "duska",
+  "provenance": {
+   "archive": "unknown; by the owner's file name, a Canadian arrival record",
+   "fond_or_film": "unknown; a typed index on microfilm",
+   "book": "A typed name index headed '1937', sheet '4.'",
+   "page_or_image": "one frame, shown in an online viewer",
+   "obtained": "From the owner's desktop folder 'Duska documents part 1', sent through chat on 13 Nov 2026. A screen capture of a film frame; where he found it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "rows 3 and 4",
+    "date": "1937",
+    "from": "Typed index to arrivals (derivative: a finding aid to the lists)",
+    "abstract": "A typed alphabetical index, headed 1937, with four columns: surname, given name, age, and a number that runs from 117 to 263 and is taken to be a page. 'Duska, Maria', age [3]1, page 263, and under her 'Stephan', age 8, page 263. Stephan is Štefan Duska, eight years old in November 1937. Maria Demko was 31; the first digit of her age is blurred on the film and looks more like a 5. They share a page, as a mother and child on one passport would. The index names no ship, port or day. The other names on the sheet are strangers: Durston, Durway, Dussault, Dussean, four Duszeneks and three Duthies.",
+    "reading": "high for the names and the page; medium for Maria's age"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The heading and the first four rows. The rest of the sheet is other families.",
+    "original": "1937 | 4.\nDurston | Francis | 20 | 195\nDurway | Xenia | 24 | 168\nDuska | Maria | [3]1 | 263\n | Stephan | 8 | 263",
+    "english": "As written; the index is in English. Columns: surname, given name, age, page."
+   }
+  ],
+  "object": {
+   "kind": "One sheet of a typed name index to passenger arrivals, on microfilm",
+   "form": "Typewritten, four columns without headings; the year typed at the top centre and a sheet number at the top right. A surname is typed once and left blank for the next person of the same party.",
+   "does_not_fit": "The file name says 'Canada Arrival': nothing on the sheet says Canada, a port or a ship. Maria's age reads 51 at first sight.",
+   "made_by": "An immigration or shipping office clerk, from the lists of the year; not named.",
+   "kept": "Not known. The passenger lists it indexes would be with the national archives of Canada (recalled, not sourced).",
+   "compared": [
+    "The passage contract of November 1937, which has Maria, 31, and Štefan, 8, on one ticket for the Montrose from Antwerp",
+    "D-006-19, the list of 1929 or 1930 on which Michal arrived"
+   ]
+  }
+ },
+ {
+  "id": "D-015-03",
+  "folder": "F-015",
+  "batch": "B-055",
+  "source": "S-499",
+  "file": "Steve_and_Joan_Duska_Residence_in_1957.png",
+  "web_file": "Steve_and_Joan_Duska_Residence_in_1957__two_rows.png",
+  "sha256": "ca9b85dcbe3787d879e66649ed6ce12c804f9ef713bda2ec31e9352ba08b749b",
+  "wide": true,
+  "title": "Voters' list, Montréal, [1957]: Steve Duska, machinist, and Mrs. Joan Duska at no. 5218A",
+  "span": "[1957], by the owner's file name",
+  "language": "French and English",
+  "collector_label": "Steve and Joan Duska Residence in 1957",
+  "family": null,
+  "route": "duska",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown; a printed voters' list seen in an online viewer with the search words highlighted",
+   "book": "Printed list of electors; the district, the year and the street are not on the capture",
+   "page_or_image": "part of one page, two columns; electors 112 and 113 of the polling division",
+   "obtained": "From the owner's desktop folder 'Duska documents part 1', sent through chat on 13 Nov 2026. A screen capture of a search result."
+  },
+  "deidentified": "Published as a crop of the two Duska rows. The capture shows about ninety neighbours by name, address and trade and is not in the repository.",
+  "entries": [
+   {
+    "no": "electors 112 and 113",
+    "date": "[1957]",
+    "from": "Printed voters' list (original record, cropped)",
+    "abstract": "'5218A Duska, Steve, machiniste' and '5218A Duska, Mrs. Joan'. The street is not on the capture. The number is the one on their marriage form of November 1955, 5218A Des Érables, so this is taken to be the same flat a year or two later. He was a superintendent in 1955 and is a machinist here. The year is the owner's.",
+    "reading": "high: print"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The two rows.",
+    "original": "5218A Duska, Steve, machiniste ........ 112\n5218A Duska, Mrs. Joan — ........ 113",
+    "english": "No. 5218A: Duska, Steve, machinist, elector 112. No. 5218A: Duska, Mrs. Joan, no occupation given, elector 113."
+   }
+  ],
+  "object": {
+   "kind": "A page of a printed list of electors for a polling division of Montréal",
+   "form": "Two columns of small type: house number, surname, given name, occupation, a row of dots and the elector's running number. Married women are 'Mme' or 'Mrs.' and have a dash for occupation. French and English are mixed line by line: 'machiniste' beside 'Mrs.'.",
+   "does_not_fit": "Nothing on the capture gives the year, the electoral district or the street. All three rest on the owner's file name and on the match of the house number with the marriage form.",
+   "made_by": "Enumerators for an election; which election is not shown.",
+   "kept": "Not known; printed lists of electors are held by the national archives and are searchable online (recalled, not sourced).",
+   "compared": [
+    "D-006-22, the marriage registration of 1955 (address 5218A Des Érables)",
+    "D-015-04, the list of [1968]"
+   ]
+  }
+ },
+ {
+  "id": "D-015-04",
+  "folder": "F-015",
+  "batch": "B-055",
+  "source": "S-500",
+  "file": "Steve_and_Joan_Residence_in_1968.png",
+  "web_file": "Steve_and_Joan_Residence_in_1968__two_rows.png",
+  "sha256": "a1400787c57f266e52951afd3cae0b887af02aa70ec83b8a441c9643d8fbf74f",
+  "wide": true,
+  "title": "Voters' list, Montréal, [1968]: 'Steeve' Duska, letter carrier, and Joan Duska at no. 5520",
+  "span": "[1968], by the owner's file name",
+  "language": "French",
+  "collector_label": "Steve and Joan Residence in 1968",
+  "family": null,
+  "route": "duska",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown; a printed voters' list seen in an online viewer with the search words highlighted",
+   "book": "Printed list of electors; the district, the year and the street are not on the capture",
+   "page_or_image": "part of one page, two columns; electors 117 and 118 of the polling division",
+   "obtained": "From the owner's desktop folder 'Duska documents part 1', sent through chat on 13 Nov 2026. A screen capture of a search result."
+  },
+  "deidentified": "Published as a crop of the two Duska rows. The capture shows about eighty neighbours by name, address and trade and is not in the repository.",
+  "entries": [
+   {
+    "no": "electors 117 and 118",
+    "date": "[1968]",
+    "from": "Printed voters' list (original record, cropped)",
+    "abstract": "'5520 Duska, Steeve, facteur' and '5520 Duska, Joan'. He is a letter carrier, which agrees with the obituary's 'retirement from the postal service'. The street heading is above the top of the capture. The section holds even numbers from 5494 to 5524, and the next section on the page is headed '13e AVENUE, EST', so the Duskas were on a numbered avenue of Rosemont, the 13th or one beside it (H-092). The year is the owner's.",
+    "reading": "high: print"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The two rows, and the heading that follows their section.",
+    "original": "5520 Duska, Steeve, facteur 117\n5520 Duska, Joan — 118\n[two more electors, then the next heading:] 13e AVENUE, EST",
+    "english": "No. 5520: Duska, Steeve, letter carrier, elector 117. No. 5520: Duska, Joan, no occupation given, elector 118. Next heading: 13th Avenue, east side."
+   }
+  ],
+  "object": {
+   "kind": "A page of a printed list of electors for a polling division of Montréal",
+   "form": "Two columns of heavier type than the list of [1957]: house number, surname, given name, occupation, elector's number. Wives are no longer 'Mme': a given name and a dash. Street headings in capitals with the side of the street, 'EST'.",
+   "does_not_fit": "'Steeve': a French ear's spelling. The year, the district and the street are not on the capture.",
+   "made_by": "Enumerators for an election; which election is not shown.",
+   "kept": "As D-015-03.",
+   "compared": [
+    "D-015-03, the list of [1957]",
+    "D-015-01, the obituary: the funeral was at St-Brendan's on Rosemont Boulevard"
+   ]
+  }
  }
 ]

@@ -440,6 +440,14 @@
   "reliability": "A testing company's assignment of the owner's Y chromosome to a branch, relayed twice (company, owner, Demko agent). Scored as given (X-023 item 2). It is evidence about the male line as a whole, many centuries deep. It names no person. This agent has not seen the result page, the account or any match list, and may not."
  },
  {
+  "id": "S-000-19",
+  "batch": "B-055",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 13 Nov 2026: he wrote his grandfather's obituary and got the month of birth wrong",
+  "extract": "Six messages in a row, about the obituary's 'September 21, 1929': \"yes I fucked up my own grandpa's obit\" / \"quote me\" / \"in my defence - I was very tired and I always mixed up the 9 and 10 in september october and don't know why\" / \"it was published in the gazette\" / \"they missed it too\" / \"so did the funeral home\"",
+  "reliability": "The owner on a text he wrote himself. It settles who wrote the obituary and that 'September' is a slip for October, month 9 for month 10. It also says the notice ran in the Montreal Gazette and passed the paper and the funeral home unnoticed. He asked to be quoted."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -4110,5 +4118,37 @@
   "title": "Senné baptisms, pages 122 and 123, 1890: the full opening with the baptism of Miklós Duska, born 28 November 1890",
   "extract": "Pages 122 and 123, headed 1890, entries 45 to 58, with the column headings. Entry 58, the last on page 123: Miklós, born 28 and baptised 29 November 1890, legitimate son of György Duska the younger, Roman Catholic cottar of Szenna, and Erzsébet Schwarz of Alsó-Ribnicze, here entered as Roman Catholic; Szenna, house 6; godparents János Muha 'the eldest' (legid.), farmer, and Mária Drostyák, Greek Catholic; baptised by István Rusznák, dean. Remarks blank. The page behind the strips D-009-84 and D-006-24. The owner's file name offers Miklós or Mikulas. Other rows are not abstracted.",
   "reliability": "Reading level: high."
+ },
+ {
+  "id": "S-497",
+  "batch": "B-055",
+  "type": "Obituary (written by the grandson, the owner of this archive)",
+  "title": "Obituary of Stefan 'Steve' Duska, died Montréal 6 June 2018, written by his grandson, the owner of this archive",
+  "extract": "Stefan 'Steve' Duska died in Montréal on Wednesday 6 June 2018, aged 88. He was the son of Michal and Maria (Demko), was born at Senné, came to Canada 'in early childhood', and retired from the postal service. His wife Joan (Leonard) died before him. He was father to Kevin, grandfather to Kevin Jr., whom he and his wife raised, and brother to Mike. Funeral mass on Wednesday 27 June 2018 at St-Brendan's, 3542 Rosemont Boulevard, Montréal; the remains to be interred afterwards at Notre-Dame-des-Neiges. The heading gives his birth as 21 September 1929. Every record made in his lifetime says October: the 21st in the parish book and on his marriage form, the 23rd on the papers of 1937. The owner wrote the obituary and says September is his own slip (S-000-19). Every relationship in the text was already in this tree from records before it was read; what is new is the day of death, the funeral, the cemetery, that his wife died first, and that his brother was living in June 2018.",
+  "reliability": "Written within three weeks of the death by the man's grandson, who was raised by him: firsthand for the death, the funeral and the household, hearsay for the birth and the parents. Not independent of the owner. One date in it is wrong by his own account. Reading level: high."
+ },
+ {
+  "id": "S-498",
+  "batch": "B-055",
+  "type": "Typed index to arrivals (derivative: a finding aid)",
+  "title": "Index to arrivals of 1937: Duska, Maria and Stephan, both on page 263",
+  "extract": "A typed alphabetical index, headed 1937, with four columns: surname, given name, age, and a number that runs from 117 to 263 and is taken to be a page. 'Duska, Maria', age [3]1, page 263, and under her 'Stephan', age 8, page 263. Stephan is Štefan Duska, eight years old in November 1937. Maria Demko was 31; the first digit of her age is blurred on the film and looks more like a 5. They share a page, as a mother and child on one passport would. The index names no ship, port or day. The other names on the sheet are strangers: Durston, Durway, Dussault, Dussean, four Duszeneks and three Duthies.",
+  "reliability": "An office index made from the passenger lists of the year. Good for the fact of arrival in 1937 and for the page to look at; it is not the list. Reading level: high for names and page."
+ },
+ {
+  "id": "S-499",
+  "batch": "B-055",
+  "type": "Printed voters' list (original record, cropped)",
+  "title": "Voters' list, Montréal, [1957]: Steve Duska, machinist, and Mrs. Joan Duska at no. 5218A",
+  "extract": "'5218A Duska, Steve, machiniste' and '5218A Duska, Mrs. Joan'. The street is not on the capture. The number is the one on their marriage form of November 1955, 5218A Des Érables, so this is taken to be the same flat a year or two later. He was a superintendent in 1955 and is a machinist here. The year is the owner's.",
+  "reliability": "A list made by enumerators at the door: sound for who lived at a number and what he said he did. The year and street are not on the capture. Reading level: high."
+ },
+ {
+  "id": "S-500",
+  "batch": "B-055",
+  "type": "Printed voters' list (original record, cropped)",
+  "title": "Voters' list, Montréal, [1968]: 'Steeve' Duska, letter carrier, and Joan Duska at no. 5520",
+  "extract": "'5520 Duska, Steeve, facteur' and '5520 Duska, Joan'. He is a letter carrier, which agrees with the obituary's 'retirement from the postal service'. The street heading is above the top of the capture. The section holds even numbers from 5494 to 5524, and the next section on the page is headed '13e AVENUE, EST', so the Duskas were on a numbered avenue of Rosemont, the 13th or one beside it (H-092). The year is the owner's.",
+  "reliability": "As S-499. Reading level: high."
  }
 ]

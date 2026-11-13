@@ -1936,6 +1936,11 @@
     "batch": "B-038",
     "effect": "no change",
     "note": "Ledger v20 (X-028) agrees that an event shown on dated originals is not capped."
+   },
+   {
+    "batch": "B-055",
+    "effect": "no change",
+    "note": "A second record of the arrival: an index to 1937 has 'Duska, Maria' and 'Stephan', 8, on one page, 263 (D-015-02). It names no ship. The list page it points to is not in hand and is in the page tally."
    }
   ]
  },
@@ -2091,6 +2096,11 @@
     "batch": "B-040",
     "effect": "no change",
     "note": "The 1973 paper is a statistical return, not the church's act of marriage. A return did not ask for the parents' names; the register at St-Alphonse d'Youville would have them. The test is reworded accordingly."
+   },
+   {
+    "batch": "B-055",
+    "effect": "no change",
+    "note": "The obituary of 2018 gives Štefan a brother Mike, then living (D-015-01). That there was such a brother was known from 1974; it adds nothing on the birth of 1938."
    }
   ]
  },
@@ -2380,6 +2390,11 @@
     "batch": "B-054",
     "effect": "lowered from 50 to 40",
     "note": "My reasoning at B-053 was wrong. I took 'only three Duskas on the cemetery's books' to mean no wife of Mikalis lies there. But Québec records enter a married woman under her maiden name: the same index has Maria Duska as 'Demko Mary' (D-013-101). A wife of Mikalis would be on the books as Hancosek, not Duska, so the count of three says nothing about her. Back to where it stood."
+   },
+   {
+    "batch": "B-055",
+    "effect": "no change",
+    "note": "If Štefan was interred at Notre-Dame-des-Neiges in 2018 as his obituary says, the cemetery's 'three Duskas' of after January 2022 are most simply Mikalis, Mike Sr. and Štefan, with Mary Demko under her maiden name. That fits the correction made at B-054."
    }
   ]
  },
@@ -2509,5 +2524,24 @@
    }
   ],
   "question": "Where did the Duska male line come from before the registers begin?"
+ },
+ {
+  "id": "H-092",
+  "statement": "In [1968] Steve and Joan Duska lived at no. 5520 on a numbered avenue of Rosemont, Montréal: 13th Avenue or one of the two beside it.",
+  "confidence": 65,
+  "basis": "The voters' list has them at 5520 in a section of even numbers that ends just above the heading '13e AVENUE, EST' (D-015-04). A polling division is a few adjoining blocks, so the section above is the other side of 13th Avenue or the side of a neighbouring avenue. His funeral fifty years later was from St-Brendan's on Rosemont Boulevard, which is in that quarter (D-015-01; the parish's bounds are recalled, not sourced). Against: the heading of their own section is cut off, and a division can join streets that are not neighbours.",
+  "test": "The heading of the section on the full page of the list (in the page tally). A city directory for 1968 under Duska.",
+  "status": "open",
+  "raised": "B-055",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-055",
+    "effect": "raised at 65",
+    "note": "Raised on a heading that belongs to the next section, so it is a bracket and not an address."
+   }
+  ],
+  "question": "Where in Montréal did Štefan Duska's household live in the 1960s?"
  }
 ]

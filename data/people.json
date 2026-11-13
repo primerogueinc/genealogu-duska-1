@@ -59,18 +59,23 @@
    "S-253",
    "S-254",
    "S-275",
-   "S-276"
+   "S-276",
+   "S-497",
+   "S-498",
+   "S-499",
+   "S-500",
+   "S-000-19"
   ],
-  "note": "Son of Michal Duska, Roman Catholic cottar of Senné, and Maria Demko, Greek Catholic, of Iňačovce, by a sealed parish certificate of 1947. Born in Slovakia, not in Canada. Known as Steve; died 2018 (stated, no record in hand). He left Iňačovce with his mother in November 1937, aged 8, on her passport, and sailed from Antwerp for Montréal to join his father (S-252 to S-254). Three papers of 1937 give his birthday as 23 October 1929; the parish certificate has 21 October, which is kept here as the church's own entry. In 1984 he is 'Steve Duska, born in Czechoslovakia' (S-249). Married Joan Teresa Leonard at St. Dominic's Church, Montréal, on 26 November 1955; then a superintendent, living at 5218A Des Érables (D-006-22, image held). A second parish extract of his baptism was issued at Senné on 1 October 1955 (D-006-21).",
+  "note": "Son of Michal Duska, Roman Catholic cottar of Senné, and Maria Demko, Greek Catholic, of Iňačovce, by a sealed parish certificate of 1947. Born in Slovakia, not in Canada. Known as Steve. He left Iňačovce with his mother in November 1937, aged 8, on her passport, and sailed from Antwerp for Montréal to join his father (S-252 to S-254). Three papers of 1937 give his birthday as 23 October 1929; the parish certificate has 21 October, which is kept here as the church's own entry. In 1984 he is 'Steve Duska, born in Czechoslovakia' (S-249). Married Joan Teresa Leonard at St. Dominic's Church, Montréal, on 26 November 1955; then a superintendent, living at 5218A Des Érables (D-006-22, image held). A second parish extract of his baptism was issued at Senné on 1 October 1955 (D-006-21). Died in Montréal on 6 June 2018 aged 88; funeral at St-Brendan's, Rosemont Boulevard, on 27 June; to be interred at Notre-Dame-des-Neiges (D-015-01, the obituary, written by the owner). If he lies there he is the third of the 'three Duskas' the cemetery has on its books (D-014-08). Work: superintendent in 1955, machinist in [1957], letter carrier in [1968]; he retired from the postal service. On the index to arrivals of 1937 he is 'Stephan', 8, on page 263 with his mother (D-015-02). The obituary prints his birthday as 21 September; the owner, who wrote it, says that is his slip for October (S-000-19). So the family kept the 21st of October, the parish's date, and not the 23rd of the 1937 papers.",
   "owner": "Duska",
-  "living_basis": "Died in 2018 by Kevin's statement to the coordinator (S-000-6).",
+  "living_basis": "Died on 6 June 2018 by the obituary his grandson wrote (D-015-01).",
   "baptism": {
    "date": "26 Oct 1929",
    "place": "Roman Catholic parish church, Senné (register vol. IV, p. 110, entry 43)"
   },
   "death": {
-   "date": "2018",
-   "place": null
+   "date": "6 Jun 2018",
+   "place": "Montréal"
   },
   "residence": [
    {
@@ -84,26 +89,47 @@
    {
     "date": "Nov 1937",
     "place": "Montréal (destination on the contract)"
+   },
+   {
+    "date": "Nov 1955",
+    "place": "Montréal, 5218A Des Érables (marriage form)"
+   },
+   {
+    "date": "[1957]",
+    "place": "Montréal, no. 5218A (voters' list; street from the marriage form)"
+   },
+   {
+    "date": "[1968]",
+    "place": "Montréal, no. 5520 on a numbered avenue of Rosemont (voters' list; H-092)"
    }
-  ]
+  ],
+  "burial": {
+   "date": "after the funeral of 27 Jun 2018",
+   "place": "Notre-Dame-des-Neiges cemetery, Montréal (by the obituary; the plot is not stated)"
+  }
  },
  {
   "id": "P-005",
   "ahnentafel": 5,
   "name": "Joan Teresa Leonard",
   "role": "Paternal grandmother",
-  "living": "unknown",
+  "living": false,
   "birth": {
    "date": null,
    "place": "[withheld: outside this experiment]"
   },
   "proof": "documented",
   "sources": [
-   "S-276"
+   "S-276",
+   "S-497"
   ],
-  "note": "Wife of Stephen (Štefan) Duska by the registration of their marriage, Montréal, 26 November 1955. Entered by name only; her own line is outside this rebuild (ruling X-022) and nothing else from the record is used.",
+  "note": "Wife of Stephen (Štefan) Duska by the registration of their marriage, Montréal, 26 November 1955. Entered by name only; her own line is outside this rebuild (ruling X-022) and nothing else from the record is used. Dead before 6 June 2018 by her husband's obituary. On the voters' lists of [1957] and [1968] she is at his address (D-015-03, D-015-04). Her own line stays outside this rebuild.",
   "owner": "outside this experiment",
-  "living_basis": "No death on record here; shown by name only."
+  "living_basis": "Her husband's obituary of June 2018 says she died before him (D-015-01).",
+  "death": {
+   "date": "before 6 Jun 2018",
+   "place": null
+  }
  },
  {
   "id": "P-008",

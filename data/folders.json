@@ -219,5 +219,17 @@
   ],
   "archive_path": "records/F-014_Duska-Random/",
   "completed": "2026-11-13"
+ },
+ {
+  "id": "F-015",
+  "desktop_path": "Duska documents part 1",
+  "described_as": "Announced by the owner as 'New random ass folder called Duska documents part 1': the obituary of Štefan Duska (2018), a sheet of an index to arrivals of 1937, a second copy of the marriage registration of 1955, and two voters' lists.",
+  "status": "open",
+  "first_seen": "2026-11-13",
+  "files_received": 5,
+  "batches": [
+   "B-055"
+  ],
+  "archive_path": "records/F-015_Duska-Documents-part-1/"
  }
 ]

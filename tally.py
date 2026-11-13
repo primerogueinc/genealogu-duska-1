@@ -22,7 +22,8 @@ STRIP_FOLDERS = {'F-002': 'Baptisms, Čičarovce (Viszoka)', 'F-003': 'Baptisms,
                  'F-004': 'Baptisms, Čičarovce (Viszoka)', 'F-005': 'Baptisms, Iňačovce Greek Catholic',
                  'F-007': 'Baptisms, Iňačovce Reformed', 'F-008': 'Baptisms, Prešov Greek Catholic',
                  'F-009': 'Baptisms, Senné Roman Catholic', 'F-010': 'Baptisms, Staré', 'F-013': 'Burials'}
-EXTRA = {'D-006-19': 'Passenger list', 'D-014-01': 'Passenger list', 'D-006-24': 'Baptisms, Senné Roman Catholic'}   # strips filed outside the strip folders
+EXTRA = {'D-006-19': 'Passenger list', 'D-014-01': 'Passenger list', 'D-006-24': 'Baptisms, Senné Roman Catholic',
+         'D-015-03': "Voters' list, Montréal", 'D-015-04': "Voters' list, Montréal"}   # strips filed outside the strip folders
 SKIP = {'D-013-99', 'D-013-100', 'D-013-101'}                           # crops of a society's index, not register strips
 
 # What the full page is expected to settle, by document. Written by hand.
@@ -53,12 +54,15 @@ NOTES = {
     'D-010-01': "The Sztára baptism of an Anna Krak, January 1848. The mother's surname is doubtful; the page and the entries around it would fix it (H-055).",
     'D-006-19': "The heading of the passenger list: ship, port and date of sailing and landing. Settles Hamburg and 1930 (H-090) and dates the arrival of Ahn 8 (H-066).",
     'D-014-01': "The same list as D-006-19, a second crop. One heading serves both.",
+    'D-015-03': "The heading of the page: the year, the electoral district and the street. All three now rest on the file name and on the house number.",
+    'D-015-04': "The heading of the section the two rows stand in: the street. And the year and district from the top of the page (H-092).",
 }
 # Strips whose full page has arrived since: strip -> the page.
 IN_HAND = {'D-009-79': 'D-014-07', 'D-009-84': 'D-014-09', 'D-006-24': 'D-014-09', 'D-009-01': 'D-014-02', 'D-009-16': 'D-014-04',
            'D-009-66': 'D-014-06', 'D-009-08': 'D-014-03', 'D-009-88': 'D-014-03', 'D-009-34': 'D-014-05', 'D-009-35': 'D-014-05', 'D-009-12': 'D-014-05'}
 # Pages this line needs and has in no form. Noted, not asked: the owner sends deaths and marriages as folders of their own.
 NEVER_SEEN = [
+    {"what": "The passenger list of 1937, page 263: Maria Duska and her son Stephan", "where": "The lists of arrivals for 1937 that the typed index points to (D-015-02)", "settles": "The ship, port and day of their arrival, who they were going to and at what address; H-065 on its own record."},
     {"what": "Marriage of György Duska (Ahn 32) and Anna Krak, about 1864 to 1866", "where": "Senné Roman Catholic marriages, or the bride's Greek Catholic parish", "settles": "Which Anna Krak she is and who her parents were (Ahn 66 and 67); H-050, H-055."},
     {"what": "Burial of Anna Krak, wife of György Duska, between August 1875 and 1879", "where": "The Greek Catholic book that served Szenna; she is not among the Senné Roman Catholic strips", "settles": "Her age, so her birth year, and with it which Anna Krak she is; H-052, H-055."},
     {"what": "Marriage of Michal Duska and Maria Demko, 30 January 1927", "where": "Probably Iňačovce Greek Catholic marriages", "settles": "The ages and parents of Ahn 8 and Ahn 9 on one record; R-017."},

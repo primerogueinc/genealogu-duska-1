@@ -1,0 +1,64 @@
+{
+  "folder": "F-015",
+  "desktop_path": "Duska documents part 1",
+  "note": "Sent on 13 Nov 2026 as 'New random ass folder called Duska documents part 1': five images. One is in the repo as sent. Three are published as copies with living people cut or blacked out. One is a second copy of a file already held.",
+  "files": [
+    {
+      "file": "Stefan_Duska_and_Maria_Demko_Canada_Arrival_1937.png",
+      "sha256": "80b0eceedda9c2652b32ef7a3b04aa5a53f82c8011c9e2898876682fd70861e9",
+      "bytes": 433530,
+      "pixels": "1920x841",
+      "received": "2026-11-13",
+      "via": "chat upload"
+    }
+  ],
+  "held": [
+    {
+      "file": "Obituary_for_Stefan_.jpg",
+      "sha256": "fdc4b6f7d4c8d2b253491f19c8ae68bb228179dca3fd0dccb195d7501e96b566",
+      "bytes": 275304,
+      "pixels": "638x1986",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "held": "The obituary names two living people who are no part of the line, each by a given name in brackets. The public copy has those two words blacked out; the file as sent is not in the repo.",
+      "file_in_repo": false,
+      "public_copy": "Obituary_for_Stefan__two_names_blacked_out.jpg",
+      "public_copy_sha256": "3fc4f9af830816f16bd349bf04a55aea7d107094b27d29504c2e89e140dce584"
+    },
+    {
+      "file": "Stefan_Duska_Joan_Leonard_Marriage_Registration.jpg",
+      "sha256": "9909482a5e1141a8618ed61d34aeb4192fe5de424902e2065f03e9a099fbf24f",
+      "bytes": 444015,
+      "pixels": "2064x2152",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "held": "The same file, byte for byte, as D-006-22 (steve_and_joan_marriage_registry.jpg), which came through the Sorter's pile at B-036. Held as that one is: the bride's line is outside this rebuild (ruling X-022).",
+      "file_in_repo": false,
+      "duplicate_of": "D-006-22"
+    },
+    {
+      "file": "Steve_and_Joan_Duska_Residence_in_1957.png",
+      "sha256": "ca9b85dcbe3787d879e66649ed6ce12c804f9ef713bda2ec31e9352ba08b749b",
+      "bytes": 1266745,
+      "pixels": "1920x841",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "held": "A screen capture of a page of a voters' list with some ninety neighbours by name, address and trade, many of whom may be living. The public copy is the two Duska rows; the capture is not in the repo.",
+      "file_in_repo": false,
+      "public_copy": "Steve_and_Joan_Duska_Residence_in_1957__two_rows.png",
+      "public_copy_sha256": "78f136726ecfc5d7784ce65db374ca4f09298e8d983f958bb18407e2782406e3"
+    },
+    {
+      "file": "Steve_and_Joan_Residence_in_1968.png",
+      "sha256": "a1400787c57f266e52951afd3cae0b887af02aa70ec83b8a441c9643d8fbf74f",
+      "bytes": 1059174,
+      "pixels": "1920x841",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "held": "As the 1957 capture: a page of neighbours. The public copy is the two Duska rows.",
+      "file_in_repo": false,
+      "public_copy": "Steve_and_Joan_Residence_in_1968__two_rows.png",
+      "public_copy_sha256": "32df5a5fe586fe8ef1b8cbe0645acf75ca23a6b61c44caf94a3b3c2c486c8d2e"
+    }
+  ]
+}
