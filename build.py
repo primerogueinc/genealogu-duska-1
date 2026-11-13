@@ -11,7 +11,7 @@ import pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent
 NAMES = ["people", "sources", "hypotheses", "batches", "folders", "documents",
-         "curiosities", "candidates", "families", "reviews", "priors", "leads", "requests", "role"]
+         "curiosities", "candidates", "families", "reviews", "priors", "leads", "requests", "role", "page_wants"]
 
 
 def main():

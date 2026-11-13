@@ -3,7 +3,13 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 13 Nov 2026, after Duska batch B-053.
+- Last updated: 13 Nov 2026, after Duska batch B-054.
+
+## 000000000000000000000000000. New at B-054
+
+- **New file under `data/`** (X-026): `data/page_wants.json`. An object, not an array: `note` (string), `strips` (array of `{id, file, folder, register, date_on_file, title, route, rank, status, want[], direct_line, hypotheses[], look_for, in_hand?}`; `id` is a document id; `rank` 0 to 3; `status` is `wanted` or `in hand`), `never_seen` (array of `{what, where, settles}`). It is derived by `tally.py` at the top of the repo and rebuilt every batch. The same list to read is `PAGE-TALLY.md`.
+- `field-notes/002.md` is written (X-032 item 8).
+- `sources.json`: `S-000-17` and `S-000-18` inserted after `S-000-16`. `curiosities.json`: `C-120` has `doc: null`. `hypotheses.json`: `H-091`. `leads.json`: `L-027`. `reviews.json`: `XR-22` has `sent_to_places` where others have `sent_to_demko`.
 
 ## 00000000000000000000000000. New at B-053
 

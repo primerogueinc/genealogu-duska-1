@@ -1706,6 +1706,11 @@
     "batch": "B-050",
     "effect": "lowered from 40 to 30",
     "note": "Duskas born about 1798 to 1803 lived and died at Senné. If the family came from Solymos it came before 1800, which the urbarial tables of about 1770 neither show nor rule out."
+   },
+   {
+    "batch": "B-054",
+    "effect": "no change",
+    "note": "A test now exists that paper could not offer: the owner's Y branch is known (S-000-18). A male-line descendant of the Reformed Duskas of Solymos who tested would show whether the two families share a father within the last few centuries. Nobody has; the hypothesis stays at 30."
    }
   ]
  },
@@ -2348,7 +2353,7 @@
  {
   "id": "H-084",
   "statement": "The 'Hancosek Anna' of the Montréal cemetery records is Mária Hankovcsák (Hankoščáková), born 18 April 1892 at Senné, the wife Mikuláš Duška left at Senné 11 in 1930, entered under a wrong given name.",
-  "confidence": 50,
+  "confidence": 40,
   "basis": "For: the census of 1930 has Mária Dušková, born Hankoščáková on 18 April 1892, married 22 January 1913, wife of an absent Mikuláš Duška (D-011-29, K-578); Miklós is the only man of that name and birth date; Hancosek is a fair hearing of Hankovcsák. Against: the given names differ, in two records made by the cemetery (D-013-100, D-006-09). A family of that surname at Senné had a daughter Anna in 1896 (FG-52, K-420). Alternatives: he married a second wife in Canada, perhaps that Anna, about 30; the cemetery's Anna is another woman, about 30.",
   "test": "A Québec burial or death record of the wife with her age; the Senné death book after 1930 for Mária; the manifest of a wife joining him; a marriage in Montréal.",
   "status": "open",
@@ -2370,6 +2375,11 @@
     "batch": "B-053",
     "effect": "raised from 40 to 50",
     "note": "The cemetery has three Duskas on its books and no more (D-014-08); the society's index shows who they are: Mikalis, Mike, and Mary Demko. So no wife of Mikalis is buried there under his name, though the index marks her dead before him. A second wife who died in Montréal would most likely lie in the same cemetery. A wife who stayed at Senné, where Mária was in 1940, would not."
+   },
+   {
+    "batch": "B-054",
+    "effect": "lowered from 50 to 40",
+    "note": "My reasoning at B-053 was wrong. I took 'only three Duskas on the cemetery's books' to mean no wife of Mikalis lies there. But Québec records enter a married woman under her maiden name: the same index has Maria Duska as 'Demko Mary' (D-013-101). A wife of Mikalis would be on the books as Hancosek, not Duska, so the count of three says nothing about her. Back to where it stood."
    }
   ]
  },
@@ -2480,5 +2490,24 @@
     "note": "Raised from a label and a form; the cap of 70 applies until the page is in hand."
    }
   ]
+ },
+ {
+  "id": "H-091",
+  "statement": "The Duska male line was East Slavic (Rusyn) and Greek Catholic when it reached Szenna, and came into Ung county from the north or east; it is not a Magyar line and not one from western Slovakia.",
+  "confidence": 55,
+  "basis": "Paper: the oldest Duskas at Szenna are in the Greek Catholic book, a Joannes who died in 1830 aged 61 and a Georgius dead before 1874 (H-079, at 70); the Roman Catholic Duskas appear in the books a generation later. The Duskas of Solymos, the next village, were Reformed by the 1790s (H-063, H-064), which cuts the other way: a Reformed family in Ung is more often Magyar or long settled. Rite is not origin: a line can change church at one marriage. The paper alone stood at about 50. DNA (S-000-18, L-027): the owner's Y branch lies in a part of R1a that the Demko agent's note describes as commonest among East Slavs and Balts and scarce among Slovaks and Hungarians. That leans the same way and adds about five. It cannot add more: the branch formed about 400 BCE, the one placed sample on it is from north-central Poland, no man on it bears the surname, and nobody within the reach of the registers has tested. Against: a branch this old says nothing of the last three hundred years, and it cannot tell a Rusyn from a Slovak of the same valley.",
+  "test": "A Y test by a second male-line Duska, best a descendant of the Reformed Duskas of Solymos or of another Senné branch: a match in the last few hundred years would also settle H-057 and H-042, which no record in hand can. On paper: the Places agent's settlement history of Senné; the tax lists of 1715 and 1720 for a Duska in Ung; the Greek Catholic book that served Szenna before 1829.",
+  "status": "open",
+  "raised": "B-054",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-054",
+    "effect": "raised at 55",
+    "note": "Raised on ledger v26 (X-023, rewritten), which opens the owner's own Y result to this line and lets it move a hypothesis of origin and nothing else. No person is named by it and no identity or parent link moves on it."
+   }
+  ],
+  "question": "Where did the Duska male line come from before the registers begin?"
  }
 ]

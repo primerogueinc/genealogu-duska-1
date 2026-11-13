@@ -2293,6 +2293,28 @@
    "S-495",
    "S-496"
   ],
+  "committed_utc": "2026-11-13T21:25:20Z"
+ },
+ {
+  "id": "B-054",
+  "date": "2026-11-13",
+  "title": "The owner will send full pages at the end: a running tally of 435 strips; his Y-DNA result taken on the ledger's instruction; field notes 2",
+  "folder": null,
+  "files": 0,
+  "blurb": "No files. Three things. First, the owner said he will send the full register pages at the end and asked for a running tally of what is wanted. The tally is in the repo as PAGE-TALLY.md, rebuilt by a script after every batch: 435 strips, 42 of them on the direct line or under an open hypothesis, each with a note on what the page would settle; 11 already covered by pages that have arrived; and 9 pages never seen in any form, the marriage of György Duska and Anna Krak first among them. He also said the backfill applies to all agents, and the coordinator is told in his words. Second, the coordinator's ledger moved to v26 and reversed the DNA rule for this line: the owner's own Y-chromosome result, which he gave to the Demko agent, is this line's evidence. It is taken as given. It puts his male line on a branch about 2,400 years old in a part of the tree commonest among East Slavs. One hypothesis of origin is raised on it (H-091, 55, of which the DNA is worth about five). It names nobody and moves no parent. Third, a correction: last batch I raised H-084 because the cemetery has 'only three Duskas'. Québec records enter wives under their maiden names, so the count says nothing about a wife. It is back at 40. Field notes 2 are written. Curiosities: 1",
+  "raised": [
+   "H-091"
+  ],
+  "resolved": [],
+  "revised": [
+   "H-084",
+   "H-057"
+  ],
+  "people_added": [],
+  "sources_added": [
+   "S-000-17",
+   "S-000-18"
+  ],
   "committed_utc": null
  }
 ]

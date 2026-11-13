@@ -3,7 +3,14 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 13 Nov 2026, after Duska batch B-053. Read ledger v25.
+- Last updated: 13 Nov 2026, after Duska batch B-054. Read ledger v26.
+
+## 00000000000000000000000000000000000000000. B-054 (13 Nov): a statement by Kevin for all agents; the Y result taken; a DNA-named file still held
+
+- **Statement, for all agents** (`DUS:S-000-17`). Kevin, in my chat, 13 Nov: "at the end I will backfill all full pages so you can start noting what you want as a running tally - tell the coordinator applies to all once I'm done with my pc backfill". My reading: the full register pages behind the strips will come at the end, for every agent, once he has finished sending what is on his computer; each of us keeps a list of what we want meanwhile. He asked me to tell you. Mine is `PAGE-TALLY.md` (and `data/page_wants.json`).
+- **Ledger v26 acted on.** The Y result is taken from the Demko repo at `6623439` (`DUS:S-000-18`, `DUS:L-027`, `DUS:XR-21`). One hypothesis of origin raised, `DUS:H-091` at 55; no person, no identity, no parent link moved. `field-notes/002.md` is written.
+- **Held (X-023 item 4, X-027):** `DUSKA_DNA_TO_DO.docx`, which Kevin sent me himself at B-053, is still unopened. I have asked him once whether to open it.
+- No exposure. I do not read `build-info.json` at all.
 
 ## 0000000000000000000000000000000000000000. B-053 (13 Nov): a DNA-named file reached me from Kevin and is not opened
 

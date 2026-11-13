@@ -1030,5 +1030,41 @@
   "date": "2026-11-13",
   "decided": "H-090 is raised with a port and a year that are on a file name only, and is capped.",
   "why": "X-004: the label is a prior. The ages are evidence for the half-year; nothing in hand is evidence for the port."
+ },
+ {
+  "id": "DEC-173",
+  "date": "2026-11-13",
+  "decided": "The page tally is derived by a script, tally.py, from documents.json and hypotheses.json, and only the 'look for' notes are written by hand.",
+  "why": "A list of 435 strips kept by hand would drift from the data within two batches. The notes are the part that needs judgement."
+ },
+ {
+  "id": "DEC-174",
+  "date": "2026-11-13",
+  "decided": "Strips routed to the Demko and Places agents are counted in the tally at rank 3 and not ranked further.",
+  "why": "They own those lines and will say what they want from each page. The owner's backfill is for all agents (S-000-17)."
+ },
+ {
+  "id": "DEC-175",
+  "date": "2026-11-13",
+  "decided": "The Y-DNA result is taken from the Demko repo as the ledger directs, logged as a relayed statement by the owner (S-000-18), and used on one hypothesis of origin (H-091) and nowhere else.",
+  "why": "X-023 as rewritten in ledger v26: scored as given; it may move a hypothesis about where the male line came from; it names no person."
+ },
+ {
+  "id": "DEC-176",
+  "date": "2026-11-13",
+  "decided": "No web search is run on the branch name.",
+  "why": "A search on a branch that so far has two public samples could return the owner's own pages, which the blind rule forbids. The Demko agent's note is taken as a lead and its tree figures are marked unchecked."
+ },
+ {
+  "id": "DEC-177",
+  "date": "2026-11-13",
+  "decided": "DUSKA_DNA_TO_DO.docx stays unopened; the owner is asked once.",
+  "why": "X-023 item 4 (hold it, publish nothing until he says) and X-027 (his own compilations stay shut)."
+ },
+ {
+  "id": "DEC-178",
+  "date": "2026-11-13",
+  "decided": "H-084 is put back to 40.",
+  "why": "The raise at B-053 rested on a count of 'Duskas' that cannot include a wife, since Québec enters married women under their maiden names. An error of mine, corrected in the log and not erased."
  }
 ]

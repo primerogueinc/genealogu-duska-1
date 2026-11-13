@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-13 after batch B-053 (read ledger v25). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-13 after batch B-054 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -32,6 +32,7 @@ Updated 2026-11-13 after batch B-053 (read ledger v25). Requests R-001 to R-011 
 - B-051: folder 'Duska Death' closed by the owner at 197 documents. Nothing new for another agent.
 - B-052: nothing new. The Demko repo at dd6d03f is not read (DNA; see `to-demko.md`).
 - B-053: folder 'Duska Random', nine documents read, one DNA-named file held unopened. Full register pages are public for the other agents.
+- B-054 (no files): a running tally of full pages wanted, `PAGE-TALLY.md` and `data/page_wants.json` (435 strips; the owner will send pages at the end, for all agents). The owner's Y-DNA result taken as ledger v26 directs: one hypothesis of origin, `H-091`. Field notes 2.
 
 ## Concluded
 

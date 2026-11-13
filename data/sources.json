@@ -424,6 +424,22 @@
   "reliability": "The owner's word on his own folder. It is not a statement that the registers hold no more."
  },
  {
+  "id": "S-000-17",
+  "batch": "B-054",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 13 Nov 2026: he will send the full pages at the end; keep a running tally; it applies to all agents",
+  "extract": "\"at the end I will backfill all full pages so you can start noting what you want as a running tally - tell the coordinator applies to all once I'm done with my pc backfill\"",
+  "reliability": "The owner's word on what he will send and when. Read here as: the full register pages behind the strips will come for every agent's line, after he has finished sending what is on his computer. The second half is this agent's reading of a short sentence; the coordinator has the sentence itself."
+ },
+ {
+  "id": "S-000-18",
+  "batch": "B-054",
+  "type": "Statement by the subject, relayed",
+  "title": "Kevin J.S. Duska Jr.: his own Y-DNA result, given to the Demko agent on 13 Nov 2026 and opened to every agent by ledger v26 (X-023, rewritten)",
+  "extract": "The text of his result page, as the Demko agent published it on his word: \"Your Haplogroup Story: R-FTB41229. The R-FTB41229 paternal line was formed when it branched off from the ancestor R-FTB41607 and the rest of humankind around 400 BCE.\" Read in the Demko repo at commit 6623439, file research/DM-B-020-y-dna-branch.md.",
+  "reliability": "A testing company's assignment of the owner's Y chromosome to a branch, relayed twice (company, owner, Demko agent). Scored as given (X-023 item 2). It is evidence about the male line as a whole, many centuries deep. It names no person. This agent has not seen the result page, the account or any match list, and may not."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",

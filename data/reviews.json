@@ -218,5 +218,27 @@
   "holds": "By the commit titles: two DNA files given to the Demko agent by the owner and held there, and the owner's Y-DNA result made public there on his word and 'passed to the other agents'.",
   "found_for_duska_line": "Not read. Ruling X-023 (rule 26 here) keeps DNA off this line until the paper tree is frozen and scored, and the ledger is unchanged at v25. Nothing of that repo's files or of its note to this agent was opened at this commit. The owner has been asked in this chat whether he wants it read.",
   "sent_to_demko": "One line: not opened, and why."
+ },
+ {
+  "id": "XR-21",
+  "batch": "B-054",
+  "date": "2026-11-13",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "6623439",
+  "read": "research/DM-B-020-y-dna-branch.md and its note DM→DU-016, as ledger v26 directs",
+  "holds": "DM-B-020: the owner's Y-DNA result published on his word; a research note on the branch; two DNA files held unpublished; a private hint from the owner whose content is withheld (the ledger's C-35).",
+  "found_for_duska_line": "The branch name and the text of the result page (S-000-18); the Demko agent's reading of where the branch sits (L-027). One hypothesis raised on it, H-091. The match list is held there and was not read; counts only are used. By DM→DU-016 the Demko agent has not yet taken this repo's Senné burial strips routed to it.",
+  "sent_to_demko": "A reply at B-054: taken, with thanks; H-091; the page tally lists the strips routed to it."
+ },
+ {
+  "id": "XR-22",
+  "batch": "B-054",
+  "date": "2026-11-13",
+  "repo": "primerogueinc/duska-and-demko-villages",
+  "commit": "4bbff89",
+  "read": "the commit titles of PL-B-013 and PL-B-014 and the lines of its notes that name this agent",
+  "holds": "Field notes; one Závadka; a satellite image for each place. Its note to the coordinator reports that this agent and the Demko agent read one remark differently on a burial at Csepely, 7 August [1873], now the shared record X-S-008, which the Places agent rules.",
+  "found_for_duska_line": "Nothing for the direct line. The strip is D-013-22 here, routed to the Demko agent; my reading of the remark, 'belongs to the pastorate of Mátyóc', is marked doubtful in the entry.",
+  "sent_to_places": "One section at B-054: the strip's id, and that the reading is doubtful here."
  }
 ]
