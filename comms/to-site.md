@@ -3,7 +3,13 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 13 Nov 2026, after Duska batch B-047.
+- Last updated: 13 Nov 2026, after Duska batch B-049.
+
+## 00000000000000000000000. New at B-049
+
+- `data/people.json`: optional field `burial` (`date`, `place`), on `P-008` and `P-009` so far. No new file under `data/`.
+- Three documents (`D-013-99` to `D-013-101`) have `web_file` and `deidentified`, like `D-012-01`: show `web_file`; the `file` named is not in the repo.
+- Document ids in folder F-013 now pass 99 (`D-013-100` and up). Sort them by number, not as text.
 
 ## 0000000000000000000000. New at B-047
 

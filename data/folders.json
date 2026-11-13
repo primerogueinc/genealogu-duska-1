@@ -190,15 +190,16 @@
  {
   "id": "F-013",
   "desktop_path": "Duska Death",
-  "described_as": "Announced by the owner as 'Duska Death Folder', beginning with the sub-folder 'Belza Kosice Greek Catholic', marked full: nine burial strips, eight of them Demko and Kocsis, one a D[u]ska of Galicia. Sub-folder 'Cicarovce - Greek Catholic', in two parts, complete: eighteen burial strips, [1831] to 1883, sixteen Demko and two Kocsis, all routed to the Demko agent. More sub-folders are expected. Sub-folder 'Inacovce Greek Catholic', four parts, final: 46 burial strips, 1812 to 1897: Krak (21), Demko, Kocsis and their kin (15), Duska or Dusko (8), and two Danko strips filed under other names. Sub-folder 'Inacovce - Reform Catholic', two parts, final: 25 burial strips from the Reformed book of Solymos, 1830 to 1926: 22 Duska or Dusko, two Kocsis and one Szalontai.",
+  "described_as": "Announced by the owner as 'Duska Death Folder', beginning with the sub-folder 'Belza Kosice Greek Catholic', marked full: nine burial strips, eight of them Demko and Kocsis, one a D[u]ska of Galicia. Sub-folder 'Cicarovce - Greek Catholic', in two parts, complete: eighteen burial strips, [1831] to 1883, sixteen Demko and two Kocsis, all routed to the Demko agent. More sub-folders are expected. Sub-folder 'Inacovce Greek Catholic', four parts, final: 46 burial strips, 1812 to 1897: Krak (21), Demko, Kocsis and their kin (15), Duska or Dusko (8), and two Danko strips filed under other names. Sub-folder 'Inacovce - Reform Catholic', two parts, final: 25 burial strips from the Reformed book of Solymos, 1830 to 1926: 22 Duska or Dusko, two Kocsis and one Szalontai. Sub-folder 'Montreal', marked full: three screenshots of a society's index to Montréal cemeteries (Mary Demko 1950, 'Mikalis' Duska 1965, Mike Duska 1974), published as crops.",
   "status": "open",
   "first_seen": "2026-11-12",
-  "files_received": 98,
+  "files_received": 101,
   "batches": [
    "B-043",
    "B-044",
    "B-046",
-   "B-048"
+   "B-048",
+   "B-049"
   ],
   "archive_path": "records/F-013_Duska-Death/"
  }

@@ -3214,5 +3214,29 @@
   "title": "Burial of Susanna Duska, six months old, Solymos, May [1847]",
   "extract": "Susanna Duska, six months old; died 21 May of a cough, buried 22 May with singing. No parent is named. Born about November 1846. If she is a last child of Borbála Plyuchta, who died in January 1847, the Susanna of [1837] was dead by then.",
   "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-389",
+  "batch": "B-049",
+  "type": "Genealogical society's index to cemetery records (derivative)",
+  "title": "Montréal cemetery index: Mary Demko, wife of Mike Duska, received at Notre-Dame-des-Neiges on 11 September 1950",
+  "extract": "Index entry. Deceased: Mary Demko. Spouse: Mike Duska. Body received on 11 September 1950 at Notre-Dame-des-Neiges cemetery, Montréal; concession 6650, section TR. She is Maria Demko, Ahn 9, who died on 9 September 1950 by her husband's declaration of 1966; the cemetery took her two days later. No date of death, age or parents are in the index.",
+  "reliability": "An index entry made from the cemetery's records by a society; typed, so the reading is not in doubt, but any error of the indexer's is carried. It gives a reception date, not a death date."
+ },
+ {
+  "id": "S-390",
+  "batch": "B-049",
+  "type": "Genealogical society's index to cemetery records (derivative)",
+  "title": "Montréal cemetery index: Mikalis Duska, husband of Anna Hancosek, received at Notre-Dame-des-Neiges on 28 November 1965",
+  "extract": "Index entry. Deceased: Mikalis Duska. Spouse: Anna Hancosek, followed by a letter 'd' in quotation marks. Body received on 28 November 1965 at Notre-Dame-des-Neiges cemetery, Montréal; concession 1965, section FT. This names the cemetery that the printout D-006-09 (section FT, plot 01965, received 28 November 1965) does not. The 'd' also follows Mary Demko's name in her husband's entry of 1974, when she had been dead 23 years, and is absent after Mike Duska's name in hers of 1950: it is read as 'décédé(e)', the spouse already dead. So Anna Hancosek died before 28 November 1965. The concession number equals the year, and the day of reception is the man's 75th birthday by the printout; both are in two separate records and are left as coincidences.",
+  "reliability": "An index entry made from the cemetery's records by a society; typed, so the reading is not in doubt, but any error of the indexer's is carried. It gives a reception date, not a death date."
+ },
+ {
+  "id": "S-391",
+  "batch": "B-049",
+  "type": "Genealogical society's index to cemetery records (derivative)",
+  "title": "Montréal cemetery index: Mike Duska, husband of the late Mary Demko, received at Notre-Dame-des-Neiges on 4 February 1974",
+  "extract": "Index entry. Deceased: Mike Duska. Spouse: Mary Demko, marked 'd' (dead). Body received on 4 February 1974 at Notre-Dame-des-Neiges cemetery, Montréal; concession 6650, section TR: his wife's plot of 1950. He is Michal Duska, Ahn 8, who died on 31 January 1974; the death notice gives the funeral as Monday 4 February (D-006-20), the day in this index.",
+  "reliability": "An index entry made from the cemetery's records by a society; typed, so the reading is not in doubt, but any error of the indexer's is carried. It gives a reception date, not a death date."
  }
 ]

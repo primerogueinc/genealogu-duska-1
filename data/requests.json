@@ -97,11 +97,13 @@
  },
  {
   "id": "R-013",
-  "status": "raised",
+  "status": "answered",
   "raised": "B-026",
   "text": "For the cemetery record FT 01965: which cemetery it is, how you got the printout, and a photograph of the stone if there is one. Any record of Miklós (Nicholas, Mike?) Duska and Anna Hancosek in Canada: marriage, death, a passenger list.",
   "raised_with_owner": "2026-11-12",
-  "rank": 2
+  "rank": 2,
+  "answered": "B-049",
+  "answer": "The owner sent the sub-folder 'Montreal' without being asked again: a society's index names the cemetery as Notre-Dame-des-Neiges (D-013-100). How he got the earlier printout, and a photograph of the stone, are still not known; they are not asked for again."
  },
  {
   "id": "R-014",

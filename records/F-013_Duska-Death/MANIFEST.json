@@ -1,7 +1,7 @@
 {
   "folder_id": "F-013",
   "desktop_path": "Duska Death",
-  "note": "Sub-folder 'Belza Kosice Greek Catholic', marked full by the owner: 9 image strips, received through chat upload on 12 Nov 2026. Sub-folder 'Cicarovce - Greek Catholic', sent in two parts and complete by the owner's words 'rest of folder': 18 image strips. Sub-folder 'Inacovce Greek Catholic', sent in four parts and marked final: 46 image strips. Sub-folder 'Inacovce - Reform Catholic', sent in two parts and marked final for the sub-folder: 25 image strips.",
+  "note": "Sub-folder 'Belza Kosice Greek Catholic', marked full by the owner: 9 image strips, received through chat upload on 12 Nov 2026. Sub-folder 'Cicarovce - Greek Catholic', sent in two parts and complete by the owner's words 'rest of folder': 18 image strips. Sub-folder 'Inacovce Greek Catholic', sent in four parts and marked final: 46 image strips. Sub-folder 'Inacovce - Reform Catholic', sent in two parts and marked final for the sub-folder: 25 image strips. Sub-folder 'Montreal', marked full: 3 screenshots of a cemetery index, held out of the repo because they show the owner's account; crops of the result tables are published.",
   "files": [
     {
       "file": "Death_of_Andras_Solsesz_Demko_1878.png",
@@ -886,5 +886,42 @@
       "part": "Inacovce - Reform Catholic"
     }
   ],
-  "held": []
+  "held": [
+    {
+      "file": "Death_of_Maria_Demko_Wife_of_Mike_Duska_1950.png",
+      "sha256": "959f30f97bf69b6fcb13f7791818f4eb67921a4105fa090cfe4e7ab2a2c8226b",
+      "bytes": 67614,
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Montreal",
+      "held": "The screenshot shows the owner's account name, account number and e-mail address on the society's site. It is not in the repo. A crop of the heading and the result table is published instead.",
+      "file_in_repo": false,
+      "public_copy": "SGCF_Montreal_cemeteries_Demko_Mary_1950_table.png",
+      "public_copy_sha256": "1d8ff7067d2482f0ece1215da32aa31835e94fec656a47a6cdb321b29aa55b49"
+    },
+    {
+      "file": "Death_of_Mikalis_Duska_husbaand_of_Anna_Hancosek_1965.png",
+      "sha256": "6fe996b7f5b84d78673c770043fbaca561149f85bf460d18d6843d963c3d0127",
+      "bytes": 66932,
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Montreal",
+      "held": "The screenshot shows the owner's account name, account number and e-mail address on the society's site. It is not in the repo. A crop of the heading and the result table is published instead.",
+      "file_in_repo": false,
+      "public_copy": "SGCF_Montreal_cemeteries_Duska_Mikalis_1965_table.png",
+      "public_copy_sha256": "a71827acf71b777100ec4741102d29a149643b549c66af3e6f4aa075d9094aea"
+    },
+    {
+      "file": "Death_of_Mike_Duska_husband_of_Maria_Demko_1974.png",
+      "sha256": "039da885afdb95261b0c3e484c7920c77dfa9e5da696ffcff68605cc160bd58c",
+      "bytes": 69210,
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Montreal",
+      "held": "The screenshot shows the owner's account name, account number and e-mail address on the society's site. It is not in the repo. A crop of the heading and the result table is published instead.",
+      "file_in_repo": false,
+      "public_copy": "SGCF_Montreal_cemeteries_Duska_Mike_1974_table.png",
+      "public_copy_sha256": "ffe46dbe3d19bc96564f5d9bff99a331e97cb846e888c4aaad2bf4ec7e16fd63"
+    }
+  ]
 }

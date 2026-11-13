@@ -127,9 +127,10 @@
    "S-213",
    "S-260",
    "S-272",
-   "S-274"
+   "S-274",
+   "S-391"
   ],
-  "note": "Born 3 July 1903 at Senné, house 79, son of András Duska, cottar, and Anna Nyemcsik (baptism D-009-79). Identified by the census of 1930: his wife Maria and son Štefan are entered at Senné 145 as the daughter-in-law and grandson of Andrej Duška and Anna, married 18 January 1892 (D-011-24). Married Maria Demko on 30 January 1927 by that census. Roman Catholic cottar of Senné 160 in 1929. Sailed for Canada aged 26, with Mikulas Duska, between November 1929 and July 1930 (D-006-19); naturalised 22 April 1940; at 1196a St. George Street, Montréal, in 1937, when he sent for his family; 'Mike Duska' on his wife's stone; alive in November 1966. Died at the Montreal General Hospital on 31 January 1974, 'age 71'; funeral from the Slovak church of St. Cyril and Method; buried in Côte-des-Neiges cemetery (D-006-20). The notice names two sons, Steve and Mike.",
+  "note": "Born 3 July 1903 at Senné, house 79, son of András Duska, cottar, and Anna Nyemcsik (baptism D-009-79). Identified by the census of 1930: his wife Maria and son Štefan are entered at Senné 145 as the daughter-in-law and grandson of Andrej Duška and Anna, married 18 January 1892 (D-011-24). Married Maria Demko on 30 January 1927 by that census. Roman Catholic cottar of Senné 160 in 1929. Sailed for Canada aged 26, with Mikulas Duska, between November 1929 and July 1930 (D-006-19); naturalised 22 April 1940; at 1196a St. George Street, Montréal, in 1937, when he sent for his family; 'Mike Duska' on his wife's stone; alive in November 1966. Died at the Montreal General Hospital on 31 January 1974, 'age 71'; funeral from the Slovak church of St. Cyril and Method; buried in Côte-des-Neiges cemetery (D-006-20). The notice names two sons, Steve and Mike. The cemetery received him on 4 February 1974, into his wife's plot: Notre-Dame-des-Neiges, section TR, concession 6650 (D-013-101).",
   "owner": "Duska",
   "residence": [
    {
@@ -156,6 +157,10 @@
   "death": {
    "date": "31 Jan 1974",
    "place": "Montreal General Hospital, Montréal"
+  },
+  "burial": {
+   "date": "received 4 Feb 1974",
+   "place": "Notre-Dame-des-Neiges cemetery, Montréal: section TR, concession 6650"
   }
  },
  {
@@ -174,13 +179,18 @@
    "S-025",
    "S-026",
    "S-254",
-   "S-288"
+   "S-288",
+   "S-389"
   ],
-  "note": "Wife of Michal Duska and mother of Štefan by the 1947 certificate; Greek Catholic, of Iňačovce. Died at Montréal on 9 September 1950 by her husband's declaration of 1966. Stone: born 1906, died 1950. Her parents are the Demko agent's to establish: it has Mihály Demkó and Mária Kocsis (DM P-018, P-019 @57861ad). Her emigrant passport of 1937 gives her birth as 22 August 1906 at Iňačovce and her occupation as farmer; she left in November 1937 with her son. The census of 1930 has her at Senné 145 in her father-in-law's house, married 30 January 1927, with a birth date of 15 August 1907 that disagrees with her passport. Her state birth registration, no. 45 of 1906 at Alsókánya, is read here too (D-X01-04): daughter of Mihály Demkó, born at Magasrév, aged 24, and Mária Kocsis, born at Solymos, aged 20.",
+  "note": "Wife of Michal Duska and mother of Štefan by the 1947 certificate; Greek Catholic, of Iňačovce. Died at Montréal on 9 September 1950 by her husband's declaration of 1966. Stone: born 1906, died 1950. Her parents are the Demko agent's to establish: it has Mihály Demkó and Mária Kocsis (DM P-018, P-019 @57861ad). Her emigrant passport of 1937 gives her birth as 22 August 1906 at Iňačovce and her occupation as farmer; she left in November 1937 with her son. The census of 1930 has her at Senné 145 in her father-in-law's house, married 30 January 1927, with a birth date of 15 August 1907 that disagrees with her passport. Her state birth registration, no. 45 of 1906 at Alsókánya, is read here too (D-X01-04): daughter of Mihály Demkó, born at Magasrév, aged 24, and Mária Kocsis, born at Solymos, aged 20. Notre-Dame-des-Neiges cemetery received her on 11 September 1950: section TR, concession 6650 (D-013-99).",
   "owner": "Demko",
   "death": {
    "date": "9 Sep 1950",
    "place": "Montréal"
+  },
+  "burial": {
+   "date": "received 11 Sep 1950",
+   "place": "Notre-Dame-des-Neiges cemetery, Montréal: section TR, concession 6650"
   }
  },
  {

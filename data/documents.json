@@ -10513,7 +10513,7 @@
     "no": "plot FT 01965",
     "date": "received 28 Nov 1965 [?]",
     "from": "Cemetery database record (derivative; a later keying of the burial register)",
-    "abstract": "A printout in French from a cemetery's records system, made on 2 January 2022. Deceased: Duska, given name written Mikalis. Date of birth 28 November 1890. Spouse: Anna Hancosek. Section FT, plot 01965. Received on 28 November 1965; a wooden coffin; the family attended the burial. The dates of death, funeral and burial all hold the value 1 January 1100, which is the system's stand-in for 'not entered'. Parents, place of death and the cemetery's own name are not on the page. The received date falls on his 75th birthday and its year repeats the plot number, so it may be a real date or a made-up one; the birth date is the only date here that can be checked, and it matches a baptism in the archive to the day: Miklós Duska, born 28 November 1890 at Szenna 6 (D-009-84).",
+    "abstract": "A printout in French from a cemetery's records system, made on 2 January 2022. Deceased: Duska, given name written Mikalis. Date of birth 28 November 1890. Spouse: Anna Hancosek. Section FT, plot 01965. Received on 28 November 1965; a wooden coffin; the family attended the burial. The dates of death, funeral and burial all hold the value 1 January 1100, which is the system's stand-in for 'not entered'. Parents, place of death and the cemetery's own name are not on the page. The received date falls on his 75th birthday and its year repeats the plot number, so it may be a real date or a made-up one; the birth date is the only date here that can be checked, and it matches a baptism in the archive to the day: Miklós Duska, born 28 November 1890 at Szenna 6 (D-009-84). [B-049: a society's index names the cemetery, Notre-Dame-des-Neiges, with the same section, number and reception date (D-013-100).]",
     "reading": "high"
    }
   ],
@@ -10531,7 +10531,9 @@
    "does_not_fit": "The owner's second copy is labelled a 'burial'. It is a database record of a plot; it gives no burial date.",
    "made_by": "A cemetery office's records system; printed 2 January 2022.",
    "kept": "The cemetery's database; the paper burial register behind it is not in hand.",
-   "compared": []
+   "compared": [
+    "D-013-100, the index entry that names the cemetery"
+   ]
   }
  },
  {
@@ -20369,5 +20371,161 @@
     "D-006-05, a full page (page 133) of the same book for 1833 to 1838, from the Sorter's pile"
    ]
   }
+ },
+ {
+  "id": "D-013-99",
+  "folder": "F-013",
+  "batch": "B-049",
+  "source": "S-389",
+  "file": "Death_of_Maria_Demko_Wife_of_Mike_Duska_1950.png",
+  "sha256": "959f30f97bf69b6fcb13f7791818f4eb67921a4105fa090cfe4e7ab2a2c8226b",
+  "wide": false,
+  "title": "Montréal cemetery index: Mary Demko, wife of Mike Duska, received at Notre-Dame-des-Neiges on 11 September 1950",
+  "span": "received 11 September 1950",
+  "language": "French",
+  "collector_label": "Death of Maria Demko Wife of Mike Duska 1950",
+  "family": "FG-62",
+  "route": "demko",
+  "part": "Montreal",
+  "provenance": {
+   "archive": "Notre-Dame-des-Neiges cemetery, Montréal, through a genealogical society's index",
+   "fond_or_film": "Online database 'SGCF - Cimetières de Montréal 1724-2003'",
+   "book": "The cemetery's burial records as indexed; the register and its page are not cited by the index",
+   "page_or_image": "one search result",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Montreal', marked full, sent through chat. A screenshot of the society's site made while he was logged in; the date is not on it."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "received 11 September 1950",
+    "from": "Genealogical society's index to cemetery records (derivative)",
+    "abstract": "Index entry. Deceased: Mary Demko. Spouse: Mike Duska. Body received on 11 September 1950 at Notre-Dame-des-Neiges cemetery, Montréal; concession 6650, section TR. She is Maria Demko, Ahn 9, who died on 9 September 1950 by her husband's declaration of 1966; the cemetery took her two days later. No date of death, age or parents are in the index.",
+    "reading": "high (typed text)"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The six rows of the result table, as typed.",
+    "original": "Défunt(e): Demko Mary | Conjoint: Duska Mike | Réception du corps: 11-09-1950 | Cimetière: Notre-Dame-des-Neiges | Concession: 6650 | Section: TR",
+    "english": "Index entry. Deceased: Mary Demko. Spouse: Mike Duska. Body received on 11 September 1950 at Notre-Dame-des-Neiges cemetery, Montréal; concession 6650, section TR. She is Maria Demko, Ahn 9, who died on 9 September 1950 by her husband's declaration of 1966; the cemetery took her two days later. No date of death, age or parents are in the index."
+   }
+  ],
+  "object": {
+   "kind": "A screenshot of one search result in a genealogical society's online index to the burial records of Montréal cemeteries",
+   "form": "A web page headed 'SGCF - Cimetières de Montréal 1724-2003' with a six-row table: Défunt(e), Conjoint, Réception du corps, Cimetière, Concession, Section. Above the table the page shows the logged-in user's name, account number and e-mail address and a count of search credits; those lines are the owner's and are cut from the public copy.",
+   "does_not_fit": "The owner's file names say 'Death of'. The index has no date of death: it gives the day the cemetery received the body. It is an index made from the cemeteries' books, not the books.",
+   "made_by": "The society named in the heading as SGCF, taken to be the Société généalogique canadienne-française (recalled, not sourced); the screenshot by the owner, undated.",
+   "kept": "The society's database; behind it the registers of Notre-Dame-des-Neiges cemetery.",
+   "compared": [
+    "D-006-09, a printout from the cemetery's own database for the entry of 1965",
+    "D-006-20, the death notice of 1974"
+   ]
+  },
+  "web_file": "SGCF_Montreal_cemeteries_Demko_Mary_1950_table.png",
+  "deidentified": "Published as a crop of the page heading and the result table. The lines with the owner's account name, number and e-mail address are cut; the screenshot itself is not in the repository."
+ },
+ {
+  "id": "D-013-100",
+  "folder": "F-013",
+  "batch": "B-049",
+  "source": "S-390",
+  "file": "Death_of_Mikalis_Duska_husbaand_of_Anna_Hancosek_1965.png",
+  "sha256": "6fe996b7f5b84d78673c770043fbaca561149f85bf460d18d6843d963c3d0127",
+  "wide": false,
+  "title": "Montréal cemetery index: Mikalis Duska, husband of Anna Hancosek, received at Notre-Dame-des-Neiges on 28 November 1965",
+  "span": "received 28 November 1965",
+  "language": "French",
+  "collector_label": "Death of Mikalis Duska husbaand of Anna Hancosek 1965",
+  "family": "FG-48",
+  "route": "duska",
+  "part": "Montreal",
+  "provenance": {
+   "archive": "Notre-Dame-des-Neiges cemetery, Montréal, through a genealogical society's index",
+   "fond_or_film": "Online database 'SGCF - Cimetières de Montréal 1724-2003'",
+   "book": "The cemetery's burial records as indexed; the register and its page are not cited by the index",
+   "page_or_image": "one search result",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Montreal', marked full, sent through chat. A screenshot of the society's site made while he was logged in; the date is not on it."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "received 28 November 1965",
+    "from": "Genealogical society's index to cemetery records (derivative)",
+    "abstract": "Index entry. Deceased: Mikalis Duska. Spouse: Anna Hancosek, followed by a letter 'd' in quotation marks. Body received on 28 November 1965 at Notre-Dame-des-Neiges cemetery, Montréal; concession 1965, section FT. This names the cemetery that the printout D-006-09 (section FT, plot 01965, received 28 November 1965) does not. The 'd' also follows Mary Demko's name in her husband's entry of 1974, when she had been dead 23 years, and is absent after Mike Duska's name in hers of 1950: it is read as 'décédé(e)', the spouse already dead. So Anna Hancosek died before 28 November 1965. The concession number equals the year, and the day of reception is the man's 75th birthday by the printout; both are in two separate records and are left as coincidences.",
+    "reading": "high (typed text)"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The six rows of the result table, as typed.",
+    "original": "Défunt(e): Duska Mikalis | Conjoint: Hancosek Anna \"d\" | Réception du corps: 28-11-1965 | Cimetière: Notre-Dame-des-Neiges | Concession: 1965 | Section: FT",
+    "english": "Index entry. Deceased: Mikalis Duska. Spouse: Anna Hancosek, followed by a letter 'd' in quotation marks. Body received on 28 November 1965 at Notre-Dame-des-Neiges cemetery, Montréal; concession 1965, section FT. This names the cemetery that the printout D-006-09 (section FT, plot 01965, received 28 November 1965) does not. The 'd' also follows Mary Demko's name in her husband's entry of 1974, when she had been dead 23 years, and is absent after Mike Duska's name in hers of 1950: it is read as 'décédé(e)', the spouse already dead. So Anna Hancosek died before 28 November 1965. The concession number equals the year, and the day of reception is the man's 75th birthday by the printout; both are in two separate records and are left as coincidences."
+   }
+  ],
+  "object": {
+   "kind": "A screenshot of one search result in a genealogical society's online index to the burial records of Montréal cemeteries",
+   "form": "A web page headed 'SGCF - Cimetières de Montréal 1724-2003' with a six-row table: Défunt(e), Conjoint, Réception du corps, Cimetière, Concession, Section. Above the table the page shows the logged-in user's name, account number and e-mail address and a count of search credits; those lines are the owner's and are cut from the public copy.",
+   "does_not_fit": "The owner's file names say 'Death of'. The index has no date of death: it gives the day the cemetery received the body. It is an index made from the cemeteries' books, not the books.",
+   "made_by": "The society named in the heading as SGCF, taken to be the Société généalogique canadienne-française (recalled, not sourced); the screenshot by the owner, undated.",
+   "kept": "The society's database; behind it the registers of Notre-Dame-des-Neiges cemetery.",
+   "compared": [
+    "D-006-09, a printout from the cemetery's own database for the entry of 1965",
+    "D-006-20, the death notice of 1974"
+   ]
+  },
+  "web_file": "SGCF_Montreal_cemeteries_Duska_Mikalis_1965_table.png",
+  "deidentified": "Published as a crop of the page heading and the result table. The lines with the owner's account name, number and e-mail address are cut; the screenshot itself is not in the repository."
+ },
+ {
+  "id": "D-013-101",
+  "folder": "F-013",
+  "batch": "B-049",
+  "source": "S-391",
+  "file": "Death_of_Mike_Duska_husband_of_Maria_Demko_1974.png",
+  "sha256": "039da885afdb95261b0c3e484c7920c77dfa9e5da696ffcff68605cc160bd58c",
+  "wide": false,
+  "title": "Montréal cemetery index: Mike Duska, husband of the late Mary Demko, received at Notre-Dame-des-Neiges on 4 February 1974",
+  "span": "received 4 February 1974",
+  "language": "French",
+  "collector_label": "Death of Mike Duska husband of Maria Demko 1974",
+  "family": "FG-62",
+  "route": "duska",
+  "part": "Montreal",
+  "provenance": {
+   "archive": "Notre-Dame-des-Neiges cemetery, Montréal, through a genealogical society's index",
+   "fond_or_film": "Online database 'SGCF - Cimetières de Montréal 1724-2003'",
+   "book": "The cemetery's burial records as indexed; the register and its page are not cited by the index",
+   "page_or_image": "one search result",
+   "obtained": "From the owner's desktop folder 'Duska Death', sub-folder 'Montreal', marked full, sent through chat. A screenshot of the society's site made while he was logged in; the date is not on it."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "received 4 February 1974",
+    "from": "Genealogical society's index to cemetery records (derivative)",
+    "abstract": "Index entry. Deceased: Mike Duska. Spouse: Mary Demko, marked 'd' (dead). Body received on 4 February 1974 at Notre-Dame-des-Neiges cemetery, Montréal; concession 6650, section TR: his wife's plot of 1950. He is Michal Duska, Ahn 8, who died on 31 January 1974; the death notice gives the funeral as Monday 4 February (D-006-20), the day in this index.",
+    "reading": "high (typed text)"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The six rows of the result table, as typed.",
+    "original": "Défunt(e): Duska Mike | Conjoint: Demko Mary \"d\" | Réception du corps: 04-02-1974 | Cimetière: Notre-Dame-des-Neiges | Concession: 6650 | Section: TR",
+    "english": "Index entry. Deceased: Mike Duska. Spouse: Mary Demko, marked 'd' (dead). Body received on 4 February 1974 at Notre-Dame-des-Neiges cemetery, Montréal; concession 6650, section TR: his wife's plot of 1950. He is Michal Duska, Ahn 8, who died on 31 January 1974; the death notice gives the funeral as Monday 4 February (D-006-20), the day in this index."
+   }
+  ],
+  "object": {
+   "kind": "A screenshot of one search result in a genealogical society's online index to the burial records of Montréal cemeteries",
+   "form": "A web page headed 'SGCF - Cimetières de Montréal 1724-2003' with a six-row table: Défunt(e), Conjoint, Réception du corps, Cimetière, Concession, Section. Above the table the page shows the logged-in user's name, account number and e-mail address and a count of search credits; those lines are the owner's and are cut from the public copy.",
+   "does_not_fit": "The owner's file names say 'Death of'. The index has no date of death: it gives the day the cemetery received the body. It is an index made from the cemeteries' books, not the books.",
+   "made_by": "The society named in the heading as SGCF, taken to be the Société généalogique canadienne-française (recalled, not sourced); the screenshot by the owner, undated.",
+   "kept": "The society's database; behind it the registers of Notre-Dame-des-Neiges cemetery.",
+   "compared": [
+    "D-006-09, a printout from the cemetery's own database for the entry of 1965",
+    "D-006-20, the death notice of 1974"
+   ]
+  },
+  "web_file": "SGCF_Montreal_cemeteries_Duska_Mike_1974_table.png",
+  "deidentified": "Published as a crop of the page heading and the result table. The lines with the owner's account name, number and e-mail address are cut; the screenshot itself is not in the repository."
  }
 ]

@@ -1016,5 +1016,16 @@
   "translation": "András, son of János Dusko, six days old",
   "why": "Six days hold both records of one life, and the label merges them.",
   "tone": "sad"
+ },
+ {
+  "id": "C-109",
+  "doc": "D-013-100",
+  "source": "S-390",
+  "title": "Plot 1965, in 1965, on his birthday",
+  "text": "Mikalis Duska was received at Notre-Dame-des-Neiges on 28 November 1965 into concession number 1965. The cemetery's own printout gives his birth as 28 November 1890, and the Senné baptism book agrees to the day. So he was buried on his 75th birthday in a plot numbered for the year. Two records carry each number; neither looks like a clerk's fill-in.",
+  "original": "Réception du corps 28-11-1965 | Concession 1965",
+  "translation": "Body received 28-11-1965 | Plot 1965",
+  "why": "A row of figures that looks like a data-entry error and is not one.",
+  "tone": "wry"
  }
 ]

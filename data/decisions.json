@@ -892,5 +892,29 @@
   "date": "2026-11-13",
   "decided": "The strip of 1918 is recorded with the surname unread.",
   "why": "This agent cannot make the letters read Duska and will not copy the label into a reading."
+ },
+ {
+  "id": "DEC-150",
+  "date": "2026-11-13",
+  "decided": "The three Montréal screenshots are kept out of the repo and published as crops of the heading and the result table.",
+  "why": "They show the owner's account name, account number and an e-mail address on the society's site. Standing rule on his accounts; same handling as the newspaper clippings."
+ },
+ {
+  "id": "DEC-151",
+  "date": "2026-11-13",
+  "decided": "The 'd' after a spouse's name in the index is read as 'deceased'.",
+  "why": "It follows Mary Demko's name in 1974, when she was dead, and not Mike Duska's in 1950, when he was alive. An inference from three entries, stated as one."
+ },
+ {
+  "id": "DEC-152",
+  "date": "2026-11-13",
+  "decided": "H-068 is marked solved on an index.",
+  "why": "X-009 asks for a record and a reference; the index is both, and it repeats three particulars of the cemetery's own printout. The limit is written into the log."
+ },
+ {
+  "id": "DEC-153",
+  "date": "2026-11-13",
+  "decided": "R-013 is closed and its two unanswered parts are not asked again.",
+  "why": "Request-queue rule: the owner hands folders by kind; headers, references and missing halves only."
  }
 ]

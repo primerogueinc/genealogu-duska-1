@@ -1728,7 +1728,7 @@
  {
   "id": "H-060",
   "statement": "The 'Mikalis' Duska of the cemetery record, born 28 November 1890 and husband of Anna Hancosek, is Miklós Duska, born 28 November 1890 at Senné, house 6, son of György Duska the younger and Erzsébet Schwarz.",
-  "confidence": 70,
+  "confidence": 75,
   "basis": "The date of birth agrees to the day with the baptism entry (D-009-84), in a surname with only a handful of bearers. 'Mikalis' is a fair French clerk's rendering of Miklós or Mikuláš. His wife's surname resembles a Senné family's. Against: the record is a database entry with stand-in values elsewhere, the cemetery is not named, and no document shows Miklós leaving Senné.",
   "test": "The cemetery's burial register or the gravestone for section FT, plot 01965; a Québec death or marriage registration naming his parents; a passenger list.",
   "status": "supported",
@@ -1765,6 +1765,11 @@
     "batch": "B-040",
     "effect": "no change",
     "note": "The cemetery paper is a database printout, not a burial register. Its stand-in dates are a property of the object."
+   },
+   {
+    "batch": "B-049",
+    "effect": "raised from 70 to 75",
+    "note": "The index adds nothing on who he was, but it removes one of the three points against: the cemetery is named, and it is the one where his travelling companion Michal Duska was buried nine years later. The wife's name is again Hancosek (D-013-100)."
    }
   ]
  },
@@ -1944,18 +1949,23 @@
  {
   "id": "H-068",
   "statement": "The cemetery record FT 01965 is from Notre-Dame-des-Neiges (Côte-des-Neiges) cemetery in Montréal, where Mike Duska and Mary Demko are buried.",
-  "confidence": 60,
+  "confidence": 97,
   "basis": "The printout is in French; Mary Demko's stone is at Notre-Dame-des-Neiges and Mike Duska's notice gives 'Cote Des Neiges Cemetery'; Mikulas and Michal crossed together and both were naturalised in Canada. Nothing on the printout names the cemetery.",
   "test": "The owner's word on where he got the printout (request R-013); the cemetery's own locator for section FT.",
-  "status": "open",
+  "status": "solved",
   "raised": "B-036",
-  "resolved": null,
-  "resolution": null,
+  "resolved": "B-049",
+  "resolution": "Notre-Dame-des-Neiges cemetery, Montréal, by a society's index that repeats the printout's section, number and date.",
   "log": [
    {
     "batch": "B-036",
     "effect": "raised at 60",
     "note": "Raised from the death notice."
+   },
+   {
+    "batch": "B-049",
+    "effect": "solved; raised from 60 to 97",
+    "note": "The society's index to Montréal cemeteries has 'Duska Mikalis', spouse 'Hancosek Anna', received 28-11-1965, section FT, concession 1965, at Notre-Dame-des-Neiges (D-013-100): the section, number and date of the printout D-006-09, with the cemetery named. The same index has Mike Duska and Mary Demko there in section TR, concession 6650 (D-013-99, D-013-101). Record and reference are in hand (X-009): the database 'SGCF - Cimetières de Montréal 1724-2003'. It is an index, so the cemetery's own register would still be the better citation."
    }
   ]
  },
@@ -2262,6 +2272,24 @@
     "batch": "B-048",
     "effect": "raised at 45",
     "note": "First ruling."
+   }
+  ]
+ },
+ {
+  "id": "H-084",
+  "statement": "The 'Hancosek Anna' of the Montréal cemetery records is Mária Hankovcsák (Hankoščáková), born 18 April 1892 at Senné, the wife Mikuláš Duška left at Senné 11 in 1930, entered under a wrong given name.",
+  "confidence": 40,
+  "basis": "For: the census of 1930 has Mária Dušková, born Hankoščáková on 18 April 1892, married 22 January 1913, wife of an absent Mikuláš Duška (D-011-29, K-578); Miklós is the only man of that name and birth date; Hancosek is a fair hearing of Hankovcsák. Against: the given names differ, in two records made by the cemetery (D-013-100, D-006-09). A family of that surname at Senné had a daughter Anna in 1896 (FG-52, K-420). Alternatives: he married a second wife in Canada, perhaps that Anna, about 30; the cemetery's Anna is another woman, about 30.",
+  "test": "A Québec burial or death record of the wife with her age; the Senné death book after 1930 for Mária; the manifest of a wife joining him; a marriage in Montréal.",
+  "status": "open",
+  "raised": "B-049",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-049",
+    "effect": "raised at 40",
+    "note": "Raised because the census wife and the cemetery wife share a surname and not a given name."
    }
   ]
  }

@@ -2076,6 +2076,29 @@
    "S-387",
    "S-388"
   ],
+  "committed_utc": "2026-11-13T08:29:31Z"
+ },
+ {
+  "id": "B-049",
+  "date": "2026-11-13",
+  "title": "Three entries from a Montréal cemetery index: where the great-grandparents lie, and which cemetery holds 'Mikalis'",
+  "folder": "F-013",
+  "files": 3,
+  "blurb": "Three screenshots from a genealogical society's index to Montréal cemeteries, the whole of the sub-folder 'Montreal'. They are published as crops: the pages show the owner's account on the society's site, and those lines are cut. They close a question open since B-026. The cemetery record of 'Mikalis' Duska (section FT, plot 01965, received 28 November 1965) named no cemetery; the index does: Notre-Dame-des-Neiges (H-068 solved). The same index has the great-grandparents there together: Mary Demko received on 11 September 1950, two days after she died, and Mike Duska on 4 February 1974, the day of the funeral in his death notice, both in section TR, concession 6650. The index is not a death record. It gives the day the cemetery took the body and nothing about age or parents. A small letter matters: a 'd' follows the spouse's name when the spouse was already dead, so Mikalis's wife, Anna Hancosek, died before him. One hypothesis raised (H-084, 40): the census of 1930 gives Mikuláš Duška of Senné a wife Mária, born Hankoščáková, and the cemetery gives Mikalis a wife Anna Hancosek. One surname, two given names: a clerk's slip, or a second wife. That Mikalis is Miklós of Senné, born 28 November 1890, goes from 70 to 75. Curiosities: 1",
+  "raised": [
+   "H-084"
+  ],
+  "resolved": [],
+  "revised": [
+   "H-068",
+   "H-060"
+  ],
+  "people_added": [],
+  "sources_added": [
+   "S-389",
+   "S-390",
+   "S-391"
+  ],
   "committed_utc": null
  }
 ]

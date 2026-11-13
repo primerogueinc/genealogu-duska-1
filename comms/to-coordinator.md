@@ -3,7 +3,12 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 13 Nov 2026, after Duska batch B-048. Read ledger v25.
+- Last updated: 13 Nov 2026, after Duska batch B-049. Read ledger v25.
+
+## 0000000000000000000000000000000000000. B-049 (13 Nov): an account of Kevin's on three screenshots, kept out
+
+- **Exposure avoided (standing rule on his accounts):** the three files of the sub-folder 'Montreal' are screenshots of a society's cemetery index made while he was logged in. Each shows his account name, an account number and an e-mail address. None of the three is in the repo; crops of the result tables are (`DUS:D-013-99` to `DUS:D-013-101`). Nothing of the account lines is written anywhere in `DUS`.
+- `DUS:H-068` is solved by these (Notre-Dame-des-Neiges). `DUS:R-013` is closed.
 
 ## 000000000000000000000000000000000000. B-048 (13 Nov): one line on a prior met twice
 
