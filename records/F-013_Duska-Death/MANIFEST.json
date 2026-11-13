@@ -1,7 +1,7 @@
 {
   "folder_id": "F-013",
   "desktop_path": "Duska Death",
-  "note": "Sub-folder 'Belza Kosice Greek Catholic', marked full by the owner: 9 image strips, received through chat upload on 12 Nov 2026. Sub-folder 'Cicarovce - Greek Catholic', sent in two parts and complete by the owner's words 'rest of folder': 18 image strips. Sub-folder 'Inacovce Greek Catholic', sent in four parts and marked final: 46 image strips. Sub-folder 'Inacovce - Reform Catholic', sent in two parts and marked final for the sub-folder: 25 image strips. Sub-folder 'Montreal', marked full: 3 screenshots of a cemetery index, held out of the repo because they show the owner's account; crops of the result tables are published.",
+  "note": "Sub-folder 'Belza Kosice Greek Catholic', marked full by the owner: 9 image strips, received through chat upload on 12 Nov 2026. Sub-folder 'Cicarovce - Greek Catholic', sent in two parts and complete by the owner's words 'rest of folder': 18 image strips. Sub-folder 'Inacovce Greek Catholic', sent in four parts and marked final: 46 image strips. Sub-folder 'Inacovce - Reform Catholic', sent in two parts and marked final for the sub-folder: 25 image strips. Sub-folder 'Montreal', marked full: 3 screenshots of a cemetery index, held out of the repo because they show the owner's account; crops of the result tables are published. Sub-folder 'Senne - ROCA', sent in nine parts (11 strips each, the ninth with 8), not yet marked complete by the owner: 96 image strips.",
   "files": [
     {
       "file": "Death_of_Andras_Solsesz_Demko_1878.png",
@@ -884,6 +884,871 @@
       "received": "2026-11-13",
       "via": "chat upload",
       "part": "Inacovce - Reform Catholic"
+    },
+    {
+      "file": "Death_of_Anna_Duska_May_1853.png",
+      "sha256": "ca0862297ac4e35331fd71cec16a02bee70663cf1b4b70e5192a5cd319231ed7",
+      "bytes": 531205,
+      "pixels": "1659x228",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Andraj_Duska_1893.png",
+      "sha256": "aa9bb447ee708dda4cfdccdb4c4f21e6a5f4d00fd30e4b4cdfb6267674e96de7",
+      "bytes": 454698,
+      "pixels": "1837x224",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Andras_Duska_1891.png",
+      "sha256": "af47663dbe2b8b893bea54da14fcbe9ceec27315d45de5115ed0c8080b373754",
+      "bytes": 354136,
+      "pixels": "1634x174",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Andras_Duska_1923.png",
+      "sha256": "048336f717c33b07c42b5dd4995c1c9b8e49fe4a20ea26bbe5a04186972965df",
+      "bytes": 395810,
+      "pixels": "1692x194",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Andras_Nyemcsik_1884.png",
+      "sha256": "8ef3cb4ca01a31527d7af93a2fa9c30204d27f65b5386cd90d944b0ad996ae8e",
+      "bytes": 1120955,
+      "pixels": "1777x446",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Anna_Demko_1871.png",
+      "sha256": "a2569e837f8abfb63d0427906ba3607ea33c623c693e4892e0e94d7c504ce6d0",
+      "bytes": 466715,
+      "pixels": "1776x183",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Anna_Duska_1876.png",
+      "sha256": "0429aa1621e41f9143326de8370a5daf1977ba2f725ff5c3d511c685bd40297f",
+      "bytes": 447914,
+      "pixels": "1469x203",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Anna_Duska_1879.png",
+      "sha256": "c150004a36c8cf324039090f5871280ce892653f1cc055f39edff77c2b3e36b6",
+      "bytes": 1013405,
+      "pixels": "1548x602",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Anna_Duska_1898.png",
+      "sha256": "133e658fc2ab1ef60b044953a845316b66be96e777da04fc7c5fec6c16f05602",
+      "bytes": 524368,
+      "pixels": "1669x259",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Anna_Duska_1900.png",
+      "sha256": "dc2746d2efaae25c685dd95c5ce23734d591fffd891579db71d791efcd65c847",
+      "bytes": 418607,
+      "pixels": "1833x193",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Anna_Duska_1909.png",
+      "sha256": "9a03df36aef2c187e2fded73a64e45b38e35ee8efebd6ec751bf4a31e5b8c938",
+      "bytes": 277541,
+      "pixels": "1693x141",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Anna_Kocsis_1840.png",
+      "sha256": "b5a0d1d86500cbcc1cd64aaa29e867a9e4a71d8e74bd63e49b36e30d6260a081",
+      "bytes": 949233,
+      "pixels": "1557x435",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Anna_Kocsis_1894.png",
+      "sha256": "c540c2c0a9e6db3282f416373b794146965665f2d39edd63c00f1a4a6b125315",
+      "bytes": 327732,
+      "pixels": "1460x180",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Anna_Kocsis_1908.png",
+      "sha256": "0097623b955f9b5b87de3ab374f93ef6bb1af195ec3bd80697f402753ccedd6b",
+      "bytes": 347054,
+      "pixels": "1726x166",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Anna_Krak_1921.png",
+      "sha256": "151aabe7968557fc6fd15c2de52dbed98e1ba756092d591e5b334784ed5aa247",
+      "bytes": 271817,
+      "pixels": "1855x127",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_anna_Nyemcsik_1847.png",
+      "sha256": "c2b445eac39b7351c1ca568c0d9baa341a585470c42105266f8dc39a018d2c29",
+      "bytes": 528168,
+      "pixels": "1756x236",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Anna_Nyemcsik_1862.png",
+      "sha256": "e09221b110a7b8d78ed498c8a4c785cf81f91b266c1ab7a3e36a9c8be74eed58",
+      "bytes": 411936,
+      "pixels": "1837x158",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_anna_Nyemcsik_1865.png",
+      "sha256": "7eab9acdcf295bd0c43634262a9d1f19d3ef99acb07df196150c5b7e3bd81754",
+      "bytes": 585465,
+      "pixels": "1688x226",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Anna_Nyemcsik_1870.png",
+      "sha256": "4c5c9c6a3eed5b1e55f424db8a010ca95b4ad29b0fb56b2218be672d35c27ac5",
+      "bytes": 807907,
+      "pixels": "1767x317",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Anna_Nyemcsik_1886.png",
+      "sha256": "1539a516d6e933a2ce898722878349b75ebbfcac80067e9efb8da8c2393b2f06",
+      "bytes": 725063,
+      "pixels": "1640x345",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Anna_Nyemcsik_January_1853.png",
+      "sha256": "8a65a38609d1c79df5b7b36d82e5292d468df2ba85c509c8f0b34937f8baf389",
+      "bytes": 816392,
+      "pixels": "1768x348",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Barbala_Kocsis_1908.png",
+      "sha256": "658855fc8d302c72e055e342aefae4c93653efa94ea374e2c0fa73998819f696",
+      "bytes": 424320,
+      "pixels": "1692x212",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Gyorgy_Duska_1875.png",
+      "sha256": "2a5f09e78e93179d3421a7c80574a7c471cf1bd2304d314cf4746b5fc3cb1a13",
+      "bytes": 388256,
+      "pixels": "1784x164",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Borbala_Duska_1907.png",
+      "sha256": "14a5c645c87f294fd33d9e5be3e863d7af7489c16723831ed62a92e53c5350a0",
+      "bytes": 681494,
+      "pixels": "1881x301",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Borbala_Nyemcsik_July_1848.png",
+      "sha256": "ca603cefe940771c9f359efa6110c79f7c1ea60d22adc04536ee085d53775287",
+      "bytes": 514213,
+      "pixels": "1741x231",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Erszebt_Demko_1891.png",
+      "sha256": "99343e44408b9e1f43cd2adc63d08b9f6e8a47171df7843b42e14cf09d28bbba",
+      "bytes": 279787,
+      "pixels": "1486x149",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Erzebeth_Kovaly_Duska_1873.png",
+      "sha256": "139d41b2311bc708d0c60047b3df04beeba6b80d0ac8d4cfb704f97cd9cfc0e4",
+      "bytes": 432541,
+      "pixels": "1685x184",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Eva_Duska_March_1853.png",
+      "sha256": "072637e16c62871de425cf4d9bbbdb6983e0cc0f8c88f81c8640f2508021fce3",
+      "bytes": 441495,
+      "pixels": "1703x187",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Georg_Kocsis_1838.png",
+      "sha256": "65c01c5ead42b85915cd7244771391f39e5bb65686c9dc7841f193697c11e961",
+      "bytes": 479768,
+      "pixels": "1620x232",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Georg_Kocsis_1914.png",
+      "sha256": "5e7b1b9d38a632a7efd5d5a0409270d2bad4a1fec3e5a0cbf2381da495933201",
+      "bytes": 387580,
+      "pixels": "1798x182",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Georgius_Nyemcsik_1870.png",
+      "sha256": "7e27208a2179f1e55a4130ec885e864618624b9fc202db2740116388e0c25e83",
+      "bytes": 566462,
+      "pixels": "1743x246",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Gorg_Duska_maybe_1845.png",
+      "sha256": "7de44876aaaf20fcf72681d02e2aefbdeeff3e66d856d2077986f81e7d728a2a",
+      "bytes": 887819,
+      "pixels": "1806x381",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Gyorgy_Duska_1873.png",
+      "sha256": "fe460d3523f2b77e1a8fde2f5fd0c5965965425c7314b04dfb60363113882a81",
+      "bytes": 312366,
+      "pixels": "1583x125",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Gyorgy_Duska_1885.png",
+      "sha256": "a29f6fe2a4ec0d1487913b413a0835f52f9265d2934ec4a0acc8e78b2deb00f0",
+      "bytes": 1056611,
+      "pixels": "1694x431",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Gyorgy_Duska_1886.png",
+      "sha256": "711585474ca57545c4fd8bb181238d4b403d5488539ca860512ee25268e13e99",
+      "bytes": 832498,
+      "pixels": "1729x323",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Gyorgy_Duska_1898.png",
+      "sha256": "e111d3ae57c2be97a4f1f81b4721184cc031d313b59785d9b9f6714f9e371255",
+      "bytes": 424179,
+      "pixels": "1837x192",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Gyorgy_Duska_1908.png",
+      "sha256": "de5347765f072ba6b44c6522b00cff63d82c60f59514e68c6b51baae2e3b26a3",
+      "bytes": 283634,
+      "pixels": "1786x136",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Gyorgy_Duska_1918__Senne-ROCA.png",
+      "sha256": "5053d7b061f69d0df549e483c79a3a2117e8ee9eef3de6b66724c14e84f493b1",
+      "bytes": 302434,
+      "pixels": "1687x138",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA",
+      "owner_file_name": "Death_of_Gyorgy_Duska_1918.png"
+    },
+    {
+      "file": "Death_of_Gyorgy_Duska_1922.png",
+      "sha256": "c3006b45c7327c13cfae48bc6d0f39f33574b1cb2b5b6e0656fed81173c5546f",
+      "bytes": 333024,
+      "pixels": "1648x166",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Gyorgy_Niemcsik_1887.png",
+      "sha256": "cd50c4ff033a0095cf7116c9a3566ffd06bce16f8cc61ef718325f641b3ba28d",
+      "bytes": 211450,
+      "pixels": "1409x175",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Gyorgy_Niemcsyk_1882.png",
+      "sha256": "af93280a33fe46db30a9c7ff5faa5efde0c66c67ede67486d3bba85c728a0d90",
+      "bytes": 724684,
+      "pixels": "1511x331",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Ilonna_Duska_1875.png",
+      "sha256": "a3a52d3f2fab7c5200e91d3c20c93f2f7dca6820cf887e4ffabc021aa522da0f",
+      "bytes": 817506,
+      "pixels": "1766x289",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Janios_Demko_1879.png",
+      "sha256": "8705d02e49065cdd5238a96aa10dd1cd59625ec2a1495f36363bfcb1a019a06a",
+      "bytes": 823925,
+      "pixels": "1451x394",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Janos_Demko_1846.png",
+      "sha256": "523a9a748e3f346b84f4112e836a855f538b36500b81536956ad2a59b0cdd215",
+      "bytes": 463370,
+      "pixels": "1753x200",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Janos_Demko_1902.png",
+      "sha256": "1ae5c98086d0bea3c3100c5a612aa8acec3e426733fe596693cc561dfa01f34b",
+      "bytes": 373920,
+      "pixels": "1750x190",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Janos_Demko_February_1898.png",
+      "sha256": "b3af6345270459ae0c423ec5b542e38e0c6952140c824c20b84449e9e5f82a11",
+      "bytes": 311317,
+      "pixels": "1238x263",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Janos_Duska_August_22_1878_wife_-_Maria_Treby.png",
+      "sha256": "46e2ea9e910f83fb1f9f93b381bc553d21624780633d009264c78426d4ed32f3",
+      "bytes": 802940,
+      "pixels": "1412x379",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Janos_Kocsis_1888.png",
+      "sha256": "71232cdf539c58354e7e6a751f667042a0d8e2cef392257d9e53596371939b18",
+      "bytes": 126227,
+      "pixels": "1281x103",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Janos_Kocsis_1897.png",
+      "sha256": "1fc6a786d6566d6d21d7fe00c0d282fb532adca5308fc7a299b71dfe9946a877",
+      "bytes": 367807,
+      "pixels": "1322x287",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Janos_Kocsis_1916.png",
+      "sha256": "c35f22901dbd7bc5b8615637969e4545ce93b9bb8343120d4cff5ab9b62c8bf4",
+      "bytes": 277824,
+      "pixels": "1702x129",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Janos_Nyemcsik_1846.png",
+      "sha256": "5d6938787414ee204e931c37f1ef1e2575f70b1f7a911b6c21cc34ef2624cec4",
+      "bytes": 436469,
+      "pixels": "1723x190",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Janos_Nyemcsik_1873.png",
+      "sha256": "0440c1eddbae061113ead10e87b166bf716da36e72034a80ba5be1f3d617f8da",
+      "bytes": 394523,
+      "pixels": "1691x167",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Janos_Nyemcsik_1906.png",
+      "sha256": "943493ce766d5b99290a9288a9fe703d73e7566f5b5bee9480d27c911b5f9ea0",
+      "bytes": 564676,
+      "pixels": "1850x252",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Janos_Nyemcsik_January_1851.png",
+      "sha256": "8d06eaad4a5a955bed8fb7eed17c7ce7add4d4f26ea4cdf5d62b2e4ac1131e78",
+      "bytes": 305800,
+      "pixels": "1709x132",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Joannes_Duska_1867.png",
+      "sha256": "cbb5a064e0028605aa106700e77f0c1ca9d0a66b418b49d822b016240df1f12a",
+      "bytes": 435232,
+      "pixels": "1836x164",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Joannes_Duska_July_1853.png",
+      "sha256": "068273c8bcbda2d41d49c11aacc8affce0c459a773a36ba760836837b644a1c5",
+      "bytes": 615312,
+      "pixels": "1855x245",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Joannes_Nyemcsik_1854.png",
+      "sha256": "90a92c140f778b751240f1c69f6bbec9caf37693e4b351073c0f2c41bdac72f8",
+      "bytes": 647120,
+      "pixels": "1631x289",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Joszef_Duska_1913.png",
+      "sha256": "f3084654d6f41c617e105774418bbc83bd56585feb91367a848f994b83c774f0",
+      "bytes": 298851,
+      "pixels": "1750x144",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Joszef_Duska_March_1850.png",
+      "sha256": "e325f1914f8991040e9f08f7730b9b607c4a9d9ef3268e66aee3ca035a3b9b41",
+      "bytes": 619925,
+      "pixels": "1734x270",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Jozephina_Nyemcsik_March_1851.png",
+      "sha256": "8311ddcc9d2b17ae218f547e8a7255958d51c890b5d8ba1fd350534bd04e0206",
+      "bytes": 347080,
+      "pixels": "1696x141",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Demko_1847.png",
+      "sha256": "8d90bd5f5f78200c1ef1b01a24ddef5f722bd06c87598a9a1de5ba2ab071746a",
+      "bytes": 868814,
+      "pixels": "1735x372",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Demko_1873.png",
+      "sha256": "6c711d44b964d015b22acb2c708123f9ef0d8475c26af1a4aae219488cda18cd",
+      "bytes": 421976,
+      "pixels": "1721x174",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Demko_Maybe_1843.png",
+      "sha256": "3b686582bf947a913a443033523098f6625c187df11d4dcf78c385882b50acb5",
+      "bytes": 508395,
+      "pixels": "1786x212",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Duska_1847.png",
+      "sha256": "1ac93ac0d9f0eb9a3c5aec63ad3bc24275df53cfc34b04c2e7e16aeb468d601b",
+      "bytes": 609771,
+      "pixels": "882x467",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Duska_1847-2.png",
+      "sha256": "e2cedeeaa33b24e07f786ce134ea406185bf66f98f7142dc20cd73275c4184f7",
+      "bytes": 460589,
+      "pixels": "1733x208",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Duska_1872.png",
+      "sha256": "7d07d8c9d777d82eb14c9cd600ec953cefe0eefca41c20e3e0b5d3d9ceba544e",
+      "bytes": 537662,
+      "pixels": "1735x206",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Duska_1875.png",
+      "sha256": "213211695b7843a7661c46267594996eb971510c7c62be8b309b4064521bb478",
+      "bytes": 429944,
+      "pixels": "1731x183",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Duska_1879.png",
+      "sha256": "e7163845f9fcd4d5dceef702085889100c43228a87610ed23f4e57dd5886ed0f",
+      "bytes": 766710,
+      "pixels": "1468x382",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Duska_1885.png",
+      "sha256": "ca611ab89f5e89dd2c34cc2ea4da0392e47bb3a5821c177896a764fef11056aa",
+      "bytes": 1082419,
+      "pixels": "1665x475",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Duska_1908.png",
+      "sha256": "ca9403e1e4572bd1cbd79972b361f88e3363bf479665267517ce4b2f34ab74a2",
+      "bytes": 737652,
+      "pixels": "1725x344",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Duska_1921.png",
+      "sha256": "fce7e81b66b2205ec566caa89efe70eadc92df7826e44d32238dc31630fe367a",
+      "bytes": 373155,
+      "pixels": "1867x180",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Halasz_Demko_1842.png",
+      "sha256": "5926012804128ab62444be9c4ea1c65b5c74027dbf4b40358882e2854dc22c79",
+      "bytes": 366713,
+      "pixels": "1543x173",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Kocsis_1913.png",
+      "sha256": "ea0cbb56723c82b53f90fae7995ea22f94e214a07a4e9b16e55624cf2a52ccc7",
+      "bytes": 438725,
+      "pixels": "1793x205",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Nyemcsik_1860.png",
+      "sha256": "e737d73542683d27801112e86ae0bd00d6009c19fdab725cd7b348e85ac5f539",
+      "bytes": 750307,
+      "pixels": "1686x307",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Nyemcsik_1874.png",
+      "sha256": "d168b3e740744a46ac8752e90efa89ae2a85adb3f1d22c091a7cd9bb412c0f51",
+      "bytes": 450739,
+      "pixels": "1613x189",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Nyemcsik_1894.png",
+      "sha256": "1edb3980f1f89e2f49075d7293f0f6cd6c0cc34aaac61e7635e9bcaca11e367e",
+      "bytes": 305076,
+      "pixels": "1657x171",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Nyemcsik_1915.png",
+      "sha256": "9df0bc62f2a30a698462885920cc6185c4ddc11dd4a42ea559a4cb8fd57892e3",
+      "bytes": 259181,
+      "pixels": "1821x126",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Nyemcsik_December_1851.png",
+      "sha256": "193f8e31ba64fb84713bde2791ce3187d7e3bc6b4d7b6377824c690e9d06f941",
+      "bytes": 460394,
+      "pixels": "1643x186",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Maria_Nyemcsik_January_1851.png",
+      "sha256": "f51783f44c3a5edff1c979f9c473251c415d3b02aa0c769508a38c0884dee5d5",
+      "bytes": 335026,
+      "pixels": "1757x143",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Michael_Nyemcsik_1863.png",
+      "sha256": "5765a2113fd33e771529d76dcd05aec9721bacaee8ae3683201b593e5a06f4bf",
+      "bytes": 738827,
+      "pixels": "1854x294",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Mihaily_Duska_1915.png",
+      "sha256": "96f4d7a0fde6b9f08c6d09c5d1d21d259cfdf2020906b5df76a5c1b67b21c793",
+      "bytes": 389563,
+      "pixels": "1814x189",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Mihaily_Nyemcsik_1842.png",
+      "sha256": "dbf6a975b629b5553703eb40dd0946dcdc570ee65ec8b889f664667099650838",
+      "bytes": 395775,
+      "pixels": "1592x169",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Susanna_Duska_1859.png",
+      "sha256": "9b790a31ec3b904c8d505bd4bd610a30d507f2fceae1af30945b3772c08e1373",
+      "bytes": 403908,
+      "pixels": "1750x168",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Susanna_Duska_1908.png",
+      "sha256": "79232d32fe85a22ef10c9971575b39ce8621bfc989eb7e2d60dd179d7cd54274",
+      "bytes": 403426,
+      "pixels": "1794x189",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Susanna_Duska_Maybe_1845.png",
+      "sha256": "1d827f16bd2dd558456edaab54b4056870e25591f8a3acc692ee58d4d4472a1d",
+      "bytes": 324904,
+      "pixels": "1715x142",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Unknown_Demko_1831.png",
+      "sha256": "e41d6fe2f133573651026d77784c364e6cbd7ef5159348344acc57c356c585a8",
+      "bytes": 444117,
+      "pixels": "1534x205",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Unknown_Demko_1890.png",
+      "sha256": "c4cb81859b8b95812b59166b4341c784d6fa161e24c7f8a5127bfea829dc4bba",
+      "bytes": 226344,
+      "pixels": "1289x202",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Unknown_Duska_1840.png",
+      "sha256": "c88a8b17c11312c2cb398d92dced700521229db5fec418ced9fa5214d28393f3",
+      "bytes": 452104,
+      "pixels": "1582x202",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Unknown_DuskaApril_1848.png",
+      "sha256": "a03d77eeb601b5e87ec4ab4f673148015ea2ca4149cb5879e9717180cd5a0ddd",
+      "bytes": 436232,
+      "pixels": "1774x183",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Unknown_Hornyak_Niemcsyk_1846.png",
+      "sha256": "970a7c164ec593aba971814aea7e51be9861571d5471ff52e23d9bbd1e42ca91",
+      "bytes": 417403,
+      "pixels": "1824x177",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Unknown_Kocsis_1895.png",
+      "sha256": "2859ac8074565f102bb580dd9639e8bcff7b2511b5cf2b3ca387997f520ced47",
+      "bytes": 448879,
+      "pixels": "1713x207",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Unknown_Nyemcsik_1839.png",
+      "sha256": "5b10f97af4284cbf43e8d726e389bc2ab675b3f31940232948c654c76d55530a",
+      "bytes": 417252,
+      "pixels": "1623x192",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Unknown_Nyemcsik_1892.png",
+      "sha256": "97811abe3a119784c419b4e4609bbba0c0b6993476051c3a7de3061e7eaeb186",
+      "bytes": 496991,
+      "pixels": "1313x362",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Unknown_Nyemcsik_1924.png",
+      "sha256": "d3a4074e83b4315299b0eeb0e816755a87773eafa73168a6c59abd4bb4b2f24a",
+      "bytes": 266565,
+      "pixels": "1686x132",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "Death_of_Zsuzanna_Duska_1918.png",
+      "sha256": "a453c7f04d9883607588f3150a5d5cc2d2fa9e4452c46c1f61fbebd6be11c513",
+      "bytes": 301030,
+      "pixels": "1809x144",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
+    },
+    {
+      "file": "UPS_-_Death_of_Janos_Duska_January_1898.png",
+      "sha256": "d3acefeeb89ed64b3d03dcbec455007df6031cf4e073400ffa168b65d49b1b76",
+      "bytes": 353799,
+      "pixels": "1486x179",
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": "Senne - ROCA"
     }
   ],
   "held": [

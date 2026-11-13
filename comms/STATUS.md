@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-13 after batch B-049 (read ledger v25). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-13 after batch B-050 (read ledger v25). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -25,9 +25,10 @@ Updated 2026-11-13 after batch B-049 (read ledger v25). Requests R-001 to R-011 
 - F-011 `Duska Census` (sixteen parts, 112 files, OPEN; part 2 is four census sheets of Solymos, [1869]): urbarial tables of Solymos (complete), Szenna (25 of 26 serfs), Csicser and Viszoka (one page each). Two Duskas at Solymos, none at Szenna. Five files of the owner's making are held unopened and one third-party transcription is unpublished.
 - F-011 `Duska Census` (seventeen parts, 113 documents, COMPLETE at B-041): the last part is a 1921 census sheet for Nižní Domanince, a Durkota household, not Duska (H-072). Fourteen files of the owner's making are held unopened in all; five more were opened and are link lists and counts (L-024, L-025).
 - F-012 `Duska Contemporary Land` (1 file, complete): a 2022 land register print-out for a house at Senné owned by a couple named Duška, shown de-identified on the owner's instruction (B-045). The PDF is not in the repo.
-- F-013 `Duska Death` (five sub-folders so far, 101 files, OPEN; the third is 46 burials from the Iňačovce Greek Catholic book with Greek Catholic Duskas at Szenna from 1829, B-046): burials from the Belža parish (9) and Čičarovce (18), almost all Demko and routed to DEM; one D[u]ska of Galicia at Szina, [1863], tracked and not attached (H-075).
+- F-013 `Duska Death` (six sub-folders so far, 197 files, OPEN; the sixth, 'Senne - ROCA', not yet marked complete; the third is 46 burials from the Iňačovce Greek Catholic book with Greek Catholic Duskas at Szenna from 1829, B-046): burials from the Belža parish (9) and Čičarovce (18), almost all Demko and routed to DEM; one D[u]ska of Galicia at Szina, [1863], tracked and not attached (H-075).
 - B-048: the Reformed burial book of Solymos, 25 strips. The Reformed Duskas now have ages and deaths; none is tied to the Senné line. Two Kocsis strips are for the Demko agent.
 - B-049: Montréal cemetery index. Mary Demko's entry (`D-013-99`) is for the Demko agent too. H-068 solved.
+- B-050: the Senné Roman Catholic burial book, 96 strips. 24 are for the Demko agent. Ahn 32 has a death; the generation above him has names (H-085).
 
 ## Concluded
 

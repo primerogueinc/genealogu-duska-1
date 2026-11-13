@@ -3238,5 +3238,773 @@
   "title": "Montréal cemetery index: Mike Duska, husband of the late Mary Demko, received at Notre-Dame-des-Neiges on 4 February 1974",
   "extract": "Index entry. Deceased: Mike Duska. Spouse: Mary Demko, marked 'd' (dead). Body received on 4 February 1974 at Notre-Dame-des-Neiges cemetery, Montréal; concession 6650, section TR: his wife's plot of 1950. He is Michal Duska, Ahn 8, who died on 31 January 1974; the death notice gives the funeral as Monday 4 February (D-006-20), the day in this index.",
   "reliability": "An index entry made from the cemetery's records by a society; typed, so the reading is not in doubt, but any error of the indexer's is carried. It gives a reception date, not a death date."
+ },
+ {
+  "id": "S-392",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Eva, one day old, daughter of György Duska, cottar, Szenna 6, May [1853]; filed as Anna",
+  "extract": "Eva, daughter of György Duska, cottar (inquilinus); Szenna, house 6; one day old; died 18 May, buried at Szenna on 19 May. The owner's file name says Anna; the name on the strip is Eva. His file 'Eva March 1853' shows an Anna: the two labels are crossed.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-393",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of András, two weeks old, son of András Duska and Anna Minarcsin, Szenna 73, 29 April 1893",
+  "extract": "András, son of András Duska, Roman Catholic farm servant, and Anna Minarcsin; Szenna, house 73; two weeks old; weakness from birth; died 29 April 1893, buried 1 May by Gyula Buzinkay; 'born 17 April 1893'. The first child of Ahn 16 and Ahn 17. The mother is entered under her mother's alias.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-394",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of András Duska, cottar, aged 60, husband of Anna Ja[f]u[r]ics, Jesztreb, 24 December 1891",
+  "extract": "András Duska, cottar, husband of Anna Ja[f]u[r]ics; Jesztreb; aged 60; pneumonia; died 24 December 1891, buried at Jesztreb on 26 December by István Rusznák, dean and parish priest. Under the sacraments: 'no; the illness was not thought serious'. Born about 1831. He is the father of the Anna born at Jesztreb in [1875].",
+  "reliability": "A register entry made at the burial. Reading level: high; low for the wife's surname. The year is in the entry."
+ },
+ {
+  "id": "S-395",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of András Duska, aged 1 year 3 months, entered as son of András Duska and Anna Nyemcsik, Senné 13, 11 March 1923",
+  "extract": "András Duska, son of András Duska and Anna Nyemcsik by the entry; born and living at Senné, house 13; aged 1 year and 3 months; weakness from birth; died 11 March 1923, buried 12 March by János Barna. Born about December 1921. Anna Nyemcsik was 49 that month. Her son András, born 1896, married in November 1920 and lived at house 12 in 1930: the child is far more likely his, with the grandmother's name written for the mother's (H-088).",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-396",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of András Nyemtsik, aged 16, son of Mihály and Mária Obsitnyik, Szenna 36, of smallpox, November [1884]",
+  "extract": "András, son of Mihály Nyemtsik and Mária Obsitnyik; Szenna, house 36; aged 16; smallpox; confessed; died 30 November, buried 1 December by György Balás. The rows above and below are smallpox too; the next row's remark, 'born 19 September 1878', fits the year 1884. He is the Andreas baptised in [1866] or a later namesake.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-397",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Pado, wife of Mihály Demko, aged 52, Nagy Szeretva 60, November [1871]",
+  "extract": "Anna Pado, wife of Mihály Demko; Nagy Szeretva, house 60; aged 52; a fever; confessed; died 16 November, buried 17 November. Born about 1819.",
+  "reliability": "A register entry made at the burial. Reading level: high; low for the cause. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-398",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, eight months old, daughter of György Duska the younger, Szenna 6, March [1876]",
+  "extract": "Anna, daughter of György Duska the younger (ifj.); Szenna, house 6; eight months old; died 18 March, buried 19 March. Born about July 1875, three weeks before Maria, daughter of György the elder and Anna Krak (7 August 1875): two mothers, so she is a child of Erzsébet Schwarz not among the baptism strips. The couple named another daughter Anna in [1879].",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-399",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Duska, wife of János Marczin[yik], aged 24, of Szenna and Solymos, September [1879]",
+  "extract": "Anna Duska, wife of János Marczin[yik]; born at Szenna, living at Solymos; aged 24; a burning fever; died 26 September, buried at Solymos on 28 September. Born about 1855 at Szenna: a Roman Catholic Duska daughter of the generation before the baptism book opens. Her two daughters were baptised at Solymos 35 in [1876] and 1879. The row below is a boy of ten, Mihály Knyezso, of Solymos 19.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-400",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, three weeks old, twin daughter of András Duska and Anna Minarcsin, Szenna 92, 30 July 1898",
+  "extract": "Anna, daughter of András Duska, cottar, and Anna Minarcsin; Szenna, house 92; three weeks old; weakness from birth; died 30 July 1898, buried 31 July; 'born 11 July 1898'. One of the twins; her brother György followed in December.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-401",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, nine months old, daughter of András Duska and Anna Minarcsin, Szenna 71, 17 June 1900",
+  "extract": "Anna, daughter of András Duska, farm servant, and Anna Minarcsin; Szenna, house 71; nine months old; weakness from birth; died 17 June 1900, buried 18 June; 'born 19 September 1899'. New: the second Anna of this couple died too. The house number, doubtful on her baptism, is 71.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-402",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, aged 2, twin daughter of András Duska and Anna Nyemecz, Ungszenna 32, 20 September 1909",
+  "extract": "Anna, daughter of András Duska, cottar, and Anna Nyemecz; Ungszenna, house 32; aged 2; weakness from birth; died 20 September 1909, buried 21 September by János Barna; 'born 13 July 1907'. The third Anna, twin of Susanna.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-403",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Ko[cs]is, aged 69, Szenna, [1840]",
+  "extract": "Anna Ko[cs]is, of Szenna; aged 69; weakness. The month reads 'Apr.' doubtfully; the row below is May. The word before the village in this form, 'nem…', is not resolved. Born about 1771.",
+  "reliability": "A register entry made at the burial. Reading level: medium; low for the month and the surname. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-404",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, aged 2, daughter of János Kocsis and Anna Halász, Szenna 95, 28 January 1894",
+  "extract": "Anna, daughter of János Kocsis, cottar, and Anna Halász; Szenna, house 95; aged 2; dropsy; died 28 January 1894, buried 30 January; 'born 17 December 1891'.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-405",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, aged 2, daughter of János Kocsis and Anna Halász, Ungszenna 79, of smallpox, 15 April 1908",
+  "extract": "Anna, daughter of János Kocsis, cottar, and Anna Halász; Ungszenna, house 79; aged 2; smallpox; died 15 April 1908, buried 16 April; 'born 17 May 1906'. The third daughter Anna this couple buried.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-406",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Král[y], aged 30, wife of Mihály Praskai, Rebrin 30, 21 July 1921; filed as Anna Krak",
+  "extract": "Anna Král[y], wife of Mihály Praskai; born and living at Rebrin, house 30; aged 30; consumption; died 21 July 1921, buried at Rebrin on 22 July. Born about 1891. The surname ends in l or ly, not k, and she is two generations too young: not Anna Krak, wife of György Duska.",
+  "reliability": "A register entry made at the burial. Reading level: high; medium for the surname. The year is in the entry."
+ },
+ {
+  "id": "S-407",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, aged 2½, child of Mih[ály] Nyemtsik, Szenna, of smallpox, [1847]",
+  "extract": "Anna, child of Mihály Nyemtsik, of Szenna; aged 2½; smallpox; died on the 18th of a month the strip does not show.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-408",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, one week old, daughter of János Nyemcsik, cottar, Szenna 109, December [1862]",
+  "extract": "Anna, daughter of János Nyemcsik, cottar; Szenna, house 109; one week old ('1 Sept.', for septimana); died 1 December, buried 3 December. Another Anna Nyemcsik was born on 17 October 1862 by the remark on her burial in 1886, to another father.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-409",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Nyemcsik, wife of Mihály Mráz, aged 45, Jesztreb, October [1865]",
+  "extract": "Anna Nyemcsik, wife of Mihály Mráz; Jesztreb; aged 45; 'pains of the feet'; given the sacraments; died 3 October, buried at Jesztreb on 5 October by György Balás. Born about 1820.",
+  "reliability": "A register entry made at the burial. Reading level: high; medium for the house. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-410",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, aged 6, daughter of János Nyemcsik, Szenna, September [1870]",
+  "extract": "Anna, daughter of János Nyemcsik; Szenna; aged 6; died 19 September, buried 20 September. Born about 1864. If her father is the János of house 79 (Ahn 34), the Anna he baptised in August 1872 (Ahn 17) was named for this dead sister; the entry gives no house or mother, and several men were named János Nyemcsik.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-411",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Nyemcsik, wife of András Tkács, aged 24, Szenna 116, 29 October 1886",
+  "extract": "Anna Nyemcsik, wife of András Tkács, cottar; Szenna, house 116; aged 24; inflammation of the womb; given the sacraments; died 29 October 1886, buried 31 October by István Rusznák; 'born 17 October 1862'.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-412",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, one week old, daughter of Mihály Nyemcsik, farmer, Szenna 49, 1 January 1853",
+  "extract": "Anna, daughter of Mihály Nyemcsik, farmer (colonus); Szenna, house 49; one week old; died 1 January 1853, buried 2 January. The year is the page heading 'Annus Christi 1853'.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-413",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Borbála Kocsis, widow of Mihály Thur, aged 75, Ungszenna 65, 24 February 1908",
+  "extract": "Borbála Kocsis, widow of the late Mihály Thur; born and living at Ungszenna, house 65; aged 75; exhaustion of old age; died 24 February 1908, buried 25 February. Born about 1833.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-414",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György, aged 3, son of György Duska the elder, Szenna 5, July [1875]",
+  "extract": "György, son of György Duska the elder (id.); Szenna, house 5; aged 3; died 8 July, buried 9 July. He is the György born on 10 February [1872] to György Duska and Anna Krak, whose baptism carries this date of death. The burial book puts the family in house 5, the baptism in house 6.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-415",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Borbála, seven weeks old, twin daughter of János Duska and Mária Obsitnyik, Ungszenna 53, 21 August 1907",
+  "extract": "Borbála, daughter of János Duska, farmer, and Mária Obsitnyik; Ungszenna, house 53; seven weeks old; weakness from birth; died 21 August 1907, buried 22 August; 'born 30 June 1907'. The mother is Anna Opsitnyik in every other entry; Mária here is the priest's slip.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-416",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Borbála Tkáts, aged 31, wife of György Nyemtsik, Szenna, [July 1848]",
+  "extract": "Borbála Tkáts, wife of György Nyemtsik, 'polgár' (a free peasant, in the wording of 1848); Szenna; aged 31; nervous fever (typhus); given the sacraments; died on the 19th. Month and year are the owner's. Born about 1817.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-417",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Erzsébet Demko, wife of János Hornyák, born at Butka, aged 52, Szenna 118, 24 May 1891",
+  "extract": "Erzsébet Demko, wife of János Hornyák, cottar; born at Butka, living at Szenna, house 118; aged 52; diarrhoea; given the sacraments; died 24 May 1891, buried 26 May. Born about 1839.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-418",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Erzsébet Kovaly, wife of András Duska, aged 70, Solymos 24, July [1873]",
+  "extract": "Erzsébet Kovaly, wife of András Duska; Solymos, house 24; aged 70; cause 'as above', the row above being off the strip; died 25 July and buried at Solymos the same day. Born about 1803. Her husband, the Reformed András Dusko, had been buried eight weeks before, on 3 June (the Reformed book). She is the Erzsébet Ková[cs], Roman Catholic, of the baptism of 1852. Same-day burial in July [1873], when the Reformed book next door is burying cholera dead, points to cholera; the strip does not say it.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-419",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, little daughter of György Duska, cottar, Szenna 6, March [1853]; filed as Eva",
+  "extract": "Anna, 'little daughter' of György Duska, cottar; Szenna, house 6; no age entered; died 9 March, buried 10 March. The owner's file name says Eva; the Eva is on his file 'Anna May 1853'. Ten weeks separate the two burials, so Anna was the older child.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-420",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György Ko[cs]is, three months old, Szenna, February [1838]",
+  "extract": "György Ko[cs]is, of Szenna; three months old ('holn. 3'); died in February. The ink is faint; the day and the burier are not read.",
+  "reliability": "A register entry made at the burial. Reading level: low. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-421",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György, two hours old, son of György Kocsis and Mária Lőrincz, Ungszenna 112, 16 December 1914",
+  "extract": "György, son of György Kocsis and Mária Lőrincz; Ungszenna, house 112; two hours old; weakness from birth; born and died 16 December 1914, buried 18 December. The strip shows the printed headings of the form.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-422",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György, six months old, son of Mihály Nyemcsik, Szenna 47, April [1870]",
+  "extract": "György, son of Mihály Nyemcsik; Szenna, house 47; six months old; died 19 April, buried 20 April by György Balás. He is the Georgius of [1869] in the baptism strips.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-423",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Görg, one week old, child of János Dusák, cottar, Solymos, January [1845?]",
+  "extract": "Görg (György), child of János Dusák, cottar, of Solymos; one week old; entered under a ditto mark for the day of the row above, 8 January. The surname is written Dusák, with the a before the k. A Roman Catholic János at Solymos in the 1840s: the Duskas there are Reformed or Greek Catholic. The row above names the burier, József Harkel, pastor of Szenna.",
+  "reliability": "A register entry made at the burial. Reading level: high; the year is the owner's guess. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-424",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György Duska, husband of Mária Rapács, aged 70, Szenna 6, December [1873]",
+  "extract": "György Duska, husband of Mária Rapács; Szenna, house 6; aged 70; a burning fever; confessed; died 19 December, buried 20 December. Born about 1803. Entry 186 of the year: a year of cholera. He is the oldest György Duska of house 6 and the 'Georgius Dusko' whose widow Maria the Greek Catholic priest buried in May 1874.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-425",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György, aged 6, son of György Duska the elder and Mária Kozej, Szenna 7, of diphtheria, 9 November 1885",
+  "extract": "György, son of György Duska the elder and Mária Kozej ('Kozejova'); Szenna, house 7; aged 6; diphtheria; died 9 November 1885, buried 11 November. He is the György born on 18 January [1880]. The second son György of this father to die; his sister Maria had died in May.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-426",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György, four months old, illegitimate son of Zsuzsanna Duska, servant, Szenna 6, 17 July 1886",
+  "extract": "György, illegitimate son of Zsuzsanna Duska, Roman Catholic servant, wife of János Krajnyik, cottar; born at Nagymihály (Michalovce), died at Szenna, house 6; four months old; weakness; died 17 July 1886, buried 18 July by Gyula Buzinkay, curate. Remark: reported to the parish of Nagymihály on 20 July under no. 70/86. A married Duska woman in service in the town, back in the Duska house with a child not her husband's.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-427",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György, five months old, twin son of András Duska and Anna Minarcsin, Szenna 92, 8 December 1898",
+  "extract": "György, son of András Duska, farm servant, and Anna Minarcsin; Szenna, house 92; '6 months'; weakness from birth; died 8 December 1898, buried 9 December; 'born 11 July 1898'. The twin of Anna, who died in July.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-428",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György Duska, widower of Mária Kozej, aged 74, Ungszenna 3, 5 January 1908",
+  "extract": "György Duska, 'who was the husband of Mária Kozej'; born and living at Ungszenna (Senné), house 3; aged 74; exhaustion of old age; given the sacraments; died 5 January 1908, buried 6 January by János Barna. Born about 1833, at Senné by the entry. The first entry of the year. He is György Duska the elder, husband of Anna Krak and then of Mária Kozej: Ahn 32.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-429",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György, 2½ months old, illegitimate son of Anna Duska, farm worker, Ungszenna 112, 28 December 1918",
+  "extract": "György, illegitimate son of Anna Duska, farm worker; Ungszenna, house 112; 2½ months old; weakness from birth; died 28 December 1918, buried 29 December; 'born 1 October 1918'. Which Anna Duska is not stated.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-430",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György Duska, widower of Mária Feigerle, aged 77, Senné, 29 September 1922",
+  "extract": "György Duska, 'who was the husband of Mária Feigerle'; born and living at Senné; aged 77; exhaustion of old age; given the sacraments; died 29 September 1922, buried 30 September. Born about 1845. The only other old György Duska in the book after 1873, and so very likely György the younger, husband of Erzsébet Schwarz in 1872 to 1890, with a second wife (H-087).",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-431",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György Nyemcsik, half an hour old, son of [János] Nyemcsik and Zsuzsanna Kozé, Szenna 116, 30 April 1887",
+  "extract": "György, son of a Nyemcsik and Zsuzsanna Kozé, cottars; Szenna, house 116; half an hour old; weakness; died 30 April 1887, buried 1 May. The father's given name is small and read from the baptism strip, where the midwife baptised the child.",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is in the entry."
+ },
+ {
+  "id": "S-432",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György Nyemtsik, husband of Borbála Tomas, aged 70, Szenna 98, [1882]",
+  "extract": "György Nyemtsik, husband of Borbála Tomas; Szenna, house 98; aged 70; nervous fever (typhus); confessed. The date is a ditto for the row above, off the strip; the next row is 4 May. Born about 1812. A György Nyemtsik lost a wife Borbála Tkáts in [1848]; if he is the same man, Borbála Tomas was his second wife. House 98 is where András Duska and Anna Nyemcsik lived in 1905.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-433",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Ilonna Puskar, widow of József Ferencsik, aged 80, Kráska, November [1875]; filed as Duska",
+  "extract": "Ilonna Puskar, widow of József Ferencsik; Kráska; aged 80; confessed; died 2 November, buried at Kráska on 3 November by György Balás. The owner files her as Ilona Duska; the surname is Puskar, with a P and an r. The strip is useful for another reason: it shows the handwritten headings of the form.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-434",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János, aged 17, son of Mihály Demko and Anna Padó, of Nagy Szeretva, at Szenna, March [1879]",
+  "extract": "János, son of Mihály Demko and Anna Padó; born at Nagy Szeretva, died at Szenna; aged 17; dropsy; died 19 March, buried at Szenna on 21 March. Born about 1862. His mother's burial of [1871] is in this folder.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-435",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János Demkó, shepherd, aged 78, Solymos, [1846]",
+  "extract": "János Demkó, shepherd (juhász); of Solymos; aged 78; cramps; given the sacraments; died on the 4th of a month the strip does not show. Born about 1768. A Roman Catholic Demko at Solymos two generations above Maria Demko's father.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-436",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János, seven months old, son of János Demko, carpenter, and Mária Ivanko, Szenna 113, of scarlet fever, 25 May 1902",
+  "extract": "János, son of János Demko, carpenter, and Mária Ivanko, Greek Catholic; Szenna, house 113; seven months old; scarlet fever; died 25 May 1902, buried 26 May; 'born 18 October 1901'. The second son János of the carpenter to die.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-437",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János Demko, carpenter, widower of Ilona Mihalyo, aged 63, Szenna 32, 28 February 1898",
+  "extract": "János Demko, carpenter, widower of Ilona Mihalyo; Szenna, house 32; aged 63; consumption; given the sacraments; died 28 February 1898, buried 2 March. Born about 1835. The older János Demko of the baptism strips, and a carpenter like the younger: father and son by trade as well as by name.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-438",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János Duska, husband of Mária Trebjo, aged 80, Szenna 6, August [1878]",
+  "extract": "János Duska, husband of Mária Trebjo; Szenna, house 6; aged 80; old age; confessed; died 22 August, buried 24 August. Born about 1798. With György (born about 1803) and Mária, wife of Dzvonyik (born about 1799), one of three Duskas of Senné born around 1800.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-439",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János, seven weeks old, son of János Kocsis and Anna Halász, Szenna 103, 5 December 1888",
+  "extract": "János, son of János Kocsis, cottar, and Anna Halász; Szenna, house 103; the age cell holds his birth date, 13 October 1888; weakness; died 5 December 1888, buried 6 December.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-440",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János, eleven months old, son of János Kocsis and Anna Halász, Szenna 95, 14 July 1897",
+  "extract": "János, son of János Kocsis, cottar, and Anna Halász; Szenna, house 95; eleven months old; diarrhoea; died 14 July 1897, buried 15 July; 'born 22 August 1896'. The second son János they buried.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-441",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János Kocsis, widower of Anna Halász, aged 52, Ungszenna 111, 3 August 1916",
+  "extract": "János Kocsis, 'who was the husband of Anna Halász'; Ungszenna, house 111; aged 52; stomach cramp; given general absolution and the last anointing; died 3 August 1916, buried 5 August; 'born 2 March 1864'. The father of the children in the strips of 1888 to 1913.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-442",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János, aged 5½, child of János Nyemtsik, farmer, Szenna, of whooping cough, [1846]",
+  "extract": "János, child of János Nyemtsik, farmer; Szenna; aged 5½; whooping cough; died on the 25th.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-443",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János Nyemtsik, gunner, aged 25, Szenna 47, [1873]",
+  "extract": "János Nyemtsik, gunner (tüzér: an artilleryman); Szenna, house 47; aged 25; date, cause, sacraments and burial all dittos for a row off the strip. Entry 115 of [1873], between no. 78 of 25 July and no. 186 of 19 December. Born about 1848, in the house of the János Nyemcsik who died in [1854]. He is not Ahn 34, who baptised a son in 1875.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-444",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János, aged 2, son of János Nyemcsik and Zsuzsanna Kiszlán, Nagyszeretva 40, 28 August 1906",
+  "extract": "János, son of János Nyemcsik, farmer, and Zsuzsanna Kiszlán; Nagyszeretva, house 40; '1½ years', though born on 24 May 1904 by the remark; weakness from birth; died 28 August 1906, buried 29 August. The mother's surname, read Kuslár or Kuslán on the baptism strips, is Kiszlán here.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-445",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János, aged 2, son of György Nyemtsik, Szenna, 27 January [18]49",
+  "extract": "János, son of György Nyemtsik, of Szenna; aged 2. In this run of the book each entry is numbered and a date is written small under the name; here 'Jan. 27. —49', read as the day of death, 27 January 1849. The owner's file name says January 1851.",
+  "reliability": "A register entry made at the burial. Reading level: high; the meaning of the small date is inferred. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-446",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János Dzvonyik, husband of Mária Duska, aged 65, Szenna 63, August [1867]; filed as Joannes Duska",
+  "extract": "János Dzvonyik, husband of Mária Duska, 'plebeius' (a commoner); Szenna, house 63; aged 65; consumption; given the sacraments; died 8 August, buried 9 August. The dead man is Dzvonyik; the Duska is his wife. Born about 1802.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-447",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János, two weeks old, son of János Duska, farmer, Szenna 49, July [1853]",
+  "extract": "János, son of János Duska, farmer (colonus); Szenna, house 49; two weeks old; died 2 July, buried 4 July. A János Duska with a holding at house 49 in 1853: the house where Mihály Nyemcsik, farmer, buried a child in January of the same year. Whether this father is the János of house 6 (then about 55) or a younger man is not shown.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-448",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János Nyemcsik, farmer, husband of Susanna Szabó, aged 45, Szenna 47, December [1854]",
+  "extract": "János Nyemcsik, farmer, husband of Susanna Szabó; Szenna, house 47; aged 45; dropsy; given the sacraments; date and burial as the row above: died 6 December, buried 7 December. Born about 1809. Entry 153 of the year. The 'János Nyemtsik, gazda' who lost a son in [1846], a daughter in 1847 and a wife Jozephina in 1848 is very likely this man, remarried.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-449",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of József, aged 1, son of András Duska and Anna Nyemecz, Ungszenna 38, 27 September 1913",
+  "extract": "József, son of András Duska, cottar, and Anna Nyemecz; Ungszenna, house 38; '2 years' (he was born on 5 January 1912); weakness from birth; died 27 September 1913, buried 28 September. The last child of Ahn 16 and Ahn 17.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-450",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of József, one week old, infant of György Duska, Szenna, [March 1850]",
+  "extract": "József, infant of György Duska, of Szenna; one week old; died on the 18th. Month and year are the owner's. A child of the eldest György (born about 1803), three years after Mária Béres died: so of a second wife. The row above is a man of 42 whose illness was not reported to the priest, with the remark 'his wife did not live with him'.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-451",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Jozephina, wife of János Nyemtsik, aged 33, Szenna, 13 March [1]848",
+  "extract": "Jozephina, wife of János Nyemtsik, of Szenna; aged 33; given the sacraments. The small date under her name, 'Mar. 13. 848', cannot be a birth for a woman of 33 and is read as her death: 13 March 1848. The owner's file name says March 1851. Born about 1815.",
+  "reliability": "A register entry made at the burial. Reading level: high; the meaning of the small date is inferred. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-452",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária, one week old, daughter of Mihály Demko, Pálin, January [1847]",
+  "extract": "Mária, daughter of Mihály Demko, of Pálin (Pályin); one week old; died 2 January. The row above, of 1 January, is a coachman's child dead of smallpox.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-453",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária Szolontzy, wife of Mihály Demko, aged 30, Jesztreb, December [1873]",
+  "extract": "Mária Szolontzy (Szalontai), wife of Mihály Demko; Jesztreb; aged 30; no cause entered; confessed; died 13 December, buried at Jesztreb on 14 December. Born about 1843. Roman Catholic, where the Demkos of Jesztreb in the Iňačovce book are Greek Catholic.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-454",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária, aged 7, daughter of Andor Szmitsák, Szenna, [1843?]; filed as 'Demko maybe'",
+  "extract": "Mária, daughter of Andor (András) Szmitsák, of Szenna; aged 7; died on the 6th. The owner files her as a possible Demko; the surname reads Szmitsák. Not a Demko.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-455",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária Béres, wife of György Duska, aged 31, Szenna, February 184[5 or 7], with the headings of the page",
+  "extract": "Mária Béres, wife of György Duska, of Szenna; aged 31; consumption ('szárazkór'); given the sacraments; died 4 February; buried by József Harkel, parish priest. The top of a page with its headings and the year, whose last figure reads 5 to this agent and 7 to the owner. Born about 1815. The earliest wife of a Roman Catholic Duska at Senné found so far, and of an age to be the mother of György the elder, born about 1833 (H-085).",
+  "reliability": "A register entry made at the burial. Reading level: high; low for the last figure of the year. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-456",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Maria, aged 3, child of György Duska, Szenna, of whooping cough, [1847]",
+  "extract": "Maria, child of György Duska, of Szenna; aged 3; whooping cough; died on the 12th. Born about 1844: a daughter of Mária Béres.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-457",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Maria Duska, wife of Pál Pe[de]gyár, aged 27, Szenna 6, December [1872]",
+  "extract": "Maria Duska, wife of Pál Pe[de]gyár; Szenna, house 6; aged 27; dropsy; confessed; died on the 2nd, buried in December. Born about 1845. A married daughter who died in the Duska house: of the eldest György or of János, both living there.",
+  "reliability": "A register entry made at the burial. Reading level: high; low for the husband's surname and the month. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-458",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Maria, two weeks old, daughter of György Duska, Szenna 5, August [1875]",
+  "extract": "Maria, daughter of György Duska; Szenna, house 5; two weeks old; died 22 August, buried 23 August. She is the Maria born on 7 August [1875] to György Duska the elder and Anna Krak: the last child of Anna Krak in the records. Six weeks after her brother György.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-459",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Maria Duska, widow of János Dzvonyik, aged 80, Szenna 65, June [1879]",
+  "extract": "Maria Duska, widow of János Dzvonyik; Szenna, house 65; aged 80; old age; confessed; died 16 June, buried 18 June. Born about 1799: the oldest Duska of Senné with an age.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-460",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Maria, aged 1½, twin daughter of György Duska and Mária Kozej, Szenna 6, May [1885]",
+  "extract": "Maria, daughter of György Duska and Mária Kozej ('Kozejova'); Szenna, house 6; aged 1½; wasting; died 18 May, buried 20 May. One of the twins of 14 December 1883, whose baptism has a cross and no date.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-461",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária, aged 2, daughter of András Duska (written György) and Anna Nyemecz, Ungszenna 37, 12 February 1908",
+  "extract": "Mária, daughter of 'György' Duska, cottar, and Anna Nyemecz; Ungszenna, house 37; aged 2; a throat illness; died 12 February 1908, buried 13 February; 'born 28 May 1905'. The birth date and the mother are those of Mária, daughter of András Duska. The priest wrote the grandfather's name for the father's, five weeks after burying the grandfather.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-462",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária, one week old, daughter of Miklós Duska and Mária Hankovcsák, Ungszenna, 22 March 1921",
+  "extract": "Mária, daughter of Miklós Duska, farm worker, and Mária Hankovcsák; Ungszenna; one week old; weakness from birth; died 22 March 1921, buried 23 March; 'born 16 March 1921'. Miklós Duska of Senné, the man of the Montréal cemetery record, with his wife in 1921: Mária Hankovcsák, the wife the census of 1930 gives him.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-463",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária Halász, aged 20, wife of János Dankó, Szenna, [1842]; filed as Demko",
+  "extract": "Mária Halász, wife of János Dankó, of Szenna; aged 20; a burning fever; given the sacraments; died on the 12th. The husband's surname is Dankó, with an a and its accent, as in the Danko families of Szenna. Not a Demko.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-464",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária Kocsis, aged 16, daughter of János Kocsis and Anna Halász, Ungszenna 111, of typhus, 28 October 1913",
+  "extract": "Mária, daughter of János Kocsis and Anna Halász; Ungszenna, house 111; aged 16; typhus; given the sacraments; died 28 October 1913, buried 29 October. Born about 1897.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-465",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Two rows filed as 'Maria Nyemcsik 1860': Maria Halász, three months, and Susanna Duska, 1½, Szenna 6; no Nyemcsik on the strip",
+  "extract": "Two rows. No. 15: Maria, daughter of János Halász the younger, Szenna 30, three months. No. 16: Susanna, daughter of György Duska, Szenna 6, aged 1½, died 24 March, buried 25 March. No Nyemcsik is on the strip. Row 16 is the same entry as the owner's file 'Susanna Duska 1859'; the two file names give two years for one row.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-466",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária, six months old, daughter of Pál Nyemtsik, Pálin 137, June [1874]",
+  "extract": "Mária, daughter of Pál Nyemtsik; Pálin (Pályin), house 137; six months old; cause as the row above; died 16 June, buried at Pálin on 17 June.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-467",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária, ten months old, daughter of János Nyemcsik and Mária Szalontai, Szenna 109, of scarlet smallpox, 27 May 1894",
+  "extract": "Mária, daughter of János Nyemcsik, cottar, and Mária Szalontai; Szenna, house 109; ten months old; 'red pox' (measles or scarlet fever); died 27 May 1894, buried 28 May. A child of this couple not among the baptism strips.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-468",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária Nyemcsik, widow of András Horny[…], smith, born at Varannó, aged 75, Ungszenna, 8 February 1915",
+  "extract": "Mária Nyemcsik, widow of the late András Horny[…], smith; born at Varannó (Vranov), living at Ungszenna; aged 75; exhaustion of old age; died 8 February 1915, buried 10 February. Born about 1840.",
+  "reliability": "A register entry made at the burial. Reading level: high; medium for the husband's surname. The year is in the entry."
+ },
+ {
+  "id": "S-469",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária Bányász, wife of Mihály Nyemcsik, from Pálócz, aged 65, Szenna, [December 1851]",
+  "extract": "Mária Bányász, wife of Mihály Nyemcsik; from Pálócz, living at Szenna; aged 65; consumption; given the sacraments. The date is a ditto for a row off the strip; month and year are the owner's. Born about 1786: the oldest Nyemcsik wife with an age.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-470",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mária, aged 3, daughter of János Nyemtsik, Szenna, 24 December [18]47",
+  "extract": "Mária, daughter of János Nyemtsik, of Szenna; aged 3; weakness. The small date under her name, 'Xb. 24. —47', is read as her death, 24 December 1847; it cannot be the birth of a child of three buried by 1851. The owner's file name says January 1851.",
+  "reliability": "A register entry made at the burial. Reading level: high; the meaning of the small date is inferred. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-471",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mihály, aged 2, son of György Nyemcsik, Szenna, April [1863]",
+  "extract": "Mihály, son of György Nyemcsik; Szenna, the house number not written; aged 2; died 4 April, buried 6 April.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-472",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mihály, aged 3, son of János Duska and Anna Opsitnyik, Ungszenna, 4 March 1915",
+  "extract": "Mihály, son of János Duska, farmer, and Anna Opsitnyik; Ungszenna; aged 3; a throat illness; died 4 March 1915, buried 5 March. Born about 1912. A Mihály Duska of Senné who died as a child, and not the son of András: the check the ledger asks for on the name of Ahn 8 finds no burial of the Mihály born in 1903.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-473",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Mihály, five weeks old, son of Mihály Nyemtsik, farmer, Szenna, [1842]",
+  "extract": "Mihály, son of Mihály Nyemtsik, farmer, of Szenna; five weeks old; weakness; died on the 15th.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-474",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Susanna, aged 1½, daughter of György Duska, Szenna 6, March [1859]",
+  "extract": "Susanna, daughter of György Duska; Szenna, house 6; aged 1½; died 24 March, buried 25 March. Born about September 1857. The same row is on the owner's file 'Maria Nyemcsik 1860'.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-475",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Susanna, aged 1, twin daughter of János Duska and Anna Obsitnyik, Ungszenna 115, of scarlet smallpox, 17 July 1908",
+  "extract": "Susanna, daughter of János Duska and Anna Obsitnyik; Ungszenna, house 115; aged 1; 'red pox'; died 17 July 1908, buried 18 July; 'born 29 June 1907'. The twin of Borbála.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-476",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Susánna, one week old, infant of Andor Du[k]sá[…], farmer, Nagy Szeretva, [1845?]",
+  "extract": "Susánna, infant of Andor Du[k]sá[…], farmer, of Nagy Szeretva; one week old; 'időtlenség' (born before her time); died on the 28th. The surname has a letter between the u and the s and does not end in -ka; the owner's 'maybe' is right to doubt. Not taken as a Duska.",
+  "reliability": "A register entry made at the burial. Reading level: low for the surname. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-477",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Andreas Si[m]ko, aged 2, son of a cottar, Pálin, [1831]; filed as 'Unknown Demko'",
+  "extract": "Andreas Si[m]ko, son of a cottar, of Pálin (Pályin); aged 2. The surname has five letters and begins Si-; it is not Demko. The oldest strip from this book, in Latin on a hand-ruled page.",
+  "reliability": "A register entry made at the burial. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-478",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Hornyák, aged 24, daughter of János Hornyák and Erzsébet Demko, born at Varannó, Szenna 118, 23 October 1890",
+  "extract": "Anna Hornyák, daughter of János Hornyák and Erzsébet Demko; born at Varannó, living at Szenna, house 118; aged 24; consumption; given the sacraments; died 23 October 1890, buried 25 October. Born about 1866. Her mother followed seven months later.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-479",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Duska, an infant, Szenna, August [1840]",
+  "extract": "Anna Duska, of Szenna; the age is a word read as 'hetes' (weeks old) with no legible figure; died 4 August. No parent is named. The earliest Duska in the Roman Catholic book of Senné among these strips.",
+  "reliability": "A register entry made at the burial. Reading level: medium; low for the age. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-480",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Pál O[ks]ik, aged 36, husband of Anna Duska, Solymos, [April 1848]",
+  "extract": "Pál O[ks]ik, husband of Anna Duska; of Solymos; aged 36; consumption; given the sacraments; died on the 15th. Month and year are the owner's. Born about 1812. An Anna Duska married at Solymos to a Roman Catholic, alive in 1848.",
+  "reliability": "A register entry made at the burial. Reading level: high; low for his surname. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-481",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Susánna Hornyák, unmarried, aged 48, Rebrin, [1846]; no Nyemcsik on the strip",
+  "extract": "Susánna Hornyák, an unmarried woman ('leányzó'); of Rebrin; aged 48; nervous fever; given the sacraments; died on the 29th. Nothing on the strip says Nyemcsik.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-482",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, five months old, daughter of János Kocsis and Anna Halász, Szenna 95, 19 April 1895",
+  "extract": "Anna, daughter of János Kocsis, cottar, and Anna Halász; Szenna, house 95; five months old; weakness from birth; died 19 April 1895, buried 20 April; 'born 7 December 1894'. The second Anna. The row above, of the same day, is a man of 30, 'husband of Mária Feigerle', of Szenna 8, his name cut off: the first husband of the woman who was later the wife of a György Duska.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-483",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János Nyemcsik, seven weeks old, [Szenna], [1839]",
+  "extract": "János Nyemcsik; seven weeks old; the village is a ditto for the row above. The month reads June or January.",
+  "reliability": "A register entry made at the burial. Reading level: medium; low for the date. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-484",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Zsuzsánna H[e]merda, widow of János Nyemcsik, born at Butka, aged 78, Nagy Szeretva 63, 18 December 1892",
+  "extract": "Zsuzsánna H[e]merda, widow of János Nyemcsik, farmer; born at Butka in Zemplén county, living at Nagy Szeretva, house 63; aged 78; decline of old age; died 18 December 1892, buried 20 December. Born about 1814. The Nyemcsiks of Nagy Szeretva, a second village with the name.",
+  "reliability": "A register entry made at the burial. Reading level: high; medium for her surname. The year is in the entry."
+ },
+ {
+  "id": "S-485",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of András Hankovcsák, bell-ringer, widower of Mária Nyemcsik, aged 56, Ungszenna 66, 29 February 1924",
+  "extract": "András Hankovcsák, bell-ringer (harangozó), 'who was the husband of Mária Nyemcsik'; born and living at Ungszenna, house 66; aged 56; inflammation of the brain; died on the leap day, 29 February 1924, buried 1 March, the priest first writing February; 'born 25 August 1868'. His wife was dead by then. He is the father of the Hankovcsák children of the baptism strips, and the surname is the one the Montréal cemetery wrote 'Hancosek'.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-486",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Zsuzsanna Duska, aged 11, daughter of András Duska and Anna Nyemecz, Ungszenna 38, of the Spanish influenza, 29 October 1918",
+  "extract": "Zsuzsanna, daughter of András Duska, farm worker, and Anna Nyemecz; Ungszenna, house 38; aged 11; 'spanyol nátha', the Spanish influenza; given the sacraments; died 29 October 1918, buried 30 October; 'born 13 July 1907'. A sister of Michal Duska (Ahn 8), who was fifteen and in the same house.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-487",
+  "batch": "B-050",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János, one month old, son of János Demko, carpenter, and Mária Ivanko, Szenna 92, 19 January 1898; filed as 'UPS - János Duska'",
+  "extract": "János, son of János Demko, carpenter, and Mária Ivanko, Greek Catholic; Szenna, house 92; one month old; weakness from birth; died 19 January 1898, buried 20 January; 'born 17 December 1897'. The first entry of the year, under the printed headings of the form. The owner's file name says János Duska and begins 'UPS'; the child is a Demko. House 92 is where András Duska and Anna Nyemcsik lived that year: the carpenter's family and the direct line under one number.",
+  "reliability": "A register entry made at the burial. Reading level: high. The year is in the entry."
  }
 ]

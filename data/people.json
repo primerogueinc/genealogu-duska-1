@@ -130,7 +130,7 @@
    "S-274",
    "S-391"
   ],
-  "note": "Born 3 July 1903 at Senné, house 79, son of András Duska, cottar, and Anna Nyemcsik (baptism D-009-79). Identified by the census of 1930: his wife Maria and son Štefan are entered at Senné 145 as the daughter-in-law and grandson of Andrej Duška and Anna, married 18 January 1892 (D-011-24). Married Maria Demko on 30 January 1927 by that census. Roman Catholic cottar of Senné 160 in 1929. Sailed for Canada aged 26, with Mikulas Duska, between November 1929 and July 1930 (D-006-19); naturalised 22 April 1940; at 1196a St. George Street, Montréal, in 1937, when he sent for his family; 'Mike Duska' on his wife's stone; alive in November 1966. Died at the Montreal General Hospital on 31 January 1974, 'age 71'; funeral from the Slovak church of St. Cyril and Method; buried in Côte-des-Neiges cemetery (D-006-20). The notice names two sons, Steve and Mike. The cemetery received him on 4 February 1974, into his wife's plot: Notre-Dame-des-Neiges, section TR, concession 6650 (D-013-101).",
+  "note": "Born 3 July 1903 at Senné, house 79, son of András Duska, cottar, and Anna Nyemcsik (baptism D-009-79). Identified by the census of 1930: his wife Maria and son Štefan are entered at Senné 145 as the daughter-in-law and grandson of Andrej Duška and Anna, married 18 January 1892 (D-011-24). Married Maria Demko on 30 January 1927 by that census. Roman Catholic cottar of Senné 160 in 1929. Sailed for Canada aged 26, with Mikulas Duska, between November 1929 and July 1930 (D-006-19); naturalised 22 April 1940; at 1196a St. George Street, Montréal, in 1937, when he sent for his family; 'Mike Duska' on his wife's stone; alive in November 1966. Died at the Montreal General Hospital on 31 January 1974, 'age 71'; funeral from the Slovak church of St. Cyril and Method; buried in Côte-des-Neiges cemetery (D-006-20). The notice names two sons, Steve and Mike. The cemetery received him on 4 February 1974, into his wife's plot: Notre-Dame-des-Neiges, section TR, concession 6650 (D-013-101). No burial of the Mihály born in 1903 is in the Senné book to 1924; the Mihály Duska who died there in 1915 aged 3 is a son of János (D-013-182).",
   "owner": "Duska",
   "residence": [
    {
@@ -210,7 +210,7 @@
    "S-213",
    "S-140"
   ],
-  "note": "Roman Catholic servant, then cottar and day-labourer of Senné: houses 73, 92, 79, 98, 138 and, in 1930, 145. Married Anna Nyemcsik on 18 January 1892. Father of Michal by the census of 1930 and the baptism of 1903. Could not read or write. Son of György Duska and Anna Krak by his marriage entry (D-006-03). A death date of 22 August 1940 is noted beside a baptism of [1868] with those parents (D-009-06); the day of that baptism is not on the strip. At his marriage in 1892 he was living at Hrabó, a farmstead of Senné.",
+  "note": "Roman Catholic servant, then cottar and day-labourer of Senné: houses 73, 92, 79, 98, 138 and, in 1930, 145. Married Anna Nyemcsik on 18 January 1892. Father of Michal by the census of 1930 and the baptism of 1903. Could not read or write. Son of György Duska and Anna Krak by his marriage entry (D-006-03). A death date of 22 August 1940 is noted beside a baptism of [1868] with those parents (D-009-06); the day of that baptism is not on the strip. At his marriage in 1892 he was living at Hrabó, a farmstead of Senné. Eight of his children are in the burial book between 1893 and 1918 (FG-49).",
   "owner": "Duska",
   "death": {
    "date": "22 Aug 1940 [?]",
@@ -248,7 +248,7 @@
    "S-231",
    "S-213"
   ],
-  "note": "Wife of András Duska from 18 January 1892; twelve children, nine living in 1930. Her birth date in the census is the date of the baptism of Anna, daughter of János Nyemcsik and Erzsébet Hresko, in the Senné register (H-051). She could read.",
+  "note": "Wife of András Duska from 18 January 1892; twelve children, nine living in 1930. Her birth date in the census is the date of the baptism of Anna, daughter of János Nyemcsik and Erzsébet Hresko, in the Senné register (H-051). She could read. The registers show thirteen children, eight of them buried by 1918 (FG-49); the census figures above are to be read again.",
   "owner": "Duska",
   "living_basis": "Born 1872."
  },
@@ -259,17 +259,22 @@
   "role": "3rd great-grandfather",
   "living": false,
   "birth": {
-   "date": null,
-   "place": null
+   "date": "about 1833 (aged 74 at his burial)",
+   "place": "Senné (by his burial entry)"
   },
   "proof": "documented",
   "sources": [
    "S-231",
-   "S-140"
+   "S-140",
+   "S-428"
   ],
-  "note": "Roman Catholic cottar of Senné, house 6, from [1866]; called 'the elder' from 1875. Named as the father of the groom András Duska in the marriage entry of 18 January 1892. Children by Anna Krak from [1866] to [1875]; a second wife, Mária Kozej, by 1880 (H-052). His own birth and parents are not known; whether he came from Solymos is hypothesis H-057. Greek Catholic Duskas were at Szenna a generation before him: Joannes (d. 1830 aged 61) and a Maria, widow of Georgius (d. 1874 aged 65), who may be his mother (H-079, H-080).",
+  "note": "Roman Catholic cottar of Senné, house 6, from [1866]; called 'the elder' from 1875. Named as the father of the groom András Duska in the marriage entry of 18 January 1892. Children by Anna Krak from [1866] to [1875]; a second wife, Mária Kozej, by 1880 (H-052). His own birth and parents are not known; whether he came from Solymos is hypothesis H-057. Greek Catholic Duskas were at Szenna a generation before him: Joannes (d. 1830 aged 61) and a Maria, widow of Georgius (d. 1874 aged 65), who may be his mother (H-079, H-080). His burial is in hand (B-050): György Duska, 'who was the husband of Mária Kozej', died at Ungszenna 3 on 5 January 1908 aged 74 (D-013-138). That the widower of Kozej is the husband of Anna Krak is H-052, now at 80. The house he lived in held two older Duskas: György, born about 1803, and János, born about 1798. György's first wife, Mária Béres, died in the 1840s aged 31; that they are his parents is H-085.",
   "owner": "Duska",
-  "living_basis": "A father by 1866."
+  "living_basis": "A father by 1866.",
+  "death": {
+   "date": "5 Jan 1908",
+   "place": "Ungszenna (Senné), house 3"
+  }
  },
  {
   "id": "P-033",
@@ -286,7 +291,7 @@
    "S-231",
    "S-140"
   ],
-  "note": "Greek Catholic. Named as the mother of the groom in the marriage entry of 1892, with a word after her name read 'I[sk]e' [?], perhaps her village. Mother of György Duska's children from [1866] to [1875]. Two baptisms of an Anna Krak in 1848 are candidates for hers, at Sztára and at Jesztreb (H-055, 20; H-056, 35); neither is attached. One of the two is now out: the Jesztreb Anna died on 8 December [1848] at about eight weeks (D-013-36). Three girls named Anna Krak with a father János died at Jesztreb as children, in [1836], [1847] and [1848].",
+  "note": "Greek Catholic. Named as the mother of the groom in the marriage entry of 1892, with a word after her name read 'I[sk]e' [?], perhaps her village. Mother of György Duska's children from [1866] to [1875]. Two baptisms of an Anna Krak in 1848 are candidates for hers, at Sztára and at Jesztreb (H-055, 20; H-056, 35); neither is attached. One of the two is now out: the Jesztreb Anna died on 8 December [1848] at about eight weeks (D-013-36). Three girls named Anna Krak with a father János died at Jesztreb as children, in [1836], [1847] and [1848]. No burial for her in the Senné Roman Catholic book (B-050); she was Greek Catholic. Her last child, Maria, was born on 7 August 1875 and died on the 22nd. The 'Anna Krak 1921' of the owner's files is Anna Král[y] of Rebrin, aged 30 (D-013-116).",
   "owner": "Duska",
   "living_basis": "A mother by 1866."
  },

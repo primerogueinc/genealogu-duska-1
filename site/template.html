@@ -151,7 +151,9 @@ $("stats").innerHTML = [
 
 $("lineage-body").innerHTML = DATA.people.slice().sort((a, b) => a.ahnentafel - b.ahnentafel).map(p => {
   const b = p.birth || {};
-  const vit = [b.date ? `b. ${b.date}${b.withheld ? " (day and month withheld)" : ""}` : "birth unknown", b.place].filter(Boolean).join(", ");
+  const vit = [b.date ? `b. ${b.date}${b.withheld ? " (day and month withheld)" : ""}` : "birth unknown", b.place].filter(Boolean).join(", ")
+    + (p.death && p.death.date ? `; d. ${[p.death.date, p.death.place].filter(Boolean).join(", ")}` : "")
+    + (p.burial ? `; buried: ${[p.burial.date, p.burial.place].filter(Boolean).join(", ")}` : "");
   return `<div class="row ${p.proof === "stated" || p.proof === "documented" ? "" : "unknown"}">
     <div class="id">Ahn ${p.ahnentafel}<br>${esc(p.id)}</div>
     <div><div class="name">${esc(p.name)}</div><div class="meta"><b>${esc(p.role)}</b> &middot; ${esc(vit)}</div><p>${esc(p.note)}</p><div class="meta">Evidence: ${p.sources.map(esc).join(", ")}</div></div>

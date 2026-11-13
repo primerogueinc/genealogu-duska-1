@@ -916,5 +916,41 @@
   "date": "2026-11-13",
   "decided": "R-013 is closed and its two unanswered parts are not asked again.",
   "why": "Request-queue rule: the owner hands folders by kind; headers, references and missing halves only."
+ },
+ {
+  "id": "DEC-154",
+  "date": "2026-11-13",
+  "decided": "The nine parts of 'Senne - ROCA' are one batch of 96 strips.",
+  "why": "They arrived within four minutes as numbered parts of one sub-folder; precedent B-046. The owner has not marked the ninth final, so the sub-folder is recorded as open."
+ },
+ {
+  "id": "DEC-155",
+  "date": "2026-11-13",
+  "decided": "Ahn 32 is given a death, 5 January 1908, and a birth of about 1833.",
+  "why": "The burial names him as widower of Mária Kozej, and H-052 (one man, two wives) is now at 80. The dependence is written into his note."
+ },
+ {
+  "id": "DEC-156",
+  "date": "2026-11-13",
+  "decided": "The burial of 1923 is filed under the family of András the younger (FG-70), against the parents the entry names.",
+  "why": "H-088 at 75; the entry's own words are kept in the transcription and the title."
+ },
+ {
+  "id": "DEC-157",
+  "date": "2026-11-13",
+  "decided": "Small dates written under names in the run of 1847 to 1851 are read as dates of death.",
+  "why": "One of them cannot be a birth. The owner's years for these three files are not used."
+ },
+ {
+  "id": "DEC-158",
+  "date": "2026-11-13",
+  "decided": "The surname read Hankos[n]ák on the baptism strips is corrected to Hankovcsák.",
+  "why": "A burial of 1924 and one of 1921 write it large and clear (X-031: names re-read when a better object arrives)."
+ },
+ {
+  "id": "DEC-159",
+  "date": "2026-11-13",
+  "decided": "Eight strips whose owner's label names a Duska, Demko, Krak or Nyemcsik that is not on the strip are recorded under the name read.",
+  "why": "X-004: the label is a prior. Puskar (filed Duska), a Demko (filed 'UPS - Duska'), Dankó, Szmitsák and Si[m]ko (filed Demko), Král[y] (filed Krak), and a Hornyák and a Halász with no Nyemcsik."
  }
 ]

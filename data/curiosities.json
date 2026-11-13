@@ -1027,5 +1027,82 @@
   "translation": "Body received 28-11-1965 | Plot 1965",
   "why": "A row of figures that looks like a data-entry error and is not one.",
   "tone": "wry"
+ },
+ {
+  "id": "C-110",
+  "doc": "D-013-196",
+  "source": "S-486",
+  "title": "Spanyol nátha",
+  "text": "Zsuzsanna Duska, eleven, died at Senné on 29 October 1918. In the column for the illness the priest wrote two words: 'spanyol nátha', the Spanish cold. She was the surviving twin of 1907 and a sister of Michal, who was fifteen and in the house. The war ended thirteen days later.",
+  "original": "spanyol nátha",
+  "translation": "the Spanish cold (influenza)",
+  "why": "The pandemic of 1918 reaches the direct line's own house, in the village priest's own name for it.",
+  "tone": "sad"
+ },
+ {
+  "id": "C-111",
+  "doc": "D-013-197",
+  "source": "S-487",
+  "title": "UPS",
+  "text": "One file is named 'UPS - Death of Janos Duska January 1898'. The row is the first burial of 1898: János, a month old, son of János Demko the carpenter. Not a Duska. The collector seems to have seen it himself and written 'oops' in the file name, in his own spelling, and kept the file anyway.",
+  "original": "UPS - Death of Janos Duska January 1898",
+  "translation": "(a file name)",
+  "why": "The only document in the archive whose label admits its own mistake.",
+  "tone": "funny"
+ },
+ {
+  "id": "C-112",
+  "doc": "D-013-160",
+  "source": "S-450",
+  "title": "His wife did not live with him",
+  "text": "The row above the Duska infant of March 1850 is a man of 42 dead of consumption. Under the sacraments: 'not reported'. And in the remarks, which the priest almost never used: 'neje vélle nem élt', his wife did not live with him. Nobody told the priest the man was dying, and the priest wrote down why.",
+  "original": "nem jelentetett ... neje vélle nem élt",
+  "translation": "not reported ... his wife did not live with him",
+  "why": "A marriage breakdown of 1850, recorded as the reason a man died without a priest.",
+  "tone": "dry"
+ },
+ {
+  "id": "C-113",
+  "doc": "D-013-171",
+  "source": "S-461",
+  "title": "The wrong Duska",
+  "text": "On 6 January 1908 Father Barna buried old György Duska, 74. On 13 February he buried György's granddaughter Mária, aged two, and entered her as the daughter of 'György Duska' and Anna Nyemecz. Her father was András. The birth date in the remarks gives the slip away.",
+  "original": "Duska György r.k. zsellér, Nyemecz Anna leánya",
+  "translation": "daughter of György Duska, cottar, and Anna Nyemecz",
+  "why": "Five weeks after the grandfather's funeral his name was still in the priest's pen.",
+  "tone": "wry"
+ },
+ {
+  "id": "C-114",
+  "doc": "D-013-115",
+  "source": "S-405",
+  "title": "Three Annas",
+  "text": "János Kocsis and Anna Halász of Senné named a daughter Anna in 1891; she died in 1894. They named the next girl Anna that December; she died in April 1895. They named a third Anna in 1906; she died in 1908. Next door, András Duska and Anna Nyemcsik buried three Annas of their own between 1898 and 1909.",
+  "original": "Anna, Kocsis János r.k. zsellér, Halász Anna leánya",
+  "translation": "Anna, daughter of János Kocsis, cottar, and Anna Halász",
+  "why": "The reason every 'Anna Duska, born at Senné' has to be checked against the burial book before she is anyone's ancestor.",
+  "tone": "sad"
+ },
+ {
+  "id": "C-115",
+  "doc": "D-013-195",
+  "source": "S-485",
+  "title": "The bell-ringer and the leap day",
+  "text": "András Hankovcsák, bell-ringer of Senné, died on 29 February 1924. The priest began the burial date 'február', remembered there was no 30th, struck it out and wrote 'márczius 1'. His surname is the one a Montréal cemetery clerk later heard as 'Hancosek'.",
+  "original": "Ungszenna [február] márczius 1.",
+  "translation": "Ungszenna, [February] 1 March",
+  "why": "A leap-day death trips the man who kept the book, and the entry fixes the spelling of a name that crossed the Atlantic badly.",
+  "tone": "wry"
+ },
+ {
+  "id": "C-116",
+  "doc": "D-013-104",
+  "source": "S-394",
+  "title": "Not thought serious",
+  "text": "András Duska of Jesztreb died of pneumonia on Christmas Eve 1891, aged 60. Asked whether he had the last sacraments, the dean wrote: 'No. The illness was not believed to be serious.'",
+  "original": "nem, a betegséget nem hitték súlyosnak",
+  "translation": "no; the illness was not believed serious",
+  "why": "A cause of death and a family's misjudgement in one cell.",
+  "tone": "dry"
  }
 ]

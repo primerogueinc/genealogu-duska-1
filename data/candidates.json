@@ -4939,8 +4939,8 @@
  },
  {
   "id": "K-413",
-  "name": "András Hankos[n]ák (Hankuscsik) [?]",
-  "vitals": "Roman Catholic farmer of Szenna 47 (1896); sexton of Ungszenna 64 (1910)",
+  "name": "András Hankovcsák (read Hankos[n]ák, Hankuscsik on the baptism strips)",
+  "vitals": "Roman Catholic farmer of Szenna 47 (1896); sexton of Ungszenna 64 (1910); b. 25 Aug 1868, d. 29 Feb 1924, bell-ringer",
   "proof": "documented",
   "sources": [],
   "relation": "Parent in family group FG-52.",
@@ -5977,7 +5977,7 @@
    "S-242",
    "S-390"
   ],
-  "relation": "Child in D-009-84, family group FG-48. See D-006-09 and H-060.",
+  "relation": "Child in D-009-84, family group FG-48. See D-006-09 and H-060. B-050: with his wife Mária Hankovcsák he buried a week-old daughter at Ungszenna in March 1921 (D-013-172).",
   "route": "duska",
   "route_note": "",
   "necronym_risk": "unresolved"
@@ -8233,6 +8233,666 @@
    "S-388"
   ],
   "relation": "D-013-98. Parents not named. Not placed.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-692",
+  "name": "Eva Duska",
+  "vitals": "b. and d. May [1853], Szenna 6",
+  "proof": "documented",
+  "sources": [
+   "S-392"
+  ],
+  "relation": "D-013-102. Daughter of György Duska, cottar (FG-65).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-693",
+  "name": "András Duska of Jesztreb",
+  "vitals": "b. about 1831, d. 24 Dec 1891, Jesztreb; Roman Catholic cottar",
+  "proof": "documented",
+  "sources": [
+   "S-394"
+  ],
+  "relation": "D-013-104. Husband of Anna Ja[f]u[r]ics (FG-51). Of an age to be a brother of György the elder; not shown.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-694",
+  "name": "András Duska",
+  "vitals": "b. about Dec 1921, d. 11 Mar 1923, Senné 13",
+  "proof": "documented",
+  "sources": [
+   "S-395"
+  ],
+  "relation": "D-013-105. Entered as son of András Duska and Anna Nyemcsik; probably their grandson (H-088).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-695",
+  "name": "Anna Pado",
+  "vitals": "b. about 1819, d. 16 Nov [1871], Nagy Szeretva 60; Roman Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-397"
+  ],
+  "relation": "D-013-107. Wife of Mihály Demko of Nagy Szeretva.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-696",
+  "name": "Anna Duska",
+  "vitals": "b. about Jul 1875, d. 18 Mar [1876], Szenna 6",
+  "proof": "documented",
+  "sources": [
+   "S-398"
+  ],
+  "relation": "D-013-108. Daughter of György Duska the younger (FG-48); the name was given again in [1879].",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-697",
+  "name": "Anna Duska, wife of Marczinyik",
+  "vitals": "b. about 1855 at Szenna, d. 26 Sep [1879], Solymos; Roman Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-399"
+  ],
+  "relation": "D-013-109. Wife of János Marczinyik (FG-55). Born a Duska of Szenna; her parents are not named.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-698",
+  "name": "Anna Duska",
+  "vitals": "b. 19 Sep 1899, d. 17 Jun 1900, Szenna 71",
+  "proof": "documented",
+  "sources": [
+   "S-401"
+  ],
+  "relation": "D-013-111. Daughter of András Duska and Anna Nyemcsik (FG-49); the second of three Annas.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-699",
+  "name": "Anna Ko[cs]is",
+  "vitals": "b. about 1771, d. [1840], Szenna; Roman Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-403"
+  ],
+  "relation": "D-013-113. No relation stated.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-700",
+  "name": "Anna Král[y]",
+  "vitals": "b. about 1891, d. 21 Jul 1921, Rebrin 30",
+  "proof": "documented",
+  "sources": [
+   "S-406"
+  ],
+  "relation": "D-013-116. Wife of Mihály Praskai. Filed by the owner as Anna Krak; not Ahn 33.",
+  "route": "places",
+  "route_note": ""
+ },
+ {
+  "id": "K-701",
+  "name": "Anna Nyemcsik, wife of Mráz",
+  "vitals": "b. about 1820, d. 3 Oct [1865], Jesztreb",
+  "proof": "documented",
+  "sources": [
+   "S-409"
+  ],
+  "relation": "D-013-119. Wife of Mihály Mráz.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-702",
+  "name": "Anna Nyemcsik",
+  "vitals": "b. about 1864, d. 19 Sep [1870], Szenna",
+  "proof": "documented",
+  "sources": [
+   "S-410"
+  ],
+  "relation": "D-013-120. Daughter of a János Nyemcsik; perhaps an elder sister of Ahn 17 (H-089).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-703",
+  "name": "Anna Nyemcsik, wife of Tkács",
+  "vitals": "b. 17 Oct 1862, d. 29 Oct 1886, Szenna 116",
+  "proof": "documented",
+  "sources": [
+   "S-411"
+  ],
+  "relation": "D-013-121. Wife of András Tkács. A different Anna from Ahn 17.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-704",
+  "name": "Borbála Kocsis",
+  "vitals": "b. about 1833 at Szenna, d. 24 Feb 1908, Ungszenna 65; Roman Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-413"
+  ],
+  "relation": "D-013-123. Widow of Mihály Thur.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-705",
+  "name": "Borbála Tkáts",
+  "vitals": "b. about 1817, d. 19 [Jul 1848], Szenna",
+  "proof": "documented",
+  "sources": [
+   "S-416"
+  ],
+  "relation": "D-013-126. First wife of a György Nyemtsik.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-706",
+  "name": "Erzsébet Demko",
+  "vitals": "b. about 1839 at Butka, d. 24 May 1891, Szenna 118; Roman Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-417"
+  ],
+  "relation": "D-013-127. Wife of János Hornyák.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-707",
+  "name": "Erzsébet Kovaly (Kovács)",
+  "vitals": "b. about 1803, d. 25 Jul [1873], Solymos 24; Roman Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-418"
+  ],
+  "relation": "D-013-128. Second wife of András Duska, Reformed (FG-37).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-708",
+  "name": "Anna Duska",
+  "vitals": "d. 9 Mar [1853], Szenna 6, a small child",
+  "proof": "documented",
+  "sources": [
+   "S-419"
+  ],
+  "relation": "D-013-129. Daughter of György Duska, cottar (FG-65).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-709",
+  "name": "Görg Dusák",
+  "vitals": "b. and d. Jan [1845?], Solymos",
+  "proof": "documented",
+  "sources": [
+   "S-423"
+  ],
+  "relation": "D-013-133. Child of János Dusák, Roman Catholic cottar of Solymos. Not placed.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-710",
+  "name": "György Duska the eldest",
+  "vitals": "b. about 1803, d. 19 Dec [1873], Szenna 6; Roman Catholic cottar",
+  "proof": "documented",
+  "sources": [
+   "S-424"
+  ],
+  "relation": "D-013-134. Husband of Mária Béres and then of Mária Rapács (FG-65). Perhaps the father of György the elder, Ahn 32 (H-085).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-711",
+  "name": "György Duska",
+  "vitals": "b. 18 Jan [1880], d. 9 Nov 1885, Szenna 7, of diphtheria",
+  "proof": "documented",
+  "sources": [
+   "S-425"
+  ],
+  "relation": "D-013-135. Son of György Duska the elder and Mária Kozej (FG-47).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-712",
+  "name": "Zsuzsanna Duska, wife of Krajnyik",
+  "vitals": "living 1886; Roman Catholic servant, of Szenna 6 and Nagymihály",
+  "proof": "documented",
+  "sources": [
+   "S-426"
+  ],
+  "relation": "D-013-136. Wife of János Krajnyik; mother of an illegitimate György (b. about Mar 1886 at Nagymihály, d. 17 Jul 1886). Her parents are not named.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-713",
+  "name": "György Duska the elder (Ahn 32)",
+  "vitals": "b. about 1833 at Senné, d. 5 Jan 1908, Ungszenna 3",
+  "proof": "documented",
+  "sources": [
+   "S-428"
+  ],
+  "relation": "D-013-138. Widower of Mária Kozej. P-032.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-714",
+  "name": "Anna Duska, farm worker",
+  "vitals": "living 1918, Ungszenna 112",
+  "proof": "documented",
+  "sources": [
+   "S-429"
+  ],
+  "relation": "D-013-139. Mother of an illegitimate György (b. 1 Oct 1918, d. 28 Dec 1918). Not placed.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-715",
+  "name": "György Duska (d. 1922)",
+  "vitals": "b. about 1845 at Senné, d. 29 Sep 1922, Senné",
+  "proof": "documented",
+  "sources": [
+   "S-430"
+  ],
+  "relation": "D-013-140. Widower of Mária Feigerle. Probably György the younger (FG-48, H-087).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-716",
+  "name": "György Nyemtsik",
+  "vitals": "b. about 1812, d. [spring 1882], Szenna 98",
+  "proof": "documented",
+  "sources": [
+   "S-432"
+  ],
+  "relation": "D-013-142. Husband of Borbála Tomas; perhaps earlier of Borbála Tkáts (d. 1848).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-717",
+  "name": "Ilonna Puskar",
+  "vitals": "b. about 1795, d. 2 Nov [1875], Kráska",
+  "proof": "documented",
+  "sources": [
+   "S-433"
+  ],
+  "relation": "D-013-143. Widow of József Ferencsik. Filed by the owner as Duska; not one.",
+  "route": "places",
+  "route_note": ""
+ },
+ {
+  "id": "K-718",
+  "name": "János Demko",
+  "vitals": "b. about 1862 at Nagy Szeretva, d. 19 Mar [1879], Szenna",
+  "proof": "documented",
+  "sources": [
+   "S-434"
+  ],
+  "relation": "D-013-144. Son of Mihály Demko and Anna Padó.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-719",
+  "name": "János Demkó, shepherd",
+  "vitals": "b. about 1768, d. [1846], Solymos; Roman Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-435"
+  ],
+  "relation": "D-013-145. No relation stated.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-720",
+  "name": "János Demko the elder, carpenter",
+  "vitals": "b. about 1835, d. 28 Feb 1898, Szenna 32; Roman Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-437"
+  ],
+  "relation": "D-013-147. Widower of Ilona Mihalyo (FG-53).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-721",
+  "name": "János Duska of Szenna 6",
+  "vitals": "b. about 1798, d. 22 Aug [1878], Szenna 6; Roman Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-438"
+  ],
+  "relation": "D-013-148. Husband of Mária Trebjo (FG-67).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-722",
+  "name": "János Kocsis",
+  "vitals": "b. 2 Mar 1864, d. 3 Aug 1916, Ungszenna 111; Roman Catholic cottar",
+  "proof": "documented",
+  "sources": [
+   "S-441"
+  ],
+  "relation": "D-013-151. Husband of Anna Halász (FG-56).",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-723",
+  "name": "János Nyemtsik, gunner",
+  "vitals": "b. about 1848, d. [1873], Szenna 47",
+  "proof": "documented",
+  "sources": [
+   "S-443"
+  ],
+  "relation": "D-013-153. A soldier of the artillery. Not Ahn 34.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-724",
+  "name": "János Dzvonyik",
+  "vitals": "b. about 1802, d. 8 Aug [1867], Szenna 63",
+  "proof": "documented",
+  "sources": [
+   "S-446"
+  ],
+  "relation": "D-013-156. Husband of Mária Duska (FG-68).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-725",
+  "name": "János Duska, colonus of Szenna 49",
+  "vitals": "a father in 1853",
+  "proof": "documented",
+  "sources": [
+   "S-447"
+  ],
+  "relation": "D-013-157. Father of a János who died at two weeks on 2 Jul [1853]. Not placed.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-726",
+  "name": "János Nyemcsik of Szenna 47",
+  "vitals": "b. about 1809, d. 6 Dec [1854], Szenna 47; Roman Catholic farmer",
+  "proof": "documented",
+  "sources": [
+   "S-448"
+  ],
+  "relation": "D-013-158. Husband of Jozephina (d. 1848) and of Susanna Szabó (FG-71). A generation above Ahn 34.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-727",
+  "name": "József Duska",
+  "vitals": "b. and d. [Mar 1850], Szenna",
+  "proof": "documented",
+  "sources": [
+   "S-450"
+  ],
+  "relation": "D-013-160. Infant of György Duska (FG-65).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-728",
+  "name": "Jozephina, wife of János Nyemtsik",
+  "vitals": "b. about 1815, d. 13 Mar [1]848, Szenna",
+  "proof": "documented",
+  "sources": [
+   "S-451"
+  ],
+  "relation": "D-013-161. First wife of János Nyemcsik of house 47 (FG-71).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-729",
+  "name": "Mária Demko",
+  "vitals": "b. Dec [1846], d. 2 Jan [1847], Pálin",
+  "proof": "documented",
+  "sources": [
+   "S-452"
+  ],
+  "relation": "D-013-162. Daughter of a Mihály Demko of Pályin.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-730",
+  "name": "Mária Szolontzy (Szalontai)",
+  "vitals": "b. about 1843, d. 13 Dec [1873], Jesztreb; Roman Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-453"
+  ],
+  "relation": "D-013-163. Wife of a Mihály Demko of Jesztreb.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-731",
+  "name": "Mária Béres",
+  "vitals": "b. about 1815, d. 4 Feb 184[5 or 7], Szenna",
+  "proof": "documented",
+  "sources": [
+   "S-455"
+  ],
+  "relation": "D-013-165. First wife of György Duska the eldest (FG-65); perhaps the mother of Ahn 32 (H-085).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-732",
+  "name": "Maria Duska",
+  "vitals": "b. about 1844, d. [1847], Szenna, of whooping cough",
+  "proof": "documented",
+  "sources": [
+   "S-456"
+  ],
+  "relation": "D-013-166. Child of György Duska the eldest (FG-65).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-733",
+  "name": "Maria Duska, wife of Pe[de]gyár",
+  "vitals": "b. about 1845, d. 2 Dec [1872], Szenna 6",
+  "proof": "documented",
+  "sources": [
+   "S-457"
+  ],
+  "relation": "D-013-167. A daughter of house 6; her father is not named.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-734",
+  "name": "Maria Duska",
+  "vitals": "b. 7 Aug [1875], d. 22 Aug [1875], Szenna 5",
+  "proof": "documented",
+  "sources": [
+   "S-458"
+  ],
+  "relation": "D-013-168. Daughter of György Duska the elder and Anna Krak (FG-47).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-735",
+  "name": "Maria Duska, wife of Dzvonyik",
+  "vitals": "b. about 1799, d. 16 Jun [1879], Szenna 65",
+  "proof": "documented",
+  "sources": [
+   "S-459"
+  ],
+  "relation": "D-013-169. Widow of János Dzvonyik (FG-68). Of the generation of György (b. about 1803) and János (b. about 1798).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-736",
+  "name": "Mária Duska",
+  "vitals": "b. 16 Mar 1921, d. 22 Mar 1921, Ungszenna",
+  "proof": "documented",
+  "sources": [
+   "S-462"
+  ],
+  "relation": "D-013-172. Daughter of Miklós Duska and Mária Hankovcsák (FG-69).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-737",
+  "name": "Mária Halász",
+  "vitals": "b. about 1822, d. [1842], Szenna",
+  "proof": "documented",
+  "sources": [
+   "S-463"
+  ],
+  "relation": "D-013-173. Wife of János Dankó. Filed by the owner under Demko; not one.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-738",
+  "name": "Mária Nyemcsik, widow of a smith",
+  "vitals": "b. about 1840 at Varannó, d. 8 Feb 1915, Ungszenna",
+  "proof": "documented",
+  "sources": [
+   "S-468"
+  ],
+  "relation": "D-013-178. Widow of András Horny[…], smith.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-739",
+  "name": "Mária Bányász",
+  "vitals": "b. about 1786 at Pálócz, d. [Dec 1851], Szenna",
+  "proof": "documented",
+  "sources": [
+   "S-469"
+  ],
+  "relation": "D-013-179. Wife of a Mihály Nyemcsik.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-740",
+  "name": "Mihály Duska",
+  "vitals": "b. about 1912, d. 4 Mar 1915, Ungszenna",
+  "proof": "documented",
+  "sources": [
+   "S-472"
+  ],
+  "relation": "D-013-182. Son of János Duska and Anna Opsitnyik (FG-54). Not Ahn 8.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-741",
+  "name": "Susanna Duska",
+  "vitals": "b. about Sep 1857, d. 24 Mar [1859], Szenna 6",
+  "proof": "documented",
+  "sources": [
+   "S-474"
+  ],
+  "relation": "D-013-184. Daughter of György Duska the eldest (FG-65).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-742",
+  "name": "Susánna Du[k]sá[…]",
+  "vitals": "b. and d. [1845?], Nagy Szeretva",
+  "proof": "documented",
+  "sources": [
+   "S-476"
+  ],
+  "relation": "D-013-186. Infant of Andor Du[k]sá[…]. Not taken as a Duska.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-743",
+  "name": "Anna Duska",
+  "vitals": "d. 4 Aug [1840], Szenna, an infant",
+  "proof": "documented",
+  "sources": [
+   "S-479"
+  ],
+  "relation": "D-013-189. No parent named. Roman Catholic.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-744",
+  "name": "Anna Duska, wife of O[ks]ik",
+  "vitals": "living [1848], Solymos",
+  "proof": "documented",
+  "sources": [
+   "S-480"
+  ],
+  "relation": "D-013-190. Wife of Pál O[ks]ik (b. about 1812, d. [Apr 1848]). Her parents are not named.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-745",
+  "name": "Zsuzsánna H[e]merda",
+  "vitals": "b. about 1814 at Butka, d. 18 Dec 1892, Nagy Szeretva 63",
+  "proof": "documented",
+  "sources": [
+   "S-484"
+  ],
+  "relation": "D-013-194. Widow of a János Nyemcsik of Nagy Szeretva.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-746",
+  "name": "András Hankovcsák, bell-ringer",
+  "vitals": "b. 25 Aug 1868 at Senné, d. 29 Feb 1924, Ungszenna 66",
+  "proof": "documented",
+  "sources": [
+   "S-485"
+  ],
+  "relation": "D-013-195. Widower of Mária Nyemcsik (FG-52; H-086).",
   "route": "duska",
   "route_note": ""
  }

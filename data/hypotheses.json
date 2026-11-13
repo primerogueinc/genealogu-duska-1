@@ -1497,10 +1497,10 @@
  {
   "id": "H-052",
   "statement": "György Duska the elder of Senné, house 6, married twice: Anna Krak, mother of his children from [1866] to [1875], and then Mária Kozej, mother of those of [1880] and 1883.",
-  "confidence": 60,
+  "confidence": 80,
   "basis": "'Idősb Duska György' is the husband of Anna Krak in 1875 and the same style stands before the father's name with Mária Kozej in [1880] and 1883, all at house 6. A second György Duska, 'the younger', is at the same house with Erzsébet Schwarz throughout, so the Kozej children cannot be his. The prefix in [1880] and 1883 is abbreviated and could be misread.",
   "test": "The burial of Anna Krak between 1875 and 1879; the marriage of György Duska, widower, and Mária Kozej.",
-  "status": "open",
+  "status": "supported",
   "raised": "B-022",
   "resolved": null,
   "resolution": null,
@@ -1514,6 +1514,11 @@
     "batch": "B-039",
     "effect": "no change",
     "note": "György Duska the elder is now on the tree as Ahn 32. His second marriage does not touch the line: András was born of the first."
+   },
+   {
+    "batch": "B-050",
+    "effect": "raised from 60 to 80; supported",
+    "note": "After December [1873] the burial book has two old men named György Duska and no third: one died in 1908 aged 74 as widower of Mária Kozej (D-013-138), one in 1922 aged 77 as widower of Mária Feigerle (D-013-140). The elder of two is 'the elder': the man called idősb with Anna Krak in August 1875 and with Kozej's children in 1885 (D-013-135) is one man. Anna Krak's last child was born and died in August 1875. Against: her burial and his second marriage are still not in hand."
    }
   ]
  },
@@ -1604,6 +1609,11 @@
     "batch": "B-046",
     "effect": "raised from 20 to 25",
     "note": "Its only named rival is gone. It does not rise far: the word after Anna Krak's name in the marriage entry of 1892 reads neither Sztára nor Jesztreb, and the Sztára father is Roman Catholic where she is Greek Catholic. 'Some other Anna Krak' is now the largest share."
+   },
+   {
+    "batch": "B-050",
+    "effect": "no change",
+    "note": "The owner's 'Anna Krak 1921' is Anna Král[y], aged 30, of Rebrin (D-013-116). Nothing on the Sztára Anna."
    }
   ]
  },
@@ -1643,7 +1653,7 @@
  {
   "id": "H-057",
   "statement": "The Roman Catholic Duskas of Senné came from Solymos (Iňačovce): they descend from one of the two Duska households in the urbarial table there, Mihály the serf or György the cottar.",
-  "confidence": 40,
+  "confidence": 30,
   "basis": "The table lists every household head of Solymos and has two Duskas. The table for Szenna, complete but for one serf, has none. By 1866 a Duska family is at Senné, 6 km away. Against: the Duskas known at Solymos later are Reformed and Greek Catholic, and those of Senné are Roman Catholic; ninety years lie between the table and the first Senné baptism in hand; and the surname may have other homes not yet looked at.",
   "test": "The missing page of the Szenna table; the Senné Roman Catholic register before 1866; the census of 1828 for both villages; the marriage of György Duska the elder.",
   "status": "open",
@@ -1676,6 +1686,11 @@
     "batch": "B-046",
     "effect": "raised from 35 to 40",
     "note": "Duskas were at Szenna by 1829 and they were Greek Catholic, like the György Duska born at Solymos in 1820 and unlike the Reformed majority of the name there. The tables of about 1770 show none at Szenna. That fits a move from Solymos between about 1770 and 1829; it does not show one."
+   },
+   {
+    "batch": "B-050",
+    "effect": "lowered from 40 to 30",
+    "note": "Duskas born about 1798 to 1803 lived and died at Senné. If the family came from Solymos it came before 1800, which the urbarial tables of about 1770 neither show nor rule out."
    }
   ]
  },
@@ -1728,7 +1743,7 @@
  {
   "id": "H-060",
   "statement": "The 'Mikalis' Duska of the cemetery record, born 28 November 1890 and husband of Anna Hancosek, is Miklós Duska, born 28 November 1890 at Senné, house 6, son of György Duska the younger and Erzsébet Schwarz.",
-  "confidence": 75,
+  "confidence": 85,
   "basis": "The date of birth agrees to the day with the baptism entry (D-009-84), in a surname with only a handful of bearers. 'Mikalis' is a fair French clerk's rendering of Miklós or Mikuláš. His wife's surname resembles a Senné family's. Against: the record is a database entry with stand-in values elsewhere, the cemetery is not named, and no document shows Miklós leaving Senné.",
   "test": "The cemetery's burial register or the gravestone for section FT, plot 01965; a Québec death or marriage registration naming his parents; a passenger list.",
   "status": "supported",
@@ -1770,6 +1785,11 @@
     "batch": "B-049",
     "effect": "raised from 70 to 75",
     "note": "The index adds nothing on who he was, but it removes one of the three points against: the cemetery is named, and it is the one where his travelling companion Michal Duska was buried nine years later. The wife's name is again Hancosek (D-013-100)."
+   },
+   {
+    "batch": "B-050",
+    "effect": "raised from 75 to 85",
+    "note": "A Miklós Duska was at Senné in March 1921 with a wife named Hankovcsák (D-013-172); her family's surname is the one the Montréal cemetery wrote Hancosek, and her likely father, the bell-ringer, has a burial with it spelled out (D-013-195). The Senné man and the Montréal man share a name, a birth date and a wife's surname."
    }
   ]
  },
@@ -1818,7 +1838,7 @@
  {
   "id": "H-063",
   "statement": "András Duska, Reformed, born 1797, is the husband both of Borbála Pluchta (children 1829 to 1843) and of Erzsébet, Roman Catholic, of Szenna (a son in 1852).",
-  "confidence": 75,
+  "confidence": 85,
   "basis": "The census has one András Duska at Solymos, aged 72, with a wife Erzsébet born 1816. He was 32 at the first Pluchta baptism. The wife's surname is read Ková[cs] in 1852 and begins Sz in the census; neither reading is firm.",
   "test": "A burial of Borbála Pluchta between 1843 and 1852; András's second marriage; the Reformed burial of András with his age.",
   "status": "supported",
@@ -1835,6 +1855,11 @@
     "batch": "B-048",
     "effect": "raised from 60 to 75; supported",
     "note": "Two of its three tests are met. Borbála Plyuchta was buried on 10 January 1847 aged 43 (D-013-79). András Dusko was buried in June [1873] aged 78, of house 34 (D-013-76). In between, a son András of 'András Dusko', aged 4, died at house 34 in April [1854] with both parents alive (D-013-75): a wife after 1847 in the same house. Against: no entry names Erzsébet, and his second marriage is not in hand."
+   },
+   {
+    "batch": "B-050",
+    "effect": "raised from 75 to 85",
+    "note": "The second wife has a burial and a name: 'Kovaly Erzsébet, wife of András Duska', Solymos 24, died 25 July [1873] aged 70, in the Roman Catholic book (D-013-128), eight weeks after his Reformed burial. Her age makes her 49 at the birth of the son of 1852, which is late; ages of the old in this book are round."
    }
   ]
  },
@@ -1931,7 +1956,7 @@
  {
   "id": "H-067",
   "statement": "Mikulas and Michal Duska, who crossed to Canada together, were kinsmen but not brothers: Mikulas is the son of György Duska the younger and Erzsébet Schwarz, Michal the son of András Duska and Anna Nyemcsik.",
-  "confidence": 80,
+  "confidence": 85,
   "basis": "Their baptisms name different parents (D-009-84, D-009-79), and Anna Nyemcsik was eighteen and unmarried when Miklós was born to another couple. An office note on the list seems to read '+ Brother'; the typed relationship column does not say so. The two fathers lived in the same Senné houses, 5 and 6, a generation apart in age.",
   "test": "The full manifest page with its 'nearest relative' columns; the naturalisation files of 1940 and 1946.",
   "status": "open",
@@ -1943,6 +1968,11 @@
     "batch": "B-033",
     "effect": "raised at 80",
     "note": "Raised because a reader of the passenger list alone would make them brothers."
+   },
+   {
+    "batch": "B-050",
+    "effect": "raised from 80 to 85",
+    "note": "Miklós is again son of György the younger's house and Michal of András's; and a second tie appears beside the cousinship, through the wives (H-086)."
    }
   ]
  },
@@ -2183,7 +2213,7 @@
  {
   "id": "H-079",
   "statement": "The Roman Catholic Duskas of Senné, György the elder among them, descend from the Greek Catholic Duskas who were at Szenna by 1829.",
-  "confidence": 55,
+  "confidence": 70,
   "basis": "One uncommon surname in one small village a generation apart: Joannes Duska, cottar, died there in 1830 aged 61; two widows named Anna in [1831] and [1846]; Mihály Dusko, Greek Catholic, had a son there in [1846]; Maria, widow of Georgius, died there in 1874. György the elder's wife was Greek Catholic and his household used the Greek Catholic book's neighbour villages. Against: he is Roman Catholic, and under the rule of the time a son followed his father's church (recalled, not sourced); a second, Roman Catholic Duska family could have come to the village separately.",
   "test": "His baptism, about 1825 to 1845, in the Iňačovce Greek Catholic book or the Senné Roman Catholic book before 1866; his marriage to Anna Krak; the census sheets of 1869 for Senné.",
   "status": "open",
@@ -2195,6 +2225,11 @@
     "batch": "B-046",
     "effect": "raised at 55",
     "note": "Background to the line above Ahn 32. Nobody is added to the tree on it."
+   },
+   {
+    "batch": "B-050",
+    "effect": "raised from 55 to 70",
+    "note": "Three Roman Catholic Duskas of Senné were born about 1798, 1799 and 1803: János (D-013-148), Mária, wife of Dzvonyik (D-013-169), and György (D-013-134). They are of an age to be children of the Greek Catholic Joannes Duska who died at Szenna in 1830 aged 61, and the widow of the third was buried by the Greek Catholic priest. The line of house 6 was at Senné a full generation before György the elder. Against: no entry names the father of any of the three."
    }
   ],
   "question": "X-Q-06"
@@ -2202,7 +2237,7 @@
  {
   "id": "H-080",
   "statement": "Maria Dusko, widow of Georgius, who died at Szenna on 29 May 1874 aged 65, is the mother of György Duska the elder (Ahn 32).",
-  "confidence": 30,
+  "confidence": 8,
   "basis": "She was born about 1809 and he was a father by 1866, so the ages fit; her husband was a György, and the son carries the name; she is the only Duska of that generation at Szenna in the strips in hand. Against: nothing names her children; she was buried by the Greek Catholic priest and he is Roman Catholic; György the younger of house 6 could as well be her son.",
   "test": "As for H-079; and her own marriage to Georgius Dusko, about 1825 to 1835.",
   "status": "open",
@@ -2214,6 +2249,11 @@
     "batch": "B-046",
     "effect": "raised at 30",
     "note": "If it held she and Georgius would be Ahn 64 and 65. Not entered."
+   },
+   {
+    "batch": "B-050",
+    "effect": "lowered from 30 to 8",
+    "note": "The Maria who died in May 1874 as widow of Georgius Dusko is now placed: György Duska of Szenna 6 died in December [1873] as 'husband of Mária Rapács' (D-013-134). She was his second wife. György the elder was born about 1833, when the first wife, Mária Béres, was alive (D-013-165). So this Maria is at most his stepmother. The question moves to H-085."
    }
   ],
   "question": "X-Q-06",
@@ -2290,6 +2330,101 @@
     "batch": "B-049",
     "effect": "raised at 40",
     "note": "Raised because the census wife and the cemetery wife share a surname and not a given name."
+   },
+   {
+    "batch": "B-050",
+    "effect": "no change",
+    "note": "The burial of 1921 confirms the census: his wife at Senné was Mária Hankovcsák (D-013-172). It says nothing on why Montréal has Anna."
+   }
+  ]
+ },
+ {
+  "id": "H-085",
+  "statement": "György Duska the elder (Ahn 32, born about 1833) is the son of György Duska of Szenna 6 (born about 1803, died December 1873) and his first wife Mária Béres (died February 184[5 or 7] aged 31).",
+  "confidence": 55,
+  "basis": "For: the same given name and the same house, 6; a father of 30 and a mother of about 18 at his birth; the older man is the only György Duska of Senné in that generation (D-013-134, D-013-165); the younger was called 'the younger' or 'the elder' only against other Györgys of the house. Against: János Duska, born about 1798, lived in house 6 too (D-013-148) and could be the father, about 25; another origin, about 20. No baptism survives at Prešov before 1866.",
+  "test": "The marriage of György Duska and Anna Krak (about 1864), which should name his father; the census of 1869 for Senné house 6; the parish's own copy of the baptism book for 1833.",
+  "status": "open",
+  "raised": "B-050",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-050",
+    "effect": "raised at 55",
+    "note": "The first named candidates for Ahn 64 and Ahn 65."
+   }
+  ]
+ },
+ {
+  "id": "H-086",
+  "statement": "Mária Nyemcsik, wife of the bell-ringer András Hankovcsák, is the Maria born on 23 January [1866] to János Nyemcsik and Erzsébet Hresko, the elder sister of Anna Nyemcsik (Ahn 17).",
+  "confidence": 55,
+  "basis": "For: her family lived at house 79 in 1905, the house of János Nyemcsik and Erzsébet Hresko and the house where Anna's son Mihály was born in 1903; her husband was born in 1868 (D-013-195) and their first known child in 1892 or 1896. Against: at least four men named János Nyemcsik had children at Senné, and no entry names her parents. If it holds, and if Mikuláš Duška's wife Mária Hankovcsák is her daughter, the two men who sailed together in 1929 were tied twice: as kinsmen, and because Mikuláš's wife was Michal's first cousin.",
+  "test": "The marriage of András Hankovcsák and Mária Nyemcsik (about 1890), naming her parents; her burial before 1924; the baptism of Mária Hankovcsák on or about 18 April 1892.",
+  "status": "open",
+  "raised": "B-050",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-050",
+    "effect": "raised at 55",
+    "note": "First ruling."
+   }
+  ]
+ },
+ {
+  "id": "H-087",
+  "statement": "The György Duska who died at Senné on 29 September 1922 aged 77, widower of Mária Feigerle, is György Duska the younger, husband of Erzsébet Schwarz from [1872] to 1890.",
+  "confidence": 70,
+  "basis": "For: he is the only other old György Duska in the burial book, and 'the younger' of two is the one who dies later and younger-born (D-013-140); a Mária Feigerle lost a husband of 30 at Szenna 8 in April 1895 (D-013-192), which frees her to marry a widower. Against: no burial of Erzsébet Schwarz and no second marriage are in hand; a György born in 1845 fathers Miklós at 45, which is unremarkable. Other, 30.",
+  "test": "A burial of Erzsébet Schwarz between 1890 and about 1900; the marriage of György Duska, widower, and Mária Feigerle, widow, after April 1895.",
+  "status": "open",
+  "raised": "B-050",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-050",
+    "effect": "raised at 70",
+    "note": "First ruling."
+   }
+  ]
+ },
+ {
+  "id": "H-088",
+  "statement": "The András Duska who died at Senné 13 on 11 March 1923 aged 1 year 3 months was the son of András Duska the younger (born 1896) and his wife Maria, and the entry names his grandparents in their place.",
+  "confidence": 75,
+  "basis": "For: Anna Nyemcsik was 49 when the child was born; her son András married on 15 November 1920 and a first child in December 1921 is on time; his sons of 1924 and 1926 are Ján and Andrej, the second taking the dead child's name; the house is 13 and theirs in 1930 is 12 (D-013-105, D-011-21). The same priest wrote a grandfather's name for a father's in 1908 (D-013-171). Against: the entry says what it says, and a fourteenth child at 49 is rare, not impossible: about 20.",
+  "test": "The baptism of the child, about December 1921, in the Senné book (births to 1923 are at Prešov, no. 1089 and after).",
+  "status": "open",
+  "raised": "B-050",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-050",
+    "effect": "raised at 75",
+    "note": "A reused name inside the direct line's own house; raised under the coordinator's rule on reused names."
+   }
+  ]
+ },
+ {
+  "id": "H-089",
+  "statement": "The Anna, daughter of János Nyemcsik, who died at Szenna on 19 September [1870] aged 6, was a daughter of János Nyemcsik and Erzsébet Hresko, and Anna of August 1872 (Ahn 17) was given her name.",
+  "confidence": 35,
+  "basis": "For: a daughter of a János Nyemcsik born about 1864, two years before the baptism book opens and before this couple's Maria of 1866; a new Anna 23 months after her death (D-013-120). Against: János Nyemcsik, cottar of house 109, buried a week-old Anna in December [1862] (D-013-118) and is as likely to have named the next girl Anna: about 45. The entry gives no house and no mother. Either way the identity of Ahn 17 does not move: her baptism names Erzsébet Hresko.",
+  "test": "The Senné baptism book for 1864 (not at Prešov, where births begin in 1866); the house number, if the full page of the burial shows one.",
+  "status": "open",
+  "raised": "B-050",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-050",
+    "effect": "raised at 35",
+    "note": "Raised under the coordinator's rule on reused names."
    }
   ]
  }
