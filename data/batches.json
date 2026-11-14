@@ -2480,6 +2480,22 @@
    "S-528",
    "S-529"
   ],
+  "committed_utc": "2026-11-14T04:39:27Z"
+ },
+ {
+  "id": "B-062",
+  "date": "2026-11-14",
+  "title": "A field note before the grandfather's file, with the expected result written first",
+  "folder": null,
+  "files": 0,
+  "blurb": "No files. The owner asked for one more field note before he sends his grandfather's raw data, which he says is autosomal only. The note is written. It says what will be done with the file, which is one comparison with the owner's own, and what is expected: about a quarter of the genome shared, nothing on the X chromosome. It also says what any other number would mean and how it would be handled. Curiosities: 0",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-29"
+  ],
   "committed_utc": null
  }
 ]

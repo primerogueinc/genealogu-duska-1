@@ -520,6 +520,14 @@
   "reliability": "The owner identifies two raw data files as his own and asks whether the two zips are the same. They are. He offers the same kind of file for his grandfather."
  },
  {
+  "id": "S-000-29",
+  "batch": "B-062",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 14 Nov 2026 (UTC): a field note before his grandfather's file; it is autosomal only",
+  "extract": "\"write additional field notes before u get Steve's - only autosomal I hate to say\"",
+  "reliability": "An instruction, and a fact about the file to come: his grandfather's test was an autosomal one, with no separate Y test."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
