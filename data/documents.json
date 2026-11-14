@@ -28248,5 +28248,337 @@
     "the other report of the pair"
    ]
   }
+ },
+ {
+  "id": "D-016-26",
+  "folder": "F-016",
+  "batch": "B-069",
+  "source": "S-539",
+  "file": "GEDmatch.pdf [X one-to-one]",
+  "sha256": "7be2794b421f769899e0c1e2d20dbe4017818890139dacb4e25661bb647964b0",
+  "wide": false,
+  "held": "The PDF shows two full kit numbers. Its text is transcribed with the numbers shortened; the file is not in this repository.",
+  "title": "GEDmatch X-chromosome one-to-one, the grandfather's kit against the owner's: nothing shared",
+  "span": "run 14 November 2026",
+  "language": "English",
+  "collector_label": "steve and I 1-to-1 autosomal",
+  "family": "FG-62",
+  "route": "duska",
+  "part": "part 8",
+  "provenance": {
+   "archive": "GEDmatch, free tools",
+   "fond_or_film": "X one-to-one",
+   "book": "not applicable",
+   "page_or_image": "a file of 105,112 bytes",
+   "obtained": "Sent through chat by the owner on 14 Nov 2026 (UTC), within minutes of his running it."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "14 November 2026",
+    "from": "DNA analysis report (a database's computation on one test)",
+    "abstract": "The owner calls it autosomal; the page is headed 'X-DNA One-to-one Comparison' and covers chromosome 23 only. Kit KJ4… (Stefan Duska) against kit RW4… (the owner): no shared segment, 5,862 markers used. That is the right answer for a father's father and his grandson. A man has one X and it comes from his mother, so the owner's came from his mother and none of it from Štefan. It agrees with this agent's own comparison of the raw files at B-063 (nothing shared on X) and with the autosomal one-to-one (D-016-23, 1,567.6 cM). It adds nothing to H-097, which was already solved.",
+    "reading": "high: printed text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The text of the report",
+    "original": "GEDmatch X-DNA One-to-one Comparison\nSoftware Version Jun 11 2026\nComparing Kit KJ4… (Stefan Duska) and Kit RW4… (Kevin John Stefan Duska Jr)\nChr 23\nNo shared DNA segments found\n5862 SNPs used for this comparison.\nComparison took 0.028.",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Steve and Kevin",
+   "tool": "X one-to-one",
+   "x_segments": 0,
+   "x_markers_used": 5862
+  },
+  "object": {
+   "kind": "A browser print of a GEDmatch report",
+   "form": "A heading, the legend, one bar for chromosome 23, the result and the time taken.",
+   "does_not_fit": "The owner's label says autosomal; the report is of the X chromosome. Made at 23:54 on the night it was sent (S-000-27).",
+   "made_by": "GEDmatch, on the owner's request.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "D-016-23",
+    "D-016-17"
+   ]
+  }
+ },
+ {
+  "id": "D-016-27",
+  "folder": "F-016",
+  "batch": "B-069",
+  "source": "S-540",
+  "file": "attachment.txt [Steve, X one-to-many]",
+  "sha256": "08eaab5930c0d6a0e59b7a66ba1752146e1194d8ed391817d619a86079e41b46",
+  "wide": false,
+  "held": "A list of living people with their names, kit numbers and part of their e-mail addresses. It is not in this repository and none of them is named in it. Only counts are given.",
+  "title": "GEDmatch one-to-many on the X chromosome for the kit named Stefan Duska: 466 kits, the largest 23 cM",
+  "span": "run 14 November 2026",
+  "language": "English",
+  "collector_label": "steve autosomal one-to-many x",
+  "family": "FG-62",
+  "route": "duska",
+  "part": "part 8",
+  "provenance": {
+   "archive": "GEDmatch, free tools",
+   "fond_or_film": "One-to-Many, X filter, 7 cM floor, limit 3,000",
+   "book": "not applicable",
+   "page_or_image": "a file of 48,891 bytes",
+   "obtained": "Sent through chat by the owner on 14 Nov 2026 (UTC), within minutes of his running it."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "14 November 2026",
+    "from": "DNA analysis report (a database's computation on one test)",
+    "abstract": "Every kit in the database sharing 7 cM or more of X chromosome with the grandfather's kit: 466. The largest share is 23.0 cM; five reach 20 cM and twelve reach 15. Fourteen of the 466 also share 7 cM or more elsewhere in the genome (the most, 14.9 cM), and six are among his 3,000 strongest autosomal matches. None of the owner's kits is on the list, as it should be. No surname of the tree is on it. Whose relatives are these? All of them are his mother's. A man's X comes from his mother alone, so every one of the 466 is related, if at all, through Maria Demko (Ahn 9), and on average half of them through her father's mother, Mária Hreskó. The Duska line contributes nothing to this list. Shares this small on the X can be many generations old, and none points to a near relative.",
+    "reading": "counts made by program; names not read into the record"
+   }
+  ],
+  "transcriptions": [],
+  "dna": {
+   "subject": "Steve",
+   "ahnentafel": 4,
+   "kit_prefix": "KJ4",
+   "tool": "one-to-many, X",
+   "matches_listed": 466,
+   "largest_x_cm": 23.0,
+   "x_15cm_or_more": 12,
+   "also_autosomal_7cm": 14,
+   "in_own_autosomal_list": 6,
+   "in_any_of_the_owners_x_lists": 0,
+   "tree_surnames": 0,
+   "read": "counts only"
+  },
+  "object": {
+   "kind": "The text of a GEDmatch One-to-Many result page, filtered on the X chromosome",
+   "form": "The site's menu, the search settings, a line naming the kit, then 466 tab-separated rows sorted by X cM.",
+   "does_not_fit": "Made on the night it was sent, not found on the drive (S-000-27); the owner's doing.",
+   "made_by": "GEDmatch, on the owner's request.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other four X lists",
+    "the five autosomal lists (D-016-18 to -22)"
+   ]
+  }
+ },
+ {
+  "id": "D-016-28",
+  "folder": "F-016",
+  "batch": "B-069",
+  "source": "S-541",
+  "file": "attachment.txt [Kevin, kit 1, X]",
+  "sha256": "d8faf23aae758c2bbd9bbab09aacf762cb0df8c956e1c6743f22e0b7beb4d088",
+  "wide": false,
+  "held": "A list of living people with their names, kit numbers and part of their e-mail addresses. It is not in this repository and none of them is named in it. Only counts are given. It concerns the owner's mother's side and was not read.",
+  "title": "GEDmatch one-to-many on the X chromosome for the owner's kit RW4…: 70 rows",
+  "span": "run 14 November 2026",
+  "language": "English",
+  "collector_label": "same for me kit 1",
+  "family": null,
+  "route": "duska",
+  "part": "part 8",
+  "provenance": {
+   "archive": "GEDmatch, free tools",
+   "fond_or_film": "One-to-Many, X filter, 7 cM floor, limit 3,000",
+   "book": "not applicable",
+   "page_or_image": "a file of 8,002 bytes",
+   "obtained": "Sent through chat by the owner on 14 Nov 2026 (UTC), within minutes of his running it."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "14 November 2026",
+    "from": "DNA analysis report (a database's computation on one test)",
+    "abstract": "The X list for one of the owner's four kits: 70 rows, three of them his own other kits. His X chromosome is his mother's, so this is a list of her side, which is outside this rebuild. Two things were taken from it by a program and nothing else: the number of rows, and how many of its kits are also on the grandfather's X list. That second number is 0, here and in the other three (489 different kits across the four). Grandfather and grandson share a fifth of their DNA and not one X match. The four lists for one man run from 56 to 483 rows, which says how much a match list owes to the chip the sample was read on.",
+    "reading": "counts made by program; names not read into the record"
+   }
+  ],
+  "transcriptions": [],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "RW4",
+   "tool": "one-to-many, X",
+   "matches_listed": 70,
+   "kits_also_in_grandfathers_x_list": 0,
+   "read": "two counts, by program"
+  },
+  "object": {
+   "kind": "The text of a GEDmatch One-to-Many result page, filtered on the X chromosome",
+   "form": "The site's menu, the search settings, a line naming the kit, then 70 tab-separated rows sorted by X cM.",
+   "does_not_fit": "Made on the night it was sent, not found on the drive (S-000-27); the owner's doing.",
+   "made_by": "GEDmatch, on the owner's request.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other four X lists",
+    "the five autosomal lists (D-016-18 to -22)"
+   ]
+  }
+ },
+ {
+  "id": "D-016-29",
+  "folder": "F-016",
+  "batch": "B-069",
+  "source": "S-542",
+  "file": "attachment.txt [Kevin, kit 2, X]",
+  "sha256": "7978756b9644275a9f35ef3a512a433eb5d78edd7eb5bd9095e2f01ebb9711bb",
+  "wide": false,
+  "held": "A list of living people with their names, kit numbers and part of their e-mail addresses. It is not in this repository and none of them is named in it. Only counts are given. It concerns the owner's mother's side and was not read.",
+  "title": "GEDmatch one-to-many on the X chromosome for the owner's kit ST1…: 404 rows",
+  "span": "run 14 November 2026",
+  "language": "English",
+  "collector_label": "same for me kit 2",
+  "family": null,
+  "route": "duska",
+  "part": "part 8",
+  "provenance": {
+   "archive": "GEDmatch, free tools",
+   "fond_or_film": "One-to-Many, X filter, 7 cM floor, limit 3,000",
+   "book": "not applicable",
+   "page_or_image": "a file of 42,903 bytes",
+   "obtained": "Sent through chat by the owner on 14 Nov 2026 (UTC), within minutes of his running it."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "14 November 2026",
+    "from": "DNA analysis report (a database's computation on one test)",
+    "abstract": "The X list for one of the owner's four kits: 404 rows, three of them his own other kits. His X chromosome is his mother's, so this is a list of her side, which is outside this rebuild. Two things were taken from it by a program and nothing else: the number of rows, and how many of its kits are also on the grandfather's X list. That second number is 0, here and in the other three (489 different kits across the four). Grandfather and grandson share a fifth of their DNA and not one X match. The four lists for one man run from 56 to 483 rows, which says how much a match list owes to the chip the sample was read on.",
+    "reading": "counts made by program; names not read into the record"
+   }
+  ],
+  "transcriptions": [],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "ST1",
+   "tool": "one-to-many, X",
+   "matches_listed": 404,
+   "kits_also_in_grandfathers_x_list": 0,
+   "read": "two counts, by program"
+  },
+  "object": {
+   "kind": "The text of a GEDmatch One-to-Many result page, filtered on the X chromosome",
+   "form": "The site's menu, the search settings, a line naming the kit, then 404 tab-separated rows sorted by X cM.",
+   "does_not_fit": "Made on the night it was sent, not found on the drive (S-000-27); the owner's doing.",
+   "made_by": "GEDmatch, on the owner's request.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other four X lists",
+    "the five autosomal lists (D-016-18 to -22)"
+   ]
+  }
+ },
+ {
+  "id": "D-016-30",
+  "folder": "F-016",
+  "batch": "B-069",
+  "source": "S-543",
+  "file": "attachment.txt [Kevin, kit 3, X]",
+  "sha256": "df861cd9b676412576e76a7fa4ff07b25e938bb32452fdd65c48ed1e11db4aea",
+  "wide": false,
+  "held": "A list of living people with their names, kit numbers and part of their e-mail addresses. It is not in this repository and none of them is named in it. Only counts are given. It concerns the owner's mother's side and was not read.",
+  "title": "GEDmatch one-to-many on the X chromosome for the owner's kit VW2…: 483 rows",
+  "span": "run 14 November 2026",
+  "language": "English",
+  "collector_label": "same for me kit 3",
+  "family": null,
+  "route": "duska",
+  "part": "part 8",
+  "provenance": {
+   "archive": "GEDmatch, free tools",
+   "fond_or_film": "One-to-Many, X filter, 7 cM floor, limit 3,000",
+   "book": "not applicable",
+   "page_or_image": "a file of 51,030 bytes",
+   "obtained": "Sent through chat by the owner on 14 Nov 2026 (UTC), within minutes of his running it."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "14 November 2026",
+    "from": "DNA analysis report (a database's computation on one test)",
+    "abstract": "The X list for one of the owner's four kits: 483 rows, three of them his own other kits. His X chromosome is his mother's, so this is a list of her side, which is outside this rebuild. Two things were taken from it by a program and nothing else: the number of rows, and how many of its kits are also on the grandfather's X list. That second number is 0, here and in the other three (489 different kits across the four). Grandfather and grandson share a fifth of their DNA and not one X match. The four lists for one man run from 56 to 483 rows, which says how much a match list owes to the chip the sample was read on.",
+    "reading": "counts made by program; names not read into the record"
+   }
+  ],
+  "transcriptions": [],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "VW2",
+   "tool": "one-to-many, X",
+   "matches_listed": 483,
+   "kits_also_in_grandfathers_x_list": 0,
+   "read": "two counts, by program"
+  },
+  "object": {
+   "kind": "The text of a GEDmatch One-to-Many result page, filtered on the X chromosome",
+   "form": "The site's menu, the search settings, a line naming the kit, then 483 tab-separated rows sorted by X cM.",
+   "does_not_fit": "Made on the night it was sent, not found on the drive (S-000-27); the owner's doing.",
+   "made_by": "GEDmatch, on the owner's request.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other four X lists",
+    "the five autosomal lists (D-016-18 to -22)"
+   ]
+  }
+ },
+ {
+  "id": "D-016-31",
+  "folder": "F-016",
+  "batch": "B-069",
+  "source": "S-544",
+  "file": "attachment.txt [Kevin, kit 4, X]",
+  "sha256": "a38f7283d8f3a73e4797bc4f028af31b19bd5652bf31e3b98be06d54c1a5c276",
+  "wide": false,
+  "held": "A list of living people with their names, kit numbers and part of their e-mail addresses. It is not in this repository and none of them is named in it. Only counts are given. It concerns the owner's mother's side and was not read.",
+  "title": "GEDmatch one-to-many on the X chromosome for the owner's kit ZZ4…: 56 rows",
+  "span": "run 14 November 2026",
+  "language": "English",
+  "collector_label": "same for me kit 4",
+  "family": null,
+  "route": "duska",
+  "part": "part 8",
+  "provenance": {
+   "archive": "GEDmatch, free tools",
+   "fond_or_film": "One-to-Many, X filter, 7 cM floor, limit 3,000",
+   "book": "not applicable",
+   "page_or_image": "a file of 6,536 bytes",
+   "obtained": "Sent through chat by the owner on 14 Nov 2026 (UTC), within minutes of his running it."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "14 November 2026",
+    "from": "DNA analysis report (a database's computation on one test)",
+    "abstract": "The X list for one of the owner's four kits: 56 rows, three of them his own other kits. His X chromosome is his mother's, so this is a list of her side, which is outside this rebuild. Two things were taken from it by a program and nothing else: the number of rows, and how many of its kits are also on the grandfather's X list. That second number is 0, here and in the other three (489 different kits across the four). Grandfather and grandson share a fifth of their DNA and not one X match. The four lists for one man run from 56 to 483 rows, which says how much a match list owes to the chip the sample was read on.",
+    "reading": "counts made by program; names not read into the record"
+   }
+  ],
+  "transcriptions": [],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "ZZ4",
+   "tool": "one-to-many, X",
+   "matches_listed": 56,
+   "kits_also_in_grandfathers_x_list": 0,
+   "read": "two counts, by program"
+  },
+  "object": {
+   "kind": "The text of a GEDmatch One-to-Many result page, filtered on the X chromosome",
+   "form": "The site's menu, the search settings, a line naming the kit, then 56 tab-separated rows sorted by X cM.",
+   "does_not_fit": "Made on the night it was sent, not found on the drive (S-000-27); the owner's doing.",
+   "made_by": "GEDmatch, on the owner's request.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other four X lists",
+    "the five autosomal lists (D-016-18 to -22)"
+   ]
+  }
  }
 ]

@@ -1,7 +1,7 @@
 {
   "folder": "F-016",
   "desktop_path": "DNA (the owner's repository duska-genealogy-DNA)",
-  "note": "The owner's DNA material, sent at random through chat from 14 Nov 2026 (UTC). No image of this folder is in this public repository where it shows a kit number, a match or a tester; figures are transcribed. The files are staged for the owner's own DNA repository, which he has named as their home and as the place to share them with the other agents.",
+  "note": "The owner's DNA material, sent at random through chat from 14 Nov 2026 (UTC). No image of this folder is in this public repository where it shows a kit number, a match or a tester; figures are transcribed. The files are staged for the owner's own DNA repository, which he has named as their home and as the place to share them with the other agents. Closed by the owner on 14 Nov 2026 ('that's it for dna'): 33 files, 31 documents.",
   "files": [
     {
       "file": "GEDmatch_one-to-one_Stefan_Duska_and_Kevin_Duska_Jr__kit_numbers_shortened.txt",
@@ -307,6 +307,72 @@
       "file_in_repo": false,
       "document": "D-016-25",
       "held": "shows a full kit number"
+    },
+    {
+      "file": "GEDmatch.pdf [X one-to-one]",
+      "sha256": "7be2794b421f769899e0c1e2d20dbe4017818890139dacb4e25661bb647964b0",
+      "bytes": 105112,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 8,
+      "file_in_repo": false,
+      "document": "D-016-26",
+      "held": "shows full kit numbers"
+    },
+    {
+      "file": "attachment.txt [Steve, X one-to-many]",
+      "sha256": "08eaab5930c0d6a0e59b7a66ba1752146e1194d8ed391817d619a86079e41b46",
+      "bytes": 48891,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 8,
+      "file_in_repo": false,
+      "document": "D-016-27",
+      "held": "names living people"
+    },
+    {
+      "file": "attachment.txt [Kevin, kit 1, X]",
+      "sha256": "d8faf23aae758c2bbd9bbab09aacf762cb0df8c956e1c6743f22e0b7beb4d088",
+      "bytes": 8002,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 8,
+      "file_in_repo": false,
+      "document": "D-016-28",
+      "held": "names living people"
+    },
+    {
+      "file": "attachment.txt [Kevin, kit 2, X]",
+      "sha256": "7978756b9644275a9f35ef3a512a433eb5d78edd7eb5bd9095e2f01ebb9711bb",
+      "bytes": 42903,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 8,
+      "file_in_repo": false,
+      "document": "D-016-29",
+      "held": "names living people"
+    },
+    {
+      "file": "attachment.txt [Kevin, kit 3, X]",
+      "sha256": "df861cd9b676412576e76a7fa4ff07b25e938bb32452fdd65c48ed1e11db4aea",
+      "bytes": 51030,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 8,
+      "file_in_repo": false,
+      "document": "D-016-30",
+      "held": "names living people"
+    },
+    {
+      "file": "attachment.txt [Kevin, kit 4, X]",
+      "sha256": "a38f7283d8f3a73e4797bc4f028af31b19bd5652bf31e3b98be06d54c1a5c276",
+      "bytes": 6536,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 8,
+      "file_in_repo": false,
+      "document": "D-016-31",
+      "held": "names living people"
     }
   ],
   "copies": [

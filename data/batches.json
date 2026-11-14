@@ -2608,6 +2608,28 @@
    "S-537",
    "S-538"
   ],
+  "committed_utc": "2026-11-14T04:58:51Z"
+ },
+ {
+  "id": "B-069",
+  "date": "2026-11-14",
+  "title": "The DNA folder, part 8 and last: the X chromosome, which belongs to the mothers",
+  "folder": "F-016",
+  "files": 6,
+  "blurb": "Six files and then the owner's word that the DNA is done. One is a comparison of grandfather and grandson on the X chromosome. It finds nothing shared, and that is correct: a man's X comes from his mother, so none of Kevin's came from Štefan. The other five are lists of everybody in the database who shares a piece of X with each kit. Štefan's has 466 names, the largest share 23 cM, no surname from the tree, and nobody close. Every one of them is on his mother's side, Maria Demko's, so the list is the Demko agent's evidence and they are told. Kevin's four lists are his own mother's side, which nobody here is rebuilding; from those only two counts were taken. The count that matters is the overlap between the grandfather's X list and the grandson's: zero kits out of 955, exactly what a father's father should show. Nothing in the tree changes. Folder F-016 is closed at 33 files and 31 documents, with a note on what it did and did not do. Curiosities: 2",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-37",
+   "S-539",
+   "S-540",
+   "S-541",
+   "S-542",
+   "S-543",
+   "S-544"
+  ],
   "committed_utc": null
  }
 ]

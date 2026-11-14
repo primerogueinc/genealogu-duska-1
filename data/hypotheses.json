@@ -2728,6 +2728,11 @@
     "batch": "B-067",
     "effect": "no change",
     "note": "The site's one-to-one: 1,567.6 cM in 23 segments, largest 174.1 cM, 1.6 generations (D-016-23). In the proper unit the two share 21.8 per cent of the DNA. So the range I wrote down beforehand, a fifth to a third, held after all; the 19.8 of B-063 was my megabase measure running low, and one of my eighteen stretches, on chromosome 11, was false. Corrected on D-016-17. The conclusion does not change."
+   },
+   {
+    "batch": "B-069",
+    "effect": "no change",
+    "note": "GEDmatch's X one-to-one (D-016-26) finds nothing shared between grandfather and grandson, as this agent's raw comparison did at B-063. Expected for a father's father; it rules nothing further in or out."
    }
   ],
   "question": "Is the paper tree true at its foot?"
@@ -2747,6 +2752,11 @@
     "batch": "B-068",
     "effect": "raised at 75",
     "note": "Raised on the one result in the DNA folder that touches the tree above Ahn 4. A question across both lines: the Demko agent and the coordinator are told."
+   },
+   {
+    "batch": "B-069",
+    "effect": "no change",
+    "note": "The grandfather's X list (D-016-27) is all his mother's side and on average half Mária Hreskó's. It carries no tree surname and no near match, so it does not bear on whether the two Hresko families were kin."
    }
   ],
   "question": "Do the Duska and Demko trees share an ancestor?"

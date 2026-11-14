@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 14 Nov 2026, after Duska batch B-068.
+- Last updated: 14 Nov 2026, after Duska batch B-069.
+
+## 000000000000000000000000000000000000000000. New at B-069
+
+- `D-016-26` to `D-016-31`: six `held` documents in `F-016`, `dna.tool` is `X one-to-one` or `one-to-many, X`. `folders.json`: `F-016` is now `complete` (33 files). `sources.json`: `S-000-37`, `S-539` to `S-544`. New file `field-notes/F-016-the-dna-folder.md`.
 
 ## 00000000000000000000000000000000000000000. New at B-068
 

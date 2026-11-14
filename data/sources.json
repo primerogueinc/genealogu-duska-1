@@ -584,6 +584,14 @@
   "reliability": "The owner identifies the two reports."
  },
  {
+  "id": "S-000-37",
+  "batch": "B-069",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 14 Nov 2026 (UTC): the X-chromosome files, and the DNA folder closed",
+  "extract": "\"steve and I 1-to-1 autosomal\"; \"steve autosomal one-to-many x:\"; \"same for me kit 1\"; \"same for me kit 2:\"; \"same for me kit 3:\"; \"same for me kit 4\"; \"that's it for dna\".",
+  "reliability": "The owner identifies six files and closes folder F-016. The first label says autosomal; the file is the X comparison."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -4590,5 +4598,53 @@
   "title": "GEDmatch 'Are your parents related?': the owner's kit ST1…: no shared segments",
   "extract": "The same tool run on the owner's kit ST1… at 04:53 UTC: largest segment 0 cM, total 0 cM, no shared segments. It concerns his own parents, one of whom belongs to a line outside this rebuild, so the bare result is recorded and nothing is built on it.",
   "reliability": "A standard check for cousin marriage in the parents of the person tested. A clean result rules out near cousins; it cannot rule out distant ones. Reading level: high."
+ },
+ {
+  "id": "S-539",
+  "batch": "B-069",
+  "type": "DNA analysis report (a database's computation on one test)",
+  "title": "GEDmatch X-chromosome one-to-one, the grandfather's kit against the owner's: nothing shared",
+  "extract": "The owner calls it autosomal; the page is headed 'X-DNA One-to-one Comparison' and covers chromosome 23 only. Kit KJ4… (Stefan Duska) against kit RW4… (the owner): no shared segment, 5,862 markers used. That is the right answer for a father's father and his grandson. A man has one X and it comes from his mother, so the owner's came from his mother and none of it from Štefan. It agrees with this agent's own comparison of the raw files at B-063 (nothing shared on X) and with the autosomal one-to-one (D-016-23, 1,567.6 cM). It adds nothing to H-097, which was already solved.",
+  "reliability": "X-chromosome matching. Small X shares are weak evidence of anything recent. Reading level: high for the figures."
+ },
+ {
+  "id": "S-540",
+  "batch": "B-069",
+  "type": "DNA analysis report (a database's computation on one test)",
+  "title": "GEDmatch one-to-many on the X chromosome for the kit named Stefan Duska: 466 kits, the largest 23 cM",
+  "extract": "Every kit in the database sharing 7 cM or more of X chromosome with the grandfather's kit: 466. The largest share is 23.0 cM; five reach 20 cM and twelve reach 15. Fourteen of the 466 also share 7 cM or more elsewhere in the genome (the most, 14.9 cM), and six are among his 3,000 strongest autosomal matches. None of the owner's kits is on the list, as it should be. No surname of the tree is on it. Whose relatives are these? All of them are his mother's. A man's X comes from his mother alone, so every one of the 466 is related, if at all, through Maria Demko (Ahn 9), and on average half of them through her father's mother, Mária Hreskó. The Duska line contributes nothing to this list. Shares this small on the X can be many generations old, and none points to a near relative.",
+  "reliability": "X-chromosome matching. Small X shares are weak evidence of anything recent. Reading level: high for the figures."
+ },
+ {
+  "id": "S-541",
+  "batch": "B-069",
+  "type": "DNA analysis report (a database's computation on one test)",
+  "title": "GEDmatch one-to-many on the X chromosome for the owner's kit RW4…: 70 rows",
+  "extract": "The X list for one of the owner's four kits: 70 rows, three of them his own other kits. His X chromosome is his mother's, so this is a list of her side, which is outside this rebuild. Two things were taken from it by a program and nothing else: the number of rows, and how many of its kits are also on the grandfather's X list. That second number is 0, here and in the other three (489 different kits across the four). Grandfather and grandson share a fifth of their DNA and not one X match. The four lists for one man run from 56 to 483 rows, which says how much a match list owes to the chip the sample was read on.",
+  "reliability": "X-chromosome matching. Small X shares are weak evidence of anything recent. Reading level: high for the figures."
+ },
+ {
+  "id": "S-542",
+  "batch": "B-069",
+  "type": "DNA analysis report (a database's computation on one test)",
+  "title": "GEDmatch one-to-many on the X chromosome for the owner's kit ST1…: 404 rows",
+  "extract": "The X list for one of the owner's four kits: 404 rows, three of them his own other kits. His X chromosome is his mother's, so this is a list of her side, which is outside this rebuild. Two things were taken from it by a program and nothing else: the number of rows, and how many of its kits are also on the grandfather's X list. That second number is 0, here and in the other three (489 different kits across the four). Grandfather and grandson share a fifth of their DNA and not one X match. The four lists for one man run from 56 to 483 rows, which says how much a match list owes to the chip the sample was read on.",
+  "reliability": "X-chromosome matching. Small X shares are weak evidence of anything recent. Reading level: high for the figures."
+ },
+ {
+  "id": "S-543",
+  "batch": "B-069",
+  "type": "DNA analysis report (a database's computation on one test)",
+  "title": "GEDmatch one-to-many on the X chromosome for the owner's kit VW2…: 483 rows",
+  "extract": "The X list for one of the owner's four kits: 483 rows, three of them his own other kits. His X chromosome is his mother's, so this is a list of her side, which is outside this rebuild. Two things were taken from it by a program and nothing else: the number of rows, and how many of its kits are also on the grandfather's X list. That second number is 0, here and in the other three (489 different kits across the four). Grandfather and grandson share a fifth of their DNA and not one X match. The four lists for one man run from 56 to 483 rows, which says how much a match list owes to the chip the sample was read on.",
+  "reliability": "X-chromosome matching. Small X shares are weak evidence of anything recent. Reading level: high for the figures."
+ },
+ {
+  "id": "S-544",
+  "batch": "B-069",
+  "type": "DNA analysis report (a database's computation on one test)",
+  "title": "GEDmatch one-to-many on the X chromosome for the owner's kit ZZ4…: 56 rows",
+  "extract": "The X list for one of the owner's four kits: 56 rows, three of them his own other kits. His X chromosome is his mother's, so this is a list of her side, which is outside this rebuild. Two things were taken from it by a program and nothing else: the number of rows, and how many of its kits are also on the grandfather's X list. That second number is 0, here and in the other three (489 different kits across the four). Grandfather and grandson share a fifth of their DNA and not one X match. The four lists for one man run from 56 to 483 rows, which says how much a match list owes to the chip the sample was read on.",
+  "reliability": "X-chromosome matching. Small X shares are weak evidence of anything recent. Reading level: high for the figures."
  }
 ]

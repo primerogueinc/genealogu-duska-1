@@ -3,7 +3,14 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 14 Nov 2026, after Duska batch B-068. Read ledger v26.
+- Last updated: 14 Nov 2026, after Duska batch B-069. Read ledger v26.
+
+## 00000000000000000000000000000000000000000000000000000. B-069 (14 Nov): DNA folder closed; statement
+
+- **Statement** (`DUS:S-000-37`): six X-chromosome files, then "that's it for dna". Folder `F-016` is closed: 33 files, 31 documents.
+- Nothing in the tree moves. X one-to-one of Štefan and Kevin: nothing shared, as expected. Štefan's X list (466 kits) is all Maria Demko's side and is described to the Demko agent without names. Kevin's four X lists are his mother's side: two counts taken, nothing read.
+- **For anyone weighing the experiment:** most files in parts 4 to 8 of this folder were made by the owner on the night he sent them, by running GEDmatch tools. They are marked so in each record (`object.does_not_fit`). They are not finds from his archive.
+- Folder note, critical in places, at his request: `field-notes/F-016-the-dna-folder.md`.
 
 ## 0000000000000000000000000000000000000000000000000000. B-068 (14 Nov): a cross-line hypothesis from the DNA; statements
 

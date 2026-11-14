@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-14 after batch B-068 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-14 after batch B-069 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -47,6 +47,8 @@ Updated 2026-11-14 after batch B-068 (read ledger v26). Requests R-001 to R-011 
 - B-066 (no files): a reference table for 30 cM matches, logged; `L-032`.
 - F-016 part 6: the site's one-to-one for grandfather and grandson: 1,567.6 cM in 23 segments (`D-016-23`, text in the repo).
 - F-016 part 7: Štefan's parents were not near cousins (`D-016-24`); `H-098` raised on the two Hresko women, across both lines.
+- F-016 closed by the owner: 33 files, 31 documents. The X files change nothing in the tree.
+- Folder note written: `field-notes/F-016-the-dna-folder.md`.
 
 ## Concluded
 
