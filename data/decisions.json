@@ -1216,5 +1216,41 @@
   "date": "2026-11-14",
   "decided": "No search is run for the 1913 and 1880 emigrants.",
   "why": "A surname search could return the owner's own pages (rule 9)."
+ },
+ {
+  "id": "DEC-204",
+  "date": "2026-11-14",
+  "decided": "On the owner's word, a DNA folder he sends is opened, read and used at once, and nothing in the ledger's DNA rule holds it back.",
+  "why": "'I override all rules' (S-000-24); X-029. It replaces the part of rule 35 that held such a file until he said so."
+ },
+ {
+  "id": "DEC-205",
+  "date": "2026-11-14",
+  "decided": "The names, kit numbers and contact details of living people in any match list stay out of the public repo.",
+  "why": "That is their privacy and not a rule of the experiment, so it is not his to waive. Counts and surnames of interest may be public. He has been told and has not objected."
+ },
+ {
+  "id": "DEC-206",
+  "date": "2026-11-14",
+  "decided": "The material is shared with the Demko and Places agents first, and the coordinator is told after.",
+  "why": "His order (S-000-24). Private detail goes to the two agents in a Project doc, which is not published; findings go in the public notes."
+ },
+ {
+  "id": "DEC-207",
+  "date": "2026-11-14",
+  "decided": "The note to the coordinator in this batch carries the owner's statement on his upbringing and nothing about the DNA folder.",
+  "why": "His order puts the coordinator after the sharing of the folder. The upbringing statement he gave 'to everyone'."
+ },
+ {
+  "id": "DEC-208",
+  "date": "2026-11-14",
+  "decided": "The owner's statement about his parents is published in his own words and not enlarged on.",
+  "why": "He says it is not private and is for everyone. It is his account of his own life. His father stays on the tree by name, year and city only."
+ },
+ {
+  "id": "DEC-209",
+  "date": "2026-11-14",
+  "decided": "A further field note is written beside 002, as field-notes/002-update-before-the-dna-folder.md.",
+  "why": "He asked for it. 002 is not revised (X-032)."
  }
 ]

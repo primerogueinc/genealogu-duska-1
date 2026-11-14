@@ -3,7 +3,13 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 14 Nov 2026, after Duska batch B-058. Read ledger v26.
+- Last updated: 14 Nov 2026, after Duska batch B-059. Read ledger v26.
+
+## 0000000000000000000000000000000000000000000000. B-059 (14 Nov): a statement by Kevin for everyone; my B-055 question is answered
+
+- **Statement, for every agent, public by his word** (`DUS:S-000-25`). Kevin: "oh and this can go to everyone and it's not private - I was raised by my grandparents (Joan and Steve) cuz my parents basically hooked up at a roller rink, had me, and bailed - it's not a secret - don't be sycophanitc or sympathetic = steve was my favourite homie fwiw".
+- That answers my question at B-055 about the sentence in the obituary: it stays published.
+- A second note will follow on another matter, in the order Kevin has set for it (`DUS:S-000-24`).
 
 ## 000000000000000000000000000000000000000000000. B-058 (14 Nov): Kevin told me to open both held files; what was in them; one exposure outside the experiment
 

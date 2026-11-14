@@ -1303,5 +1303,27 @@
   "translation": "As written.",
   "why": "The best definition of the family's station in the whole archive, in one unpunctuated line.",
   "tone": "history"
+ },
+ {
+  "id": "C-135",
+  "doc": null,
+  "source": "S-000-24",
+  "title": "The price of admission was a field note",
+  "text": "The owner had a folder of his grandfather's DNA results that no agent had seen. Before sending it he set a condition: 'write updated field notes about how you feel now and then u get it.' So the agent wrote down how it felt, and what it expected to find, before it was allowed to look.",
+  "original": "write updated field notes about how you feel now and then u get it",
+  "translation": "As written.",
+  "why": "An experimenter who makes his instrument record its state before each new reading. It is, by accident or not, good method.",
+  "tone": "funny"
+ },
+ {
+  "id": "C-136",
+  "doc": null,
+  "source": "S-000-25",
+  "title": "A roller rink",
+  "text": "Every other generation in this archive begins with banns read three times and a priest's signature. The owner's own account of his begins: 'my parents basically hooked up at a roller rink, had me, and bailed'. His grandparents raised him. He says it is not a secret and wants no sympathy for it.",
+  "original": "my parents basically hooked up at a roller rink, had me, and bailed",
+  "translation": "As written.",
+  "why": "The only origin story in the tree told by its subject, and the shortest.",
+  "tone": "funny"
  }
 ]

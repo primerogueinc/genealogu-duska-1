@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-14 after batch B-058 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-14 after batch B-059 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -37,6 +37,7 @@ Updated 2026-11-14 after batch B-058 (read ledger v26). Requests R-001 to R-011 
 - F-015 part 2 (11 files): the year 1852 of the Solymos Reformed baptism book with its heading (`D-015-05`); a Québec death index for Mary Demko, Michael and Mikalis Duska (`D-015-08`, `-09`). Held unopened: a researcher's notes.
 - F-015 part 3 and close (COMPLETE, 27 files): Anna Krak (Ahn 33) was from Tiba, by a re-reading of the 1892 marriage prompted by a translation made for the owner (`H-094`); Michael Duska the younger d. 14 June 2019, `H-071` solved; civil birth certificate of Štefan (23 Oct 1929; `H-095`).
 - B-058 (no new files): the two held Word files opened on the owner's word (`D-014-10`, his to-do list of 2022; `D-015-17`, his researcher's closing note). All priors. `H-096` raised.
+- B-059 (no files): the owner's override for a DNA folder to come (rule 36 in PROTOCOL.md); a field note written at his request.
 
 ## Concluded
 

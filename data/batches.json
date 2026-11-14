@@ -2414,6 +2414,23 @@
    "S-512",
    "S-513"
   ],
+  "committed_utc": "2026-11-14T04:21:35Z"
+ },
+ {
+  "id": "B-059",
+  "date": "2026-11-14",
+  "title": "Before the DNA folder: the owner's override, his order of sharing, and a field note he asked for first",
+  "folder": null,
+  "files": 0,
+  "blurb": "No files. The owner says he has a folder of DNA material from his grandfather Steve that was never in any pile, and that there is a lot of it. He has set three terms. He overrides all rules for it. This agent is to share it with the Demko and Places agents, and the coordinator is told after that. And before he sends it, an updated field note on how things stand, which is written: it takes back half of what the last note said about who should have had the Y result first, and records what the agent expects to find, so that the guess can be checked. One limit is kept whatever is overridden: living people named in a match list do not go into the public repository. He also put on record, for every agent, that his grandparents Joan and Steve raised him; it is logged in his words, and it makes him a firsthand witness of their household. Curiosities: 2",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-24",
+   "S-000-25"
+  ],
   "committed_utc": null
  }
 ]

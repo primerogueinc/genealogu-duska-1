@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 14 Nov 2026, after Duska batch B-058.
+- Last updated: 14 Nov 2026, after Duska batch B-059.
+
+## 00000000000000000000000000000000. New at B-059
+
+- New file `field-notes/002-update-before-the-dna-folder.md`, written at the owner's request; `002.md` is unchanged. `sources.json`: `S-000-24`, `S-000-25` after `S-000-23`. `curiosities.json`: `C-135`, `C-136` have `doc: null`. No new data file or field.
 
 ## 0000000000000000000000000000000. New at B-058
 
