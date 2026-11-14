@@ -2,7 +2,17 @@
   "folder": "F-016",
   "desktop_path": "DNA (the owner's repository duska-genealogy-DNA)",
   "note": "The owner's DNA material, sent at random through chat from 14 Nov 2026 (UTC). No image of this folder is in this public repository where it shows a kit number, a match or a tester; figures are transcribed. The files are staged for the owner's own DNA repository, which he has named as their home and as the place to share them with the other agents.",
-  "files": [],
+  "files": [
+    {
+      "file": "GEDmatch_one-to-one_Stefan_Duska_and_Kevin_Duska_Jr__kit_numbers_shortened.txt",
+      "sha256": "ad78d123cdf5c43f6babc8a5253ff1f37dfe3a169b8e130af2d03bbe35a614cc",
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 6,
+      "document": "D-016-23",
+      "note": "The owner's file with the two kit numbers cut to three characters. Nothing else changed."
+    }
+  ],
   "held": [
     {
       "file": "Eurogene_K13_-_Kevin_ZZ4.png",
@@ -264,6 +274,17 @@
       "file_in_repo": false,
       "document": "D-016-22",
       "held": "names, kit numbers and e-mail fragments of 3,000 living people"
+    },
+    {
+      "file": "attachment.txt (one-to-one, Stefan Duska and the owner's kit RW4…)",
+      "sha256": "6d34f8e160218178a606ee00e9ffff1ebc050db812efde8723f741c62e842dea",
+      "bytes": 5145,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 6,
+      "file_in_repo": false,
+      "document": "D-016-23",
+      "held": "shows two full kit numbers; a copy with them shortened is in the repo"
     }
   ],
   "copies": [

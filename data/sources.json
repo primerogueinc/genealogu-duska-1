@@ -568,6 +568,14 @@
   "reliability": "A reference table from the match site, pasted by the owner: what a match of 30 cM is likely to be. It is about no person. It says that such a match is most often a fourth to sixth cousin and is a third cousin or nearer about one time in nine."
  },
  {
+  "id": "S-000-35",
+  "batch": "B-067",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 14 Nov 2026 (UTC): the one-to-one comparison; 'Pompei' was his name for his grandfather",
+  "extract": "\"steve and I 1-to-1 I called him Pompei btw\"",
+  "reliability": "The owner on the nickname in the obituary of 2018 (D-015-01): it was his own name for his grandfather. First-hand."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -4550,5 +4558,13 @@
   "title": "GEDmatch one-to-many match list for the owner's kit ZZ4…, 3,000 matches",
   "extract": "GEDmatch One-to-Many for the owner's kit beginning ZZ4, headed 'matches 1:3000 for Kevin Duska Sequencing': 3,000 matches, the weakest at 26.9 cM, copied in 2026. Read for three numbers only. The kit named Stefan Duska is fourth, at 1557.9 cM in total with a largest piece of 124.7 cM, 'generations 1.60'; the three above it are the owner's other kits. No other kit reaches 90 cM. 17 kits are also on the grandfather's list. The rest is the owner's other grandparents' sides and was not read.",
   "reliability": "As S-532. Reading level: high."
+ },
+ {
+  "id": "S-536",
+  "batch": "B-067",
+  "type": "DNA segment comparison (a database's computation from two tests)",
+  "title": "GEDmatch one-to-one: the kit named Stefan Duska and the owner",
+  "extract": "GEDmatch's one-to-one autosomal comparison of the kit named Stefan Duska with the owner's kit RW4…, run in 2026 (the page is stamped 'Ver: Jun 11 2026'). 23 shared segments, 1,567.6 cM in all, which the site gives as 43.697 per cent; the largest is 174.1 cM, the whole of chromosome 10; 'estimated number of generations to MRCA = 1.6'. 139,835 markers used. Chromosomes 10, 20 and 22 are shared from end to end and 1, 4, 12, 14, 17 and 19 for most of their length; chromosomes 3, 5 and 11 not at all. This is the site's version of the comparison I made from the two raw files at B-063 (D-016-17), and it corrects mine in three ways. It finds five short pieces, on chromosomes 7, 8, 9 (two) and 21, that my floor of 7 megabases threw away. It finds nothing on chromosome 11, where I had an 11 Mb stretch: mine lay across the centromere, where markers vary little, and was not real. And it measures in centimorgans, the proper unit: 43.7 per cent of the map on one copy is 21.8 per cent of the grandson's DNA, not the 19.8 I gave from megabases. Every long piece agrees in place and length.",
+  "reliability": "The site's standard comparison, in centimorgans, with its settings printed. Better than my own of B-063, which it confirms piece for piece and corrects at the edges. Reading level: high."
  }
 ]

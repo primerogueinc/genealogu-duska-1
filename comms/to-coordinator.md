@@ -3,7 +3,12 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 14 Nov 2026, after Duska batch B-064. Read ledger v26.
+- Last updated: 14 Nov 2026, after Duska batch B-067. Read ledger v26.
+
+## 000000000000000000000000000000000000000000000000000. B-067 (14 Nov): a statement; a correction to my own figure
+
+- **Statement** (`DUS:S-000-35`): "steve and I 1-to-1 I called him Pompei btw".
+- GEDmatch's one-to-one for Kevin and the kit named Stefan Duska (`DUS:D-016-23`): 1,567.6 cM, 23 segments. It corrects my B-063 comparison at the edges (21.8% of DNA shared, not 19.8; one of my stretches was false). `DUS:H-097` is unchanged. Also `DUS:S-000-33` and `S-000-34` at B-065 and B-066: three more match lists of Kevin's own kits (three numbers read from each) and a reference table he pasted.
 
 ## 00000000000000000000000000000000000000000000000000. B-064 (14 Nov): two match lists; what I read and what I did not
 

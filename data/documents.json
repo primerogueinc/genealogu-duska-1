@@ -27737,7 +27737,7 @@
     "no": "n/a",
     "date": "4 January 2022",
     "from": "Raw genotype export, compared with another (the comparison is this agent's own computation)",
-    "abstract": "An autosomal test, as the owner said: the same Ancestry array as his own, 668,893 markers. Nothing in the file names the person; 'Steve' is the owner's file name. Laid beside the owner's own AncestryDNA file (D-016-16), same array, 636,861 autosomal markers read in both. Same genotype at 63.37 per cent, one allele in common at 33.25, opposite homozygotes at 3.38 (21,521 markers), so not parent and child and not one person. Eighteen stretches of at least 7 megabases where the two share one copy throughout, 1,106 Mb of the 2,791 Mb the markers span: 39.6 per cent of the length of the autosomes, which is 19.8 per cent of the grandson's DNA. Chromosomes 10, 20 and 22 are shared from end to end; 3, 5, 7, 8, 9 and 21 not at all. X chromosome: 28,789 markers, 76.8 per cent alike by chance and no long run: nothing shared, as a male line requires. Y chromosome: 1,638 markers read in both, 1,638 identical. Mitochondrial: 195 of 195 alike, which on so few and such common markers decides nothing. Read together: a man of the same Y chromosome as the owner who shares about a fifth of his DNA with him in a few very long pieces, whole chromosomes at a time. That pattern is one generation of shuffling between the two, which is a grandfather and a grandson. It is at the low end of what a grandfather gives and inside the range (H-097).",
+    "abstract": "An autosomal test, as the owner said: the same Ancestry array as his own, 668,893 markers. Nothing in the file names the person; 'Steve' is the owner's file name. Laid beside the owner's own AncestryDNA file (D-016-16), same array, 636,861 autosomal markers read in both. Same genotype at 63.37 per cent, one allele in common at 33.25, opposite homozygotes at 3.38 (21,521 markers), so not parent and child and not one person. Eighteen stretches of at least 7 megabases where the two share one copy throughout, 1,106 Mb of the 2,791 Mb the markers span: 39.6 per cent of the length of the autosomes, which is 19.8 per cent of the grandson's DNA. Chromosomes 10, 20 and 22 are shared from end to end; 3, 5, 7, 8, 9 and 21 not at all. X chromosome: 28,789 markers, 76.8 per cent alike by chance and no long run: nothing shared, as a male line requires. Y chromosome: 1,638 markers read in both, 1,638 identical. Mitochondrial: 195 of 195 alike, which on so few and such common markers decides nothing. Read together: a man of the same Y chromosome as the owner who shares about a fifth of his DNA with him in a few very long pieces, whole chromosomes at a time. That pattern is one generation of shuffling between the two, which is a grandfather and a grandson. It is at the low end of what a grandfather gives and inside the range (H-097). [B-067: the site's own comparison (D-016-23) gives 1,567.6 cM in 23 segments, 43.7 per cent of the map, so 21.8 per cent of the DNA. My megabase figure was low: it dropped five pieces under 7 Mb, and it counted one stretch on chromosome 11 that the site does not find and that lies across the centromere. The centimorgan figure is the one to use.]",
     "reading": "n/a"
    }
   ],
@@ -28065,6 +28065,75 @@
    "compared": [
     "D-016-18, the grandfather's list",
     "D-016-19"
+   ]
+  }
+ },
+ {
+  "id": "D-016-23",
+  "folder": "F-016",
+  "batch": "B-067",
+  "source": "S-536",
+  "file": "GEDmatch_one-to-one_Stefan_Duska_and_Kevin_Duska_Jr__kit_numbers_shortened.txt",
+  "sha256": "6d34f8e160218178a606ee00e9ffff1ebc050db812efde8723f741c62e842dea",
+  "wide": false,
+  "held": "No image: the document is a text file. It is in the repository with the two kit numbers shortened; the file as sent is not.",
+  "title": "GEDmatch one-to-one comparison: the kit named Stefan Duska and the owner. 1,567.6 cM in 23 segments",
+  "span": "run in 2026",
+  "language": "English",
+  "collector_label": "steve and I 1-to-1",
+  "family": "FG-62",
+  "route": "duska",
+  "part": "part 6",
+  "provenance": {
+   "archive": "GEDmatch, the one-to-one autosomal comparison",
+   "fond_or_film": "a comparison of two kits, build 37 positions",
+   "book": "not applicable",
+   "page_or_image": "the text of the result page, 169 lines",
+   "obtained": "Sent through chat by the owner on 14 Nov 2026 (UTC)."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "2026",
+    "from": "DNA segment comparison (a database's computation from two tests)",
+    "abstract": "GEDmatch's one-to-one autosomal comparison of the kit named Stefan Duska with the owner's kit RW4…, run in 2026 (the page is stamped 'Ver: Jun 11 2026'). 23 shared segments, 1,567.6 cM in all, which the site gives as 43.697 per cent; the largest is 174.1 cM, the whole of chromosome 10; 'estimated number of generations to MRCA = 1.6'. 139,835 markers used. Chromosomes 10, 20 and 22 are shared from end to end and 1, 4, 12, 14, 17 and 19 for most of their length; chromosomes 3, 5 and 11 not at all. This is the site's version of the comparison I made from the two raw files at B-063 (D-016-17), and it corrects mine in three ways. It finds five short pieces, on chromosomes 7, 8, 9 (two) and 21, that my floor of 7 megabases threw away. It finds nothing on chromosome 11, where I had an 11 Mb stretch: mine lay across the centromere, where markers vary little, and was not real. And it measures in centimorgans, the proper unit: 43.7 per cent of the map on one copy is 21.8 per cent of the grandson's DNA, not the 19.8 I gave from megabases. Every long piece agrees in place and length.",
+    "reading": "high: pasted text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The 23 shared segments",
+    "original": "Chr | start | end | cM | SNPs\n1 | 752,721 | 95,703,444 | 125.2 | 4,779\n1 | 96,872,298 | 221,874,684 | 106.8 | 4,631\n2 | 34,049 | 9,830,361 | 22.4 | 706\n4 | 85,422 | 148,282,342 | 150.2 | 6,202\n6 | 150,279 | 11,952,845 | 29.8 | 935\n7 | 44,935 | 5,153,283 | 7.8 | 319\n8 | 140,452,253 | 146,216,936 | 8.7 | 313\n9 | 205,964 | 6,707,952 | 16.3 | 595\n9 | 137,119,281 | 141,008,876 | 13.6 | 263\n10 | 135,656 | 135,351,362 | 174.1 | 7,074\n12 | 28,980,694 | 133,491,098 | 122.1 | 5,019\n13 | 22,794,240 | 73,946,384 | 62.2 | 2,485\n14 | 30,545,681 | 104,865,071 | 98 | 3,829\n15 | 20,071,673 | 36,474,551 | 33.5 | 875\n15 | 36,546,623 | 95,538,232 | 77.5 | 3,017\n16 | 105,444 | 13,008,814 | 32.3 | 1,030\n16 | 78,817,229 | 90,141,355 | 35.4 | 1,168\n17 | 9,673,533 | 78,859,110 | 106 | 3,589\n18 | 65,887,287 | 77,868,036 | 28.8 | 808\n19 | 1,759,875 | 59,050,356 | 108.6 | 3,522\n20 | 75,254 | 62,879,331 | 114.7 | 3,798\n21 | 42,698,907 | 48,023,379 | 13.6 | 429\n22 | 16,504,399 | 51,156,933 | 80 | 2,159",
+    "english": "Chromosome, start and end positions on build 37, length in centimorgans, markers in the segment."
+   },
+   {
+    "label": "The totals",
+    "original": "Largest segment = 174.1 cM\nTotal Half-Match segments (HIR) 1567.6cM (43.697 Pct)\nEstimated number of generations to MRCA = 1.6\n23 shared segments found for this comparison.\n139835 SNPs used for this comparison.",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Steve and Kevin",
+   "kit_prefixes": [
+    "KJ4",
+    "RW4"
+   ],
+   "segments": 23,
+   "total_cm": 1567.6,
+   "pct_half_match": 43.697,
+   "largest_cm": 174.1,
+   "generations": 1.6,
+   "snps_used": 139835,
+   "shared_dna_pct": 21.8
+  },
+  "object": {
+   "kind": "The text of a GEDmatch one-to-one result page",
+   "form": "A key to the colour bars, a line naming the two kits and their owners, the settings, then a small table for each chromosome and the totals.",
+   "does_not_fit": "Nothing.",
+   "made_by": "GEDmatch, on the owner's request, in 2026.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "D-016-17, this agent's own comparison of the raw files: the same long pieces; five short ones missed and one false"
    ]
   }
  }

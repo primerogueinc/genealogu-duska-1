@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-14 after batch B-066 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-14 after batch B-067 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -45,6 +45,7 @@ Updated 2026-11-14 after batch B-066 (read ledger v26). Requests R-001 to R-011 
 - F-016 part 4: two GEDmatch match lists, held. The site gives 1,553 to 1,559 cM for grandfather and grandson; no other near relative and no surname from the tree among 3,000 matches.
 - F-016 part 5: the owner's other three match lists, held; the grandfather's kit at 1,553 to 1,559 cM on each.
 - B-066 (no files): a reference table for 30 cM matches, logged; `L-032`.
+- F-016 part 6: the site's one-to-one for grandfather and grandson: 1,567.6 cM in 23 segments (`D-016-23`, text in the repo).
 
 ## Concluded
 

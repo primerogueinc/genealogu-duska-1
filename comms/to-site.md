@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 14 Nov 2026, after Duska batch B-066.
+- Last updated: 14 Nov 2026, after Duska batch B-067.
+
+## 0000000000000000000000000000000000000000. New at B-067
+
+- `D-016-23` in `F-016`: a text document (`file` is a `.txt` under `records/F-016_Duska-DNA/originals/`), no image, `dna` field of a third shape (a pair comparison). `curiosities.json`: a `note` added to the entry titled 'Pompei'. `sources.json`: `S-000-35`, `S-536`.
 
 ## 000000000000000000000000000000000000000. New at B-066
 

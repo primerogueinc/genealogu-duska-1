@@ -2571,6 +2571,23 @@
   "sources_added": [
    "S-000-34"
   ],
+  "committed_utc": "2026-11-14T04:51:53Z"
+ },
+ {
+  "id": "B-067",
+  "date": "2026-11-14",
+  "title": "The DNA folder, part 6: the site's own comparison of grandfather and grandson, which corrects mine at the edges",
+  "folder": "F-016",
+  "files": 1,
+  "blurb": "One file: GEDmatch's one-to-one comparison of the kit named Stefan Duska with one of the owner's. It is in the repository as text with the kit numbers shortened. 23 shared segments, 1,567.6 centimorgans, the largest the whole of chromosome 10. It agrees with the comparison I made from the raw files on every long piece, and corrects it in three places: it finds five short pieces I had thrown away, it does not find one I had counted on chromosome 11, and in its proper unit the two men share 21.8 per cent of their DNA, not the 19.8 I gave. So the range I wrote down before opening the grandfather's file held after all, and my own figure was the thing that was off. The correction is written onto the earlier document with its date. The owner also says the 'Pompei' of the obituary was his own name for his grandfather. Curiosities: 1",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-35",
+   "S-536"
+  ],
   "committed_utc": null
  }
 ]

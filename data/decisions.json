@@ -1384,5 +1384,17 @@
   "date": "2026-11-14",
   "decided": "The pasted table is logged as a statement and a lead, with no document.",
   "why": "It is a reference table, not a record of the family, and came as text in the chat."
+ },
+ {
+  "id": "DEC-232",
+  "date": "2026-11-14",
+  "decided": "The one-to-one comparison is put in the repository as text, with the two kit numbers cut to three characters.",
+  "why": "It names no third party. It is the owner's and his grandfather's shared segments, which he has said are for everyone."
+ },
+ {
+  "id": "DEC-233",
+  "date": "2026-11-14",
+  "decided": "My own figure of B-063 is corrected in place, with the correction dated, and the site's figure is preferred.",
+  "why": "The site measures in centimorgans with a tested method. Mine was a rough check; it agreed on every long piece, missed five short ones and invented one."
  }
 ]

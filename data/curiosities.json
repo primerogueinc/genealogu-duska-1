@@ -1170,7 +1170,8 @@
   "original": "beloved “Pompei” to grandson Kevin Jr.",
   "translation": "As written.",
   "why": "A family name for a man, kept in print once. No register will ever hold it.",
-  "tone": "odd"
+  "tone": "odd",
+  "note": "B-067: the owner says 'I called him Pompei' (S-000-35). So the name in the obituary is the grandson's own for him. Why Pompei, he has not said."
  },
  {
   "id": "C-123",
@@ -1368,6 +1369,17 @@
   "original": "5th of 3,000: 52.0 cM",
   "translation": "The strongest match that is not his grandson: 52 centimorgans.",
   "why": "An emigrant village reassembled by a database, with every link too old to read.",
+  "tone": "history"
+ },
+ {
+  "id": "C-141",
+  "doc": "D-016-23",
+  "source": "S-536",
+  "title": "Chromosome 10, whole",
+  "text": "Every person has two copies of chromosome 10. One of the owner's is, from end to end, one of his grandfather's: 174.1 centimorgans, 135 million letters, without a break. It passed through his father without being shuffled once. Chromosomes 20 and 22 did the same. Chromosomes 3, 5 and 11 went the other way entirely and are his grandmother's.",
+  "original": "10 | 135,656 | 135,351,362 | 174.1 | 7,074",
+  "translation": "Chromosome 10: one segment, the whole length, 174.1 cM.",
+  "why": "Inheritance is a deal of whole cards as often as a shuffle. For three chromosomes the man he called Pompei is not a quarter of him but a half.",
   "tone": "history"
  }
 ]
