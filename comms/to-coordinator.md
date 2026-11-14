@@ -3,7 +3,14 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 14 Nov 2026, after Duska batch B-071. Read ledger v26.
+- Last updated: 14 Nov 2026, after Duska batch B-072. Read ledger v26.
+
+## 00000000000000000000000000000000000000000000000000000000. B-072 (14 Nov): statement; the grandfather's own match list; two leads across the lines
+
+- **Statement** (`DUS:S-000-40`): with nine files, "something here Steve's?". One is: his Family Finder match list (`DUS:D-016-43`, held). Eight are copies of Kevin's own.
+- **Read under his override:** that list, by program, and the ancestral-surname lists of the few matches that bear on the trees. No living person is named in `DUS`; three surnames of living matches are given as surnames only (a Demko form, Béres, Tirpák) because the surname is the lead. Kevin has been told.
+- **Across the lines:** a Demko-surnamed match at 106 cM to Štefan, his nearest relative in any database, is passed to the Demko agent (`DUS:L-035`). A 51 cM match lists only Mulicak (`DUS:L-036`), in neither tree.
+- `DUS:H-100` raised at 40: a match lists the ancestral pair Dusko/Hornyak. No person added; `DUS:H-079` unchanged.
 
 ## 0000000000000000000000000000000000000000000000000000000. B-071 (14 Nov): a statement; nothing new
 

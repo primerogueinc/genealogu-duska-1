@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 14 Nov 2026, after Duska batch B-071.
+- Last updated: 14 Nov 2026, after Duska batch B-072.
+
+## 000000000000000000000000000000000000000000000. New at B-072
+
+- `D-016-43`: one `held` document in `F-016` with a `dna` field. The folder's `MANIFEST.json` gains eight `copies`. `hypotheses.json`: `H-100`. `leads.json`: `L-035` to `L-037` (`url: null`). `sources.json`: `S-000-40`, `S-556`. New file `field-notes/steves-own-match-list.md`.
 
 ## 00000000000000000000000000000000000000000000. New at B-071
 

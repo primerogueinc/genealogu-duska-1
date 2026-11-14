@@ -2320,6 +2320,11 @@
     "batch": "B-050",
     "effect": "raised from 55 to 70",
     "note": "Three Roman Catholic Duskas of Senné were born about 1798, 1799 and 1803: János (D-013-148), Mária, wife of Dzvonyik (D-013-169), and György (D-013-134). They are of an age to be children of the Greek Catholic Joannes Duska who died at Szenna in 1830 aged 61, and the widow of the third was buried by the Greek Catholic priest. The line of house 6 was at Senné a full generation before György the elder. Against: no entry names the father of any of the three."
+   },
+   {
+    "batch": "B-072",
+    "effect": "no change",
+    "note": "H-100 raised beside it: a match of Štefan's lists a Dusko married to a Hornyák. Too small a share to move this."
    }
   ],
   "question": "X-Q-06"
@@ -2463,6 +2468,11 @@
     "batch": "B-050",
     "effect": "raised at 55",
     "note": "The first named candidates for Ahn 64 and Ahn 65."
+   },
+   {
+    "batch": "B-072",
+    "effect": "no change",
+    "note": "A match of 21.49 cM to Štefan bears the surname Béres (D-016-43). A common name; noted, no weight."
    }
   ]
  },
@@ -2753,6 +2763,11 @@
     "batch": "B-071",
     "effect": "no change",
     "note": "The company's Y tree page for the grandfather's kit says R-Z92 (D-016-42), the trunk of the owner's branch. Already known from the Family Finder row; nothing moves."
+   },
+   {
+    "batch": "B-072",
+    "effect": "no change",
+    "note": "The same 1,566.58 cM seen from the grandfather's own list (D-016-43)."
    }
   ],
   "question": "Is the paper tree true at its foot?"
@@ -2796,8 +2811,32 @@
     "batch": "B-070",
     "effect": "raised at 50",
     "note": "Raised on DNA and a surname list. Nobody goes on the tree by it (rule 36). It is the first match in the folder that points at a named family of the tree."
+   },
+   {
+    "batch": "B-072",
+    "effect": "no change",
+    "note": "A third figure for the same match: 34.06 cM with Štefan in his own FamilyTreeDNA list (D-016-43), longest block 14.18 cM. Steady across three measures. Still one surname in a list of 32; stays at 50."
    }
   ],
   "question": "Who were the Nyemcsiks of Szenna?"
+ },
+ {
+  "id": "H-100",
+  "statement": "A DNA match of Štefan's who lists the pair 'Dusko/Hornyak' among ancestors descends from a Duska of Szenna and his Hornyák wife, most likely György Dusko and Mária Hornyák (FG-25, children from [1869]), and the DNA shared with Štefan came down through the Duskas.",
+  "confidence": 40,
+  "basis": "The match's list is written as pairs of surnames, husband's and wife's by the look of it, and one pair is Dusko/Hornyak. This archive knows two such couples and both are at Szenna: Joannes Duska and Anna Hornyák (he died 1830, FG-64) and György Dusko and Mária Hornyák (children from [1869], FG-25). The spelling Dusko and the reach of an American's family memory both favour the later couple. The match shares 9.35 cM with Štefan in one piece (D-016-43). Against: a single piece of that size is real about as often as not (recalled, not sourced); if real it could have come through Hornyák or any other line of the match; and a Dusko married to a Hornyák somewhere else is not excluded. It is the only time in some nine thousand match rows that the surname of the line itself appears.",
+  "test": "Where and when the match's Dusko and Hornyák lived: in the match's own tree or head, which this agent does not open or ask; the owner can find the row by the surname. On paper: the parents of György Dusko of FG-25, and whether any child of that couple emigrated.",
+  "status": "open",
+  "raised": "B-072",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-072",
+    "effect": "raised at 40",
+    "note": "Raised on DNA and a surname list. Nobody goes on the tree by it (rule 36). If it holds, FG-25 and Ahn 4 share an ancestor, which is what H-079 says of the two confessions at Szenna."
+   }
+  ],
+  "question": "Were the Greek Catholic and Roman Catholic Duskas of Szenna one family?"
  }
 ]

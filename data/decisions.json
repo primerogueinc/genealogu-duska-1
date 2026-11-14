@@ -1468,5 +1468,29 @@
   "date": "2026-11-14",
   "decided": "The pasted page is published whole.",
   "why": "It carries no kit number and names nobody but 'steve'."
+ },
+ {
+  "id": "DEC-246",
+  "date": "2026-11-14",
+  "decided": "The grandfather's match list is read in full by program, and the ancestral-surname lists of the matches that bear on the trees are read; no match is named.",
+  "why": "The owner's override covers what he sends; every match on this list is on one of the two trees. Names of living people stay out of the repository."
+ },
+ {
+  "id": "DEC-247",
+  "date": "2026-11-14",
+  "decided": "Surnames that matches list for their ancestors are published; a living match's own surname is given only where it is the lead (Demko form, Béres, Tirpák).",
+  "why": "An ancestor's surname names no living person. The owner has been told about the three and can have them removed."
+ },
+ {
+  "id": "DEC-248",
+  "date": "2026-11-14",
+  "decided": "The Demko-surnamed match is routed to the Demko agent and no hypothesis is raised on it here.",
+  "why": "It is that line's relative, not this one's."
+ },
+ {
+  "id": "DEC-249",
+  "date": "2026-11-14",
+  "decided": "H-100 is raised at 40.",
+  "why": "One small segment and one pair of surnames. Rule 36 keeps it off the tree."
  }
 ]

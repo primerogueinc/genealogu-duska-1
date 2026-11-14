@@ -1447,5 +1447,27 @@
   "translation": "As written.",
   "why": "The checksum is the only label in this archive that has never been wrong.",
   "tone": "funny"
+ },
+ {
+  "id": "C-148",
+  "doc": "D-016-43",
+  "source": "S-556",
+  "title": "Dusko/Hornyak",
+  "text": "Somebody in America, filling in a form about their ancestors, typed thirteen couples. One is Dusko/Hornyak. A Joannes Duska was buried at Szenna in 1830 with Anna Hornyák's name beside his, and a György Dusko was having children there by Mária Hornyák from 1869. The stranger shares one small piece of DNA with Štefan. After seventy-two batches of other people's handwriting, somebody else's family wrote the surname down first.",
+  "original": "dusko/hornyak",
+  "translation": "A Dusko married to a Hornyák.",
+  "why": "The first time the name of the line itself has turned up in a living stranger's file.",
+  "tone": "history"
+ },
+ {
+  "id": "C-149",
+  "doc": "D-016-43",
+  "source": "S-556",
+  "title": "Kit numbers one apart, and the empty file for the fourth time",
+  "text": "The grandfather's kit number is the owner's plus one: the two were set up in one sitting in January 2022, four years after Štefan died, from a sample he had given while he lived. Of the nine files sent as possibly his, eight were the owner's again. The match list with no rows in it has now arrived four times. It has not grown.",
+  "original": "something here Steve's?",
+  "translation": "As written.",
+  "why": "One file in nine, and it was the best of the whole folder.",
+  "tone": "funny"
  }
 ]

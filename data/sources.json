@@ -608,6 +608,14 @@
   "reliability": "The owner's guess at whose the files are. The paste is his grandfather's; the four files are his own (their names carry his kit number and they are identical to the files of B-070)."
  },
  {
+  "id": "S-000-40",
+  "batch": "B-072",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 14 Nov 2026 (UTC): nine files, 'something here Steve's?'",
+  "extract": "With nine files: \"something here Steve's?\"",
+  "reliability": "The owner asks which of nine files are his grandfather's. One is (its name carries a different kit number); eight are copies of his own."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -4750,5 +4758,13 @@
   "title": "FamilyTreeDNA Y tree page for the grandfather's kit, as pasted: 'Confirmed Haplogroup is R-Z92'",
   "extract": "Text pasted by the owner from the Y-chromosome tree page of his grandfather's kit at FamilyTreeDNA. Its one statement is the heading: 'Confirmed Haplogroup is R-Z92'. The rest is the page's menu, three figures whose labels did not survive the copying (52,631; 52,181; 448), and rows of X where the page drew something. Štefan never took a Y test; this is what the company reads off the Y markers on the autosomal chip of his transferred file. R-Z92 is the trunk from which the owner's own branch, R-FTB41229, descends (by the Demko agent's note, L-027: Z280, Z92, Y4459, YP5520). So the grandfather's result is the grandson's result as far as a chip can see it. It agrees with the Family Finder row (D-016-32) and with the raw files, where the two Y chromosomes are identical at 1,638 of 1,638 markers (D-016-17).",
   "reliability": "A company's reading of chip markers, pasted by the owner. Reading level: high for the one statement used."
+ },
+ {
+  "id": "S-556",
+  "batch": "B-072",
+  "type": "DNA analysis report (a testing company's export for one kit)",
+  "title": "FamilyTreeDNA Family Finder match list for the grandfather's kit: 1,946 matches; a Demko-surnamed relative at 106 cM; one list says Nyemcsik and one says Dusko/Hornyak",
+  "extract": "The grandfather's own match list at FamilyTreeDNA: the one file of nine in this delivery that is his. Its name carries a kit number one above the owner's. 1,946 matches, three quarters of them dated 5 January 2022, the day the kit was loaded. This is the best list in the folder, because every match on it is on Štefan's side and so on one of the two trees. First is the owner, 1,566.58 cM. Second is the nearest relative of Štefan found in any database: 106.07 cM, longest block 35.56 cM, a second-to-fourth cousin by the company's range, bearing a surname of the Demko form. The same person is 24.96 cM to the owner. That is the Demko agent's (L-035). Third: 51.22 cM, longest block 27.51 cM, whose only listed ancestral surname is Mulicak, a name in neither tree (L-036). Then nine more of 29 to 42 cM. What the matches' own lists of ancestral surnames say, 620 of them being filled in. Nyemcsik: once, the match of H-099, here 34.06 cM (20.18 cM to the owner; 32.2 cM to Štefan on GEDmatch). Dusko: once, written as the pair 'Dusko/Hornyak' in a list made of such pairs, by a match of 9.35 cM in one piece. This archive has two Duska men with Hornyák wives, both at Szenna (FG-25, FG-64). That is H-100. Demko: twice (17.9 and 14.64 cM), besides Demkowicz and Demkiv once each. Tirpák: twice (22.93 and 15.3 cM), and one match bears it as a surname (12.51 cM). Hriczko: twice (20.11 and 10.27 cM). Hornyák: four times. One match of 21.49 cM bears the surname Béres, the name of the first wife of György Duska of house 6 (H-085); it is a common name and nothing rests on it. Krak, Kocsis, Hresko and Minarcsin: not once. No village of either tree is named. Checks on the other files. Of the 213 matches the company sorts to the owner's father's side (D-016-32), 212 are on this list, so that sorting is Štefan's side and nothing else. Twelve matches share X with Štefan, the largest 23 cM twice: his mother's side. One of the owner's five deep-tested Y matches also shares 9.87 cM with Štefan, and one other man on the branch above the owner's (R-Y4459) shares 15.82 cM; at that size and that depth of branch, chance is enough to explain both.",
+  "reliability": "A testing company's match list for the grandfather's own kit: every match is on his side. Shared cM are measured; the surnames are what matches chose to type about their own ancestors and are unchecked. Reading level: high for the figures."
  }
 ]

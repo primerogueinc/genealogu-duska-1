@@ -492,6 +492,17 @@
       "file_in_repo": false,
       "document": "D-016-41",
       "held": "names living people, or is the owner's genotype, or carries a kit number"
+    },
+    {
+      "file": "B82…[the grandfather's kit]_Family_Finder_Matches_2026-11-14.csv",
+      "sha256": "f5d36cb2ae144b85be5dd7b1db7ba2bacf6d5291b9f72fb42ba923a3dbd24f43",
+      "bytes": 334935,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 11,
+      "file_in_repo": false,
+      "document": "D-016-43",
+      "held": "names living people; carries a kit number"
     }
   ],
   "copies": [
@@ -556,6 +567,86 @@
       "part": 10,
       "copy_of": "D-016-32",
       "note": "Byte for byte the file archived at B-070. Sent again by the owner as possibly his grandfather's; the kit number in the name is the owner's."
+    },
+    {
+      "file": "bigy3-[id]_2.zip",
+      "sha256": "8b95bcbb73258386d4d7f5cc61474e5cae19f2ad1a5fa43ad07703dad5d312b2",
+      "bytes": 17563179,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 11,
+      "copy_of": "D-016-38",
+      "note": "Byte for byte a file archived at B-070; the owner's own."
+    },
+    {
+      "file": "bigy3-[id]_1.zip",
+      "sha256": "8b95bcbb73258386d4d7f5cc61474e5cae19f2ad1a5fa43ad07703dad5d312b2",
+      "bytes": 17563179,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 11,
+      "copy_of": "D-016-38",
+      "note": "Byte for byte a file archived at B-070; the owner's own."
+    },
+    {
+      "file": "B82…_BigY_Matches_20261113.csv",
+      "sha256": "1f2bcaf70092206c5e11f7da7a0ab0725d20f4831b6fda3aea6f48e4e2b9c689",
+      "bytes": 246,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 11,
+      "copy_of": "D-016-35",
+      "note": "Byte for byte a file archived at B-070; the owner's own."
+    },
+    {
+      "file": "B82…_BigY_Matches_20261113.csv",
+      "sha256": "1f2bcaf70092206c5e11f7da7a0ab0725d20f4831b6fda3aea6f48e4e2b9c689",
+      "bytes": 246,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 11,
+      "copy_of": "D-016-35",
+      "note": "Byte for byte a file archived at B-070; the owner's own."
+    },
+    {
+      "file": "B82…_BigY_Private_Variants_20261113.csv",
+      "sha256": "89b4f4b71d13f543d782f69b20ec8e43378d6c74ea8eb62fc9c5707be571ed14",
+      "bytes": 482,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 11,
+      "copy_of": "D-016-36",
+      "note": "Byte for byte a file archived at B-070; the owner's own."
+    },
+    {
+      "file": "B82…_BigY_Named_Variants_20261113.csv",
+      "sha256": "e8e675bdacb22b24402a91f484061ed4dcaea1fad7579b3680d36e83a94b9c4e",
+      "bytes": 87392,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 11,
+      "copy_of": "D-016-37",
+      "note": "Byte for byte a file archived at B-070; the owner's own."
+    },
+    {
+      "file": "B82…_Y_DNA_Matches_2026-11-14_1.csv",
+      "sha256": "8ce20a3de9b5ea56105ce09b591f77f4c69c733e969f51c15e7e2457635c7d17",
+      "bytes": 1181,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 11,
+      "copy_of": "D-016-34",
+      "note": "Byte for byte a file archived at B-070; the owner's own."
+    },
+    {
+      "file": "B82…_Y_DNA_Matches_2026-11-14.csv",
+      "sha256": "ee292d4390bca61a6a37a9cc4fad30339e5b80b712278f43f3a69b7e030aeb94",
+      "bytes": 2143,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 11,
+      "copy_of": "D-016-33",
+      "note": "Byte for byte a file archived at B-070; the owner's own."
     }
   ]
 }
