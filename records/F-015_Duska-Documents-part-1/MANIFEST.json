@@ -1,7 +1,7 @@
 {
   "folder": "F-015",
   "desktop_path": "Duska documents part 1",
-  "note": "Sent on 13 Nov 2026 as 'New random ass folder called Duska documents part 1': five images. One is in the repo as sent. Three are published as copies with living people cut or blacked out. One is a second copy of a file already held. Part 2, also 13 Nov 2026: ten images and one Word file. Five images are new and in the repo, one of them in two formats. Four are copies of files archived earlier. The Word file is held unopened. Between parts 1 and 2 the owner sent the five files of part 1 a second time and asked whether he had; he had, byte for byte.",
+  "note": "Sent on 13 Nov 2026 as 'New random ass folder called Duska documents part 1': five images. One is in the repo as sent. Three are published as copies with living people cut or blacked out. One is a second copy of a file already held. Part 2, also 13 Nov 2026: ten images and one Word file. Five images are new and in the repo, one of them in two formats. Four are copies of files archived earlier. The Word file is held unopened. Between parts 1 and 2 the owner sent the five files of part 1 a second time and asked whether he had; he had, byte for byte. Part 3, the last, 14 Nov 2026 (UTC): eight images and three Word files. Two images are new documents; two more are kept as second files of documents already made; four are copies. The three Word files are read and published as text, not as files, because their properties carry a personal name. With part 3 the owner pasted an obituary and sent a small portrait in the chat; they are filed here and marked as not from the folder. Folder closed by the owner: 'part 3 (final)'.",
   "files": [
     {
       "file": "Stefan_Duska_and_Maria_Demko_Canada_Arrival_1937.png",
@@ -66,6 +66,47 @@
       "via": "chat upload",
       "pixels": "1181x552",
       "part": 2
+    },
+    {
+      "file": "Marriage_of_Andras_Duska_and_Anna_Nyemsco_1892.png",
+      "sha256": "0aa4ee7647a7c9baec1ed584defc6d7bcc11455b55e491f3d2d93c20e31d8afc",
+      "bytes": 1501620,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "pixels": "1857x692",
+      "part": 3,
+      "same_picture_as": "D-006-03",
+      "note": "The picture of D-006-03 saved as PNG; kept as a second file of that document. The enlargement that settled the word Tiba was made from it."
+    },
+    {
+      "file": "Mihaily_Duska_1903_deatch_record.png",
+      "sha256": "e76189a7856a06a4c58c2fefc15a3885bd06dabaca93a19a9cc37f3c11da7359",
+      "bytes": 30774,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "pixels": "1520x373",
+      "part": 3,
+      "same_content_as": "D-015-09",
+      "note": "A second capture of the first entry of D-015-09; no new document."
+    },
+    {
+      "file": "Thumbnail_1.webp",
+      "sha256": "7265013df8231320b5ee2d92c43accd374d1955346ecdc4f7b896414ad141f31",
+      "bytes": 6296,
+      "pixels": "256x236",
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "from_folder": false,
+      "document": "D-015-16"
+    },
+    {
+      "file": "Michael_Duska_obituary_2019__pasted_text_names_withheld.txt",
+      "sha256": "94a6ce852f0f4ff1739e73cda1e376baff912517779c4d048fce7c7125b8519c",
+      "received": "2026-11-14",
+      "via": "text pasted in chat",
+      "from_folder": false,
+      "document": "D-015-15",
+      "note": "The names of seven living people are replaced by '[name withheld]'; the guestbook is left out."
     }
   ],
   "held": [
@@ -125,6 +166,63 @@
       "part": 2,
       "file_in_repo": false,
       "held": "Not opened. By its name it is a hired researcher's notes on the work done for the owner: someone's conclusions about the family, not a record and not a plain translation. Rule 31 lets this agent read a translation made for him once its own reading is written down, and holds anything compiled about the family. Which of the two this is cannot be told from outside. Held; the coordinator is asked."
+    },
+    {
+      "file": "mike_walter_duska_first_marriage_to_Francine_Quenneville.png",
+      "sha256": "1f72048286ca903d04617c6d06491e0c24fe08f54d289caf5900716c6bcf2eb5",
+      "bytes": 80221,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "pixels": "923x775",
+      "part": 3,
+      "file_in_repo": false,
+      "public_copy": "mike_walter_duska_first_marriage__groom_side.png",
+      "held": "The lower third names the bride's parents, whose status is unknown. The public copy is cut above them."
+    },
+    {
+      "file": "Steve_Duska_birth_certificate.jpg",
+      "sha256": "3ddcefddbd3c4558fe0fc70ddd1f15a926b242441f7835fc33c964c74f3ecb4b",
+      "bytes": 601679,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "pixels": "1932x2576",
+      "part": 3,
+      "file_in_repo": false,
+      "public_copy": "Steve_Duska_birth_certificate__registrar_blacked_out.jpg",
+      "held": "The registrar's typed name and signature are blacked out in the public copy: a living official."
+    },
+    {
+      "file": "Translation_from_Czech_Origins.docx",
+      "sha256": "9a69476c83c9cffc4e7dcf94c4e93ca5dd8d03589bb67b8dd2b8777d756f5d3b",
+      "bytes": 13718,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 3,
+      "file_in_repo": false,
+      "text_in_repo": "Translation_from_Czech_Origins__text.txt",
+      "held": "Read. The text is in the repo; the Word file is not, because its properties carry the translator's given name."
+    },
+    {
+      "file": "Stefan_Duiska_Permission_to_Leave_Slovakia_as_a_Minor.docx",
+      "sha256": "acf31390da947103dad73a669a5c6dceea256bf6cc2d621f0b9f73ae18b72170",
+      "bytes": 14242,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 3,
+      "file_in_repo": false,
+      "text_in_repo": "Stefan_Duiska_Permission_to_Leave_Slovakia_as_a_Minor__text.txt",
+      "held": "Read. The text is in the repo; the Word file is not, because its properties carry an account name of the owner's."
+    },
+    {
+      "file": "Steves_icon_transcript.docx",
+      "sha256": "d129b89603f521a0d70a675595d1067bf8475901c9187aec776514699e14d923",
+      "bytes": 12405,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 3,
+      "file_in_repo": false,
+      "text_in_repo": "Steves_icon_transcript__text.txt",
+      "held": "Read. As the file above."
     }
   ],
   "copies": [
@@ -172,6 +270,54 @@
       "part": 2,
       "duplicate_of": "D-X01-03",
       "file_in_repo": "as Maria_Demko_Notarial_Document_Regarding_Guardianship_of_NAME_WITHHELD_-_establishes_date_of_death.jpg in F-X01"
+    },
+    {
+      "file": "Marriage_Michael_Duska_Jr._and_Francine_Quenneville_1973.jpg",
+      "sha256": "17f976cdc6559afd90b2c73c815694bf42cc1a6f846082c1ae0ec765371698b0",
+      "bytes": 574707,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "pixels": "2256x1976",
+      "part": 3,
+      "duplicate_of": "D-006-23",
+      "file_in_repo": false,
+      "note": "Held as before: the bride is of unknown status."
+    },
+    {
+      "file": "Marriage_of_Janos_Duska_and_Anna_Nyemcso_1892.jpg",
+      "sha256": "66a4928044ad1ed212e7d2c69af691bc6b5cc3f6d739c28de91a45d3cd282efc",
+      "bytes": 265605,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "pixels": "1857x692",
+      "part": 3,
+      "duplicate_of": "D-006-03",
+      "file_in_repo": "as Anna_Nyemco_and_Andras_Duska_Marriage_from_Czech_Origins.jpg in F-006",
+      "note": "The file name calls the groom Janos; the entry says András."
+    },
+    {
+      "file": "Stefan_Duska_Joan_Teresa_Leonard_Marriage_1953.jpg",
+      "sha256": "9909482a5e1141a8618ed61d34aeb4192fe5de424902e2065f03e9a099fbf24f",
+      "bytes": 444015,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "pixels": "2064x2152",
+      "part": 3,
+      "duplicate_of": "D-006-22",
+      "file_in_repo": false,
+      "note": "Third copy. The file name says 1953; the form says 26 November 1955."
+    },
+    {
+      "file": "steve_duska_baptism_certificate_slovak_original.jpg",
+      "sha256": "40cba44632f3a94284c1504085b39f575da41e6aa42bf762d288985e9365955d",
+      "bytes": 618598,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "pixels": "2576x1932",
+      "part": 3,
+      "duplicate_of": "D-X01-01",
+      "file_in_repo": "as Stefan_Duska_original_baptism_certificate_establishing_Maria_Demko_as_mother.jpg in F-X01",
+      "note": "The same photograph saved again: same size, 54 bytes longer, mean difference per pixel 0.02 of 255."
     }
   ]
 }

@@ -464,6 +464,14 @@
   "reliability": "An instruction. Acted on when the folder is closed."
  },
  {
+  "id": "S-000-22",
+  "batch": "B-057",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 14 Nov 2026 (UTC): Mike Duska Jr. married twice and is dead; the folder is closed",
+  "extract": "\"part 3 (final)\". Then: \"Mike Duska Jr. (first marriage to Francine ) later married [given name withheld] = dead\". Then, with the address and the text of a newspaper obituary: \"dead mike here\", \"you can add photo for him then\", \"Cuz dead lol\".",
+  "reliability": "The owner on his great-uncle: two marriages, and dead, which is why a photograph of him may be shown. The obituary he pasted gives the day (D-015-15). The second wife is taken to be living and is not named here."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -4206,5 +4214,53 @@
   "title": "Index to Québec deaths: Michael Duska, died 31 January 1974, and Mikalis Duska, died 28 November 1965",
   "extract": "DUSKA, MICHAEL. Sex M. Status V [widower]. Date of birth 2-7-1903. Age 70. Residence Montréal. Father: DUSKA, Joseph. Mother: ', E.' Spouse: DEMKO. Date of death 31-1-1974. This is Ahn 8 by the death date, the age and the wife. Two things do not fit the registers: the birth is a day early (the baptism book has 3 July), and the father is 'Joseph' where the baptism of 1903, the census of 1930 and the marriage of 1892 all have András. The parents of a man of 70 were told to the registrar by whoever reported the death (H-093). DUSKA, MIKALIS. Sex M. Status V [widower]. Date of birth 28-11-1890. Age 75. Residence Montréal. Date of death 28-11-1965. No parents and no spouse. The cemetery's record has the same birth date and the same day as the day it received him (D-006-09). Here the day is called the date of death. So a second set of books, the civil one, holds the birth date of 28 November 1890, which is the day Miklós Duska was born at Szenna 6 (D-015-07). By this index he died on his seventy-fifth birthday and was a widower.",
   "reliability": "A database entry; the registrations behind it are not seen. The dates are sound where they can be checked. The parents in the first entry are wrong against three original records. Reading level: high."
+ },
+ {
+  "id": "S-506",
+  "batch": "B-057",
+  "type": "Online index to marriages (derivative)",
+  "title": "Index card of a marriage, Montréal, St-Alphonse-d'Youville, 8 December 1973: Michael Duska, son of Michael Duska and Maria Demko",
+  "extract": "'Mariage, 1973-12-08, Montréal (St-Alphonse-d'Youville).' Subjects: Michael Duska and Francine Quenneville. Father of the groom: Michael Duska. Mother of the groom: Maria Demko, marked 'décédée', deceased. The original act is 'not available' on the site. The date and church are those of the statistical return held as D-006-23, which gives this groom's birth as 1 December 1938 at Montréal and names no parents. The index supplies them. So the Michael Duska born in Montréal in 1938 is a son of Michal Duska and Maria Demko on a record of his own (H-071).",
+  "reliability": "The Drouin institute's index card; the act behind it is 'not available' on the site. Sound for the parents' names, which are not on the statistical return. Reading level: high."
+ },
+ {
+  "id": "S-507",
+  "batch": "B-057",
+  "type": "Civil birth certificate (official extract of 2005 from the register of 1929)",
+  "title": "Birth certificate of Štefan Duška from the civil register: born 23 October 1929 at Senné; issued at Palín, 5 May 2005",
+  "extract": "The Slovak Republic's birth certificate, on security paper, no. 31/2005. In the book of births of the registry office, volume 5, year 1929, page 102, entry 57, is written: born 23 October 1929 at Senné, Štefan Duška, a boy. Father: Michal Duška, 26 years old. Mother: Mária Demková, 23 years old. Birth numbers, dates and places of birth of the parents and citizenship: 'neuvedené', not stated. No remarks. Issued at Palín on 5 May 2005 under the seal of the commune's registry office. This is the state's book, and it says the 23rd. The parish's book says the 21st (D-X01-01). The parents' ages fit Michal born July 1903 and Maria born August 1906. Štefan was 75 and living in Montréal when it was issued.",
+  "reliability": "An official extract: as good as the register entry for what it copies, and it gives the volume, page and entry. It carries the civil date of birth, which differs from the parish's by two days. Reading level: high."
+ },
+ {
+  "id": "S-508",
+  "batch": "B-057",
+  "type": "Translation made for the owner (derivative)",
+  "title": "A hired researcher's English abstracts of four register entries (1852, 1890, 1892, 1903), January 2022",
+  "extract": "Four entries abstracted in English by a hired translator in January 2022. 'Krak anna from Tiba.' 'Note: I didn't found a connection between Georg and András.'",
+  "reliability": "Another reader's work on images this archive already holds. Not independent of the owner's research. One reading in it corrects one of mine and is marked as given. Reading level: not applicable."
+ },
+ {
+  "id": "S-509",
+  "batch": "B-057",
+  "type": "Transcription by the owner (derivative)",
+  "title": "The owner's typed copy of the court's consent of 1937 for the minor Štefan to emigrate",
+  "extract": "The owner's letter-by-letter typing of the court's consent of 1937, without accents.",
+  "reliability": "Adds nothing to the original, D-006-13. Reading level: not applicable."
+ },
+ {
+  "id": "S-510",
+  "batch": "B-057",
+  "type": "Transcription by the owner of an inscription (the object not in hand)",
+  "title": "A Christmas greeting 'to the dear Duška family' from 'the Duška family', written on an icon kept by Štefan Duska: the owner's typed copy",
+  "extract": "Dear Duška family, much joy with the little Jesus and at the holy supper [Christmas Eve]. We will be thinking of you. May the little Jesus bless you. Good health in plenty and God's blessing, wishes the Duška family. As typed: Draha rodinka Duskova / Velo nadosci pri Molom / Yeriskovi a pri svatej / Veceri brudeme si novos / Spioni nac Aby tas / Maly jezi sko pozehnal / Hojne zdravia a Borzhelo / Pozehmania proje rod. Duskva",
+  "reliability": "A non-reader's copy of handwriting on an object not seen. The sense is recoverable; single words are not safe. Scored as given. Reading level: low."
+ },
+ {
+  "id": "S-511",
+  "batch": "B-057",
+  "type": "Newspaper obituary (as pasted by the owner; the page not seen) and its portrait",
+  "title": "Obituary of Michael Walter Duska, 1938 to 2019, died 14 June 2019, son of Michal Duska and Maria Dem[k]o",
+  "extract": "Michael Walter Duska, 1938 to 2019, died on 14 June 2019. Husband of a second wife, who survives him. 'Predeceased by his parents, Michal Duska and Maria Demo, as well as his brother Steve and sister-in-law Joan.' He leaves a son, two stepchildren and two grandchildren, 'as well as family in Slovakia and the Philippines'. He helped found a company called Theocon; he wintered in Florida and golfed. No place of death, burial or funeral home. The mother's surname has lost its k. With the index card of his first marriage (D-015-10) this closes H-071: the Michael born in Montréal on 1 December 1938 is the younger son of Ahn 8 and Ahn 9, and he outlived his brother Štefan by a year and eight days.",
+  "reliability": "A family-written notice printed eight days after the death: firsthand for the death and the household, hearsay for the parents, whose names it gives with one letter lost. Read from the owner's paste. Reading level: high."
  }
 ]

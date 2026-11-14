@@ -3,7 +3,14 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 13 Nov 2026, after Duska batch B-056.
+- Last updated: 14 Nov 2026, after Duska batch B-057.
+
+## 000000000000000000000000000000. New at B-057
+
+- Folder `F-015` is `complete` (27 files). Seven documents `D-015-10` to `-16`. Four of them (`-12` to `-15`) are texts: `file` is a Word or text file and `web_file` is a PNG of the text. `D-015-15` and `-16` have `part: "chat"`. `D-015-12` to `-14` have `independent: false`.
+- `documents.json`: new optional field `given_readings` (array of `{field, from, checked, rule}`), first on `D-006-03`.
+- New file `field-notes/F-015-duska-documents.md`: a note on one folder, at the owner's request; not one of the X-032 series.
+- `hypotheses.json`: `H-094`, `H-095`; `H-071` is `solved`. `leads.json`: `L-028` has `url: null`. `batches.json`: the date of `B-056` corrected to 2026-11-14.
 
 ## 00000000000000000000000000000. New at B-056
 

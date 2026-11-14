@@ -4231,7 +4231,7 @@
    ],
    "direct_line": false,
    "hypotheses": [],
-   "look_for": "The Sztára baptism of an Anna Krak, January 1848. The mother's surname is doubtful; the page and the entries around it would fix it (H-055)."
+   "look_for": "The Sztára baptism of an Anna Krak, January 1848. No longer a likely Ahn 33, who was from Tiba (H-094, H-055 at 6); low priority."
   },
   {
    "id": "D-006-19",
@@ -5152,7 +5152,7 @@
    ],
    "direct_line": false,
    "hypotheses": [],
-   "look_for": "An infant Anna Krak buried at Jesztreb in [1848]. If the year stands she cannot be the wife of Ahn 32, which removes one candidate (H-050, H-055)."
+   "look_for": "An infant Anna Krak buried at Jesztreb in [1848]. Her year no longer bears on Ahn 33, who was from Tiba (H-094); the page would still date the strip."
   },
   {
    "id": "D-013-37",
@@ -8215,8 +8215,18 @@
   },
   {
    "what": "Marriage of György Duska (Ahn 32) and Anna Krak, about 1864 to 1866",
-   "where": "Senné Roman Catholic marriages, or the bride's Greek Catholic parish",
-   "settles": "Which Anna Krak she is and who her parents were (Ahn 66 and 67); H-050, H-055."
+   "where": "The Greek Catholic marriage book that served Tiba (Tibava), the bride's village; failing that, Senné Roman Catholic marriages before 1887",
+   "settles": "Her parents (Ahn 66 and 67) and his, on one entry; H-094, H-085."
+  },
+  {
+   "what": "Baptism of Anna Krak at Tiba, about 1835 to 1848",
+   "where": "The Greek Catholic baptism book that served Tiba (Tibava)",
+   "settles": "Her parents and her age; H-094."
+  },
+  {
+   "what": "Civil birth register of Senné, volume 5, year 1929, page 102, entry 57",
+   "where": "Registry office at Palín",
+   "settles": "The day Štefan's birth was reported and by whom; H-095."
   },
   {
    "what": "Burial of Anna Krak, wife of György Duska, between August 1875 and 1879",

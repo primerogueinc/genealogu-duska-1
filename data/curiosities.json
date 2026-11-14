@@ -1226,5 +1226,49 @@
   "translation": "János Danilovics, priest of the old faith.",
   "why": "In a village with three churches a baby did not wait for the right clergyman. It is also why a family can turn up in the wrong book.",
   "tone": "history"
+ },
+ {
+  "id": "C-128",
+  "doc": "D-006-03",
+  "source": "S-508",
+  "title": "The word was Tiba",
+  "text": "The marriage entry of 1892 gives the groom's mother as 'Krak Anna gk.' and then a village. I read that village as 'I[sk]e?', then on a second look as 'Deba?', and for thirty-five batches kept three hypotheses about which Anna Krak she was, at Jesztreb, at Szenna and at Sztára. In a Word file in this folder a translator the owner paid in January 2022 had written, in passing, 'Krak anna from Tiba'. Enlarged four times, it says Tiba. None of my three villages was right.",
+  "original": "Krak Anna gk. Tiba",
+  "translation": "Anna Krak, Greek Catholic, of Tiba.",
+  "why": "The answer to the open question on the direct line was in the archive from the start, in a hand I misread. Two looks by the same eye were worth less than one look by another.",
+  "tone": "funny"
+ },
+ {
+  "id": "C-129",
+  "doc": "D-015-14",
+  "source": "S-510",
+  "title": "The little Jesus, typed by ear",
+  "text": "Someone wrote a Christmas greeting to 'the dear Duška family' on an icon. Decades later a grandson of the house typed it out without knowing the language: 'Maly jezi sko pozehnal'. Put back together it says: may the little Jesus bless you. The senders signed themselves only 'the Duška family'.",
+  "original": "Aby tas Maly jezi sko pozehnal",
+  "translation": "May the little Jesus bless you.",
+  "why": "The only words in the whole archive written by the family at home to the family abroad, and they survive as a transcript by a man who could not read them.",
+  "tone": "sad"
+ },
+ {
+  "id": "C-130",
+  "doc": "D-015-11",
+  "source": "S-507",
+  "title": "Two birthdays, one village, two books",
+  "text": "The priest of Senné wrote that Štefan was born on the 21st of October 1929. The registrar wrote the 23rd. For the rest of his life the church papers said one and the state papers the other: the passport office the 23rd, the wedding the 21st. In 2005, when he was 75, a fresh certificate was fetched from Palín, and it said the 23rd again. His obituary then chose a third date.",
+  "original": "23.okt.1929",
+  "translation": "23 Oct. 1929.",
+  "why": "A man can have two legal birthdays for eighty-eight years and nobody need notice until a genealogist lays the papers side by side.",
+  "tone": "odd"
+ },
+ {
+  "id": "C-131",
+  "doc": "D-015-15",
+  "source": "S-511",
+  "title": "Every Canadian record gets the parents slightly wrong",
+  "text": "The father's death record of 1974 calls his parents Joseph and E. The son's wedding form of 1973 makes the father a Hindu born in India. The same son's obituary of 2019 calls his mother Maria Demo. The older son's obituary moves his birthday a month. Four records, four slips, each one generation back from the person who filled in the form.",
+  "original": "predeceased by his parents, Michal Duska and Maria Demo",
+  "translation": "As written.",
+  "why": "What a family forgets first is the spelling of its dead. It is the pattern, not any one error, that is worth keeping.",
+  "tone": "odd"
  }
 ]

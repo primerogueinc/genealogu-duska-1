@@ -8,7 +8,7 @@ Nearly every record in this archive is one row cut from a page. A row keeps the 
 - **128** are rank 2: other Duska strips whose year is only in the file name.
 - **252** are rank 3: the rest, most of them routed to the Demko and Places agents, who will rank their own.
 - **13** are already covered by a full page that has arrived.
-- **10** pages are needed and have not been seen in any form (last table).
+- **12** pages are needed and have not been seen in any form (last table).
 
 ## Rank 1: what each page would settle
 
@@ -23,10 +23,10 @@ Nearly every record in this archive is one row cut from a page. A row keeps the 
 | `D-007-08` | Baptism_of_Anna_Nyemcsik_1902.png | 12 and 14 December [1902] | - | The row below the one kept: Mihály Duska, born at 'Bradenville'. The full row and the rows under it (R-010). A Duska born in America and baptised at home. |
 | `D-009-10` | Baptism_of_Anna_Duska_1866.png | 17 March [1866] | H-050 | The first child of Ahn 32 and Anna Krak. The year (1866 is the owner's) bounds their marriage, which is not in hand. |
 | `D-009-33` | Baptism_of_Gyorgy_Duska_1872_to_Anna_Krak_and_Gyorgy_Duska.png | 10 February [1872] | - | A son of Ahn 32 and Anna Krak. The year (1872 is the owner's) fixes the order of their children, who run to August 1875 (H-052). |
-| `D-010-01` | Baptism_of_Anna_Krak.jpg | January 1848 | - | The Sztára baptism of an Anna Krak, January 1848. The mother's surname is doubtful; the page and the entries around it would fix it (H-055). |
+| `D-010-01` | Baptism_of_Anna_Krak.jpg | January 1848 | - | The Sztára baptism of an Anna Krak, January 1848. No longer a likely Ahn 33, who was from Tiba (H-094, H-055 at 6); low priority. |
 | `D-013-15` | Death_of_Gyorgy_Demko_1905.png | 15th of a month; year not on the strip (the owner: 1905) | H-020 | Filed as 1905, on a page layout of the 1830s. The year from the page heading (H-078). Routed to the Demko agent; asked as R-020. |
 | `D-013-26` | Death_of_Mihaly_Demko_1888.png | 3 May; year not on the strip (the owner: 1888) | - | Filed as 1888; house 121 points to the 1870s. The year from the page heading (H-077). Routed to the Demko agent; asked as R-020. |
-| `D-013-36` | Death_of_Anna_Krak_1848.png | 8 December [1848] | - | An infant Anna Krak buried at Jesztreb in [1848]. If the year stands she cannot be the wife of Ahn 32, which removes one candidate (H-050, H-055). |
+| `D-013-36` | Death_of_Anna_Krak_1848.png | 8 December [1848] | - | An infant Anna Krak buried at Jesztreb in [1848]. Her year no longer bears on Ahn 33, who was from Tiba (H-094); the page would still date the strip. |
 | `D-013-77` | Death_of_Anna_Szlantai_1834.png | 14 May [1834] | H-082 | Filed among the Duska deaths with no Duska on the strip. The page may show why: a husband named in the next column (H-082). |
 | `D-013-83` | Death_of_Gyorgy_Duska_1918.png | 11 July 1918 | - | The surname is doubtful on the strip. The page, or the same man in a neighbouring entry, would settle whether he is a Duska. |
 | `D-013-97` | Death_of_S._Duska_1830.png | 8 November [1830] | - | The year (1830 is the owner's) and the father's name, cut off on the strip: which Reformed Duska couple lost her (H-042, H-064). |
@@ -123,7 +123,9 @@ Noted here, not asked for: marriages and further deaths come as folders of their
 | Page | Where it should be | What it settles |
 |---|---|---|
 | The passenger list of 1937, page 263: Maria Duska and her son Stephan | The lists of arrivals for 1937 that the typed index points to (D-015-02) | The ship, port and day of their arrival, who they were going to and at what address; H-065 on its own record. |
-| Marriage of György Duska (Ahn 32) and Anna Krak, about 1864 to 1866 | Senné Roman Catholic marriages, or the bride's Greek Catholic parish | Which Anna Krak she is and who her parents were (Ahn 66 and 67); H-050, H-055. |
+| Marriage of György Duska (Ahn 32) and Anna Krak, about 1864 to 1866 | The Greek Catholic marriage book that served Tiba (Tibava), the bride's village; failing that, Senné Roman Catholic marriages before 1887 | Her parents (Ahn 66 and 67) and his, on one entry; H-094, H-085. |
+| Baptism of Anna Krak at Tiba, about 1835 to 1848 | The Greek Catholic baptism book that served Tiba (Tibava) | Her parents and her age; H-094. |
+| Civil birth register of Senné, volume 5, year 1929, page 102, entry 57 | Registry office at Palín | The day Štefan's birth was reported and by whom; H-095. |
 | Burial of Anna Krak, wife of György Duska, between August 1875 and 1879 | The Greek Catholic book that served Szenna; she is not among the Senné Roman Catholic strips | Her age, so her birth year, and with it which Anna Krak she is; H-052, H-055. |
 | Marriage of Michal Duska and Maria Demko, 30 January 1927 | Probably Iňačovce Greek Catholic marriages | The ages and parents of Ahn 8 and Ahn 9 on one record; R-017. |
 | Baptism of Štefan Duska, the original entry: volume IV, page 110, entry 43 of 1929 | Senné Roman Catholic baptisms | His birthday, 21 or 23 October; R-018. |

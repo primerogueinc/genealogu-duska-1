@@ -1460,7 +1460,7 @@
  {
   "id": "H-050",
   "statement": "Anna Krak, Greek Catholic wife of Georgius Duska of Senné 6, belongs to the Krak families of Jesztreb and Szenna in folder F-005, and that marriage is why Krak baptisms sit among the Duska records.",
-  "confidence": 40,
+  "confidence": 12,
   "basis": "D-009-06 and D-009-10 name her beside a Duska; she is Greek Catholic, and the Kraks of F-005 are in the Greek Catholic book that served Senné. A girl Anna is among those strips (the one the owner labelled 'János Hrim Krak 1841'). The second half of the statement is about the owner's filing and is a label; only the first half is tested.",
   "test": "The marriage of Georgius Duska and Anna Krak, about 1860 to 1865, in either book, naming her father.",
   "status": "open",
@@ -1487,6 +1487,11 @@
     "batch": "B-046",
     "effect": "lowered from 55 to 40",
     "note": "Four girls named Anna Krak at Jesztreb are now known to have died as children ([1836], [1847], [1848], [1873]) and one woman of the name was the wife of a Bodnár. No Anna Krak of Jesztreb born between about 1835 and 1848 is left standing in the strips in hand. She may still be of these families through a baptism not collected."
+   },
+   {
+    "batch": "B-057",
+    "effect": "lowered from 40 to 12",
+    "note": "The marriage entry of 1892 gives her origin as Tiba, not Jesztreb or Szenna (D-006-03, re-read; H-094). The Krak baptisms in folder F-005 are of other Krak families. Why the owner filed them with the Duskas is now a question about his search, not about her."
    }
   ]
  },
@@ -1602,7 +1607,7 @@
  {
   "id": "H-055",
   "statement": "Anna Krak, Greek Catholic wife of György Duska the elder of Senné, is the Anna baptised in January 1848 at Sztára, daughter of János Krak and Mária [Z]ebro.",
-  "confidence": 25,
+  "confidence": 6,
   "basis": "The name, and an age that fits: she would be 18 at the birth of her first known child in March 1866. This is the owner's own identification (PR-8), which carries no weight. Against it: the father is marked Roman Catholic and she is Greek Catholic in every Senné entry; Sztára is about 26 km from Senné in another county; and an Anna Krak was born the same year at Jesztreb, 4 km from Senné, in a Greek Catholic book (H-056). The word after her name in the 1892 marriage entry is not read as Sztára.",
   "test": "Her marriage to György Duska (about 1864 to 1866), which should name her parents or her village; her burial with an age; the church this Sztára book belongs to.",
   "status": "open",
@@ -1634,6 +1639,11 @@
     "batch": "B-050",
     "effect": "no change",
     "note": "The owner's 'Anna Krak 1921' is Anna Král[y], aged 30, of Rebrin (D-013-116). Nothing on the Sztára Anna."
+   },
+   {
+    "batch": "B-057",
+    "effect": "lowered from 25 to 6",
+    "note": "Sztára is in Zemplén; her son's marriage entry says Tiba in Ung (H-094). The Anna Krak baptised at Sztára in January 1848 is a different girl unless that family moved, for which there is nothing."
    }
   ]
  },
@@ -1716,6 +1726,11 @@
     "batch": "B-054",
     "effect": "no change",
     "note": "A test now exists that paper could not offer: the owner's Y branch is known (S-000-18). A male-line descendant of the Reformed Duskas of Solymos who tested would show whether the two families share a father within the last few centuries. Nobody has; the hypothesis stays at 30."
+   },
+   {
+    "batch": "B-057",
+    "effect": "no change",
+    "note": "The owner's hired translator looked at the Reformed György Dusko of Solymos, born 1852, as a possible father of András and wrote 'I didn't found a connection' (D-015-12). That is one man's negative on one candidate, and the candidate was the wrong generation: András's father was born about 1833. It says nothing either way on whether the two families share an older root."
    }
   ]
  },
@@ -2089,13 +2104,13 @@
  {
   "id": "H-071",
   "statement": "The Michael Duska who married in Montréal on 8 December 1973, born there on 1 December 1938, is the son Mike of Michal Duska and Maria Demko.",
-  "confidence": 75,
+  "confidence": 96,
   "basis": "The surname, rare in Montréal; a birth thirteen months after Maria reached Montréal; the death notice of February 1974, which names a son Mike and calls the father 'Sr.'; the owner's file label, which is a prior. Against: the form names no parents, and gives the groom's origin as 'Indou' and his father's birthplace as 'Inde', which is false of Michal Duska and is read as a clerk's error.",
   "test": "His baptism at Montréal, December 1938 (St. Cyril and Method, or the parish of 1196a St. George Street); the church's own marriage entry, which names parents.",
-  "status": "open",
+  "status": "solved",
   "raised": "B-038",
-  "resolved": null,
-  "resolution": null,
+  "resolved": "B-057",
+  "resolution": "Solved on the Drouin index of his marriage (D-015-10), which names his parents, with the statistical return of the same marriage (D-006-23, registration 145217) for his birth and his obituary of 2019 (D-015-15).",
   "log": [
    {
     "batch": "B-038",
@@ -2111,6 +2126,11 @@
     "batch": "B-055",
     "effect": "no change",
     "note": "The obituary of 2018 gives Štefan a brother Mike, then living (D-015-01). That there was such a brother was known from 1974; it adds nothing on the birth of 1938."
+   },
+   {
+    "batch": "B-057",
+    "effect": "solved: raised from 75 to 96",
+    "note": "Two records of his own now name his parents. The Drouin index card of the marriage of 8 December 1973 at St-Alphonse-d'Youville has the groom's father Michael Duska and mother Maria Demko, deceased (D-015-10); the statistical return of the same marriage, registration 145217, has him born at Montréal on 1 December 1938 (D-006-23). His obituary of 2019 names the same parents and 'his brother Steve' (D-015-15)."
    }
   ]
  },
@@ -2577,5 +2597,43 @@
    }
   ],
   "question": "Who were the parents of Ahn 8?"
+ },
+ {
+  "id": "H-094",
+  "statement": "Anna Krak, wife of György Duska the elder (Ahn 33), came from Tiba, today Tibava in the district of Sobrance, and was baptised a Greek Catholic there in the 1830s or 1840s.",
+  "confidence": 70,
+  "basis": "Her son's marriage entry of 18 January 1892 gives each parent's religion, standing and origin: 'Krak Anna gk. Tiba' (D-006-03). The column is headed for origin, and the priest filled it for all four parents; the other three are 'Szenna'. Tiba is a village of Ung county twenty to thirty kilometres north-east of Senné (recalled, not sourced). The word was misread here until a translator's reading was compared (D-015-12): it is the translator's reading, checked on an enlargement, and by rule nothing on the direct line rests on it alone. It need not: this hypothesis only says where to look. At the cap of 70 for a single record.",
+  "test": "The Greek Catholic baptism book that served Tiba, for an Anna Krak of about 1835 to 1848, and its marriage book for György Duska of Szenna and Anna Krak, about 1864 to 1866. The Places agent is asked which parish and which volumes.",
+  "status": "open",
+  "raised": "B-057",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-057",
+    "effect": "raised at 70",
+    "note": "Raised on a word that was in the archive from the first day of the pile and was read wrong by this agent for thirty-five batches."
+   }
+  ],
+  "question": "Who was Anna Krak and where was she from?"
+ },
+ {
+  "id": "H-095",
+  "statement": "Štefan Duska was born on 21 October 1929, the day in the parish book. The 23 October of the civil register is the registrar's date and is wrong by two days.",
+  "confidence": 60,
+  "basis": "The parish entry was made at the baptism on 26 October, five days after the birth it records, by the priest who knew the house (D-X01-01). The family kept the 21st: it is on the marriage form of 1955 (D-006-22), and the owner says the September 21 of the obituary was his slip for October 21 (S-000-19). The civil entry, volume 5, page 102, no. 57, says the 23rd (D-015-11), and every state paper made from it repeats that: the court's consent and the passport of 1937. Against: a civil registrar also wrote within days, from a parent's report, and a mother's memory of the day is not better evidence than a clerk's. A birth reported late was sometimes dated to keep within the legal term (recalled, not sourced).",
+  "test": "The civil register page itself (volume 5, page 102), which shows the date the birth was reported and by whom. The parish page, volume IV, page 110 (R-018).",
+  "status": "open",
+  "raised": "B-057",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-057",
+    "effect": "raised at 60",
+    "note": "Raised because the archive now holds an extract of each of the two original registers, and they disagree."
+   }
+  ],
+  "question": "When was Ahn 4 born?"
  }
 ]

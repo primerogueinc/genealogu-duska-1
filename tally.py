@@ -50,8 +50,8 @@ NOTES = {
     'D-009-06': "The baptism of Ahn 16. The date is 'as above' on the strip: the entry above gives it. The year, page and entry number.",
     'D-009-10': "The first child of Ahn 32 and Anna Krak. The year (1866 is the owner's) bounds their marriage, which is not in hand.",
     'D-009-33': "A son of Ahn 32 and Anna Krak. The year (1872 is the owner's) fixes the order of their children, who run to August 1875 (H-052).",
-    'D-013-36': "An infant Anna Krak buried at Jesztreb in [1848]. If the year stands she cannot be the wife of Ahn 32, which removes one candidate (H-050, H-055).",
-    'D-010-01': "The Sztára baptism of an Anna Krak, January 1848. The mother's surname is doubtful; the page and the entries around it would fix it (H-055).",
+    'D-013-36': "An infant Anna Krak buried at Jesztreb in [1848]. Her year no longer bears on Ahn 33, who was from Tiba (H-094); the page would still date the strip.",
+    'D-010-01': "The Sztára baptism of an Anna Krak, January 1848. No longer a likely Ahn 33, who was from Tiba (H-094, H-055 at 6); low priority.",
     'D-006-19': "The heading of the passenger list: ship, port and date of sailing and landing. Settles Hamburg and 1930 (H-090) and dates the arrival of Ahn 8 (H-066).",
     'D-014-01': "The same list as D-006-19, a second crop. One heading serves both.",
     'D-015-03': "The heading of the page: the year, the electoral district and the street. All three now rest on the file name and on the house number.",
@@ -63,7 +63,9 @@ IN_HAND = {'D-009-79': 'D-014-07', 'D-009-84': 'D-014-09', 'D-006-24': 'D-014-09
 # Pages this line needs and has in no form. Noted, not asked: the owner sends deaths and marriages as folders of their own.
 NEVER_SEEN = [
     {"what": "The passenger list of 1937, page 263: Maria Duska and her son Stephan", "where": "The lists of arrivals for 1937 that the typed index points to (D-015-02)", "settles": "The ship, port and day of their arrival, who they were going to and at what address; H-065 on its own record."},
-    {"what": "Marriage of György Duska (Ahn 32) and Anna Krak, about 1864 to 1866", "where": "Senné Roman Catholic marriages, or the bride's Greek Catholic parish", "settles": "Which Anna Krak she is and who her parents were (Ahn 66 and 67); H-050, H-055."},
+    {"what": "Marriage of György Duska (Ahn 32) and Anna Krak, about 1864 to 1866", "where": "The Greek Catholic marriage book that served Tiba (Tibava), the bride's village; failing that, Senné Roman Catholic marriages before 1887", "settles": "Her parents (Ahn 66 and 67) and his, on one entry; H-094, H-085."},
+    {"what": "Baptism of Anna Krak at Tiba, about 1835 to 1848", "where": "The Greek Catholic baptism book that served Tiba (Tibava)", "settles": "Her parents and her age; H-094."},
+    {"what": "Civil birth register of Senné, volume 5, year 1929, page 102, entry 57", "where": "Registry office at Palín", "settles": "The day Štefan's birth was reported and by whom; H-095."},
     {"what": "Burial of Anna Krak, wife of György Duska, between August 1875 and 1879", "where": "The Greek Catholic book that served Szenna; she is not among the Senné Roman Catholic strips", "settles": "Her age, so her birth year, and with it which Anna Krak she is; H-052, H-055."},
     {"what": "Marriage of Michal Duska and Maria Demko, 30 January 1927", "where": "Probably Iňačovce Greek Catholic marriages", "settles": "The ages and parents of Ahn 8 and Ahn 9 on one record; R-017."},
     {"what": "Baptism of Štefan Duska, the original entry: volume IV, page 110, entry 43 of 1929", "where": "Senné Roman Catholic baptisms", "settles": "His birthday, 21 or 23 October; R-018."},

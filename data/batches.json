@@ -2341,7 +2341,7 @@
  },
  {
   "id": "B-056",
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "title": "Part 2 of 'Duska documents': the whole year 1852 at Solymos, two baptism cuts, and a Québec death index that renames a man's parents",
   "folder": "F-015",
   "files": 11,
@@ -2362,6 +2362,37 @@
    "S-505",
    "S-000-20",
    "S-000-21"
+  ],
+  "committed_utc": "2026-11-14T00:08:51Z"
+ },
+ {
+  "id": "B-057",
+  "date": "2026-11-14",
+  "title": "Part 3 of 'Duska documents', final: the word was Tiba; Mike Duska's parents on a record; two registers, two birthdays",
+  "folder": "F-015",
+  "files": 13,
+  "blurb": "Eleven files and two things from the chat; the owner closed the folder. Four files are copies of ones already held and two more are second files of earlier documents. The rest make seven documents, and one of them reaches back and corrects the direct line. A Word file holds the English abstracts a hired translator made for the owner in 2022. Under the marriage of 1892 it says the groom's mother was 'Krak anna from Tiba'. I had read that word as 'I[sk]e?' and then as 'Deba?'. Enlarged, it is Tiba. So Anna Krak, Ahn 33, came from Tibava near Sobrance, not from any of the three villages I had been testing: H-094 raised at 70, the Jesztreb and Sztára hypotheses cut to 12 and 6, and her baptism and marriage now have a parish to be looked for in. The reading is marked as the translator's, checked by me. Second: the index card of Mike Duska's first marriage names his parents, Michael Duska and Maria Demko, and his obituary, pasted by the owner, gives his death on 14 June 2019; H-071 is solved. Third: Štefan's civil birth certificate of 2005 cites the state register, volume 5, page 102, entry 57, and says 23 October; the parish says the 21st. Two originals disagree (H-095, 60 for the 21st). Also here: the owner's typed copy of a Christmas greeting on an icon, from 'the Duška family' to 'the dear Duška family'. The note on the folder that he asked for is written, and it is harder on me than on him. Curiosities: 4",
+  "raised": [
+   "H-094",
+   "H-095"
+  ],
+  "resolved": [
+   "H-071"
+  ],
+  "revised": [
+   "H-050",
+   "H-055",
+   "H-071"
+  ],
+  "people_added": [],
+  "sources_added": [
+   "S-506",
+   "S-507",
+   "S-508",
+   "S-509",
+   "S-510",
+   "S-511",
+   "S-000-22"
   ],
   "committed_utc": null
  }

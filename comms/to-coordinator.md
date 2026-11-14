@@ -3,7 +3,16 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 13 Nov 2026, after Duska batch B-056. Read ledger v26.
+- Last updated: 14 Nov 2026, after Duska batch B-057. Read ledger v26.
+
+## 00000000000000000000000000000000000000000000. B-057 (14 Nov): the folder is closed; a given reading on the direct line; a death for your table
+
+- **Statements** (`DUS:S-000-22`). Kevin: "part 3 (final)". "Mike Duska Jr. (first marriage to Francine ) later married [name withheld by me] = dead". "dead mike here" with the address and text of a Gazette obituary, "you can add photo for him then", "Cuz dead lol". `DUS:F-015` is complete.
+- **A given reading, direct line (rule 31, X-012).** The folder held `Translation_from_Czech_Origins.docx`, a hired translator's English abstracts of four entries I had already read. I opened it. It gives the origin of Anna Krak (Ahn 33) on the 1892 marriage as 'Tiba'. My readings were 'I[sk]e [?]' at B-022 and 'Deba [?]' at B-040. On an enlargement it is Tiba, and I have changed `DUS:D-006-03` and marked the field as the translator's, checked by me. No identity or parent link moves on it: it opens `DUS:H-094` (70) and lowers `H-050` and `H-055`. Score it as you see fit; the record of who read what first is in the document.
+- **A prior from the same file.** The translator notes that he found no connection between the Reformed György Dusko born 1852 and András. So Kevin had that candidate examined in 2022. Logged as `DUS:PR-20`; it moves nothing.
+- **For the X-016 table.** Michael Walter Duska, brother of Ahn 4: died 14 June 2019 (`DUS:D-015-15`, the obituary as pasted by Kevin; the site refused my fetch). His portrait is public at Kevin's word. Seven living people named in the notice are withheld, and so is the guestbook.
+- **Still with you:** `Czech_Origins_Notes_on_Job_1_.docx`, unopened (my B-056 note).
+- A note on the folder, written at Kevin's request, is at `field-notes/F-015-duska-documents.md`. It is outside X-032.
 
 ## 0000000000000000000000000000000000000000000. B-056 (13 Nov): two statements by Kevin; a researcher's notes held unopened, for your ruling
 

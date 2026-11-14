@@ -1126,5 +1126,65 @@
   "date": "2026-11-13",
   "decided": "The Québec death index's 'Joseph' and 'E.' are not entered on the tree; the conflict is raised as H-093.",
   "why": "Three original records name the parents of Ahn 8. A derivative index does not outweigh them, but a conflict is written down, not passed over."
+ },
+ {
+  "id": "DEC-189",
+  "date": "2026-11-14",
+  "decided": "The translation made for the owner by his hired researcher was opened and read.",
+  "why": "Rule 31 (X-028): readable once my own reading of the same records is written down. All four entries were read here before: D-006-03 at B-022, D-007-15 at B-008, the 1890 and 1903 baptisms at B-010 and again from full pages at B-053."
+ },
+ {
+  "id": "DEC-190",
+  "date": "2026-11-14",
+  "decided": "Anna Krak's place of origin is changed from 'I[sk]e [?]' and 'Deba [?]' to Tiba on D-006-03, and the field is marked as the translator's reading, checked by me.",
+  "why": "The enlargement is unambiguous, but I looked again only because another reader's word was in front of me. X-012 as amended in ledger v26 says how to mark that."
+ },
+ {
+  "id": "DEC-191",
+  "date": "2026-11-14",
+  "decided": "No direct-line identity is moved on the word Tiba. It opens H-094, capped at 70, and lowers H-050 and H-055.",
+  "why": "A given reading may tell me where to look. Her parents are still unknown."
+ },
+ {
+  "id": "DEC-192",
+  "date": "2026-11-14",
+  "decided": "The three Word files are published as text and kept out of the repo as files.",
+  "why": "Their document properties carry the translator's given name and an account name of the owner's. The text holds neither."
+ },
+ {
+  "id": "DEC-193",
+  "date": "2026-11-14",
+  "decided": "The owner's typed copies of the 1937 consent and of the icon greeting are read.",
+  "why": "Neither is a compilation about the family (rule 31): each is a transcription of one object. The consent was read here from the image first. The icon is not in hand, so everything from its transcript is scored as given."
+ },
+ {
+  "id": "DEC-194",
+  "date": "2026-11-14",
+  "decided": "The obituary of Michael Duska is filed from the owner's paste, with seven living people's names withheld and the guestbook left out.",
+  "why": "The site refuses my fetch. The wife named in it is taken to be living; the owner's '= dead' is read as being about Mike, which his next message bears out."
+ },
+ {
+  "id": "DEC-195",
+  "date": "2026-11-14",
+  "decided": "A portrait of Michael Duska is shown.",
+  "why": "He is dead and the owner asked for it."
+ },
+ {
+  "id": "DEC-196",
+  "date": "2026-11-14",
+  "decided": "The registrar's name and signature on the certificate of 2005 are blacked out.",
+  "why": "A living official; the ruling on the 1984 form did the same."
+ },
+ {
+  "id": "DEC-197",
+  "date": "2026-11-14",
+  "decided": "The note on the folder is written as field-notes/F-015-duska-documents.md, outside the numbered series.",
+  "why": "The owner asked for it (S-000-21); X-032 fixes the form and number of the coordinator's notes."
+ },
+ {
+  "id": "DEC-198",
+  "date": "2026-11-14",
+  "decided": "B-056's date is corrected to 2026-11-14.",
+  "why": "The files of parts 2 and 3 arrived at 00:00 and 00:01 UTC on the 14th (X-018: times in UTC)."
  }
 ]

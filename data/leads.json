@@ -246,5 +246,19 @@
   "url": "https://github.com/primerogueinc/genealogy-demko-1",
   "bears_on": "H-091",
   "proof": "lead"
+ },
+ {
+  "id": "L-028",
+  "text": "Tiba is the Hungarian name of Tibava, a village in the present district of Sobrance, in the old county of Ung, twenty to thirty kilometres north-east of Senné; it had a Greek Catholic church (all recalled from training, not sourced). If so, Anna Krak's baptism and her marriage to György Duska belong in the Greek Catholic books that served Tibava. Put to the Places agent at B-057: which parish, which volumes at Prešov, and whether Krak is a Tibava surname.",
+  "url": null,
+  "bears_on": "H-094",
+  "proof": "lead"
+ },
+ {
+  "id": "L-029",
+  "text": "The Montreal Gazette's obituary page for Michael Duska, published 22 June 2019, as given by the owner. This agent's fetch of the page was refused by the site, so the text in D-015-15 is the owner's paste and has not been compared with the page.",
+  "url": "https://montrealgazette.remembering.ca/obituary/michael-duska-1075271255",
+  "bears_on": "H-071",
+  "proof": "lead"
  }
 ]
