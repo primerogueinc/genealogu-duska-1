@@ -552,6 +552,14 @@
   "reliability": "The owner hands over the match lists of his grandfather's kit and of one of his own, and asks for a field note."
  },
  {
+  "id": "S-000-33",
+  "batch": "B-065",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 14 Nov 2026 (UTC): the match lists of his other three kits",
+  "extract": "\"full gedmatch for my 2nd kit:\" / \"full gedmatch for my 3rd kit:\" / \"full gedmatch for my fourth and final kit\"",
+  "reliability": "The owner identifies three more match lists as his own kits and says the fourth is the last."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -4510,5 +4518,29 @@
   "title": "GEDmatch one-to-many match list for the first of the owner’s kits (RW4…), 3,000 matches",
   "extract": "The same search for the owner's kit beginning RW4, headed 'matches 1:3000 for Kevin John Stefan Duska Jr', weakest match 19.0 cM. Read for three things only. The grandfather's kit is in it, fourth, at 1,553.4 cM with a largest piece of 125.1; the three above it are the owner's other kits. No other kit reaches 90 cM. And 48 kits appear in both lists, which are matches the owner has through his grandfather. The rest of the list is the owner's other three grandparents' sides, which are outside this rebuild; it was not read past its numbers.",
   "reliability": "A testing database's measure of shared DNA between one kit and thousands of others. Sound for the amounts. A name on a kit is whatever its owner typed. It finds relatives; it does not say how they are related. Reading level: high."
+ },
+ {
+  "id": "S-533",
+  "batch": "B-065",
+  "type": "DNA match list (derivative of the tests; a database's computation)",
+  "title": "GEDmatch one-to-many match list for the owner's kit ST1…, 3,000 matches",
+  "extract": "GEDmatch One-to-Many for the owner's kit beginning ST1, headed 'matches 1:3000 for Kevin John Stefan Duska Jr': 3,000 matches, the weakest at 10.9 cM, copied in 2026. Read for three numbers only. The kit named Stefan Duska is fourth, at 1559.2 cM in total with a largest piece of 149.9 cM, 'generations 1.60'; the three above it are the owner's other kits. No other kit reaches 90 cM. 148 kits are also on the grandfather's list. The rest is the owner's other grandparents' sides and was not read.",
+  "reliability": "As S-532. Reading level: high."
+ },
+ {
+  "id": "S-534",
+  "batch": "B-065",
+  "type": "DNA match list (derivative of the tests; a database's computation)",
+  "title": "GEDmatch one-to-many match list for the owner's kit VW2…, 3,000 matches",
+  "extract": "GEDmatch One-to-Many for the owner's kit beginning VW2, headed 'matches 1:3000 for Kevin John Stefan Duska Jr': 3,000 matches, the weakest at 11.4 cM, copied in 2026. Read for three numbers only. The kit named Stefan Duska is fourth, at 1559.2 cM in total with a largest piece of 149.9 cM, 'generations 1.60'; the three above it are the owner's other kits. No other kit reaches 90 cM. 126 kits are also on the grandfather's list. The rest is the owner's other grandparents' sides and was not read.",
+  "reliability": "As S-532. Reading level: high."
+ },
+ {
+  "id": "S-535",
+  "batch": "B-065",
+  "type": "DNA match list (derivative of the tests; a database's computation)",
+  "title": "GEDmatch one-to-many match list for the owner's kit ZZ4…, 3,000 matches",
+  "extract": "GEDmatch One-to-Many for the owner's kit beginning ZZ4, headed 'matches 1:3000 for Kevin Duska Sequencing': 3,000 matches, the weakest at 26.9 cM, copied in 2026. Read for three numbers only. The kit named Stefan Duska is fourth, at 1557.9 cM in total with a largest piece of 124.7 cM, 'generations 1.60'; the three above it are the owner's other kits. No other kit reaches 90 cM. 17 kits are also on the grandfather's list. The rest is the owner's other grandparents' sides and was not read.",
+  "reliability": "As S-532. Reading level: high."
  }
 ]

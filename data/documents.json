@@ -27899,5 +27899,173 @@
     "the other list in this pair"
    ]
   }
+ },
+ {
+  "id": "D-016-20",
+  "folder": "F-016",
+  "batch": "B-065",
+  "source": "S-533",
+  "file": "attachment.txt [Kevin, kit ST1]",
+  "sha256": "2ffbcfb6d97ec1697ff099303c140dca71183a0cca2c5ec8e7131b8f2bda8a7f",
+  "wide": false,
+  "held": "A list of 3,000 living people with their names, kit numbers and part of their e-mail addresses. Not in this repository; only counts are given.",
+  "title": "GEDmatch one-to-many match list for the owner's kit ST1…, 3,000 matches",
+  "span": "copied in 2026",
+  "language": "English",
+  "collector_label": "full gedmatch for my 2nd kit",
+  "family": null,
+  "route": "duska",
+  "part": "part 5",
+  "provenance": {
+   "archive": "GEDmatch, the One-to-Many tool, free version",
+   "fond_or_film": "a database search, autosomal, 7 cM floor, limit 3,000",
+   "book": "not applicable",
+   "page_or_image": "the text of the result page, 322,827 bytes",
+   "obtained": "Sent through chat by the owner on 14 Nov 2026 (UTC)."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "2026",
+    "from": "DNA match list (a database's comparison of one kit with all others)",
+    "abstract": "GEDmatch One-to-Many for the owner's kit beginning ST1, headed 'matches 1:3000 for Kevin John Stefan Duska Jr': 3,000 matches, the weakest at 10.9 cM, copied in 2026. Read for three numbers only. The kit named Stefan Duska is fourth, at 1559.2 cM in total with a largest piece of 149.9 cM, 'generations 1.60'; the three above it are the owner's other kits. No other kit reaches 90 cM. 148 kits are also on the grandfather's list. The rest is the owner's other grandparents' sides and was not read.",
+    "reading": "high: pasted text"
+   }
+  ],
+  "transcriptions": [],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "ST1",
+   "matches_listed": 3000,
+   "weakest_cm": 10.9,
+   "grandfather_kit_cm": 1559.2,
+   "grandfather_kit_largest_cm": 149.9,
+   "kits_also_in_grandfathers_list": 148,
+   "read": "numbers only"
+  },
+  "object": {
+   "kind": "The text of a GEDmatch One-to-Many result page",
+   "form": "As D-016-19.",
+   "does_not_fit": "Nothing.",
+   "made_by": "GEDmatch, on the owner's request, in 2026.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "D-016-18, the grandfather's list",
+    "D-016-19"
+   ]
+  }
+ },
+ {
+  "id": "D-016-21",
+  "folder": "F-016",
+  "batch": "B-065",
+  "source": "S-534",
+  "file": "attachment.txt [Kevin, kit VW2]",
+  "sha256": "f4ffe7e37af8cb4f4a6da36d19256deba22d6f021f7713da9fd3fee5e7dc77d8",
+  "wide": false,
+  "held": "A list of 3,000 living people with their names, kit numbers and part of their e-mail addresses. Not in this repository; only counts are given.",
+  "title": "GEDmatch one-to-many match list for the owner's kit VW2…, 3,000 matches",
+  "span": "copied in 2026",
+  "language": "English",
+  "collector_label": "full gedmatch for my 3rd kit",
+  "family": null,
+  "route": "duska",
+  "part": "part 5",
+  "provenance": {
+   "archive": "GEDmatch, the One-to-Many tool, free version",
+   "fond_or_film": "a database search, autosomal, 7 cM floor, limit 3,000",
+   "book": "not applicable",
+   "page_or_image": "the text of the result page, 322,938 bytes",
+   "obtained": "Sent through chat by the owner on 14 Nov 2026 (UTC)."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "2026",
+    "from": "DNA match list (a database's comparison of one kit with all others)",
+    "abstract": "GEDmatch One-to-Many for the owner's kit beginning VW2, headed 'matches 1:3000 for Kevin John Stefan Duska Jr': 3,000 matches, the weakest at 11.4 cM, copied in 2026. Read for three numbers only. The kit named Stefan Duska is fourth, at 1559.2 cM in total with a largest piece of 149.9 cM, 'generations 1.60'; the three above it are the owner's other kits. No other kit reaches 90 cM. 126 kits are also on the grandfather's list. The rest is the owner's other grandparents' sides and was not read.",
+    "reading": "high: pasted text"
+   }
+  ],
+  "transcriptions": [],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "VW2",
+   "matches_listed": 3000,
+   "weakest_cm": 11.4,
+   "grandfather_kit_cm": 1559.2,
+   "grandfather_kit_largest_cm": 149.9,
+   "kits_also_in_grandfathers_list": 126,
+   "read": "numbers only"
+  },
+  "object": {
+   "kind": "The text of a GEDmatch One-to-Many result page",
+   "form": "As D-016-19.",
+   "does_not_fit": "Nothing.",
+   "made_by": "GEDmatch, on the owner's request, in 2026.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "D-016-18, the grandfather's list",
+    "D-016-19"
+   ]
+  }
+ },
+ {
+  "id": "D-016-22",
+  "folder": "F-016",
+  "batch": "B-065",
+  "source": "S-535",
+  "file": "attachment.txt [Kevin, kit ZZ4]",
+  "sha256": "97ca58d4e9a13cf7ef6989c82eb69a02b0b7d29f103ab7e3e7de0b70ec80690a",
+  "wide": false,
+  "held": "A list of 3,000 living people with their names, kit numbers and part of their e-mail addresses. Not in this repository; only counts are given.",
+  "title": "GEDmatch one-to-many match list for the owner's kit ZZ4…, 3,000 matches",
+  "span": "copied in 2026",
+  "language": "English",
+  "collector_label": "full gedmatch for my fourth and final kit",
+  "family": null,
+  "route": "duska",
+  "part": "part 5",
+  "provenance": {
+   "archive": "GEDmatch, the One-to-Many tool, free version",
+   "fond_or_film": "a database search, autosomal, 7 cM floor, limit 3,000",
+   "book": "not applicable",
+   "page_or_image": "the text of the result page, 315,866 bytes",
+   "obtained": "Sent through chat by the owner on 14 Nov 2026 (UTC)."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "2026",
+    "from": "DNA match list (a database's comparison of one kit with all others)",
+    "abstract": "GEDmatch One-to-Many for the owner's kit beginning ZZ4, headed 'matches 1:3000 for Kevin Duska Sequencing': 3,000 matches, the weakest at 26.9 cM, copied in 2026. Read for three numbers only. The kit named Stefan Duska is fourth, at 1557.9 cM in total with a largest piece of 124.7 cM, 'generations 1.60'; the three above it are the owner's other kits. No other kit reaches 90 cM. 17 kits are also on the grandfather's list. The rest is the owner's other grandparents' sides and was not read.",
+    "reading": "high: pasted text"
+   }
+  ],
+  "transcriptions": [],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "ZZ4",
+   "matches_listed": 3000,
+   "weakest_cm": 26.9,
+   "grandfather_kit_cm": 1557.9,
+   "grandfather_kit_largest_cm": 124.7,
+   "kits_also_in_grandfathers_list": 17,
+   "read": "numbers only"
+  },
+  "object": {
+   "kind": "The text of a GEDmatch One-to-Many result page",
+   "form": "As D-016-19.",
+   "does_not_fit": "Nothing.",
+   "made_by": "GEDmatch, on the owner's request, in 2026.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "D-016-18, the grandfather's list",
+    "D-016-19"
+   ]
+  }
  }
 ]

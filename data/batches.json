@@ -2536,6 +2536,25 @@
    "S-531",
    "S-532"
   ],
+  "committed_utc": "2026-11-14T04:50:30Z"
+ },
+ {
+  "id": "B-065",
+  "date": "2026-11-14",
+  "title": "The DNA folder, part 5: the match lists of the owner's other three kits",
+  "folder": "F-016",
+  "files": 3,
+  "blurb": "Three files: GEDmatch's 3,000 strongest matches for the owner's second, third and fourth kits. Held, like the first. From each, three numbers were taken and nothing else. The kit named Stefan Duska is fourth on every one, at 1,553 to 1,559 centimorgans, behind only the owner's own other kits. No other kit on any of the four lists reaches 90 centimorgans. And 167 kits in all appear both on one of the owner's lists and on his grandfather's: those are the matches that came to him through Štefan. The rest of the four lists is his other grandparents' families and was not read. Nothing new for the tree. Curiosities: 0",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-33",
+   "S-533",
+   "S-534",
+   "S-535"
+  ],
   "committed_utc": null
  }
 ]

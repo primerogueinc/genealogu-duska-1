@@ -231,6 +231,39 @@
       "file_in_repo": false,
       "document": "D-016-19",
       "held": "names, kit numbers and e-mail fragments of 3,000 living people"
+    },
+    {
+      "file": "attachment.txt (the owner's kit ST1…, GEDmatch one-to-many)",
+      "sha256": "2ffbcfb6d97ec1697ff099303c140dca71183a0cca2c5ec8e7131b8f2bda8a7f",
+      "bytes": 322827,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 5,
+      "file_in_repo": false,
+      "document": "D-016-20",
+      "held": "names, kit numbers and e-mail fragments of 3,000 living people"
+    },
+    {
+      "file": "attachment.txt (the owner's kit VW2…, GEDmatch one-to-many)",
+      "sha256": "f4ffe7e37af8cb4f4a6da36d19256deba22d6f021f7713da9fd3fee5e7dc77d8",
+      "bytes": 322938,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 5,
+      "file_in_repo": false,
+      "document": "D-016-21",
+      "held": "names, kit numbers and e-mail fragments of 3,000 living people"
+    },
+    {
+      "file": "attachment.txt (the owner's kit ZZ4…, GEDmatch one-to-many)",
+      "sha256": "97ca58d4e9a13cf7ef6989c82eb69a02b0b7d29f103ab7e3e7de0b70ec80690a",
+      "bytes": 315866,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 5,
+      "file_in_repo": false,
+      "document": "D-016-22",
+      "held": "names, kit numbers and e-mail fragments of 3,000 living people"
     }
   ],
   "copies": [
