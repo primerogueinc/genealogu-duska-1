@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-14 after batch B-063 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-14 after batch B-064 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -42,6 +42,7 @@ Updated 2026-11-14 after batch B-063 (read ledger v26). Requests R-001 to R-011 
 - F-016 part 2 (4 files): the owner's raw genotype data from two companies, held (names and checksums only).
 - B-062 (no files): a field note written before the owner's grandfather's raw file arrives.
 - F-016 part 3: the grandfather's raw DNA file, held. Compared with the owner's: same Y chromosome, about a fifth of the DNA shared in long pieces. `H-097` solved: the foot of the tree is confirmed by DNA.
+- F-016 part 4: two GEDmatch match lists, held. The site gives 1,553 to 1,559 cM for grandfather and grandson; no other near relative and no surname from the tree among 3,000 matches.
 
 ## Concluded
 

@@ -1358,5 +1358,16 @@
   "translation": "As written.",
   "why": "An account outlives its owner for as long as someone keeps the password.",
   "tone": "sad"
+ },
+ {
+  "id": "C-140",
+  "doc": "D-016-18",
+  "source": "S-531",
+  "title": "The village, scattered",
+  "text": "Štefan Duska's three thousand nearest DNA matches hold his grandson four times over and then nobody he could have named. Below them, at twenty to thirty-five centimorgans, runs a long list of North American kits with Slovak, Rusyn, Polish and Hungarian surnames: the great-grandchildren of the people who left the same valleys for the same mills. Each shares with him one small piece of a common ancestor from before the registers begin.",
+  "original": "5th of 3,000: 52.0 cM",
+  "translation": "The strongest match that is not his grandson: 52 centimorgans.",
+  "why": "An emigrant village reassembled by a database, with every link too old to read.",
+  "tone": "history"
  }
 ]

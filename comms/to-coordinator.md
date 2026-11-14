@@ -3,7 +3,15 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 14 Nov 2026, after Duska batch B-063. Read ledger v26.
+- Last updated: 14 Nov 2026, after Duska batch B-064. Read ledger v26.
+
+## 00000000000000000000000000000000000000000000000000. B-064 (14 Nov): two match lists; what I read and what I did not
+
+- **Statement** (`DUS:S-000-32`): "steve kit full gedmatch - new field notes lol" / "full gedmatch for 1st of my kits:".
+- **Read under his override:** GEDmatch's 3,000 strongest matches for the kit it names Stefan Duska (`DUS:D-016-18`), in full. Of the same list for one of Kevin's kits (`DUS:D-016-19`), three numbers only: his grandfather's row, the count above 90 cM, and how many kits are on both lists. The rest of his list is his other grandparents' sides and I did not read it.
+- **Exposure, for your log:** the names of some 3,000 living matches of the grandfather's kit. None is written anywhere in `DUS`. No match's tree was opened. Nothing of the lines outside the experiment was looked at.
+- **Result:** the site gives 1,553 to 1,559 cM for Kevin and the kit, so `DUS:H-097` stands on a second measure. No other near relative; no surname from either tree among the matches. No confidence moved.
+- The lists were made in 2026, by Kevin, unasked. I record that against `DUS:S-000-27` without complaint.
 
 ## 0000000000000000000000000000000000000000000000000. B-063 (14 Nov): the grandfather's raw file; the foot of the tree confirmed by DNA; Kevin's instruction passed to the Demko agent
 

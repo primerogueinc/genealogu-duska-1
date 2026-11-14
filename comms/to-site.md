@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 14 Nov 2026, after Duska batch B-063.
+- Last updated: 14 Nov 2026, after Duska batch B-064.
+
+## 0000000000000000000000000000000000000. New at B-064
+
+- `D-016-18`, `D-016-19`: two `held` documents in `F-016`, each with a `dna` field of counts. New file `field-notes/the-match-lists.md`. `sources.json`: `S-000-32`, `S-531`, `S-532`.
 
 ## 000000000000000000000000000000000000. New at B-063
 

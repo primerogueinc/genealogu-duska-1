@@ -1731,6 +1731,11 @@
     "batch": "B-057",
     "effect": "no change",
     "note": "The owner's hired translator looked at the Reformed György Dusko of Solymos, born 1852, as a possible father of András and wrote 'I didn't found a connection' (D-015-12). That is one man's negative on one candidate, and the candidate was the wrong generation: András's father was born about 1833. It says nothing either way on whether the two families share an older root."
+   },
+   {
+    "batch": "B-064",
+    "effect": "no change",
+    "note": "The grandfather's 3,000 strongest matches hold no other Duska in any spelling (D-016-18). So no descendant of the Reformed Duskas of Solymos, or of any Duska, has a kit on that site close enough to show. It is an absence in one database, not evidence against kinship."
    }
   ]
  },
@@ -2576,6 +2581,11 @@
     "batch": "B-063",
     "effect": "no change",
     "note": "The grandfather's file confirms that the owner's Y chromosome is Štefan's: 1,638 markers of 1,638 (D-016-17). So the Y result of S-000-18 belongs to the Duska male line at least as far up as Ahn 4, on evidence and not only on the tree. The origin of that line is where it was."
+   },
+   {
+    "batch": "B-064",
+    "effect": "no change",
+    "note": "The surnames near the top of the grandfather's match list are largely Carpathian: Slovak, Rusyn, Polish, Hungarian (D-016-18). That is where his cousins' families came from, on both his sides. An impression from names, not a count, and it does not separate the Duska side from the Demko side."
    }
   ],
   "question": "Where did the Duska male line come from before the registers begin?"
@@ -2633,6 +2643,11 @@
     "batch": "B-057",
     "effect": "raised at 70",
     "note": "Raised on a word that was in the archive from the first day of the pile and was read wrong by this agent for thirty-five batches."
+   },
+   {
+    "batch": "B-064",
+    "effect": "no change",
+    "note": "No Krak among the grandfather's matches by name (D-016-18). Surnames on kits are the testers' own, mostly Americans three generations on; the test would be their trees, which this agent does not open."
    }
   ],
   "question": "Who was Anna Krak and where was she from?"
@@ -2693,6 +2708,11 @@
     "batch": "B-063",
     "effect": "raised at 96",
     "note": "Raised and settled in one batch. The expected result was written down first, in field-notes/before-steves-file.md, as about a quarter of the DNA and between a fifth and a third; the measure is 19.8 per cent, a hair under the range I gave and inside the published one."
+   },
+   {
+    "batch": "B-064",
+    "effect": "no change",
+    "note": "GEDmatch's own figure for the two men, from both lists: 1,553 to 1,559 cM in total, largest piece 125 to 150 cM, estimated at 1.6 generations, nothing on X (D-016-18, D-016-19). It agrees with my comparison of the raw files (1,106 Mb in 18 pieces). A grandparent averages about 1,750 cM (recalled, not sourced); this is a little under, as I found."
    }
   ],
   "question": "Is the paper tree true at its foot?"

@@ -544,6 +544,14 @@
   "reliability": "An instruction to this agent to relay his field-note instructions to the Demko agent. Done in the note to that agent at this batch."
  },
  {
+  "id": "S-000-32",
+  "batch": "B-064",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 14 Nov 2026 (UTC): two GEDmatch match lists; new field notes",
+  "extract": "\"steve kit full gedmatch - new field notes lol\" / \"full gedmatch for 1st of my kits:\"",
+  "reliability": "The owner hands over the match lists of his grandfather's kit and of one of his own, and asks for a field note."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -4486,5 +4494,21 @@
   "title": "Raw AncestryDNA data of a kit the owner calls Steve's, and its comparison with the owner's",
   "extract": "Laid beside the owner's own AncestryDNA file (D-016-16), same array, 636,861 autosomal markers read in both. Same genotype at 63.37 per cent, one allele in common at 33.25, opposite homozygotes at 3.38 (21,521 markers), so not parent and child and not one person. Eighteen stretches of at least 7 megabases where the two share one copy throughout, 1,106 Mb of the 2,791 Mb the markers span: 39.6 per cent of the length of the autosomes, which is 19.8 per cent of the grandson's DNA. Chromosomes 10, 20 and 22 are shared from end to end; 3, 5, 7, 8, 9 and 21 not at all. X chromosome: 28,789 markers, 76.8 per cent alike by chance and no long run: nothing shared, as a male line requires. Y chromosome: 1,638 markers read in both, 1,638 identical. Mitochondrial: 195 of 195 alike, which on so few and such common markers decides nothing.",
   "reliability": "Two primary data files and a comparison anyone can repeat from them. The method is a plain one: stretches with no opposing homozygotes, 7 Mb and 700 markers at least. Lengths are in megabases; no genetic map was to hand, so no centimorgan figure is claimed. Whose file it is rests on the owner's label and on the result itself. Reading level: not applicable."
+ },
+ {
+  "id": "S-531",
+  "batch": "B-064",
+  "type": "DNA match list (derivative of the tests; a database's computation)",
+  "title": "GEDmatch one-to-many match list for the kit named Stefan Duska (KJ4…), 3,000 matches",
+  "extract": "GEDmatch 'One-to-Many' for the kit beginning KJ4, which the site itself heads 'matches 1:3000 for Stefan Duska': the name is on the kit, not only on the owner's file. The first 3,000 matches, the weakest at 10.2 cM. The top four are the owner's own four kits, at 1,553 to 1,559 cM in total, largest piece 125 to 150 cM, 'generations 1.6', nothing on X: the site's own measure of the grandfather and grandson link (H-097). After them there is no near relative at all. One match at 52 cM, four between 35 and 50, 44 between 25 and 35, 89 between 20 and 25, 315 between 15 and 20, and 2,543 between 10 and 15. Not one of the 2,996 other kits carries the surname Duska in any spelling, nor Demko, Krak, Nyemcsik, Hresko, Kocsis or Schwarz. Many of the surnames near the top are of Carpathian make, Slovak, Rusyn, Polish or Hungarian, on kits tested in North America: the descendants of other emigrants from the same hills. The page's footer reads 'Copyright 2026': it was copied this year, not in 2022.",
+  "reliability": "A testing database's measure of shared DNA between one kit and thousands of others. Sound for the amounts. A name on a kit is whatever its owner typed. It finds relatives; it does not say how they are related. Reading level: high."
+ },
+ {
+  "id": "S-532",
+  "batch": "B-064",
+  "type": "DNA match list (derivative of the tests; a database's computation)",
+  "title": "GEDmatch one-to-many match list for the first of the owner’s kits (RW4…), 3,000 matches",
+  "extract": "The same search for the owner's kit beginning RW4, headed 'matches 1:3000 for Kevin John Stefan Duska Jr', weakest match 19.0 cM. Read for three things only. The grandfather's kit is in it, fourth, at 1,553.4 cM with a largest piece of 125.1; the three above it are the owner's other kits. No other kit reaches 90 cM. And 48 kits appear in both lists, which are matches the owner has through his grandfather. The rest of the list is the owner's other three grandparents' sides, which are outside this rebuild; it was not read past its numbers.",
+  "reliability": "A testing database's measure of shared DNA between one kit and thousands of others. Sound for the amounts. A name on a kit is whatever its owner typed. It finds relatives; it does not say how they are related. Reading level: high."
  }
 ]

@@ -209,6 +209,28 @@
         "bytes": 18108722
       },
       "held": "raw genotype data; the man is dead, his living relatives are in it"
+    },
+    {
+      "file": "attachment.txt (Steve's kit, GEDmatch one-to-many)",
+      "sha256": "f7609998b45be08788a305828cfde0f50b062e12e5a9cacaabed92c9cdd159c7",
+      "bytes": 316076,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 4,
+      "file_in_repo": false,
+      "document": "D-016-18",
+      "held": "names, kit numbers and e-mail fragments of 3,000 living people"
+    },
+    {
+      "file": "attachment.txt (the owner's first kit, GEDmatch one-to-many)",
+      "sha256": "609904d1fe90ce6030e4a1f405386d0d017439a3bfd1447dd121a809c7496618",
+      "bytes": 318424,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 4,
+      "file_in_repo": false,
+      "document": "D-016-19",
+      "held": "names, kit numbers and e-mail fragments of 3,000 living people"
     }
   ],
   "copies": [
