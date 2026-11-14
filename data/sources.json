@@ -600,6 +600,14 @@
   "reliability": "The owner reopens folder F-016, identifies ten files as his own results at FamilyTreeDNA, and says there may be files for his grandfather."
  },
  {
+  "id": "S-000-39",
+  "batch": "B-071",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 14 Nov 2026 (UTC): four files and a paste, 'I think Steve's'",
+  "extract": "With four files and the pasted text of a page beginning \"steve Y-DNA Haplotree - Confirmed Haplogroup is R-Z92\": \"I think Steve's\".",
+  "reliability": "The owner's guess at whose the files are. The paste is his grandfather's; the four files are his own (their names carry his kit number and they are identical to the files of B-070)."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -4734,5 +4742,13 @@
   "title": "FamilyTreeDNA mitochondrial match list for the owner (one region): 1131 rows; his mother's line, not used",
   "extract": "A list of 1131 people who match the owner's mitochondrial DNA at the one region level. Mitochondrial DNA passes from mother to child, so this is the owner's mother's mother's line and no part of the line rebuilt here. The row count was taken by program. Two of the three files of this kind were shown to this agent whole by the chat; nothing in them is written down or used.",
   "reliability": "A testing company's comparison of one kit with its database. Good for what it counts; a missing match proves little. Reading level: high for the figures."
+ },
+ {
+  "id": "S-555",
+  "batch": "B-071",
+  "type": "DNA analysis report (a testing company's page for one kit, as pasted)",
+  "title": "FamilyTreeDNA Y tree page for the grandfather's kit, as pasted: 'Confirmed Haplogroup is R-Z92'",
+  "extract": "Text pasted by the owner from the Y-chromosome tree page of his grandfather's kit at FamilyTreeDNA. Its one statement is the heading: 'Confirmed Haplogroup is R-Z92'. The rest is the page's menu, three figures whose labels did not survive the copying (52,631; 52,181; 448), and rows of X where the page drew something. Štefan never took a Y test; this is what the company reads off the Y markers on the autosomal chip of his transferred file. R-Z92 is the trunk from which the owner's own branch, R-FTB41229, descends (by the Demko agent's note, L-027: Z280, Z92, Y4459, YP5520). So the grandfather's result is the grandson's result as far as a chip can see it. It agrees with the Family Finder row (D-016-32) and with the raw files, where the two Y chromosomes are identical at 1,638 of 1,638 markers (D-016-17).",
+  "reliability": "A company's reading of chip markers, pasted by the owner. Reading level: high for the one statement used."
  }
 ]

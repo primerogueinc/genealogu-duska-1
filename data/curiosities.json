@@ -1436,5 +1436,16 @@
   "translation": "The surname of Ahn 17 and Ahn 34.",
   "why": "After 43 files, one word. It proves nothing yet and it is the best lead the DNA gave.",
   "tone": "odd"
+ },
+ {
+  "id": "C-147",
+  "doc": "D-016-42",
+  "source": "S-555",
+  "title": "'I think Steve's'",
+  "text": "The owner sent four files as perhaps his grandfather's. They are his own, the same four he had sent thirty-three minutes before, down to the last byte. The grandfather's part of the delivery was nine words pasted above them. The empty match list has now been sent twice, and is still empty.",
+  "original": "I think Steve's",
+  "translation": "As written.",
+  "why": "The checksum is the only label in this archive that has never been wrong.",
+  "tone": "funny"
  }
 ]

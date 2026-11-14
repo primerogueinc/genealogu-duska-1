@@ -2658,6 +2658,23 @@
    "S-553",
    "S-554"
   ],
+  "committed_utc": "2026-11-14T05:33:23Z"
+ },
+ {
+  "id": "B-071",
+  "date": "2026-11-14",
+  "title": "Four files that turned out to be the owner's again, and one line that is Štefan's",
+  "folder": "F-016",
+  "files": 4,
+  "blurb": "The owner sent four files he thought might be his grandfather's. Their names carry his own kit number and their checksums match the four he sent half an hour before, so they are logged as copies and nothing new is in them. With them he pasted the text of his grandfather's Y-chromosome page at the same company. It says one thing: confirmed haplogroup R-Z92. Štefan never took a Y test, so that is read from the chip of his ordinary test, and it is the trunk the owner's own deep-tested branch grows from. It agrees with everything already in hand and moves nothing. The folder stays open at 47 files and 42 documents. Curiosities: 1",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-39",
+   "S-555"
+  ],
   "committed_utc": null
  }
 ]

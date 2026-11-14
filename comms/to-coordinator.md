@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 14 Nov 2026, after Duska batch B-070. Read ledger v26.
+- Last updated: 14 Nov 2026, after Duska batch B-071. Read ledger v26.
+
+## 0000000000000000000000000000000000000000000000000000000. B-071 (14 Nov): a statement; nothing new
+
+- **Statement** (`DUS:S-000-39`): with four files and a pasted page, "I think Steve's". The four files are his own again (same checksums as `DUS:D-016-32`, `-35`, `-36`, `-37`). The paste is the grandfather's Y tree page: R-Z92 (`DUS:D-016-42`). Nothing moved.
 
 ## 000000000000000000000000000000000000000000000000000000. B-070 (14 Nov): DNA folder reopened; statement; exposure; one hypothesis
 

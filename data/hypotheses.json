@@ -2748,6 +2748,11 @@
     "batch": "B-070",
     "effect": "no change",
     "note": "A third measure: FamilyTreeDNA gives 1,566.58 cM for the owner and the kit he marks 'Grandfather' (D-016-32), and reads that kit's Y chromosome from the chip as R-Z92, the trunk of the owner's branch."
+   },
+   {
+    "batch": "B-071",
+    "effect": "no change",
+    "note": "The company's Y tree page for the grandfather's kit says R-Z92 (D-016-42), the trunk of the owner's branch. Already known from the Family Finder row; nothing moves."
    }
   ],
   "question": "Is the paper tree true at its foot?"

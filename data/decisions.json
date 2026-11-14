@@ -1456,5 +1456,17 @@
   "date": "2026-11-14",
   "decided": "A short note is written on the folder's reopening.",
   "why": "The closing note said the deep Y test was the one thing missing and that I was not asking for it. It came twenty minutes later. The earlier note is not revised."
+ },
+ {
+  "id": "DEC-244",
+  "date": "2026-11-14",
+  "decided": "The four files are logged as copies and not as the grandfather's.",
+  "why": "Same checksums as D-016-32, -35, -36 and -37; the kit number in the names is the owner's."
+ },
+ {
+  "id": "DEC-245",
+  "date": "2026-11-14",
+  "decided": "The pasted page is published whole.",
+  "why": "It carries no kit number and names nobody but 'steve'."
  }
 ]

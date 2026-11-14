@@ -11,6 +11,15 @@
       "part": 6,
       "document": "D-016-23",
       "note": "The owner's file with the two kit numbers cut to three characters. Nothing else changed."
+    },
+    {
+      "file": "FamilyTreeDNA_haplotree_page_for_the_grandfathers_kit__pasted_text.txt",
+      "sha256": "7700f191981ca02472e24cb6d9e45c5ad8b90edf35327d449453fbf1de8ef36a",
+      "bytes": 273,
+      "received": "2026-11-14",
+      "via": "pasted into chat",
+      "part": 10,
+      "document": "D-016-42"
     }
   ],
   "held": [
@@ -507,6 +516,46 @@
       "file_in_repo": false,
       "contains": "D-016-16",
       "note": "A zip holding one file, byte for byte the text file logged as D-016-16."
+    },
+    {
+      "file": "B82…_BigY_Matches_20261113.csv",
+      "sha256": "1f2bcaf70092206c5e11f7da7a0ab0725d20f4831b6fda3aea6f48e4e2b9c689",
+      "bytes": 246,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 10,
+      "copy_of": "D-016-35",
+      "note": "Byte for byte the file archived at B-070. Sent again by the owner as possibly his grandfather's; the kit number in the name is the owner's."
+    },
+    {
+      "file": "B82…_BigY_Private_Variants_20261113.csv",
+      "sha256": "89b4f4b71d13f543d782f69b20ec8e43378d6c74ea8eb62fc9c5707be571ed14",
+      "bytes": 482,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 10,
+      "copy_of": "D-016-36",
+      "note": "Byte for byte the file archived at B-070. Sent again by the owner as possibly his grandfather's; the kit number in the name is the owner's."
+    },
+    {
+      "file": "B82…_BigY_Named_Variants_20261113.csv",
+      "sha256": "e8e675bdacb22b24402a91f484061ed4dcaea1fad7579b3680d36e83a94b9c4e",
+      "bytes": 87392,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 10,
+      "copy_of": "D-016-37",
+      "note": "Byte for byte the file archived at B-070. Sent again by the owner as possibly his grandfather's; the kit number in the name is the owner's."
+    },
+    {
+      "file": "B82…_Family_Finder_Matches_2026-11-14.csv",
+      "sha256": "c2aedb00d1878c8f5dcea5f5dfea97ebe6eb5036916cd51db210f0dcc50ba9a5",
+      "bytes": 1162471,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 10,
+      "copy_of": "D-016-32",
+      "note": "Byte for byte the file archived at B-070. Sent again by the owner as possibly his grandfather's; the kit number in the name is the owner's."
     }
   ]
 }
