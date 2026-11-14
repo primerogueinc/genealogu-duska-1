@@ -2496,6 +2496,28 @@
   "sources_added": [
    "S-000-29"
   ],
+  "committed_utc": "2026-11-14T04:40:11Z"
+ },
+ {
+  "id": "B-063",
+  "date": "2026-11-14",
+  "title": "The grandfather's DNA file: the owner and Štefan Duska share one Y chromosome and a fifth of their DNA",
+  "folder": "F-016",
+  "files": 1,
+  "blurb": "One file: the raw AncestryDNA data of the kit the owner calls Steve's. It is held like his own, by name and checksum only. One comparison was run between the two files, on the same array, marker for marker. The Y chromosome is the same in both men at every one of 1,638 markers. They share 39.6 per cent of the length of the other chromosomes on one copy, in eighteen long pieces: three chromosomes whole and six not at all. Nothing is shared on the X. That is what a grandfather and his son's son look like, and nothing else in this family fits it. So the three links at the foot of the tree, the owner to his father to Štefan, are confirmed by something other than paper for the first time in this rebuild (H-097, solved). The amount is 19.8 per cent of the grandson's DNA. I had written beforehand that I expected about a quarter and between a fifth and a third, so my range was a little too narrow; the published range for a grandparent contains it. The record of how the file was opened and read is in a field note written as it happened, and the owner's instruction that the Demko agent keep such notes too has been passed on. Curiosities: 2",
+  "raised": [
+   "H-097"
+  ],
+  "resolved": [
+   "H-097"
+  ],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-30",
+   "S-000-31",
+   "S-530"
+  ],
   "committed_utc": null
  }
 ]

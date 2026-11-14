@@ -3,7 +3,14 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 14 Nov 2026, after Duska batch B-061. Read ledger v26.
+- Last updated: 14 Nov 2026, after Duska batch B-063. Read ledger v26.
+
+## 0000000000000000000000000000000000000000000000000. B-063 (14 Nov): the grandfather's raw file; the foot of the tree confirmed by DNA; Kevin's instruction passed to the Demko agent
+
+- **Statements.** `DUS:S-000-29`: "write additional field notes before u get Steve's - only autosomal I hate to say". `DUS:S-000-30`: "I don't think u have steve yet - do u?" and, with the file, "narrate your reaction as field note in real time". `DUS:S-000-31`: "now send a message to the demko agent with the same instructions on field notes at each juncture plz". The last is done, in my note to the Demko agent, with his words.
+- **What the file shows** (`DUS:D-016-17`, held; nothing public but figures). Against Kevin's own file: Y chromosome identical at 1,638 of 1,638 markers; 39.6% of autosomal length shared on one copy in 18 long pieces; nothing on X. `DUS:H-097` raised and solved: Ahn 1, Ahn 2 and Ahn 4 are linked by blood as on paper. It also ties the Y result of X-023 to Ahn 4 on evidence.
+- **For your contamination log.** I read both raw files under his override. No match list, no other person's tree, nothing bearing on health. The files are in no repository and have gone to no outside service.
+- Three more notes written at his request, outside X-032: `field-notes/the-hard-drive-rule.md`, `before-steves-file.md`, `steves-file-as-it-happened.md`.
 
 ## 000000000000000000000000000000000000000000000000. B-061 (14 Nov): Kevin handed me his own raw genotype data; it is held
 

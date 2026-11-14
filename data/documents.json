@@ -27708,5 +27708,69 @@
     "the other raw file in this folder: 99.92 per cent agreement on shared autosomal markers"
    ]
   }
+ },
+ {
+  "id": "D-016-17",
+  "folder": "F-016",
+  "batch": "B-063",
+  "source": "S-530",
+  "file": "Steve_Duska_dna-data-2022-01-04.zip",
+  "sha256": "a3ecd06400fbd6fa53681250a4c1389bc74aa58aec3b59cd2250c4204602d272",
+  "wide": false,
+  "held": "Raw genotype data. Štefan Duska is dead, but half of this file is in his living descendants and relatives. It is not in this repository and goes nowhere public. Logged by name, size and checksum. Read for its header, its marker counts and one comparison with the owner's file; nothing bearing on health was looked at.",
+  "title": "Raw AncestryDNA data of a kit the owner calls Steve's (Štefan Duska, Ahn 4), downloaded 4 January 2022",
+  "span": "file generated 4 January 2022, 21:15 UTC; the sample is older",
+  "language": "English headers; data",
+  "collector_label": "Steve Duska dna-data-2022-01-04",
+  "family": "FG-62",
+  "route": "duska",
+  "part": "part 3",
+  "provenance": {
+   "archive": "AncestryDNA, a raw data download from an account the owner controls",
+   "fond_or_film": "raw data export, array version V2.0",
+   "book": "not applicable",
+   "page_or_image": "one zip of 5,886,388 bytes holding AncestryDNA.txt, 668,893 markers",
+   "obtained": "Sent through chat by the owner on 14 Nov 2026 (UTC). The file was generated eleven minutes after his own Ancestry download, on the same evening."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "4 January 2022",
+    "from": "Raw genotype export, compared with another (the comparison is this agent's own computation)",
+    "abstract": "An autosomal test, as the owner said: the same Ancestry array as his own, 668,893 markers. Nothing in the file names the person; 'Steve' is the owner's file name. Laid beside the owner's own AncestryDNA file (D-016-16), same array, 636,861 autosomal markers read in both. Same genotype at 63.37 per cent, one allele in common at 33.25, opposite homozygotes at 3.38 (21,521 markers), so not parent and child and not one person. Eighteen stretches of at least 7 megabases where the two share one copy throughout, 1,106 Mb of the 2,791 Mb the markers span: 39.6 per cent of the length of the autosomes, which is 19.8 per cent of the grandson's DNA. Chromosomes 10, 20 and 22 are shared from end to end; 3, 5, 7, 8, 9 and 21 not at all. X chromosome: 28,789 markers, 76.8 per cent alike by chance and no long run: nothing shared, as a male line requires. Y chromosome: 1,638 markers read in both, 1,638 identical. Mitochondrial: 195 of 195 alike, which on so few and such common markers decides nothing. Read together: a man of the same Y chromosome as the owner who shares about a fifth of his DNA with him in a few very long pieces, whole chromosomes at a time. That pattern is one generation of shuffling between the two, which is a grandfather and a grandson. It is at the low end of what a grandfather gives and inside the range (H-097).",
+    "reading": "n/a"
+   }
+  ],
+  "transcriptions": [],
+  "dna": {
+   "subject": "Steve",
+   "ahnentafel": 4,
+   "compared_with": "D-016-16",
+   "autosomal_markers_compared": 636861,
+   "opposite_homozygotes_pct": 3.379,
+   "half_identical_segments": 18,
+   "half_identical_mb": 1106,
+   "autosomal_mb_covered": 2791,
+   "half_identical_pct_of_length": 39.6,
+   "shared_dna_pct": 19.8,
+   "y_markers_compared": 1638,
+   "y_identical": 1638,
+   "x_markers_compared": 28789,
+   "x_identical_pct": 76.81,
+   "x_shared": false,
+   "mt_markers_compared": 195,
+   "mt_identical": 195
+  },
+  "object": {
+   "kind": "A testing company's raw data export, zipped",
+   "form": "As D-016-16: a commented header, then one line a marker.",
+   "does_not_fit": "The download is dated three and a half years after the man's death: the account outlived him.",
+   "made_by": "AncestryDNA.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "D-016-16, the owner's file from the same company and array",
+    "D-016-02 and the other 'Steve' admixture results, which were run on a GEDmatch upload presumably of this file"
+   ]
+  }
  }
 ]

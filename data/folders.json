@@ -239,13 +239,14 @@
  {
   "id": "F-016",
   "desktop_path": "DNA (the owner's repository duska-genealogy-DNA)",
-  "described_as": "The owner's DNA material, a folder that was in no pile until 14 Nov 2026. Part 1: fourteen GEDmatch admixture results, ten on three kits of his own and four on a kit of his grandfather's. Part 2: the owner's raw genotype files from two testing companies, each also as a zip (held; not published).",
+  "described_as": "The owner's DNA material, a folder that was in no pile until 14 Nov 2026. Part 1: fourteen GEDmatch admixture results, ten on three kits of his own and four on a kit of his grandfather's. Part 2: the owner's raw genotype files from two testing companies, each also as a zip (held; not published). Part 3: the raw AncestryDNA file of the kit called Steve's (held).",
   "status": "open",
   "first_seen": "2026-11-14",
-  "files_received": 18,
+  "files_received": 19,
   "batches": [
    "B-060",
-   "B-061"
+   "B-061",
+   "B-063"
   ],
   "archive_path": "records/F-016_Duska-DNA/"
  }

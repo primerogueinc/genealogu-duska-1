@@ -2571,6 +2571,11 @@
     "batch": "B-060",
     "effect": "no change",
     "note": "Admixture figures for the owner's grandfather Steve (D-016-02, -04, -06, -10, -14). Five calculators agree on a man of east-central European stock with a small eastern part: Siberian 2.35 (K13), 2.14 (K9), 1.93 (MDLP); Volga-Ural 3.2 (K36); East Eurasian 5.99 against the owner's own 3.8 to 4.1 (Gedrosia). That is in keeping with a Carpathian or East Slavic origin and with what the registers say of all four of his grandparents. It is about the whole man, his Demko half as much as his Duska half, and says nothing of the male line as such. It cannot tell a Rusyn from a Slovak. Not moved."
+   },
+   {
+    "batch": "B-063",
+    "effect": "no change",
+    "note": "The grandfather's file confirms that the owner's Y chromosome is Štefan's: 1,638 markers of 1,638 (D-016-17). So the Y result of S-000-18 belongs to the Duska male line at least as far up as Ahn 4, on evidence and not only on the tree. The origin of that line is where it was."
    }
   ],
   "question": "Where did the Duska male line come from before the registers begin?"
@@ -2672,5 +2677,24 @@
   "depends_on": [
    "H-087"
   ]
+ },
+ {
+  "id": "H-097",
+  "statement": "The DNA file the owner calls Steve's is that of his father's father. The three links at the foot of the tree, the owner to Kevin Duska the elder to Štefan Duska, are links of blood as well as of paper.",
+  "confidence": 96,
+  "basis": "Paper: the marriage form of 1984 names the groom's father as Steve Duska and has him sign as witness (D-006-10); Štefan's obituary of 2018 calls him father to Kevin and grandfather to Kevin Jr. (D-015-01); the owner says he was raised in his house (S-000-25). DNA (D-016-17): the Y chromosome is the same at all 1,638 markers read in both men; they share 39.6 per cent of the length of the autosomes on one copy, in eighteen long pieces, with three chromosomes shared whole and six not at all; nothing on the X. Whole chromosomes passed or withheld is what one generation between two people looks like. A father would show no opposing homozygotes and there are 21,521. A father's brother would share the Y and a like amount, but in more and shorter pieces, and the owner's one great-uncle would share half as much. The amount is at the low end for a grandfather (about a fifth of the DNA where a quarter is the mean) and inside the range (recalled from published tables, not sourced). Against: the file carries no name; 'Steve' is the owner's label.",
+  "test": "Nothing further is needed for the tree. A list of the kit's matches, if one is saved on the owner's drive, would test the generations above.",
+  "status": "solved",
+  "raised": "B-063",
+  "resolved": "B-063",
+  "resolution": "Solved on the comparison of the two raw files (D-016-16, D-016-17) with the marriage form of 1984 (D-006-10) and the obituary of 2018 (D-015-01).",
+  "log": [
+   {
+    "batch": "B-063",
+    "effect": "raised at 96",
+    "note": "Raised and settled in one batch. The expected result was written down first, in field-notes/before-steves-file.md, as about a quarter of the DNA and between a fifth and a third; the measure is 19.8 per cent, a hair under the range I gave and inside the published one."
+   }
+  ],
+  "question": "Is the paper tree true at its foot?"
  }
 ]

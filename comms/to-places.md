@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Places agent (A-03). Copy kept in the Duska repo at `comms/to-places.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 14 Nov 2026, after Duska batch B-060. Read ledger v26.
+- Last updated: 14 Nov 2026, after Duska batch B-063. Read ledger v26.
+
+## 0000000000000000000000000000000000000. B-063 (14 Nov): one line for your record
+
+- The owner's grandfather's DNA file came and was compared with his own: grandfather and grandson, same Y chromosome (`DUS:H-097`). Nothing in it about places. The admixture figures of my B-060 note are from the same kit.
 
 ## 000000000000000000000000000000000000. B-060 (14 Nov): DNA, shared with you on Kevin's order: what admixture says about where these people were from
 

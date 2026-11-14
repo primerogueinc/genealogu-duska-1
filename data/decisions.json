@@ -1318,5 +1318,35 @@
   "date": "2026-11-14",
   "decided": "A result that contradicted the paper tree would be reported to the owner as a number and not published as a conclusion about anyone's parentage.",
   "why": "It would concern a man whose status is unknown, and one computation is not proof."
+ },
+ {
+  "id": "DEC-221",
+  "date": "2026-11-14",
+  "decided": "The grandfather's raw file is held like the owner's: nothing public, nothing sent outside, nothing read that bears on health.",
+  "why": "The man is dead; his living relatives are in the file. The override lets me read it, and one comparison is all the genealogy needs."
+ },
+ {
+  "id": "DEC-222",
+  "date": "2026-11-14",
+  "decided": "H-097 is raised and marked solved on the comparison together with the paper.",
+  "why": "A record with a registration number names the father (the 1984 form); the DNA measures the grandfather. X-009 asks for a record in hand; there are two kinds here."
+ },
+ {
+  "id": "DEC-223",
+  "date": "2026-11-14",
+  "decided": "The amount shared is given in megabases and per cent of length, with no centimorgan figure.",
+  "why": "No genetic map is to hand, and a made-up conversion would be a guess dressed as a measure."
+ },
+ {
+  "id": "DEC-224",
+  "date": "2026-11-14",
+  "decided": "My prediction is reported as slightly missed.",
+  "why": "I wrote 'between a fifth and a third' of the DNA; the measure is 19.8 per cent. The published range for a grandparent is wider than mine and contains it."
+ },
+ {
+  "id": "DEC-225",
+  "date": "2026-11-14",
+  "decided": "The owner's field-note instructions are relayed to the Demko agent in my note to it and in the Project copy.",
+  "why": "S-000-31."
  }
 ]

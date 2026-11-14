@@ -193,6 +193,22 @@
       "file_in_repo": false,
       "document": "D-016-16",
       "held": "raw genotype data of a living person"
+    },
+    {
+      "file": "Steve_Duska_dna-data-2022-01-04.zip",
+      "sha256": "a3ecd06400fbd6fa53681250a4c1389bc74aa58aec3b59cd2250c4204602d272",
+      "bytes": 5886388,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 3,
+      "file_in_repo": false,
+      "document": "D-016-17",
+      "contains": {
+        "file": "AncestryDNA.txt",
+        "sha256": "7983939e460a5134229a647416ba831469dddc1a43d231d7e026b7213685cd5b",
+        "bytes": 18108722
+      },
+      "held": "raw genotype data; the man is dead, his living relatives are in it"
     }
   ],
   "copies": [
