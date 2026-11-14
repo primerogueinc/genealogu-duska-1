@@ -171,6 +171,52 @@
       "file_in_repo": false,
       "document": "D-016-14",
       "held": "shows a GEDmatch kit number"
+    },
+    {
+      "file": "genome_Kevin_Duska_v5_Full_20220103224202.txt",
+      "sha256": "7e2656da61f718210107cd5d49583f808eb5faf4ce2310538c0b23fb2d687726",
+      "bytes": 16647052,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 2,
+      "file_in_repo": false,
+      "document": "D-016-15",
+      "held": "raw genotype data of a living person"
+    },
+    {
+      "file": "AncestryDNA.txt",
+      "sha256": "e2af46012b274d84b78a48eac4ca41758bb4fbd4c9bd279e3a0192b988827860",
+      "bytes": 18108722,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 2,
+      "file_in_repo": false,
+      "document": "D-016-16",
+      "held": "raw genotype data of a living person"
+    }
+  ],
+  "copies": [
+    {
+      "file": "Kevin_Duska_23_and_Me_genome_Kevin_Duska_v5_Full_20220103224202.zip",
+      "sha256": "aa2d5754a91c9c08d598d551b561d043a8a6913e33b409d062ca470ddb942f63",
+      "bytes": 5804089,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 2,
+      "file_in_repo": false,
+      "contains": "D-016-15",
+      "note": "A zip holding one file, byte for byte the text file logged as D-016-15."
+    },
+    {
+      "file": "Kevin_Duska_Ancestry_dna-data-2022-01-04.zip",
+      "sha256": "a78f34edeaf5d6f2e86859233126359179db072492f2bc8744cdea89ff1525d0",
+      "bytes": 5886542,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 2,
+      "file_in_repo": false,
+      "contains": "D-016-16",
+      "note": "A zip holding one file, byte for byte the text file logged as D-016-16."
     }
   ]
 }

@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 14 Nov 2026, after Duska batch B-060.
+- Last updated: 14 Nov 2026, after Duska batch B-061.
+
+## 0000000000000000000000000000000000. New at B-061
+
+- `D-016-15`, `D-016-16`: two more `held` documents in `F-016` (no image, no `dna` field). The folder's manifest gains `copies`. `sources.json`: `S-000-28`, `S-528`, `S-529`.
 
 ## 000000000000000000000000000000000. New at B-060
 

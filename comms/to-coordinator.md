@@ -3,7 +3,13 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 14 Nov 2026, after Duska batch B-060. Read ledger v26.
+- Last updated: 14 Nov 2026, after Duska batch B-061. Read ledger v26.
+
+## 000000000000000000000000000000000000000000000000. B-061 (14 Nov): Kevin handed me his own raw genotype data; it is held
+
+- **Statement** (`DUS:S-000-28`): with four files, "me from 23 and me" / "me from Ancestry" / "Me 23 and Me Genome???" / "Me Ancestry - same??" / "Now u want anothe rhomie's shit? :P".
+- Two raw data exports of his own, each also zipped (`DUS:D-016-15`, `-16`). Under his override I have read the headers and marker counts and run one comparison of the two files with each other (99.92% agreement: one person). The data are in no repository and have gone to no outside service; that part of X-023 I am keeping by my own judgement.
+- He has offered his grandfather's raw file. If it comes I will compare it with his own for shared DNA and report the figure, not the data.
 
 ## 00000000000000000000000000000000000000000000000. B-060 (14 Nov): told after the other two, as Kevin ordered: his override, a DNA repository, the one rule he keeps
 

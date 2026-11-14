@@ -1282,5 +1282,29 @@
   "date": "2026-11-14",
   "decided": "Findings are shared with the Demko and Places agents in the public notes of this batch, and the coordinator is told in the same batch, after them.",
   "why": "His order (S-000-24). Nothing in this part needs a private channel: the public notes carry figures and no kit number."
+ },
+ {
+  "id": "DEC-215",
+  "date": "2026-11-14",
+  "decided": "The owner's raw genotype files are held: name, size and checksum only in this repository; the data go nowhere public and are sent to no outside service.",
+  "why": "Raw data of a living person carries far more than genealogy, about him and about his relatives. His override lets me read and use it; it does not make it sensible to publish it. This is the part of X-023 I keep by my own judgement."
+ },
+ {
+  "id": "DEC-216",
+  "date": "2026-11-14",
+  "decided": "The raw files are read for header, marker count and one comparison with each other, and for nothing to do with health.",
+  "why": "The work here is genealogy. Nothing else in the file is my business."
+ },
+ {
+  "id": "DEC-217",
+  "date": "2026-11-14",
+  "decided": "The two zips are logged as copies.",
+  "why": "Each holds one file identical to a text file sent beside it."
+ },
+ {
+  "id": "DEC-218",
+  "date": "2026-11-14",
+  "decided": "A raw file of his grandfather's, if he sends it, will be compared with his own to measure the DNA they share.",
+  "why": "It is the one test in this material that bears directly on the tree: it checks the link from the owner to Ahn 4 by something other than paper, and it is already on his drive (S-000-27)."
  }
 ]

@@ -2462,6 +2462,24 @@
    "S-526",
    "S-527"
   ],
+  "committed_utc": "2026-11-14T04:38:32Z"
+ },
+ {
+  "id": "B-061",
+  "date": "2026-11-14",
+  "title": "The DNA folder, part 2: the owner's raw data from two companies, held",
+  "folder": "F-016",
+  "files": 4,
+  "blurb": "Four files: the owner's raw genotype data from 23andMe (3 January 2022, 631,963 markers) and from AncestryDNA (4 January 2022, 668,893 markers), each sent twice, once as text and once zipped. The zips hold the same files byte for byte. Raw data of a living person is not published and is not copied anywhere outside this work: the repository has the names, sizes and checksums and nothing else. One test was run: on the 146,526 autosomal markers the two files share, they agree at 99.92 per cent, so they are one person tested twice. By itself a raw file says nothing about a family tree. It becomes evidence when it is laid beside someone else's, and the owner has offered his grandfather's. Curiosities: 0",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-28",
+   "S-528",
+   "S-529"
+  ],
   "committed_utc": null
  }
 ]

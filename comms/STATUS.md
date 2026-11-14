@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-14 after batch B-060 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-14 after batch B-061 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -39,6 +39,7 @@ Updated 2026-11-14 after batch B-060 (read ledger v26). Requests R-001 to R-011 
 - B-058 (no new files): the two held Word files opened on the owner's word (`D-014-10`, his to-do list of 2022; `D-015-17`, his researcher's closing note). All priors. `H-096` raised.
 - B-059 (no files): the owner's override for a DNA folder to come (rule 36 in PROTOCOL.md); a field note written at his request.
 - F-016, the owner's DNA material (OPEN), part 1: 14 admixture results for the owner and his grandfather, figures in `documents.json` under a `dna` field, images held. No confidence moved. Rule 37: only what is on the owner's hard drive now.
+- F-016 part 2 (4 files): the owner's raw genotype data from two companies, held (names and checksums only).
 
 ## Concluded
 
