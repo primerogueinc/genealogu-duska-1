@@ -1,0 +1,227 @@
+{
+  "note": "What the DNA folder (F-016) showed, gathered in one place. Derived by hand from the documents and hypotheses named; where they differ, they rule.",
+  "findings": [
+    {
+      "id": "DNA-01",
+      "title": "The three youngest generations are joined by blood",
+      "kind": "finding",
+      "status": "documented",
+      "text": "Kevin and Štefan have the same Y chromosome at every one of 1,638 markers their test chips share, and they share 1,566 to 1,568 cM of DNA by three separate measures, which is what a grandparent and grandchild share. A man gets his Y from his father, so the link runs through Kevin's father. This is the only link in the tree proved by something other than paper.",
+      "documents": [
+        "D-016-17",
+        "D-016-23",
+        "D-016-32",
+        "D-016-43"
+      ],
+      "hypotheses": [
+        "H-097"
+      ],
+      "leads": [],
+      "people": [
+        "P-001",
+        "P-002",
+        "P-004"
+      ]
+    },
+    {
+      "id": "DNA-02",
+      "title": "The male line's branch of the Y tree",
+      "kind": "finding",
+      "status": "documented",
+      "text": "Kevin's deep Y test puts him on the branch R-FTB41229, which the testing company says formed about 400 BCE, under R-Z92 and R-Z280, the trunk commonest among Slavic and Baltic men. Štefan's ordinary test reads as R-Z92. If the paper line is right, Michal, András and the elder György carried the same Y. It leans, weakly, toward an East Slavic origin for the male line and is worth about five points in a hundred to that question.",
+      "documents": [
+        "D-016-33",
+        "D-016-36",
+        "D-016-37",
+        "D-016-38",
+        "D-016-42"
+      ],
+      "hypotheses": [
+        "H-091"
+      ],
+      "leads": [
+        "L-027"
+      ],
+      "people": [
+        "P-001",
+        "P-004",
+        "P-008",
+        "P-016",
+        "P-032"
+      ]
+    },
+    {
+      "id": "DNA-03",
+      "title": "Nobody is near on the male line",
+      "kind": "no result",
+      "status": "prior",
+      "text": "The deep Y test's match list is empty. Kevin carries 23 variants no other tested man has, which is most of two thousand years of a line on its own. Twenty-five men match at the two shallowest levels and none is a Duska. So no Duska of any other branch has taken the test, and the Y cannot yet say whether the Catholic Duskas of Szenna and the Reformed Duskas of Solymos were one family. One man of the other family would settle it.",
+      "documents": [
+        "D-016-33",
+        "D-016-34",
+        "D-016-35",
+        "D-016-36"
+      ],
+      "hypotheses": [
+        "H-057",
+        "H-042",
+        "H-091"
+      ],
+      "leads": [],
+      "people": []
+    },
+    {
+      "id": "DNA-04",
+      "title": "Michal Duska and Maria Demko were not near cousins",
+      "kind": "finding",
+      "status": "documented",
+      "text": "Their son's DNA has no stretch where both copies match, which is the mark cousin parents leave. Each of them had a grandmother born Hresko. Had those two women been sisters, the couple would have been second cousins and some such mark would be expected. So the two Hresko families were probably not close kin.",
+      "documents": [
+        "D-016-24"
+      ],
+      "hypotheses": [
+        "H-098"
+      ],
+      "leads": [],
+      "people": [
+        "P-008",
+        "P-009",
+        "P-035"
+      ]
+    },
+    {
+      "id": "DNA-05",
+      "title": "A match who lists Nyemcsik",
+      "kind": "lead",
+      "status": "open",
+      "text": "One person shares 34 cM with Štefan on one database, 32 cM on another, and 20 cM with Kevin, and gives Nyemcsik as one of 32 surnames of their ancestors. Štefan's father's mother was Anna Nyemcsik of Szenna and the name is rare. The same list has other names from the region, so the shared DNA need not have come that way. Where the match's Nyemcsik lived is in the match's own tree, which is not opened.",
+      "documents": [
+        "D-016-18",
+        "D-016-32",
+        "D-016-43"
+      ],
+      "hypotheses": [
+        "H-099",
+        "H-086"
+      ],
+      "leads": [
+        "L-033"
+      ],
+      "people": [
+        "P-017",
+        "P-034"
+      ]
+    },
+    {
+      "id": "DNA-06",
+      "title": "A match who lists a Dusko married to a Hornyák",
+      "kind": "lead",
+      "status": "open",
+      "text": "One person shares a single small piece of DNA with Štefan, 9 cM, and lists the ancestral pair Dusko/Hornyak. The archive has two Duska men of Szenna with Hornyák wives: Joannes, buried in 1830, and György, with children from 1869. It is the only time the surname of the line appears in a stranger's file. A share that small is real about as often as not, so this is a pointer to the registers and no more.",
+      "documents": [
+        "D-016-43"
+      ],
+      "hypotheses": [
+        "H-100",
+        "H-079"
+      ],
+      "leads": [
+        "L-037"
+      ],
+      "people": [
+        "P-032"
+      ]
+    },
+    {
+      "id": "DNA-07",
+      "title": "Štefan's nearest relative bears the Demko name",
+      "kind": "lead",
+      "status": "open",
+      "text": "After Kevin, the closest match to Štefan in any database is a person with a Demko surname: 106 cM, longest piece 36 cM, about what second cousins share. The same person is 25 cM to Kevin. That is on Maria Demko's side and belongs to the Demko agent, who found it independently and holds it as its own hypothesis.",
+      "documents": [
+        "D-016-32",
+        "D-016-43"
+      ],
+      "hypotheses": [],
+      "leads": [
+        "L-034",
+        "L-035"
+      ],
+      "people": [
+        "P-009"
+      ]
+    },
+    {
+      "id": "DNA-08",
+      "title": "A 51 cM match with one surname: Mulicak",
+      "kind": "lead",
+      "status": "open",
+      "text": "Štefan's third match shares 51 cM, longest piece 28 cM, and lists a single ancestral surname, Mulicak. The name is in neither tree. It is with both line agents and the Places agent.",
+      "documents": [
+        "D-016-43"
+      ],
+      "hypotheses": [],
+      "leads": [
+        "L-036"
+      ],
+      "people": []
+    },
+    {
+      "id": "DNA-09",
+      "title": "The X chromosome belongs to the mothers",
+      "kind": "finding",
+      "status": "documented",
+      "text": "A man's X comes from his mother alone. So Kevin and Štefan share none, which is what the comparison shows, and every X match of Štefan's is on Maria Demko's side. His X list and Kevin's have no kit in common out of 955. Nothing on the X bears on the Duska line.",
+      "documents": [
+        "D-016-26",
+        "D-016-27"
+      ],
+      "hypotheses": [],
+      "leads": [],
+      "people": [
+        "P-009"
+      ]
+    },
+    {
+      "id": "DNA-10",
+      "title": "No close relatives, and none of the tree's surnames among the near ones",
+      "kind": "no result",
+      "status": "prior",
+      "text": "Across three databases and some nine thousand match rows, nobody but Kevin is closer to Štefan than about a second cousin. On the largest list his nearest stranger is 52 cM. No match bears the names Duska, Krak, Nyemcsik or Kocsis. The databases are mostly North American, and the villages sent few people who have tested.",
+      "documents": [
+        "D-016-18",
+        "D-016-32",
+        "D-016-43"
+      ],
+      "hypotheses": [],
+      "leads": [],
+      "people": []
+    },
+    {
+      "id": "DNA-11",
+      "title": "Ancestry percentages",
+      "kind": "finding",
+      "status": "prior",
+      "text": "Fourteen charts from several calculators. For Štefan the largest parts are called Baltic, East Central European or North European, depending on the calculator. They agree with the records about the region and add nothing about any person.",
+      "documents": [
+        "D-016-01"
+      ],
+      "hypotheses": [
+        "H-091"
+      ],
+      "leads": [],
+      "people": []
+    },
+    {
+      "id": "DNA-12",
+      "title": "What was read and what was not",
+      "kind": "method",
+      "status": "prior",
+      "text": "Everything here was sent by the owner, who waived the usual rule that keeps DNA away from a blind rebuild. No living match is named, no match's family tree was opened and nobody was written to. Raw genotype files are in no repository. Kevin's mother's side, which is most of his own match lists and all of his mitochondrial and X results, was not read. Nobody is put on the tree on DNA alone: a match is a pointer to a register.",
+      "documents": [],
+      "hypotheses": [],
+      "leads": [],
+      "people": []
+    }
+  ]
+}

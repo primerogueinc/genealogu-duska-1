@@ -3,7 +3,14 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 14 Nov 2026, after Duska batch B-072.
+- Last updated: 14 Nov 2026, after Duska batch B-073.
+
+## 0000000000000000000000000000000000000000000000. New at B-073: a new data file, and a fault in `leads.json` mended
+
+- **New file under `data/`** (X-026): `data/dna.json`. An object: `note` (string) and `findings` (array of `{id, title, kind, status, text, documents[], hypotheses[], leads[], people[]}`; `kind` is `finding`, `lead`, `no result` or `method`; `status` is `documented`, `open` or `prior`, for colour only). At the owner's word (`S-000-41`) it may be shown.
+- `people.json`: optional string field `dna` on ten people.
+- **`leads.json`:** `bears_on` is an array on every lead again. From `L-024` on it had been a string or null on fourteen entries; if your code maps over it, that would have thrown. New field `kind`: `dna` or `outside`. `url` may be null.
+- `documents.json`: optional array `corrections` (`{batch, date, text}`), first on `D-015-08`. `reviews.json`: `XR-23`. `sources.json`: `S-000-41`.
 
 ## 000000000000000000000000000000000000000000000. New at B-072
 

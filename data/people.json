@@ -17,7 +17,8 @@
    "S-530"
   ],
   "note": "Starting point of the line. Raised by his grandparents, Steve and Joan (Ahn 4 and Ahn 5), by his own statement, which he gave as public (S-000-25). His raw DNA file and his grandfather's share one Y chromosome and about a fifth of their DNA in long pieces: grandfather and grandson (D-016-17, H-097).",
-  "owner": "Duska"
+  "owner": "Duska",
+  "dna": "Tested: autosomal at three companies, a deep Y-chromosome test and a mitochondrial test. His Y branch is R-FTB41229. Nobody is near him on the deep Y test and he carries 23 variants found in no other tested man (D-016-35 to D-016-38). He shares 1,566 to 1,568 cM with Ahn 4 by three measures, a grandparent's share (H-097, solved)."
  },
  {
   "id": "P-002",
@@ -39,7 +40,8 @@
   ],
   "note": "Born in Montréal by his son's statement (S-000-5). That puts his father, Ahn 4, in Montréal by 1962. A Québec statistical return of marriage of 1984 names his father as Steve Duska, born in Czechoslovakia, who also signs as a witness (S-249; image held). The link to Ahn 4 no longer rests on a statement alone. The bride of 1984 was Lyne Lefebvre, born in Montréal in 1964, Kevin's mother, who has died by his statement (S-000-10). She is named here as his wife; her own line is outside this rebuild. Named as the grandson Kevin in Mike Duska's death notice of 1974 (D-006-20).",
   "owner": "Duska",
-  "living_basis": "Kevin does not know whether his father is living (ledger v8, X-016). Shown by name and year only."
+  "living_basis": "Kevin does not know whether his father is living (ledger v8, X-016). Shown by name and year only.",
+  "dna": "Not tested. The two men either side of him in this line share a Y chromosome and a grandparent's share of DNA, so both links through him are borne out by blood (H-097)."
  },
  {
   "id": "P-004",
@@ -111,7 +113,8 @@
   "burial": {
    "date": "after the funeral of 27 Jun 2018",
    "place": "Notre-Dame-des-Neiges cemetery, Montréal (by the obituary; the plot is not stated)"
-  }
+  },
+  "dna": "Tested once in his lifetime, an ordinary autosomal test; the file was read out in January 2022. His Y chromosome is the same as Ahn 1's at 1,638 of 1,638 markers on the chip, and the company places it on R-Z92, the trunk of Ahn 1's branch (D-016-17, D-016-42). His parents were not near cousins (D-016-24, H-098). After Ahn 1 his nearest relative in any database is a person with a Demko surname at 106 cM (L-035). Two of his matches list a surname of this tree among their ancestors: Nyemcsik (H-099) and Dusko with Hornyák (H-100). Both are leads."
  },
  {
   "id": "P-005",
@@ -195,7 +198,8 @@
   "burial": {
    "date": "received 4 Feb 1974",
    "place": "Notre-Dame-des-Neiges cemetery, Montréal: section TR, concession 6650"
-  }
+  },
+  "dna": "Not tested. If the paper line is right he carried the Y chromosome found in his son and great-grandson (R-FTB41229, under R-Z92). That is inferred from descent, not shown by DNA."
  },
  {
   "id": "P-009",
@@ -226,7 +230,8 @@
   "burial": {
    "date": "received 11 Sep 1950",
    "place": "Notre-Dame-des-Neiges cemetery, Montréal: section TR, concession 6650"
-  }
+  },
+  "dna": "Her son's X chromosome and mitochondrial DNA are hers. His X-chromosome matches (466 on one database, 12 on another) and his nearest match, a Demko-surnamed person at 106 cM, are all on her side. They are with the Demko agent (L-035)."
  },
  {
   "id": "P-016",
@@ -265,7 +270,8 @@
     "date": "1930",
     "place": "Senné, house 145"
    }
-  ]
+  ],
+  "dna": "Not tested. If the paper line is right he carried the Y chromosome found in Ahn 4 and Ahn 1. Inferred from descent, not shown by DNA."
  },
  {
   "id": "P-017",
@@ -285,7 +291,8 @@
   ],
   "note": "Wife of András Duska from 18 January 1892; twelve children, nine living in 1930. Her birth date in the census is the date of the baptism of Anna, daughter of János Nyemcsik and Erzsébet Hresko, in the Senné register (H-051). She could read. The registers show thirteen children, eight of them buried by 1918 (FG-49); the census figures above are to be read again.",
   "owner": "Duska",
-  "living_basis": "Born 1872."
+  "living_basis": "Born 1872.",
+  "dna": "A DNA match of her grandson Ahn 4 (34 cM and 32 cM to him by two databases, 20 cM to Ahn 1) lists Nyemcsik among ancestral surnames. A lead to her family, not proof of anything (H-099)."
  },
  {
   "id": "P-032",
@@ -309,7 +316,8 @@
   "death": {
    "date": "5 Jan 1908",
    "place": "Ungszenna (Senné), house 3"
-  }
+  },
+  "dna": "Not tested. If the paper line is right he carried the Y chromosome found in Ahn 4 and Ahn 1. Inferred from descent, not shown by DNA. A DNA match of Ahn 4 who lists a Dusko married to a Hornyák may be kin through his family (H-100, a lead)."
  },
  {
   "id": "P-033",
@@ -348,7 +356,8 @@
   ],
   "note": "Roman Catholic cottar of Senné, house 79 ([1866] to 1872), then 77. Named as the father of the bride in the marriage entry of 1892 and of Anna in her baptism of 24 August 1872. Several men of this name lived at Senné; this one is fixed by his wife.",
   "owner": "Duska",
-  "living_basis": "A father by 1866."
+  "living_basis": "A father by 1866.",
+  "dna": "The match of H-099 lists his surname. If that match descends from one of his brothers or sisters, their baptisms at Szenna are where to look."
  },
  {
   "id": "P-035",
@@ -367,6 +376,7 @@
   ],
   "note": "Named as the mother of the bride in the marriage entry of 1892 and of Anna in 1872. Two baptisms write her 'Hresko alias Minarcsin'; her daughter is entered as Anna Minarcsin at her own children's baptisms in the 1890s.",
   "owner": "Duska",
-  "living_basis": "A mother by 1866."
+  "living_basis": "A mother by 1866.",
+  "dna": "Her granddaughter-in-law's side also had a Hresko woman. Ahn 4, grandson of the one family and great-grandson of the other, carries no sign of cousin parents, so the two were probably not sisters (H-098)."
  }
 ]

@@ -1492,5 +1492,35 @@
   "date": "2026-11-14",
   "decided": "H-100 is raised at 40.",
   "why": "One small segment and one pair of surnames. Rule 36 keeps it off the tree."
+ },
+ {
+  "id": "DEC-250",
+  "date": "2026-11-14",
+  "decided": "DNA leads are listed on the site and the DNA findings are carried onto the people they bear on and into a section of their own.",
+  "why": "The owner's word (S-000-41)."
+ },
+ {
+  "id": "DEC-251",
+  "date": "2026-11-14",
+  "decided": "Living matches stay unnamed on the site; a match's surname appears only where it is the lead.",
+  "why": "'If appropriate' in his words; and the matches did not agree to be published."
+ },
+ {
+  "id": "DEC-252",
+  "date": "2026-11-14",
+  "decided": "Men above Ahn 4 are marked as carrying the Y branch by inference only.",
+  "why": "They were not tested; the mark depends on the paper line being right."
+ },
+ {
+  "id": "DEC-253",
+  "date": "2026-11-14",
+  "decided": "The `bears_on` field of every lead is made a list again and each lead gets a `kind`.",
+  "why": "Fourteen leads since L-024 had a bare string or nothing there, which the page's code did not expect."
+ },
+ {
+  "id": "DEC-254",
+  "date": "2026-11-14",
+  "decided": "D-015-08 is corrected on the Demko agent's note: a state registration, not a baptism.",
+  "why": "It holds the paper and I do not."
  }
 ]

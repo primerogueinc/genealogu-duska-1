@@ -7,7 +7,8 @@
    "H-004",
    "H-005"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-002",
@@ -17,7 +18,8 @@
    "H-004",
    "H-005"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-003",
@@ -26,7 +28,8 @@
   "bears_on": [
    "H-006"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-004",
@@ -35,7 +38,8 @@
   "bears_on": [
    "H-007"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-005",
@@ -45,7 +49,8 @@
    "H-002",
    "H-003"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-006",
@@ -55,7 +60,8 @@
    "H-004",
    "H-005"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-007",
@@ -64,7 +70,8 @@
   "bears_on": [
    "H-015"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-008",
@@ -74,7 +81,8 @@
    "H-006",
    "H-015"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-009",
@@ -83,7 +91,8 @@
   "bears_on": [
    "H-015"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-010",
@@ -92,7 +101,8 @@
   "bears_on": [
    "H-017"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-011",
@@ -101,7 +111,8 @@
   "bears_on": [
    "H-018"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-012",
@@ -111,7 +122,8 @@
    "H-005",
    "H-010"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-013",
@@ -120,7 +132,8 @@
   "bears_on": [
    "H-007"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-014",
@@ -129,7 +142,8 @@
   "bears_on": [
    "H-010"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-015",
@@ -139,7 +153,8 @@
    "H-001",
    "H-002"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-016",
@@ -148,7 +163,8 @@
   "bears_on": [
    "H-016"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-017",
@@ -158,7 +174,8 @@
    "H-035",
    "H-036"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-018",
@@ -168,7 +185,8 @@
    "H-030",
    "H-035"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-019",
@@ -177,7 +195,8 @@
   "bears_on": [
    "H-005"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-020",
@@ -187,7 +206,8 @@
    "H-057",
    "H-058"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-021",
@@ -196,7 +216,8 @@
   "bears_on": [
    "H-061"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-022",
@@ -207,7 +228,8 @@
    "H-047",
    "H-007"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-023",
@@ -217,104 +239,141 @@
    "H-048",
    "H-054"
   ],
-  "proof": "lead"
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-024",
   "text": "Four of the owner's word files are lists of links to the Slovakiana portal (slovakiana.sk), one link for each household sheet of the census of 1930: Senné in the Veľké Kapušany district (two versions of the list, 143 and 151 different sheets), Iňačovce (168) and Seňa by Košice (8). They hold a title line and links, nothing else. Use: every household of Senné in 1930 can be read one by one, which would find every Duska house there and the sheets for the houses of György Duska's descendants. Not yet done. The owner, asked whether to do this now: no, at the end (S-000-14).",
   "url": "https://www.slovakiana.sk/",
-  "bears_on": null,
-  "proof": "lead"
+  "bears_on": [],
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-025",
   "text": "The owner's note of a portal search dated '4/3/2022': the census of 1930 returned 10,728 results for the Michalovce district and 4,356 for Veľké Kapušany. A measure of the collection's size, nothing more.",
   "url": "https://www.slovakiana.sk/",
-  "bears_on": null,
-  "proof": "lead"
+  "bears_on": [],
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-026",
   "text": "Places agent, PL-N-041 @fc7360d, from the Prešov archive's catalogue: all four volumes of the Iňačovce Greek Catholic register hold burials. No. 380: deaths 1811 to 1826 at pp. 138 to 165 and 1827 to 1831 at pp. 167 to 190. No. 381: 1831 to 1859 at pp. 154 to 255. No. 382, counted in leaves: 1861 to 1874 at leaves 83 to 141 (leaf 106 is December 1864). No. 383: from 1860, at pp. 215 to 295. All on microfilm 88. The catalogue breaks no. 380 at 1826, where the form of the strips changes.",
   "url": "https://github.com/primerogueinc/duska-and-demko-villages",
-  "bears_on": null,
-  "proof": "lead"
+  "bears_on": [],
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-027",
   "text": "Demko agent, research note DM-B-020 @6623439, on the owner's Y branch R-FTB41229. By that note: the branch sits in haplogroup R1a under Z280 > Z92 > Y4459 > YP5520; a public tree lists two samples on it, one from Kujawsko-Pomorskie in Poland and one with no country; the wider branch Y4459 has 2,226 tested descendants, most of those with a country in Russia (302), Ukraine (120) and Poland (80); Z92 is described as commonest among Balts and East Slavs and low among Poles, Slovaks and Hungarians (a secondary summary the Demko agent marks unchecked). Of the owner's matches the note gives counts only: seventeen men, all at the twelve-marker level; the five tested in full differ from him at 25 to 43 markers; none is on his branch; none is a Duska. Its conclusion: the result 'leans, weakly, toward an eastern origin', cannot tell Rusyn from Slovak, and no male-line relative within the time of records has tested. Taken here as a lead: none of the tree figures is checked by this agent, which has run no search on the branch name (DEC below).",
   "url": "https://github.com/primerogueinc/genealogy-demko-1",
-  "bears_on": "H-091",
-  "proof": "lead"
+  "bears_on": [
+   "H-091"
+  ],
+  "proof": "lead",
+  "kind": "dna"
  },
  {
   "id": "L-028",
   "text": "Tiba is the Hungarian name of Tibava, a village in the present district of Sobrance, in the old county of Ung, twenty to thirty kilometres north-east of Senné; it had a Greek Catholic church (all recalled from training, not sourced). If so, Anna Krak's baptism and her marriage to György Duska belong in the Greek Catholic books that served Tibava. Put to the Places agent at B-057: which parish, which volumes at Prešov, and whether Krak is a Tibava surname.",
   "url": null,
-  "bears_on": "H-094",
-  "proof": "lead"
+  "bears_on": [
+   "H-094"
+  ],
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-029",
   "text": "The Montreal Gazette's obituary page for Michael Duska, published 22 June 2019, as given by the owner. This agent's fetch of the page was refused by the site, so the text in D-015-15 is the owner's paste and has not been compared with the page.",
   "url": "https://montrealgazette.remembering.ca/obituary/michael-duska-1075271255",
-  "bears_on": "H-071",
-  "proof": "lead"
+  "bears_on": [
+   "H-071"
+  ],
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-030",
   "text": "From the owner's list of 2022 (a prior, not a record): a 'Miklo Duska' born about 1890 travelled to the United States in 1913, and a György Duska born 1880 may have moved there. Both could be sons of György the younger of Senné 6 (FG-48: György born 8 February [1880], Miklós born 28 November 1890). United States arrival lists for 1913 would show it. Not searched: a search on the surname could return the owner's own pages.",
   "url": null,
-  "bears_on": "H-060",
-  "proof": "lead"
+  "bears_on": [
+   "H-060"
+  ],
+  "proof": "lead",
+  "kind": "outside"
  },
  {
   "id": "L-031",
   "text": "The kit called Steve's is on GEDmatch. If a list of its matches, or of the segments it shares with the owner's kits, is already saved on the owner's hard drive, it is the part of the DNA material that can test H-057, H-094 and H-096. Admixture cannot. Not asked for: by the owner's rule the agents get what is on the drive now and nothing is run for them (S-000-27). [B-064: the list came (D-016-18). It shows no near relative but the owner and no surname from the tree. What it cannot show without the matches' own family trees is how the 52 cM match and the four above 35 cM are related; those trees are not opened by this agent.]",
   "url": null,
-  "bears_on": "H-057",
-  "proof": "lead"
+  "bears_on": [
+   "H-057"
+  ],
+  "proof": "lead",
+  "kind": "dna"
  },
  {
   "id": "L-032",
   "text": "By the site's own table for 30 shared cM (S-000-34), the 44 matches of the kit named Stefan Duska that lie between 25 and 35 cM (D-016-18) are most likely fourth to sixth cousins of his: about 54 per cent of the probability lies in the four groups from fourth cousin to fifth cousin once removed, and about 11 per cent at third cousin once removed or nearer. A fourth cousin of a man born in 1929 shares with him a couple born about 1790 to 1820, which in this archive is the generation of János Duska and Anna Hornyák and of the oldest house 6: the edge of the registers. So the match list reaches exactly as far back as the paper does and no further.",
   "url": null,
-  "bears_on": "H-079",
-  "proof": "lead"
+  "bears_on": [
+   "H-079"
+  ],
+  "proof": "lead",
+  "kind": "dna"
  },
  {
   "id": "L-033",
   "text": "A DNA match of the grandfather's kit (32.2 cM on GEDmatch) and of the owner (20.18 cM at FamilyTreeDNA) lists Nyemcsik among 32 ancestral surnames (D-016-32). The owner can find the person in his own Family Finder list by that surname. Not named here; not contacted; tree not opened.",
   "url": null,
-  "bears_on": "H-099",
-  "proof": "lead"
+  "bears_on": [
+   "H-099"
+  ],
+  "proof": "lead",
+  "kind": "dna"
  },
  {
   "id": "L-034",
   "text": "The largest match sorted to the owner's father's side at FamilyTreeDNA after his grandfather, 24.96 cM with a longest block of 18.82 cM, bears a surname of the Demko form (D-016-32). For the Demko agent. Not named here.",
   "url": null,
-  "bears_on": "the Demko line",
-  "proof": "lead"
+  "bears_on": [
+   "the Demko line"
+  ],
+  "proof": "lead",
+  "kind": "dna"
  },
  {
   "id": "L-035",
   "text": "The match of L-034 is 106.07 cM to the grandfather in his own FamilyTreeDNA list, longest block 35.56 cM (D-016-43): his nearest relative in any database after the owner, and bearing a Demko-form surname. A share of that size is usual for second cousins or thereabouts (recalled). For the Demko agent. Not named here; not contacted.",
   "url": null,
-  "bears_on": "the Demko line",
-  "proof": "lead"
+  "bears_on": [
+   "the Demko line"
+  ],
+  "proof": "lead",
+  "kind": "dna"
  },
  {
   "id": "L-036",
   "text": "The grandfather's third match at FamilyTreeDNA, 51.22 cM with a longest block of 27.51 cM, lists one ancestral surname: Mulicak (D-016-43). The name is in neither tree. For both line agents and the Places agent.",
   "url": null,
-  "bears_on": "unplaced",
-  "proof": "lead"
+  "bears_on": [
+   "unplaced"
+  ],
+  "proof": "lead",
+  "kind": "dna"
  },
  {
   "id": "L-037",
   "text": "A match of 9.35 cM to the grandfather lists the ancestral pair Dusko/Hornyak (D-016-43). The owner can find the row in the grandfather's list by the surname. Not named here; not contacted; tree not opened.",
   "url": null,
-  "bears_on": "H-100",
-  "proof": "lead"
+  "bears_on": [
+   "H-100"
+  ],
+  "proof": "lead",
+  "kind": "dna"
  }
 ]

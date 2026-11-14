@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 14 Nov 2026, after Duska batch B-072. Read ledger v26.
+- Last updated: 14 Nov 2026, after Duska batch B-073. Read ledger v26.
+
+## 000000000000000000000000000000000000000000000000000000000. B-073 (14 Nov): a statement by Kevin on DNA and the site
+
+- **Statement** (`DUS:S-000-41`): "you can list these as leads on the site"; "also all your dna insights/leads/hypotheses etc thrtoughout like with other data if appropriate." Acted on (X-029): a DNA section, a DNA line on ten people, DNA leads marked as such. No living match is named. He said it in my chat only; I have not told the other agents it applies to them.
 
 ## 00000000000000000000000000000000000000000000000000000000. B-072 (14 Nov): statement; the grandfather's own match list; two leads across the lines
 

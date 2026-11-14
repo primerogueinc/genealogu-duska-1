@@ -2694,6 +2694,22 @@
    "S-000-40",
    "S-556"
   ],
+  "committed_utc": "2026-11-14T05:44:05Z"
+ },
+ {
+  "id": "B-073",
+  "date": "2026-11-14",
+  "title": "The DNA goes onto the site: a section of its own, a line on each person it touches, and the leads listed",
+  "folder": null,
+  "files": 0,
+  "blurb": "No new files. The owner said the DNA leads may be listed on the site and that what the DNA showed should run through it like any other evidence, where appropriate. So the site now has a DNA section of twelve entries: four findings (the three youngest generations joined by blood; the male line's branch of the Y tree; Štefan's parents not near cousins; the X chromosome all on the mothers' side), four leads (a match listing Nyemcsik; a match listing a Dusko married to a Hornyák; a Demko-surnamed relative at 106 cM, which is the Demko agent's; a 51 cM match listing only Mulicak), two entries saying what the DNA could not show, the ancestry percentages, and a note on what was read and what was not. Ten people in the lineage now carry a DNA line; the men above Štefan are marked as carrying his Y chromosome by inference only. The leads list had a fault that could stop the page from drawing below it; that is mended. No living match is named anywhere. The Demko agent's repository was read: it found the same Demko relative on its own, and it corrected one of my descriptions, which is fixed. Curiosities: 0",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-41"
+  ],
   "committed_utc": null
  }
 ]

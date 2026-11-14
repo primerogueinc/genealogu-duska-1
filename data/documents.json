@@ -26137,7 +26137,7 @@
     "no": "1 of 1",
     "date": "9 September 1950",
     "from": "Online index to deaths (derivative: a database built from registrations)",
-    "abstract": "DEMKO, MARY. Sex F. Date of birth 22-8-1906. Age 0 [the field is empty in the data; she was 44]. Residence Montréal. Spouse: DUSKA. Date of death 9-9-1950. No parents. She is under her maiden name, as Québec enters married women. The birth date is the one in the Greek Catholic baptism book of Iňačovce to the day, so the index and the baptism are of one woman.",
+    "abstract": "DEMKO, MARY. Sex F. Date of birth 22-8-1906. Age 0 [the field is empty in the data; she was 44]. Residence Montréal. Spouse: DUSKA. Date of death 9-9-1950. No parents. She is under her maiden name, as Québec enters married women. The birth date is the one in the state registration of her birth of 1906 held by the Demko agent, to the day, so the index and that registration are of one woman.",
     "reading": "high: screen text"
    }
   ],
@@ -26157,9 +26157,16 @@
    "compared": [
     "D-013-99, the cemetery index (received 11 September 1950)",
     "D-X01-03, the deed of 1966, which gives the same day of death",
-    "the Demko agent's baptism of 22 August 1906"
+    "the Demko agent's state registration of her birth, 22 August 1906"
    ]
-  }
+  },
+  "corrections": [
+   {
+    "batch": "B-073",
+    "date": "2026-11-14",
+    "text": "The paper behind 22 August 1906 is the state registration of her birth, not a baptism book; no baptism of hers is in hand. Corrected on the Demko agent's note DM→DU-017."
+   }
+  ]
  },
  {
   "id": "D-015-09",
