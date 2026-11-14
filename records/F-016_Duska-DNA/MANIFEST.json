@@ -285,6 +285,28 @@
       "file_in_repo": false,
       "document": "D-016-23",
       "held": "shows two full kit numbers; a copy with them shortened is in the repo"
+    },
+    {
+      "file": "GEDmatch.pdf [Steve, are your parents related]",
+      "sha256": "d1ee29f9cbe761e6f63ac42a5f851d68b2588a8610e227ae42a5b54036d7c1f5",
+      "bytes": 169745,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 7,
+      "file_in_repo": false,
+      "document": "D-016-24",
+      "held": "shows a full kit number"
+    },
+    {
+      "file": "GEDmatch.pdf [Kevin, are your parents related]",
+      "sha256": "930db72d648f78329d42d0bec0dae873576c213f4c16bf222e863b109632fe9e",
+      "bytes": 169751,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 7,
+      "file_in_repo": false,
+      "document": "D-016-25",
+      "held": "shows a full kit number"
     }
   ],
   "copies": [

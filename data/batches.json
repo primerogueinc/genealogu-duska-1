@@ -2588,6 +2588,26 @@
    "S-000-35",
    "S-536"
   ],
+  "committed_utc": "2026-11-14T04:53:19Z"
+ },
+ {
+  "id": "B-068",
+  "date": "2026-11-14",
+  "title": "The DNA folder, part 7: Štefan's parents were not near cousins, which says something about the two Hresko families",
+  "folder": "F-016",
+  "files": 2,
+  "blurb": "Two reports, and the text of one pasted as well: GEDmatch's 'Are your parents related?' for the kit named Stefan Duska and for the owner. Both come back with nothing: no stretch of DNA where both copies match. For the owner the bare result is recorded and left alone, since it concerns his parents. For Štefan it is the one result in the whole DNA folder that touches the tree above him. His father's mother's mother was Erzsébet Hresko of Szenna. His mother's father's mother was Mária Hreskó of Viszoka. If those two women had been sisters, his parents would have been second cousins and he would be expected to carry the mark of it. He does not. So the two Hresko families were probably not close kin (H-098, 75): sisters unlikely, first cousins still possible. It is a question that sits across both lines, and the Demko agent and the coordinator are told. Curiosities: 1",
+  "raised": [
+   "H-098"
+  ],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-36",
+   "S-537",
+   "S-538"
+  ],
   "committed_utc": null
  }
 ]

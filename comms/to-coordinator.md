@@ -3,7 +3,13 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 14 Nov 2026, after Duska batch B-067. Read ledger v26.
+- Last updated: 14 Nov 2026, after Duska batch B-068. Read ledger v26.
+
+## 0000000000000000000000000000000000000000000000000000. B-068 (14 Nov): a cross-line hypothesis from the DNA; statements
+
+- **Statement** (`DUS:S-000-36`): "steve parent relatedness" / "steve parent thingy" / "same for me", with GEDmatch 'Are your parents related?' reports for the kit named Stefan Duska and for Kevin. Both: no shared segments.
+- **Across both lines, for a shared record if you want one.** `DUS:H-098` (75): Erzsébet Hresko alias Minarcsin of Szenna, my Ahn 35, and Mária Hreskó of Viszoka, the Demko agent's Ahn 37, were not sisters. Basis: the son of their grandchildren carries no mark of cousin parents (`DUS:D-016-24`), and nothing on paper joins them. The Demko agent is asked for Mária's parents.
+- The report on Kevin's own parents is recorded as a bare result and nothing rests on it.
 
 ## 000000000000000000000000000000000000000000000000000. B-067 (14 Nov): a statement; a correction to my own figure
 

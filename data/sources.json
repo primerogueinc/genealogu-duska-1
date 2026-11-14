@@ -576,6 +576,14 @@
   "reliability": "The owner on the nickname in the obituary of 2018 (D-015-01): it was his own name for his grandfather. First-hand."
  },
  {
+  "id": "S-000-36",
+  "batch": "B-068",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 14 Nov 2026 (UTC): 'are your parents related' for his grandfather and for himself",
+  "extract": "\"steve parent relatedness\", with the text of the report pasted; \"steve parent thingy\", with the same as a PDF; \"same for me\", with his own.",
+  "reliability": "The owner identifies the two reports."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -4566,5 +4574,21 @@
   "title": "GEDmatch one-to-one: the kit named Stefan Duska and the owner",
   "extract": "GEDmatch's one-to-one autosomal comparison of the kit named Stefan Duska with the owner's kit RW4…, run in 2026 (the page is stamped 'Ver: Jun 11 2026'). 23 shared segments, 1,567.6 cM in all, which the site gives as 43.697 per cent; the largest is 174.1 cM, the whole of chromosome 10; 'estimated number of generations to MRCA = 1.6'. 139,835 markers used. Chromosomes 10, 20 and 22 are shared from end to end and 1, 4, 12, 14, 17 and 19 for most of their length; chromosomes 3, 5 and 11 not at all. This is the site's version of the comparison I made from the two raw files at B-063 (D-016-17), and it corrects mine in three ways. It finds five short pieces, on chromosomes 7, 8, 9 (two) and 21, that my floor of 7 megabases threw away. It finds nothing on chromosome 11, where I had an 11 Mb stretch: mine lay across the centromere, where markers vary little, and was not real. And it measures in centimorgans, the proper unit: 43.7 per cent of the map on one copy is 21.8 per cent of the grandson's DNA, not the 19.8 I gave from megabases. Every long piece agrees in place and length.",
   "reliability": "The site's standard comparison, in centimorgans, with its settings printed. Better than my own of B-063, which it confirms piece for piece and corrects at the edges. Reading level: high."
+ },
+ {
+  "id": "S-537",
+  "batch": "B-068",
+  "type": "DNA analysis report (a database's computation on one test)",
+  "title": "GEDmatch 'Are your parents related?': the kit named Stefan Duska (KJ4…): no shared segments",
+  "extract": "GEDmatch's 'Are your parents related?' run on the kit named Stefan Duska at 04:52 UTC on 14 November 2026; the owner pasted the text and sent the page as a PDF. It looks in one person's DNA for stretches where both copies are the same, which is what the child of cousins carries. Result: largest segment 0 cM, total above 7 cM 0 cM, 'no shared DNA segments found'. So Michal Duska of Senné and Maria Demko of Iňačovce, Ahn 8 and Ahn 9, were not near cousins. That bears on one thing in the two trees: each has a Hresko woman two generations above them, Erzsébet Hresko alias Minarcsin of Szenna on the Duska side and Mária Hreskó of Viszoka on the Demko side. Had those two been sisters, Michal and Maria would have been second cousins, and their son would be expected to show some such stretches (H-098).",
+  "reliability": "A standard check for cousin marriage in the parents of the person tested. A clean result rules out near cousins; it cannot rule out distant ones. Reading level: high."
+ },
+ {
+  "id": "S-538",
+  "batch": "B-068",
+  "type": "DNA analysis report (a database's computation on one test)",
+  "title": "GEDmatch 'Are your parents related?': the owner's kit ST1…: no shared segments",
+  "extract": "The same tool run on the owner's kit ST1… at 04:53 UTC: largest segment 0 cM, total 0 cM, no shared segments. It concerns his own parents, one of whom belongs to a line outside this rebuild, so the bare result is recorded and nothing is built on it.",
+  "reliability": "A standard check for cousin marriage in the parents of the person tested. A clean result rules out near cousins; it cannot rule out distant ones. Reading level: high."
  }
 ]

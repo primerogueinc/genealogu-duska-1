@@ -1396,5 +1396,17 @@
   "date": "2026-11-14",
   "decided": "My own figure of B-063 is corrected in place, with the correction dated, and the site's figure is preferred.",
   "why": "The site measures in centimorgans with a tested method. Mine was a rough check; it agreed on every long piece, missed five short ones and invented one."
+ },
+ {
+  "id": "DEC-234",
+  "date": "2026-11-14",
+  "decided": "The report on the owner's own parents is recorded as a bare result.",
+  "why": "One of his parents belongs to a line outside this rebuild, and both may be living."
+ },
+ {
+  "id": "DEC-235",
+  "date": "2026-11-14",
+  "decided": "H-098 is raised across both lines and sent to the Demko agent and the coordinator.",
+  "why": "It concerns an ancestor on each tree; neither line agent can settle it alone."
  }
 ]

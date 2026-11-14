@@ -548,6 +548,11 @@
     "batch": "B-007",
     "effect": "65% to 70%",
     "note": "D-004-03: one clerk writes Hreskó and Hricko on adjacent lines for two different people."
+   },
+   {
+    "batch": "B-068",
+    "effect": "no change",
+    "note": "A new and separate Hresko question is raised as H-098, on the Szenna and Viszoka women. It does not bear on Hriczko of Szina."
    }
   ]
  },
@@ -2726,5 +2731,24 @@
    }
   ],
   "question": "Is the paper tree true at its foot?"
+ },
+ {
+  "id": "H-098",
+  "statement": "Erzsébet Hresko alias Minarcsin of Szenna (Ahn 35) and Mária Hreskó of Viszoka (the Demko agent's Ahn 37) were not sisters, and the two Hresko families are not near kin.",
+  "confidence": 75,
+  "basis": "Paper: they are in different villages and different churches, a Roman Catholic cottar's wife at Szenna with a second surname, Minarcsin, and a Greek Catholic wife at Viszoka; nothing in either set of registers joins them, and the surname is common in the county (H-017 is the same kind of question). DNA: the grandson of the one married the granddaughter of the other, and their son's genome has no stretch of 7 cM or more where both copies match (D-016-24). Second cousins' children usually carry some; third cousins' children often carry none (both recalled, not sourced). So sisters are unlikely and first cousins are not excluded.",
+  "test": "The baptisms of the two women, each with her parents: Erzsébet at Szenna or wherever Minarcsin points, Mária in the Viszoka book the Demko agent holds. The Demko agent is asked what it has on Mária's parents.",
+  "status": "open",
+  "raised": "B-068",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-068",
+    "effect": "raised at 75",
+    "note": "Raised on the one result in the DNA folder that touches the tree above Ahn 4. A question across both lines: the Demko agent and the coordinator are told."
+   }
+  ],
+  "question": "Do the Duska and Demko trees share an ancestor?"
  }
 ]

@@ -28136,5 +28136,117 @@
     "D-016-17, this agent's own comparison of the raw files: the same long pieces; five short ones missed and one false"
    ]
   }
+ },
+ {
+  "id": "D-016-24",
+  "folder": "F-016",
+  "batch": "B-068",
+  "source": "S-537",
+  "file": "GEDmatch.pdf [Steve, are your parents related]",
+  "sha256": "d1ee29f9cbe761e6f63ac42a5f851d68b2588a8610e227ae42a5b54036d7c1f5",
+  "wide": false,
+  "held": "The PDF shows a full kit number. Its text is transcribed with the number shortened; the file is not in this repository.",
+  "title": "GEDmatch 'Are your parents related?': the kit named Stefan Duska (KJ4…): no shared segments",
+  "span": "run 14 November 2026",
+  "language": "English",
+  "collector_label": "steve parent thingy",
+  "family": "FG-62",
+  "route": "duska",
+  "part": "part 7",
+  "provenance": {
+   "archive": "GEDmatch, the tool 'Are your parents related?', software version of 3 September 2025",
+   "fond_or_film": "a scan of one kit for runs where both copies match",
+   "book": "not applicable",
+   "page_or_image": "a two-page PDF printed from the browser, 169,745 bytes",
+   "obtained": "Sent through chat by the owner on 14 Nov 2026 (UTC), minutes after he ran it."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "14 November 2026",
+    "from": "DNA analysis report (a database's computation on one test)",
+    "abstract": "GEDmatch's 'Are your parents related?' run on the kit named Stefan Duska at 04:52 UTC on 14 November 2026; the owner pasted the text and sent the page as a PDF. It looks in one person's DNA for stretches where both copies are the same, which is what the child of cousins carries. Result: largest segment 0 cM, total above 7 cM 0 cM, 'no shared DNA segments found'. So Michal Duska of Senné and Maria Demko of Iňačovce, Ahn 8 and Ahn 9, were not near cousins. That bears on one thing in the two trees: each has a Hresko woman two generations above them, Erzsébet Hresko alias Minarcsin of Szenna on the Duska side and Mária Hreskó of Viszoka on the Demko side. Had those two been sisters, Michal and Maria would have been second cousins, and their son would be expected to show some such stretches (H-098).",
+    "reading": "high: printed text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The text of the report, chromosome pictures left out",
+    "original": "GEDmatch - Are your parents related?\nSoftware Version Sep 3 2025\nEvaluating Kit KJ4… for related parents.\nMinimum threshold size to be included in total = 200 SNPs\nMinimum segment cM to be included in total = 7.0 cM\nLargest segment = 0 cM\nTotal of segments > 7 cM = 0 cM\nNo shared DNA segments found\nThis analysis indicates that your parents are probably not related within recent generations.\nReport generated on Sat Nov 14 04:52:09",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Steve",
+   "tool": "Are your parents related?",
+   "largest_cm": 0,
+   "total_cm_over_7": 0
+  },
+  "object": {
+   "kind": "A browser print of a GEDmatch report",
+   "form": "A heading, the settings, a blank coloured bar for each of the 22 chromosomes, then the totals and the time of the run.",
+   "does_not_fit": "Made tonight, not found on the drive (S-000-27); the owner's doing.",
+   "made_by": "GEDmatch, on the owner's request.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other report of the pair"
+   ]
+  }
+ },
+ {
+  "id": "D-016-25",
+  "folder": "F-016",
+  "batch": "B-068",
+  "source": "S-538",
+  "file": "GEDmatch.pdf [Kevin, are your parents related]",
+  "sha256": "930db72d648f78329d42d0bec0dae873576c213f4c16bf222e863b109632fe9e",
+  "wide": false,
+  "held": "The PDF shows a full kit number. Its text is transcribed with the number shortened; the file is not in this repository.",
+  "title": "GEDmatch 'Are your parents related?': the owner's kit ST1…: no shared segments",
+  "span": "run 14 November 2026",
+  "language": "English",
+  "collector_label": "same for me",
+  "family": null,
+  "route": "duska",
+  "part": "part 7",
+  "provenance": {
+   "archive": "GEDmatch, the tool 'Are your parents related?', software version of 3 September 2025",
+   "fond_or_film": "a scan of one kit for runs where both copies match",
+   "book": "not applicable",
+   "page_or_image": "a two-page PDF printed from the browser, 169,751 bytes",
+   "obtained": "Sent through chat by the owner on 14 Nov 2026 (UTC), minutes after he ran it."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "14 November 2026",
+    "from": "DNA analysis report (a database's computation on one test)",
+    "abstract": "The same tool run on the owner's kit ST1… at 04:53 UTC: largest segment 0 cM, total 0 cM, no shared segments. It concerns his own parents, one of whom belongs to a line outside this rebuild, so the bare result is recorded and nothing is built on it.",
+    "reading": "high: printed text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The text of the report, chromosome pictures left out",
+    "original": "GEDmatch - Are your parents related?\nSoftware Version Sep 3 2025\nEvaluating Kit ST1… for related parents.\nMinimum threshold size to be included in total = 200 SNPs\nMinimum segment cM to be included in total = 7.0 cM\nLargest segment = 0 cM\nTotal of segments > 7 cM = 0 cM\nNo shared DNA segments found\nThis analysis indicates that your parents are probably not related within recent generations.\nReport generated on Sat Nov 14 04:53:04",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Kevin",
+   "tool": "Are your parents related?",
+   "largest_cm": 0,
+   "total_cm_over_7": 0
+  },
+  "object": {
+   "kind": "A browser print of a GEDmatch report",
+   "form": "A heading, the settings, a blank coloured bar for each of the 22 chromosomes, then the totals and the time of the run.",
+   "does_not_fit": "Made tonight, not found on the drive (S-000-27); the owner's doing.",
+   "made_by": "GEDmatch, on the owner's request.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other report of the pair"
+   ]
+  }
  }
 ]
