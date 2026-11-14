@@ -2337,6 +2337,32 @@
    "S-500",
    "S-000-19"
   ],
+  "committed_utc": "2026-11-13T21:55:21Z"
+ },
+ {
+  "id": "B-056",
+  "date": "2026-11-13",
+  "title": "Part 2 of 'Duska documents': the whole year 1852 at Solymos, two baptism cuts, and a Québec death index that renames a man's parents",
+  "folder": "F-015",
+  "files": 11,
+  "blurb": "Eleven files, the second part of the folder. Four are copies, byte for byte, of files archived before (the marriage of 1892, the baptism screenshot of 1872, the 1984 form, the deed page of 1966). One, a researcher's notes on a job done for the owner, is held unopened. The other six make five documents. A capture of an index to Québec deaths has Mary Demko born 22 August 1906 and dead on 9 September 1950, as the registers have her. It has her husband Michael with a father 'Joseph' and a mother 'E.': wrong against his baptism, a census and his parents' wedding, and raised as a hypothesis so the conflict is on record (H-093, 90 that it is an error). The same index has Mikalis Duska born 28 November 1890 and dead on 28 November 1965, a widower. That is a second Montréal book with the birth date of the Miklós baptised at Senné 6, so the link between the two is back up to 87 (H-060). The top of a page of the Reformed book of Solymos shows the heading for 1852 and every baptism of that year: it fixes the year of two strips whose date was only in the file name, and takes both off the list of pages wanted. Cuts of the baptisms of 1890 and 1903 add nothing to the full pages already in hand. Also logged: the owner's remark that this is one of his important folders, and his request for field notes on it when it is done. Curiosities: 3",
+  "raised": [
+   "H-093"
+  ],
+  "resolved": [],
+  "revised": [
+   "H-060"
+  ],
+  "people_added": [],
+  "sources_added": [
+   "S-501",
+   "S-502",
+   "S-503",
+   "S-504",
+   "S-505",
+   "S-000-20",
+   "S-000-21"
+  ],
   "committed_utc": null
  }
 ]

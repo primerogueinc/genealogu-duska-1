@@ -1,7 +1,7 @@
 {
   "folder": "F-015",
   "desktop_path": "Duska documents part 1",
-  "note": "Sent on 13 Nov 2026 as 'New random ass folder called Duska documents part 1': five images. One is in the repo as sent. Three are published as copies with living people cut or blacked out. One is a second copy of a file already held.",
+  "note": "Sent on 13 Nov 2026 as 'New random ass folder called Duska documents part 1': five images. One is in the repo as sent. Three are published as copies with living people cut or blacked out. One is a second copy of a file already held. Part 2, also 13 Nov 2026: ten images and one Word file. Five images are new and in the repo, one of them in two formats. Four are copies of files archived earlier. The Word file is held unopened. Between parts 1 and 2 the owner sent the five files of part 1 a second time and asked whether he had; he had, byte for byte.",
   "files": [
     {
       "file": "Stefan_Duska_and_Maria_Demko_Canada_Arrival_1937.png",
@@ -10,6 +10,62 @@
       "pixels": "1920x841",
       "received": "2026-11-13",
       "via": "chat upload"
+    },
+    {
+      "file": "Baptism_of_Gyorgy_Duska_1852.png",
+      "sha256": "cd269894b6f13d0034924de8e0668c0a8fe11c41d7ebb19c09bf33196df835e3",
+      "bytes": 1636356,
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "pixels": "1847x733",
+      "part": 2
+    },
+    {
+      "file": "baptism_of_Mihaily_Duska_1903.jpg",
+      "sha256": "aa5703f55ced3388cbe0891df7fffe061faa529044ec8094429b0f3707ee50db",
+      "bytes": 333809,
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "pixels": "1815x922",
+      "part": 2
+    },
+    {
+      "file": "baptism_of_Mihaily_Duska_1903.png",
+      "sha256": "1b3a5acf99965cc802400e2bfe6d8f03a31d26a696839f194365199540c073bc",
+      "bytes": 1899314,
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "pixels": "1815x922",
+      "part": 2,
+      "same_picture_as": "baptism_of_Mihaily_Duska_1903.jpg",
+      "note": "The same crop saved as PNG; one document, D-015-06."
+    },
+    {
+      "file": "Baptism_of_Miklos_Duska_1890.png",
+      "sha256": "85d12aeeafa84b643021166d95fe4d75d11a3e1cd37e2bcb300a3e21171a19ee",
+      "bytes": 1640898,
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "pixels": "1531x910",
+      "part": 2
+    },
+    {
+      "file": "death_of_Maria_Demko.png",
+      "sha256": "242c8fd7165d78050c49238f959e1fdbba9e3a3af49ae6ea5b48003f26aeb273",
+      "bytes": 20657,
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "pixels": "1327x352",
+      "part": 2
+    },
+    {
+      "file": "deaths_of_Michael_and_Mikalis_Duska.png",
+      "sha256": "4eccf3d14ff92d22965084e9602a8ac13e4448e722f01e6ea88bcc0272c95f23",
+      "bytes": 34373,
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "pixels": "1181x552",
+      "part": 2
     }
   ],
   "held": [
@@ -59,6 +115,63 @@
       "file_in_repo": false,
       "public_copy": "Steve_and_Joan_Residence_in_1968__two_rows.png",
       "public_copy_sha256": "32df5a5fe586fe8ef1b8cbe0645acf75ca23a6b61c44caf94a3b3c2c486c8d2e"
+    },
+    {
+      "file": "Czech_Origins_Notes_on_Job_1_.docx",
+      "sha256": "d9e3afa3da8276a7d7589eba784c6b637803ee2eedf801a5224c31e1af61309c",
+      "bytes": 14669,
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "part": 2,
+      "file_in_repo": false,
+      "held": "Not opened. By its name it is a hired researcher's notes on the work done for the owner: someone's conclusions about the family, not a record and not a plain translation. Rule 31 lets this agent read a translation made for him once its own reading is written down, and holds anything compiled about the family. Which of the two this is cannot be told from outside. Held; the coordinator is asked."
+    }
+  ],
+  "copies": [
+    {
+      "file": "Marria_of_Andras_Duska_and_Anna_Nyemova_1892.jpg",
+      "sha256": "66a4928044ad1ed212e7d2c69af691bc6b5cc3f6d739c28de91a45d3cd282efc",
+      "bytes": 265605,
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "pixels": "1857x692",
+      "part": 2,
+      "duplicate_of": "D-006-03",
+      "file_in_repo": "as Anna_Nyemco_and_Andras_Duska_Marriage_from_Czech_Origins.jpg in F-006"
+    },
+    {
+      "file": "Baptism_of_Anna_Nyemsco_1872_-_Copy.png",
+      "sha256": "635dceb1c0cb146704f86fe0721a00549a7a9d79b8628a8a6af96ada0b18787c",
+      "bytes": 1448677,
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "pixels": "1880x645",
+      "part": 2,
+      "duplicate_of": "D-006-04",
+      "file_in_repo": "as Baptism_of_Anna_Nyemsco_1872.png in F-006"
+    },
+    {
+      "file": "Kevin_Duska_Sr_and_Lyne_Lefebvre_Marriage_1984.jpg",
+      "sha256": "080584784d39caa7b1e8eef0c2f3aaee0f5bb85455ec3b67973a6333297259d1",
+      "bytes": 817903,
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "pixels": "1952x2608",
+      "part": 2,
+      "duplicate_of": "D-006-10",
+      "file_in_repo": false,
+      "note": "Public only as the blacked-out copy made at B-036."
+    },
+    {
+      "file": "Maria_Demko_Date_of_Death.jpg",
+      "sha256": "57e158a05aa586a97944516a1ffdd112522130f0fa64c9c2962db6df4781a846",
+      "bytes": 272698,
+      "received": "2026-11-13",
+      "via": "chat upload",
+      "pixels": "1536x2048",
+      "part": 2,
+      "duplicate_of": "D-X01-03",
+      "file_in_repo": "as Maria_Demko_Notarial_Document_Regarding_Guardianship_of_NAME_WITHHELD_-_establishes_date_of_death.jpg in F-X01"
     }
   ]
 }

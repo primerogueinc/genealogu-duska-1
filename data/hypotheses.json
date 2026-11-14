@@ -1197,6 +1197,11 @@
     "batch": "B-048",
     "effect": "raised from 65 to 70",
     "note": "Mihály Duska's infant died in June [1875] at Solymos 33 (D-013-88), the house where János Duska, husband of Anna Hura, died in [1877] (D-013-89). A married son in his father's house. The clerk first wrote the child's father as János. For János Dusko, husband of Anna Kitko, nothing new: his houses are 23 and 24, and no parent is named for him."
+   },
+   {
+    "batch": "B-056",
+    "effect": "no change",
+    "note": "The full heading of 1852 is now in hand (D-015-05): both Dusko fathers of that year, András at house 44 and János at house 33, are on one page of the Solymos Reformed book, and an Anna Duska, Reformed, stands godmother at house 45. It confirms the year of two strips and adds no parent."
    }
   ],
   "necronym_risk": "unresolved"
@@ -1763,7 +1768,7 @@
  {
   "id": "H-060",
   "statement": "The 'Mikalis' Duska of the cemetery record, born 28 November 1890 and husband of Anna Hancosek, is Miklós Duska, born 28 November 1890 at Senné, house 6, son of György Duska the younger and Erzsébet Schwarz.",
-  "confidence": 80,
+  "confidence": 87,
   "basis": "The date of birth agrees to the day with the baptism entry (D-009-84), in a surname with only a handful of bearers. 'Mikalis' is a fair French clerk's rendering of Miklós or Mikuláš. His wife's surname resembles a Senné family's. Against: the record is a database entry with stand-in values elsewhere, the cemetery is not named, and no document shows Miklós leaving Senné.",
   "test": "The cemetery's burial register or the gravestone for section FT, plot 01965; a Québec death or marriage registration naming his parents; a passenger list.",
   "status": "supported",
@@ -1815,6 +1820,11 @@
     "batch": "B-053",
     "effect": "lowered from 85 to 80",
     "note": "One of its legs is weaker. The case began with a birth date on the cemetery's printout that matches the Senné baptism to the day. The cemetery now writes that before the 1980s it recorded almost no dates of birth (D-014-08). The printed date is exactly 75 years before the day of arrival, so it may have been computed from an age of 75 and not copied from a paper. If so, it shows a man of about 75, not a man born on that day. Miklós would have turned 75 on 28 November 1965, which still fits. What carries the link now: the rare surname, the given name, the wife's surname (Hancosek for Hankovcsák), and Mikulas and Michal Duska on one passenger list."
+   },
+   {
+    "batch": "B-056",
+    "effect": "raised from 80 to 87",
+    "note": "A second set of books has the birth date. The Québec death index gives Mikalis Duska born 28-11-1890 and died 28-11-1965 (D-015-09). At B-053 I lowered this because the cemetery said it kept almost no birth dates then, so its printed date might have been made up from the day he arrived. The civil index is not the cemetery's book, and it calls 28 November 1965 the date of death. The date of birth stands on two records in Montréal and on the baptism at Szenna 6 (D-015-07). What is still missing is a paper that says the Montréal man came from Senné."
    }
   ]
  },
@@ -2395,6 +2405,11 @@
     "batch": "B-055",
     "effect": "no change",
     "note": "If Štefan was interred at Notre-Dame-des-Neiges in 2018 as his obituary says, the cemetery's 'three Duskas' of after January 2022 are most simply Mikalis, Mike Sr. and Štefan, with Mary Demko under her maiden name. That fits the correction made at B-054."
+   },
+   {
+    "batch": "B-056",
+    "effect": "no change",
+    "note": "The death index gives Mikalis the status 'V', widower, in November 1965 (D-015-09). If that is right his wife was dead by then. It does not say who she was."
    }
   ]
  },
@@ -2543,5 +2558,24 @@
    }
   ],
   "question": "Where in Montréal did Štefan Duska's household live in the 1960s?"
+ },
+ {
+  "id": "H-093",
+  "statement": "The 'Joseph' and 'E.' entered as the parents of Michael Duska in the Québec death index of 1974 are an informant's or a clerk's error. His parents were András Duska and Anna Nyemcsik.",
+  "confidence": 90,
+  "basis": "For András and Anna: his baptism of 4 July 1903, page 203, entry 33 (D-014-07, D-015-06); the census of 1930, where he lives in his father András's house; his parents' marriage of 1892. Against Joseph: no baptism in hand gives a József Duska a son Mihály in 1903; the one József known as a father had his child in 1910 (K-517), and the József of house 6 was born in 1885 (K-479). A death registration takes the parents of an old man from whoever reports the death, and a mother written as an initial with no surname is the mark of someone who did not know. One oddity: 'E.' would fit Erzsébet Schwarz, mother of Mikalis, the other Duska in the same result, but the two are separate registrations nine years apart.",
+  "test": "The death registration itself (the form behind the index), which names the informant. Not needed for the tree.",
+  "status": "open",
+  "raised": "B-056",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-056",
+    "effect": "raised at 90",
+    "note": "Raised to record a conflict between a derivative index and three original records, and to settle it in the open."
+   }
+  ],
+  "question": "Who were the parents of Ahn 8?"
  }
 ]

@@ -448,6 +448,22 @@
   "reliability": "The owner on a text he wrote himself. It settles who wrote the obituary and that 'September' is a slip for October, month 9 for month 10. It also says the notice ran in the Montreal Gazette and passed the paper and the funeral home unnoticed. He asked to be quoted."
  },
  {
+  "id": "S-000-20",
+  "batch": "B-056",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 13 Nov 2026: he thinks 'Duska documents' is one of the important folders, poorly labelled",
+  "extract": "\"btw I think that was one of the important folers - poorly labelled - thoughts?\" And, sending part 1 a second time by mistake: \"did i give ut his yet from folder?\"",
+  "reliability": "The owner's view of his own archive. Like a file name it is a prior: it moves no confidence. It is recorded because it says how he ranks what he keeps."
+ },
+ {
+  "id": "S-000-21",
+  "batch": "B-056",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 13 Nov 2026: more parts are coming; field notes on the folder when he says it is done, critical of his approach",
+  "extract": "\"oh there are more parts - when u hve more write some field notes on it after I tell u done with folder and u can be critical of my approch as u have been lol\"",
+  "reliability": "An instruction. Acted on when the folder is closed."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -4150,5 +4166,45 @@
   "title": "Voters' list, Montréal, [1968]: 'Steeve' Duska, letter carrier, and Joan Duska at no. 5520",
   "extract": "'5520 Duska, Steeve, facteur' and '5520 Duska, Joan'. He is a letter carrier, which agrees with the obituary's 'retirement from the postal service'. The street heading is above the top of the capture. The section holds even numbers from 5494 to 5524, and the next section on the page is headed '13e AVENUE, EST', so the Duskas were on a numbered avenue of Rosemont, the 13th or one beside it (H-092). The year is the owner's.",
   "reliability": "As S-499. Reading level: high."
+ },
+ {
+  "id": "S-501",
+  "batch": "B-056",
+  "type": "Reformed baptism register (original record, top of an opening)",
+  "title": "Reformed baptism book of Solymos: the whole year 1852, eight baptisms, with the headings",
+  "extract": "The heading for 1852 and all eight baptisms of the year at Solymos. Entry 1: György, son of András Dusko and Erzsébet Kovács, house 44. Entry 5: János, son of János Dusko and Anna Hura, house 33. Entry 3: Anna Duska, Reformed, godmother. Entries 6 to 8 baptised by the Greek Catholic priest.",
+  "reliability": "An original register read from a film frame with its heading. The year is on the page. Reading level: high for the Duska rows."
+ },
+ {
+  "id": "S-502",
+  "batch": "B-056",
+  "type": "Roman Catholic baptism register (original record, cut from a page in hand)",
+  "title": "Baptism of Mihály Duska (Ahn 8), 3 and 4 July 1903: a cut of page 203 with four neighbours",
+  "extract": "The entry already read from the full opening D-014-07 and from the strip D-009-79, here in a sharper cut. Mihály, son, lawful, born 3 July and baptised 4 July 1903. Father: András Duska the younger [the abbreviation after his name reads 'ifj.'], Roman Catholic, cottar, of Szenna. Mother: Anna Nyemecz, as read before, Roman Catholic, of Szenna. Szenna, house 79. Godparents: János Hreha, Greek Catholic, cottar, and Anna Lask[o]di [?], Roman Catholic, of Szenna. Baptised by Gyula Buzinkay, parish priest. Nothing in the remarks column.",
+  "reliability": "The same entry as S-494, a sharper image. Reading level: high."
+ },
+ {
+  "id": "S-503",
+  "batch": "B-056",
+  "type": "Roman Catholic baptism register (original record, cut from a page in hand)",
+  "title": "Baptism of Miklós Duska, 28 and 29 November 1890: the foot of page 123 with two neighbours",
+  "extract": "The entry read before from D-009-84, D-006-24 and the full opening D-014-09. Miklós, son, lawful, born 28 November and baptised 29 November 1890. Father: György Duska the younger ('ifj.'), Roman Catholic, cottar, of Szenna. Mother: Erzsébet Schwarz, Roman Catholic, of Alsó-Ribnicze. Szenna, house 6. Godparents: János Muha the eldest ('legid.'), Roman Catholic, farmer, of Szenna; Mária Drostyák, Greek Catholic, cottar, of Szenna. Baptised by István Rusznák, dean and parish priest. The remarks cell is empty: no death note.",
+  "reliability": "The same entry as S-496. Reading level: high."
+ },
+ {
+  "id": "S-504",
+  "batch": "B-056",
+  "type": "Online index to deaths (derivative)",
+  "title": "Index to Québec deaths: Mary Demko, born 22 August 1906, died 9 September 1950, spouse Duska",
+  "extract": "DEMKO, MARY. Sex F. Date of birth 22-8-1906. Age 0 [the field is empty in the data; she was 44]. Residence Montréal. Spouse: DUSKA. Date of death 9-9-1950. No parents. She is under her maiden name, as Québec enters married women. The birth date is the one in the Greek Catholic baptism book of Iňačovce to the day, so the index and the baptism are of one woman.",
+  "reliability": "A database entry; the registration behind it is not seen. Good for the dates; it agrees with three other records. Reading level: high."
+ },
+ {
+  "id": "S-505",
+  "batch": "B-056",
+  "type": "Online index to deaths (derivative)",
+  "title": "Index to Québec deaths: Michael Duska, died 31 January 1974, and Mikalis Duska, died 28 November 1965",
+  "extract": "DUSKA, MICHAEL. Sex M. Status V [widower]. Date of birth 2-7-1903. Age 70. Residence Montréal. Father: DUSKA, Joseph. Mother: ', E.' Spouse: DEMKO. Date of death 31-1-1974. This is Ahn 8 by the death date, the age and the wife. Two things do not fit the registers: the birth is a day early (the baptism book has 3 July), and the father is 'Joseph' where the baptism of 1903, the census of 1930 and the marriage of 1892 all have András. The parents of a man of 70 were told to the registrar by whoever reported the death (H-093). DUSKA, MIKALIS. Sex M. Status V [widower]. Date of birth 28-11-1890. Age 75. Residence Montréal. Date of death 28-11-1965. No parents and no spouse. The cemetery's record has the same birth date and the same day as the day it received him (D-006-09). Here the day is called the date of death. So a second set of books, the civil one, holds the birth date of 28 November 1890, which is the day Miklós Duska was born at Szenna 6 (D-015-07). By this index he died on his seventy-fifth birthday and was a widower.",
+  "reliability": "A database entry; the registrations behind it are not seen. The dates are sound where they can be checked. The parents in the first entry are wrong against three original records. Reading level: high."
  }
 ]

@@ -25868,5 +25868,352 @@
     "D-015-01, the obituary: the funeral was at St-Brendan's on Rosemont Boulevard"
    ]
   }
+ },
+ {
+  "id": "D-015-05",
+  "folder": "F-015",
+  "batch": "B-056",
+  "source": "S-501",
+  "file": "Baptism_of_Gyorgy_Duska_1852.png",
+  "sha256": "cd269894b6f13d0034924de8e0668c0a8fe11c41d7ebb19c09bf33196df835e3",
+  "wide": true,
+  "title": "Reformed baptism book of Solymos: the whole year 1852, eight baptisms, with the headings",
+  "span": "April to December 1852",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Gyorgy Duska 1852",
+  "family": "FG-37",
+  "route": "duska",
+  "part": "part 2",
+  "provenance": {
+   "archive": "unknown",
+   "fond_or_film": "unknown",
+   "book": "Reformed baptism register covering Solymos (Iňačovce), by the officiants' titles; the owner's folder calls it 'Reformed Catholic'",
+   "page_or_image": "the top of one opening: the heading for 1852, the column headings and all eight baptisms of the year; a pencilled 13 at the top of the left page",
+   "obtained": "From the owner's desktop folder 'Duska documents part 1', second part, sent through chat on 13 Nov 2026. How he obtained it is not recorded.",
+   "catalogue_lead": "Places agent, PL-R-005 @208af51: the Reformed of Iňačovce have a register within the Lúčky parish, Prešov state archive catalogue no. 592/1, births 1819 to 1927 (L-019). The page of this strip is not established."
+  },
+  "entries": [
+   {
+    "no": "heading",
+    "date": "1852",
+    "from": "Reformed baptism register, top of an opening (original record)",
+    "abstract": "'In the year 1852, register of the baptised in the daughter church of Solymos.' Columns: running number; day and month of birth; of baptism; the child's name; sex; of lawful or unlawful bed; the parents' names, their religion and civil state; the place and number of the house; the godparents' names and civil state; the baptiser's name; remarks. The year 1853 begins under entry 8. This is the page the strips D-007-15 and D-007-25 were cut from, and it puts both in 1852 on the book's own heading.",
+    "reading": "high"
+   },
+   {
+    "no": "1",
+    "date": "10 and 11 April 1852",
+    "from": "as above",
+    "abstract": "György, son, lawful. Parents: András Dusko and Erzsébet Kovács, commoners. Solymos, house 44. Godparents: János Kosztorsik [?] and Anna Dziják, commoners. Baptised by György Diószeghy, pastor. A remark in the last column is cut by the edge of the image.",
+    "reading": "high; medium for the godfather"
+   },
+   {
+    "no": "2",
+    "date": "30 and 31 May 1852",
+    "from": "as above",
+    "abstract": "András, son of György Kud[rócs] [?] and Anna Dzurina, Reformed. Solymos, house 23. Godparents read doubtfully: János H[i]zsák, Mátyás [R]ákos, Susánna, Lutheran ('evangelica'). Not of the line.",
+    "reading": "medium"
+   },
+   {
+    "no": "3",
+    "date": "June 1852, baptised the 13th",
+    "from": "as above",
+    "abstract": "Gyula, son of the nobleman Gábor Szarka and the noblewoman Julianna Dósa. Solymos, house 45. Godparents: Pál [surname faded] and Anna Duska, Reformed. A Duska woman stands godmother to a noble family's son. The entry is in paler ink than the rest.",
+    "reading": "medium; the godmother's name is clear"
+   },
+   {
+    "no": "4",
+    "date": "7 and 8 August 1852",
+    "from": "as above",
+    "abstract": "Susánna, daughter of György Hre[s]án [?] and Susánna Bo[d]is [?], commoners. Solymos, house 38. Godparents: György Knyezsó, Anna Is[k]ószki [?]. Not of the line.",
+    "reading": "medium"
+   },
+   {
+    "no": "5",
+    "date": "23 and 24 August 1852",
+    "from": "as above",
+    "abstract": "János, son, lawful. Parents: János Dusko and Anna Hura, Reformed. Solymos, house 33. Godparents: Mihály Knezso, Susánna Jusai [?], Mihály Ivanó with a word after his name read as an office. The row filed separately as D-007-25.",
+    "reading": "high"
+   },
+   {
+    "no": "6",
+    "date": "9 October 1852",
+    "from": "as above",
+    "abstract": "György, son of György Knyezsó and Susánna Dzurina, both 'of the Helvetic confession'. Solymos, house 9[6]. Godparents: György Kudrócs, Mária Knyezsó. Baptised by János Danilovics, 'ó-hitű pap', a priest of the old faith: the Greek Catholic priest, in the Calvinists' book.",
+    "reading": "high; medium for the house"
+   },
+   {
+    "no": "7",
+    "date": "8 November 1852",
+    "from": "as above",
+    "abstract": "János, son of János Kudrócs and Susánna Knyezsó. Solymos, house 51. Godparents: Mihály Knyezsó, Mária [J]ujsák [?]. The same baptiser.",
+    "reading": "medium"
+   },
+   {
+    "no": "8",
+    "date": "7 December 1852",
+    "from": "as above",
+    "abstract": "Anna, daughter of Mihály Dzvonyik, of the Helvetic confession, and a mother Anna written as Roman Catholic; her surname is not made out. Solymos, house 35. Godparents: György Hajdur[á]k [?], Borbála Dzurina. Baptised by János Danilovics, priest of the old faith.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The heading of the year",
+    "original": "1852-dik évben Kereszteltettek anyakönyve a' Solymosi leány Ekklésiában.",
+    "english": "In the year 1852, register of the baptised in the daughter church of Solymos."
+   },
+   {
+    "label": "Entry 1",
+    "original": "1. | 10dik Aprilis | 11dik Aprilis | György | fiú | törvényes | Dusko András, Kovács Ersébeth, nemtelen | Solymos No 44. | Kosztorsik [?] János, Dziják Anna nemtelenek | Diószeghy György Lelkész",
+    "english": "1. Born 10 April, baptised 11 April. György, boy, lawful. András Dusko, Erzsébet Kovács, commoners. Solymos no. 44. János Kosztorsik [?], Anna Dziják, commoners. György Diószeghy, pastor."
+   },
+   {
+    "label": "The baptiser of entries 6 to 8",
+    "original": "Danilovics János Ó-hitű pap",
+    "english": "János Danilovics, priest of the old faith [Greek Catholic]."
+   }
+  ],
+  "object": {
+   "kind": "The top half of one opening of a hand-ruled Reformed baptism register",
+   "form": "A heading for the year in a large hand across both pages; eleven columns with handwritten Hungarian headings; one line or two to a baptism; eight entries, then the heading for 1853. The same form the strips of F-007 show for the 1850s.",
+   "does_not_fit": "Three of the eight baptisms are by the Greek Catholic priest, not the pastor. One parent pair is noble among cottars. Nothing else.",
+   "made_by": "György Diószeghy, Reformed pastor, by the baptiser's column.",
+   "kept": "By the Places agent's holdings table: Prešov state archive, Lúčky Reformed, Iňačovce filial, no. 592/1.",
+   "compared": [
+    "D-007-15 and D-007-25, the two strips cut from this page",
+    "D-013-94, the Reformed burial page of 1854 to 1856 with the same hand and headings"
+   ]
+  }
+ },
+ {
+  "id": "D-015-06",
+  "folder": "F-015",
+  "batch": "B-056",
+  "source": "S-502",
+  "file": "baptism_of_Mihaily_Duska_1903.jpg",
+  "sha256": "aa5703f55ced3388cbe0891df7fffe061faa529044ec8094429b0f3707ee50db",
+  "wide": true,
+  "title": "Baptism of Mihály Duska (Ahn 8), 3 and 4 July 1903: a cut of page 203 with four neighbours",
+  "span": "June and July 1903",
+  "language": "Hungarian",
+  "collector_label": "baptism of Mihaily Duska 1903",
+  "family": "FG-49",
+  "route": "duska",
+  "part": "part 2",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent (PL-R-001); filmed, and read here from a frame of the film",
+   "fond_or_film": "Roman Catholic parish of Senné, no. 1089, baptisms",
+   "book": "Baptism register of the Roman Catholic parish of Szenna (Senné): a full opening of the book as filmed. Volume by the Places agent's catalogue reading (PL-R-001): Prešov state archive, Senné Roman Catholic, no. 1089 (births from 1866). The owner's earlier screenshot (D-006-04) places the film in FamilySearch's 'Slovakia Church and Synagogue Books', Roman Catholic, Veľké Kapušany, Senné.",
+   "page_or_image": "page 203, entries 30 (part) to 34 of 1903: the right-hand page of the opening D-014-07, cut",
+   "obtained": "From the owner's desktop folder 'Duska documents part 1', second part, sent through chat on 13 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": "33",
+    "date": "3 and 4 July 1903",
+    "from": "Roman Catholic baptism register (original record, cut from a page in hand)",
+    "abstract": "The entry already read from the full opening D-014-07 and from the strip D-009-79, here in a sharper cut. Mihály, son, lawful, born 3 July and baptised 4 July 1903. Father: András Duska the younger [the abbreviation after his name reads 'ifj.'], Roman Catholic, cottar, of Szenna. Mother: Anna Nyemecz, as read before, Roman Catholic, of Szenna. Szenna, house 79. Godparents: János Hreha, Greek Catholic, cottar, and Anna Lask[o]di [?], Roman Catholic, of Szenna. Baptised by Gyula Buzinkay, parish priest. Nothing in the remarks column.",
+    "reading": "high"
+   },
+   {
+    "no": "31, 32, 34",
+    "date": "21 June to 14 July 1903",
+    "from": "as above",
+    "abstract": "31: Borbála, daughter of János Tkács of Nagy-Szeretva 87, with a cross and '1904 márcz. 24' in the remarks: she died at nine months. 32: Anna, born 23 June, daughter of János Nyemcsik, cottar, and Mária Szalontai, Szenna 63: a Nyemcsik household that is not Ahn 34's. 34: Mihály, son of Mihály Tre[cz]ák [?] and Anna Oláh of Solymos 75.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry 33",
+    "original": "33. | 1903. jul. 3. | 1903. jul. 4. | Mihály | fi | törv. | Duska András ifj. rk. zsellér Szenna, Nyemecz Anna rk. Szenna | Szenna 79. | Hreha János gk. zsellér, Laskodi [?] Anna rk. szennaiak | Buzinkay Gyula plébános",
+    "english": "33. Born 3 July 1903, baptised 4 July 1903. Mihály, boy, lawful. András Duska the younger, Roman Catholic, cottar, of Szenna; Anna Nyemecz [Nyemcsik], Roman Catholic, of Szenna. Szenna 79. János Hreha, Greek Catholic, cottar; Anna Laskodi [?], Roman Catholic; both of Szenna. Gyula Buzinkay, parish priest."
+   }
+  ],
+  "object": {
+   "kind": "A cut from the right-hand page of an opening of the printed baptism register of Szenna",
+   "form": "Five ruled rows without the column headings; the year written in every date cell.",
+   "does_not_fit": "'ifj.', the younger, after the father's name: the priest was telling him from an older András Duska.",
+   "made_by": "Gyula Buzinkay, parish priest.",
+   "kept": "As D-014-07.",
+   "compared": [
+    "D-014-07, the full opening, pages 202 and 203",
+    "D-009-79, the owner's first strip of the entry"
+   ]
+  }
+ },
+ {
+  "id": "D-015-07",
+  "folder": "F-015",
+  "batch": "B-056",
+  "source": "S-503",
+  "file": "Baptism_of_Miklos_Duska_1890.png",
+  "sha256": "85d12aeeafa84b643021166d95fe4d75d11a3e1cd37e2bcb300a3e21171a19ee",
+  "wide": true,
+  "title": "Baptism of Miklós Duska, 28 and 29 November 1890: the foot of page 123 with two neighbours",
+  "span": "November 1890",
+  "language": "Hungarian",
+  "collector_label": "Baptism of Miklos Duska 1890",
+  "family": "FG-48",
+  "route": "duska",
+  "part": "part 2",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent (PL-R-001); filmed, and read here from a frame of the film",
+   "fond_or_film": "Roman Catholic parish of Senné, no. 1089, baptisms",
+   "book": "Baptism register of the Roman Catholic parish of Szenna (Senné): a full opening of the book as filmed. Volume by the Places agent's catalogue reading (PL-R-001): Prešov state archive, Senné Roman Catholic, no. 1089 (births from 1866). The owner's earlier screenshot (D-006-04) places the film in FamilySearch's 'Slovakia Church and Synagogue Books', Roman Catholic, Veľké Kapušany, Senné.",
+   "page_or_image": "page 123, entries 56 to 58 of 1890: the foot of the right-hand page of the opening D-014-09",
+   "obtained": "From the owner's desktop folder 'Duska documents part 1', second part, sent through chat on 13 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": "58",
+    "date": "28 and 29 November 1890",
+    "from": "Roman Catholic baptism register (original record, cut from a page in hand)",
+    "abstract": "The entry read before from D-009-84, D-006-24 and the full opening D-014-09. Miklós, son, lawful, born 28 November and baptised 29 November 1890. Father: György Duska the younger ('ifj.'), Roman Catholic, cottar, of Szenna. Mother: Erzsébet Schwarz, Roman Catholic, of Alsó-Ribnicze. Szenna, house 6. Godparents: János Muha the eldest ('legid.'), Roman Catholic, farmer, of Szenna; Mária Drostyák, Greek Catholic, cottar, of Szenna. Baptised by István Rusznák, dean and parish priest. The remarks cell is empty: no death note.",
+    "reading": "high"
+   },
+   {
+    "no": "56, 57",
+    "date": "18 to 20 November 1890",
+    "from": "as above",
+    "abstract": "56: Anna, daughter of Mihály [Samudovszki] Király, cottar of Szenna 57, and Erzsébet Hreha of Alsó-Ribnyicze; godmother Mária Hankoscsák, of a farmer's house at Szenna; 'meghalt', died, 17 October 1895. 57: Mihály, son of György Lippai of Rebrin 18; died 24 March 1893. Both remarks show what an early death looks like on this page, and entry 58 has none.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry 58",
+    "original": "58. | 1890 nov. 28 | 1890 nov 29 | Miklós | fi | törvényes | ifj. Duska György r.k. zsellér Szenna, Schwarz Erzsébet r.k. Alsó-Ribnicze | Szenna 6 | legid. Muha János r.k. gazda Szenna, Drostyák Mária gk zsellér Szenna | Rusznák István esperes plébános",
+    "english": "58. Born 28 November 1890, baptised 29 November 1890. Miklós, boy, lawful. György Duska the younger, Roman Catholic, cottar, of Szenna; Erzsébet Schwarz, Roman Catholic, of Alsó-Ribnicze. Szenna 6. János Muha the eldest, Roman Catholic, farmer, of Szenna; Mária Drostyák, Greek Catholic, cottar, of Szenna. István Rusznák, dean and parish priest."
+   }
+  ],
+  "object": {
+   "kind": "A cut from the foot of the right-hand page of an opening of the baptism register of Szenna",
+   "form": "Three hand-ruled rows; the year in each date cell; death notes with the word 'meghalt' in the remarks of the two rows above.",
+   "does_not_fit": "Nothing.",
+   "made_by": "István Rusznák, dean and parish priest.",
+   "kept": "As D-014-09.",
+   "compared": [
+    "D-014-09, the full opening, pages 122 and 123",
+    "D-009-84 and D-006-24, two earlier cuts of the entry",
+    "D-015-09, the Québec death index with the same birth date"
+   ]
+  }
+ },
+ {
+  "id": "D-015-08",
+  "folder": "F-015",
+  "batch": "B-056",
+  "source": "S-504",
+  "file": "death_of_Maria_Demko.png",
+  "sha256": "242c8fd7165d78050c49238f959e1fdbba9e3a3af49ae6ea5b48003f26aeb273",
+  "wide": true,
+  "title": "Index to Québec deaths: Mary Demko, born 22 August 1906, died 9 September 1950, spouse Duska",
+  "span": "9 September 1950",
+  "language": "English and French",
+  "collector_label": "death of Maria Demko",
+  "family": "FG-62",
+  "route": "demko",
+  "part": "part 2",
+  "provenance": {
+   "archive": "an online index to deaths in Québec; the site is not named on the capture",
+   "fond_or_film": "not a register: a database built from death registrations (the layout is that of the index of Québec marriages and deaths of 1926 to 1997; recalled, not sourced)",
+   "book": "not applicable",
+   "page_or_image": "a screen capture of a search result",
+   "obtained": "From the owner's desktop folder 'Duska documents part 1', second part, sent through chat on 13 Nov 2026. No account name is on the capture."
+  },
+  "entries": [
+   {
+    "no": "1 of 1",
+    "date": "9 September 1950",
+    "from": "Online index to deaths (derivative: a database built from registrations)",
+    "abstract": "DEMKO, MARY. Sex F. Date of birth 22-8-1906. Age 0 [the field is empty in the data; she was 44]. Residence Montréal. Spouse: DUSKA. Date of death 9-9-1950. No parents. She is under her maiden name, as Québec enters married women. The birth date is the one in the Greek Catholic baptism book of Iňačovce to the day, so the index and the baptism are of one woman.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The entry",
+    "original": "1. DEMKO, MARY | Sex: F | Date of birth: 22-8-1906 | Age: 0 | Residence: Montréal | Spouse: Conjoint(e): DUSKA | Date of death: 9-9-1950",
+    "english": "As written."
+   }
+  ],
+  "object": {
+   "kind": "A search result from an online index to deaths, as a screen capture",
+   "form": "A grey card with labelled fields in English and a French word left in the data ('Conjoint(e)'). Dates as day-month-year.",
+   "does_not_fit": "'Age: 0' for a woman of 44: an empty field shown as a number.",
+   "made_by": "A database built from death registrations; whoever keyed it is not named.",
+   "kept": "Online; the site is not on the capture.",
+   "compared": [
+    "D-013-99, the cemetery index (received 11 September 1950)",
+    "D-X01-03, the deed of 1966, which gives the same day of death",
+    "the Demko agent's baptism of 22 August 1906"
+   ]
+  }
+ },
+ {
+  "id": "D-015-09",
+  "folder": "F-015",
+  "batch": "B-056",
+  "source": "S-505",
+  "file": "deaths_of_Michael_and_Mikalis_Duska.png",
+  "sha256": "4eccf3d14ff92d22965084e9602a8ac13e4448e722f01e6ea88bcc0272c95f23",
+  "wide": true,
+  "title": "Index to Québec deaths: Michael Duska, died 31 January 1974, and Mikalis Duska, died 28 November 1965",
+  "span": "1965 and 1974",
+  "language": "English and French",
+  "collector_label": "deaths of Michael and Mikalis Duska",
+  "family": "FG-62",
+  "route": "duska",
+  "part": "part 2",
+  "provenance": {
+   "archive": "an online index to deaths in Québec; the site is not named on the capture",
+   "fond_or_film": "not a register: a database built from death registrations (the layout is that of the index of Québec marriages and deaths of 1926 to 1997; recalled, not sourced)",
+   "book": "not applicable",
+   "page_or_image": "a screen capture of a search result",
+   "obtained": "From the owner's desktop folder 'Duska documents part 1', second part, sent through chat on 13 Nov 2026. No account name is on the capture."
+  },
+  "entries": [
+   {
+    "no": "1",
+    "date": "31 January 1974",
+    "from": "Online index to deaths (derivative: a database built from registrations)",
+    "abstract": "DUSKA, MICHAEL. Sex M. Status V [widower]. Date of birth 2-7-1903. Age 70. Residence Montréal. Father: DUSKA, Joseph. Mother: ', E.' Spouse: DEMKO. Date of death 31-1-1974. This is Ahn 8 by the death date, the age and the wife. Two things do not fit the registers: the birth is a day early (the baptism book has 3 July), and the father is 'Joseph' where the baptism of 1903, the census of 1930 and the marriage of 1892 all have András. The parents of a man of 70 were told to the registrar by whoever reported the death (H-093).",
+    "reading": "high: screen text"
+   },
+   {
+    "no": "2",
+    "date": "28 November 1965",
+    "from": "as above",
+    "abstract": "DUSKA, MIKALIS. Sex M. Status V [widower]. Date of birth 28-11-1890. Age 75. Residence Montréal. Date of death 28-11-1965. No parents and no spouse. The cemetery's record has the same birth date and the same day as the day it received him (D-006-09). Here the day is called the date of death. So a second set of books, the civil one, holds the birth date of 28 November 1890, which is the day Miklós Duska was born at Szenna 6 (D-015-07). By this index he died on his seventy-fifth birthday and was a widower.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry 1",
+    "original": "1. DUSKA, MICHAEL | Sex: M | Status: V | Date of birth: 2-7-1903 | Age: 70 | Residence: Montréal | Father: DUSKA, Joseph | Mother: , E. | Spouse: Conjoint(e): DEMKO | Date of death: 31-1-1974",
+    "english": "As written. 'V' is taken as veuf, widower."
+   },
+   {
+    "label": "Entry 2",
+    "original": "2. DUSKA, MIKALIS | Sex: M | Status: V | Date of birth: 28-11-1890 | Age: 75 | Residence: Montréal | Date of death: 28-11-1965",
+    "english": "As written."
+   }
+  ],
+  "object": {
+   "kind": "A search result from an online index to deaths, as a screen capture: two entries for the surname",
+   "form": "As D-015-08.",
+   "does_not_fit": "The father 'Joseph' and the mother ', E.' of the first entry. A mother given by one initial and no surname is how a form looks when the informant did not know.",
+   "made_by": "As D-015-08.",
+   "kept": "Online; the site is not on the capture.",
+   "compared": [
+    "D-006-20, the death notice of 1974",
+    "D-013-101 and D-013-100, the cemetery index for both men",
+    "D-006-09, the cemetery's record of Mikalis",
+    "D-014-07 and D-014-09, the two baptisms"
+   ]
+  }
  }
 ]

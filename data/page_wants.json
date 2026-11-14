@@ -1802,8 +1802,8 @@
    "date_on_file": "10 and 11 April [1852]",
    "title": "Baptism of György Dusko, Solymos 44, [1852]",
    "route": "duska",
-   "rank": 2,
-   "status": "wanted",
+   "rank": 0,
+   "status": "in hand",
    "want": [
     "page heading: year and page number",
     "the year as written on the page",
@@ -1811,7 +1811,8 @@
    ],
    "direct_line": false,
    "hypotheses": [],
-   "look_for": null
+   "look_for": null,
+   "in_hand": "D-015-05"
   },
   {
    "id": "D-007-16",
@@ -1989,8 +1990,8 @@
    "date_on_file": "23 and 24 August [1852]",
    "title": "Baptism of János Dusko, Solymos 33, [1852]",
    "route": "duska",
-   "rank": 2,
-   "status": "wanted",
+   "rank": 0,
+   "status": "in hand",
    "want": [
     "page heading: year and page number",
     "the year as written on the page",
@@ -1998,7 +1999,8 @@
    ],
    "direct_line": false,
    "hypotheses": [],
-   "look_for": null
+   "look_for": null,
+   "in_hand": "D-015-05"
   },
   {
    "id": "D-007-26",

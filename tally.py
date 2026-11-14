@@ -59,7 +59,7 @@ NOTES = {
 }
 # Strips whose full page has arrived since: strip -> the page.
 IN_HAND = {'D-009-79': 'D-014-07', 'D-009-84': 'D-014-09', 'D-006-24': 'D-014-09', 'D-009-01': 'D-014-02', 'D-009-16': 'D-014-04',
-           'D-009-66': 'D-014-06', 'D-009-08': 'D-014-03', 'D-009-88': 'D-014-03', 'D-009-34': 'D-014-05', 'D-009-35': 'D-014-05', 'D-009-12': 'D-014-05'}
+           'D-009-66': 'D-014-06', 'D-009-08': 'D-014-03', 'D-009-88': 'D-014-03', 'D-009-34': 'D-014-05', 'D-009-35': 'D-014-05', 'D-009-12': 'D-014-05', 'D-007-15': 'D-015-05', 'D-007-25': 'D-015-05'}
 # Pages this line needs and has in no form. Noted, not asked: the owner sends deaths and marriages as folders of their own.
 NEVER_SEEN = [
     {"what": "The passenger list of 1937, page 263: Maria Duska and her son Stephan", "where": "The lists of arrivals for 1937 that the typed index points to (D-015-02)", "settles": "The ship, port and day of their arrival, who they were going to and at what address; H-065 on its own record."},

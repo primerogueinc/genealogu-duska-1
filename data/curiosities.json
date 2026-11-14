@@ -1193,5 +1193,38 @@
   "translation": "Duska, Maria, age [3]1, page 263.",
   "why": "A reminder that an index is a copy of a copy, and that an age is the first thing to go.",
   "tone": "odd"
+ },
+ {
+  "id": "C-125",
+  "doc": "D-015-09",
+  "source": "S-505",
+  "title": "A death record that gave a man new parents",
+  "text": "When Michal Duska died in Montréal in 1974 somebody told the registrar who his parents were, and the index built from that form has kept the answer: father Joseph, mother 'E.'. His father was András and his mother Anna, on his baptism, on a census and on their wedding. He had been in Canada forty-four years. Nobody at the desk had ever met them.",
+  "original": "Father: DUSKA, Joseph | Mother: , E.",
+  "translation": "As written.",
+  "why": "The last record of a life is the one made by people who knew it least. A tree built from the Canadian end alone would have gone up the wrong branch at the first step.",
+  "tone": "odd"
+ },
+ {
+  "id": "C-126",
+  "doc": "D-015-09",
+  "source": "S-505",
+  "title": "He died on his birthday",
+  "text": "Mikalis Duska: born 28-11-1890, died 28-11-1965, age 75. The cemetery's own record has him arriving that same day. Either he died on his seventy-fifth birthday or a clerk with one date in hand used it twice. The baptism book of Senné vouches for the first of the two dates only.",
+  "original": "Date of birth: 28-11-1890 | Age: 75 | Date of death: 28-11-1965",
+  "translation": "As written.",
+  "why": "A coincidence that is also a warning: a date that appears twice on one record may have been written once.",
+  "tone": "sad"
+ },
+ {
+  "id": "C-127",
+  "doc": "D-015-05",
+  "source": "S-501",
+  "title": "The priest of the old faith baptises the Calvinists",
+  "text": "From October to December 1852 the Reformed pastor of Solymos was not there, and the children of his flock were baptised by János Danilovics, 'ó-hitű pap', priest of the old faith: the Greek Catholic priest of the same village. He is entered in the Calvinists' own book, three times, by that name.",
+  "original": "Danilovics János Ó-hitű pap",
+  "translation": "János Danilovics, priest of the old faith.",
+  "why": "In a village with three churches a baby did not wait for the right clergyman. It is also why a family can turn up in the wrong book.",
+  "tone": "history"
  }
 ]

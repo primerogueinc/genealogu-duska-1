@@ -1102,5 +1102,29 @@
   "date": "2026-11-13",
   "decided": "The index sheet of 1937 is in the repo whole.",
   "why": "It shows strangers by name and age only, which X-016 allows; the rows transcribed are the Duskas and the two above them."
+ },
+ {
+  "id": "DEC-185",
+  "date": "2026-11-13",
+  "decided": "Four files of part 2 are byte-for-byte copies of files archived earlier and make no new documents; they are listed in the manifest under 'copies'.",
+  "why": "Same SHA-256 as D-006-03, D-006-04, D-006-10 and D-X01-03. The 1984 form stays public only as the blacked-out copy."
+ },
+ {
+  "id": "DEC-186",
+  "date": "2026-11-13",
+  "decided": "The cut of the 1903 page sent as both JPG and PNG is one document; both files are kept.",
+  "why": "The same picture in two formats."
+ },
+ {
+  "id": "DEC-187",
+  "date": "2026-11-13",
+  "decided": "Czech_Origins_Notes_on_Job_1_.docx is held unopened and the coordinator is asked.",
+  "why": "A hired researcher's notes are someone's conclusions about the family. Rule 31 covers the owner's compilations (held) and translations made for him (readable after my own reading); this may be either."
+ },
+ {
+  "id": "DEC-188",
+  "date": "2026-11-13",
+  "decided": "The Québec death index's 'Joseph' and 'E.' are not entered on the tree; the conflict is raised as H-093.",
+  "why": "Three original records name the parents of Ahn 8. A derivative index does not outweigh them, but a conflict is written down, not passed over."
  }
 ]

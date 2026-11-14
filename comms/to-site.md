@@ -3,7 +3,12 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 13 Nov 2026, after Duska batch B-055.
+- Last updated: 13 Nov 2026, after Duska batch B-056.
+
+## 00000000000000000000000000000. New at B-056
+
+- Five documents `D-015-05` to `-09` in folder `F-015`; they carry `part: "part 2"`. The folder's `MANIFEST.json` has a new list `copies` (files identical to ones archived earlier) beside `files` and `held`.
+- `hypotheses.json`: `H-093`. `sources.json`: `S-000-20`, `S-000-21` after `S-000-19`. `priors.json`: `PR-19`. `page_wants.json`: 13 strips now `in hand`.
 
 ## 0000000000000000000000000000. New at B-055
 

@@ -5,9 +5,9 @@ The owner said on 13 November 2026 that he will send the full register pages at 
 Nearly every record in this archive is one row cut from a page. A row keeps the names. It loses the page number, often the year, and the entries above and below it. The year on most strips is the one in the owner's file name, and at least eight of those have already proved wrong.
 
 - **44** strips are rank 1: a direct-line entry, or one an open hypothesis rests on.
-- **130** are rank 2: other Duska strips whose year is only in the file name.
+- **128** are rank 2: other Duska strips whose year is only in the file name.
 - **252** are rank 3: the rest, most of them routed to the Demko and Places agents, who will rank their own.
-- **11** are already covered by a full page that has arrived.
+- **13** are already covered by a full page that has arrived.
 - **10** pages are needed and have not been seen in any form (last table).
 
 ## Rank 1: what each page would settle
@@ -67,7 +67,7 @@ For each: the page heading with its year and page number, and the rows above and
 
 **Baptisms, Iňačovce Greek Catholic** (26): `D-005-01` 24 October [1844], `D-005-02` 26 and 27 November [1852], `D-005-03` 2nd of an unnamed month [1816], `D-005-04` 25 February [1870 or earlier], `D-005-07` 22 and 23 June [1853], `D-005-14` 17 and 18 November [1871], `D-005-15` 14 October [1848], `D-005-19` 2 and 3 March [1862], `D-005-23` 21 and 22 April [1844], `D-005-25` 11 and 12 February [1882], `D-005-26` 11 and 12 July [1868 per the label], `D-005-28` 16 and 17 June [1846], `D-005-29` 21 and 22 May [1841], `D-005-31` 17 and 18 June [1837], `D-005-32` 26 and 27 October [1846], `D-005-33` 6 and 7 February [1853], `D-005-36` 22 April [1872], `D-005-40` 10 October [1874], `D-005-42` 15 and 16 July [1868 per the label], `D-005-44` 16 and 17 August [1844], `D-005-46` 18th of an unnamed month [1814], `D-005-47` 11 and 12 May [1839], `D-005-48` 5 and 6 September [1869], `D-005-53` 1 and 2 November [1896], `D-005-54` 17 and 19 June [1894], `D-005-57` 10 and 11 February [1851]
 
-**Baptisms, Iňačovce Reformed** (25): `D-007-01` 8 and 9 November [1872], `D-007-02` 21 and 28 November [1897], `D-007-03` 24 and 27 February [1898], `D-007-04` 8 September [1841], `D-007-05` 17 and 19 November [1871], `D-007-12` 20 May [1843], `D-007-15` 10 and 11 April [1852], `D-007-17` 17 and 18 July [1870], `D-007-19` 10 and 11 January [1882], `D-007-23` 25 and 28 May [1834], `D-007-24` 8 June [1844], `D-007-25` 23 and 24 August [1852], `D-007-26` 13 and 15 [month cut off] [1893], `D-007-27` 15 and 18 April [1920], `D-007-28` 21 and 22 April [1888], `D-007-29` 25 and 29 March [1903], `D-007-30` 3 October [1867], `D-007-34` 25 and 26 July [1840], `D-007-35` 24 September [1873], `D-007-36` 29 January 189[3], `D-007-38` 12 May [1829], `D-007-40` 22 and [24?] February 1833, `D-007-41` 9 October [1873], `D-007-43` 21 and 22 January [1837], `D-007-44` 1 November [1863]
+**Baptisms, Iňačovce Reformed** (23): `D-007-01` 8 and 9 November [1872], `D-007-02` 21 and 28 November [1897], `D-007-03` 24 and 27 February [1898], `D-007-04` 8 September [1841], `D-007-05` 17 and 19 November [1871], `D-007-12` 20 May [1843], `D-007-17` 17 and 18 July [1870], `D-007-19` 10 and 11 January [1882], `D-007-23` 25 and 28 May [1834], `D-007-24` 8 June [1844], `D-007-26` 13 and 15 [month cut off] [1893], `D-007-27` 15 and 18 April [1920], `D-007-28` 21 and 22 April [1888], `D-007-29` 25 and 29 March [1903], `D-007-30` 3 October [1867], `D-007-34` 25 and 26 July [1840], `D-007-35` 24 September [1873], `D-007-36` 29 January 189[3], `D-007-38` 12 May [1829], `D-007-40` 22 and [24?] February 1833, `D-007-41` 9 October [1873], `D-007-43` 21 and 22 January [1837], `D-007-44` 1 November [1863]
 
 **Baptisms, Prešov Greek Catholic** (2): `D-008-01` 30 July [1822], `D-008-02` 30 July [1822]
 
@@ -103,6 +103,8 @@ For each: the page heading with its year and page number, and the rows above and
 | Strip | Its full page |
 |---|---|
 | `D-006-24` Baptism of Miklós Duska, Senné, 1890: a second copy of the entry | `D-014-09` |
+| `D-007-15` Baptism of György Dusko, Solymos 44, [1852] | `D-015-05` |
+| `D-007-25` Baptism of János Dusko, Solymos 33, [1852] | `D-015-05` |
 | `D-009-01` Baptism of András Duska, Szenna 6, [1882] | `D-014-02` |
 | `D-009-08` Baptism of the twins Anna and Susanna Duska, Ungszenna 73, 1907 | `D-014-03` |
 | `D-009-12` Baptism of Anna Duska, Jesztreb, 1879 (filed as 1875) | `D-014-05` |

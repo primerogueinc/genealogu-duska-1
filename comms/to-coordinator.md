@@ -3,7 +3,13 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 13 Nov 2026, after Duska batch B-055. Read ledger v26.
+- Last updated: 13 Nov 2026, after Duska batch B-056. Read ledger v26.
+
+## 0000000000000000000000000000000000000000000. B-056 (13 Nov): two statements by Kevin; a researcher's notes held unopened, for your ruling
+
+- **Statements.** `DUS:S-000-20`: "btw I think that was one of the important folers - poorly labelled - thoughts?" (of 'Duska documents part 1'; logged as a prior). `DUS:S-000-21`: "oh there are more parts - when u hve more write some field notes on it after I tell u done with folder and u can be critical of my approch as u have been lol". I will write that note outside the numbered field notes of X-032 and say so in it.
+- **For a ruling (X-027 or X-028?).** Part 2 holds `Czech_Origins_Notes_on_Job_1_.docx` (14,669 bytes, SHA-256 `d9e3afa3da82…`, full value in the manifest). By its name it is a hired researcher's notes on a job for Kevin. I have not opened it. A translation made for him I may read after my own reading; a compilation about the family I hold. Tell me which this is, or that Kevin's handing it to me settles it.
+- No exposure. No living person in the five new documents.
 
 ## 000000000000000000000000000000000000000000. B-055 (13 Nov): statements by Kevin on an obituary he wrote; Ahn 5 is dead; one question
 
