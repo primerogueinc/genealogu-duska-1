@@ -1840,6 +1840,11 @@
     "batch": "B-056",
     "effect": "raised from 80 to 87",
     "note": "A second set of books has the birth date. The Québec death index gives Mikalis Duska born 28-11-1890 and died 28-11-1965 (D-015-09). At B-053 I lowered this because the cemetery said it kept almost no birth dates then, so its printed date might have been made up from the day he arrived. The civil index is not the cemetery's book, and it calls 28 November 1965 the date of death. The date of birth stands on two records in Montréal and on the baptism at Szenna 6 (D-015-07). What is still missing is a paper that says the Montréal man came from Senné."
+   },
+   {
+    "batch": "B-058",
+    "effect": "no change",
+    "note": "The owner asked himself in 2022 whether one or two men called Miklós came to Montréal (D-014-10). The strips hold one Miklós Duska born at Senné about 1890. His list also has a 'Miklo Duska, maybe, born about 1890, who travelled to the US in 1913'; if that is the same man he crossed twice, and the passenger strip of 1930 would be a second voyage. Nothing in hand for 1913."
    }
   ]
  },
@@ -2484,6 +2489,11 @@
     "batch": "B-050",
     "effect": "raised at 70",
     "note": "First ruling."
+   },
+   {
+    "batch": "B-058",
+    "effect": "no change",
+    "note": "H-096 now rests on this. The owner's list of 2022 gives György the younger a birth in 1852 from secondary sources; that is a prior and does not lower it."
    }
   ]
  },
@@ -2635,5 +2645,27 @@
    }
   ],
   "question": "When was Ahn 4 born?"
+ },
+ {
+  "id": "H-096",
+  "statement": "György Duska the younger, husband of Erzsébet Schwarz and father of Miklós, is not the György Dusko baptised Reformed at Solymos on 11 April 1852. He was a Roman Catholic born at Senné about 1845.",
+  "confidence": 72,
+  "basis": "The burial of 29 September 1922 at Senné is of a György Duska aged 77, 'born and living at Senné', widower of a later wife (D-013-140); it is very probably the younger György (H-087, 70), and it puts his birth about 1845 in the village. He is Roman Catholic in every entry from [1872] to 1890 and lives in house 6 with the elder György. The György of 1852 was the son of András Dusko of Solymos 44, a Calvinist (D-015-05). The owner's translator looked for a link between the two in 2022 and found none, and says the link came from an online tree (D-015-17). Against: a man born in April 1852 could father a child in November 1872; an age at burial can be out by seven years; a Calvinist who married a Catholic at Senné would appear as a Catholic father from then on. Capped by H-087, which it rests on.",
+  "test": "His marriage to Erzsébet Schwarz, about 1871, which gives his age, his religion and his birthplace: Senné Roman Catholic marriages, or the book that served Alsó-Ribnicze. His own baptism at Senné about 1845, which is before the baptism strips begin. A burial of the Reformed György after 1852 at Solymos would also settle it.",
+  "status": "open",
+  "raised": "B-058",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-058",
+    "effect": "raised at 72",
+    "note": "Raised to answer a line of the owner's to-do list of 2022, which had the two men as one 'via secondary sources'. His list is a prior; the hypothesis rests on the records."
+   }
+  ],
+  "question": "Who was György Duska the younger?",
+  "depends_on": [
+   "H-087"
+  ]
  }
 ]

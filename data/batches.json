@@ -2394,6 +2394,26 @@
    "S-511",
    "S-000-22"
   ],
+  "committed_utc": "2026-11-14T00:15:39Z"
+ },
+ {
+  "id": "B-058",
+  "date": "2026-11-14",
+  "title": "Two held files opened on the owner's word: his to-do list of 2022 and his researcher's closing note",
+  "folder": null,
+  "files": 0,
+  "blurb": "No new files. The owner said to open the two Word files that had been held shut, and both are now read. The one named for DNA holds no DNA. It is his to-do list of January 2022: nine questions about the Duskas, eight of them published, one withheld because it is about a line outside this rebuild. The registers already answer several. Maria Duska of 1905 did die in 1908. Janos of 1877 was born on 4 August. There is one Miklós born at Senné in 1890, not two. One line says a Mike Duska of 1872 was the son of a Gyorgy born in 1852 and Erzsebet Schwarz, 'via secondary sources'. The records disagree on the father's birth: the Gyorgy of 1852 was baptised a Calvinist at Solymos, while the husband of Erzsebet Schwarz was a Catholic of Senné whose burial in 1922 makes him born there about 1845. That is raised as H-096 (72 that they are two men). The other file is the hired researcher's report. It repeats his four translations and adds a paragraph: he could not find the baptism of András, nor of Mária Demková, and the link between the 1852 György and András came, he says, only from an Ancestry tree. Both baptisms are in this archive. Everything in the two files is logged as what the owner knew in 2022 and moves no confidence by itself. Curiosities: 3",
+  "raised": [
+   "H-096"
+  ],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-23",
+   "S-512",
+   "S-513"
+  ],
   "committed_utc": null
  }
 ]

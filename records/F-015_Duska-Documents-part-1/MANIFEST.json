@@ -1,7 +1,7 @@
 {
   "folder": "F-015",
   "desktop_path": "Duska documents part 1",
-  "note": "Sent on 13 Nov 2026 as 'New random ass folder called Duska documents part 1': five images. One is in the repo as sent. Three are published as copies with living people cut or blacked out. One is a second copy of a file already held. Part 2, also 13 Nov 2026: ten images and one Word file. Five images are new and in the repo, one of them in two formats. Four are copies of files archived earlier. The Word file is held unopened. Between parts 1 and 2 the owner sent the five files of part 1 a second time and asked whether he had; he had, byte for byte. Part 3, the last, 14 Nov 2026 (UTC): eight images and three Word files. Two images are new documents; two more are kept as second files of documents already made; four are copies. The three Word files are read and published as text, not as files, because their properties carry a personal name. With part 3 the owner pasted an obituary and sent a small portrait in the chat; they are filed here and marked as not from the folder. Folder closed by the owner: 'part 3 (final)'.",
+  "note": "Sent on 13 Nov 2026 as 'New random ass folder called Duska documents part 1': five images. One is in the repo as sent. Three are published as copies with living people cut or blacked out. One is a second copy of a file already held. Part 2, also 13 Nov 2026: ten images and one Word file. Five images are new and in the repo, one of them in two formats. Four are copies of files archived earlier. The Word file is held unopened. Between parts 1 and 2 the owner sent the five files of part 1 a second time and asked whether he had; he had, byte for byte. Part 3, the last, 14 Nov 2026 (UTC): eight images and three Word files. Two images are new documents; two more are kept as second files of documents already made; four are copies. The three Word files are read and published as text, not as files, because their properties carry a personal name. With part 3 the owner pasted an obituary and sent a small portrait in the chat; they are filed here and marked as not from the folder. Folder closed by the owner: 'part 3 (final)'. The researcher's notes, held at B-056, were opened at B-058 on the owner's word.",
   "files": [
     {
       "file": "Stefan_Duska_and_Maria_Demko_Canada_Arrival_1937.png",
@@ -165,7 +165,9 @@
       "via": "chat upload",
       "part": 2,
       "file_in_repo": false,
-      "held": "Not opened. By its name it is a hired researcher's notes on the work done for the owner: someone's conclusions about the family, not a record and not a plain translation. Rule 31 lets this agent read a translation made for him once its own reading is written down, and holds anything compiled about the family. Which of the two this is cannot be told from outside. Held; the coordinator is asked."
+      "held": "Opened at B-058 on the owner's word (S-000-23). It is the translator's four abstracts, the same text as Translation_from_Czech_Origins.docx, with a closing paragraph to the owner. The paragraph is published as text. The Word file is not in the repo: its properties carry the translator's given name.",
+      "text_in_repo": "Czech_Origins_Notes_on_Job_1___closing_paragraph.txt",
+      "document": "D-015-17"
     },
     {
       "file": "mike_walter_duska_first_marriage_to_Francine_Quenneville.png",

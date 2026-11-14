@@ -1186,5 +1186,35 @@
   "date": "2026-11-14",
   "decided": "B-056's date is corrected to 2026-11-14.",
   "why": "The files of parts 2 and 3 arrived at 00:00 and 00:01 UTC on the 14th (X-018: times in UTC)."
+ },
+ {
+  "id": "DEC-199",
+  "date": "2026-11-14",
+  "decided": "Both held Word files are opened.",
+  "why": "The owner's word in this chat: 'sure might as well' (S-000-23). X-029: his word beats the ledger; act, log it, tell the coordinator."
+ },
+ {
+  "id": "DEC-200",
+  "date": "2026-11-14",
+  "decided": "DUSKA_DNA_TO_DO.docx is published as text, less one line.",
+  "why": "X-023 item 4 holds back what comes from a DNA file until he says so. Opened, this is not a DNA file: it holds no result, match, kit or tester. It is his own compilation (X-027), which he has now let me read. One line names a person of a line outside this rebuild and is neither published nor recorded."
+ },
+ {
+  "id": "DEC-201",
+  "date": "2026-11-14",
+  "decided": "Every statement in the two files is logged as a prior and moves no confidence.",
+  "why": "X-004 and rule 31. They show what the owner knew or was told in 2022."
+ },
+ {
+  "id": "DEC-202",
+  "date": "2026-11-14",
+  "decided": "H-096 is raised on the records, not on the list.",
+  "why": "The list had two men as one 'via secondary sources'. The burial of 1922 and the Reformed baptism of 1852 were both in hand before the list was read; putting them side by side is my own step, prompted by his question, and is marked so."
+ },
+ {
+  "id": "DEC-203",
+  "date": "2026-11-14",
+  "decided": "No search is run for the 1913 and 1880 emigrants.",
+  "why": "A surname search could return the owner's own pages (rule 9)."
  }
 ]

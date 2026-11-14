@@ -472,6 +472,14 @@
   "reliability": "The owner on his great-uncle: two marriages, and dead, which is why a photograph of him may be shown. The obituary he pasted gives the day (D-015-15). The second wife is taken to be living and is not named here."
  },
  {
+  "id": "S-000-23",
+  "batch": "B-058",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 14 Nov 2026 (UTC): open the two held Word files",
+  "extract": "Asked whether to open Czech_Origins_Notes_on_Job_1_.docx and DUSKA_DNA_TO_DO.docx, both held unopened: \"sure might as well\"",
+  "reliability": "The owner's permission to open two of his own files that the rules held shut. It beats the ledger (X-029). What was learned from them is logged as priors and scored as given."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -4262,5 +4270,21 @@
   "title": "Obituary of Michael Walter Duska, 1938 to 2019, died 14 June 2019, son of Michal Duska and Maria Dem[k]o",
   "extract": "Michael Walter Duska, 1938 to 2019, died on 14 June 2019. Husband of a second wife, who survives him. 'Predeceased by his parents, Michal Duska and Maria Demo, as well as his brother Steve and sister-in-law Joan.' He leaves a son, two stepchildren and two grandchildren, 'as well as family in Slovakia and the Philippines'. He helped found a company called Theocon; he wintered in Florida and golfed. No place of death, burial or funeral home. The mother's surname has lost its k. With the index card of his first marriage (D-015-10) this closes H-071: the Michael born in Montréal on 1 December 1938 is the younger son of Ahn 8 and Ahn 9, and he outlived his brother Štefan by a year and eight days.",
   "reliability": "A family-written notice printed eight days after the death: firsthand for the death and the household, hearsay for the parents, whose names it gives with one letter lost. Read from the owner's paste. Reading level: high."
+ },
+ {
+  "id": "S-512",
+  "batch": "B-058",
+  "type": "The owner's own to-do list (a compilation by the owner)",
+  "title": "The owner's to-do list of January 2022: nine open questions",
+  "extract": "Nine questions the owner had open in January 2022, eight of them about Duskas of Senné and Montréal. See D-014-10 and PR-21.",
+  "reliability": "Not evidence of anything but what the owner did and did not know in 2022. Every statement inside a question is a prior. Reading level: not applicable."
+ },
+ {
+  "id": "S-513",
+  "batch": "B-058",
+  "type": "A researcher's report to the owner (derivative)",
+  "title": "The hired researcher's closing note to the owner, January 2022: what he looked for and did not find",
+  "extract": "'I tried to find birth record of András but I failed ... the only source for the information that he is his father is from the Ancestry.com. I also tried to find birth records of Mária Demková, from Iňačovce, but I was unable to find her.'",
+  "reliability": "One man's account of his own search. Good for what he looked at; a failure to find is not a finding. It names an online tree as the only source of one claim. Reading level: not applicable."
  }
 ]

@@ -210,12 +210,13 @@
  {
   "id": "F-014",
   "desktop_path": "Duska Random",
-  "described_as": "Announced by the owner as 'DUSKA RANDOM WHOLE FOLDER': seven full openings of the Senné Roman Catholic baptism book (1879 to 1907), a two-row passenger-list strip, a screenshot of a message from Notre-Dame-des-Neiges cemetery, and a word file named for DNA that was not opened.",
+  "described_as": "Announced by the owner as 'DUSKA RANDOM WHOLE FOLDER': seven full openings of the Senné Roman Catholic baptism book (1879 to 1907), a two-row passenger-list strip, a screenshot of a message from Notre-Dame-des-Neiges cemetery, and a Word file named for DNA, opened at B-058: his to-do list of 2022.",
   "status": "complete",
   "first_seen": "2026-11-13",
   "files_received": 10,
   "batches": [
-   "B-053"
+   "B-053",
+   "B-058"
   ],
   "archive_path": "records/F-014_Duska-Random/",
   "completed": "2026-11-13"
@@ -223,14 +224,15 @@
  {
   "id": "F-015",
   "desktop_path": "Duska documents part 1",
-  "described_as": "Announced by the owner as 'New random ass folder called Duska documents part 1': the obituary of Štefan Duska (2018), a sheet of an index to arrivals of 1937, a second copy of the marriage registration of 1955, and two voters' lists. Part 2: baptism cuts of 1852, 1890 and 1903, two captures of a Québec death index, four copies of files archived before, and a researcher's notes (held). Part 3: the index of Mike Duska's first marriage, Štefan's civil birth certificate of 2005, four copies, and three Word files (a researcher's translations, and the owner's typed copies of the 1937 consent and of a greeting on an icon). Closed by the owner on 14 Nov 2026: 27 files, 16 documents (two of them from the chat, not the folder).",
+  "described_as": "Announced by the owner as 'New random ass folder called Duska documents part 1': the obituary of Štefan Duska (2018), a sheet of an index to arrivals of 1937, a second copy of the marriage registration of 1955, and two voters' lists. Part 2: baptism cuts of 1852, 1890 and 1903, two captures of a Québec death index, four copies of files archived before, and a researcher's notes (held). Part 3: the index of Mike Duska's first marriage, Štefan's civil birth certificate of 2005, four copies, and three Word files (a researcher's translations, and the owner's typed copies of the 1937 consent and of a greeting on an icon). Closed by the owner on 14 Nov 2026: 27 files, 16 documents (two of them from the chat, not the folder). The researcher's notes, held at first, were opened at B-058: 17 documents.",
   "status": "complete",
   "first_seen": "2026-11-13",
   "files_received": 27,
   "batches": [
    "B-055",
    "B-056",
-   "B-057"
+   "B-057",
+   "B-058"
   ],
   "archive_path": "records/F-015_Duska-Documents-part-1/"
  }

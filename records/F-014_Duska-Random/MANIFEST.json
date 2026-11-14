@@ -83,8 +83,10 @@
       "bytes": 14413,
       "received": "2026-11-13",
       "via": "chat upload",
-      "held": "Not opened. By its name it is about DNA, and it is the owner's own working file. At B-053 it was held under rule 26. Since ledger v26 (X-023, rewritten, item 4) a DNA file the owner hands to an agent himself is held by that agent, and nothing from it is published until he says so; his own compilations are also held unopened (X-027). The owner is asked once whether he wants it opened.",
-      "file_in_repo": false
+      "held": "Opened at B-058 on the owner's word ('sure might as well', S-000-23). It holds no DNA: no result, no match, no kit, no tester. It is his to-do list of January 2022, nine questions about the family. Eight are published as text. One names a person of a line outside this rebuild and is withheld. The Word file is not in the repo: its properties carry an account name of the owner's.",
+      "file_in_repo": false,
+      "text_in_repo": "DUSKA_DNA_TO_DO__text_one_line_withheld.txt",
+      "document": "D-014-10"
     }
   ]
 }

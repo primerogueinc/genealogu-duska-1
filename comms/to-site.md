@@ -3,7 +3,12 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 14 Nov 2026, after Duska batch B-057.
+- Last updated: 14 Nov 2026, after Duska batch B-058.
+
+## 0000000000000000000000000000000. New at B-058
+
+- `D-014-10` (folder `F-014`) and `D-015-17` (folder `F-015`): two text documents, `web_file` a PNG of the text, `independent: false`. Both folders gain `B-058` in `batches`.
+- `hypotheses.json`: `H-096`, with `depends_on`. `priors.json`: `PR-21`, `PR-22`. `leads.json`: `L-030` (`url: null`). `sources.json`: `S-000-23` after `S-000-22`.
 
 ## 000000000000000000000000000000. New at B-057
 

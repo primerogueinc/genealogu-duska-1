@@ -26603,5 +26603,113 @@
     "D-015-15, the notice it belongs to"
    ]
   }
+ },
+ {
+  "id": "D-014-10",
+  "folder": "F-014",
+  "batch": "B-058",
+  "source": "S-512",
+  "file": "DUSKA_DNA_TO_DO.docx",
+  "web_file": "DUSKA_DNA_TO_DO__text_one_line_withheld.png",
+  "sha256": "796f451bd3b52d70648b03a4557aecd386f81abf7d5aa5833cc41579d88f0d86",
+  "wide": false,
+  "title": "The owner's to-do list of January 2022: nine open questions",
+  "span": "written 2 to 7 January 2022",
+  "language": "English",
+  "collector_label": "DUSKA DNA TO DO",
+  "family": "FG-48",
+  "route": "duska",
+  "provenance": {
+   "archive": "not an archive record: the owner's own working note",
+   "fond_or_film": "not applicable",
+   "book": "not applicable",
+   "page_or_image": "one Word file, a heading and nine lines",
+   "obtained": "From the owner's desktop folder 'Duska Random', sent through chat on 13 Nov 2026 and held unopened for five batches. Opened on 14 Nov 2026 (UTC) when the owner, asked whether to open it, answered 'sure might as well'. The file's properties date it 2 to 7 January 2022."
+  },
+  "deidentified": "Published as text, with one of the nine lines withheld: it names a person of a line outside this rebuild. The Word file is not in the repository.",
+  "independent": false,
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "January 2022",
+    "from": "The owner's own to-do list (a compilation by the owner: every line is a prior)",
+    "abstract": "Despite its name the file holds nothing from a DNA test. It is the owner's list of what he did not yet know about the Duskas in January 2022, and so a picture of his tree at that date. Each line is logged as a prior and moves nothing (PR-21). Set against the records now in this archive: (1) 'One or two Miklos who came to Montreal': the strips show one Miklós Duska born at Senné in 1890 (D-015-07), and the Montréal records fit him (H-060, 87). (2) 'Did Maria Duska (1905) die in 1908': yes, born 28 May 1905 and died 12 February 1908 at Szenna 98, a daughter of Ahn 16 and 17 (K-485). (3) 'Birthdate of Janos Duska (1877)': 4 August, by a strip whose year is the owner's (K-512). (4) 'Mike Duska (1872) as potential son of Gyorgy (1852) and Erzsebet Schwarz, established via secondary sources': a Mihály was baptised on 9 November [1872] at Szenna 5 with a smudged father and the godparents of that couple (D-009-75). But the husband of Erzsébet Schwarz is not shown to be the György born in 1852, who was baptised Reformed at Solymos; the Senné burial of 1922 makes him a man born about 1845 at Senné (H-096). (5) 'Gyorgy Duska (1880) moved to the US': two Györgys were born at Szenna 6 in 1880; one died in 1885 (K-711), the other is not traced (K-455). (6) 'Erzsebet Schwarz, 1851, and parents': not in hand; she was of Alsó-Ribnicze. (7) 'Miklo Duska born about 1890 who travelled to the US in 1913': not in hand; the Miklós of Senné married on 22 January 1913 (K-578). The ninth line is withheld.",
+    "reading": "n/a"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The list as typed, one line withheld",
+    "original": "DUSKA DNA TREE TO-DO\nDetermine if there are one or two Miklos who came to Montreal. Mass grave Mikalis had a wife named Anna Hancosek. Body received on November 28, 1965.\nDetermine relationships between Miklos if such is the case.\nDetermine if Maria Duska (1905) actually died in 1908? – source\nDetermine birthdate of Janos Duska (1877)\nDeeper dive for Mike Duska (1872) as potential son of Gyorgy (1852) and Ezrzsebet Schwarz – established via secondary sources – looking for primary source corroboration\nConfirm if Gyorgy Duska (1880) moved to the US.\nConfirm Erzsebet Schwarz birthdate in 1851 and parents\nWho is Miklo Duska (Maybe) born about 1890 who travelled to the US in 1913?\n[one line withheld: it concerns a line outside this rebuild]",
+    "english": "As written; the list is in English."
+   }
+  ],
+  "object": {
+   "kind": "A researcher's own to-do list",
+   "form": "A heading in capitals and nine short lines, some with a dash and a note. Years in brackets after names are the owner's way of telling people apart.",
+   "does_not_fit": "The name. 'DNA tree' is, I take it, his name for the tree he kept beside his DNA matches; there is no DNA in the file. I held it shut for five batches on the strength of that word.",
+   "made_by": "The owner, January 2022.",
+   "kept": "His folder 'Duska Random'.",
+   "compared": [
+    "D-015-07, D-015-09, D-006-09: Miklós and 'Mikalis'",
+    "D-013-140: the burial of 1922 of a György Duska born about 1845",
+    "D-015-05: the Reformed György of 1852",
+    "D-015-17: the researcher's remark on the same György"
+   ]
+  }
+ },
+ {
+  "id": "D-015-17",
+  "folder": "F-015",
+  "batch": "B-058",
+  "source": "S-513",
+  "file": "Czech_Origins_Notes_on_Job_1_.docx",
+  "web_file": "Czech_Origins_Notes_on_Job_1___closing_paragraph.png",
+  "sha256": "d9e3afa3da8276a7d7589eba784c6b637803ee2eedf801a5224c31e1af61309c",
+  "wide": false,
+  "title": "The hired researcher's closing note to the owner, January 2022: what he looked for and did not find",
+  "span": "written 13 January 2022",
+  "language": "English",
+  "collector_label": "Czech Origins Notes on Job (1)",
+  "family": "FG-49",
+  "route": "duska",
+  "part": "part 2",
+  "provenance": {
+   "archive": "not an archive record: a paid research service's report to the owner",
+   "fond_or_film": "not applicable",
+   "book": "not applicable",
+   "page_or_image": "one Word file; the four abstracts of D-015-12 and one more paragraph",
+   "obtained": "From the owner's desktop folder 'Duska documents part 1', part 2, held unopened at B-056. Opened on 14 Nov 2026 (UTC) when the owner, asked whether to open it, answered 'sure might as well'. The translator's name is withheld."
+  },
+  "deidentified": "Published as text. The Word file is not in the repository: its properties carry the translator's given name.",
+  "independent": false,
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "13 January 2022",
+    "from": "A researcher's report to the owner (derivative; another man's search, with one source named)",
+    "abstract": "The same four abstracts as D-015-12, then a paragraph to the client. He sent 'the records, with translation and scans'. He 'tried to find birth record of András' and failed. He found 'Georg's birth record', the Reformed one of 1852, 'but the only source for the information that he is his father is from the Ancestry.com'. He also looked for the birth of 'Mária Demková, from Iňačovce' and could not find her. He ends with two glosses: zsellér or želiar, which he gives as cottager, is 'a special kind of peasant' with a little land who must work for bigger farmers; gazda, which he gives as farmer, is 'more of a herder typical for Carpathian mountains'. For this archive: the baptism he could not find is here (András, 24 November [1868], D-009-06), and so is hers, with the Demko agent. The claim that the György of 1852 was the father of András came from a user-built online tree, which this agent does not open; the records in hand say otherwise (H-096, and FG-47 for András's own father). Logged as a prior (PR-22).",
+    "reading": "n/a"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The closing paragraph, as typed",
+    "original": "[The first 28 lines are the four abstracts published as D-015-12, word for word. The file then ends with this paragraph.]\n\nOk so I send you the records, with translation and scans. I tried to find birth record of András but I failed I atleast found Georg's birth record, but the only source for the inforamtion that he is his father is from the Ancestry.com. I also tried to find birth records of Mária Demková, from Iňačovce, but I was unable to find her. I translated term Zsellér(hung.) =Želiar as cottager but it is not 100% correct because it is specific term for Slovakia taht means special kind of peasant living having a little land, but he needs to help bigger farmers around to get more money. Same with Gazda I translated it as farmer but it is special highland farmer or more of a herder typical for Carpathian mountains.",
+    "english": "As written; the note is in English."
+   }
+  ],
+  "object": {
+   "kind": "A hired researcher's covering note, appended to his abstracts",
+   "form": "One unbroken paragraph in a second-language English, after 28 lines identical to the file 'Translation from Czech Origins'. The owner's name for the file has '(1)': a second download of the same attachment.",
+   "does_not_fit": "Nothing. It is franker than a report usually is about what was not found.",
+   "made_by": "The translator of D-015-12. Name withheld.",
+   "kept": "The owner's folder.",
+   "compared": [
+    "D-015-12, the same file without the last paragraph",
+    "D-009-06, the baptism of András that he did not find",
+    "D-015-05, the baptism of 1852 that he did"
+   ]
+  }
  }
 ]

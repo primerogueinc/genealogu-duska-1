@@ -1270,5 +1270,38 @@
   "translation": "As written.",
   "why": "What a family forgets first is the spelling of its dead. It is the pattern, not any one error, that is worth keeping.",
   "tone": "odd"
+ },
+ {
+  "id": "C-132",
+  "doc": "D-014-10",
+  "source": "S-512",
+  "title": "The DNA file had no DNA in it",
+  "text": "A file called DUSKA_DNA_TO_DO arrived on the day the coordinator's rule still forbade this agent to touch DNA. It was logged by name and checksum and held shut for five batches, through one reversal of the rule and two requests to its owner. Opened, it is a to-do list: nine questions about dead Duskas, typed in January 2022, with no result, no match and no chromosome anywhere in it. Three of the nine had been answered from the registers before it was opened.",
+  "original": "DUSKA DNA TREE TO-DO",
+  "translation": "As written.",
+  "why": "A rule applied to a file name. It cost nothing but time, and it would have been wrong the other way round.",
+  "tone": "funny"
+ },
+ {
+  "id": "C-133",
+  "doc": "D-015-17",
+  "source": "S-513",
+  "title": "The baptism the professional could not find",
+  "text": "In January 2022 the owner's hired researcher wrote: 'I tried to find birth record of András but I failed.' The strip of that baptism, 24 November 1868, is in the owner's own folder of Senné baptisms, cut out and named by him. So it seems that some time after paying a man who could not find it, he found it himself.",
+  "original": "I tried to find birth record of András but I failed",
+  "translation": "As written.",
+  "why": "The client outdid the contractor. If so it also dates part of his archive: that strip was cut after January 2022.",
+  "tone": "funny"
+ },
+ {
+  "id": "C-134",
+  "doc": "D-015-17",
+  "source": "S-513",
+  "title": "What a zsellér is, by a man who would know",
+  "text": "Every register in this archive calls the Duskas zsellér. The translator's own gloss, written for a Canadian client: 'a special kind of peasant living having a little land, but he needs to help bigger farmers around to get more money.' And gazda, the step above: 'a special highland farmer or more of a herder typical for Carpathian mountains.'",
+  "original": "special kind of peasant living having a little land, but he needs to help bigger farmers around to get more money",
+  "translation": "As written.",
+  "why": "The best definition of the family's station in the whole archive, in one unpunctuated line.",
+  "tone": "history"
  }
 ]
