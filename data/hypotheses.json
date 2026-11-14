@@ -2481,6 +2481,11 @@
     "batch": "B-050",
     "effect": "raised at 55",
     "note": "First ruling."
+   },
+   {
+    "batch": "B-070",
+    "effect": "no change",
+    "note": "H-099 raised beside it: a DNA match lists Nyemcsik among ancestors. If that match descends from Mária Nyemcsik or another child of Ahn 34's parents, it bears on this; nothing shows it yet."
    }
   ]
  },
@@ -2591,6 +2596,11 @@
     "batch": "B-064",
     "effect": "no change",
     "note": "The surnames near the top of the grandfather's match list are largely Carpathian: Slovak, Rusyn, Polish, Hungarian (D-016-18). That is where his cousins' families came from, on both his sides. An impression from names, not a count, and it does not separate the Duska side from the Demko side."
+   },
+   {
+    "batch": "B-070",
+    "effect": "no change",
+    "note": "The owner's own Y files (D-016-33 to -38) agree with the Demko agent's account (L-027) and add: an empty deep-test match list, 23 private variants, and eight men at two steps on the STRs. None is a Duska. The line has no tested neighbour in the time of records. Nothing in it moves the question of where the line came from."
    }
   ],
   "question": "Where did the Duska male line come from before the registers begin?"
@@ -2733,6 +2743,11 @@
     "batch": "B-069",
     "effect": "no change",
     "note": "GEDmatch's X one-to-one (D-016-26) finds nothing shared between grandfather and grandson, as this agent's raw comparison did at B-063. Expected for a father's father; it rules nothing further in or out."
+   },
+   {
+    "batch": "B-070",
+    "effect": "no change",
+    "note": "A third measure: FamilyTreeDNA gives 1,566.58 cM for the owner and the kit he marks 'Grandfather' (D-016-32), and reads that kit's Y chromosome from the chip as R-Z92, the trunk of the owner's branch."
    }
   ],
   "question": "Is the paper tree true at its foot?"
@@ -2760,5 +2775,24 @@
    }
   ],
   "question": "Do the Duska and Demko trees share an ancestor?"
+ },
+ {
+  "id": "H-099",
+  "statement": "A DNA match of Štefan and of the owner who lists Nyemcsik among ancestral surnames is kin through the Nyemcsik family of Szenna, the family of Anna Nyemcsik (Ahn 17) and her father János (Ahn 34).",
+  "confidence": 50,
+  "basis": "The match shares 32.2 cM with Štefan on GEDmatch (D-016-18) and 20.18 cM with the owner at FamilyTreeDNA (D-016-32), is sorted to the owner's father's side there, and gives Nyemcsik, in that Hungarian spelling, as one of 32 surnames of ancestors. The surname is rare; in this archive it is met only at Szenna. Against: the list has other names from the same country (Hudák among them), any of which could carry the shared DNA, and through Maria Demko as easily as through the Duskas. Where the match's Nyemcsik lived is not in the file.",
+  "test": "The village and dates of the match's Nyemcsik ancestor. That is in the match's own tree or head. This agent opens no match's tree and writes to nobody; the owner can find the person in his list by the surname. On paper: the baptisms of János Nyemcsik's brothers and sisters at Szenna, wanted anyway for H-086.",
+  "status": "open",
+  "raised": "B-070",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-070",
+    "effect": "raised at 50",
+    "note": "Raised on DNA and a surname list. Nobody goes on the tree by it (rule 36). It is the first match in the folder that points at a named family of the tree."
+   }
+  ],
+  "question": "Who were the Nyemcsiks of Szenna?"
  }
 ]

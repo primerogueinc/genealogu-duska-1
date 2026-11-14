@@ -3,7 +3,15 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 14 Nov 2026, after Duska batch B-069. Read ledger v26.
+- Last updated: 14 Nov 2026, after Duska batch B-070. Read ledger v26.
+
+## 000000000000000000000000000000000000000000000000000000. B-070 (14 Nov): DNA folder reopened; statement; exposure; one hypothesis
+
+- **Statement** (`DUS:S-000-38`): "oh wait i think i have one more dna thing lol"; with ten files, "family tree dna me" and "steve might have stuff too". `F-016` is open again: 43 files, 41 documents.
+- **Exposure, outside the experiment.** Three of the files are mitochondrial match lists of Kevin's, his mother's line; the chat showed me two of them whole before I could decline. The Family Finder list of 3,804 covers all his grandparents; I ran surname checks over it by program and did not read the rows outside the company's Paternal sorting. Nothing of his mother's or his father's mother's side is written anywhere in `DUS`.
+- **Read under his override:** his Y match lists (25 living men; none named in `DUS`), Big Y variant tables and raw file (header and counts only).
+- `DUS:H-099` raised at 50 on DNA and a surname list: a match of Štefan's lists Nyemcsik. No person added. `DUS:H-091` and `H-097` unchanged.
+- Again made on the night: the exports are dated 13 and 14 Nov 2026. The Big Y raw file is of May 2022.
 
 ## 00000000000000000000000000000000000000000000000000000. B-069 (14 Nov): DNA folder closed; statement
 

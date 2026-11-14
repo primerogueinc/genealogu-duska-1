@@ -592,6 +592,14 @@
   "reliability": "The owner identifies six files and closes folder F-016. The first label says autosomal; the file is the X comparison."
  },
  {
+  "id": "S-000-38",
+  "batch": "B-070",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 14 Nov 2026 (UTC): the DNA folder reopened; FamilyTreeDNA files",
+  "extract": "\"oh wait i think i have one more dna thing lol\"; then, with ten files, \"family tree dna me\" and \"steve might have stuff too\".",
+  "reliability": "The owner reopens folder F-016, identifies ten files as his own results at FamilyTreeDNA, and says there may be files for his grandfather."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -4646,5 +4654,85 @@
   "title": "GEDmatch one-to-many on the X chromosome for the owner's kit ZZ4…: 56 rows",
   "extract": "The X list for one of the owner's four kits: 56 rows, three of them his own other kits. His X chromosome is his mother's, so this is a list of her side, which is outside this rebuild. Two things were taken from it by a program and nothing else: the number of rows, and how many of its kits are also on the grandfather's X list. That second number is 0, here and in the other three (489 different kits across the four). Grandfather and grandson share a fifth of their DNA and not one X match. The four lists for one man run from 56 to 483 rows, which says how much a match list owes to the chip the sample was read on.",
   "reliability": "X-chromosome matching. Small X shares are weak evidence of anything recent. Reading level: high for the figures."
+ },
+ {
+  "id": "S-545",
+  "batch": "B-070",
+  "type": "DNA analysis report (a testing company's export for one kit)",
+  "title": "FamilyTreeDNA Family Finder match list for the owner: 3,804 matches; his grandfather's kit is there; one match lists Nyemcsik",
+  "extract": "The owner's autosomal match list at a second company: 3,804 people. First on it is a kit under the name Duska, 1,566.58 cM, longest block 246.62 cM, which the owner has marked 'Grandfather': Štefan's AncestryDNA file, transferred on 5 January 2022, the day after it was downloaded. That is a third measure of the same link (GEDmatch gave 1,567.6 cM) and the company reads his Y chromosome, from the chip, as R-Z92, which is the trunk the owner's own branch grows from. After him nobody is close: the next match is 73.65 cM and five reach 50. The company has sorted 217 matches as 'Paternal'. On what linked relatives that sorting rests cannot be seen from the file, so it is taken as a pointer and no more. Among the 217, after Štefan, the largest is 24.96 cM. Three things in the list bear on the two trees. One: a match of 20.18 cM (longest block 12.07), sorted Paternal, gives 32 surnames of ancestors and one of them is Nyemcsik, spelled as the priest of Szenna spelled it; the same person is on Štefan's GEDmatch list at 32.2 cM. Štefan's father's mother was Anna Nyemcsik (H-099). Two: the largest Paternal match after Štefan bears a surname of the Demko form; that is for the Demko agent. Three: one match of 14.48 cM lists Hrisko and one of 9.68 cM lists Hresko, each among dozens of other names; noted, no weight. No match lists Duska, Demko, Krak or Kocsis among ancestral surnames, and no village of either tree is named. The surname checks were run by program over the whole list; the rows outside the Paternal sorting, which are the owner's other grandparents' sides, were not read.",
+  "reliability": "A testing company's comparison of one kit with its database. Good for what it counts; a missing match proves little. Reading level: high for the figures."
+ },
+ {
+  "id": "S-546",
+  "batch": "B-070",
+  "type": "DNA analysis report (a testing company's export for one kit)",
+  "title": "FamilyTreeDNA Y-chromosome STR matches for the owner, exact: 17 men, none a Duska",
+  "extract": "Seventeen men whose Y chromosome matches the owner's exactly at the lowest level the company compares (twelve markers, by the Demko agent's note L-027; the file does not say). The five who took the deep test differ from him at 25 to 43 of some 560 to 680 markers, so none is near. Their branches: seven R-M198 and three R-M512 (untested below the trunk), and one each R-Y5571, R-BY60495, R-BY98771, R-Z29117, R-BY164152, R-Z280 and R-Y4459. Countries they give for their male line: Germany 4, Ukraine 2, Slovakia 1, Poland 1, Sweden 1, none given 8. None is a Duska. This is the list the Demko agent described in counts at its B-020; the two accounts agree.",
+  "reliability": "A testing company's comparison of one kit with its database. Good for what it counts; a missing match proves little. Reading level: high for the figures."
+ },
+ {
+  "id": "S-547",
+  "batch": "B-070",
+  "type": "DNA analysis report (a testing company's export for one kit)",
+  "title": "FamilyTreeDNA Y-chromosome STR matches for the owner, two steps off: 8 men, none a Duska",
+  "extract": "Eight men at a distance of two steps, by the usual layout of these exports the 25-marker level (recalled, not stated in the file). Two of them are also on the exact list. Branches: four R-M198, two R-M512, one R-Y5571, one R-YP682. Countries: Russia 2, Ukraine 1, Finland 1, none given 4. None is a Duska. No list came for the 37, 67 or 111-marker levels, where a relative within the time of records would be.",
+  "reliability": "A testing company's comparison of one kit with its database. Good for what it counts; a missing match proves little. Reading level: high for the figures."
+ },
+ {
+  "id": "S-548",
+  "batch": "B-070",
+  "type": "DNA analysis report (a testing company's export for one kit)",
+  "title": "FamilyTreeDNA Big Y match list for the owner: a header and no rows",
+  "extract": "The match list of the deep Y test. It holds the column headings and nothing else. No man in the company's database is close enough on the Y chromosome to be listed. So the male line of the tree has no tested relative in anything like the time of records: no Duska of another branch, and no man of another surname who shares an ancestor in the last several centuries.",
+  "reliability": "A testing company's comparison of one kit with its database. Good for what it counts; a missing match proves little. Reading level: high for the figures."
+ },
+ {
+  "id": "S-549",
+  "batch": "B-070",
+  "type": "DNA analysis report (a testing company's export for one kit)",
+  "title": "Big Y private variants for the owner: 23",
+  "extract": "Twenty-three places on the Y chromosome where the owner differs from the reference and from every other man tested. Each is a mutation that happened in his male line after it parted from its nearest tested neighbour. At something like one such mutation in eighty years on this test (recalled, not sourced), 23 is the better part of two thousand years alone. It fits the company's own statement that his branch formed about 400 BCE (S-000-18). Štefan, Michal, András and the elder György carried all or nearly all of the 23.",
+  "reliability": "A testing company's comparison of one kit with its database. Good for what it counts; a missing match proves little. Reading level: high for the figures."
+ },
+ {
+  "id": "S-550",
+  "batch": "B-070",
+  "type": "DNA analysis report (a testing company's export for one kit)",
+  "title": "Big Y named variants for the owner: 2,542",
+  "extract": "The named mutations found on the owner's Y chromosome: 2,542, of which 1,579 are on the company's tree. They are the steps from the root of the Y tree down to his branch, R-FTB41229. Nothing was computed from them here beyond the count.",
+  "reliability": "A testing company's comparison of one kit with its database. Good for what it counts; a missing match proves little. Reading level: high for the figures."
+ },
+ {
+  "id": "S-551",
+  "batch": "B-070",
+  "type": "DNA analysis report (a testing company's export for one kit)",
+  "title": "Big Y raw data for the owner (VCF and BED), dated 16 May 2022",
+  "extract": "The company's raw download: a variant file of 350,578 records (284,896 passing its quality filter) against human genome build 38, dated 16 May 2022, a list of the regions read, and a readme. Unpacked in an empty directory; the readme and the file header were read and the records counted. This is the test the owner meant when he said he had taken one his grandfather never did. It is the only file in the DNA folder that was plainly on his drive before tonight.",
+  "reliability": "A testing company's comparison of one kit with its database. Good for what it counts; a missing match proves little. Reading level: high for the figures."
+ },
+ {
+  "id": "S-552",
+  "batch": "B-070",
+  "type": "DNA analysis report (a testing company's export for one kit)",
+  "title": "FamilyTreeDNA mitochondrial match list for the owner (full sequence): 70 rows; his mother's line, not used",
+  "extract": "A list of 70 people who match the owner's mitochondrial DNA at the full sequence level. Mitochondrial DNA passes from mother to child, so this is the owner's mother's mother's line and no part of the line rebuilt here. The row count was taken by program. Two of the three files of this kind were shown to this agent whole by the chat; nothing in them is written down or used.",
+  "reliability": "A testing company's comparison of one kit with its database. Good for what it counts; a missing match proves little. Reading level: high for the figures."
+ },
+ {
+  "id": "S-553",
+  "batch": "B-070",
+  "type": "DNA analysis report (a testing company's export for one kit)",
+  "title": "FamilyTreeDNA mitochondrial match list for the owner (two regions): 358 rows; his mother's line, not used",
+  "extract": "A list of 358 people who match the owner's mitochondrial DNA at the two regions level. Mitochondrial DNA passes from mother to child, so this is the owner's mother's mother's line and no part of the line rebuilt here. The row count was taken by program. Two of the three files of this kind were shown to this agent whole by the chat; nothing in them is written down or used.",
+  "reliability": "A testing company's comparison of one kit with its database. Good for what it counts; a missing match proves little. Reading level: high for the figures."
+ },
+ {
+  "id": "S-554",
+  "batch": "B-070",
+  "type": "DNA analysis report (a testing company's export for one kit)",
+  "title": "FamilyTreeDNA mitochondrial match list for the owner (one region): 1131 rows; his mother's line, not used",
+  "extract": "A list of 1131 people who match the owner's mitochondrial DNA at the one region level. Mitochondrial DNA passes from mother to child, so this is the owner's mother's mother's line and no part of the line rebuilt here. The row count was taken by program. Two of the three files of this kind were shown to this agent whole by the chat; nothing in them is written down or used.",
+  "reliability": "A testing company's comparison of one kit with its database. Good for what it counts; a missing match proves little. Reading level: high for the figures."
  }
 ]

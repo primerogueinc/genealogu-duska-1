@@ -1426,5 +1426,35 @@
   "date": "2026-11-14",
   "decided": "The note on the DNA folder is written as field-notes/F-016-the-dna-folder.md.",
   "why": "The owner asked for a note at each juncture (S-000-21, S-000-26) and closed the folder with 'that's it for dna'."
+ },
+ {
+  "id": "DEC-239",
+  "date": "2026-11-14",
+  "decided": "The three mitochondrial match lists are held and not used; one row count each.",
+  "why": "They are the owner's mother's mother's line, outside this rebuild."
+ },
+ {
+  "id": "DEC-240",
+  "date": "2026-11-14",
+  "decided": "The Family Finder list is checked by program for surnames and villages of the two trees; rows outside the company's Paternal sorting are not read.",
+  "why": "They are the owner's other grandparents' sides."
+ },
+ {
+  "id": "DEC-241",
+  "date": "2026-11-14",
+  "decided": "The surnames most common in the Paternal sorting are not published.",
+  "why": "The sorting may take in the owner's father's mother's side, which is outside the experiment, and the lists are living people's."
+ },
+ {
+  "id": "DEC-242",
+  "date": "2026-11-14",
+  "decided": "H-099 is raised at 50 and nobody is added to the tree.",
+  "why": "Rule 36: nobody goes on the tree on DNA alone."
+ },
+ {
+  "id": "DEC-243",
+  "date": "2026-11-14",
+  "decided": "A short note is written on the folder's reopening.",
+  "why": "The closing note said the deep Y test was the one thing missing and that I was not asking for it. It came twenty minutes later. The earlier note is not revised."
  }
 ]

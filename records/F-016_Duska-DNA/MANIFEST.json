@@ -1,7 +1,7 @@
 {
   "folder": "F-016",
   "desktop_path": "DNA (the owner's repository duska-genealogy-DNA)",
-  "note": "The owner's DNA material, sent at random through chat from 14 Nov 2026 (UTC). No image of this folder is in this public repository where it shows a kit number, a match or a tester; figures are transcribed. The files are staged for the owner's own DNA repository, which he has named as their home and as the place to share them with the other agents. Closed by the owner on 14 Nov 2026 ('that's it for dna'): 33 files, 31 documents.",
+  "note": "The owner's DNA material, sent at random through chat from 14 Nov 2026 (UTC). No image of this folder is in this public repository where it shows a kit number, a match or a tester; figures are transcribed. The files are staged for the owner's own DNA repository, which he has named as their home and as the place to share them with the other agents. Closed by the owner on 14 Nov 2026 ('that's it for dna'): 33 files, 31 documents. Reopened by the owner twenty minutes later ('oh wait i think i have one more dna thing lol'): part 9, ten FamilyTreeDNA files; 43 files, 41 documents; open.",
   "files": [
     {
       "file": "GEDmatch_one-to-one_Stefan_Duska_and_Kevin_Duska_Jr__kit_numbers_shortened.txt",
@@ -373,6 +373,116 @@
       "file_in_repo": false,
       "document": "D-016-31",
       "held": "names living people"
+    },
+    {
+      "file": "B82…_Family_Finder_Matches_2026-11-14.csv",
+      "sha256": "c2aedb00d1878c8f5dcea5f5dfea97ebe6eb5036916cd51db210f0dcc50ba9a5",
+      "bytes": 1162471,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 9,
+      "file_in_repo": false,
+      "document": "D-016-32",
+      "held": "names living people, or is the owner's genotype, or carries a kit number"
+    },
+    {
+      "file": "B82…_Y_DNA_Matches_2026-11-14.csv",
+      "sha256": "ee292d4390bca61a6a37a9cc4fad30339e5b80b712278f43f3a69b7e030aeb94",
+      "bytes": 2143,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 9,
+      "file_in_repo": false,
+      "document": "D-016-33",
+      "held": "names living people, or is the owner's genotype, or carries a kit number"
+    },
+    {
+      "file": "B82…_Y_DNA_Matches_2026-11-14_1.csv",
+      "sha256": "8ce20a3de9b5ea56105ce09b591f77f4c69c733e969f51c15e7e2457635c7d17",
+      "bytes": 1181,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 9,
+      "file_in_repo": false,
+      "document": "D-016-34",
+      "held": "names living people, or is the owner's genotype, or carries a kit number"
+    },
+    {
+      "file": "B82…_BigY_Matches_20261113.csv",
+      "sha256": "1f2bcaf70092206c5e11f7da7a0ab0725d20f4831b6fda3aea6f48e4e2b9c689",
+      "bytes": 246,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 9,
+      "file_in_repo": false,
+      "document": "D-016-35",
+      "held": "names living people, or is the owner's genotype, or carries a kit number"
+    },
+    {
+      "file": "B82…_BigY_Private_Variants_20261113.csv",
+      "sha256": "89b4f4b71d13f543d782f69b20ec8e43378d6c74ea8eb62fc9c5707be571ed14",
+      "bytes": 482,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 9,
+      "file_in_repo": false,
+      "document": "D-016-36",
+      "held": "names living people, or is the owner's genotype, or carries a kit number"
+    },
+    {
+      "file": "B82…_BigY_Named_Variants_20261113.csv",
+      "sha256": "e8e675bdacb22b24402a91f484061ed4dcaea1fad7579b3680d36e83a94b9c4e",
+      "bytes": 87392,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 9,
+      "file_in_repo": false,
+      "document": "D-016-37",
+      "held": "names living people, or is the owner's genotype, or carries a kit number"
+    },
+    {
+      "file": "bigy3-[id]_1.zip",
+      "sha256": "8b95bcbb73258386d4d7f5cc61474e5cae19f2ad1a5fa43ad07703dad5d312b2",
+      "bytes": 17563179,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 9,
+      "file_in_repo": false,
+      "document": "D-016-38",
+      "held": "names living people, or is the owner's genotype, or carries a kit number"
+    },
+    {
+      "file": "B82…_MT_DNA_Matches_2026-11-14_2.csv",
+      "sha256": "b01631aef72f70641fdc97a5fb7d5798b4614fe5003024d5b540a640e40eae63",
+      "bytes": 10231,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 9,
+      "file_in_repo": false,
+      "document": "D-016-39",
+      "held": "names living people, or is the owner's genotype, or carries a kit number"
+    },
+    {
+      "file": "B82…_MT_DNA_Matches_2026-11-14_1.csv",
+      "sha256": "f14df2c22b2d70609049bc163144909739b7629bb6298f57c3fcf702a11a9020",
+      "bytes": 35454,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 9,
+      "file_in_repo": false,
+      "document": "D-016-40",
+      "held": "names living people, or is the owner's genotype, or carries a kit number"
+    },
+    {
+      "file": "B82…_MT_DNA_Matches_2026-11-14.csv",
+      "sha256": "6a17ddcccad053645351cafaa2c6510781f5d616d51ad715341ef5429c6cee61",
+      "bytes": 103638,
+      "received": "2026-11-14",
+      "via": "chat upload",
+      "part": 9,
+      "file_in_repo": false,
+      "document": "D-016-41",
+      "held": "names living people, or is the owner's genotype, or carries a kit number"
     }
   ],
   "copies": [

@@ -239,10 +239,10 @@
  {
   "id": "F-016",
   "desktop_path": "DNA (the owner's repository duska-genealogy-DNA)",
-  "described_as": "The owner's DNA material, a folder that was in no pile until 14 Nov 2026. Part 1: fourteen GEDmatch admixture results, ten on three kits of his own and four on a kit of his grandfather's. Part 2: the owner's raw genotype files from two testing companies, each also as a zip (held; not published). Part 3: the raw AncestryDNA file of the kit called Steve's (held). Part 4: GEDmatch match lists for the kit named Stefan Duska and for one of the owner's (held; counts only). Part 5: the match lists of the owner's other three kits (held; three numbers read from each). Part 6: GEDmatch's one-to-one comparison of the grandfather and the owner (in the repo with kit numbers shortened). Part 7: 'Are your parents related?' reports for the grandfather and for the owner (held; text transcribed). Part 8: the X chromosome: a one-to-one of grandfather and owner (nothing shared, as expected) and X match lists for all five kits (held; counts only). Closed by the owner on 14 Nov 2026: 33 files, 31 documents.",
-  "status": "complete",
+  "described_as": "The owner's DNA material, a folder that was in no pile until 14 Nov 2026. Part 1: fourteen GEDmatch admixture results, ten on three kits of his own and four on a kit of his grandfather's. Part 2: the owner's raw genotype files from two testing companies, each also as a zip (held; not published). Part 3: the raw AncestryDNA file of the kit called Steve's (held). Part 4: GEDmatch match lists for the kit named Stefan Duska and for one of the owner's (held; counts only). Part 5: the match lists of the owner's other three kits (held; three numbers read from each). Part 6: GEDmatch's one-to-one comparison of the grandfather and the owner (in the repo with kit numbers shortened). Part 7: 'Are your parents related?' reports for the grandfather and for the owner (held; text transcribed). Part 8: the X chromosome: a one-to-one of grandfather and owner (nothing shared, as expected) and X match lists for all five kits (held; counts only). Closed by the owner on 14 Nov 2026: 33 files, 31 documents. Reopened the same night. Part 9: ten FamilyTreeDNA files of the owner's: Family Finder matches, Y-STR matches, Big Y matches (empty), private and named variants, Big Y raw data, and three mitochondrial lists (his mother's line; not used).",
+  "status": "open",
   "first_seen": "2026-11-14",
-  "files_received": 33,
+  "files_received": 43,
   "batches": [
    "B-060",
    "B-061",
@@ -251,7 +251,8 @@
    "B-065",
    "B-067",
    "B-068",
-   "B-069"
+   "B-069",
+   "B-070"
   ],
   "archive_path": "records/F-016_Duska-DNA/"
  }

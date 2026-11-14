@@ -2630,6 +2630,34 @@
    "S-543",
    "S-544"
   ],
+  "committed_utc": "2026-11-14T05:02:48Z"
+ },
+ {
+  "id": "B-070",
+  "date": "2026-11-14",
+  "title": "The DNA folder reopened: the deep Y test has no matches at all, and one stranger's list says Nyemcsik",
+  "folder": "F-016",
+  "files": 10,
+  "blurb": "Twenty minutes after closing the DNA folder the owner found his results from a second company, ten files. The Y chromosome first, since it is the Duska line itself. His deep Y test has a match list with headings and no rows: no man in the database is near him. He carries 23 mutations nobody else has, which is most of two thousand years of a line on its own. Twenty-five men match at the shallowest levels and none is a Duska. So the male line has no tested cousin, and the Y cannot say whether the Catholic Duskas of Szenna and the Reformed Duskas of Solymos were one family. Then the autosomal list, 3,804 people. Štefan's kit is in it at 1,566.58 cM, a third measure of grandfather and grandson. Nobody else is close. But one match, who shares 32 cM with Štefan, lists Nyemcsik among their ancestors' surnames. Štefan's grandmother was Anna Nyemcsik. That is raised as H-099 at 50 and nobody is added to the tree. The largest match on the father's side bears a Demko-form surname; the Demko agent is told. Three mitochondrial lists are his mother's line and are not used. Folder F-016 is open again at 43 files. Curiosities: 2",
+  "raised": [
+   "H-099"
+  ],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-38",
+   "S-545",
+   "S-546",
+   "S-547",
+   "S-548",
+   "S-549",
+   "S-550",
+   "S-551",
+   "S-552",
+   "S-553",
+   "S-554"
+  ],
   "committed_utc": null
  }
 ]

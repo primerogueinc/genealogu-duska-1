@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-14 after batch B-069 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-14 after batch B-070 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -49,6 +49,8 @@ Updated 2026-11-14 after batch B-069 (read ledger v26). Requests R-001 to R-011 
 - F-016 part 7: Štefan's parents were not near cousins (`D-016-24`); `H-098` raised on the two Hresko women, across both lines.
 - F-016 closed by the owner: 33 files, 31 documents. The X files change nothing in the tree.
 - Folder note written: `field-notes/F-016-the-dna-folder.md`.
+- F-016 reopened by the owner: part 9, ten FamilyTreeDNA files; open at 43 files.
+- `H-099` raised (50): a DNA match lists Nyemcsik. Big Y match list empty; `H-091` unchanged.
 
 ## Concluded
 

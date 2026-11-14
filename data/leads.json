@@ -281,5 +281,19 @@
   "url": null,
   "bears_on": "H-079",
   "proof": "lead"
+ },
+ {
+  "id": "L-033",
+  "text": "A DNA match of the grandfather's kit (32.2 cM on GEDmatch) and of the owner (20.18 cM at FamilyTreeDNA) lists Nyemcsik among 32 ancestral surnames (D-016-32). The owner can find the person in his own Family Finder list by that surname. Not named here; not contacted; tree not opened.",
+  "url": null,
+  "bears_on": "H-099",
+  "proof": "lead"
+ },
+ {
+  "id": "L-034",
+  "text": "The largest match sorted to the owner's father's side at FamilyTreeDNA after his grandfather, 24.96 cM with a longest block of 18.82 cM, bears a surname of the Demko form (D-016-32). For the Demko agent. Not named here.",
+  "url": null,
+  "bears_on": "the Demko line",
+  "proof": "lead"
  }
 ]

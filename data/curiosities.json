@@ -1414,5 +1414,27 @@
   "translation": "As written.",
   "why": "A file is what its heading says, not what its sender calls it. The same lesson as the folder names, in a new medium.",
   "tone": "funny"
+ },
+ {
+  "id": "C-145",
+  "doc": "D-016-35",
+  "source": "S-548",
+  "title": "The deepest test there is, and its match list is one line long",
+  "text": "The owner paid for the most thorough reading of a Y chromosome that is sold. Its match list has fourteen column headings and no rows. In four years nobody close enough to list has turned up. Whoever the Duskas' cousins in the male line are, none of them has been curious in the same way.",
+  "original": "\"Full_Name\",\"First_Name\",\"Middle_Name\",\"Last_Name\",\"Match_Date\", …",
+  "translation": "As written; nothing follows.",
+  "why": "An empty file is a finding. This one says the male line has been on its own for a very long time.",
+  "tone": "odd"
+ },
+ {
+  "id": "C-146",
+  "doc": "D-016-32",
+  "source": "S-545",
+  "title": "One list in 3,804 has the right name in it",
+  "text": "Each match may type in the surnames of their ancestors. About a third do. One of them, a match of Štefan's at 32 cM whose list is mostly German names, has Nyemcsik in it, spelled the Hungarian way, as the priest of Szenna wrote it for Štefan's grandmother in 1872. It is the first time in the whole DNA folder that a stranger's file has said a name from the tree.",
+  "original": "Nyemcsik",
+  "translation": "The surname of Ahn 17 and Ahn 34.",
+  "why": "After 43 files, one word. It proves nothing yet and it is the best lead the DNA gave.",
+  "tone": "odd"
  }
 ]
