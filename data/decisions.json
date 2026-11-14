@@ -1378,5 +1378,11 @@
   "date": "2026-11-14",
   "decided": "The owner's three further match lists are read for the same three numbers as the first and no further.",
   "why": "As at B-064: what is not shared with his grandfather is outside this rebuild."
+ },
+ {
+  "id": "DEC-231",
+  "date": "2026-11-14",
+  "decided": "The pasted table is logged as a statement and a lead, with no document.",
+  "why": "It is a reference table, not a record of the family, and came as text in the chat."
  }
 ]

@@ -2555,6 +2555,22 @@
    "S-534",
    "S-535"
   ],
+  "committed_utc": "2026-11-14T04:51:22Z"
+ },
+ {
+  "id": "B-066",
+  "date": "2026-11-14",
+  "title": "A table of what a 30 cM match means, pasted by the owner",
+  "folder": null,
+  "files": 0,
+  "blurb": "No files. The owner pasted the match site's table of relationship probabilities for 30 shared centimorgans. It is logged as given. Applied to the grandfather's list, it says his 44 matches in that range are most likely fourth to sixth cousins, which puts the shared ancestors around 1790 to 1820: the same horizon the registers reach. So the DNA and the paper run out at about the same generation. Curiosities: 0",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-34"
+  ],
   "committed_utc": null
  }
 ]
