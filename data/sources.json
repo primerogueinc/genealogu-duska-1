@@ -496,6 +496,22 @@
   "reliability": "The owner on his own upbringing, given for the record and for all agents, with an instruction as to tone. It makes him a firsthand witness of the household of Ahn 4 and Ahn 5, not a grandchild at one remove: what he says of their later lives is direct knowledge. It also settles the question put to the coordinator at B-055 about the same sentence in the obituary: it is not to be held."
  },
  {
+  "id": "S-000-26",
+  "batch": "B-060",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 14 Nov 2026 (UTC): a repository for the DNA material, to be shared with all agents",
+  "extract": "\"https://github.com/Prime-Rogue-Inc-Corporate/duska-genealogy-DNA for DNA - share with all\" / \"don't know if me or steve but you're getting ir randomly again :P\"",
+  "reliability": "Where the DNA material is to live and who may see it: every agent. The repository held one line of text when it was read (commit 0892ded)."
+ },
+ {
+  "id": "S-000-27",
+  "batch": "B-060",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 14 Nov 2026 (UTC): the one rule he will not override",
+  "extract": "\"The only rule I won't override - and u can write a new field note on it - is you get what I have now on my hard drive :)\"",
+  "reliability": "The founding rule of the experiment, restated by its owner after he had waived the rest: the evidence is what is on his hard drive now. Nothing is to be made, run, photographed or fetched for the agents."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -4302,5 +4318,117 @@
   "title": "The hired researcher's closing note to the owner, January 2022: what he looked for and did not find",
   "extract": "'I tried to find birth record of András but I failed ... the only source for the information that he is his father is from the Ancestry.com. I also tried to find birth records of Mária Demková, from Iňačovce, but I was unable to find her.'",
   "reliability": "One man's account of his own search. Good for what he looked at; a failure to find is not a finding. It names an online tree as the only source of one claim. Reading level: not applicable."
+ },
+ {
+  "id": "S-514",
+  "batch": "B-060",
+  "type": "Admixture calculator result (statistical estimate; derivative of a DNA test)",
+  "title": "GEDmatch admixture, Eurogenes K13: Kevin (kit ZZ4…)",
+  "extract": "Eurogenes K13, run on a kit the owner's file name gives to Kevin (kit beginning ZZ4). Per cent: North_Atlantic 46.54; Baltic 23.68; West_Med 16.7; West_Asian 2.71; East_Med 5.32; Red_Sea 1.83; South_Asian 3; Siberian 0.22. Every other population in the table is a dash. The figures sum to 100.0.",
+  "reliability": "An estimate of how a genome divides among reference populations chosen by the calculator's author. It bears on the ancestry of the whole person, every line at once, many centuries deep. It names no one and no place. Whose kit it is rests on the owner's file name. Reading level: high."
+ },
+ {
+  "id": "S-515",
+  "batch": "B-060",
+  "type": "Admixture calculator result (statistical estimate; derivative of a DNA test)",
+  "title": "GEDmatch admixture, Eurogenes K13: Steve (kit KJ4…)",
+  "extract": "Eurogenes K13, run on a kit the owner's file name gives to Steve (kit beginning KJ4). Per cent: North_Atlantic 28.15; Baltic 39.79; West_Med 13.11; West_Asian 7.63; East_Med 6.53; South_Asian 1.84; Siberian 2.35; Amerindian 0.6. Every other population in the table is a dash. The figures sum to 100.0.",
+  "reliability": "An estimate of how a genome divides among reference populations chosen by the calculator's author. It bears on the ancestry of the whole person, every line at once, many centuries deep. It names no one and no place. Whose kit it is rests on the owner's file name. Reading level: high."
+ },
+ {
+  "id": "S-516",
+  "batch": "B-060",
+  "type": "Admixture calculator result (statistical estimate; derivative of a DNA test)",
+  "title": "GEDmatch admixture, Eurogenes K36: Kevin (kit ZZ4…)",
+  "extract": "Eurogenes K36, run on a kit the owner's file name gives to Kevin (kit beginning ZZ4). Per cent: Central_Euro 9.12; East_Balkan 1.43; East_Central_Euro 2.16; Eastern_Euro 8.4; Fennoscandian 8.61; French 10.54; Iberian 15.72; Italian 10.5; North_Atlantic 13.24; North_Sea 19.04; South_Central_Asian 0.24; West_Med 1.01. Every other population in the table is a dash. The figures sum to 100.01.",
+  "reliability": "An estimate of how a genome divides among reference populations chosen by the calculator's author. It bears on the ancestry of the whole person, every line at once, many centuries deep. It names no one and no place. Whose kit it is rests on the owner's file name. Reading level: high."
+ },
+ {
+  "id": "S-517",
+  "batch": "B-060",
+  "type": "Admixture calculator result (statistical estimate; derivative of a DNA test)",
+  "title": "GEDmatch admixture, Eurogenes K36: Steve (kit KJ4…)",
+  "extract": "Eurogenes K36, run on a kit the owner's file name gives to Steve (kit beginning KJ4). Per cent: Basque 2.04; Central_Euro 8.19; East_Balkan 5.87; East_Central_Euro 19.66; Eastern_Euro 14.93; Fennoscandian 10.15; French 4.38; Iberian 3.42; Italian 10.07; North_Atlantic 8.85; North_Caucasian 1.36; North_Sea 4.6; South_Asian 0.56; Volga-Ural 3.2; West_Caucasian 2.71. Every other population in the table is a dash. The figures sum to 99.99. The page adds: 'SNPs used in this evaluation: 155282'.",
+  "reliability": "An estimate of how a genome divides among reference populations chosen by the calculator's author. It bears on the ancestry of the whole person, every line at once, many centuries deep. It names no one and no place. Whose kit it is rests on the owner's file name. Reading level: high."
+ },
+ {
+  "id": "S-518",
+  "batch": "B-060",
+  "type": "Admixture calculator result (statistical estimate; derivative of a DNA test)",
+  "title": "GEDmatch admixture, Eurogenes K9: Kevin (kit ZZ4…)",
+  "extract": "Eurogenes K9, run on a kit the owner's file name gives to Kevin (kit beginning ZZ4). Per cent: South Asian 2.26; Caucasus 5.37; Southwest Asian 0.08; Mediterranean 27.81; North European 64.49. Every other population in the table is a dash. The figures sum to 100.01.",
+  "reliability": "An estimate of how a genome divides among reference populations chosen by the calculator's author. It bears on the ancestry of the whole person, every line at once, many centuries deep. It names no one and no place. Whose kit it is rests on the owner's file name. Reading level: high."
+ },
+ {
+  "id": "S-519",
+  "batch": "B-060",
+  "type": "Admixture calculator result (statistical estimate; derivative of a DNA test)",
+  "title": "GEDmatch admixture, Eurogenes K9: Steve (kit KJ4…)",
+  "extract": "Eurogenes K9, run on a kit the owner's file name gives to Steve (kit beginning KJ4). Per cent: South Asian 1.4; Caucasus 8.94; Southwest Asian 0.9; North Amerindian + Arctic 0.09; Siberian 2.14; Mediterranean 16.41; West African 0.13; North European 69.99. Every other population in the table is a dash. The figures sum to 100.0.",
+  "reliability": "An estimate of how a genome divides among reference populations chosen by the calculator's author. It bears on the ancestry of the whole person, every line at once, many centuries deep. It names no one and no place. Whose kit it is rests on the owner's file name. Reading level: high."
+ },
+ {
+  "id": "S-520",
+  "batch": "B-060",
+  "type": "Admixture calculator result (statistical estimate; derivative of a DNA test)",
+  "title": "GEDmatch admixture, Gedrosia K3: Kevin (kit RW4…)",
+  "extract": "Gedrosia K3, run on a kit the owner's file name gives to Kevin (kit beginning RW4). Per cent: E_Eurasian 4.01; SSA 0.68; W_Eurasian 95.31. Every other population in the table is a dash. The figures sum to 100.0.",
+  "reliability": "An estimate of how a genome divides among reference populations chosen by the calculator's author. It bears on the ancestry of the whole person, every line at once, many centuries deep. It names no one and no place. Whose kit it is rests on the owner's file name. Reading level: high."
+ },
+ {
+  "id": "S-521",
+  "batch": "B-060",
+  "type": "Admixture calculator result (statistical estimate; derivative of a DNA test)",
+  "title": "GEDmatch admixture, Gedrosia K3: Kevin (kit ST1…)",
+  "extract": "Gedrosia K3, run on a kit the owner's file name gives to Kevin (kit beginning ST1). Per cent: E_Eurasian 4.12; W_Eurasian 95.88. Every other population in the table is a dash. The figures sum to 100.0.",
+  "reliability": "An estimate of how a genome divides among reference populations chosen by the calculator's author. It bears on the ancestry of the whole person, every line at once, many centuries deep. It names no one and no place. Whose kit it is rests on the owner's file name. Reading level: high."
+ },
+ {
+  "id": "S-522",
+  "batch": "B-060",
+  "type": "Admixture calculator result (statistical estimate; derivative of a DNA test)",
+  "title": "GEDmatch admixture, Gedrosia K3: Kevin (kit ZZ4…)",
+  "extract": "Gedrosia K3, run on a kit the owner's file name gives to Kevin (kit beginning ZZ4). Per cent: E_Eurasian 3.8; SSA 0.63; W_Eurasian 95.56. Every other population in the table is a dash. The figures sum to 99.99.",
+  "reliability": "An estimate of how a genome divides among reference populations chosen by the calculator's author. It bears on the ancestry of the whole person, every line at once, many centuries deep. It names no one and no place. Whose kit it is rests on the owner's file name. Reading level: high."
+ },
+ {
+  "id": "S-523",
+  "batch": "B-060",
+  "type": "Admixture calculator result (statistical estimate; derivative of a DNA test)",
+  "title": "GEDmatch admixture, Gedrosia K3: Steve (kit KJ4…)",
+  "extract": "Gedrosia K3, run on a kit the owner's file name gives to Steve (kit beginning KJ4). Per cent: E_Eurasian 5.99; W_Eurasian 94.01. Every other population in the table is a dash. The figures sum to 100.0.",
+  "reliability": "An estimate of how a genome divides among reference populations chosen by the calculator's author. It bears on the ancestry of the whole person, every line at once, many centuries deep. It names no one and no place. Whose kit it is rests on the owner's file name. Reading level: high."
+ },
+ {
+  "id": "S-524",
+  "batch": "B-060",
+  "type": "Admixture calculator result (statistical estimate; derivative of a DNA test)",
+  "title": "GEDmatch admixture, MDLP K11 Modern: Kevin (kit RW4…)",
+  "extract": "MDLP K11 Modern, run on a kit the owner's file name gives to Kevin (kit beginning RW4). Per cent: African 0.46; Basal 2.41; Iran-Mesolithic 3.66; Neolithic 34.76; EHG 24.73; SEA 0.49; WHG 33.49. Every other population in the table is a dash. The figures sum to 100.0.",
+  "reliability": "An estimate of how a genome divides among reference populations chosen by the calculator's author. It bears on the ancestry of the whole person, every line at once, many centuries deep. It names no one and no place. Whose kit it is rests on the owner's file name. Reading level: high."
+ },
+ {
+  "id": "S-525",
+  "batch": "B-060",
+  "type": "Admixture calculator result (statistical estimate; derivative of a DNA test)",
+  "title": "GEDmatch admixture, MDLP K11 Modern: Kevin (kit ST1…)",
+  "extract": "MDLP K11 Modern, run on a kit the owner's file name gives to Kevin (kit beginning ST1). Per cent: African 0.18; Amerindian 0.13; ASI 0.29; Basal 4.37; Iran-Mesolithic 1.74; Neolithic 34.17; EHG 24.55; WHG 34.58. Every other population in the table is a dash. The figures sum to 100.01.",
+  "reliability": "An estimate of how a genome divides among reference populations chosen by the calculator's author. It bears on the ancestry of the whole person, every line at once, many centuries deep. It names no one and no place. Whose kit it is rests on the owner's file name. Reading level: high."
+ },
+ {
+  "id": "S-526",
+  "batch": "B-060",
+  "type": "Admixture calculator result (statistical estimate; derivative of a DNA test)",
+  "title": "GEDmatch admixture, MDLP K11 Modern: Kevin (kit ZZ4…)",
+  "extract": "MDLP K11 Modern, run on a kit the owner's file name gives to Kevin (kit beginning ZZ4). Per cent: African 0.45; Basal 2.39; Iran-Mesolithic 3.5; Neolithic 34.81; EHG 24.84; SEA 0.49; WHG 33.51. Every other population in the table is a dash. The figures sum to 99.99.",
+  "reliability": "An estimate of how a genome divides among reference populations chosen by the calculator's author. It bears on the ancestry of the whole person, every line at once, many centuries deep. It names no one and no place. Whose kit it is rests on the owner's file name. Reading level: high."
+ },
+ {
+  "id": "S-527",
+  "batch": "B-060",
+  "type": "Admixture calculator result (statistical estimate; derivative of a DNA test)",
+  "title": "GEDmatch admixture, MDLP K11 Modern: Steve (kit KJ4…)",
+  "extract": "MDLP K11 Modern, run on a kit the owner's file name gives to Steve (kit beginning KJ4). Per cent: African 0.17; Amerindian 0.19; Basal 2.57; Iran-Mesolithic 0.84; Neolithic 27.43; EHG 27.86; SEA 0.12; Siberian 1.93; WHG 38.9. Every other population in the table is a dash. The figures sum to 100.01.",
+  "reliability": "An estimate of how a genome divides among reference populations chosen by the calculator's author. It bears on the ancestry of the whole person, every line at once, many centuries deep. It names no one and no place. Whose kit it is rests on the owner's file name. Reading level: high."
  }
 ]

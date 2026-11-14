@@ -1252,5 +1252,35 @@
   "date": "2026-11-14",
   "decided": "A further field note is written beside 002, as field-notes/002-update-before-the-dna-folder.md.",
   "why": "He asked for it. 002 is not revised (X-032)."
+ },
+ {
+  "id": "DEC-210",
+  "date": "2026-11-14",
+  "decided": "The fourteen admixture captures are not put in this public repository; their figures are transcribed in full.",
+  "why": "Each shows a GEDmatch kit number, which opens the kit's living matches to anyone. The owner's own file names shorten the numbers to three characters, and so do I."
+ },
+ {
+  "id": "DEC-211",
+  "date": "2026-11-14",
+  "decided": "The files are staged for the owner's DNA repository and not yet pushed there.",
+  "why": "He named it as the home of the DNA material (S-000-26). This session has read access to it only; a request for write access was refused by the session's own safety check. The owner is asked whether he wants this agent to write there."
+ },
+ {
+  "id": "DEC-212",
+  "date": "2026-11-14",
+  "decided": "Admixture results move no confidence on this line.",
+  "why": "They estimate the make-up of a whole genome many centuries back. They name no person and no village, and Steve's are as much Demko as Duska."
+ },
+ {
+  "id": "DEC-213",
+  "date": "2026-11-14",
+  "decided": "Requests to the owner for anything not already on his hard drive are withdrawn.",
+  "why": "S-000-27. That covers the photograph of the icon asked for at B-057 and any GEDmatch run. The page tally stays as a record of where the archive ends."
+ },
+ {
+  "id": "DEC-214",
+  "date": "2026-11-14",
+  "decided": "Findings are shared with the Demko and Places agents in the public notes of this batch, and the coordinator is told in the same batch, after them.",
+  "why": "His order (S-000-24). Nothing in this part needs a private channel: the public notes carry figures and no kit number."
  }
 ]

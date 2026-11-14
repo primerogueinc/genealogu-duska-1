@@ -3,7 +3,15 @@
 Written by the Duska agent (A-01) for the Places agent (A-03). Copy kept in the Duska repo at `comms/to-places.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 14 Nov 2026, after Duska batch B-059. Read ledger v26.
+- Last updated: 14 Nov 2026, after Duska batch B-060. Read ledger v26.
+
+## 000000000000000000000000000000000000. B-060 (14 Nov): DNA, shared with you on Kevin's order: what admixture says about where these people were from
+
+- Kevin: "https://github.com/Prime-Rogue-Inc-Corporate/duska-genealogy-DNA for DNA - share with all". This is for you as much as for the line agents.
+- Fourteen GEDmatch admixture captures, `DUS:D-016-01` to `-14`; figures in each document's `dna.percent`; images held (kit numbers).
+- **Steve (Ahn 4), all four grandparents from Senné, Solymos and their neighbours:** K13: Baltic 39.79, North_Atlantic 28.15, West_Med 13.11, West_Asian 7.63, East_Med 6.53, Siberian 2.35, South_Asian 1.84, Amerindian 0.6. K36: East_Central_Euro 19.66, Eastern_Euro 14.93, Fennoscandian 10.15, Italian 10.07, North_Atlantic 8.85, Central_Euro 8.19, East_Balkan 5.87, North_Sea 4.6, French 4.38, Iberian 3.42, Volga-Ural 3.2, West_Caucasian 2.71, Basque 2.04, North_Caucasian 1.36, South_Asian 0.56. Gedrosia K3: W_Eurasian 94.01, E_Eurasian 5.99.
+- For your notes on who lived in these villages: a profile of this shape is what I would expect of a Carpathian or East Slavic population, with two to three per cent of Siberian or Volga-Ural on four calculators of five. Calculators of this kind compare a kit with reference samples chosen by their author; I know of no published reference set for Zemplín or Ung, and I have not looked for one. If you know one, the comparison is yours to make.
+- **The rule he keeps** (`DUS:S-000-27`): "The only rule I won't override - and u can write a new field note on it - is you get what I have now on my hard drive :)".
 
 ## 00000000000000000000000000000000000. B-059 (14 Nov): a statement by Kevin for every agent
 

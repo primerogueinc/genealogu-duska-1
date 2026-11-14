@@ -26711,5 +26711,914 @@
     "D-015-05, the baptism of 1852 that he did"
    ]
   }
+ },
+ {
+  "id": "D-016-01",
+  "folder": "F-016",
+  "batch": "B-060",
+  "source": "S-514",
+  "file": "Eurogene_K13_-_Kevin_ZZ4.png",
+  "sha256": "3809151ecc061f861910b2ef80f55207d0d413e14693a886aca627d1ac8b1f50",
+  "wide": true,
+  "held": "The capture shows a GEDmatch kit number in two places. A kit number lets anyone run the kit against the database and see its living matches, so the image is not in this public repository. Its figures are transcribed in full. The file is staged for the owner's DNA repository.",
+  "title": "GEDmatch admixture, Eurogenes K13: Kevin (kit ZZ4…)",
+  "span": "run in or before 2022; undated",
+  "language": "English",
+  "collector_label": "Eurogene K13 - Kevin ZZ4",
+  "family": null,
+  "route": "duska",
+  "part": "part 1",
+  "provenance": {
+   "archive": "GEDmatch (the footer reads 'Web site software and contents ©Copyright 2011-2022 by Verogen, Inc.')",
+   "fond_or_film": "an admixture calculator run on an uploaded DNA kit",
+   "book": "not applicable",
+   "page_or_image": "one screen capture of the result page: a table of percentages and a pie chart",
+   "obtained": "Sent through chat on 14 Nov 2026 (UTC) as the first part of the owner's DNA material, with the words 'don't know if me or steve but you're getting ir randomly again'. He names a repository of his, duska-genealogy-DNA, as its home."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "undated",
+    "from": "Admixture calculator result (a statistical estimate from a DNA kit; not a record of any person or event)",
+    "abstract": "Eurogenes K13, run on a kit the owner's file name gives to Kevin (kit beginning ZZ4). Per cent: North_Atlantic 46.54; Baltic 23.68; West_Med 16.7; West_Asian 2.71; East_Med 5.32; Red_Sea 1.83; South_Asian 3; Siberian 0.22. Every other population in the table is a dash. The figures sum to 100.0.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The table, non-zero rows",
+    "original": "North_Atlantic | 46.54 Pct\nBaltic | 23.68 Pct\nWest_Med | 16.7 Pct\nWest_Asian | 2.71 Pct\nEast_Med | 5.32 Pct\nRed_Sea | 1.83 Pct\nSouth_Asian | 3 Pct\nSiberian | 0.22 Pct",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "ZZ4",
+   "calculator": "Eurogenes K13",
+   "percent": {
+    "North_Atlantic": 46.54,
+    "Baltic": 23.68,
+    "West_Med": 16.7,
+    "West_Asian": 2.71,
+    "East_Med": 5.32,
+    "Red_Sea": 1.83,
+    "South_Asian": 3,
+    "Siberian": 0.22
+   }
+  },
+  "object": {
+   "kind": "A screen capture of a GEDmatch admixture result",
+   "form": "A line with the kit number and the time the run took; a table of reference populations with percentages; a pie chart with a legend that repeats the calculator's name and the kit number.",
+   "does_not_fit": "Nothing on the page says whose kit it is. That is the owner's file name.",
+   "made_by": "The calculator's author; run by the owner.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other captures of the same calculator in this folder"
+   ]
+  }
+ },
+ {
+  "id": "D-016-02",
+  "folder": "F-016",
+  "batch": "B-060",
+  "source": "S-515",
+  "file": "Eurogene_K13_-_Steve_KJ4.png",
+  "sha256": "ee719f815f0e5c275749a54b97cbd9ecb7afa730ac47e25f26aafd9908d0d35f",
+  "wide": true,
+  "held": "The capture shows a GEDmatch kit number in two places. A kit number lets anyone run the kit against the database and see its living matches, so the image is not in this public repository. Its figures are transcribed in full. The file is staged for the owner's DNA repository.",
+  "title": "GEDmatch admixture, Eurogenes K13: Steve (kit KJ4…)",
+  "span": "run in or before 2022; undated",
+  "language": "English",
+  "collector_label": "Eurogene K13 - Steve KJ4",
+  "family": "FG-62",
+  "route": "duska",
+  "part": "part 1",
+  "provenance": {
+   "archive": "GEDmatch (the footer reads 'Web site software and contents ©Copyright 2011-2022 by Verogen, Inc.')",
+   "fond_or_film": "an admixture calculator run on an uploaded DNA kit",
+   "book": "not applicable",
+   "page_or_image": "one screen capture of the result page: a table of percentages and a pie chart",
+   "obtained": "Sent through chat on 14 Nov 2026 (UTC) as the first part of the owner's DNA material, with the words 'don't know if me or steve but you're getting ir randomly again'. He names a repository of his, duska-genealogy-DNA, as its home."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "undated",
+    "from": "Admixture calculator result (a statistical estimate from a DNA kit; not a record of any person or event)",
+    "abstract": "Eurogenes K13, run on a kit the owner's file name gives to Steve (kit beginning KJ4). Per cent: North_Atlantic 28.15; Baltic 39.79; West_Med 13.11; West_Asian 7.63; East_Med 6.53; South_Asian 1.84; Siberian 2.35; Amerindian 0.6. Every other population in the table is a dash. The figures sum to 100.0.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The table, non-zero rows",
+    "original": "North_Atlantic | 28.15 Pct\nBaltic | 39.79 Pct\nWest_Med | 13.11 Pct\nWest_Asian | 7.63 Pct\nEast_Med | 6.53 Pct\nSouth_Asian | 1.84 Pct\nSiberian | 2.35 Pct\nAmerindian | 0.6 Pct",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Steve",
+   "ahnentafel": 4,
+   "kit_prefix": "KJ4",
+   "calculator": "Eurogenes K13",
+   "percent": {
+    "North_Atlantic": 28.15,
+    "Baltic": 39.79,
+    "West_Med": 13.11,
+    "West_Asian": 7.63,
+    "East_Med": 6.53,
+    "South_Asian": 1.84,
+    "Siberian": 2.35,
+    "Amerindian": 0.6
+   }
+  },
+  "object": {
+   "kind": "A screen capture of a GEDmatch admixture result",
+   "form": "A line with the kit number and the time the run took; a table of reference populations with percentages; a pie chart with a legend that repeats the calculator's name and the kit number.",
+   "does_not_fit": "Nothing on the page says whose kit it is. That is the owner's file name.",
+   "made_by": "The calculator's author; run by the owner.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other captures of the same calculator in this folder"
+   ]
+  }
+ },
+ {
+  "id": "D-016-03",
+  "folder": "F-016",
+  "batch": "B-060",
+  "source": "S-516",
+  "file": "Eurogene_K36_-_Kevin_ZZ4.png",
+  "sha256": "80d8fbd6f0338b9fa53ffa0da42f8144aea0e18a8d6f07fa03081ef11770d23d",
+  "wide": true,
+  "held": "The capture shows a GEDmatch kit number in two places. A kit number lets anyone run the kit against the database and see its living matches, so the image is not in this public repository. Its figures are transcribed in full. The file is staged for the owner's DNA repository.",
+  "title": "GEDmatch admixture, Eurogenes K36: Kevin (kit ZZ4…)",
+  "span": "run in or before 2022; undated",
+  "language": "English",
+  "collector_label": "Eurogene K36 - Kevin ZZ4",
+  "family": null,
+  "route": "duska",
+  "part": "part 1",
+  "provenance": {
+   "archive": "GEDmatch (the footer reads 'Web site software and contents ©Copyright 2011-2022 by Verogen, Inc.')",
+   "fond_or_film": "an admixture calculator run on an uploaded DNA kit",
+   "book": "not applicable",
+   "page_or_image": "one screen capture of the result page: a table of percentages and a pie chart",
+   "obtained": "Sent through chat on 14 Nov 2026 (UTC) as the first part of the owner's DNA material, with the words 'don't know if me or steve but you're getting ir randomly again'. He names a repository of his, duska-genealogy-DNA, as its home."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "undated",
+    "from": "Admixture calculator result (a statistical estimate from a DNA kit; not a record of any person or event)",
+    "abstract": "Eurogenes K36, run on a kit the owner's file name gives to Kevin (kit beginning ZZ4). Per cent: Central_Euro 9.12; East_Balkan 1.43; East_Central_Euro 2.16; Eastern_Euro 8.4; Fennoscandian 8.61; French 10.54; Iberian 15.72; Italian 10.5; North_Atlantic 13.24; North_Sea 19.04; South_Central_Asian 0.24; West_Med 1.01. Every other population in the table is a dash. The figures sum to 100.01.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The table, non-zero rows",
+    "original": "Central_Euro | 9.12 Pct\nEast_Balkan | 1.43 Pct\nEast_Central_Euro | 2.16 Pct\nEastern_Euro | 8.4 Pct\nFennoscandian | 8.61 Pct\nFrench | 10.54 Pct\nIberian | 15.72 Pct\nItalian | 10.5 Pct\nNorth_Atlantic | 13.24 Pct\nNorth_Sea | 19.04 Pct\nSouth_Central_Asian | 0.24 Pct\nWest_Med | 1.01 Pct",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "ZZ4",
+   "calculator": "Eurogenes K36",
+   "percent": {
+    "Central_Euro": 9.12,
+    "East_Balkan": 1.43,
+    "East_Central_Euro": 2.16,
+    "Eastern_Euro": 8.4,
+    "Fennoscandian": 8.61,
+    "French": 10.54,
+    "Iberian": 15.72,
+    "Italian": 10.5,
+    "North_Atlantic": 13.24,
+    "North_Sea": 19.04,
+    "South_Central_Asian": 0.24,
+    "West_Med": 1.01
+   }
+  },
+  "object": {
+   "kind": "A screen capture of a GEDmatch admixture result",
+   "form": "A line with the kit number and the time the run took; a table of reference populations with percentages; a pie chart with a legend that repeats the calculator's name and the kit number.",
+   "does_not_fit": "Nothing on the page says whose kit it is. That is the owner's file name.",
+   "made_by": "The calculator's author; run by the owner.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other captures of the same calculator in this folder"
+   ]
+  }
+ },
+ {
+  "id": "D-016-04",
+  "folder": "F-016",
+  "batch": "B-060",
+  "source": "S-517",
+  "file": "Eurogene_K36_-_Steve_KJ4.png",
+  "sha256": "6cf524f34e88744f93c555291002da52fb0b554b1cc673c036a27470d1b223a4",
+  "wide": true,
+  "held": "The capture shows a GEDmatch kit number in two places. A kit number lets anyone run the kit against the database and see its living matches, so the image is not in this public repository. Its figures are transcribed in full. The file is staged for the owner's DNA repository.",
+  "title": "GEDmatch admixture, Eurogenes K36: Steve (kit KJ4…)",
+  "span": "run in or before 2022; undated",
+  "language": "English",
+  "collector_label": "Eurogene K36 - Steve KJ4",
+  "family": "FG-62",
+  "route": "duska",
+  "part": "part 1",
+  "provenance": {
+   "archive": "GEDmatch (the footer reads 'Web site software and contents ©Copyright 2011-2022 by Verogen, Inc.')",
+   "fond_or_film": "an admixture calculator run on an uploaded DNA kit",
+   "book": "not applicable",
+   "page_or_image": "one screen capture of the result page: a table of percentages and a pie chart",
+   "obtained": "Sent through chat on 14 Nov 2026 (UTC) as the first part of the owner's DNA material, with the words 'don't know if me or steve but you're getting ir randomly again'. He names a repository of his, duska-genealogy-DNA, as its home."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "undated",
+    "from": "Admixture calculator result (a statistical estimate from a DNA kit; not a record of any person or event)",
+    "abstract": "Eurogenes K36, run on a kit the owner's file name gives to Steve (kit beginning KJ4). Per cent: Basque 2.04; Central_Euro 8.19; East_Balkan 5.87; East_Central_Euro 19.66; Eastern_Euro 14.93; Fennoscandian 10.15; French 4.38; Iberian 3.42; Italian 10.07; North_Atlantic 8.85; North_Caucasian 1.36; North_Sea 4.6; South_Asian 0.56; Volga-Ural 3.2; West_Caucasian 2.71. Every other population in the table is a dash. The figures sum to 99.99. The page adds: 'SNPs used in this evaluation: 155282'.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The table, non-zero rows",
+    "original": "Basque | 2.04 Pct\nCentral_Euro | 8.19 Pct\nEast_Balkan | 5.87 Pct\nEast_Central_Euro | 19.66 Pct\nEastern_Euro | 14.93 Pct\nFennoscandian | 10.15 Pct\nFrench | 4.38 Pct\nIberian | 3.42 Pct\nItalian | 10.07 Pct\nNorth_Atlantic | 8.85 Pct\nNorth_Caucasian | 1.36 Pct\nNorth_Sea | 4.6 Pct\nSouth_Asian | 0.56 Pct\nVolga-Ural | 3.2 Pct\nWest_Caucasian | 2.71 Pct",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Steve",
+   "ahnentafel": 4,
+   "kit_prefix": "KJ4",
+   "calculator": "Eurogenes K36",
+   "percent": {
+    "Basque": 2.04,
+    "Central_Euro": 8.19,
+    "East_Balkan": 5.87,
+    "East_Central_Euro": 19.66,
+    "Eastern_Euro": 14.93,
+    "Fennoscandian": 10.15,
+    "French": 4.38,
+    "Iberian": 3.42,
+    "Italian": 10.07,
+    "North_Atlantic": 8.85,
+    "North_Caucasian": 1.36,
+    "North_Sea": 4.6,
+    "South_Asian": 0.56,
+    "Volga-Ural": 3.2,
+    "West_Caucasian": 2.71
+   }
+  },
+  "object": {
+   "kind": "A screen capture of a GEDmatch admixture result",
+   "form": "A line with the kit number and the time the run took; a table of reference populations with percentages; a pie chart with a legend that repeats the calculator's name and the kit number.",
+   "does_not_fit": "Nothing on the page says whose kit it is. That is the owner's file name.",
+   "made_by": "The calculator's author; run by the owner.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other captures of the same calculator in this folder"
+   ]
+  }
+ },
+ {
+  "id": "D-016-05",
+  "folder": "F-016",
+  "batch": "B-060",
+  "source": "S-518",
+  "file": "Eurogene_K9_-_Kevin_ZZ4.png",
+  "sha256": "da03f6d2f52e55f0db22187615be3b0340e264d6ac891080947ce6f6a6e5250c",
+  "wide": true,
+  "held": "The capture shows a GEDmatch kit number in two places. A kit number lets anyone run the kit against the database and see its living matches, so the image is not in this public repository. Its figures are transcribed in full. The file is staged for the owner's DNA repository.",
+  "title": "GEDmatch admixture, Eurogenes K9: Kevin (kit ZZ4…)",
+  "span": "run in or before 2022; undated",
+  "language": "English",
+  "collector_label": "Eurogene K9 - Kevin ZZ4",
+  "family": null,
+  "route": "duska",
+  "part": "part 1",
+  "provenance": {
+   "archive": "GEDmatch (the footer reads 'Web site software and contents ©Copyright 2011-2022 by Verogen, Inc.')",
+   "fond_or_film": "an admixture calculator run on an uploaded DNA kit",
+   "book": "not applicable",
+   "page_or_image": "one screen capture of the result page: a table of percentages and a pie chart",
+   "obtained": "Sent through chat on 14 Nov 2026 (UTC) as the first part of the owner's DNA material, with the words 'don't know if me or steve but you're getting ir randomly again'. He names a repository of his, duska-genealogy-DNA, as its home."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "undated",
+    "from": "Admixture calculator result (a statistical estimate from a DNA kit; not a record of any person or event)",
+    "abstract": "Eurogenes K9, run on a kit the owner's file name gives to Kevin (kit beginning ZZ4). Per cent: South Asian 2.26; Caucasus 5.37; Southwest Asian 0.08; Mediterranean 27.81; North European 64.49. Every other population in the table is a dash. The figures sum to 100.01.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The table, non-zero rows",
+    "original": "South Asian | 2.26 Pct\nCaucasus | 5.37 Pct\nSouthwest Asian | 0.08 Pct\nMediterranean | 27.81 Pct\nNorth European | 64.49 Pct",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "ZZ4",
+   "calculator": "Eurogenes K9",
+   "percent": {
+    "South Asian": 2.26,
+    "Caucasus": 5.37,
+    "Southwest Asian": 0.08,
+    "Mediterranean": 27.81,
+    "North European": 64.49
+   }
+  },
+  "object": {
+   "kind": "A screen capture of a GEDmatch admixture result",
+   "form": "A line with the kit number and the time the run took; a table of reference populations with percentages; a pie chart with a legend that repeats the calculator's name and the kit number.",
+   "does_not_fit": "Nothing on the page says whose kit it is. That is the owner's file name.",
+   "made_by": "The calculator's author; run by the owner.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other captures of the same calculator in this folder"
+   ]
+  }
+ },
+ {
+  "id": "D-016-06",
+  "folder": "F-016",
+  "batch": "B-060",
+  "source": "S-519",
+  "file": "Eurogene_K9_-_Steve_KJ4.png",
+  "sha256": "f0f82ba061d1fb554fe0c09ae1761f5e8ac319726b8052f02ecf708c8056b849",
+  "wide": true,
+  "held": "The capture shows a GEDmatch kit number in two places. A kit number lets anyone run the kit against the database and see its living matches, so the image is not in this public repository. Its figures are transcribed in full. The file is staged for the owner's DNA repository.",
+  "title": "GEDmatch admixture, Eurogenes K9: Steve (kit KJ4…)",
+  "span": "run in or before 2022; undated",
+  "language": "English",
+  "collector_label": "Eurogene K9 - Steve KJ4",
+  "family": "FG-62",
+  "route": "duska",
+  "part": "part 1",
+  "provenance": {
+   "archive": "GEDmatch (the footer reads 'Web site software and contents ©Copyright 2011-2022 by Verogen, Inc.')",
+   "fond_or_film": "an admixture calculator run on an uploaded DNA kit",
+   "book": "not applicable",
+   "page_or_image": "one screen capture of the result page: a table of percentages and a pie chart",
+   "obtained": "Sent through chat on 14 Nov 2026 (UTC) as the first part of the owner's DNA material, with the words 'don't know if me or steve but you're getting ir randomly again'. He names a repository of his, duska-genealogy-DNA, as its home."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "undated",
+    "from": "Admixture calculator result (a statistical estimate from a DNA kit; not a record of any person or event)",
+    "abstract": "Eurogenes K9, run on a kit the owner's file name gives to Steve (kit beginning KJ4). Per cent: South Asian 1.4; Caucasus 8.94; Southwest Asian 0.9; North Amerindian + Arctic 0.09; Siberian 2.14; Mediterranean 16.41; West African 0.13; North European 69.99. Every other population in the table is a dash. The figures sum to 100.0.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The table, non-zero rows",
+    "original": "South Asian | 1.4 Pct\nCaucasus | 8.94 Pct\nSouthwest Asian | 0.9 Pct\nNorth Amerindian + Arctic | 0.09 Pct\nSiberian | 2.14 Pct\nMediterranean | 16.41 Pct\nWest African | 0.13 Pct\nNorth European | 69.99 Pct",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Steve",
+   "ahnentafel": 4,
+   "kit_prefix": "KJ4",
+   "calculator": "Eurogenes K9",
+   "percent": {
+    "South Asian": 1.4,
+    "Caucasus": 8.94,
+    "Southwest Asian": 0.9,
+    "North Amerindian + Arctic": 0.09,
+    "Siberian": 2.14,
+    "Mediterranean": 16.41,
+    "West African": 0.13,
+    "North European": 69.99
+   }
+  },
+  "object": {
+   "kind": "A screen capture of a GEDmatch admixture result",
+   "form": "A line with the kit number and the time the run took; a table of reference populations with percentages; a pie chart with a legend that repeats the calculator's name and the kit number.",
+   "does_not_fit": "Nothing on the page says whose kit it is. That is the owner's file name.",
+   "made_by": "The calculator's author; run by the owner.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other captures of the same calculator in this folder"
+   ]
+  }
+ },
+ {
+  "id": "D-016-07",
+  "folder": "F-016",
+  "batch": "B-060",
+  "source": "S-520",
+  "file": "GEDROSIA_-_Kevin_RW4.png",
+  "sha256": "f53715e3a9c9c52bb0a819b4be771e911366343ca4607e2d7e89e2c984a5d5d3",
+  "wide": true,
+  "held": "The capture shows a GEDmatch kit number in two places. A kit number lets anyone run the kit against the database and see its living matches, so the image is not in this public repository. Its figures are transcribed in full. The file is staged for the owner's DNA repository.",
+  "title": "GEDmatch admixture, Gedrosia K3: Kevin (kit RW4…)",
+  "span": "run in or before 2022; undated",
+  "language": "English",
+  "collector_label": "GEDROSIA - Kevin RW4",
+  "family": null,
+  "route": "duska",
+  "part": "part 1",
+  "provenance": {
+   "archive": "GEDmatch (the footer reads 'Web site software and contents ©Copyright 2011-2022 by Verogen, Inc.')",
+   "fond_or_film": "an admixture calculator run on an uploaded DNA kit",
+   "book": "not applicable",
+   "page_or_image": "one screen capture of the result page: a table of percentages and a pie chart",
+   "obtained": "Sent through chat on 14 Nov 2026 (UTC) as the first part of the owner's DNA material, with the words 'don't know if me or steve but you're getting ir randomly again'. He names a repository of his, duska-genealogy-DNA, as its home."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "undated",
+    "from": "Admixture calculator result (a statistical estimate from a DNA kit; not a record of any person or event)",
+    "abstract": "Gedrosia K3, run on a kit the owner's file name gives to Kevin (kit beginning RW4). Per cent: E_Eurasian 4.01; SSA 0.68; W_Eurasian 95.31. Every other population in the table is a dash. The figures sum to 100.0.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The table, non-zero rows",
+    "original": "E_Eurasian | 4.01 Pct\nSSA | 0.68 Pct\nW_Eurasian | 95.31 Pct",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "RW4",
+   "calculator": "Gedrosia K3",
+   "percent": {
+    "E_Eurasian": 4.01,
+    "SSA": 0.68,
+    "W_Eurasian": 95.31
+   }
+  },
+  "object": {
+   "kind": "A screen capture of a GEDmatch admixture result",
+   "form": "A line with the kit number and the time the run took; a table of reference populations with percentages; a pie chart with a legend that repeats the calculator's name and the kit number.",
+   "does_not_fit": "Nothing on the page says whose kit it is. That is the owner's file name.",
+   "made_by": "The calculator's author; run by the owner.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other captures of the same calculator in this folder"
+   ]
+  }
+ },
+ {
+  "id": "D-016-08",
+  "folder": "F-016",
+  "batch": "B-060",
+  "source": "S-521",
+  "file": "GEDROSIA_-_Kevin_ST1.png",
+  "sha256": "d8031ef99d9e00efc3e9857841a046a99370a93199904d5a8a94ced4400ee0f3",
+  "wide": true,
+  "held": "The capture shows a GEDmatch kit number in two places. A kit number lets anyone run the kit against the database and see its living matches, so the image is not in this public repository. Its figures are transcribed in full. The file is staged for the owner's DNA repository.",
+  "title": "GEDmatch admixture, Gedrosia K3: Kevin (kit ST1…)",
+  "span": "run in or before 2022; undated",
+  "language": "English",
+  "collector_label": "GEDROSIA - Kevin ST1",
+  "family": null,
+  "route": "duska",
+  "part": "part 1",
+  "provenance": {
+   "archive": "GEDmatch (the footer reads 'Web site software and contents ©Copyright 2011-2022 by Verogen, Inc.')",
+   "fond_or_film": "an admixture calculator run on an uploaded DNA kit",
+   "book": "not applicable",
+   "page_or_image": "one screen capture of the result page: a table of percentages and a pie chart",
+   "obtained": "Sent through chat on 14 Nov 2026 (UTC) as the first part of the owner's DNA material, with the words 'don't know if me or steve but you're getting ir randomly again'. He names a repository of his, duska-genealogy-DNA, as its home."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "undated",
+    "from": "Admixture calculator result (a statistical estimate from a DNA kit; not a record of any person or event)",
+    "abstract": "Gedrosia K3, run on a kit the owner's file name gives to Kevin (kit beginning ST1). Per cent: E_Eurasian 4.12; W_Eurasian 95.88. Every other population in the table is a dash. The figures sum to 100.0.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The table, non-zero rows",
+    "original": "E_Eurasian | 4.12 Pct\nW_Eurasian | 95.88 Pct",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "ST1",
+   "calculator": "Gedrosia K3",
+   "percent": {
+    "E_Eurasian": 4.12,
+    "W_Eurasian": 95.88
+   }
+  },
+  "object": {
+   "kind": "A screen capture of a GEDmatch admixture result",
+   "form": "A line with the kit number and the time the run took; a table of reference populations with percentages; a pie chart with a legend that repeats the calculator's name and the kit number.",
+   "does_not_fit": "Nothing on the page says whose kit it is. That is the owner's file name.",
+   "made_by": "The calculator's author; run by the owner.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other captures of the same calculator in this folder"
+   ]
+  }
+ },
+ {
+  "id": "D-016-09",
+  "folder": "F-016",
+  "batch": "B-060",
+  "source": "S-522",
+  "file": "GEDROSIA_-_Kevin_ZZ4.png",
+  "sha256": "f1293472f429b819bd8189618dd7d027fc01e66796126a71ef1dc0f39d41b362",
+  "wide": true,
+  "held": "The capture shows a GEDmatch kit number in two places. A kit number lets anyone run the kit against the database and see its living matches, so the image is not in this public repository. Its figures are transcribed in full. The file is staged for the owner's DNA repository.",
+  "title": "GEDmatch admixture, Gedrosia K3: Kevin (kit ZZ4…)",
+  "span": "run in or before 2022; undated",
+  "language": "English",
+  "collector_label": "GEDROSIA - Kevin ZZ4",
+  "family": null,
+  "route": "duska",
+  "part": "part 1",
+  "provenance": {
+   "archive": "GEDmatch (the footer reads 'Web site software and contents ©Copyright 2011-2022 by Verogen, Inc.')",
+   "fond_or_film": "an admixture calculator run on an uploaded DNA kit",
+   "book": "not applicable",
+   "page_or_image": "one screen capture of the result page: a table of percentages and a pie chart",
+   "obtained": "Sent through chat on 14 Nov 2026 (UTC) as the first part of the owner's DNA material, with the words 'don't know if me or steve but you're getting ir randomly again'. He names a repository of his, duska-genealogy-DNA, as its home."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "undated",
+    "from": "Admixture calculator result (a statistical estimate from a DNA kit; not a record of any person or event)",
+    "abstract": "Gedrosia K3, run on a kit the owner's file name gives to Kevin (kit beginning ZZ4). Per cent: E_Eurasian 3.8; SSA 0.63; W_Eurasian 95.56. Every other population in the table is a dash. The figures sum to 99.99.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The table, non-zero rows",
+    "original": "E_Eurasian | 3.8 Pct\nSSA | 0.63 Pct\nW_Eurasian | 95.56 Pct",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "ZZ4",
+   "calculator": "Gedrosia K3",
+   "percent": {
+    "E_Eurasian": 3.8,
+    "SSA": 0.63,
+    "W_Eurasian": 95.56
+   }
+  },
+  "object": {
+   "kind": "A screen capture of a GEDmatch admixture result",
+   "form": "A line with the kit number and the time the run took; a table of reference populations with percentages; a pie chart with a legend that repeats the calculator's name and the kit number.",
+   "does_not_fit": "Nothing on the page says whose kit it is. That is the owner's file name.",
+   "made_by": "The calculator's author; run by the owner.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other captures of the same calculator in this folder"
+   ]
+  }
+ },
+ {
+  "id": "D-016-10",
+  "folder": "F-016",
+  "batch": "B-060",
+  "source": "S-523",
+  "file": "GEDROSIA_-_Steve_KJ4.png",
+  "sha256": "5216ac30a7de4592bbcefbbd7c26888d37e22f8147f688f1a3a1d5570a64c178",
+  "wide": true,
+  "held": "The capture shows a GEDmatch kit number in two places. A kit number lets anyone run the kit against the database and see its living matches, so the image is not in this public repository. Its figures are transcribed in full. The file is staged for the owner's DNA repository.",
+  "title": "GEDmatch admixture, Gedrosia K3: Steve (kit KJ4…)",
+  "span": "run in or before 2022; undated",
+  "language": "English",
+  "collector_label": "GEDROSIA - Steve KJ4",
+  "family": "FG-62",
+  "route": "duska",
+  "part": "part 1",
+  "provenance": {
+   "archive": "GEDmatch (the footer reads 'Web site software and contents ©Copyright 2011-2022 by Verogen, Inc.')",
+   "fond_or_film": "an admixture calculator run on an uploaded DNA kit",
+   "book": "not applicable",
+   "page_or_image": "one screen capture of the result page: a table of percentages and a pie chart",
+   "obtained": "Sent through chat on 14 Nov 2026 (UTC) as the first part of the owner's DNA material, with the words 'don't know if me or steve but you're getting ir randomly again'. He names a repository of his, duska-genealogy-DNA, as its home."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "undated",
+    "from": "Admixture calculator result (a statistical estimate from a DNA kit; not a record of any person or event)",
+    "abstract": "Gedrosia K3, run on a kit the owner's file name gives to Steve (kit beginning KJ4). Per cent: E_Eurasian 5.99; W_Eurasian 94.01. Every other population in the table is a dash. The figures sum to 100.0.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The table, non-zero rows",
+    "original": "E_Eurasian | 5.99 Pct\nW_Eurasian | 94.01 Pct",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Steve",
+   "ahnentafel": 4,
+   "kit_prefix": "KJ4",
+   "calculator": "Gedrosia K3",
+   "percent": {
+    "E_Eurasian": 5.99,
+    "W_Eurasian": 94.01
+   }
+  },
+  "object": {
+   "kind": "A screen capture of a GEDmatch admixture result",
+   "form": "A line with the kit number and the time the run took; a table of reference populations with percentages; a pie chart with a legend that repeats the calculator's name and the kit number.",
+   "does_not_fit": "Nothing on the page says whose kit it is. That is the owner's file name.",
+   "made_by": "The calculator's author; run by the owner.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other captures of the same calculator in this folder"
+   ]
+  }
+ },
+ {
+  "id": "D-016-11",
+  "folder": "F-016",
+  "batch": "B-060",
+  "source": "S-524",
+  "file": "MDLP_Kevin_RW4.png",
+  "sha256": "fb57a56b735e2d25d29a474df1ca98d08e91debcd4cd45c10464e7c324f35b77",
+  "wide": true,
+  "held": "The capture shows a GEDmatch kit number in two places. A kit number lets anyone run the kit against the database and see its living matches, so the image is not in this public repository. Its figures are transcribed in full. The file is staged for the owner's DNA repository.",
+  "title": "GEDmatch admixture, MDLP K11 Modern: Kevin (kit RW4…)",
+  "span": "run in or before 2022; undated",
+  "language": "English",
+  "collector_label": "MDLP Kevin RW4",
+  "family": null,
+  "route": "duska",
+  "part": "part 1",
+  "provenance": {
+   "archive": "GEDmatch (the footer reads 'Web site software and contents ©Copyright 2011-2022 by Verogen, Inc.')",
+   "fond_or_film": "an admixture calculator run on an uploaded DNA kit",
+   "book": "not applicable",
+   "page_or_image": "one screen capture of the result page: a table of percentages and a pie chart",
+   "obtained": "Sent through chat on 14 Nov 2026 (UTC) as the first part of the owner's DNA material, with the words 'don't know if me or steve but you're getting ir randomly again'. He names a repository of his, duska-genealogy-DNA, as its home."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "undated",
+    "from": "Admixture calculator result (a statistical estimate from a DNA kit; not a record of any person or event)",
+    "abstract": "MDLP K11 Modern, run on a kit the owner's file name gives to Kevin (kit beginning RW4). Per cent: African 0.46; Basal 2.41; Iran-Mesolithic 3.66; Neolithic 34.76; EHG 24.73; SEA 0.49; WHG 33.49. Every other population in the table is a dash. The figures sum to 100.0.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The table, non-zero rows",
+    "original": "African | 0.46 Pct\nBasal | 2.41 Pct\nIran-Mesolithic | 3.66 Pct\nNeolithic | 34.76 Pct\nEHG | 24.73 Pct\nSEA | 0.49 Pct\nWHG | 33.49 Pct",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "RW4",
+   "calculator": "MDLP K11 Modern",
+   "percent": {
+    "African": 0.46,
+    "Basal": 2.41,
+    "Iran-Mesolithic": 3.66,
+    "Neolithic": 34.76,
+    "EHG": 24.73,
+    "SEA": 0.49,
+    "WHG": 33.49
+   }
+  },
+  "object": {
+   "kind": "A screen capture of a GEDmatch admixture result",
+   "form": "A line with the kit number and the time the run took; a table of reference populations with percentages; a pie chart with a legend that repeats the calculator's name and the kit number.",
+   "does_not_fit": "Nothing on the page says whose kit it is. That is the owner's file name.",
+   "made_by": "The calculator's author; run by the owner.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other captures of the same calculator in this folder"
+   ]
+  }
+ },
+ {
+  "id": "D-016-12",
+  "folder": "F-016",
+  "batch": "B-060",
+  "source": "S-525",
+  "file": "MDLP_Kevin_ST1.png",
+  "sha256": "d9411ec7888327270ed5b2d94d610b0d6474f0e257256d0df22b0a0dda101be2",
+  "wide": true,
+  "held": "The capture shows a GEDmatch kit number in two places. A kit number lets anyone run the kit against the database and see its living matches, so the image is not in this public repository. Its figures are transcribed in full. The file is staged for the owner's DNA repository.",
+  "title": "GEDmatch admixture, MDLP K11 Modern: Kevin (kit ST1…)",
+  "span": "run in or before 2022; undated",
+  "language": "English",
+  "collector_label": "MDLP Kevin ST1",
+  "family": null,
+  "route": "duska",
+  "part": "part 1",
+  "provenance": {
+   "archive": "GEDmatch (the footer reads 'Web site software and contents ©Copyright 2011-2022 by Verogen, Inc.')",
+   "fond_or_film": "an admixture calculator run on an uploaded DNA kit",
+   "book": "not applicable",
+   "page_or_image": "one screen capture of the result page: a table of percentages and a pie chart",
+   "obtained": "Sent through chat on 14 Nov 2026 (UTC) as the first part of the owner's DNA material, with the words 'don't know if me or steve but you're getting ir randomly again'. He names a repository of his, duska-genealogy-DNA, as its home."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "undated",
+    "from": "Admixture calculator result (a statistical estimate from a DNA kit; not a record of any person or event)",
+    "abstract": "MDLP K11 Modern, run on a kit the owner's file name gives to Kevin (kit beginning ST1). Per cent: African 0.18; Amerindian 0.13; ASI 0.29; Basal 4.37; Iran-Mesolithic 1.74; Neolithic 34.17; EHG 24.55; WHG 34.58. Every other population in the table is a dash. The figures sum to 100.01.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The table, non-zero rows",
+    "original": "African | 0.18 Pct\nAmerindian | 0.13 Pct\nASI | 0.29 Pct\nBasal | 4.37 Pct\nIran-Mesolithic | 1.74 Pct\nNeolithic | 34.17 Pct\nEHG | 24.55 Pct\nWHG | 34.58 Pct",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "ST1",
+   "calculator": "MDLP K11 Modern",
+   "percent": {
+    "African": 0.18,
+    "Amerindian": 0.13,
+    "ASI": 0.29,
+    "Basal": 4.37,
+    "Iran-Mesolithic": 1.74,
+    "Neolithic": 34.17,
+    "EHG": 24.55,
+    "WHG": 34.58
+   }
+  },
+  "object": {
+   "kind": "A screen capture of a GEDmatch admixture result",
+   "form": "A line with the kit number and the time the run took; a table of reference populations with percentages; a pie chart with a legend that repeats the calculator's name and the kit number.",
+   "does_not_fit": "Nothing on the page says whose kit it is. That is the owner's file name.",
+   "made_by": "The calculator's author; run by the owner.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other captures of the same calculator in this folder"
+   ]
+  }
+ },
+ {
+  "id": "D-016-13",
+  "folder": "F-016",
+  "batch": "B-060",
+  "source": "S-526",
+  "file": "MDLP_Kevin_ZZ4.png",
+  "sha256": "f74018377ccc2d9927cff6f693a7a7b05f8ddf0f44c91338f98a1a5b7831eca4",
+  "wide": true,
+  "held": "The capture shows a GEDmatch kit number in two places. A kit number lets anyone run the kit against the database and see its living matches, so the image is not in this public repository. Its figures are transcribed in full. The file is staged for the owner's DNA repository.",
+  "title": "GEDmatch admixture, MDLP K11 Modern: Kevin (kit ZZ4…)",
+  "span": "run in or before 2022; undated",
+  "language": "English",
+  "collector_label": "MDLP Kevin ZZ4",
+  "family": null,
+  "route": "duska",
+  "part": "part 1",
+  "provenance": {
+   "archive": "GEDmatch (the footer reads 'Web site software and contents ©Copyright 2011-2022 by Verogen, Inc.')",
+   "fond_or_film": "an admixture calculator run on an uploaded DNA kit",
+   "book": "not applicable",
+   "page_or_image": "one screen capture of the result page: a table of percentages and a pie chart",
+   "obtained": "Sent through chat on 14 Nov 2026 (UTC) as the first part of the owner's DNA material, with the words 'don't know if me or steve but you're getting ir randomly again'. He names a repository of his, duska-genealogy-DNA, as its home."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "undated",
+    "from": "Admixture calculator result (a statistical estimate from a DNA kit; not a record of any person or event)",
+    "abstract": "MDLP K11 Modern, run on a kit the owner's file name gives to Kevin (kit beginning ZZ4). Per cent: African 0.45; Basal 2.39; Iran-Mesolithic 3.5; Neolithic 34.81; EHG 24.84; SEA 0.49; WHG 33.51. Every other population in the table is a dash. The figures sum to 99.99.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The table, non-zero rows",
+    "original": "African | 0.45 Pct\nBasal | 2.39 Pct\nIran-Mesolithic | 3.5 Pct\nNeolithic | 34.81 Pct\nEHG | 24.84 Pct\nSEA | 0.49 Pct\nWHG | 33.51 Pct",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Kevin",
+   "ahnentafel": 1,
+   "kit_prefix": "ZZ4",
+   "calculator": "MDLP K11 Modern",
+   "percent": {
+    "African": 0.45,
+    "Basal": 2.39,
+    "Iran-Mesolithic": 3.5,
+    "Neolithic": 34.81,
+    "EHG": 24.84,
+    "SEA": 0.49,
+    "WHG": 33.51
+   }
+  },
+  "object": {
+   "kind": "A screen capture of a GEDmatch admixture result",
+   "form": "A line with the kit number and the time the run took; a table of reference populations with percentages; a pie chart with a legend that repeats the calculator's name and the kit number.",
+   "does_not_fit": "Nothing on the page says whose kit it is. That is the owner's file name.",
+   "made_by": "The calculator's author; run by the owner.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other captures of the same calculator in this folder"
+   ]
+  }
+ },
+ {
+  "id": "D-016-14",
+  "folder": "F-016",
+  "batch": "B-060",
+  "source": "S-527",
+  "file": "MDLP_Steve_KJ4.png",
+  "sha256": "9f8e8079cff6a52219a8e289c1cdf529c4687a8641527d2803e11a536f7808e5",
+  "wide": true,
+  "held": "The capture shows a GEDmatch kit number in two places. A kit number lets anyone run the kit against the database and see its living matches, so the image is not in this public repository. Its figures are transcribed in full. The file is staged for the owner's DNA repository.",
+  "title": "GEDmatch admixture, MDLP K11 Modern: Steve (kit KJ4…)",
+  "span": "run in or before 2022; undated",
+  "language": "English",
+  "collector_label": "MDLP Steve KJ4",
+  "family": "FG-62",
+  "route": "duska",
+  "part": "part 1",
+  "provenance": {
+   "archive": "GEDmatch (the footer reads 'Web site software and contents ©Copyright 2011-2022 by Verogen, Inc.')",
+   "fond_or_film": "an admixture calculator run on an uploaded DNA kit",
+   "book": "not applicable",
+   "page_or_image": "one screen capture of the result page: a table of percentages and a pie chart",
+   "obtained": "Sent through chat on 14 Nov 2026 (UTC) as the first part of the owner's DNA material, with the words 'don't know if me or steve but you're getting ir randomly again'. He names a repository of his, duska-genealogy-DNA, as its home."
+  },
+  "entries": [
+   {
+    "no": "n/a",
+    "date": "undated",
+    "from": "Admixture calculator result (a statistical estimate from a DNA kit; not a record of any person or event)",
+    "abstract": "MDLP K11 Modern, run on a kit the owner's file name gives to Steve (kit beginning KJ4). Per cent: African 0.17; Amerindian 0.19; Basal 2.57; Iran-Mesolithic 0.84; Neolithic 27.43; EHG 27.86; SEA 0.12; Siberian 1.93; WHG 38.9. Every other population in the table is a dash. The figures sum to 100.01.",
+    "reading": "high: screen text"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "The table, non-zero rows",
+    "original": "African | 0.17 Pct\nAmerindian | 0.19 Pct\nBasal | 2.57 Pct\nIran-Mesolithic | 0.84 Pct\nNeolithic | 27.43 Pct\nEHG | 27.86 Pct\nSEA | 0.12 Pct\nSiberian | 1.93 Pct\nWHG | 38.9 Pct",
+    "english": "As written."
+   }
+  ],
+  "dna": {
+   "subject": "Steve",
+   "ahnentafel": 4,
+   "kit_prefix": "KJ4",
+   "calculator": "MDLP K11 Modern",
+   "percent": {
+    "African": 0.17,
+    "Amerindian": 0.19,
+    "Basal": 2.57,
+    "Iran-Mesolithic": 0.84,
+    "Neolithic": 27.43,
+    "EHG": 27.86,
+    "SEA": 0.12,
+    "Siberian": 1.93,
+    "WHG": 38.9
+   }
+  },
+  "object": {
+   "kind": "A screen capture of a GEDmatch admixture result",
+   "form": "A line with the kit number and the time the run took; a table of reference populations with percentages; a pie chart with a legend that repeats the calculator's name and the kit number.",
+   "does_not_fit": "Nothing on the page says whose kit it is. That is the owner's file name.",
+   "made_by": "The calculator's author; run by the owner.",
+   "kept": "The owner's hard drive.",
+   "compared": [
+    "the other captures of the same calculator in this folder"
+   ]
+  }
  }
 ]
