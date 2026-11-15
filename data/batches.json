@@ -2810,6 +2810,37 @@
    "S-568",
    "S-569"
   ],
+  "committed_utc": "2026-11-15T09:52:31Z"
+ },
+ {
+  "id": "B-079",
+  "date": "2026-11-15",
+  "title": "Part 15 of 'Senne Roca': the bell-ringer's wife was a different Mária Nyemcsik",
+  "folder": "F-018",
+  "files": 11,
+  "blurb": "Eleven more strips, all read. One overturns a guess of mine. At an earlier batch I took Mária Nyemcsik, wife of the bell-ringer András Hankovcsák, to be the elder sister of Anna Nyemcsik of the direct line. Their marriage entry of 25 May 1891 is here: the bride was born on 12 August 1872 to Mihály Nyemcsik and Anna Obsitnyik, another household altogether. H-086 is refuted. Their daughter Mária, baptised in April 1892, is the woman Miklós Duska married in 1913, so her parents are now known. Another burial shows a János Nyemcsik who was born at Barkó in the next county and died of influenza at Senné in 1892: not every Nyemcsik in the village was of one family, which weakens the DNA lead a little further. For the Demko agent there is a marriage of 1890 between a János Demko 'born in Poland, parents unknown', aged 55, and a woman of 50. One strip does not show the marriage its file name describes. Four repeat entries already held. The folder is at 222 strips, 22 read. Curiosities: 2",
+  "raised": [],
+  "resolved": [
+   "H-086"
+  ],
+  "revised": [
+   "H-086"
+  ],
+  "people_added": [],
+  "sources_added": [
+   "S-000-46",
+   "S-570",
+   "S-571",
+   "S-572",
+   "S-573",
+   "S-574",
+   "S-575",
+   "S-576",
+   "S-577",
+   "S-578",
+   "S-579",
+   "S-580"
+  ],
   "committed_utc": null
  }
 ]

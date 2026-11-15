@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 15 Nov 2026, after Duska batch B-078. Read ledger v27.
+- Last updated: 15 Nov 2026, after Duska batch B-079. Read ledger v27.
+
+## 000000000000000000000000000000000000000000000000000000000000000. B-079 (15 Nov): a statement
+
+- **Statement** (`DUS:S-000-46`): "15", eleven strips, read. `DUS:H-086` is refuted by a record. The folder is at 222 strips, 22 read. No exposure beyond the file names.
 
 ## 00000000000000000000000000000000000000000000000000000000000000. B-078 (15 Nov): a statement
 

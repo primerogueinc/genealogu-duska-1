@@ -1630,5 +1630,29 @@
   "date": "2026-11-15",
   "decided": "The two Duska households at Jesztreb are tracked and not attached.",
   "why": "Rule 30; no record names a parent."
+ },
+ {
+  "id": "DEC-273",
+  "date": "2026-11-15",
+  "decided": "Part 15 is read in the batch it arrived in.",
+  "why": "Eleven strips, all legible in front of me."
+ },
+ {
+  "id": "DEC-274",
+  "date": "2026-11-15",
+  "decided": "H-086 is refuted at 2.",
+  "why": "A marriage entry in hand names the bride's parents and birthday."
+ },
+ {
+  "id": "DEC-275",
+  "date": "2026-11-15",
+  "decided": "D-018-18 is routed to the Places agent and described as what it shows, not what its label says.",
+  "why": "The strip is a different entry from the one the owner names."
+ },
+ {
+  "id": "DEC-276",
+  "date": "2026-11-15",
+  "decided": "Four strips that repeat entries already held are entered as second images, each with its own document.",
+  "why": "They are different crops, not byte copies; one of them supplies a house number the first lacked."
  }
 ]

@@ -29825,5 +29825,444 @@
     "english": "Entry 63, 21 June: Anna Schvarcz, wife of György Szalontay; Szenna, no house number; female; 20 years old; cause, inflammation of the lungs; confessed; buried at Szenna on 23 June."
    }
   ]
+ },
+ {
+  "id": "D-018-12",
+  "folder": "F-018",
+  "batch": "B-079",
+  "source": "S-570",
+  "file": "1890_-_Marriage_of_Janos_Demko_and_Ilona_Mikolyv.png",
+  "sha256": "81f9239044c6eeb53539b17163f63e776b1a73dd56432dfcfbb580eff3f129ea",
+  "wide": true,
+  "title": "Marriage of János Demko, born in Poland, aged 55, and Ilona Mikolyó, aged 50, Szenna 25, 3 March 1890",
+  "span": "3 March 1890",
+  "language": "Hungarian",
+  "collector_label": "1890 - Marriage of Janos Demko and Ilona Mikolyv",
+  "family": null,
+  "route": "demko",
+  "part": "Senne Roca, part 15",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, church registers catalogue no. 1092 (Senné Roman Catholic marriages, 1887 to 1926), microfilm 287-288; FamilySearch catalogue 710997. Volume reference from the Places agent's holdings entry PL-R-001; the strip itself shows no page number.",
+   "fond_or_film": "Prešov no. 1092; FamilySearch films 1793682, 1793683",
+   "book": "Roman Catholic marriage register of Senné ('Házasultak anyakönyve'), by the officiant and the places",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', sub-folder 'Senne Roca', part 15, sent through chat on 15 Nov 2026. A cropped strip; by the folder's name he found it on FamilySearch."
+  },
+  "entries": [
+   {
+    "no": "7",
+    "date": "3 March 1890",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 7 of 1890, 3 March: János Demko, lodger ('lakó'), born in 'Lengyelország', Poland, living at Szenna 25, Roman Catholic, 55, bachelor, 'parents unknown'; and Ilona Mikolyó, born at Klokocsó, living at Szenna 25, Roman Catholic, 50, spinster, daughter of Anna Mikolyó, Roman Catholic cottar of Szenna. Witnesses: György Duska and András Polyák, Roman Catholic cottars of Szenna. Officiant: István Rusznák, dean and parish priest. Remark: the diocesan authority, on 20 February 1890 under no. 397, gave a dispensation from the banns. A couple of 55 and 50 sharing a house and marrying without banns: the owner's label on an unread strip gives them a son baptised in 1874.",
+    "reading": "high; medium for the remark"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+    "original": "7. | 1890 Március 3. | Demko János lakó | Lengyelország | Szenna 25 | r.k. | 55 év | nőtlen | szülei ismeretlenek || Mikolyó Ilona | Klokocsó | Szenna 25 | r.k. | 50 év | hajadon | Mikolyó Anna r.k. zsellér Szenna | Duska György r.k. zsellér Szenna; Polyák András r.k. zsellér Szenna | Rusznák István esperes plébános | A főt. egyházm. hatóság 1890. febr. 20-án 397 sz. a. a hirdetések [alól] felmentvényt adott",
+    "english": "Entry 7 of 1890, 3 March: János Demko, lodger ('lakó'), born in 'Lengyelország', Poland, living at Szenna 25, Roman Catholic, 55, bachelor, 'parents unknown'; and Ilona Mikolyó, born at Klokocsó, living at Szenna 25, Roman Catholic, 50, spinster, daughter of Anna Mikolyó, Roman Catholic cottar of Szenna. Witnesses: György Duska and András Polyák, Roman Catholic cottars of Szenna. Officiant: István Rusznák, dean and parish priest. Remark: the diocesan authority, on 20 February 1890 under no. 397, gave a dispensation from the banns. A couple of 55 and 50 sharing a house and marrying without banns: the owner's label on an unread strip gives them a son baptised in 1874."
+   }
+  ]
+ },
+ {
+  "id": "D-018-13",
+  "folder": "F-018",
+  "batch": "B-079",
+  "source": "S-571",
+  "file": "1891_-_Baptism_of_Anna_Kocsis_daughter_of_Janos__Maria_Halasz_-_died_January_28_1894.png",
+  "sha256": "1531b2c2610985bd62613f217270d415c5a921401ee819f222467772e91f5978",
+  "wide": true,
+  "title": "Baptism of Anna Kocsis, daughter of János and Anna Halász, Szenna 94, 17 and 18 December 1891; died 28 January 1894: a second image",
+  "span": "17 December 1891",
+  "language": "Hungarian",
+  "collector_label": "1891 - Baptism of Anna Kocsis daughter of Janos  Maria Halasz - died January 28 1894",
+  "family": "FG-56",
+  "route": "demko",
+  "part": "Senne Roca, part 15",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, church registers catalogue no. 1089 (Senné Roman Catholic births, 1866 to 1912); FamilySearch catalogue 710997. Volume reference from the Places agent's holdings entry PL-R-001 @641ba53; not on the strip.",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic baptism register of Senné (Szenna, Ungszenna), by the owner's folder name and the officiants' titles",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', sub-folder 'Senne Roca', part 15, sent through chat on 15 Nov 2026. A cropped strip; by the folder's name he found it on FamilySearch.",
+   "catalogue_lead": "Places agent, @208af51: Senné Roman Catholic births from 1866 are Prešov state archive catalogue no. 1089 (L-018). The page of this strip is not established.",
+   "collection_lead": "FamilySearch, 'Slovakia Church and Synagogue Books, 1592-1935', Roman Catholic, Veľké Kapušany, Senné, 'Baptisms (Krsty) 1866-191[.] ... Deaths (Úmrtia) 1831-1877', 337 images: read from the viewer's header on the owner's screenshot D-006-04. The image number of this strip is not known."
+  },
+  "entries": [
+   {
+    "no": "84",
+    "date": "17 December 1891",
+    "from": "Church baptism register (original record, cropped strip)",
+    "abstract": "Entry 84 of 1891: born 17 December, baptised 18 December: Anna, girl, legitimate; parents János Kocsis, Roman Catholic farmer, and Anna Halász, Roman Catholic, of Szenna; house Szenna 94; godparents György Murnyik, farmer, and Anna Obsitnyik, of Szenna; baptised by István Rusznák. Remark: 'meghalt 1894. Jan. 28.' The entry already held as D-009-19, cut differently. The owner's label makes the mother Maria; she is Anna.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+    "original": "84. | 1891 Dec 17 | 1891 Dec 18 | Anna | nő | törvényes | Szenna 94 | Kocsis János r.k. gazda Szenna; Halász Anna r.k. Szenna | Murnyik György r.k. gazda Szenna; Obsitnyik Anna r.k. Szenna | Rusznák István esperes plébános | meghalt 1894. Jan. 28.",
+    "english": "Entry 84 of 1891: born 17 December, baptised 18 December: Anna, girl, legitimate; parents János Kocsis, Roman Catholic farmer, and Anna Halász, Roman Catholic, of Szenna; house Szenna 94; godparents György Murnyik, farmer, and Anna Obsitnyik, of Szenna; baptised by István Rusznák. Remark: 'meghalt 1894. Jan. 28.' The entry already held as D-009-19, cut differently. The owner's label makes the mother Maria; she is Anna."
+   }
+  ]
+ },
+ {
+  "id": "D-018-14",
+  "folder": "F-018",
+  "batch": "B-079",
+  "source": "S-572",
+  "file": "1891_-_Baptism_of_Maria_Knyerso_daughter_of_Janos_and_Anna_Kospocsik.png",
+  "sha256": "6e8eb15a2f4bd5694605e22cdaf1a8a7a857c2f9a4223e3f64919ee2cbd9b2f0",
+  "wide": true,
+  "title": "Baptism of Mária Knyezso, daughter of János (Reformed) and Anna Kosztócsik, Solymos 101, born 6 and baptised 27 December 1891",
+  "span": "6 December 1891",
+  "language": "Hungarian",
+  "collector_label": "1891 - Baptism of Maria Knyerso daughter of Janos and Anna Kospocsik",
+  "family": null,
+  "route": "demko",
+  "part": "Senne Roca, part 15",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, church registers catalogue no. 1089 (Senné Roman Catholic births, 1866 to 1912); FamilySearch catalogue 710997. Volume reference from the Places agent's holdings entry PL-R-001 @641ba53; not on the strip.",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic baptism register of Senné (Szenna, Ungszenna), by the owner's folder name and the officiants' titles",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', sub-folder 'Senne Roca', part 15, sent through chat on 15 Nov 2026. A cropped strip; by the folder's name he found it on FamilySearch.",
+   "catalogue_lead": "Places agent, @208af51: Senné Roman Catholic births from 1866 are Prešov state archive catalogue no. 1089 (L-018). The page of this strip is not established.",
+   "collection_lead": "FamilySearch, 'Slovakia Church and Synagogue Books, 1592-1935', Roman Catholic, Veľké Kapušany, Senné, 'Baptisms (Krsty) 1866-191[.] ... Deaths (Úmrtia) 1831-1877', 337 images: read from the viewer's header on the owner's screenshot D-006-04. The image number of this strip is not known."
+  },
+  "entries": [
+   {
+    "no": "87",
+    "date": "6 December 1891",
+    "from": "Church baptism register (original record, cropped strip)",
+    "abstract": "Entry 87 of 1891: born 6 December, baptised 27 December: Mária, girl, legitimate; Solymos 101; parents János Knyezso, Reformed farmer, and Anna Kosztócsik, Roman Catholic; godparents János Dzvonyik and Zsuzsanna Sárik; baptised by István Szakal the elder, Reformed pastor of Nagy Szeretva. Remark, as far as it reads: the child's father being Reformed, the Reformed pastor had to baptise the child, and so the baptism was late.",
+    "reading": "high; low for the remark"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+    "original": "87. | 1891 dec. 6 | 1891 dec 27 | Mária | leány | törvényes | Solymos 101. | Knyezso János h.v. gazda; Kosztócsik Anna r.k. | Dzvonyik János; Sárik Zsuzsanna | id. Szakal István n. szeretvai h.v. lelkész | a gyermek atyja h.v. [...] lelkésznek kelle[tt] keresztelni a gyermeket, azért késett a keresztelés",
+    "english": "Entry 87 of 1891: born 6 December, baptised 27 December: Mária, girl, legitimate; Solymos 101; parents János Knyezso, Reformed farmer, and Anna Kosztócsik, Roman Catholic; godparents János Dzvonyik and Zsuzsanna Sárik; baptised by István Szakal the elder, Reformed pastor of Nagy Szeretva. Remark, as far as it reads: the child's father being Reformed, the Reformed pastor had to baptise the child, and so the baptism was late."
+   }
+  ]
+ },
+ {
+  "id": "D-018-15",
+  "folder": "F-018",
+  "batch": "B-079",
+  "source": "S-573",
+  "file": "1891_-_Baptism_of_Maria_Marcinko_Kocsis_daugther_of_Mihaly_and_Maria_Kocsis.png",
+  "sha256": "97f46fab1c04616036ff3fe87a4487b170b71f44a3e4adf714728fe4b847bd3d",
+  "wide": true,
+  "title": "Baptism of Mária Marcinko, daughter of Mihály and Mária Kocsis, Szenna 27, 9 and 10 March 1891",
+  "span": "9 March 1891",
+  "language": "Hungarian",
+  "collector_label": "1891 - Baptism of Maria Marcinko Kocsis daugther of Mihaly and Maria Kocsis",
+  "family": null,
+  "route": "demko",
+  "part": "Senne Roca, part 15",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, church registers catalogue no. 1089 (Senné Roman Catholic births, 1866 to 1912); FamilySearch catalogue 710997. Volume reference from the Places agent's holdings entry PL-R-001 @641ba53; not on the strip.",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic baptism register of Senné (Szenna, Ungszenna), by the owner's folder name and the officiants' titles",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', sub-folder 'Senne Roca', part 15, sent through chat on 15 Nov 2026. A cropped strip; by the folder's name he found it on FamilySearch.",
+   "catalogue_lead": "Places agent, @208af51: Senné Roman Catholic births from 1866 are Prešov state archive catalogue no. 1089 (L-018). The page of this strip is not established.",
+   "collection_lead": "FamilySearch, 'Slovakia Church and Synagogue Books, 1592-1935', Roman Catholic, Veľké Kapušany, Senné, 'Baptisms (Krsty) 1866-191[.] ... Deaths (Úmrtia) 1831-1877', 337 images: read from the viewer's header on the owner's screenshot D-006-04. The image number of this strip is not known."
+  },
+  "entries": [
+   {
+    "no": "17",
+    "date": "9 March 1891",
+    "from": "Church baptism register (original record, cropped strip)",
+    "abstract": "Entry 17 of 1891: born 9 March, baptised 10 March: Mária, girl, legitimate; parents Mihály Marcinko, Roman Catholic cottar of Szenna, and Mária Kocsis, Roman Catholic, of Szenna; house Szenna 27; godparents György M[o]vai, Greek Catholic farmer, and Anna Ivanko, Greek Catholic, of Szenna; baptised by István Rusznák. The parents are the couple whose marriage of 4 November 1889 is among the unread strips.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+    "original": "17. | 1891 Március 9 | Március 10 | Mária | leány | törvényes | Marcinko Mihály r.k. zsellér Szenna; Kocsis Mária r.k. Szenna | Szenna 27 | M[o]vai György gk. gazda Szenna; Ivanko Anna gk Szenna | Rusznák István esperes plébános",
+    "english": "Entry 17 of 1891: born 9 March, baptised 10 March: Mária, girl, legitimate; parents Mihály Marcinko, Roman Catholic cottar of Szenna, and Mária Kocsis, Roman Catholic, of Szenna; house Szenna 27; godparents György M[o]vai, Greek Catholic farmer, and Anna Ivanko, Greek Catholic, of Szenna; baptised by István Rusznák. The parents are the couple whose marriage of 4 November 1889 is among the unread strips."
+   }
+  ]
+ },
+ {
+  "id": "D-018-16",
+  "folder": "F-018",
+  "batch": "B-079",
+  "source": "S-574",
+  "file": "1891_-_Death_of_Erzebet_Demko_wife_of_Janos_Hornyak_55_years_old.png",
+  "sha256": "92211e6907fa5449a9fcfd5ef24d39cdf60014818885dc37d37680b1839247e5",
+  "wide": true,
+  "title": "Burial of Erzsébet Demko, wife of János Hornyák, born at Butka, aged 52, Szenna 118, 24 May 1891: a second image",
+  "span": "24 May 1891",
+  "language": "Hungarian",
+  "collector_label": "1891 - Death of Erzebet Demko wife of Janos Hornyak 55 years old",
+  "family": null,
+  "route": "demko",
+  "part": "Senne Roca, part 15",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue (note to this agent, item 8, @fc7360d)",
+   "fond_or_film": "Roman Catholic parish of Senné, no. 1093 (deaths 1887 to 1925)",
+   "book": "Burial register of the Roman Catholic parish of Szenna (Senné), which also served Jesztreb, Solymos, Pályin, Rebrin, Nagy and Kis Szeretva and Kráska. The burying priests are named on the strips: József Harkel, 'szennai lelkész', in the 1840s; György Balás to 1885; István Rusznák; Gyula Buzinkay; János Barna from 1906. Volumes by the Places agent's note to this agent (@fc7360d): Prešov state archive, Senné Roman Catholic, no. 1091 (deaths 1831 to 1886) and no. 1093 (deaths 1887 to 1925).",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', sub-folder 'Senne Roca', part 15, sent through chat on 15 Nov 2026. A cropped strip; by the folder's name he found it on FamilySearch."
+  },
+  "entries": [
+   {
+    "no": "19",
+    "date": "24 May 1891",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Entry 19 of 1891, 24 May: Erzsébet Demko, wife of János Hornyák, cottar; born at Butka, living at Szenna 118; female; 52 years old; cause, diarrhoea ('hasmenés'); received the sacraments; buried at Szenna on 26 May by István Rusznák. The entry already held as D-013-127. The owner's label says 55; the strip reads 52.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+    "original": "19. | 1891 május 24. | Demko Erzsébet Hornyák János zsellér neje | Butka / Szenna 118. | nő | 52 év | hasmenés | részesült | Szenna május 26. | Rusznák István esperes plébános",
+    "english": "Entry 19 of 1891, 24 May: Erzsébet Demko, wife of János Hornyák, cottar; born at Butka, living at Szenna 118; female; 52 years old; cause, diarrhoea ('hasmenés'); received the sacraments; buried at Szenna on 26 May by István Rusznák. The entry already held as D-013-127. The owner's label says 55; the strip reads 52."
+   }
+  ]
+ },
+ {
+  "id": "D-018-17",
+  "folder": "F-018",
+  "batch": "B-079",
+  "source": "S-575",
+  "file": "1891_-_Marriage_of_Andras_Hankosack_and_Maria_Nyemcsik.png",
+  "sha256": "bc61f102fb71024a2b13399ac9d8e29675cc2baa6434e592b772ee11ff6cd35e",
+  "wide": true,
+  "title": "Marriage of András Hankoscsák and Mária Nyemcsik, daughter of Mihály Nyemcsik and Anna Obsitnyik, Senné, 25 May 1891",
+  "span": "25 May 1891",
+  "language": "Hungarian",
+  "collector_label": "1891 - Marriage of Andras Hankosack and Maria Nyemcsik",
+  "family": "FG-75",
+  "route": "duska",
+  "part": "Senne Roca, part 15",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, church registers catalogue no. 1092 (Senné Roman Catholic marriages, 1887 to 1926), microfilm 287-288; FamilySearch catalogue 710997. Volume reference from the Places agent's holdings entry PL-R-001; the strip itself shows no page number.",
+   "fond_or_film": "Prešov no. 1092; FamilySearch films 1793682, 1793683",
+   "book": "Roman Catholic marriage register of Senné ('Házasultak anyakönyve'), by the officiant and the places",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', sub-folder 'Senne Roca', part 15, sent through chat on 15 Nov 2026. A cropped strip; by the folder's name he found it on FamilySearch."
+  },
+  "entries": [
+   {
+    "no": "9",
+    "date": "25 May 1891",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 9 of 1891, 25 May: András Hankoscsák, farmer's son, born and living at Szenna, house 47, Roman Catholic, born 25 August 1868, bachelor, son of János Hankoscsák, Roman Catholic farmer of Szenna, and Mária Gdovicsin, Greek Catholic; and Mária Nyemcsik, cottar's daughter, born and living at Szenna, house 34, Roman Catholic, born 12 August 1872, spinster, daughter of Mihály Nyemcsik, Roman Catholic cottar, and Anna Obsitnyik. Witnesses: György Duska, Roman Catholic cottar of Szenna, and József Hankoscsák the younger, farmer. Officiant: István Rusznák. Banns three times. The bride is not a daughter of János Nyemcsik and Erzsébet Hresko: H-086 is refuted. She is twelve days older than Anna Nyemcsik of the direct line and of a different house.",
+    "reading": "high; medium for the last word of the bride's parents' cell"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+    "original": "9. | 1891 Május 25. | Hankoscsák András gazdafiú | Szenna | Szenna 47 | r.k. | szület. 1868 aug. 25. | nőtlen | Hankoscsák János r.k. gazda Szenna; Gdovicsin Mária gk Szenna || Nyemcsik Mária zsellér leány | Szenna | Szenna 34 | r.k. | szület. 1872 aug. 12. | hajadon | Nyemcsik Mihály r.k. zsellér; Obsitnyik Anna [..] Szenna | Duska György r.k. zsellér Szenna; ifj. Hankoscsák József r.k. gazda | Rusznák István esperes plébános | Háromszor kihirdetve",
+    "english": "Entry 9 of 1891, 25 May: András Hankoscsák, farmer's son, born and living at Szenna, house 47, Roman Catholic, born 25 August 1868, bachelor, son of János Hankoscsák, Roman Catholic farmer of Szenna, and Mária Gdovicsin, Greek Catholic; and Mária Nyemcsik, cottar's daughter, born and living at Szenna, house 34, Roman Catholic, born 12 August 1872, spinster, daughter of Mihály Nyemcsik, Roman Catholic cottar, and Anna Obsitnyik. Witnesses: György Duska, Roman Catholic cottar of Szenna, and József Hankoscsák the younger, farmer. Officiant: István Rusznák. Banns three times. The bride is not a daughter of János Nyemcsik and Erzsébet Hresko: H-086 is refuted. She is twelve days older than Anna Nyemcsik of the direct line and of a different house."
+   }
+  ]
+ },
+ {
+  "id": "D-018-18",
+  "folder": "F-018",
+  "batch": "B-079",
+  "source": "S-576",
+  "file": "1891_-_Marriage_of_Janos_Hornyak_widowed_or_Erzebet_Demko_and_Maria_Sutai.png",
+  "sha256": "258f295c99ed35940a3f71dd7d5ee2071016f3dab8d7eeb54632e5fce904662f",
+  "wide": true,
+  "title": "A marriage of 30 June 1891 between two widowed people of Sáros-Reviscse and Jesztreb; not the Hornyák marriage of the owner's label",
+  "span": "30 June 1891",
+  "language": "Hungarian",
+  "collector_label": "1891 - Marriage of Janos Hornyak widowed or Erzebet Demko and Maria Sutai",
+  "family": null,
+  "route": "places",
+  "part": "Senne Roca, part 15",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, church registers catalogue no. 1092 (Senné Roman Catholic marriages, 1887 to 1926), microfilm 287-288; FamilySearch catalogue 710997. Volume reference from the Places agent's holdings entry PL-R-001; the strip itself shows no page number.",
+   "fond_or_film": "Prešov no. 1092; FamilySearch films 1793682, 1793683",
+   "book": "Roman Catholic marriage register of Senné ('Házasultak anyakönyve'), by the officiant and the places",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', sub-folder 'Senne Roca', part 15, sent through chat on 15 Nov 2026. A cropped strip; by the folder's name he found it on FamilySearch."
+  },
+  "entries": [
+   {
+    "no": "11",
+    "date": "30 June 1891",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 11 of 1891, 30 June. As read: the groom a widower, farmer, of Sáros-Reviscse 64, Greek Catholic, born 3 June 1862, surname read K[o]lun, widower of Mária Pesta; the bride Anna Hudák, widow of Pál Sirochmann, of Jesztreb 39, Roman Catholic, born 27 April 1870, daughter of Pál Hudák, farmer of Jesztreb, and Anna Kolyibás. Witnesses of Sáros-Reviscse. Banns three times; the groom with a letter of release from his own parish. Neither party reads Hornyák, Demko or Sutai. The owner's label describes a different entry, perhaps the row above or below this cut.",
+    "reading": "medium; low for the groom's surname"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+    "original": "11. | 1891 Június 30. | K[o]lun Mihály Pesta Mária özvegye gazda | Sáros-Reviscse | Sáros-Reviscse 64 | g.k. | született 1862 jun. 3. | özvegy | K[o]lun János g.k. gazda S. Reviscse; [..] || Hudák Anna Sirochmann Pál özvegye | Jesztreb | Jesztreb 39 | r.k. | született 1870 apr. 27. | özvegy | Hudák Pál r.k. gazda Jesztreb; Kolyibás Anna r.k. Jesztreb | Pavlovcsik Pál gk. gazda Sáros-Reviscse; Sirochmann Mihály gk. gazda | Rusznák István esperes plébános | Háromszori hirdetéssel | a vőlegény elbocsájtó levéllel",
+    "english": "Entry 11 of 1891, 30 June. As read: the groom a widower, farmer, of Sáros-Reviscse 64, Greek Catholic, born 3 June 1862, surname read K[o]lun, widower of Mária Pesta; the bride Anna Hudák, widow of Pál Sirochmann, of Jesztreb 39, Roman Catholic, born 27 April 1870, daughter of Pál Hudák, farmer of Jesztreb, and Anna Kolyibás. Witnesses of Sáros-Reviscse. Banns three times; the groom with a letter of release from his own parish. Neither party reads Hornyák, Demko or Sutai. The owner's label describes a different entry, perhaps the row above or below this cut."
+   }
+  ]
+ },
+ {
+  "id": "D-018-19",
+  "folder": "F-018",
+  "batch": "B-079",
+  "source": "S-577",
+  "file": "1892_-_Baptism_of_Borbola_Kocsis_daughter_of_Gyorgy_and_Erzebet_Marzinko.png",
+  "sha256": "f395aacda88de0e4aa6575e9bc570dbab5c5bcb49da93b55e2c74162aad2ee09",
+  "wide": true,
+  "title": "Baptism of Borbála Kocsis, daughter of György and Erzsébet Marczinko, Szenna 21, 15 August 1892",
+  "span": "15 August 1892",
+  "language": "Hungarian",
+  "collector_label": "1892 - Baptism of Borbola Kocsis daughter of Gyorgy and Erzebet Marzinko",
+  "family": "FG-56",
+  "route": "demko",
+  "part": "Senne Roca, part 15",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, church registers catalogue no. 1089 (Senné Roman Catholic births, 1866 to 1912); FamilySearch catalogue 710997. Volume reference from the Places agent's holdings entry PL-R-001 @641ba53; not on the strip.",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic baptism register of Senné (Szenna, Ungszenna), by the owner's folder name and the officiants' titles",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', sub-folder 'Senne Roca', part 15, sent through chat on 15 Nov 2026. A cropped strip; by the folder's name he found it on FamilySearch.",
+   "catalogue_lead": "Places agent, @208af51: Senné Roman Catholic births from 1866 are Prešov state archive catalogue no. 1089 (L-018). The page of this strip is not established.",
+   "collection_lead": "FamilySearch, 'Slovakia Church and Synagogue Books, 1592-1935', Roman Catholic, Veľké Kapušany, Senné, 'Baptisms (Krsty) 1866-191[.] ... Deaths (Úmrtia) 1831-1877', 337 images: read from the viewer's header on the owner's screenshot D-006-04. The image number of this strip is not known."
+  },
+  "entries": [
+   {
+    "no": "57",
+    "date": "15 August 1892",
+    "from": "Church baptism register (original record, cropped strip)",
+    "abstract": "Entry 57 of 1892: born and baptised 15 August: Borbála, girl, legitimate; parents György Kocsis, Roman Catholic cottar of Szenna, and Erzsébet Marczinko, Roman Catholic, of Szenna; house Szenna 21; godparents Mihály Nyemcsik, Roman Catholic cottar, and Zsuzsánna Ba[n]k[o]vi[ts], Greek Catholic, of Szenna; baptised by Gyula Buzinkay.",
+    "reading": "high; low for the godmother's surname"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+    "original": "57. | 1892 Aug 15. | 1892 Aug. 15. | Borbála | nő | törv. | Kocsis György rk. zsellér Szenna; Marczinko Erzsébet Rk. Szenna | Szenna 21. | Nyemcsik Mihály rk. zsellér Szenna; Ba[n]k[o]vi[ts] Zsuzsánna gk. Szenna | Buzinkay Gyula lelkész",
+    "english": "Entry 57 of 1892: born and baptised 15 August: Borbála, girl, legitimate; parents György Kocsis, Roman Catholic cottar of Szenna, and Erzsébet Marczinko, Roman Catholic, of Szenna; house Szenna 21; godparents Mihály Nyemcsik, Roman Catholic cottar, and Zsuzsánna Ba[n]k[o]vi[ts], Greek Catholic, of Szenna; baptised by Gyula Buzinkay."
+   }
+  ]
+ },
+ {
+  "id": "D-018-20",
+  "folder": "F-018",
+  "batch": "B-079",
+  "source": "S-578",
+  "file": "1892_-_Baptism_of_Maria_Hankosar_Nyemcsik_Daughter_of_Andreas__Maria_Nyemcsik.png",
+  "sha256": "37ec3d84bdfd1b7e8dce0354f126c1a619f22c5688de5a320d804b6f7547e4fb",
+  "wide": true,
+  "title": "Baptism of Mária Hankoscsák, daughter of András and Mária Nyemcsik, Szenna 47, 18 and 19 April 1892",
+  "span": "18 April 1892",
+  "language": "Hungarian",
+  "collector_label": "1892 - Baptism of Maria Hankosar Nyemcsik Daughter of Andreas  Maria Nyemcsik",
+  "family": "FG-75",
+  "route": "duska",
+  "part": "Senne Roca, part 15",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, church registers catalogue no. 1089 (Senné Roman Catholic births, 1866 to 1912); FamilySearch catalogue 710997. Volume reference from the Places agent's holdings entry PL-R-001 @641ba53; not on the strip.",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic baptism register of Senné (Szenna, Ungszenna), by the owner's folder name and the officiants' titles",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', sub-folder 'Senne Roca', part 15, sent through chat on 15 Nov 2026. A cropped strip; by the folder's name he found it on FamilySearch.",
+   "catalogue_lead": "Places agent, @208af51: Senné Roman Catholic births from 1866 are Prešov state archive catalogue no. 1089 (L-018). The page of this strip is not established.",
+   "collection_lead": "FamilySearch, 'Slovakia Church and Synagogue Books, 1592-1935', Roman Catholic, Veľké Kapušany, Senné, 'Baptisms (Krsty) 1866-191[.] ... Deaths (Úmrtia) 1831-1877', 337 images: read from the viewer's header on the owner's screenshot D-006-04. The image number of this strip is not known."
+  },
+  "entries": [
+   {
+    "no": "35",
+    "date": "18 April 1892",
+    "from": "Church baptism register (original record, cropped strip)",
+    "abstract": "Entry 35 of 1892: born 18 April, baptised 19 April: Mária, girl, legitimate; parents András Hankoscsák, Roman Catholic farmer of Szenna, and Mária Nyemtsik, Roman Catholic, of Szenna; house Szenna 47; godparents András Raskovszki, Roman Catholic farmer, and Mária Vojnyik, Greek Catholic, of Szenna; baptised by István Rusznák. The birthday is that of Mária Hankovcsák, wife of Miklós Duska, in the census of 1930 (FG-69): this is her baptism.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+    "original": "35. | 1892 april 18. | 1892 april 19. | Maria | nő | törvényes | Hankoscsák András r.k. gazda Szenna; Nyemtsik Maria r.k. Szenna | Szenna 47 | Raskovszki András r.k. gazda Szenna; Vojnyik Maria g.k. Szenna | Rusznák István esperes plebános",
+    "english": "Entry 35 of 1892: born 18 April, baptised 19 April: Mária, girl, legitimate; parents András Hankoscsák, Roman Catholic farmer of Szenna, and Mária Nyemtsik, Roman Catholic, of Szenna; house Szenna 47; godparents András Raskovszki, Roman Catholic farmer, and Mária Vojnyik, Greek Catholic, of Szenna; baptised by István Rusznák. The birthday is that of Mária Hankovcsák, wife of Miklós Duska, in the census of 1930 (FG-69): this is her baptism."
+   }
+  ]
+ },
+ {
+  "id": "D-018-21",
+  "folder": "F-018",
+  "batch": "B-079",
+  "source": "S-579",
+  "file": "1892_-_Death_of_Janos_Nyemcsik_husband_of_Zsuzanna_Koseo_-55_years.png",
+  "sha256": "3b11ccbf0a0ab49640b26f7d3c8956f980aa51652d34ba60447e1d905884dbb5",
+  "wide": true,
+  "title": "Burial of János Nyemcsik, cottar, husband of Zsuzsanna Kozzo, born at Br[e]kó in Zemplén, aged 55, Szenna 30, of influenza, 11 March 1892",
+  "span": "11 March 1892",
+  "language": "Hungarian",
+  "collector_label": "1892 - Death of Janos Nyemcsik husband of Zsuzanna Koseo -55 years",
+  "family": "FG-52",
+  "route": "duska",
+  "part": "Senne Roca, part 15",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue (note to this agent, item 8, @fc7360d)",
+   "fond_or_film": "Roman Catholic parish of Senné, no. 1093 (deaths 1887 to 1925)",
+   "book": "Burial register of the Roman Catholic parish of Szenna (Senné), which also served Jesztreb, Solymos, Pályin, Rebrin, Nagy and Kis Szeretva and Kráska. The burying priests are named on the strips: József Harkel, 'szennai lelkész', in the 1840s; György Balás to 1885; István Rusznák; Gyula Buzinkay; János Barna from 1906. Volumes by the Places agent's note to this agent (@fc7360d): Prešov state archive, Senné Roman Catholic, no. 1091 (deaths 1831 to 1886) and no. 1093 (deaths 1887 to 1925).",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', sub-folder 'Senne Roca', part 15, sent through chat on 15 Nov 2026. A cropped strip; by the folder's name he found it on FamilySearch."
+  },
+  "entries": [
+   {
+    "no": "9",
+    "date": "11 March 1892",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Entry 9 of 1892, 11 March: János Nyemtsik, cottar, husband of Zsuzsanna Kozzo; born at a place written Br[e]kó, Zemplén county, living at Szenna 30; male; Roman Catholic; 55 years old; cause, influenza; not provided with the sacraments; buried at Szenna on 12 March 1892 by István Rusznák. He is the János Nyemcsik 'of Barkó' whose child by Zsuzsanna Kozé was baptised and buried at Szenna 116 in 1887. A Nyemcsik who came to Szenna from another county.",
+    "reading": "high; medium for the birthplace"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+    "original": "9. | 1892 március 11. | Nyemtsik János zsellér Kozzo Zsuzsanna férje | Br[e]kó Zemplénm. / Szenna 30. | fi | r.k. | 55 éves | influenza | nem | Szenna 1892 március 12. | Rusznák István plébános",
+    "english": "Entry 9 of 1892, 11 March: János Nyemtsik, cottar, husband of Zsuzsanna Kozzo; born at a place written Br[e]kó, Zemplén county, living at Szenna 30; male; Roman Catholic; 55 years old; cause, influenza; not provided with the sacraments; buried at Szenna on 12 March 1892 by István Rusznák. He is the János Nyemcsik 'of Barkó' whose child by Zsuzsanna Kozé was baptised and buried at Szenna 116 in 1887. A Nyemcsik who came to Szenna from another county."
+   }
+  ]
+ },
+ {
+  "id": "D-018-22",
+  "folder": "F-018",
+  "batch": "B-079",
+  "source": "S-580",
+  "file": "1892_-_Death_of_Zsuzanna_Henerda_wife_of_Janos_Nyemcsik_-_78_years.png",
+  "sha256": "ecd240b7c207bcc1fd454c3e7de78b5c47edf16d71dd4d40f28be6f4319b6e1f",
+  "wide": true,
+  "title": "Burial of Zsuzsánna Hemerda, widow of János Nyemcsik, born at Butka, aged 78, Nagy Szeretva 63, 18 December 1892: a second image",
+  "span": "18 December 1892",
+  "language": "Hungarian",
+  "collector_label": "1892 - Death of Zsuzanna Henerda wife of Janos Nyemcsik - 78 years",
+  "family": null,
+  "route": "duska",
+  "part": "Senne Roca, part 15",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent's reading of its catalogue (note to this agent, item 8, @fc7360d)",
+   "fond_or_film": "Roman Catholic parish of Senné, no. 1093 (deaths 1887 to 1925)",
+   "book": "Burial register of the Roman Catholic parish of Szenna (Senné), which also served Jesztreb, Solymos, Pályin, Rebrin, Nagy and Kis Szeretva and Kráska. The burying priests are named on the strips: József Harkel, 'szennai lelkész', in the 1840s; György Balás to 1885; István Rusznák; Gyula Buzinkay; János Barna from 1906. Volumes by the Places agent's note to this agent (@fc7360d): Prešov state archive, Senné Roman Catholic, no. 1091 (deaths 1831 to 1886) and no. 1093 (deaths 1887 to 1925).",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)', sub-folder 'Senne Roca', part 15, sent through chat on 15 Nov 2026. A cropped strip; by the folder's name he found it on FamilySearch."
+  },
+  "entries": [
+   {
+    "no": "55",
+    "date": "18 December 1892",
+    "from": "Church burial register (original record, cropped strip)",
+    "abstract": "Entry 55 of 1892, 18 December: Zsuzsánna Hemerda, widow of János Nyemcsik, Roman Catholic tiller; born at Butka, Zemplén county, living at Nagy Szeretva 63; female; 78; cause, decline of old age; received the sacraments; buried at Nagy Szeretva on 20 December by Gyula Buzinkay. The entry already held as D-013-194; this image gives the house number, 63, in full.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
+    "original": "55. | 1892. dec. 18. | Hemerda Zsuzsánna Nyemcsik János rk. földmíves özvegye | Butka Zemplén m. / N. Szeretva 63. | nő | 78 év | végelgyengülés | részesült | N. Szeretva december 20. | Buzinkay Gyula lelkész",
+    "english": "Entry 55 of 1892, 18 December: Zsuzsánna Hemerda, widow of János Nyemcsik, Roman Catholic tiller; born at Butka, Zemplén county, living at Nagy Szeretva 63; female; 78; cause, decline of old age; received the sacraments; buried at Nagy Szeretva on 20 December by Gyula Buzinkay. The entry already held as D-013-194; this image gives the house number, 63, in full."
+   }
+  ]
  }
 ]

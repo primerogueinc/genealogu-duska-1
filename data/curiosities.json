@@ -1491,5 +1491,27 @@
   "translation": "Died 20 November 1946.",
   "why": "A parish register kept as a living record across three states and two wars.",
   "tone": "history"
+ },
+ {
+  "id": "C-152",
+  "doc": "D-018-14",
+  "source": "S-572",
+  "title": "A baptism three weeks late, with a reason",
+  "text": "Mária Knyezso was born at Solymos on 6 December 1891 and baptised on the 27th. The priest explains the delay in the margin: the father was Reformed, so the Reformed pastor of Nagy Szeretva had to baptise her, and that is why it was late. He entered her in the Roman Catholic book all the same, the mother being Catholic.",
+  "original": "a gyermek atyja h.v. [...] lelkésznek kelle[tt] keresztelni a gyermeket, azért késett a keresztelés",
+  "translation": "The child's father being Reformed, [the Reformed] pastor had to baptise the child; hence the baptism was late.",
+  "why": "A mixed marriage, two churches, and a clerk covering himself.",
+  "tone": "history"
+ },
+ {
+  "id": "C-153",
+  "doc": "D-018-12",
+  "source": "S-570",
+  "title": "Bride 50, groom 55, banns waived",
+  "text": "János Demko, a lodger born in Poland with 'parents unknown', married Ilona Mikolyó at Senné on 3 March 1890. He was 55 and she was 50, both entered as never married, both at house 25. The bishop's office had excused them the banns a fortnight before. The owner files a baptism of 1874 for a son of the same two people.",
+  "original": "szülei ismeretlenek",
+  "translation": "Parents unknown.",
+  "why": "Sixteen years after the child, and quietly.",
+  "tone": "odd"
  }
 ]

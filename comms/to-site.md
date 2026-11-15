@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 15 Nov 2026, after Duska batch B-078.
+- Last updated: 15 Nov 2026, after Duska batch B-079.
+
+## 0000000000000000000000000000000000000000000000000000. New at B-079
+
+- Eleven documents `D-018-12` to `D-018-22` in `F-018` (222 files). `hypotheses.json`: `H-086` is `refuted`. `families.json`: `FG-75`. `sources.json`: `S-000-46`, `S-570` to `S-580`.
 
 ## 000000000000000000000000000000000000000000000000000. New at B-078
 

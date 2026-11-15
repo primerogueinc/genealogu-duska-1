@@ -656,6 +656,14 @@
   "reliability": "The owner sends six more parts of the sub-folder 'Senne Roca', eleven strips each. '1-' is taken as 10. He does not say whether 14 is the last."
  },
  {
+  "id": "S-000-46",
+  "batch": "B-079",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 15 Nov 2026 (UTC): part 15 of 'Senne Roca'",
+  "extract": "\"15\"",
+  "reliability": "The owner sends eleven more strips as part 15. He does not say whether it is the last."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -4910,5 +4918,93 @@
   "title": "Burial of Anna Schvarcz, wife of György Szalontay, aged 20, Szenna, 21 June [1879]",
   "extract": "Entry 63, 21 June: Anna Schvarcz, wife of György Szalontay; Szenna, no house number; female; 20 years old; cause, inflammation of the lungs; confessed; buried at Szenna on 23 June.",
   "reliability": "A register entry made by the parish at the event. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-570",
+  "batch": "B-079",
+  "type": "Church marriage register (original record, cropped strip)",
+  "title": "Marriage of János Demko, born in Poland, aged 55, and Ilona Mikolyó, aged 50, Szenna 25, 3 March 1890",
+  "extract": "Entry 7 of 1890, 3 March: János Demko, lodger ('lakó'), born in 'Lengyelország', Poland, living at Szenna 25, Roman Catholic, 55, bachelor, 'parents unknown'; and Ilona Mikolyó, born at Klokocsó, living at Szenna 25, Roman Catholic, 50, spinster, daughter of Anna Mikolyó, Roman Catholic cottar of Szenna. Witnesses: György Duska and András Polyák, Roman Catholic cottars of Szenna. Officiant: István Rusznák, dean and parish priest. Remark: the diocesan authority, on 20 February 1890 under no. 397, gave a dispensation from the banns. A couple of 55 and 50 sharing a house and marrying without banns: the owner's label on an unread strip gives them a son baptised in 1874.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high; medium for the remark. The year is in the entry."
+ },
+ {
+  "id": "S-571",
+  "batch": "B-079",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of Anna Kocsis, daughter of János and Anna Halász, Szenna 94, 17 and 18 December 1891; died 28 January 1894: a second image",
+  "extract": "Entry 84 of 1891: born 17 December, baptised 18 December: Anna, girl, legitimate; parents János Kocsis, Roman Catholic farmer, and Anna Halász, Roman Catholic, of Szenna; house Szenna 94; godparents György Murnyik, farmer, and Anna Obsitnyik, of Szenna; baptised by István Rusznák. Remark: 'meghalt 1894. Jan. 28.' The entry already held as D-009-19, cut differently. The owner's label makes the mother Maria; she is Anna.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-572",
+  "batch": "B-079",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of Mária Knyezso, daughter of János (Reformed) and Anna Kosztócsik, Solymos 101, born 6 and baptised 27 December 1891",
+  "extract": "Entry 87 of 1891: born 6 December, baptised 27 December: Mária, girl, legitimate; Solymos 101; parents János Knyezso, Reformed farmer, and Anna Kosztócsik, Roman Catholic; godparents János Dzvonyik and Zsuzsanna Sárik; baptised by István Szakal the elder, Reformed pastor of Nagy Szeretva. Remark, as far as it reads: the child's father being Reformed, the Reformed pastor had to baptise the child, and so the baptism was late.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high; low for the remark. The year is in the entry."
+ },
+ {
+  "id": "S-573",
+  "batch": "B-079",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of Mária Marcinko, daughter of Mihály and Mária Kocsis, Szenna 27, 9 and 10 March 1891",
+  "extract": "Entry 17 of 1891: born 9 March, baptised 10 March: Mária, girl, legitimate; parents Mihály Marcinko, Roman Catholic cottar of Szenna, and Mária Kocsis, Roman Catholic, of Szenna; house Szenna 27; godparents György M[o]vai, Greek Catholic farmer, and Anna Ivanko, Greek Catholic, of Szenna; baptised by István Rusznák. The parents are the couple whose marriage of 4 November 1889 is among the unread strips.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-574",
+  "batch": "B-079",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Erzsébet Demko, wife of János Hornyák, born at Butka, aged 52, Szenna 118, 24 May 1891: a second image",
+  "extract": "Entry 19 of 1891, 24 May: Erzsébet Demko, wife of János Hornyák, cottar; born at Butka, living at Szenna 118; female; 52 years old; cause, diarrhoea ('hasmenés'); received the sacraments; buried at Szenna on 26 May by István Rusznák. The entry already held as D-013-127. The owner's label says 55; the strip reads 52.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-575",
+  "batch": "B-079",
+  "type": "Church marriage register (original record, cropped strip)",
+  "title": "Marriage of András Hankoscsák and Mária Nyemcsik, daughter of Mihály Nyemcsik and Anna Obsitnyik, Senné, 25 May 1891",
+  "extract": "Entry 9 of 1891, 25 May: András Hankoscsák, farmer's son, born and living at Szenna, house 47, Roman Catholic, born 25 August 1868, bachelor, son of János Hankoscsák, Roman Catholic farmer of Szenna, and Mária Gdovicsin, Greek Catholic; and Mária Nyemcsik, cottar's daughter, born and living at Szenna, house 34, Roman Catholic, born 12 August 1872, spinster, daughter of Mihály Nyemcsik, Roman Catholic cottar, and Anna Obsitnyik. Witnesses: György Duska, Roman Catholic cottar of Szenna, and József Hankoscsák the younger, farmer. Officiant: István Rusznák. Banns three times. The bride is not a daughter of János Nyemcsik and Erzsébet Hresko: H-086 is refuted. She is twelve days older than Anna Nyemcsik of the direct line and of a different house.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high; medium for the last word of the bride's parents' cell. The year is in the entry."
+ },
+ {
+  "id": "S-576",
+  "batch": "B-079",
+  "type": "Church marriage register (original record, cropped strip)",
+  "title": "A marriage of 30 June 1891 between two widowed people of Sáros-Reviscse and Jesztreb; not the Hornyák marriage of the owner's label",
+  "extract": "Entry 11 of 1891, 30 June. As read: the groom a widower, farmer, of Sáros-Reviscse 64, Greek Catholic, born 3 June 1862, surname read K[o]lun, widower of Mária Pesta; the bride Anna Hudák, widow of Pál Sirochmann, of Jesztreb 39, Roman Catholic, born 27 April 1870, daughter of Pál Hudák, farmer of Jesztreb, and Anna Kolyibás. Witnesses of Sáros-Reviscse. Banns three times; the groom with a letter of release from his own parish. Neither party reads Hornyák, Demko or Sutai. The owner's label describes a different entry, perhaps the row above or below this cut.",
+  "reliability": "A register entry made by the parish at the event. Reading level: medium; low for the groom's surname. The year is in the entry."
+ },
+ {
+  "id": "S-577",
+  "batch": "B-079",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of Borbála Kocsis, daughter of György and Erzsébet Marczinko, Szenna 21, 15 August 1892",
+  "extract": "Entry 57 of 1892: born and baptised 15 August: Borbála, girl, legitimate; parents György Kocsis, Roman Catholic cottar of Szenna, and Erzsébet Marczinko, Roman Catholic, of Szenna; house Szenna 21; godparents Mihály Nyemcsik, Roman Catholic cottar, and Zsuzsánna Ba[n]k[o]vi[ts], Greek Catholic, of Szenna; baptised by Gyula Buzinkay.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high; low for the godmother's surname. The year is in the entry."
+ },
+ {
+  "id": "S-578",
+  "batch": "B-079",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of Mária Hankoscsák, daughter of András and Mária Nyemcsik, Szenna 47, 18 and 19 April 1892",
+  "extract": "Entry 35 of 1892: born 18 April, baptised 19 April: Mária, girl, legitimate; parents András Hankoscsák, Roman Catholic farmer of Szenna, and Mária Nyemtsik, Roman Catholic, of Szenna; house Szenna 47; godparents András Raskovszki, Roman Catholic farmer, and Mária Vojnyik, Greek Catholic, of Szenna; baptised by István Rusznák. The birthday is that of Mária Hankovcsák, wife of Miklós Duska, in the census of 1930 (FG-69): this is her baptism.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-579",
+  "batch": "B-079",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János Nyemcsik, cottar, husband of Zsuzsanna Kozzo, born at Br[e]kó in Zemplén, aged 55, Szenna 30, of influenza, 11 March 1892",
+  "extract": "Entry 9 of 1892, 11 March: János Nyemtsik, cottar, husband of Zsuzsanna Kozzo; born at a place written Br[e]kó, Zemplén county, living at Szenna 30; male; Roman Catholic; 55 years old; cause, influenza; not provided with the sacraments; buried at Szenna on 12 March 1892 by István Rusznák. He is the János Nyemcsik 'of Barkó' whose child by Zsuzsanna Kozé was baptised and buried at Szenna 116 in 1887. A Nyemcsik who came to Szenna from another county.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high; medium for the birthplace. The year is in the entry."
+ },
+ {
+  "id": "S-580",
+  "batch": "B-079",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Zsuzsánna Hemerda, widow of János Nyemcsik, born at Butka, aged 78, Nagy Szeretva 63, 18 December 1892: a second image",
+  "extract": "Entry 55 of 1892, 18 December: Zsuzsánna Hemerda, widow of János Nyemcsik, Roman Catholic tiller; born at Butka, Zemplén county, living at Nagy Szeretva 63; female; 78; cause, decline of old age; received the sacraments; buried at Nagy Szeretva on 20 December by Gyula Buzinkay. The entry already held as D-013-194; this image gives the house number, 63, in full.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
  }
 ]

@@ -57,7 +57,7 @@ Nearly every record in this archive is one row cut from a page. A row keeps the 
 | `D-013-140` | Death_of_Gyorgy_Duska_1922.png | 29 September 1922 | H-052, H-087, H-096 | page heading: year and page number; the rows above and below |
 | `D-013-171` | Death_of_Maria_Duska_1908.png | 12 February 1908 | H-088 | page heading: year and page number; the rows above and below |
 | `D-013-172` | Death_of_Maria_Duska_1921.png | 22 March 1921 | H-060, H-084 | page heading: year and page number; the rows above and below |
-| `D-013-195` | Death_of_Unknown_Nyemcsik_1924.png | 29 February 1924 | H-060, H-086 | page heading: year and page number; the rows above and below |
+| `D-013-195` | Death_of_Unknown_Nyemcsik_1924.png | 29 February 1924 | H-060 | page heading: year and page number; the rows above and below |
 
 ## Rank 2: Duska strips with the year from the file name only
 

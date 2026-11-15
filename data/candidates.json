@@ -9118,5 +9118,89 @@
   "relation": "D-018-11. Of the surname of Erzsébet Schwarz (FG-48); no link shown.",
   "route": "duska",
   "route_note": ""
+ },
+ {
+  "id": "K-765",
+  "name": "János Demko, of Poland",
+  "vitals": "b. about 1835 in 'Lengyelország'; parents unknown; lodger at Szenna 25; m. 3 Mar 1890",
+  "proof": "documented",
+  "sources": [
+   "S-570"
+  ],
+  "relation": "D-018-12. Groom. Not of the Viszoka Demkos by this entry.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-766",
+  "name": "Ilona Mikolyó",
+  "vitals": "b. about 1840 at Klokocsó; m. 3 Mar 1890 at Szenna",
+  "proof": "documented",
+  "sources": [
+   "S-570"
+  ],
+  "relation": "D-018-12. Bride; daughter of Anna Mikolyó.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-767",
+  "name": "János Knyezso",
+  "vitals": "Reformed farmer of Solymos 101, 1891; wife Anna Kosztócsik, Roman Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-572"
+  ],
+  "relation": "D-018-14. Father of Mária, b. 6 Dec 1891.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-768",
+  "name": "Mária Nyemcsik, wife of András Hankoscsák",
+  "vitals": "b. 12 Aug 1872 at Szenna; of Szenna 34 in 1891; m. 25 May 1891",
+  "proof": "documented",
+  "sources": [
+   "S-575"
+  ],
+  "relation": "D-018-17. Daughter of Mihály Nyemcsik and Anna Obsitnyik (FG-52). Not a daughter of Ahn 34.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-769",
+  "name": "András Hankoscsák (Hankovcsák)",
+  "vitals": "b. 25 Aug 1868 at Szenna 47; m. 25 May 1891; the bell-ringer buried in 192[4] by D-013-195",
+  "proof": "documented",
+  "sources": [
+   "S-575"
+  ],
+  "relation": "D-018-17. Son of János Hankoscsák and Mária Gdovicsin.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-770",
+  "name": "Mária Hankoscsák (Hankovcsák)",
+  "vitals": "b. 18 Apr 1892 at Szenna 47; bapt. 19 Apr 1892",
+  "proof": "documented",
+  "sources": [
+   "S-578"
+  ],
+  "relation": "D-018-20. Daughter of András Hankoscsák and Mária Nyemcsik (FG-75); wife of Miklós Duska from 1913 (FG-69).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-771",
+  "name": "János Nyemcsik of Barkó",
+  "vitals": "b. about 1837 at Br[e]kó (Barkó), Zemplén county; cottar; d. 11 Mar 1892 at Szenna 30 aged 55, of influenza",
+  "proof": "documented",
+  "sources": [
+   "S-579"
+  ],
+  "relation": "D-018-21. Husband of Zsuzsanna Kozzo (Kozé). An incomer; not Ahn 34.",
+  "route": "duska",
+  "route_note": ""
  }
 ]

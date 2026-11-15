@@ -1125,7 +1125,7 @@
    "Pál Nyemcsik and Zuzsanna Vasko, Pályin: Mihály [1878] d. 1879",
    "András Hankosnák and Mária Nyemcsik: Anna 1896 (47), Zsuzsanna 1901 (8), János 1905 d. 1908 (79), András 1910 (64)"
   ],
-  "note": "The other Nyemcsik households of the Senné Roman Catholic book, apart from the couple in FG-57. At least four men named János. Mária Nyemcsik, wife of Hankosnák, lives at house 47 (the house of Michael Nyemcsik) in 1896 and at house 79 (the house of János Nyemcsik and Erzsébet Hresko) in 1905. Burials (B-050): Mihály Nyemcsik's wife Mária Bányász, of Pálócz, d. [1851] aged 65; his children Mihály [1842], Anna [1847], Anna 1 Jan 1853 (house 49); Georgius 19 Apr [1870] (house 47, son of Mihály and Obsitnyik); András, son of Mihály and Mária Obsitnyik, d. 30 Nov [1884] aged 16 (house 36). György Nyemtsik, b. about 1812, d. [1882] at house 98, husband of Borbála Tkáts (d. 1848) and Borbála Tomas; his sons János d. 27 Jan [18]49 and Mihály d. 4 Apr [1863]. János Nyemcsik, cottar of house 109: Anna d. 1 Dec [1862]; Mária, daughter of János and Mária Szalontai, d. 27 May 1894. Anna Nyemcsik (b. 17 Oct 1862), wife of András Tkács, d. 29 Oct 1886. The bell-ringer András Hankovcsák, b. 25 Aug 1868, d. 29 Feb 1924, widower of Mária Nyemcsik. The surname read Hankosnák on the baptism strips is Hankovcsák. B-078: house 89 is György Nyemcsik's: György the younger and Mária B[asiszta] baptise Anna there in [1878] (D-018-02), and a Mária, daughter of György, aged 20, marries from it that February (D-018-06).",
+  "note": "The other Nyemcsik households of the Senné Roman Catholic book, apart from the couple in FG-57. At least four men named János. Mária Nyemcsik, wife of Hankosnák, lives at house 47 (the house of Michael Nyemcsik) in 1896 and at house 79 (the house of János Nyemcsik and Erzsébet Hresko) in 1905. Burials (B-050): Mihály Nyemcsik's wife Mária Bányász, of Pálócz, d. [1851] aged 65; his children Mihály [1842], Anna [1847], Anna 1 Jan 1853 (house 49); Georgius 19 Apr [1870] (house 47, son of Mihály and Obsitnyik); András, son of Mihály and Mária Obsitnyik, d. 30 Nov [1884] aged 16 (house 36). György Nyemtsik, b. about 1812, d. [1882] at house 98, husband of Borbála Tkáts (d. 1848) and Borbála Tomas; his sons János d. 27 Jan [18]49 and Mihály d. 4 Apr [1863]. János Nyemcsik, cottar of house 109: Anna d. 1 Dec [1862]; Mária, daughter of János and Mária Szalontai, d. 27 May 1894. Anna Nyemcsik (b. 17 Oct 1862), wife of András Tkács, d. 29 Oct 1886. The bell-ringer András Hankovcsák, b. 25 Aug 1868, d. 29 Feb 1924, widower of Mária Nyemcsik. The surname read Hankosnák on the baptism strips is Hankovcsák. B-078: house 89 is György Nyemcsik's: György the younger and Mária B[asiszta] baptise Anna there in [1878] (D-018-02), and a Mária, daughter of György, aged 20, marries from it that February (D-018-06). B-079: Mihály Nyemcsik and Anna Obsitnyik's daughter Mária, b. 12 Aug 1872, married András Hankoscsák in 1891 (FG-75). János Nyemcsik of house 116, husband of Zsuzsanna Kozé, was born at Barkó in Zemplén and died of influenza at Szenna 30 on 11 Mar 1892 aged 55 (D-018-21).",
   "route": "duska",
   "route_note": "",
   "documents": [
@@ -1160,7 +1160,9 @@
    "D-013-121",
    "D-013-195",
    "D-018-02",
-   "D-018-06"
+   "D-018-06",
+   "D-018-17",
+   "D-018-21"
   ]
  },
  {
@@ -1272,7 +1274,9 @@
    "D-013-115",
    "D-013-174",
    "D-013-151",
-   "D-013-131"
+   "D-013-131",
+   "D-018-13",
+   "D-018-19"
   ]
  },
  {
@@ -1530,11 +1534,12 @@
   "children": [
    "Mária, b. 16 Mar 1921, d. 22 Mar 1921"
   ],
-  "note": "The wife and the marriage date are from the census of 1930 (D-011-29, image held). The burial of 1921 names both parents. The Montréal cemetery gives his wife as 'Anna Hancosek' (H-084).",
+  "note": "The wife and the marriage date are from the census of 1930 (D-011-29, image held). The burial of 1921 names both parents. The Montréal cemetery gives his wife as 'Anna Hancosek' (H-084). B-079: his wife's baptism is in hand (D-018-20): b. 18 Apr 1892 at Szenna 47 to András Hankoscsák and Mária Nyemcsik (FG-75).",
   "route": "duska",
   "documents": [
    "D-013-172",
-   "D-011-29"
+   "D-011-29",
+   "D-018-20"
   ]
  },
  {
@@ -1621,6 +1626,24 @@
   "route": "duska",
   "documents": [
    "D-018-08"
+  ],
+  "route_note": ""
+ },
+ {
+  "id": "FG-75",
+  "husband": "András Hankoscsák (Hankovcsák), b. 25 Aug 1868 at Szenna 47, son of János Hankoscsák and Mária Gdovicsin; farmer, later bell-ringer",
+  "wife": "Mária Nyemcsik, b. 12 Aug 1872 at Szenna, daughter of Mihály Nyemcsik and Anna Obsitnyik; of Szenna 34 at her marriage on 25 May 1891",
+  "rite": "Roman Catholic",
+  "homes": "Szenna 47 (1891, 1892); Ungszenna 66 at his death",
+  "children": [
+   "Mária, b. 18 Apr 1892; m. Miklós Duska 22 Jan 1913 (FG-69)"
+  ],
+  "note": "B-079. The wife was taken at B-050 to be a daughter of Ahn 34 (H-086); the marriage entry gives other parents. Through their daughter the miller's brother Miklós Duska married a granddaughter of Mihály Nyemcsik of house 47.",
+  "route": "duska",
+  "documents": [
+   "D-018-17",
+   "D-018-20",
+   "D-013-195"
   ],
   "route_note": ""
  }

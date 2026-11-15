@@ -2489,13 +2489,13 @@
  {
   "id": "H-086",
   "statement": "Mária Nyemcsik, wife of the bell-ringer András Hankovcsák, is the Maria born on 23 January [1866] to János Nyemcsik and Erzsébet Hresko, the elder sister of Anna Nyemcsik (Ahn 17).",
-  "confidence": 55,
+  "confidence": 2,
   "basis": "For: her family lived at house 79 in 1905, the house of János Nyemcsik and Erzsébet Hresko and the house where Anna's son Mihály was born in 1903; her husband was born in 1868 (D-013-195) and their first known child in 1892 or 1896. Against: at least four men named János Nyemcsik had children at Senné, and no entry names her parents. If it holds, and if Mikuláš Duška's wife Mária Hankovcsák is her daughter, the two men who sailed together in 1929 were tied twice: as kinsmen, and because Mikuláš's wife was Michal's first cousin.",
   "test": "The marriage of András Hankovcsák and Mária Nyemcsik (about 1890), naming her parents; her burial before 1924; the baptism of Mária Hankovcsák on or about 18 April 1892.",
-  "status": "open",
+  "status": "refuted",
   "raised": "B-050",
-  "resolved": null,
-  "resolution": null,
+  "resolved": "B-079",
+  "resolution": "Refuted by the marriage entry of 25 May 1891 (D-018-17, Prešov no. 1092): the wife of András Hankoscsák was Mária Nyemcsik born 12 August 1872, daughter of Mihály Nyemcsik and Anna Obsitnyik.",
   "log": [
    {
     "batch": "B-050",
@@ -2511,6 +2511,11 @@
     "batch": "B-078",
     "effect": "no change",
     "note": "A Mária Nyemcsik aged 20 marries Mihály Thur in February [1878], but she is the daughter of György of house 89 (D-018-06), not of Ahn 34. A different Mária."
+   },
+   {
+    "batch": "B-079",
+    "effect": "refuted",
+    "note": "The marriage entry is in hand (D-018-17): Mária Nyemcsik, born 12 August 1872, daughter of Mihály Nyemcsik and Anna Obsitnyik, of Szenna 34. The Maria born in January [1866] to Ahn 34 would have been 25, not 18, and has other parents. I had joined the two on a name and an age at death. What became of Ahn 34's Maria is not known."
    }
   ]
  },
@@ -2570,6 +2575,11 @@
     "batch": "B-050",
     "effect": "raised at 35",
     "note": "Raised under the coordinator's rule on reused names."
+   },
+   {
+    "batch": "B-079",
+    "effect": "no change",
+    "note": "H-086 is refuted, so the elder sister this hypothesis leaned on for the family's naming is not placed as a bell-ringer's wife. Nothing else changes."
    }
   ]
  },
@@ -2861,6 +2871,11 @@
     "batch": "B-078",
     "effect": "no change",
     "note": "Three Nyemcsik households in eleven strips (Szenna 89, Pálin, and Ahn 34's at 79). The name was common in the village itself, which cuts both ways for a DNA lead: more families a match could descend from, and all of them here."
+   },
+   {
+    "batch": "B-079",
+    "effect": "no change",
+    "note": "Another Nyemcsik family: János, born at Barkó in Zemplén county, a cottar who came to Szenna (D-018-21). So not every Nyemcsik at Szenna was of one stock, and the name is found in a second county. That supports the Places agent's caution."
    }
   ],
   "question": "Who were the Nyemcsiks of Szenna?"
