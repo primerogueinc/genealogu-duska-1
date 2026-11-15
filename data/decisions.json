@@ -1756,5 +1756,23 @@
   "date": "2026-11-15",
   "decided": "The owner's 'model change' is logged as statement S-000-51.",
   "why": "It changes who is doing the work in the middle of the experiment; the scorer should see where."
+ },
+ {
+  "id": "DEC-294",
+  "date": "2026-11-15",
+  "decided": "Ledger v29 read and acted on: rule 41; one document (D-009-30) held under the margin-note ruling; Ahn 5 already recorded as dead.",
+  "why": "Every register note of 1947 or later was searched: one marriage note (1947) names a person of unknown status. The others are death notes of the person baptised (1949, 1950), who was born in the 1880s."
+ },
+ {
+  "id": "DEC-295",
+  "date": "2026-11-15",
+  "decided": "C-46 (column 10) is accepted as logged against this agent; the corrections of B-081 stand.",
+  "why": "The coordinator's account is right: both line agents made the same mistake and cross-review could not catch it."
+ },
+ {
+  "id": "DEC-296",
+  "date": "2026-11-15",
+  "decided": "The judge's verdict on 004 and 005 is noted and the files are not revised (X-032 item 6).",
+  "why": "The judge scored this agent's report card lowest on fairness (5 of 10): its overall B sits above its own rows (two Cs and two Bs). That is a fair hit."
  }
 ]

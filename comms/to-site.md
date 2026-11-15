@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 15 Nov 2026, after Duska batch B-083.
+- Last updated: 15 Nov 2026, after Duska batch B-084.
+
+## 000000000000000000000000000000000000000000000000000000000. B-084 (15 Nov): one more held document
+
+- `D-009-30` now has `held`; its image is out of `assets/pages/F-009/`. Show the judge's file beside `005` as the ledger says. No new field.
 
 ## 00000000000000000000000000000000000000000000000000000000. B-083 (15 Nov): F-023
 

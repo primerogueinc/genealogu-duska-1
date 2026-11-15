@@ -7054,7 +7054,7 @@
   "file": "Baptism_of_Borbala_Marczinko_Kocsis_1906.png",
   "sha256": "04073759a5aa7614a49cb13dddf884a4003397e1b8e3af4a979f184cf1fbc890",
   "wide": true,
-  "title": "Baptism of Borbála Marczinko, Ungszenna 35, 1906, with a note of her marriage in 1947",
+  "title": "Baptism of Borbála Marczinko, Ungszenna 35, 1906, with a note of her marriage in 1947 (image held)",
   "span": "5 and 6 November 1906",
   "language": "Hungarian",
   "collector_label": "Baptism of Borbala Marczinko Kocsis 1906",
@@ -7075,15 +7075,23 @@
     "no": "[column headings]",
     "date": "5 and 6 November 1906",
     "from": "Baptism register, Roman Catholic, Senné",
-    "abstract": "Child: Borbála, daughter of Mihály Marczinko, Roman Catholic farmer, and Mária Kocsis, of Ungszenna 35. A later Latin note records that she married on 24 November 1947; the names in it are only partly legible. The strip shows the page's written column headings.",
+    "abstract": "Child: Borbála, daughter of Mihály Marczinko, Roman Catholic farmer, and Mária Kocsis, of Ungszenna 35. A later Latin note records her marriage in 1947 to a Samudovszky. The note names a person whose living status is not known, so the image is held and the note is given by name and year only (ledger v29, X-016). The strip shows the page's written column headings.",
     "reading": "medium"
    }
   ],
   "transcriptions": [
    {
     "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
-    "original": "[column headings] | 1906 november 5. | 1906 november 6. | Borbála | nő | törvényes | Marczinko Mihály r.k. gazda Ungszenna; Kocsis Mária r.k. Ungszenna | Ungszenna 35 sz. | Csizmár János gk. gazda; Murvai Györgyné sz. Hricsik Mária r.k. Ungszenna | Barna János lelkész | matr. contraxit [...] Georgio Samudovszky cum Joanne Jakica [?] die 24.XI.1947.",
-    "english": "Child: Borbála, daughter of Mihály Marczinko, Roman Catholic farmer, and Mária Kocsis, of Ungszenna 35. A later Latin note records that she married on 24 November 1947; the names in it are only partly legible. The strip shows the page's written column headings."
+    "original": "[column headings] | 1906 november 5. | 1906 november 6. | Borbála | nő | törvényes | Marczinko Mihály r.k. gazda Ungszenna; Kocsis Mária r.k. Ungszenna | Ungszenna 35 sz. | Csizmár János gk. gazda; Murvai Györgyné sz. Hricsik Mária r.k. Ungszenna | Barna János lelkész | [a marriage note: Samudovszky, 1947]",
+    "english": "Child: Borbála, daughter of Mihály Marczinko, Roman Catholic farmer, and Mária Kocsis, of Ungszenna 35. A later Latin note records her marriage in 1947 to a Samudovszky. The note names a person whose living status is not known, so the image is held and the note is given by name and year only (ledger v29, X-016). The strip shows the page's written column headings."
+   }
+  ],
+  "held": "A note of 1947 in the margin names a person not known to be dead (ledger v29, X-016: a note of 1947 or later is held with its image). The image is out of the public tree from B-084; it stays in the repository's history from before.",
+  "corrections": [
+   {
+    "batch": "B-084",
+    "date": "2026-11-15",
+    "text": "Image withdrawn and the margin note cut to a name and a year under ledger v29 (X-016, notes added later to an old entry)."
    }
   ]
  },

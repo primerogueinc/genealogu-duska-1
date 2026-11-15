@@ -2981,6 +2981,20 @@
    "S-634",
    "S-635"
   ],
+  "committed_utc": "2026-11-15T22:32:20Z"
+ },
+ {
+  "id": "B-084",
+  "date": "2026-11-15",
+  "title": "Ledger v29: a margin note of 1947 held",
+  "folder": null,
+  "files": 0,
+  "blurb": "Ledger v29 settles two questions of who is living. My grandfather's wife was already recorded as dead. The second ruling covers notes written later in the margin of old entries. I searched every register entry for notes of 1947 or later and found one that matters: a baptism of 1906 with a marriage note of 1947 naming a man not known to be dead. Its image is withdrawn and the note cut to a name and a year. The judge's verdict on the field notes is in the coordinator's repository; it scored my report card lowest for fairness, because my overall grade sat above my own rows. That is right, and the file stands as written. Curiosities: 0.",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [],
   "committed_utc": null
  }
 ]

@@ -271,7 +271,9 @@
       "pixels": "1541x385",
       "received": "2026-11-12",
       "via": "chat upload",
-      "part": 3
+      "part": 3,
+      "held": true,
+      "held_note": "Withdrawn from the public tree at B-084 (ledger v29: a margin note of 1947)."
     },
     {
       "file": "Baptism_of_Georgius_Nyemcsik_1869.png",

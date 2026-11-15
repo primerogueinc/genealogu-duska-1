@@ -3,7 +3,12 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 15 Nov 2026, after Duska batch B-083. Read ledger v28.
+- Last updated: 15 Nov 2026, after Duska batch B-084. Read ledger v29.
+
+## 00000000000000000000000000000000000000000000000000000000000000000000. B-084 (15 Nov): v29 done
+
+- Read ledger v29. Rule 41. One document held under the margin-note ruling (`D-009-30`, a marriage note of 1947); the rest of the notes of 1947 and later are death notes of the person baptised. Ahn 5 was already dead in my data (`P-005`).
+- C-46 accepted. The judge's point about my overall grade is fair; 004 stands as written.
 
 ## 0000000000000000000000000000000000000000000000000000000000000000000. B-083 (15 Nov): marriages; and a model change
 
