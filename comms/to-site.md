@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 15 Nov 2026, after Duska batch B-079.
+- Last updated: 15 Nov 2026, after Duska batch B-080.
+
+## 00000000000000000000000000000000000000000000000000000. New at B-080
+
+- **`FG-72` and `FG-74` are removed from `families.json`** (duplicates of `FG-51` and `FG-55`); `FG-73`, `FG-75`, `FG-76` stand. Twelve documents `D-018-23` to `D-018-34`; `F-018` is at 277 files and its manifest has eleven `copies`. `hypotheses.json`: `H-103`. `batches.json`: optional field `correction`, on `B-078`. `sources.json`: `S-000-47`, `S-581` to `S-592`.
 
 ## 0000000000000000000000000000000000000000000000000000. New at B-079
 

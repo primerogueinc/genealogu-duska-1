@@ -1654,5 +1654,35 @@
   "date": "2026-11-15",
   "decided": "Four strips that repeat entries already held are entered as second images, each with its own document.",
   "why": "They are different crops, not byte copies; one of them supplies a house number the first lacked."
+ },
+ {
+  "id": "DEC-277",
+  "date": "2026-11-15",
+  "decided": "FG-72 and FG-74 are withdrawn and their strips attached to FG-51 and FG-55.",
+  "why": "They were the same families. I entered them as new at B-078 without checking the strips against the entries already held."
+ },
+ {
+  "id": "DEC-278",
+  "date": "2026-11-15",
+  "decided": "From this batch every strip of F-018 is checked against the documents already held before it is called new.",
+  "why": "Twenty of the 34 strips read so far repeat entries the owner had already given in other folders, cut differently."
+ },
+ {
+  "id": "DEC-279",
+  "date": "2026-11-15",
+  "decided": "Parts 16 to 20 are archived; twelve strips are read now: the two that are new for the Duska families, the Hresko-Minarcsin marriage, and nine second images on or beside the direct line.",
+  "why": "Direct line first. The other 43 join the unread."
+ },
+ {
+  "id": "DEC-280",
+  "date": "2026-11-15",
+  "decided": "The eleven files sent twice (as '18' and as '17') are archived once.",
+  "why": "Byte for byte the same."
+ },
+ {
+  "id": "DEC-281",
+  "date": "2026-11-15",
+  "decided": "H-103 is raised at 60 and nobody is added.",
+  "why": "A by-name shared with one family is strong for the family and says little about the exact relationship."
  }
 ]

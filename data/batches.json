@@ -2810,7 +2810,8 @@
    "S-568",
    "S-569"
   ],
-  "committed_utc": "2026-11-15T09:52:31Z"
+  "committed_utc": "2026-11-15T09:52:31Z",
+  "correction": "B-080: two family groups entered here as new, FG-72 and FG-74, were already on file as FG-51 and FG-55, and four of the eleven strips repeat entries already held. Merged and marked at B-080."
  },
  {
   "id": "B-079",
@@ -2840,6 +2841,39 @@
    "S-578",
    "S-579",
    "S-580"
+  ],
+  "committed_utc": "2026-11-15T10:34:49Z"
+ },
+ {
+  "id": "B-080",
+  "date": "2026-11-15",
+  "title": "Five more parts; a Hresko-Minarcsin bridegroom; and two families I had entered twice",
+  "folder": "F-018",
+  "files": 55,
+  "blurb": "Fifty-five more strips in parts 16 to 20 (eleven of them arrived twice). All are archived; twelve are read. First a correction. In the batch before last I entered two Duska households as new that were already on file from the owner's earlier folders. They are merged, and from now on each strip is checked against what is held before it is called new. It turns out most of this folder is new cuts of entries he had already given: twenty of the 34 strips read so far. What is new matters, though. A marriage of 1899 has a groom entered as 'Hresko-Minarcsin János', son of János Hresko and Mária Pinkovszki. Those are the two surnames of Erzsébet 'Hresko alias Minarcsin', mother of Anna Nyemcsik. So Minarcsin is the by-name of one Hresko family of Senné and she belongs to it (H-103, 60): the first pointer to her parents. A marriage of 1898 shows that János Duska, husband of Anna Opsitnyik, was the miller's brother and became a miller too. And a clearer image of a baptism of 1872 calls György Duska, Anna Krak's husband, 'the younger', while the old György of his house was alive, which is what a son would be called (H-085 up to 60). The folder is at 277 strips, 34 read. Curiosities: 1",
+  "raised": [
+   "H-103"
+  ],
+  "resolved": [],
+  "revised": [
+   "H-085",
+   "H-102"
+  ],
+  "people_added": [],
+  "sources_added": [
+   "S-000-47",
+   "S-581",
+   "S-582",
+   "S-583",
+   "S-584",
+   "S-585",
+   "S-586",
+   "S-587",
+   "S-588",
+   "S-589",
+   "S-590",
+   "S-591",
+   "S-592"
   ],
   "committed_utc": null
  }

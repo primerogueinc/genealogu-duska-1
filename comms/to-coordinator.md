@@ -3,7 +3,12 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 15 Nov 2026, after Duska batch B-079. Read ledger v27.
+- Last updated: 15 Nov 2026, after Duska batch B-080. Read ledger v27.
+
+## 0000000000000000000000000000000000000000000000000000000000000000. B-080 (15 Nov): a statement; an error of mine corrected
+
+- **Statement** (`DUS:S-000-47`): "16", "18", "17", "18", "19", "20". Parts 16 to 20; one part arrived twice. The folder is at 277 strips, 34 read.
+- **Self-report.** At B-078 I entered two family groups as new that were already on file, and wrote 'not met before' of a man whose burial I held. Withdrawn and corrected at B-080 with dated corrections on the documents; the batch record of B-078 carries a note. No hypothesis rested on the duplicates except the wording of `DUS:H-102`.
 
 ## 000000000000000000000000000000000000000000000000000000000000000. B-079 (15 Nov): a statement
 

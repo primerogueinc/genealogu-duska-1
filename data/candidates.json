@@ -9043,7 +9043,7 @@
   "sources": [
    "S-565"
   ],
-  "relation": "D-018-07. Father in FG-72.",
+  "relation": "D-018-07. Father in FG-72. Entered at B-078 in error as new: the same person as K-693.",
   "route": "duska",
   "route_note": ""
  },
@@ -9055,7 +9055,7 @@
   "sources": [
    "S-565"
   ],
-  "relation": "D-018-07. Daughter of András Duska and Anna Jakurics (FG-72).",
+  "relation": "D-018-07. Daughter of András Duska and Anna Jakurics (FG-72). Entered at B-078 in error as new: the same person as K-395.",
   "route": "duska",
   "route_note": ""
  },
@@ -9200,6 +9200,30 @@
    "S-579"
   ],
   "relation": "D-018-21. Husband of Zsuzsanna Kozzo (Kozé). An incomer; not Ahn 34.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-772",
+  "name": "János Hresko-Minarcsin",
+  "vitals": "b. 9 Aug 1874 at Szenna; farm servant of Szenna 2; m. 6 Feb 1899",
+  "proof": "documented",
+  "sources": [
+   "S-581"
+  ],
+  "relation": "D-018-23. Son of János Hresko and Mária Pinkovszki. Bears both of Ahn 35's surnames (H-103).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-773",
+  "name": "János Hresko, husband of Mária Pinkovszki",
+  "vitals": "Roman Catholic cottar of Szenna; father of János b. 1874",
+  "proof": "documented",
+  "sources": [
+   "S-581"
+  ],
+  "relation": "D-018-23. Head of the Hresko family by-named Minarcsin (H-103).",
   "route": "duska",
   "route_note": ""
  }

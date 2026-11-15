@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-15 after batch B-079 (read ledger v27). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-15 after batch B-080 (read ledger v27). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -60,6 +60,7 @@ Updated 2026-11-15 after batch B-079 (read ledger v27). Requests R-001 to R-011 
 - F-018 opened: 145 strips archived and not yet read; reading by sub-folder, Senne GK first.
 - F-018: 211 files, 11 read. Burial of Ahn 34 János Nyemcsik, 25 Mar [1878] (`D-018-05`, `H-101`).
 - F-018 part 15 read (22 of 222). `H-086` refuted: the bell-ringer's wife was the daughter of Mihály Nyemcsik (`D-018-17`).
+- F-018 parts 16 to 20 archived (34 of 277 read). `H-103` raised (Ahn 35 is of the Hresko-Minarcsin family). FG-72 and FG-74 withdrawn as duplicates.
 
 ## Concluded
 

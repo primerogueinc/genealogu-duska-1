@@ -1513,5 +1513,16 @@
   "translation": "Parents unknown.",
   "why": "Sixteen years after the child, and quietly.",
   "tone": "odd"
+ },
+ {
+  "id": "C-154",
+  "doc": "D-018-23",
+  "source": "S-581",
+  "title": "'Found outside of collection (No idea?)'",
+  "text": "The owner does not remember why this folder sits outside his collection. Of the 34 strips read from it so far, twenty are entries he had already given me from his other folders, cut again from the same pages and renamed with the year first and the family spelled out. It looks like a second pass over his own work, done more carefully, and then forgotten. The strips that are new are the marriages, which his other folders hardly have.",
+  "original": "(No idea?)",
+  "translation": "The owner's own words, in the folder's name.",
+  "why": "An archive that contains an unlabelled improved edition of itself.",
+  "tone": "funny"
  }
 ]

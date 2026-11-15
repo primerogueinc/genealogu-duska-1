@@ -1577,6 +1577,11 @@
     "batch": "B-076",
     "effect": "solved",
     "note": "The miller's marriage entry is in hand (D-017-02): 28 August 1894, Mihály Duska, miller, of Szenna 6, born 9 November 1872, son of György Duska, cottar, and Erzsébet Schwarcz. Same day as the baptism at house 5 (D-009-75), same parents as FG-48, and the house is theirs. A record in hand with its archive reference."
+   },
+   {
+    "batch": "B-080",
+    "effect": "no change",
+    "note": "Solved already. His brother János's marriage entry of 1898 (D-018-24) gives the same parents, and János too is a miller by 1900."
    }
   ]
  },
@@ -2466,7 +2471,7 @@
  {
   "id": "H-085",
   "statement": "György Duska the elder (Ahn 32, born about 1833) is the son of György Duska of Szenna 6 (born about 1803, died December 1873) and his first wife Mária Béres (died February 184[5 or 7] aged 31).",
-  "confidence": 55,
+  "confidence": 60,
   "basis": "For: the same given name and the same house, 6; a father of 30 and a mother of about 18 at his birth; the older man is the only György Duska of Senné in that generation (D-013-134, D-013-165); the younger was called 'the younger' or 'the elder' only against other Györgys of the house. Against: János Duska, born about 1798, lived in house 6 too (D-013-148) and could be the father, about 25; another origin, about 20. No baptism survives at Prešov before 1866.",
   "test": "The marriage of György Duska and Anna Krak (about 1864), which should name his father; the census of 1869 for Senné house 6; the parish's own copy of the baptism book for 1833.",
   "status": "open",
@@ -2483,6 +2488,11 @@
     "batch": "B-072",
     "effect": "no change",
     "note": "A match of 21.49 cM to Štefan bears the surname Béres (D-016-43). A common name; noted, no weight."
+   },
+   {
+    "batch": "B-080",
+    "effect": "raised",
+    "note": "At the baptism of February [1872] Ahn 32 is 'ifj. Duska György', the younger, at house 6 (D-018-26, a clearer image of D-009-33). The only older György Duska then living at Szenna 6 is the man born about 1803 who died in December [1873]. 'The younger' beside him in one house is what a son would be called; a nephew also. Raised by five."
    }
   ]
  },
@@ -2837,6 +2847,11 @@
     "batch": "B-074",
     "effect": "no change",
     "note": "The Demko agent ran its own test on the grandfather's raw file (DM-H-048 @5060d73): no stretch of 4 Mb or more where his two copies agree. The same answer by a finer measure on the same data: his parents shared no grandparent or great-grandparent. It agrees with D-016-24 and adds no new evidence about the two Hresko women beyond it."
+   },
+   {
+    "batch": "B-080",
+    "effect": "no change",
+    "note": "H-103 raised: the Minarcsin by-name marks one Hresko branch at Szenna, and another is Hresko-Bobik. If the Viszoka Hreskos carry no such by-name that is one more reason to think the two women were not sisters."
    }
   ],
   "question": "Do the Duska and Demko trees share an ancestor?"
@@ -2933,8 +2948,32 @@
     "batch": "B-078",
     "effect": "raised at 35",
     "note": "Tracked under rule 30. Nobody attached."
+   },
+   {
+    "batch": "B-080",
+    "effect": "corrected",
+    "note": "My error at B-078. András Duska of Jesztreb was not new: he is FG-51, held since the baptism folder, with his burial of 24 December 1891 aged 60 already in hand. I had entered him a second time as FG-72, which is withdrawn. Only János Duskó of Jesztreb 4 (FG-73) is new. The hypothesis is unchanged in substance: neither man is tied to a parent."
    }
   ],
   "question": "Who were the Duskas of Jesztreb?"
+ },
+ {
+  "id": "H-103",
+  "statement": "Erzsébet Hresko alias Minarcsin (Ahn 35) was of the Hresko family of Szenna by-named Minarcsin, the family of János Hresko, husband of Mária Pinkovszki: his sister or his father's sister.",
+  "confidence": 60,
+  "basis": "A by-name in these villages marks one branch of a common surname. Ahn 35 is 'Hresko alias Minarcsin' at two baptisms and at her husband's burial, and her daughter is entered as Minarcsin through the 1890s. In 1899 a groom born in 1874 is entered as 'Hresko-Minarcsin János', son of János Hresko and Mária Pinkovszki (D-018-23). Another Hresko branch in the same book is 'Hresko-Bobik'. So Minarcsin is this family's by-name and she is one of them. Against: the by-name could have come to her and to them separately, from a shared house or a stepfather named Minarcsin; and how she stands to János Hresko is a guess from ages (she bore children from [1866], his son was born in 1874).",
+  "test": "Unread strips of this same folder, by their labels: a baptism of 1874 for János, son of János Hresko and Mária Pinkovszki; burials of 1873, 1874 and 1885 naming Minarcsin; and a baptism of 1877 to 'János and Anna Minarcsik'. Beyond them: Erzsébet's own baptism at Szenna, about 1840 to 1848, and the marriage of János Hresko.",
+  "status": "open",
+  "raised": "B-080",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-080",
+    "effect": "raised at 60",
+    "note": "Direct line. Nobody added. It also bears on H-098: the Hresko of Viszoka on the Demko side would have to be a Hresko-Minarcsin to be her sister."
+   }
+  ],
+  "question": "Who were the parents of Erzsébet Hresko alias Minarcsin?"
  }
 ]

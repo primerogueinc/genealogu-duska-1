@@ -664,6 +664,14 @@
   "reliability": "The owner sends eleven more strips as part 15. He does not say whether it is the last."
  },
  {
+  "id": "S-000-47",
+  "batch": "B-080",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 15 Nov 2026 (UTC): parts 16 to 20 of 'Senne Roca'",
+  "extract": "\"16\"; \"18\"; \"17\"; \"18\"; \"19\"; \"20\".",
+  "reliability": "The owner sends five more parts. The first message marked '18' and the one marked '17' carry the same eleven files; they are taken as part 17 sent twice. He does not say whether 20 is the last."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -5005,6 +5013,102 @@
   "type": "Church burial register (original record, cropped strip)",
   "title": "Burial of Zsuzsánna Hemerda, widow of János Nyemcsik, born at Butka, aged 78, Nagy Szeretva 63, 18 December 1892: a second image",
   "extract": "Entry 55 of 1892, 18 December: Zsuzsánna Hemerda, widow of János Nyemcsik, Roman Catholic tiller; born at Butka, Zemplén county, living at Nagy Szeretva 63; female; 78; cause, decline of old age; received the sacraments; buried at Nagy Szeretva on 20 December by Gyula Buzinkay. The entry already held as D-013-194; this image gives the house number, 63, in full.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-581",
+  "batch": "B-080",
+  "type": "Church marriage register (original record, cropped strip)",
+  "title": "Marriage of János Hresko-Minarcsin and Anna Sztanko, Senné, 6 February 1899",
+  "extract": "Entry 4 of 1899, 6 February: János 'Hresko-Minarcsin', farm servant, born and living at Szenna, house 2, Roman Catholic, born 9 August 1874, bachelor, son of János Hresko, Roman Catholic cottar of Szenna, and Mária Pinkovszki, Roman Catholic, of Szenna; and Anna Sztanko, born at Pálócz, living at Szenna 2, Roman Catholic, born 4 June 1875, spinster, daughter of János Sztanko, Roman Catholic cottar of Pályin, and Anna Mihalyo, of Pálócz. Witnesses: György Duska, Roman Catholic cottar of Szenna, and János Sztricsko, Roman Catholic farmer of Szenna. Officiant: Gyula Buzinkay. Banns three times. The groom carries as a double surname the two names of Ahn 35, 'Hresko alias Minarcsin'. So Minarcsin is the by-name of one Hresko family of Szenna, the one of János Hresko and Mária Pinkovszki, and Ahn 35 belongs with it (H-103).",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-582",
+  "batch": "B-080",
+  "type": "Church marriage register (original record, cropped strip)",
+  "title": "Marriage of János Duska, son of György Duska and Erzsébet Schwarcz, and Anna Opsitnyik, Senné, 12 September 1898",
+  "extract": "Entry 5 of 1898, 12 September: János Duska, cottar, born at Szenna, living at Szenna 39, Roman Catholic, born 4 August 1877, bachelor, son of György Duska, Roman Catholic cottar of Szenna, and Erzsébet Schvarcz, Roman Catholic, born at Ribnyicze; and Anna Opsitnyik, born at Szenna, living at Szenna 75, Roman Catholic, born 1 November 1879, spinster, daughter of János Opsitnyik, Roman Catholic farmer of Szenna, and Anna Holyis. Witnesses: János Halász and János Holyis, Roman Catholic farmers of Szenna. Officiant: Gyula Buzinkay. Banns three times. The birthday is that of János, son of György the younger and Erzsébet Schwarz (FG-48), so the János Duska of FG-54 is the miller Mihály's brother. His mother's birthplace is written Ribnyicze here, which settles the doubtful word on his brother's entry of 1894.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high; medium for the bride's house number. The year is in the entry."
+ },
+ {
+  "id": "S-583",
+  "batch": "B-080",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of Anna Duska, daughter of János, miller, and Anna Opsitnyik, Szenna 115, 31 May and 1 June 1900: a second image",
+  "extract": "Born 31 May, baptised 1 June 1900: Anna, girl, legitimate; parents János Duska, Roman Catholic miller of Szenna, and Anna Opsitnyik, Roman Catholic, of Szenna; house Szenna 115; godparents András Raskóvszki, Roman Catholic farmer, and Róza Popovics, Roman Catholic, of Szenna; baptised by Gyula Buzinkay. The entry already held as D-009-17, whose label doubted the surname ('Duska or Drska'); on this image it is Duska, and the father is a miller, like his brother Mihály.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-584",
+  "batch": "B-080",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of György Duska, son of György 'the younger' and Anna Krak, Szenna 6, 10 February [1872]; died 8 July 1875: a second image",
+  "extract": "Entry 8, 10 February: György, boy, legitimate; parents 'ifj. Duska György' and Anna Krak, Roman Catholic and Greek Catholic; house Szenna 6; godparents György Sztricsko and Anna Helis; in the margin a cross and '1875. Jul. 8.' The entry already held as D-009-33, where the word before the father's name could not be settled between 'id.' and 'if.'. On this image it is 'ifj.', the younger. In February [1872] the old György Duska of house 6 was still alive (he died in December [1873]), so Ahn 32 is 'the younger' beside him; by 1875 he is 'the elder' beside the husband of Erzsébet Schwarz. The owner's file name says 1895, a slip; his earlier label for the same entry says 1872.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high; medium for 'ifj.'. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-585",
+  "batch": "B-080",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of András Duska, son of András and Anna Minarcsin, Szenna 73, 3 and 4 June 1896: a second image",
+  "extract": "Entry 32 of 1896: born 3 June, baptised 4 June: András, boy, legitimate; parents András Duska, Roman Catholic farm servant of Szenna, and Anna Minarcsin, Roman Catholic, of Szenna; house Szenna 73; godparents János P[abjó]nik, Roman Catholic carpenter, and Mária Hresko, Roman Catholic, of Szenna; baptised by Gyula Buzinkay. The entry already held as D-009-03, cut differently; the two agree in every field read.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high; low for the godfather's surname. The year is in the entry."
+ },
+ {
+  "id": "S-586",
+  "batch": "B-080",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of Anna Duska, twin, daughter of András and Anna Minarcsin, Szenna 92, 11 and 12 July 1898; died 30 July 1898: a second image",
+  "extract": "Entry 33 of 1898: born 11 July, baptised 12 July: Anna, girl, legitimate, bracketed with the entry above as a twin; parents András Duska, Roman Catholic farm servant, and Anna Minarcsin, of Szenna; house Szenna 92; godparents János Hreha, Greek Catholic farm servant, and Anna Tkács, Roman Catholic; baptised by Gyula Buzinkay; 'meghalt 1898. jul. 30.' The entry already held as D-009-15, cut differently; the two agree in every field read.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-587",
+  "batch": "B-080",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of György Duska, twin, son of András and Anna Minarcsin, Szenna 92, 11 and 12 July 1898; died 8 December 1898: a second image",
+  "extract": "Entry 32 of 1898: born 11 July, baptised 12 July: György, boy, legitimate, a twin; parents András Duska, Roman Catholic farm servant, and Anna Minarcsin, of Szenna; house Szenna 92; godparents János Hresko, Roman Catholic farmer, and Anna Laskodi, Roman Catholic, of Szenna; baptised by Gyula Buzinkay; 'meghalt 1898. decz. 8.' The godfather is a János Hresko, farmer. The entry already held as D-009-37, cut differently; the two agree in every field read.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-588",
+  "batch": "B-080",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Duska, three weeks old, daughter of András and Anna Minarcsin, Szenna 92, 30 July 1898: a second image",
+  "extract": "Entry 21 of 1898, 30 July: Anna Duska, daughter of András Duska, Roman Catholic cottar, and Anna Minarcsin; Szenna 92; female; three weeks old; cause, weakness from birth; buried at Szenna on 31 July by Gyula Buzinkay; 'született 1898. jul. 11.' The entry already held as D-013-110, cut differently; the two agree in every field read.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-589",
+  "batch": "B-080",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of György Duska, six months old, son of András and Anna Minarcsin, Szenna 92, 8 December 1898: a second image",
+  "extract": "Entry 43 of 1898, 8 December: György Duska, son of András Duska, Roman Catholic farm servant, and Anna Minarcsin; Szenna 92; male; six months old; cause, weakness from birth; buried at Szenna on 9 December by Gyula Buzinkay; 'született 1898. julius 11.' The entry already held as D-013-137, cut differently; the two agree in every field read.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-590",
+  "batch": "B-080",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of Anna Duska, daughter of András and Anna Minarcsin, Szenna 71, 19 and 20 September 1899: a second image",
+  "extract": "Entry 48 of 1899: born 19 September, baptised 20 September: Anna, girl, legitimate; parents András Duska, Roman Catholic cottar, and Anna Minarcsin, of Szenna; house Szenna 71; godparents János Hreha, Greek Catholic cottar, and Anna Laskodi, Roman Catholic, of Szenna; baptised by Gyula Buzinkay. The entry already held as D-009-16, cut differently; the two agree in every field read.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-591",
+  "batch": "B-080",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Duska, nine months old, daughter of András and Anna Minarcsin, Szenna 71, 17 June 1900: a second image",
+  "extract": "Entry 17 of 1900, 17 June: Anna Duska, daughter of András Duska, Roman Catholic farm servant, and Anna Minarcsin; Szenna 71; female; nine months old; cause, weakness from birth; buried at Szenna on 18 June by Gyula Buzinkay; 'született 1899. szept. 19.' The entry already held as D-013-111, cut differently; the two agree in every field read.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-592",
+  "batch": "B-080",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of András Duska, cottar, husband of Anna Ja[f]urics, aged 60, Jesztreb, 24 December 1891: a second image; the owner's label says 1901",
+  "extract": "Entry 35 of 1891, 24 December: András Duska, husband of Anna Ja[f]urics, cottar; Jesztreb; male; 60 years old; cause, pneumonia; sacraments: 'no; the illness was not thought serious'; buried at Jesztreb on 26 December by István Rusznák, dean and parish priest. The entry already held as D-013-104. The owner's file name here gives 1901; the year in the entry is 1891.",
   "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
  }
 ]
