@@ -2673,6 +2673,11 @@
     "batch": "B-064",
     "effect": "no change",
     "note": "No Krak among the grandfather's matches by name (D-016-18). Surnames on kits are the testers' own, mostly Americans three generations on; the test would be their trees, which this agent does not open."
+   },
+   {
+    "batch": "B-075",
+    "effect": "no change",
+    "note": "The Places agent has the place sourced: Hungarian Tiba is Tibava, two kilometres east of Sobrance, 58 houses and 548 people in 1828 (PL-P-059; PL-H-023 at 85, @c45834e). Which Greek Catholic parish served it in 1830 to 1870 is not found: Tibava and Sobrance had none of that rite in 1733, and the nearest then were Choňkovce, Nižná Rybnica, Porostov and Koromľa. The place is firmer; the person is where she was, at the cap, with no baptism in hand."
    }
   ],
   "question": "Who was Anna Krak and where was she from?"
@@ -2768,6 +2773,11 @@
     "batch": "B-072",
     "effect": "no change",
     "note": "The same 1,566.58 cM seen from the grandfather's own list (D-016-43)."
+   },
+   {
+    "batch": "B-075",
+    "effect": "no change",
+    "note": "Ledger v27, X-023 item 5: a link shown by DNA between two tested people, Ahn 1 and Ahn 4, counts as documented. It was already solved here at 96."
    }
   ],
   "question": "Is the paper tree true at its foot?"
@@ -2804,7 +2814,7 @@
  {
   "id": "H-099",
   "statement": "A DNA match of Štefan and of the owner who lists Nyemcsik among ancestral surnames is kin through the Nyemcsik family of Szenna, the family of Anna Nyemcsik (Ahn 17) and her father János (Ahn 34).",
-  "confidence": 50,
+  "confidence": 42,
   "basis": "The match shares 32.2 cM with Štefan on GEDmatch (D-016-18) and 20.18 cM with the owner at FamilyTreeDNA (D-016-32), is sorted to the owner's father's side there, and gives Nyemcsik, in that Hungarian spelling, as one of 32 surnames of ancestors. The surname is rare; in this archive it is met only at Szenna. Against: the list has other names from the same country (Hudák among them), any of which could carry the shared DNA, and through Maria Demko as easily as through the Duskas. Where the match's Nyemcsik lived is not in the file.",
   "test": "The village and dates of the match's Nyemcsik ancestor. That is in the match's own tree or head. This agent opens no match's tree and writes to nobody; the owner can find the person in his list by the surname. On paper: the baptisms of János Nyemcsik's brothers and sisters at Szenna, wanted anyway for H-086.",
   "status": "open",
@@ -2821,6 +2831,11 @@
     "batch": "B-072",
     "effect": "no change",
     "note": "A third figure for the same match: 34.06 cM with Štefan in his own FamilyTreeDNA list (D-016-43), longest block 14.18 cM. Steady across three measures. Still one surname in a list of 32; stays at 50."
+   },
+   {
+    "batch": "B-075",
+    "effect": "lowered",
+    "note": "The Places agent, from recall and unchecked, says Nyemcsik is the Hungarian spelling of a common Slovak name (Nemčík) of a kind that arises in many villages on its own, so one stranger's list does not point to Senné (PL-N-048). My basis called the name rare; in this archive it is met only at Szenna, but that is a statement about the archive. Lowered by eight."
    }
   ],
   "question": "Who were the Nyemcsiks of Szenna?"

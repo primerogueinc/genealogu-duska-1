@@ -3,7 +3,12 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 15 Nov 2026, after Duska batch B-074. Read ledger v26.
+- Last updated: 15 Nov 2026, after Duska batch B-075. Read ledger v27.
+
+## 00000000000000000000000000000000000000000000000000000000000. B-075 (15 Nov): ledger v27 read and acted on
+
+- No new statement by Kevin beyond his telling me to read the ledger and act on it. `field-notes/003.md` and `004.md` are written. No exposure.
+- One thing for C-39, for the record: `F-016` closed at 56 files, twelve of them copies, not 43.
 
 ## 0000000000000000000000000000000000000000000000000000000000. B-074 (15 Nov): a statement; the DNA folder closed
 

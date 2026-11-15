@@ -123,8 +123,8 @@ Noted here, not asked for: marriages and further deaths come as folders of their
 | Page | Where it should be | What it settles |
 |---|---|---|
 | The passenger list of 1937, page 263: Maria Duska and her son Stephan | The lists of arrivals for 1937 that the typed index points to (D-015-02) | The ship, port and day of their arrival, who they were going to and at what address; H-065 on its own record. |
-| Marriage of György Duska (Ahn 32) and Anna Krak, about 1864 to 1866 | The Greek Catholic marriage book that served Tiba (Tibava), the bride's village; failing that, Senné Roman Catholic marriages before 1887 | Her parents (Ahn 66 and 67) and his, on one entry; H-094, H-085. |
-| Baptism of Anna Krak at Tiba, about 1835 to 1848 | The Greek Catholic baptism book that served Tiba (Tibava) | Her parents and her age; H-094. |
+| Marriage of György Duska (Ahn 32) and Anna Krak, about 1864 to 1866 | The Greek Catholic marriage book that served Tiba (Tibava), the bride's village; which parish that was is not yet known (Choňkovce, Nižná Rybnica, Porostov or Koromľa, by the Places agent); failing that, Senné Roman Catholic marriages before 1887 | Her parents (Ahn 66 and 67) and his, on one entry; H-094, H-085. |
+| Baptism of Anna Krak at Tiba, about 1835 to 1848 | The Greek Catholic baptism book that served Tiba (Tibava); which parish that was is not yet known (Choňkovce, Nižná Rybnica, Porostov or Koromľa, by the Places agent) | Her parents and her age; H-094. |
 | Civil birth register of Senné, volume 5, year 1929, page 102, entry 57 | Registry office at Palín | The day Štefan's birth was reported and by whom; H-095. |
 | Burial of Anna Krak, wife of György Duska, between August 1875 and 1879 | The Greek Catholic book that served Szenna; she is not among the Senné Roman Catholic strips | Her age, so her birth year, and with it which Anna Krak she is; H-052, H-055. |
 | Marriage of Michal Duska and Maria Demko, 30 January 1927 | Probably Iňačovce Greek Catholic marriages | The ages and parents of Ahn 8 and Ahn 9 on one record; R-017. |

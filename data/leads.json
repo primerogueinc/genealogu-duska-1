@@ -375,5 +375,15 @@
   ],
   "proof": "lead",
   "kind": "dna"
+ },
+ {
+  "id": "L-038",
+  "text": "The Places agent's answer on Tiba (its notes after PL-B-015 and PL-B-016, read at c45834e): Tiba is Tibava by Sobrance, sourced. The Greek Catholic parish that served it in 1830 to 1870 is not yet found; Choňkovce, Nižná Rybnica, Porostov and Koromľa are the nearest Greek-rite parishes on the list of 1733. The Prešov catalogue names the district of each surviving book and would settle it. Its earlier suggestion that the place was Ižkovce is withdrawn.",
+  "url": "https://github.com/primerogueinc/duska-and-demko-villages",
+  "bears_on": [
+   "H-094"
+  ],
+  "proof": "lead",
+  "kind": "outside"
  }
 ]

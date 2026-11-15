@@ -2726,6 +2726,22 @@
   "sources_added": [
    "S-000-42"
   ],
+  "committed_utc": "2026-11-15T09:19:43Z"
+ },
+ {
+  "id": "B-075",
+  "date": "2026-11-15",
+  "title": "Ledger v27 read and acted on: two more field notes, the requests laid down, Tiba confirmed as Tibava",
+  "folder": null,
+  "files": 0,
+  "blurb": "No new files. The coordinator's ledger, version 27, catches up with what the owner said in the agents' chats, and this batch does what it asks. Two notes are written: one on the two nights he overrode the rules, and one grading him, as he invited (a B overall; C as an archivist and as an experimenter). The new rule that nothing may be asked of him that is not already on his drive is applied: 15 open requests are withdrawn and kept as a list of wishes. The Places agent has answered two questions. Tiba, where Anna Krak came from, is Tibava by Sobrance, now sourced, though which Greek Catholic parish held its books is still unknown, with four candidates. And a disputed remark on a burial at Csepely is ruled as this agent read it. It also warns that Nyemcsik is a common kind of surname, so the DNA lead that rests on it is lowered from 50 to 42. Nothing in the tree changes. Curiosities: 0",
+  "raised": [],
+  "resolved": [],
+  "revised": [
+   "H-099"
+  ],
+  "people_added": [],
+  "sources_added": [],
   "committed_utc": null
  }
 ]

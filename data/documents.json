@@ -16585,15 +16585,15 @@
     "no": "73",
     "date": "7 August [1873, by the form and the cholera; the owner: 1783]",
     "from": "Church burial register (original record, cropped strip)",
-    "abstract": "János, whose father is János Kocsis, cottar, of Csepely 21; a youth of 17; died on 7 August of cholera; buried at Csepely on 8 August; a remark read doubtfully as 'belongs to the pastorate of Mátyóc'. The next entry, a boy of 14 at Bés, is also cholera. The form is the two-page form of the 1870s, so the owner's '1783' is a slip, most likely for 1873.",
-    "reading": "medium; low for the remark"
+    "abstract": "János, whose father is János Kocsis, cottar, of Csepely 21; a youth of 17; died on 7 August of cholera; buried at Csepely on 8 August; a remark, 'belongs to the pastorate of Mátyóc' ('mátyóci lelkészethez tartozik', in two lines). The next entry, a boy of 14 at Bés, is also cholera. The form is the two-page form of the 1870s, so the owner's '1783' is a slip, most likely for 1873.",
+    "reading": "medium; the remark ruled by the Places agent from the image"
    }
   ],
   "transcriptions": [
    {
     "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
     "original": "73. | Aug. 7. | János | atyja: Kocsi[s] János zsellér | Csepely 21. | fi | \" | 17 | cholera | - | Csepely aug. 8. | d° | mátyóci lelkész[ethez] tartozik [?] [row 74: Aug. 11. András, atyja Magyar András zsellér, Bés, fi, 14, cholera, Bés aug. 11.]",
-    "english": "János, whose father is János Kocsis, cottar, of Csepely 21; a youth of 17; died on 7 August of cholera; buried at Csepely on 8 August; a remark read doubtfully as 'belongs to the pastorate of Mátyóc'. The next entry, a boy of 14 at Bés, is also cholera. The form is the two-page form of the 1870s, so the owner's '1783' is a slip, most likely for 1873."
+    "english": "János, whose father is János Kocsis, cottar, of Csepely 21; a youth of 17; died on 7 August of cholera; buried at Csepely on 8 August; a remark, 'belongs to the pastorate of Mátyóc' ('mátyóci lelkészethez tartozik', in two lines). The next entry, a boy of 14 at Bés, is also cholera. The form is the two-page form of the 1870s, so the owner's '1783' is a slip, most likely for 1873."
    }
   ],
   "object": {
@@ -16605,7 +16605,14 @@
    "compared": [
     "D-004-18 and D-004-16, baptisms of 1873 and 1882 naming the Greek Catholic pastors of Csicser"
    ]
-  }
+  },
+  "corrections": [
+   {
+    "batch": "B-075",
+    "date": "2026-11-15",
+    "text": "X-S-008 is closed (ledger v27). The Places agent read the remark from the image as 'mátyóci lelkészethez tartozik' and upheld this agent's reading (PL-N-046, PL-DEC-059). The field is marked as ruled."
+   }
+  ]
  },
  {
   "id": "D-013-23",

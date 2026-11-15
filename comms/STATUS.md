@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-15 after batch B-074 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-15 after batch B-075 (read ledger v27). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -55,6 +55,7 @@ Updated 2026-11-15 after batch B-074 (read ledger v26). Requests R-001 to R-011 
 - F-016 part 11: the grandfather's own match list (`D-016-43`). `H-100` raised (40): a match lists Dusko/Hornyak. A Demko-surnamed relative at 106 cM routed to the Demko agent.
 - DNA findings and leads are on the site at the owner's word: `data/dna.json`, a `dna` line on ten people, leads with `kind`.
 - F-016 closed by the owner: 56 files, 43 documents. Next by his order of folders: marriages.
+- Ledger v27 acted on: field notes 3 and 4; requests withdrawn as wishes (X-033); `H-099` to 42; Tiba is Tibava by the Places agent (`L-038`).
 
 ## Concluded
 
