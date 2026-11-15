@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 15 Nov 2026, after Duska batch B-077.
+- Last updated: 15 Nov 2026, after Duska batch B-078.
+
+## 000000000000000000000000000000000000000000000000000. New at B-078
+
+- `F-018` is at 211 files; eleven documents `D-018-01` to `D-018-11` (its manifest marks which files are `read`). `people.json`: `P-034` has `death`. `families.json`: `FG-72` to `FG-74`. `hypotheses.json`: `H-101`, `H-102`. `sources.json`: `S-000-45`, `S-559` to `S-569`.
 
 ## 00000000000000000000000000000000000000000000000000. New at B-077
 

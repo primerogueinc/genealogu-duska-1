@@ -352,12 +352,17 @@
   "proof": "documented",
   "sources": [
    "S-231",
-   "S-157"
+   "S-157",
+   "S-563"
   ],
-  "note": "Roman Catholic cottar of Senné, house 79 ([1866] to 1872), then 77. Named as the father of the bride in the marriage entry of 1892 and of Anna in her baptism of 24 August 1872. Several men of this name lived at Senné; this one is fixed by his wife.",
+  "note": "Roman Catholic cottar of Senné, house 79 ([1866] to 1872), then 77. Named as the father of the bride in the marriage entry of 1892 and of Anna in her baptism of 24 August 1872. Several men of this name lived at Senné; this one is fixed by his wife. Died suddenly on 25 March [1878] at house 79, aged 54, and was buried on the 27th (D-018-05); the entry names his wife by both her surnames. Born about 1824 by that age. The year of death is from the owner's file name (H-101).",
   "owner": "Duska",
   "living_basis": "A father by 1866.",
-  "dna": "The match of H-099 lists his surname. If that match descends from one of his brothers or sisters, their baptisms at Szenna are where to look."
+  "dna": "The match of H-099 lists his surname. If that match descends from one of his brothers or sisters, their baptisms at Szenna are where to look.",
+  "death": {
+   "date": "25 Mar [1878]",
+   "place": "Szenna 79"
+  }
  },
  {
   "id": "P-035",
@@ -374,7 +379,7 @@
    "S-231",
    "S-157"
   ],
-  "note": "Named as the mother of the bride in the marriage entry of 1892 and of Anna in 1872. Two baptisms write her 'Hresko alias Minarcsin'; her daughter is entered as Anna Minarcsin at her own children's baptisms in the 1890s.",
+  "note": "Named as the mother of the bride in the marriage entry of 1892 and of Anna in 1872. Two baptisms write her 'Hresko alias Minarcsin'; her daughter is entered as Anna Minarcsin at her own children's baptisms in the 1890s. A widow from March [1878] (D-018-05).",
   "owner": "Duska",
   "living_basis": "A mother by 1866.",
   "dna": "Her granddaughter-in-law's side also had a Hresko woman. Ahn 4, grandson of the one family and great-grandson of the other, carries no sign of cousin parents, so the two were probably not sisters (H-098)."

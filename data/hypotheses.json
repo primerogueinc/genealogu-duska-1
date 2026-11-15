@@ -2506,6 +2506,11 @@
     "batch": "B-070",
     "effect": "no change",
     "note": "H-099 raised beside it: a DNA match lists Nyemcsik among ancestors. If that match descends from Mária Nyemcsik or another child of Ahn 34's parents, it bears on this; nothing shows it yet."
+   },
+   {
+    "batch": "B-078",
+    "effect": "no change",
+    "note": "A Mária Nyemcsik aged 20 marries Mihály Thur in February [1878], but she is the daughter of György of house 89 (D-018-06), not of Ahn 34. A different Mária."
    }
   ]
  },
@@ -2851,6 +2856,11 @@
     "batch": "B-075",
     "effect": "lowered",
     "note": "The Places agent, from recall and unchecked, says Nyemcsik is the Hungarian spelling of a common Slovak name (Nemčík) of a kind that arises in many villages on its own, so one stranger's list does not point to Senné (PL-N-048). My basis called the name rare; in this archive it is met only at Szenna, but that is a statement about the archive. Lowered by eight."
+   },
+   {
+    "batch": "B-078",
+    "effect": "no change",
+    "note": "Three Nyemcsik households in eleven strips (Szenna 89, Pálin, and Ahn 34's at 79). The name was common in the village itself, which cuts both ways for a DNA lead: more families a match could descend from, and all of them here."
    }
   ],
   "question": "Who were the Nyemcsiks of Szenna?"
@@ -2873,5 +2883,43 @@
    }
   ],
   "question": "Were the Greek Catholic and Roman Catholic Duskas of Szenna one family?"
+ },
+ {
+  "id": "H-101",
+  "statement": "János Nyemcsik (Ahn 34) died on 25 March 1878: the year in the owner's file name is right.",
+  "confidence": 85,
+  "basis": "The man is certain: the burial names his wife as Erzsébet 'Hresko alias Minarcsin', the double name of Ahn 35, at house 79, where the couple's children were baptised (D-018-05). The year is not on the strip. For 1878: the owner's label; the couple's last known child was born on 22 July [1875]; the strip is on the hand-ruled Hungarian burial form in use from 1871 to 1886. Nothing in hand contradicts it, and nothing but the label fixes it.",
+  "test": "The full page of the Senné Roman Catholic burial book (Prešov no. 1091) with its year heading. An unread strip of this folder is labelled as a baptism of 1877 to 'János and Anna Minarcsik'; if that is this couple it narrows the year from below.",
+  "status": "open",
+  "raised": "B-078",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-078",
+    "effect": "raised at 85",
+    "note": "Direct line. Entered on the tree with the year in brackets."
+   }
+  ],
+  "question": "When did the bride's father of 1892 die?"
+ },
+ {
+  "id": "H-102",
+  "statement": "The two Duska men at Jesztreb in [1879], András (wife Anna Jakurics) and János (wife Mária Marinyák, house 4), came from the Duskas of Szenna 6 and are not a separate family.",
+  "confidence": 35,
+  "basis": "Jesztreb was buried and baptised from Szenna. The house-6 Duskas of the generation born about 1800 had children who are not all accounted for, and the given names are theirs. Against: the Greek Catholic Duskas of the same district used these names too, and no record ties either man to a parent.",
+  "test": "The marriage of either man, or his baptism. The unread strips of this folder are the place to look first.",
+  "status": "open",
+  "raised": "B-078",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-078",
+    "effect": "raised at 35",
+    "note": "Tracked under rule 30. Nobody attached."
+   }
+  ],
+  "question": "Who were the Duskas of Jesztreb?"
  }
 ]

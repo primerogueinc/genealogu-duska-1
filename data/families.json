@@ -1125,7 +1125,7 @@
    "Pál Nyemcsik and Zuzsanna Vasko, Pályin: Mihály [1878] d. 1879",
    "András Hankosnák and Mária Nyemcsik: Anna 1896 (47), Zsuzsanna 1901 (8), János 1905 d. 1908 (79), András 1910 (64)"
   ],
-  "note": "The other Nyemcsik households of the Senné Roman Catholic book, apart from the couple in FG-57. At least four men named János. Mária Nyemcsik, wife of Hankosnák, lives at house 47 (the house of Michael Nyemcsik) in 1896 and at house 79 (the house of János Nyemcsik and Erzsébet Hresko) in 1905. Burials (B-050): Mihály Nyemcsik's wife Mária Bányász, of Pálócz, d. [1851] aged 65; his children Mihály [1842], Anna [1847], Anna 1 Jan 1853 (house 49); Georgius 19 Apr [1870] (house 47, son of Mihály and Obsitnyik); András, son of Mihály and Mária Obsitnyik, d. 30 Nov [1884] aged 16 (house 36). György Nyemtsik, b. about 1812, d. [1882] at house 98, husband of Borbála Tkáts (d. 1848) and Borbála Tomas; his sons János d. 27 Jan [18]49 and Mihály d. 4 Apr [1863]. János Nyemcsik, cottar of house 109: Anna d. 1 Dec [1862]; Mária, daughter of János and Mária Szalontai, d. 27 May 1894. Anna Nyemcsik (b. 17 Oct 1862), wife of András Tkács, d. 29 Oct 1886. The bell-ringer András Hankovcsák, b. 25 Aug 1868, d. 29 Feb 1924, widower of Mária Nyemcsik. The surname read Hankosnák on the baptism strips is Hankovcsák.",
+  "note": "The other Nyemcsik households of the Senné Roman Catholic book, apart from the couple in FG-57. At least four men named János. Mária Nyemcsik, wife of Hankosnák, lives at house 47 (the house of Michael Nyemcsik) in 1896 and at house 79 (the house of János Nyemcsik and Erzsébet Hresko) in 1905. Burials (B-050): Mihály Nyemcsik's wife Mária Bányász, of Pálócz, d. [1851] aged 65; his children Mihály [1842], Anna [1847], Anna 1 Jan 1853 (house 49); Georgius 19 Apr [1870] (house 47, son of Mihály and Obsitnyik); András, son of Mihály and Mária Obsitnyik, d. 30 Nov [1884] aged 16 (house 36). György Nyemtsik, b. about 1812, d. [1882] at house 98, husband of Borbála Tkáts (d. 1848) and Borbála Tomas; his sons János d. 27 Jan [18]49 and Mihály d. 4 Apr [1863]. János Nyemcsik, cottar of house 109: Anna d. 1 Dec [1862]; Mária, daughter of János and Mária Szalontai, d. 27 May 1894. Anna Nyemcsik (b. 17 Oct 1862), wife of András Tkács, d. 29 Oct 1886. The bell-ringer András Hankovcsák, b. 25 Aug 1868, d. 29 Feb 1924, widower of Mária Nyemcsik. The surname read Hankosnák on the baptism strips is Hankovcsák. B-078: house 89 is György Nyemcsik's: György the younger and Mária B[asiszta] baptise Anna there in [1878] (D-018-02), and a Mária, daughter of György, aged 20, marries from it that February (D-018-06).",
   "route": "duska",
   "route_note": "",
   "documents": [
@@ -1158,7 +1158,9 @@
    "D-013-118",
    "D-013-177",
    "D-013-121",
-   "D-013-195"
+   "D-013-195",
+   "D-018-02",
+   "D-018-06"
   ]
  },
  {
@@ -1275,17 +1277,17 @@
  },
  {
   "id": "FG-57",
-  "husband": "János Nyemcsik",
+  "husband": "János Nyemcsik, b. about 1824, d. 25 Mar [1878] at Szenna 79",
   "wife": "Erzsébet Hresko, alias Minarcsin",
   "rite": "Roman Catholic",
-  "homes": "Szenna 79 ([1866] to [1872]), 77 ([1875])",
+  "homes": "Szenna 79 ([1866] to [1872]), 77 ([1875]), 79 again ([1878])",
   "children": [
    "Maria, b. 23 Jan [1866]",
    "Michael, b. 28 Jul 1868, d. 8 Aug 1868",
    "Anna, b. 24 Aug [1872]; married András Duska on 18 Jan 1892",
    "János, b. 22 Jul [1875], d. 15 Apr 1879"
   ],
-  "note": "The parents of Anna Nyemcsik, wife of András Duska (FG-49). The mother's alias, Minarcsin, is the name under which her daughter is entered at her own children's baptisms in the 1890s. If Michal Duska is the Mihály of 1903 (H-046), this couple are his mother's parents. A daughter Anna of 'János Nyemcsik' d. 19 Sep [1870] aged 6 (B-050); whether she is of this couple is H-089.",
+  "note": "The parents of Anna Nyemcsik, wife of András Duska (FG-49). The mother's alias, Minarcsin, is the name under which her daughter is entered at her own children's baptisms in the 1890s. If Michal Duska is the Mihály of 1903 (H-046), this couple are his mother's parents. A daughter Anna of 'János Nyemcsik' d. 19 Sep [1870] aged 6 (B-050); whether she is of this couple is H-089. B-078: his burial, 25 March [1878], aged 54, suddenly (D-018-05).",
   "route": "duska",
   "route_note": "",
   "documents": [
@@ -1296,7 +1298,8 @@
    "D-009-78",
    "D-006-03",
    "D-006-04",
-   "D-013-120"
+   "D-013-120",
+   "D-018-05"
   ]
  },
  {
@@ -1500,7 +1503,8 @@
   "route": "duska",
   "documents": [
    "D-013-148",
-   "D-013-157"
+   "D-013-157",
+   "D-018-04"
   ]
  },
  {
@@ -1571,5 +1575,53 @@
    "D-013-180",
    "D-013-153"
   ]
+ },
+ {
+  "id": "FG-72",
+  "husband": "András Duska, Roman Catholic, of Jesztreb",
+  "wife": "Anna Jakurics, Greek Catholic",
+  "rite": "He Roman Catholic, she Greek Catholic",
+  "homes": "Jesztreb ([1879])",
+  "children": [
+   "Anna, b. 16 Aug [1879], d. 20 Nov 1946"
+  ],
+  "note": "A Duska household at Jesztreb in the Roman Catholic book of Senné, baptised by the Greek Catholic curate of Solymos. Not attached to any Szenna family (H-102).",
+  "route": "duska",
+  "documents": [
+   "D-018-07"
+  ],
+  "route_note": ""
+ },
+ {
+  "id": "FG-73",
+  "husband": "János Duskó, of Jesztreb 4",
+  "wife": "Mária Mar[i]nyák",
+  "rite": "Roman Catholic by the book",
+  "homes": "Jesztreb 4 ([1879])",
+  "children": [
+   "Anna, b. about 1876, d. 2 Apr [1879]"
+  ],
+  "note": "A second Duska household at Jesztreb. Not attached (H-102).",
+  "route": "duska",
+  "documents": [
+   "D-018-10"
+  ],
+  "route_note": ""
+ },
+ {
+  "id": "FG-74",
+  "husband": "János Marczinko, Reformed, of Solymos",
+  "wife": "Anna Duska, Roman Catholic, of Szenna",
+  "rite": "He Reformed, she Roman Catholic",
+  "homes": "Solymos 6 (1879)",
+  "children": [
+   "Mária, b. Jan 1879"
+  ],
+  "note": "Godparents are Reformed Knyezsos. The owner's label on an unread strip of 1874 makes her the daughter of György Duska and Mária Rapács (FG-65); to be read.",
+  "route": "duska",
+  "documents": [
+   "D-018-08"
+  ],
+  "route_note": ""
  }
 ]

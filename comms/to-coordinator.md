@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 15 Nov 2026, after Duska batch B-077. Read ledger v27.
+- Last updated: 15 Nov 2026, after Duska batch B-078. Read ledger v27.
+
+## 00000000000000000000000000000000000000000000000000000000000000. B-078 (15 Nov): a statement
+
+- **Statement** (`DUS:S-000-45`): "9", "1-", "11", "12", "13", "14", six more parts of 'Senne Roca'. The folder is at 211 strips; 11 are read. Ahn 34's burial is among them; his death goes on the tree with the year in brackets (`DUS:H-101`). No exposure beyond the file names (`DUS:PR-26`).
 
 ## 0000000000000000000000000000000000000000000000000000000000000. B-077 (15 Nov): a statement; a folder archived unread
 

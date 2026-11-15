@@ -648,6 +648,14 @@
   "reliability": "The owner names a folder and three sub-folders and sends them in fourteen parts. 'Inacovce - Reformed Christ' is final at five parts and 'Senne GK' is full at one. He has not said 'Senne Roca' is finished. '(No idea?)' is part of his folder name: he does not remember why these lie outside his collection."
  },
  {
+  "id": "S-000-45",
+  "batch": "B-078",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 15 Nov 2026 (UTC): parts 9 to 14 of 'Senne Roca'",
+  "extract": "\"9\"; \"1-\"; \"11\"; \"12\"; \"13\"; \"14\".",
+  "reliability": "The owner sends six more parts of the sub-folder 'Senne Roca', eleven strips each. '1-' is taken as 10. He does not say whether 14 is the last."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -4814,5 +4822,93 @@
   "title": "Marriage of Mihály Duska, miller, and Anna Halász, Senné, 28 August 1894",
   "extract": "Entry 8 of 1894, 28 August: Mihály Duska, miller, born at Szenna, living at Szenna 6, Roman Catholic, born 9 November 1872, 22, bachelor; Anna Halász, born at Szenna, living at Szenna 11, Roman Catholic, born 15 November 1874, 20, spinster. His parents: György Duska, Roman Catholic, cottar, of Szenna, and Erzsébet Schwarcz, Roman Catholic, of a place read as [Sobráncz?]. Her parents: András Halász, Roman Catholic, farmer, of Szenna, and Mária Vaszily, Greek Catholic, of Szenna. Witnesses: Viktor Romecz, Roman Catholic, machinist, of Szenna; János Mucha the younger, Roman Catholic, farmer, of Szenna. Officiant: Gyula Buzinkay. Banns called three times. Remark: married on the strength of marriage licence no. 40,791 of the royal Hungarian minister of defence. This names the miller's parents and gives his birthday, which is the day of the baptism at house 5 whose father's name is smudged (D-009-75). So the miller of 1895 to 1902 is the eldest son of György Duska the younger and Erzsébet Schwarz, and the year 1872 on that strip, until now the owner's, is confirmed by a record. His mother is called Roman Catholic here and Greek Catholic at her children's baptisms.",
   "reliability": "A register entry made at the wedding by the parish. Reading level: high; low for the mother's place and the officiant's title. The year is in the entry."
+ },
+ {
+  "id": "S-559",
+  "batch": "B-078",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János, aged 17, son of Mihály Demko and Anna Padó, of dropsy, March [1879]",
+  "extract": "Entry 19, 19 March: János, son of Mihály Demko and Anna Padó; the place column has two lines, read as N[agy] Szeretva and Szenna with a number that looks like 8; male; 17 years old; cause, dropsy ('vízkór'); buried at Szenna on 21 March.",
+  "reliability": "A register entry made by the parish at the event. Reading level: medium; low for the place. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-560",
+  "batch": "B-078",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of Anna Nyemcsik, daughter of György the younger and Mária B[asiszta], Szenna 89, August [1878]",
+  "extract": "Entry 28, 14 August: Anna, girl, legitimate; parents György Nyemcsik the younger and Mária, whose surname reads B[asiszta], Roman Catholic, urbarial farmers of Szenna; house Szenna 89; godparents István Maczko and Mária Maczko.",
+  "reliability": "A register entry made by the parish at the event. Reading level: medium; low for the mother's surname. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-561",
+  "batch": "B-078",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of Mihály Nyemcsik, son of Pál and Zsuzsanna Vasko, Pálin, August [1878]; died 14 April 1879",
+  "extract": "Entry 33, 29 August: Mihály, boy, legitimate; parents Pál Nyemcsik, Roman Catholic, and Zsuzsanna Vasko, Greek Catholic, cottars; Pálin, the house number unclear; godparents János Hresko and Zsuzsanna Miklós; baptiser György Balás. In the margin a cross and '1879 April 14'.",
+  "reliability": "A register entry made by the parish at the event. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-562",
+  "batch": "B-078",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János Duska, husband of Mária Trebjo, aged 80, Szenna 6, 22 August [1878]: a second image",
+  "extract": "Entry 49, 22 August: János Duska, husband of Mária Trebjo; Szenna 6; male; 80 years old; cause, old age ('vénség'); confessed; buried at Szenna on 24 August. The same entry as the strip already held for FG-67, cut differently; the two agree.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-563",
+  "batch": "B-078",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of János Nyemcsik, husband of Erzsébet Hresko alias Minarcsin, aged 54, Szenna 79, 25 March [1878]",
+  "extract": "25 March: János Nyemtsik, husband of Erzsébet 'Hresko másk[ép] Minarcsin'; Szenna 79; male; 54 years old; cause, 'hirtelen', suddenly; buried at Szenna on 27 March. The entry number is under a blot. The wife's double name is the one written at two baptisms of this couple's children and nowhere else in the archive, so this is Ahn 34. The owner's file name calls the wife 'Anna Minarcsin'; the strip says Erzsébet. Age 54 puts his birth about 1824. The year is the owner's.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high for the names, house and age; the year is not on the strip. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-564",
+  "batch": "B-078",
+  "type": "Church marriage register (original record, cropped strip)",
+  "title": "Marriage of Mihály Thur and Mária Nyemcsik, daughter of György, Szenna, February [1878]",
+  "extract": "Entry 6, February, the day read as 1[0]: Mihály Thur, son of Mihály Thur and Mária Kosztr[u]cs[ka], tillers; Szenna 90; Roman Catholic; 24; bachelor. Mária Nyemcsik, daughter of an urbarial farmer, of György Nyemcsik and a mother whose name begins Minar[..]; Szenna 89; Roman Catholic; 20; spinster. Two witnesses, tillers, the first a Horbulyák. The strip is small and much of it is not legible at this size.",
+  "reliability": "A register entry made by the parish at the event. Reading level: low. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-565",
+  "batch": "B-078",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of Anna Duska, daughter of András and Anna Jakurics, Jesztreb, 16 August [1879]; died 20 November 1946",
+  "extract": "Entry 39, 16 August: Anna, girl, legitimate; parents András Duska, Roman Catholic, and Anna Jakurics, Greek Catholic; Jesztreb, no house number; godparents János Mraz and Anna Mraz; baptised by Ausztin Stanics, Greek Catholic curate of Solymos. Above the entry, in a later hand, a cross and '20.XI.1946'. A Duska household at Jesztreb, not met before.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-566",
+  "batch": "B-078",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of Mária Marczinko, daughter of János (Reformed) and Anna Duska, Solymos 6, January 1879",
+  "extract": "Entry 1 of 1879, January, the day not on the strip: Mária, girl, legitimate; parents János Marczinko, Reformed ('Hv.'), and Anna Duska, Roman Catholic, cottars, 'Solymos Szenna', that is he of Solymos and she of Szenna; house Solymos 6; godparents György Knyezso and Mária Knyezso, Reformed, urbarial farmers; baptised by Ausztin Stanics, Greek Catholic curate of Solymos. The year stands in the entry.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-567",
+  "batch": "B-078",
+  "type": "Church baptism register (original record, cropped strip)",
+  "title": "Baptism of Zsuzsanna Knyezso, daughter of Mihály (Reformed) and Mária Olarzsek, Solymos 19, February [1879]",
+  "extract": "Entry 4 [?], February, the day 3 or 8: Zsuzsanna, girl, legitimate; parents Mihály Knyezso, Reformed, and Mária Olarzsek, Roman Catholic, farmers on a full holding, of Solymos; house Solymos 19; godparents Mihály Ádám, Roman Catholic, and Anna Palecsik, of Solymos; baptised by Ausztin Stanics, curate of Solymos.",
+  "reliability": "A register entry made by the parish at the event. Reading level: medium. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-568",
+  "batch": "B-078",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna, aged 3, daughter of János Duskó and Mária Marinyák, Jesztreb 4, 2 April [1879]",
+  "extract": "Entry 25, 2 April: Anna, daughter of János Duskó and Mária Mar[i]nyák; Jesztreb 4; female; 3 years old; cause, weakness ('gyengeség'); buried at Jesztreb on 4 April by György Balás, parish priest. A second Duska household at Jesztreb.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high; medium for the mother's surname. The year is from the owner's file name only."
+ },
+ {
+  "id": "S-569",
+  "batch": "B-078",
+  "type": "Church burial register (original record, cropped strip)",
+  "title": "Burial of Anna Schvarcz, wife of György Szalontay, aged 20, Szenna, 21 June [1879]",
+  "extract": "Entry 63, 21 June: Anna Schvarcz, wife of György Szalontay; Szenna, no house number; female; 20 years old; cause, inflammation of the lungs; confessed; buried at Szenna on 23 June.",
+  "reliability": "A register entry made by the parish at the event. Reading level: high. The year is from the owner's file name only."
  }
 ]

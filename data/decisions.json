@@ -1606,5 +1606,29 @@
   "date": "2026-11-15",
   "decided": "By their names, the forty 'Knyerso' strips and the Demko and Kocsis strips are routed to the Demko agent before reading.",
   "why": "Knyezső, Demko and Kocsis are that line's families. The route is confirmed or changed when each strip is read."
+ },
+ {
+  "id": "DEC-269",
+  "date": "2026-11-15",
+  "decided": "Parts 9 to 14 of 'Senne Roca' are archived; part 9 is read now and parts 10 to 14 join the unread strips.",
+  "why": "Part 9 holds the burial of Ahn 34. Reading 55 more in the same batch would be skimming."
+ },
+ {
+  "id": "DEC-270",
+  "date": "2026-11-15",
+  "decided": "The order of reading is changed: strips that by their names bear on the direct line come first, across all sub-folders.",
+  "why": "The folder is now over two hundred strips and still coming; a sub-folder order would leave the line for last."
+ },
+ {
+  "id": "DEC-271",
+  "date": "2026-11-15",
+  "decided": "Ahn 34's death is entered on the tree with the year in brackets.",
+  "why": "The identity is fixed by his wife's double name; the year is the owner's (H-101)."
+ },
+ {
+  "id": "DEC-272",
+  "date": "2026-11-15",
+  "decided": "The two Duska households at Jesztreb are tracked and not attached.",
+  "why": "Rule 30; no record names a parent."
  }
 ]

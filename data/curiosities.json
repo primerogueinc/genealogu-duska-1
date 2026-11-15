@@ -1480,5 +1480,16 @@
   "translation": "On the strength of marriage licence no. 40,791 of the royal Hungarian minister of defence.",
   "why": "The state's hand in a village wedding, with a file number.",
   "tone": "history"
+ },
+ {
+  "id": "C-151",
+  "doc": "D-018-07",
+  "source": "S-565",
+  "title": "A note made sixty-seven years later",
+  "text": "Anna Duska was baptised at Jesztreb on 16 August, in a year the strip does not give, by the Greek Catholic curate of Solymos writing in the Roman Catholic book. Above her line a later hand has put a cross and '20.XI.1946'. Somebody at Senné was still opening the baptism book of the 1870s after the Second World War to write in who had died.",
+  "original": "+ 20.XI.1946",
+  "translation": "Died 20 November 1946.",
+  "why": "A parish register kept as a living record across three states and two wars.",
+  "tone": "history"
  }
 ]

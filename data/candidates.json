@@ -8974,5 +8974,149 @@
   "relation": "D-017-02. Witness; a János Mucha is godfather to children of FG-48.",
   "route": "duska",
   "route_note": ""
+ },
+ {
+  "id": "K-753",
+  "name": "János Demko",
+  "vitals": "b. about 1862; d. 19 Mar [1879] aged 17, of dropsy; buried at Szenna",
+  "proof": "documented",
+  "sources": [
+   "S-559"
+  ],
+  "relation": "D-018-01. Son of Mihály Demko and Anna Padó.",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-754",
+  "name": "György Nyemcsik the younger",
+  "vitals": "Roman Catholic urbarial farmer of Szenna 89, [1878]; wife Mária B[asiszta]",
+  "proof": "documented",
+  "sources": [
+   "S-560"
+  ],
+  "relation": "D-018-02. Father of Anna, b. 14 Aug [1878].",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-755",
+  "name": "Pál Nyemcsik",
+  "vitals": "Roman Catholic cottar of Pálin, [1878]; wife Zsuzsanna Vasko, Greek Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-561"
+  ],
+  "relation": "D-018-03. Father of Mihály, b. 29 Aug [1878], d. 14 Apr 1879. Godfather János Hresko.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-756",
+  "name": "János Nyemcsik (Ahn 34)",
+  "vitals": "b. about 1824; d. 25 Mar [1878] at Szenna 79, suddenly, aged 54",
+  "proof": "documented",
+  "sources": [
+   "S-563"
+  ],
+  "relation": "D-018-05. P-034. Husband of Erzsébet Hresko alias Minarcsin.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-757",
+  "name": "Mária Nyemcsik",
+  "vitals": "b. about 1858; of Szenna 89; m. Mihály Thur of Szenna 90, Feb [1878]",
+  "proof": "documented",
+  "sources": [
+   "S-564"
+  ],
+  "relation": "D-018-06. Daughter of György Nyemcsik of house 89 and a mother named Minar[..].",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-758",
+  "name": "András Duska of Jesztreb",
+  "vitals": "Roman Catholic, of Jesztreb, [1879]; wife Anna Jakurics, Greek Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-565"
+  ],
+  "relation": "D-018-07. Father in FG-72.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-759",
+  "name": "Anna Duska",
+  "vitals": "b. 16 Aug [1879] at Jesztreb; d. 20 Nov 1946",
+  "proof": "documented",
+  "sources": [
+   "S-565"
+  ],
+  "relation": "D-018-07. Daughter of András Duska and Anna Jakurics (FG-72).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-760",
+  "name": "Anna Duska, wife of János Marczinko",
+  "vitals": "Roman Catholic, of Szenna; at Solymos 6 in 1879",
+  "proof": "documented",
+  "sources": [
+   "S-566"
+  ],
+  "relation": "D-018-08. Mother in FG-74. By the owner's label on an unread strip she is the bride of 1874, daughter of György Duska and Mária Rapács.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-761",
+  "name": "Mihály Knyezso",
+  "vitals": "Reformed farmer of Solymos 19, [1879]; wife Mária Olarzsek, Roman Catholic",
+  "proof": "documented",
+  "sources": [
+   "S-567"
+  ],
+  "relation": "D-018-09. Father of Zsuzsanna, b. Feb [1879].",
+  "route": "demko",
+  "route_note": ""
+ },
+ {
+  "id": "K-762",
+  "name": "János Duskó of Jesztreb",
+  "vitals": "of Jesztreb 4, [1879]; wife Mária Mar[i]nyák",
+  "proof": "documented",
+  "sources": [
+   "S-568"
+  ],
+  "relation": "D-018-10. Father in FG-73.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-763",
+  "name": "Anna Duskó",
+  "vitals": "b. about 1876; d. 2 Apr [1879] at Jesztreb 4",
+  "proof": "documented",
+  "sources": [
+   "S-568"
+  ],
+  "relation": "D-018-10. Daughter of János Duskó and Mária Marinyák (FG-73).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-764",
+  "name": "Anna Schvarcz",
+  "vitals": "b. about 1859; wife of György Szalontay; d. 21 Jun [1879] at Szenna aged 20",
+  "proof": "documented",
+  "sources": [
+   "S-569"
+  ],
+  "relation": "D-018-11. Of the surname of Erzsébet Schwarz (FG-48); no link shown.",
+  "route": "duska",
+  "route_note": ""
  }
 ]
