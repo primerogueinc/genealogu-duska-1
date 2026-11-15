@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 15 Nov 2026, after Duska batch B-075. Read ledger v27.
+- Last updated: 15 Nov 2026, after Duska batch B-076. Read ledger v27.
+
+## 000000000000000000000000000000000000000000000000000000000000. B-076 (15 Nov): a statement
+
+- **Statement** (`DUS:S-000-43`): "Full Folder Duska Family Groups". Three register strips; read as records, his 'family group' numbering logged as a prior. No exposure.
 
 ## 00000000000000000000000000000000000000000000000000000000000. B-075 (15 Nov): ledger v27 read and acted on
 

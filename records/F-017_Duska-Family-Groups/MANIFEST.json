@@ -1,0 +1,38 @@
+{
+  "folder_id": "F-017",
+  "desktop_path": "Duska Family Groups",
+  "note": "Three strips, sent whole on 15 Nov 2026. One is byte for byte a strip already archived.",
+  "files": [
+    {
+      "file": "Senne_-_Family_Group_1_-_Marriage_of_Andras_Duska_1892.png",
+      "sha256": "525c38386d1bc9a609bd9543d2b47fb538d6098816c1c5cc50b717e0dc05256c",
+      "bytes": 533508,
+      "pixels": "1493x267",
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "document": "D-017-01"
+    },
+    {
+      "file": "Senne_Family_Group_2_-_Marriage_of_Mihaily_Duska_and_Anna_Halan_1894.png",
+      "sha256": "56f02cb9a048bf43c44a4a5a4620ba568f4928d4f7859256cab497cee59f9e90",
+      "bytes": 346449,
+      "pixels": "1569x166",
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "document": "D-017-02"
+    }
+  ],
+  "held": [],
+  "copies": [
+    {
+      "file": "Solymos_Family_Group_1_-_Death_of_Pal_Duska_1838_-.png",
+      "sha256": "13c4622f9547eebbef18dce1ea88ce28049eb285ad976452ba11b6680999d5b5",
+      "bytes": 719732,
+      "pixels": "1685x243",
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "copy_of": "D-013-96",
+      "note": "Byte for byte the strip archived as D-013-96 under the name 'Death_of_Pal_Duska_1838_-_processed.png'. The owner's label here: Solymos Family Group 1."
+    }
+  ]
+}

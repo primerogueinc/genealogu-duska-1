@@ -8916,6 +8916,13 @@
     "original": "[.]1 | 9. Novem. | Mihály | fi | tnyes | [D]u[s]ka Györg[y] Rk., [Schvarcz] Erzsébet [..] zsellér [smudged] | Szenna 5. | Muha János, Marczinko Mar. | Balás György",
     "english": "Child: Mihály. The parents' cell is smudged: a surname of about five letters, then 'György', 'Rk.', a second line ending in 'Erzsébet', and 'zsellér'. The godparents, János Muha and Mária Marczinko, are those of György Duska the younger and Erzsébet Schwarz in [1879] and [1882], and house 5 is theirs in [1879]. So this is very probably their son. The owner's label asks 'Duska or Barka'. The year is from the owner's file name."
    }
+  ],
+  "corrections": [
+   {
+    "batch": "B-076",
+    "date": "2026-11-15",
+    "text": "The year 1872, until now from the owner's file name, and the father, whose name is smudged here, are both fixed by the marriage entry of this child in 1894 (D-017-02): born 9 November 1872, son of György Duska and Erzsébet Schwarcz."
+   }
   ]
  },
  {
@@ -9832,7 +9839,7 @@
    {
     "field": "origin of the groom's mother: 'Tiba'",
     "from": "D-015-12, a translation made for the owner by a hired researcher, January 2022",
-    "checked": "Enlarged from Marriage_of_Andras_Duska_and_Anna_Nyemsco_1892.png at B-057; the word is clear at four times its size.",
+    "checked": "Enlarged from Marriage_of_Andras_Duska_and_Anna_Nyemsco_1892.png at B-057; the word is clear at four times its size. Read again at B-076 from a second image of the entry (D-017-01), where 'Tiba' is plain.",
     "rule": "Rule 31 and X-012: a word taken from another reader after comparing is theirs, checked by me."
    }
   ]
@@ -29273,6 +29280,108 @@
     "D-016-33",
     "FG-25",
     "FG-64"
+   ]
+  }
+ },
+ {
+  "id": "D-017-01",
+  "folder": "F-017",
+  "batch": "B-076",
+  "source": "S-557",
+  "file": "Senne_-_Family_Group_1_-_Marriage_of_Andras_Duska_1892.png",
+  "sha256": "525c38386d1bc9a609bd9543d2b47fb538d6098816c1c5cc50b717e0dc05256c",
+  "wide": true,
+  "title": "Marriage of András Duska and Anna Nyemcsik, Senné, 18 January 1892: a second image of the entry",
+  "span": "18 January 1892",
+  "language": "Hungarian",
+  "collector_label": "Senne - Family Group 1 - Marriage of Andras Duska 1892",
+  "family": "FG-49",
+  "route": "duska",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, church registers catalogue no. 1092 (Senné Roman Catholic marriages, 1887 to 1926), microfilm 287-288; FamilySearch catalogue 710997. Volume reference from the Places agent's holdings entry PL-R-001; the strip itself shows no page number.",
+   "fond_or_film": "Prešov no. 1092; FamilySearch films 1793682, 1793683",
+   "book": "Roman Catholic marriage register of Senné ('Házasultak anyakönyve'), by the officiant and the places",
+   "page_or_image": "entry 3 of 1892; the page number is not on the strip",
+   "obtained": "From the owner's desktop folder 'Duska Family Groups', sent through chat on 15 Nov 2026. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "3 of 1892",
+    "date": "18 January 1892",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "A second image of the marriage entry already in hand as D-006-03, cut closer. Entry 3 of 1892, 18 January: András Duska, cottar, born at Szenna, living at Hrabó, Roman Catholic, 24, bachelor; Anna Nyemcsik, born at Szenna, living at Szenna 22, Roman Catholic, 19, spinster. His parents: György Duska, Roman Catholic, farmer, of Szenna, and Anna Krak, Greek Catholic, of Tiba. Her parents: János Nyemcsik, Roman Catholic, cottar, of Szenna, and Erzsébet Hresko, Roman Catholic, of Szenna. Witnesses: András Dzvonyik, Roman Catholic, farmer, of Szenna; György Duska, Roman Catholic, cottar, of Szenna. Officiant: István Rusznák, dean and parish priest. Banns three times. It adds no fact. It does two things: 'Tiba' is plain here, read by this agent without help, and the groom's residence, doubtful on the first image, reads Hrabó, the farmstead.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column; the groom's line, then the bride's. Square brackets mark doubtful or supplied readings.",
+    "original": "3. | 1892. Január 18. | Duska András zsellér | Szenna | Hrabó | rk. | 24 éves | nőtlen | Duska György rk. gazda Szenna; Krak Anna gk. Tiba || Nyemcsik Anna | Szenna | Szenna 22 | rk. | 19 éves | hajadon | Nyemcsik János rk. zsellér Szenna; Hresko Erzsébet rk. Szenna | [tanúk] Dzvonyik András rk. gazda Szenna; Duska György rk. zsellér Szenna | Rusznák István esperes plébános | 3szor hirdetve",
+    "english": "A second image of the marriage entry already in hand as D-006-03, cut closer. Entry 3 of 1892, 18 January: András Duska, cottar, born at Szenna, living at Hrabó, Roman Catholic, 24, bachelor; Anna Nyemcsik, born at Szenna, living at Szenna 22, Roman Catholic, 19, spinster. His parents: György Duska, Roman Catholic, farmer, of Szenna, and Anna Krak, Greek Catholic, of Tiba. Her parents: János Nyemcsik, Roman Catholic, cottar, of Szenna, and Erzsébet Hresko, Roman Catholic, of Szenna. Witnesses: András Dzvonyik, Roman Catholic, farmer, of Szenna; György Duska, Roman Catholic, cottar, of Szenna. Officiant: István Rusznák, dean and parish priest. Banns three times. It adds no fact. It does two things: 'Tiba' is plain here, read by this agent without help, and the groom's residence, doubtful on the first image, reads Hrabó, the farmstead."
+   }
+  ],
+  "object": {
+   "kind": "A strip cut from a two-page opening of a church marriage register on a printed Hungarian form",
+   "form": "No heading on the strip. Columns as on page 16 of the same book (D-006-03): entry number and date, the couple with the groom's trade, origin, residence and house number, religion, age (in 1894 with the date of birth written in), state, the parents with religion and origin, the witnesses, the officiant, the banns, remarks.",
+   "does_not_fit": "The owner's file name calls it a 'Family Group'. It is one register entry, not a compilation, so it is read (rule 31). His numbering of family groups is logged as a prior.",
+   "made_by": "The Roman Catholic parish of Senné.",
+   "kept": "The owner's desktop folder 'Duska Family Groups'.",
+   "compared": [
+    "D-006-03",
+    "D-009-75",
+    "FG-48",
+    "FG-50"
+   ]
+  }
+ },
+ {
+  "id": "D-017-02",
+  "folder": "F-017",
+  "batch": "B-076",
+  "source": "S-558",
+  "file": "Senne_Family_Group_2_-_Marriage_of_Mihaily_Duska_and_Anna_Halan_1894.png",
+  "sha256": "56f02cb9a048bf43c44a4a5a4620ba568f4928d4f7859256cab497cee59f9e90",
+  "wide": true,
+  "title": "Marriage of Mihály Duska, miller, and Anna Halász, Senné, 28 August 1894",
+  "span": "28 August 1894",
+  "language": "Hungarian",
+  "collector_label": "Senne Family Group 2 - Marriage of Mihaily Duska and Anna Halan 1894",
+  "family": "FG-50",
+  "route": "duska",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, church registers catalogue no. 1092 (Senné Roman Catholic marriages, 1887 to 1926), microfilm 287-288; FamilySearch catalogue 710997. Volume reference from the Places agent's holdings entry PL-R-001; the strip itself shows no page number.",
+   "fond_or_film": "Prešov no. 1092; FamilySearch films 1793682, 1793683",
+   "book": "Roman Catholic marriage register of Senné ('Házasultak anyakönyve'), by the officiant and the places",
+   "page_or_image": "entry 8 of 1894; the page number is not on the strip",
+   "obtained": "From the owner's desktop folder 'Duska Family Groups', sent through chat on 15 Nov 2026. A cropped strip; how he obtained it is not recorded."
+  },
+  "entries": [
+   {
+    "no": "8 of 1894",
+    "date": "28 August 1894",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 8 of 1894, 28 August: Mihály Duska, miller, born at Szenna, living at Szenna 6, Roman Catholic, born 9 November 1872, 22, bachelor; Anna Halász, born at Szenna, living at Szenna 11, Roman Catholic, born 15 November 1874, 20, spinster. His parents: György Duska, Roman Catholic, cottar, of Szenna, and Erzsébet Schwarcz, Roman Catholic, of a place read as [Sobráncz?]. Her parents: András Halász, Roman Catholic, farmer, of Szenna, and Mária Vaszily, Greek Catholic, of Szenna. Witnesses: Viktor Romecz, Roman Catholic, machinist, of Szenna; János Mucha the younger, Roman Catholic, farmer, of Szenna. Officiant: Gyula Buzinkay. Banns called three times. Remark: married on the strength of marriage licence no. 40,791 of the royal Hungarian minister of defence. This names the miller's parents and gives his birthday, which is the day of the baptism at house 5 whose father's name is smudged (D-009-75). So the miller of 1895 to 1902 is the eldest son of György Duska the younger and Erzsébet Schwarz, and the year 1872 on that strip, until now the owner's, is confirmed by a record. His mother is called Roman Catholic here and Greek Catholic at her children's baptisms.",
+    "reading": "high; low for the mother's place and the officiant's title"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Entry as written, column by column; the groom's line, then the bride's. Square brackets mark doubtful or supplied readings.",
+    "original": "8. | 1894. augusztus 28. | Duska Mihály molnár | Szenna | Szenna 6. | rk. | 1872. nov. 9. 22 év | nőtlen | Duska György rk. zsellér Szenna; Schwarcz Erzsébet rk. [Sobráncz?] || Halász Anna | Szenna | Szenna 11. | rk. | 20 év, 1874. nov. 15. | hajadon | Halász András rk. gazda Szenna; Vaszily Mária gk. Szenna | [tanúk] Romecz Viktor rk. gépész Szenna; ifj. Mucha János rk. gazda Szenna | Buzinkay Gyula [adm.?] | Háromszor kihirdettetett | A nm. m. kir. honvédelmi miniszternek 40.791. sz. házasulhatási engedélye alapján.",
+    "english": "Entry 8 of 1894, 28 August: Mihály Duska, miller, born at Szenna, living at Szenna 6, Roman Catholic, born 9 November 1872, 22, bachelor; Anna Halász, born at Szenna, living at Szenna 11, Roman Catholic, born 15 November 1874, 20, spinster. His parents: György Duska, Roman Catholic, cottar, of Szenna, and Erzsébet Schwarcz, Roman Catholic, of a place read as [Sobráncz?]. Her parents: András Halász, Roman Catholic, farmer, of Szenna, and Mária Vaszily, Greek Catholic, of Szenna. Witnesses: Viktor Romecz, Roman Catholic, machinist, of Szenna; János Mucha the younger, Roman Catholic, farmer, of Szenna. Officiant: Gyula Buzinkay. Banns called three times. Remark: married on the strength of marriage licence no. 40,791 of the royal Hungarian minister of defence. This names the miller's parents and gives his birthday, which is the day of the baptism at house 5 whose father's name is smudged (D-009-75). So the miller of 1895 to 1902 is the eldest son of György Duska the younger and Erzsébet Schwarz, and the year 1872 on that strip, until now the owner's, is confirmed by a record. His mother is called Roman Catholic here and Greek Catholic at her children's baptisms."
+   }
+  ],
+  "object": {
+   "kind": "A strip cut from a two-page opening of a church marriage register on a printed Hungarian form",
+   "form": "No heading on the strip. Columns as on page 16 of the same book (D-006-03): entry number and date, the couple with the groom's trade, origin, residence and house number, religion, age (in 1894 with the date of birth written in), state, the parents with religion and origin, the witnesses, the officiant, the banns, remarks.",
+   "does_not_fit": "The owner's file name calls it a 'Family Group'. It is one register entry, not a compilation, so it is read (rule 31). His numbering of family groups is logged as a prior.",
+   "made_by": "The Roman Catholic parish of Senné.",
+   "kept": "The owner's desktop folder 'Duska Family Groups'.",
+   "compared": [
+    "D-006-03",
+    "D-009-75",
+    "FG-48",
+    "FG-50"
    ]
   }
  }

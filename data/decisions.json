@@ -1570,5 +1570,23 @@
   "date": "2026-11-15",
   "decided": "In 004 the grades are whole letters.",
   "why": "The ledger says A to F and the Site agent reads the Overall row."
+ },
+ {
+  "id": "DEC-263",
+  "date": "2026-11-15",
+  "decided": "The three files of 'Duska Family Groups' are read as records.",
+  "why": "Each is a register strip. Rule 31 holds back compilations; a folder name is not one."
+ },
+ {
+  "id": "DEC-264",
+  "date": "2026-11-15",
+  "decided": "H-053 is solved at 96.",
+  "why": "A marriage entry in hand, in a book with its Prešov number, giving the groom's birth date and parents."
+ },
+ {
+  "id": "DEC-265",
+  "date": "2026-11-15",
+  "decided": "The mother's place on the 1894 entry is entered as doubtful and FG-48 keeps 'of Ribnicze'.",
+  "why": "The baptisms say Ribnicze several times; this one word reads like Sobráncz, the town next to it, and is not clear."
  }
 ]

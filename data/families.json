@@ -987,7 +987,7 @@
    "Pál, b. 28 Oct 1887",
    "Miklós, b. 28 Nov 1890; probably the 'Mikalis' Duska, husband of Anna Hancosek, of a cemetery record with a received date of 28 Nov 1965 (D-006-09, H-060)"
   ],
-  "note": "György Duska 'the younger' and Erzsébet Schwarz of Alsó-Ribnicze: eight children in eighteen years, the same godfather, János Muha, almost throughout. He shares house 6 with György Duska the elder; how the two are related is not stated anywhere. He cannot be a son of the elder György and Anna Krak, whose first known child is of 1866. The mother's rite is written Greek Catholic in the 1870s and Roman Catholic from 1885. In 1930 Jozef (1885) is at house 73 (D-011-33) and Mikuláš (1890) owns house 11 but is abroad (D-011-29); he sailed to Canada with Michal Duska (D-006-19). Miklós: the Montréal index names the cemetery of the 'Mikalis' record as Notre-Dame-des-Neiges, section FT, concession 1965, received 28 Nov 1965; his wife Anna Hancosek was dead by then (D-013-100). Burials (B-050): a daughter Anna, b. about Jul 1875, d. 18 Mar [1876] at house 6, not among the baptism strips. A György Duska, widower of Mária Feigerle, d. 29 Sep 1922 aged 77: taken to be this György with a second wife (H-087). B-053: full pages for András 1882 (page 67), György 1880 (page 59) and Miklós 1890 (page 123). Miklós lies in a common grave at Notre-Dame-des-Neiges (D-014-08). B-058: the owner's list of 2022 had this György as the Reformed György born at Solymos in 1852, from secondary sources. The burial of 1922 says born at Senné about 1845 (H-096).",
+  "note": "György Duska 'the younger' and Erzsébet Schwarz of Alsó-Ribnicze: eight children in eighteen years, the same godfather, János Muha, almost throughout. He shares house 6 with György Duska the elder; how the two are related is not stated anywhere. He cannot be a son of the elder György and Anna Krak, whose first known child is of 1866. The mother's rite is written Greek Catholic in the 1870s and Roman Catholic from 1885. In 1930 Jozef (1885) is at house 73 (D-011-33) and Mikuláš (1890) owns house 11 but is abroad (D-011-29); he sailed to Canada with Michal Duska (D-006-19). Miklós: the Montréal index names the cemetery of the 'Mikalis' record as Notre-Dame-des-Neiges, section FT, concession 1965, received 28 Nov 1965; his wife Anna Hancosek was dead by then (D-013-100). Burials (B-050): a daughter Anna, b. about Jul 1875, d. 18 Mar [1876] at house 6, not among the baptism strips. A György Duska, widower of Mária Feigerle, d. 29 Sep 1922 aged 77: taken to be this György with a second wife (H-087). B-053: full pages for András 1882 (page 67), György 1880 (page 59) and Miklós 1890 (page 123). Miklós lies in a common grave at Notre-Dame-des-Neiges (D-014-08). B-058: the owner's list of 2022 had this György as the Reformed György born at Solymos in 1852, from secondary sources. The burial of 1922 says born at Senné about 1845 (H-096). B-076: their eldest son Mihály, b. 9 Nov 1872, is the miller of FG-50 (D-017-02). His marriage entry calls his mother Roman Catholic and gives her place as [Sobráncz?].",
   "route": "duska",
   "route_note": "",
   "documents": [
@@ -1011,7 +1011,8 @@
    "D-014-09",
    "D-014-08",
    "D-014-01",
-   "D-014-10"
+   "D-014-10",
+   "D-017-02"
   ]
  },
  {
@@ -1063,13 +1064,14 @@
    "D-014-07",
    "D-014-06",
    "D-014-03",
-   "D-015-12"
+   "D-015-12",
+   "D-017-01"
   ]
  },
  {
   "id": "FG-50",
-  "husband": "Mihály Duska, miller (entered once, in 1895, as 'the younger György')",
-  "wife": "Anna Halász",
+  "husband": "Mihály Duska, miller, b. 9 Nov 1872 at Szenna 5, eldest son of György Duska the younger and Erzsébet Schwarz (FG-48); m. 28 Aug 1894",
+  "wife": "Anna Halász, b. 15 Nov 1874 at Szenna, daughter of András Halász, farmer, and Mária Vaszily (Greek Catholic); of Szenna 11 at her marriage",
   "rite": "Roman Catholic",
   "homes": "Szenna 1 (1895 to 1898), 5 (1902)",
   "children": [
@@ -1078,14 +1080,15 @@
    "Mária, b. 18 Sep 1898",
    "Zsuzsánna, b. 25 May 1902"
   ],
-  "note": "The miller of Senné. Three entries name him Mihály; the first, of 1895, names him 'if. Duska György' with the same wife, house and trade, which is taken as the clerk's slip. He may be the Mihály of November [1872] (FG-48), who would be 23 in 1895 and whose parents lived at house 5, where the miller is found in 1902 (H-053). His son Mihály of 1896 is the second candidate for Michal Duska, Ahn 8 (H-047).",
+  "note": "The miller of Senné. Three entries name him Mihály; the first, of 1895, names him 'if. Duska György' with the same wife, house and trade, which is taken as the clerk's slip. He may be the Mihály of November [1872] (FG-48), who would be 23 in 1895 and whose parents lived at house 5, where the miller is found in 1902 (H-053). His son Mihály of 1896 is the second candidate for Michal Duska, Ahn 8 (H-047). B-076: the marriage entry (D-017-02) names his parents; H-053 solved. He married by licence of the minister of defence, being of military age.",
   "route": "duska",
   "route_note": "",
   "documents": [
    "D-009-14",
    "D-009-64",
    "D-009-82",
-   "D-009-87"
+   "D-009-87",
+   "D-017-02"
   ]
  },
  {

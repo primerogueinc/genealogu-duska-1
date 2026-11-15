@@ -1459,6 +1459,11 @@
     "batch": "B-022",
     "effect": "refuted",
     "note": "The miller is Mihály Duska in 1896, 1898 and 1902. György the younger and Erzsébet Schwarz go on having children at house 6 until 1890 and he is never a miller. The 1895 entry that names the miller 'the younger György' is one line against three."
+   },
+   {
+    "batch": "B-076",
+    "effect": "no change",
+    "note": "Already refuted. The marriage entry of 1894 shows directly that the miller was the son, not the father."
    }
   ]
  },
@@ -1555,18 +1560,23 @@
  {
   "id": "H-053",
   "statement": "Mihály Duska, the miller of Senné from 1895 to 1902, is the Mihály baptised on 9 November [1872] at house 5, son of György Duska the younger and Erzsébet Schwarz.",
-  "confidence": 45,
+  "confidence": 96,
   "basis": "He would be 23 at the first child's birth. The miller lives at house 5 in 1902, the house of György the younger in [1872] and [1879]. The 1895 slip that calls the miller 'the younger György' would be the clerk writing the father's name for the son's. Against: the [1872] entry is smudged across the father's name and its year is the owner's.",
   "test": "The miller's marriage entry, about 1894, naming his father.",
-  "status": "open",
+  "status": "solved",
   "raised": "B-022",
-  "resolved": null,
-  "resolution": null,
+  "resolved": "B-076",
+  "resolution": "Solved by the marriage entry of 28 August 1894 (D-017-02, Prešov no. 1092): Mihály Duska, miller, born 9 November 1872, son of György Duska and Erzsébet Schwarcz. The birthday is that of the baptism D-009-75.",
   "log": [
    {
     "batch": "B-022",
     "effect": "raised at 45",
     "note": "If H-047 and H-053 both hold, Michal's grandparents are György Duska the younger and Erzsébet Schwarz."
+   },
+   {
+    "batch": "B-076",
+    "effect": "solved",
+    "note": "The miller's marriage entry is in hand (D-017-02): 28 August 1894, Mihály Duska, miller, of Szenna 6, born 9 November 1872, son of György Duska, cottar, and Erzsébet Schwarcz. Same day as the baptism at house 5 (D-009-75), same parents as FG-48, and the house is theirs. A record in hand with its archive reference."
    }
   ]
  },
@@ -2678,6 +2688,11 @@
     "batch": "B-075",
     "effect": "no change",
     "note": "The Places agent has the place sourced: Hungarian Tiba is Tibava, two kilometres east of Sobrance, 58 houses and 548 people in 1828 (PL-P-059; PL-H-023 at 85, @c45834e). Which Greek Catholic parish served it in 1830 to 1870 is not found: Tibava and Sobrance had none of that rite in 1733, and the nearest then were Choňkovce, Nižná Rybnica, Porostov and Koromľa. The place is firmer; the person is where she was, at the cap, with no baptism in hand."
+   },
+   {
+    "batch": "B-076",
+    "effect": "no change",
+    "note": "A second image of the 1892 marriage entry (D-017-01) reads 'Krak Anna gk. Tiba' plainly, by this agent unaided. The reading no longer rests on the translator. Still one entry, and still no baptism of hers."
    }
   ],
   "question": "Who was Anna Krak and where was she from?"

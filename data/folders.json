@@ -258,5 +258,17 @@
    "B-074"
   ],
   "archive_path": "records/F-016_Duska-DNA/"
+ },
+ {
+  "id": "F-017",
+  "desktop_path": "Duska Family Groups",
+  "described_as": "Three register strips the owner files as 'family groups': the marriage of András Duska and Anna Nyemcsik (1892, a second image of an entry already in hand), the marriage of Mihály Duska the miller and Anna Halász (1894, new), and the burial of Pál Duska at Solymos in 1838 (a copy of a strip already in hand). The folder name is his; the files are records, not compilations.",
+  "status": "complete",
+  "first_seen": "2026-11-15",
+  "files_received": 3,
+  "batches": [
+   "B-076"
+  ],
+  "archive_path": null
  }
 ]

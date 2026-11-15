@@ -6128,10 +6128,12 @@
  {
   "id": "K-515",
   "name": "Mihály Duska, miller",
-  "vitals": "Roman Catholic miller of Szenna 1 (1896, 1898) and 5 (1902); wife Anna Halász",
+  "vitals": "Roman Catholic miller of Szenna; b. 9 Nov 1872 at Szenna 5; of Szenna 6 at his marriage on 28 Aug 1894; then Szenna 1 (1896, 1898) and 5 (1902); wife Anna Halász",
   "proof": "documented",
-  "sources": [],
-  "relation": "Parent in family group FG-50.",
+  "sources": [
+   "S-558"
+  ],
+  "relation": "Parent in family group FG-50. Son of György Duska the younger and Erzsébet Schwarz (FG-48), by his marriage entry (D-017-02).",
   "route": "duska",
   "route_note": ""
  },
@@ -8911,6 +8913,66 @@
   ],
   "relation": "D-014-06, entry 35b. Daughter of Michael Bruhács and Mária Sabak, entered in the Senné book from an extract sent from America. No tie to the line.",
   "route": "places",
+  "route_note": ""
+ },
+ {
+  "id": "K-748",
+  "name": "Anna Halász",
+  "vitals": "Roman Catholic; b. 15 Nov 1874 at Szenna; of Szenna 11 in 1894",
+  "proof": "documented",
+  "sources": [
+   "S-558"
+  ],
+  "relation": "D-017-02. Bride of Mihály Duska the miller, 28 Aug 1894 (FG-50).",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-749",
+  "name": "András Halász",
+  "vitals": "Roman Catholic farmer of Szenna, 1894",
+  "proof": "documented",
+  "sources": [
+   "S-558"
+  ],
+  "relation": "D-017-02. Father of the bride.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-750",
+  "name": "Mária Vaszily",
+  "vitals": "Greek Catholic, of Szenna, 1894",
+  "proof": "documented",
+  "sources": [
+   "S-558"
+  ],
+  "relation": "D-017-02. Mother of the bride.",
+  "route": "duska",
+  "route_note": ""
+ },
+ {
+  "id": "K-751",
+  "name": "Viktor Romecz",
+  "vitals": "Roman Catholic machinist of Szenna, 1894",
+  "proof": "documented",
+  "sources": [
+   "S-558"
+  ],
+  "relation": "D-017-02. Witness at the miller's wedding.",
+  "route": "places",
+  "route_note": ""
+ },
+ {
+  "id": "K-752",
+  "name": "János Mucha the younger",
+  "vitals": "Roman Catholic farmer of Szenna, 1894",
+  "proof": "documented",
+  "sources": [
+   "S-558"
+  ],
+  "relation": "D-017-02. Witness; a János Mucha is godfather to children of FG-48.",
+  "route": "duska",
   "route_note": ""
  }
 ]
