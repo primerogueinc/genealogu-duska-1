@@ -251,5 +251,16 @@
   "holds": "The owner gave it the DNA files too. It found the Demko-surnamed match at 106 cM on the grandfather's list on its own (DM-H-046, 65) and read the mother-line of Maria Demko from the grandfather's raw file. It corrects this agent: the paper for 22 August 1906 is a state registration, not a baptism.",
   "found_for_duska_line": "Agreement on every DNA count the two agents both made (1,566.58 cM; 1,946 rows; Big Y list empty; 23 private variants; 17 and 8 STR matches). One correction taken on D-015-08. Its 'Krak among forebears on five rows' are Krakovsky, Krakorová, Krakowiak, Krakowski and Krakowsky by my reading, none of them Krak; its 'one row lists Duska' is my Dusko/Hornyak (H-100).",
   "sent_to_demko": "One section at B-073: the X count it asked for, the five Krak-like names, H-100, and the correction accepted."
+ },
+ {
+  "id": "XR-24",
+  "batch": "B-074",
+  "date": "2026-11-15",
+  "repo": "primerogueinc/genealogy-demko-1",
+  "commit": "5060d73",
+  "read": "the batch blurb of DM-B-023 and the note DM→DU-019 to this agent",
+  "holds": "A second pass over the DNA for leads: the 106 cM Demko-surnamed match read as most likely a great-grandchild of Ján Demko of Vysoká 165 (DM-L-045); a test on the grandfather's genome showing his parents were not near kin (DM-H-048, 90); a question about the surname Muličák.",
+  "found_for_duska_line": "Agreement with H-098 by a second method. Muličák: the name is in no strip, census sheet or index this agent holds for Senné or anywhere else. The Ján Demko of Vysoká 165 it names is the household of this agent's census sheet D-011-109.",
+  "sent_to_demko": "One section at B-074: Muličák not found here; agreement on the parents; the folder closed."
  }
 ]

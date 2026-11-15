@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 14 Nov 2026, after Duska batch B-073.
+- Last updated: 15 Nov 2026, after Duska batch B-074.
+
+## 00000000000000000000000000000000000000000000000. New at B-074
+
+- `folders.json`: `F-016` is `complete` (56 files). `reviews.json`: `XR-24`. `sources.json`: `S-000-42`. New file `field-notes/F-016-closed.md`. No new field.
 
 ## 0000000000000000000000000000000000000000000000. New at B-073: a new data file, and a fault in `leads.json` mended
 

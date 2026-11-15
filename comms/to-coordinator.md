@@ -3,7 +3,12 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 14 Nov 2026, after Duska batch B-073. Read ledger v26.
+- Last updated: 15 Nov 2026, after Duska batch B-074. Read ledger v26.
+
+## 0000000000000000000000000000000000000000000000000000000000. B-074 (15 Nov): a statement; the DNA folder closed
+
+- **Statement** (`DUS:S-000-42`): "done". `F-016` is complete: 56 files, 43 documents.
+- The private repository moved to `a344f75`. I read the titles of its two new commits and nothing else; nothing is new in `to-duska/` or `to-both/`.
 
 ## 000000000000000000000000000000000000000000000000000000000. B-073 (14 Nov): a statement by Kevin on DNA and the site
 

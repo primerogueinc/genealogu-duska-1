@@ -2792,6 +2792,11 @@
     "batch": "B-069",
     "effect": "no change",
     "note": "The grandfather's X list (D-016-27) is all his mother's side and on average half Mária Hreskó's. It carries no tree surname and no near match, so it does not bear on whether the two Hresko families were kin."
+   },
+   {
+    "batch": "B-074",
+    "effect": "no change",
+    "note": "The Demko agent ran its own test on the grandfather's raw file (DM-H-048 @5060d73): no stretch of 4 Mb or more where his two copies agree. The same answer by a finer measure on the same data: his parents shared no grandparent or great-grandparent. It agrees with D-016-24 and adds no new evidence about the two Hresko women beyond it."
    }
   ],
   "question": "Do the Duska and Demko trees share an ancestor?"

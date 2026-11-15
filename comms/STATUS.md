@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-14 after batch B-073 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-15 after batch B-074 (read ledger v26). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -54,6 +54,7 @@ Updated 2026-11-14 after batch B-073 (read ledger v26). Requests R-001 to R-011 
 - F-016 part 10: four copies of the owner's own files; `D-016-42`, the grandfather's Y page (R-Z92). Nothing moved.
 - F-016 part 11: the grandfather's own match list (`D-016-43`). `H-100` raised (40): a match lists Dusko/Hornyak. A Demko-surnamed relative at 106 cM routed to the Demko agent.
 - DNA findings and leads are on the site at the owner's word: `data/dna.json`, a `dna` line on ten people, leads with `kind`.
+- F-016 closed by the owner: 56 files, 43 documents. Next by his order of folders: marriages.
 
 ## Concluded
 
