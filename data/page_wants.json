@@ -6965,16 +6965,14 @@
    "date_on_file": "9 November 1885",
    "title": "Burial of György, aged 6, son of György Duska the elder and Mária Kozej, Szenna 7, of diphtheria, 9 November 1885",
    "route": "duska",
-   "rank": 1,
+   "rank": 3,
    "status": "wanted",
    "want": [
     "page heading: year and page number",
     "the rows above and below"
    ],
    "direct_line": false,
-   "hypotheses": [
-    "H-052"
-   ],
+   "hypotheses": [],
    "look_for": null
   },
   {
@@ -7028,9 +7026,7 @@
     "the rows above and below"
    ],
    "direct_line": true,
-   "hypotheses": [
-    "H-052"
-   ],
+   "hypotheses": [],
    "look_for": "The death of Ahn 32. The page number and entry number for the citation; the rows around it for other deaths in house 3."
   },
   {
@@ -7067,7 +7063,6 @@
    ],
    "direct_line": false,
    "hypotheses": [
-    "H-052",
     "H-087",
     "H-096"
    ],

@@ -1546,5 +1546,27 @@
   "translation": "The register, as read.",
   "why": "The first meeting of the two families on paper.",
   "tone": "history"
+ },
+ {
+  "id": "C-157",
+  "doc": "D-023-07",
+  "source": "S-619",
+  "title": "The elder and the younger",
+  "text": "For forty years the books of Senné kept two György Duskas in house 6 apart as 'the elder' and 'the younger', and I had assumed, with H-085, that the elder was the son of the old György of the same house. The younger's second marriage, at sixty-two, settles it the other way: he was the old György's son, by Mária Rapács. The elder's own marriage names a János as his father. Two cousins, probably, under one roof, the names telling them apart by age, not by descent.",
+  "original": "Duska György, Schvarcz Erzsébet volt férje ... Duska György r.k. zsellér, Rapács Mária",
+  "translation": "The register.",
+  "why": "A puzzle of house 6 resolved by a widower's remarriage.",
+  "tone": "history"
+ },
+ {
+  "id": "C-158",
+  "doc": "D-023-01",
+  "source": "S-613",
+  "title": "Sponsa orphana",
+  "text": "The marriage of 1862 that I take to be my line's: the bride's parents are not named, only two words under her name, 'sponsa orphana', the bride an orphan. Whoever Maria or Anna Krak's parents were, they were dead before she was twenty-two.",
+  "original": "sponsa orphana",
+  "translation": "The register.",
+  "why": "The two words that stand where her parents should be.",
+  "tone": "sad"
  }
 ]

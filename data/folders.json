@@ -330,5 +330,16 @@
   "batches": [
    "B-082"
   ]
+ },
+ {
+  "id": "F-023",
+  "desktop_path": "Duska Marriages",
+  "described_as": "Marriage strips in five sub-folders: Greek Catholic books of Belža (12) and Čičarovce (7), mostly Demko and Kocsis; the Greek Catholic book of Solymos (Iňačovce), 20, which married the Greek Catholic brides of Szenna; the Reformed book of Solymos, 11, which the owner calls 'RC'; the Roman Catholic book of Senné, 44; and three Québec marriage returns. 97 files; 6 are copies of files already held. 23 read at B-083, the Duska and Nyemcsik entries first; the Demko and Kocsis strips are left for the Demko agent.",
+  "first_seen": "2026-11-15",
+  "status": "complete",
+  "files_received": 97,
+  "batches": [
+   "B-083"
+  ]
  }
 ]

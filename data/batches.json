@@ -2931,6 +2931,56 @@
    "S-611",
    "S-612"
   ],
+  "committed_utc": "2026-11-15T22:28:05Z"
+ },
+ {
+  "id": "B-083",
+  "date": "2026-11-15",
+  "title": "Duska Marriages: whose son György the elder was",
+  "folder": "F-023",
+  "files": 97,
+  "blurb": "Ninety-seven marriage strips from five parish books, closed in ten messages. Five were files already held; one labelled a marriage of 1833 is Michal Duska's baptism of 1903. I read the 23 Duska and Nyemcsik entries; the Demko and Kocsis strips wait for the Demko agent. The best of them rearranges house 6. György the younger's second marriage, in 1910, names his parents: the old György of house 6 and Mária Rapács, married in 1847. So he, not my line's György the elder, is the old man's son. A marriage of 13 February 1862 gives a Georgius Dusko of Szenna 3, 26, 'son of Joannes', marrying Maria Krak, 22, an orphan. If that is György the elder and Anna Krak under another given name, as the ages and the house suggest (H-104, 75), his father was János Duska of house 6, who died in 1878 (H-105, 55), and his wife was not the Sztára Anna Krak of 1848. His second marriage, to Mária Kozej in 1877, is now on the page. Mikuláš of the 1930 crossing is confirmed by his marriage of 1913. The owner also changed my model during the run; it is logged. Curiosities: 2.",
+  "raised": [
+   "H-104",
+   "H-105",
+   "H-106"
+  ],
+  "resolved": [
+   "H-052"
+  ],
+  "revised": [
+   "H-085",
+   "H-055",
+   "H-081"
+  ],
+  "people_added": [],
+  "sources_added": [
+   "S-000-50",
+   "S-000-51",
+   "S-613",
+   "S-614",
+   "S-615",
+   "S-616",
+   "S-617",
+   "S-618",
+   "S-619",
+   "S-620",
+   "S-621",
+   "S-622",
+   "S-623",
+   "S-624",
+   "S-625",
+   "S-626",
+   "S-627",
+   "S-628",
+   "S-629",
+   "S-630",
+   "S-631",
+   "S-632",
+   "S-633",
+   "S-634",
+   "S-635"
+  ],
   "committed_utc": null
  }
 ]

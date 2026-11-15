@@ -1532,13 +1532,13 @@
  {
   "id": "H-052",
   "statement": "György Duska the elder of Senné, house 6, married twice: Anna Krak, mother of his children from [1866] to [1875], and then Mária Kozej, mother of those of [1880] and 1883.",
-  "confidence": 80,
+  "confidence": 98,
   "basis": "'Idősb Duska György' is the husband of Anna Krak in 1875 and the same style stands before the father's name with Mária Kozej in [1880] and 1883, all at house 6. A second György Duska, 'the younger', is at the same house with Erzsébet Schwarz throughout, so the Kozej children cannot be his. The prefix in [1880] and 1883 is abbreviated and could be misread.",
   "test": "The burial of Anna Krak between 1875 and 1879; the marriage of György Duska, widower, and Mária Kozej.",
-  "status": "supported",
+  "status": "solved",
   "raised": "B-022",
-  "resolved": null,
-  "resolution": null,
+  "resolved": "B-083",
+  "resolution": "Solved by the marriage entry of 21 March 1877 (D-023-04).",
   "log": [
    {
     "batch": "B-022",
@@ -1554,6 +1554,11 @@
     "batch": "B-050",
     "effect": "raised from 60 to 80; supported",
     "note": "After December [1873] the burial book has two old men named György Duska and no third: one died in 1908 aged 74 as widower of Mária Kozej (D-013-138), one in 1922 aged 77 as widower of Mária Feigerle (D-013-140). The elder of two is 'the elder': the man called idősb with Anna Krak in August 1875 and with Kozej's children in 1885 (D-013-135) is one man. Anna Krak's last child was born and died in August 1875. Against: her burial and his second marriage are still not in hand."
+   },
+   {
+    "batch": "B-083",
+    "effect": "solved",
+    "note": "Settled by the entry: György Duska, 40, widower, married Mária Kozej of Solymos on 21 March 1877 (D-023-04)."
    }
   ]
  },
@@ -1627,7 +1632,7 @@
  {
   "id": "H-055",
   "statement": "Anna Krak, Greek Catholic wife of György Duska the elder of Senné, is the Anna baptised in January 1848 at Sztára, daughter of János Krak and Mária [Z]ebro.",
-  "confidence": 6,
+  "confidence": 3,
   "basis": "The name, and an age that fits: she would be 18 at the birth of her first known child in March 1866. This is the owner's own identification (PR-8), which carries no weight. Against it: the father is marked Roman Catholic and she is Greek Catholic in every Senné entry; Sztára is about 26 km from Senné in another county; and an Anna Krak was born the same year at Jesztreb, 4 km from Senné, in a Greek Catholic book (H-056). The word after her name in the 1892 marriage entry is not read as Sztára.",
   "test": "Her marriage to György Duska (about 1864 to 1866), which should name her parents or her village; her burial with an age; the church this Sztára book belongs to.",
   "status": "open",
@@ -1664,6 +1669,11 @@
     "batch": "B-057",
     "effect": "lowered from 25 to 6",
     "note": "Sztára is in Zemplén; her son's marriage entry says Tiba in Ung (H-094). The Anna Krak baptised at Sztára in January 1848 is a different girl unless that family moved, for which there is nothing."
+   },
+   {
+    "batch": "B-083",
+    "effect": "lowered",
+    "note": "The bride of 1862, if she is Anna Krak (H-104), was 22 and an orphan, born about 1840; the Anna Krak baptised at Sztára in January 1848 would have been 14."
    }
   ]
  },
@@ -2340,6 +2350,11 @@
     "batch": "B-072",
     "effect": "no change",
     "note": "H-100 raised beside it: a match of Štefan's lists a Dusko married to a Hornyák. Too small a share to move this."
+   },
+   {
+    "batch": "B-083",
+    "effect": "no change",
+    "note": "The Duskas of house 6 married their Greek Catholic brides at the Greek Catholic church of Solymos in 1847, 1862 and 1877, and the Greek Catholic Joannes Duska of Szenna married there before. The two rites are mixed in every generation found."
    }
   ],
   "question": "X-Q-06"
@@ -2374,7 +2389,7 @@
  {
   "id": "H-081",
   "statement": "The Joannes Duska whose wife Maria died at Szenna in December 1829 and the Joannes Duska who died there in May 1830 with Anna Hornyák beside his name are two men.",
-  "confidence": 55,
+  "confidence": 75,
   "basis": "A widower of 60 would have to remarry within four and a half months. The first is a sub-cottar, the second a cottar. Against: the third column of this register is not labelled, and quick remarriage was common; Maria's own surname begins 'Hor' and could be a misreading of the same name.",
   "test": "The marriage register of Iňačovce for January to April 1830; a clearer image of the 1829 entry.",
   "status": "open",
@@ -2386,6 +2401,11 @@
     "batch": "B-046",
     "effect": "raised at 55",
     "note": "First ruling."
+   },
+   {
+    "batch": "B-083",
+    "effect": "raised",
+    "note": "The Joannes Duska of Szenna who married Anna Hornyák was a widower when he married her, by his marriage entry (D-023-05, the year [1811] from the label). So a Maria who died as wife of a Joannes Duska in December 1829 was not the wife of this man then: there were two men named Joannes, or the burial entry is wrong."
    }
   ]
  },
@@ -2471,7 +2491,7 @@
  {
   "id": "H-085",
   "statement": "György Duska the elder (Ahn 32, born about 1833) is the son of György Duska of Szenna 6 (born about 1803, died December 1873) and his first wife Mária Béres (died February 184[5 or 7] aged 31).",
-  "confidence": 60,
+  "confidence": 8,
   "basis": "For: the same given name and the same house, 6; a father of 30 and a mother of about 18 at his birth; the older man is the only György Duska of Senné in that generation (D-013-134, D-013-165); the younger was called 'the younger' or 'the elder' only against other Györgys of the house. Against: János Duska, born about 1798, lived in house 6 too (D-013-148) and could be the father, about 25; another origin, about 20. No baptism survives at Prešov before 1866.",
   "test": "The marriage of György Duska and Anna Krak (about 1864), which should name his father; the census of 1869 for Senné house 6; the parish's own copy of the baptism book for 1833.",
   "status": "open",
@@ -2493,6 +2513,11 @@
     "batch": "B-080",
     "effect": "raised",
     "note": "At the baptism of February [1872] Ahn 32 is 'ifj. Duska György', the younger, at house 6 (D-018-26, a clearer image of D-009-33). The only older György Duska then living at Szenna 6 is the man born about 1803 who died in December [1873]. 'The younger' beside him in one house is what a son would be called; a nephew also. Raised by five."
+   },
+   {
+    "batch": "B-083",
+    "effect": "lowered",
+    "note": "The marriage of 1862 (D-023-01) names the groom's father Joannes; the marriage of 1910 (D-023-07) shows the son of György of house 6 and Mária Rapács to be György 'the younger'. If H-104 holds, Ahn 32 was not this György's son."
    }
   ]
  },
@@ -2915,6 +2940,11 @@
     "batch": "B-072",
     "effect": "raised at 40",
     "note": "Raised on DNA and a surname list. Nobody goes on the tree by it (rule 36). If it holds, FG-25 and Ahn 4 share an ancestor, which is what H-079 says of the two confessions at Szenna."
+   },
+   {
+    "batch": "B-083",
+    "effect": "no change",
+    "note": "Two Dusko and Hornyák marriages are now on paper: Joannes Duska and Anna Hornyák ([1811], D-023-05) and György Dusko and Mária Hornyák (children from [1869], FG-25). The match's pair could be either. The Places agent's caution on Hornyák as a common name stands."
    }
   ],
   "question": "Were the Greek Catholic and Roman Catholic Duskas of Szenna one family?"
@@ -2982,8 +3012,70 @@
     "batch": "B-081",
     "effect": "reported",
     "note": "The Demko agent reports, from strips I have not yet seen (DM→DU-024): a burial of 1905 of 'Hresko Bobik György', born 5 May 1850, whose margin says he is 'Minarcsin' in the baptism book; and a marriage of 1904 of 'Hresko Minarcsin Mihály', born 1881, son of 'Hresko Minarcsin János' and Mária Raskóvki. If they read as reported, Minarcsin and Bobik are two names for one Hresko branch, and a second János Hresko-Minarcsin had a different wife. No change in the figure until I read them."
+   },
+   {
+    "batch": "B-083",
+    "effect": "no change",
+    "note": "A second Nyemcsik of Szenna married a Minarcsik: György of house 89, whose daughter Mária married in 1878 (D-023-14). Minarcsin is a Szenna family married into the Nyemcsiks twice (H-106)."
    }
   ],
   "question": "Who were the parents of Erzsébet Hresko alias Minarcsin?"
+ },
+ {
+  "id": "H-104",
+  "statement": "The Georgius Dusko who married Maria Krak at the Greek Catholic church of Solymos on 13 February 1862 is György Duska the elder (Ahn 32), and his bride is Anna Krak (Ahn 33), entered as Maria.",
+  "confidence": 75,
+  "basis": "The groom is of Szenna, house 3, Roman Catholic, 26; Ahn 32 was 40 in 1877 and 74 at his burial in 1908 at house 3, and the ages agree within three years. The bride is a Greek Catholic Krak, as Ahn 33 is in every baptism, and the Greek Catholic church of Solymos is where Szenna's Greek Catholic brides were married (the marriages of 1847 and 1877 are in the same book). Their first known child is of 1866. Against: the bride is Maria, not Anna, and there were several Krak families; a first wife Mária Krak followed by Anna Krak cannot be ruled out.",
+  "test": "A baptism of 1862 to 1865 at Szenna to György Duska and a Krak; any entry naming Anna Krak's parents; her burial (between August 1875 and March 1877), which would give her age.",
+  "status": "open",
+  "raised": "B-083",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-083",
+    "effect": "raised at 75",
+    "note": "Direct line. If it holds, H-055 falls and H-105 rises."
+   }
+  ],
+  "question": "Who were the parents of György Duska the elder and of Anna Krak?"
+ },
+ {
+  "id": "H-105",
+  "statement": "György Duska the elder (Ahn 32) was a son of the János Duska of Szenna 6 who was born about 1798 and died on 22 August 1878, husband of Mária Trebjo (FG-67).",
+  "confidence": 55,
+  "basis": "The groom of 1862 is 'son of Joannes Dusko' (D-023-01, under H-104). This János is the one Duska named János of the right age known at Szenna, and he lived at house 6, where Ahn 32 lived from 1866. The other old man of house 6, György (born about 1803), is shown by the marriage of 1910 to be the father of György 'the younger' (D-023-07). Against: a second János, the colonus of house 49 in 1853, is not ruled out, and whether Mária Trebjo was Ahn 32's mother is not known.",
+  "test": "Ahn 32's baptism, about 1836, at Senné or Solymos; the marriage of János Duska and Mária Trebjo; the burial of János in 1878 for a survivor named.",
+  "status": "open",
+  "raised": "B-083",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-083",
+    "effect": "raised at 55",
+    "note": "Direct line. Conditional on H-104."
+   }
+  ],
+  "question": "Who were the parents of György Duska the elder?"
+ },
+ {
+  "id": "H-106",
+  "statement": "Ahn 34 János Nyemcsik (born about 1824) was a younger brother of György Nyemcsik of Szenna 89 (born about 1813, son of János Nyemcsik and Borbála Szokács), and the two married women of the same Minarcsin family.",
+  "confidence": 30,
+  "basis": "Two Nyemcsik men of Szenna, ten years apart, each married a woman called Minarcsin or Minarcsik (D-023-13, D-023-14; Ahn 35). It is the kind of pattern that brothers marrying sisters or cousins leave. Against: Nyemcsik is a common name at Szenna and in the villages around (the Places agent's caution); there are at least three János Nyemcsiks (of Szenna 79, of Barkó, and the husband of Zsuzsanna Szabó); nothing names Ahn 34's parents.",
+  "test": "Ahn 34's marriage to Erzsébet Hresko alias Minarcsin (about 1860 to 1865) or his baptism about 1824; the given name of György's Minarcsik wife.",
+  "status": "open",
+  "raised": "B-083",
+  "resolved": null,
+  "resolution": null,
+  "log": [
+   {
+    "batch": "B-083",
+    "effect": "raised at 30",
+    "note": "Direct line. A guess from a pattern; kept low."
+   }
+  ],
+  "question": "Who were the parents of János Nyemcsik (Ahn 34)?"
  }
 ]

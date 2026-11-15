@@ -1732,5 +1732,29 @@
   "date": "2026-11-15",
   "decided": "Of 34 files in F-019 and F-020, 18 are read now: the 1930 crossing, the six full pages, and the strips whose labels state a guess.",
   "why": "Direct line first; the rest are strips of entries already held, archived unread."
+ },
+ {
+  "id": "DEC-290",
+  "date": "2026-11-15",
+  "decided": "F-023 is one batch. All 97 files are archived; 23 strips are read, the Duska and Nyemcsik marriages first; the Belža, Čičarovce and Demko strips are left for the Demko agent.",
+  "why": "Direct line first."
+ },
+ {
+  "id": "DEC-291",
+  "date": "2026-11-15",
+  "decided": "The marriage of 1862 is entered under H-104, not on the tree as fact.",
+  "why": "The bride's given name differs from every other record of Ahn 33."
+ },
+ {
+  "id": "DEC-292",
+  "date": "2026-11-15",
+  "decided": "György the elder is taken off the list of possible children of the György of house 6 (FG-65).",
+  "why": "The marriage of 1910 gives that György's son as György the younger, and the marriage of 1862 gives the elder's father as Joannes."
+ },
+ {
+  "id": "DEC-293",
+  "date": "2026-11-15",
+  "decided": "The owner's 'model change' is logged as statement S-000-51.",
+  "why": "It changes who is doing the work in the middle of the experiment; the scorer should see where."
  }
 ]

@@ -4,9 +4,9 @@ The owner said on 13 November 2026 that he will send the full register pages at 
 
 Nearly every record in this archive is one row cut from a page. A row keeps the names. It loses the page number, often the year, and the entries above and below it. The year on most strips is the one in the owner's file name, and at least eight of those have already proved wrong.
 
-- **42** strips are rank 1: a direct-line entry, or one an open hypothesis rests on.
+- **41** strips are rank 1: a direct-line entry, or one an open hypothesis rests on.
 - **124** are rank 2: other Duska strips whose year is only in the file name.
-- **248** are rank 3: the rest, most of them routed to the Demko and Places agents, who will rank their own.
+- **249** are rank 3: the rest, most of them routed to the Demko and Places agents, who will rank their own.
 - **23** are already covered by a full page that has arrived.
 - **12** pages are needed and have not been seen in any form (last table).
 
@@ -16,7 +16,7 @@ Nearly every record in this archive is one row cut from a page. A row keeps the 
 |---|---|---|---|---|
 | `D-006-19` | Mihaily_and_Mikulas_Ship_Manifest.png | [between Nov 1929 and Jul 1930, from the ages] | direct line; - | The heading of the passenger list: ship, port and date of sailing and landing. Settles Hamburg and 1930 (H-090) and dates the arrival of Ahn 8 (H-066). |
 | `D-009-23` | Baptism_of_Anna_Nyemcsik_1872.png | 24 August [1872] | direct line; - | The baptism of Ahn 17. The year (1872 is the owner's), the page number and entry number. |
-| `D-013-138` | Death_of_Gyorgy_Duska_1908.png | 5 January 1908 | direct line; H-052 | The death of Ahn 32. The page number and entry number for the citation; the rows around it for other deaths in house 3. |
+| `D-013-138` | Death_of_Gyorgy_Duska_1908.png | 5 January 1908 | direct line; - | The death of Ahn 32. The page number and entry number for the citation; the rows around it for other deaths in house 3. |
 | `D-015-03` | Steve_and_Joan_Duska_Residence_in_1957.png | [1957], by the owner's file name | direct line; - | The heading of the page: the year, the electoral district and the street. All three now rest on the file name and on the house number. |
 | `D-015-04` | Steve_and_Joan_Residence_in_1968.png | [1968], by the owner's file name | direct line; H-092 | The heading of the section the two rows stand in: the street. And the year and district from the top of the page (H-092). |
 | `D-007-08` | Baptism_of_Anna_Nyemcsik_1902.png | 12 and 14 December [1902] | - | The row below the one kept: Mihály Duska, born at 'Bradenville'. The full row and the rows under it (R-010). A Duska born in America and baptised at home. |
@@ -51,8 +51,7 @@ Nearly every record in this archive is one row cut from a page. A row keeps the 
 | `D-013-96` | Death_of_Pal_Duska_1838_-_processed.png | 7 June 1838 | H-059, H-082 | page heading: year and page number; the rows above and below |
 | `D-013-118` | Death_of_Anna_Nyemcsik_1862.png | 1 December [1862] | H-089 | page heading: year and page number; the year as written on the page; the rows above and below |
 | `D-013-128` | Death_of_Erzebeth_Kovaly_Duska_1873.png | 25 July [1873] | H-063 | page heading: year and page number; the year as written on the page; the rows above and below |
-| `D-013-135` | Death_of_Gyorgy_Duska_1885.png | 9 November 1885 | H-052 | page heading: year and page number; the rows above and below |
-| `D-013-140` | Death_of_Gyorgy_Duska_1922.png | 29 September 1922 | H-052, H-087, H-096 | page heading: year and page number; the rows above and below |
+| `D-013-140` | Death_of_Gyorgy_Duska_1922.png | 29 September 1922 | H-087, H-096 | page heading: year and page number; the rows above and below |
 | `D-013-171` | Death_of_Maria_Duska_1908.png | 12 February 1908 | H-088 | page heading: year and page number; the rows above and below |
 | `D-013-172` | Death_of_Maria_Duska_1921.png | 22 March 1921 | H-060, H-084 | page heading: year and page number; the rows above and below |
 | `D-013-195` | Death_of_Unknown_Nyemcsik_1924.png | 29 February 1924 | H-060 | page heading: year and page number; the rows above and below |
@@ -93,7 +92,7 @@ For each: the page heading with its year and page number, and the rows above and
 | Burials, Cicarovce - Greek Catholic | 16 | demko 16 |
 | Burials, Iňačovce - Reform Catholic | 7 | demko 2, duska 5 |
 | Burials, Iňačovce Greek Catholic | 24 | demko 15, duska 7, places 2 |
-| Burials, Senné Roman Catholic | 47 | demko 24, duska 20, places 3 |
+| Burials, Senné Roman Catholic | 48 | demko 24, duska 21, places 3 |
 | Census sheet, names only | 12 | duska 11, places 1 |
 
 ## Already in hand

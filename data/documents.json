@@ -29810,6 +29810,13 @@
     "original": "6. | Febru[ár] 1[0]. | Thur Mihály urb. gazda fi | Thur Mihály és Kosztr[u]cs[ka] Mária földmívelők | Szenna 90. | Rk. | 24 | nőtlen || Nyemcsik Mária urb. gazda leánya | Nyemcsik György [és] Minar[..] | Szenna 89 | Rk. | 20 | hajadon | Horbulyák [..] és [..] földmívelők",
     "english": "Entry 6, February, the day read as 1[0]: Mihály Thur, son of Mihály Thur and Mária Kosztr[u]cs[ka], tillers; Szenna 90; Roman Catholic; 24; bachelor. Mária Nyemcsik, daughter of an urbarial farmer, of György Nyemcsik and a mother whose name begins Minar[..]; Szenna 89; Roman Catholic; 20; spinster. Two witnesses, tillers, the first a Horbulyák. The strip is small and much of it is not legible at this size."
    }
+  ],
+  "corrections": [
+   {
+    "batch": "B-083",
+    "date": "2026-11-15",
+    "text": "A larger image of the same entry (D-023-14): the day is 13 February; the bride's mother is 'Minarcsik'; the groom's mother is Sztricskó, not Kosztr[u]cs[ka]; the witnesses are György Harbulyák and János Cservenák."
+   }
   ]
  },
  {
@@ -31741,6 +31748,903 @@
     "label": "As written, field by field. Square brackets mark doubtful readings.",
     "original": "1882 szept. 22./23. | András | ifj. Duska György, Schwarcz Erzsébet (Ribnicze) | Szenna 6",
     "english": "The entry already held as D-009-01 and on its full page as D-014-02. The owner's label proposes this András as the father of Michal (Ahn 8). He is not: Michal's father is the András born in 1868, son of György Duska and Anna Krak, who married Anna Nyemcsik in 1892 (D-006-03) and is Andrej Duška, born 24 November 1868, at the head of the house in 1930 with Michal's wife and son (D-011-24)."
+   }
+  ]
+ },
+ {
+  "id": "D-023-01",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-613",
+  "file": "Marriage_of_Georgius_Duska_and_Maria_Krak_1862.png",
+  "sha256": "40543dca115c9759bc4a059907c219f1fcf2fe6e8d744b8df80ad703dd71f2c5",
+  "wide": true,
+  "title": "Marriage of Georgius Dusko, son of Joannes Dusko, and Maria Krak, orphan, Szenna 3, 13 February 1862",
+  "span": "13 February 1862",
+  "language": "Latin",
+  "collector_label": "Marriage of Georgius Duska and Maria Krak 1862",
+  "family": "FG-47",
+  "route": "duska",
+  "part": "Inacovce GK, part 1",
+  "provenance": {
+   "archive": "Not stated on the strip; by the owner's folder names, FamilySearch images of the parish books",
+   "fond_or_film": null,
+   "book": "Greek Catholic marriage register of Solymos (Iňačovce), which married the Greek Catholic brides of Szenna",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Inacovce GK', part 1, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "2",
+    "date": "13 February 1862",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 2 of 1862, 13 February: Georgius Dusko, of Szenna, house 3, Roman Catholic, 26, bachelor; Maria Krak, Greek Catholic, 22, maiden. Under the names: 'Joannes Dusko, pa[ter]' and 'sponsa orphana', the bride an orphan. Witnesses Joannes Mur[avi?], [?] Joannes [Szakál?] and Anna Dvonyik; married by Josephus Danilovics, parochus of Solymos; banns published. The groom's age fits György Duska the elder (Ahn 32): 40 in 1877, 74 at his burial in 1908, and he died at house 3. His children's mother is Anna Krak, Greek Catholic. If this is he (H-104), his father was a János (H-105), and his wife was not the Anna Krak baptised at Sztára in 1848 (H-055).",
+    "reading": "high for names, ages and house; medium for 'pa[ter]'"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "2. | 1862 Febr. 13. | Georgius Dusko; Maria Krak; Joannes Dusko pa[ter]; sponsa orphana | Szenna numero domus 3 | R.C. 26 coelebs | G.C. 22 puella | Joannes Mur[avi]; [?] Joannes [Szakál]; Anna Dvonyik | Josephus Danilovics parochus Solymosiensis | promulgati",
+    "english": "Entry 2 of 1862, 13 February: Georgius Dusko, of Szenna, house 3, Roman Catholic, 26, bachelor; Maria Krak, Greek Catholic, 22, maiden. Under the names: 'Joannes Dusko, pa[ter]' and 'sponsa orphana', the bride an orphan. Witnesses Joannes Mur[avi?], [?] Joannes [Szakál?] and Anna Dvonyik; married by Josephus Danilovics, parochus of Solymos; banns published. The groom's age fits György Duska the elder (Ahn 32): 40 in 1877, 74 at his burial in 1908, and he died at house 3. His children's mother is Anna Krak, Greek Catholic. If this is he (H-104), his father was a János (H-105), and his wife was not the Anna Krak baptised at Sztára in 1848 (H-055)."
+   }
+  ]
+ },
+ {
+  "id": "D-023-02",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-614",
+  "file": "Marriage_of_Georgis_Duiska_and_Elisabeth_Schwarz_1872.png",
+  "sha256": "a733e35cf11fd566336eb7d28a853f5fd6864afb8357028f43dbafbfec001d80",
+  "wide": true,
+  "title": "Marriage of Georgius Dusko and Elisabetha Schwarz, Szenna 6, 22 January 1872",
+  "span": "22 January 1872",
+  "language": "Latin",
+  "collector_label": "Marriage of Georgis Duiska and Elisabeth Schwarz 1872",
+  "family": "FG-48",
+  "route": "duska",
+  "part": "Inacovce GK, part 1",
+  "provenance": {
+   "archive": "Not stated on the strip; by the owner's folder names, FamilySearch images of the parish books",
+   "fond_or_film": null,
+   "book": "Greek Catholic marriage register of Solymos (Iňačovce), which married the Greek Catholic brides of Szenna",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Inacovce GK', part 1, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "1",
+    "date": "22 January 1872",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 1 of 1872, 22 January: Georgius Dusko, of Szenna, house 6, Roman Catholic, 24, bachelor; Elisabetha Schwarz, [Greek?] Catholic, 20, maiden. Witnesses Andreas Halász, Andreas Polyák and Anna Szincsák. In the observations a visitation note of 20 February 1872. György Duska the younger (born 29 January 1848, by his marriage of 1910) and his wife, married ten months before their first son, Mihály the miller.",
+    "reading": "high; low for the bride's rite"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "1. | 1872 Januar 22 | Georgius Dusko; Elisabetha Schwarz | Szenna numero 6 | R.C. 24 coelebs | [G.C.] 20 coelebs | Andreas Halász; Andreas Polyák; Anna Szincsák | [promulgati] | A. 1872 die 20 Febr. vis. [...]",
+    "english": "Entry 1 of 1872, 22 January: Georgius Dusko, of Szenna, house 6, Roman Catholic, 24, bachelor; Elisabetha Schwarz, [Greek?] Catholic, 20, maiden. Witnesses Andreas Halász, Andreas Polyák and Anna Szincsák. In the observations a visitation note of 20 February 1872. György Duska the younger (born 29 January 1848, by his marriage of 1910) and his wife, married ten months before their first son, Mihály the miller."
+   }
+  ]
+ },
+ {
+  "id": "D-023-03",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-615",
+  "file": "Marriage_of_Gyorgy_Duska_1847.png",
+  "sha256": "bad02cf8f15ace6622c2c9c158bb6df1f556b5099d9bee92ef3d87a5a08fe988",
+  "wide": true,
+  "title": "Marriage of György Dusko, widower, and Mária Rapács, Szenna, 11 July 1847",
+  "span": "11 July 1847",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Gyorgy Duska 1847",
+  "family": "FG-65",
+  "route": "duska",
+  "part": "Inacovce GK, part 1",
+  "provenance": {
+   "archive": "Not stated on the strip; by the owner's folder names, FamilySearch images of the parish books",
+   "fond_or_film": null,
+   "book": "Greek Catholic marriage register of Solymos (Iňačovce), which married the Greek Catholic brides of Szenna",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Inacovce GK', part 1, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "9",
+    "date": "11 July 1847",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry of 11 July 1847, married by József Danilovics, parochus of Solymos: György Dusko, Roman Catholic, cottar, [4]2 (the first figure could be read 7), and Mária Rapács, Greek Catholic, 24; witnesses András Szincsák, János Dvonyik and Anna Szincsák; of Szenna. This is the second marriage of György Duska of house 6 (born about 1803, died December 1873), whose first wife Mária Béres died in 184[5 or 7]. Their son György was born on 29 January 1848 (D-023-08).",
+    "reading": "high; medium for the groom's age"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "1847 11 Jul. | Danilovics József solymosi parochus | Dusko György [4]2 R.C. zsellér | Rapács Mária 24 G.C. | Szincsák András; Dvonyik János; Szincsák Anna | Szenna",
+    "english": "Entry of 11 July 1847, married by József Danilovics, parochus of Solymos: György Dusko, Roman Catholic, cottar, [4]2 (the first figure could be read 7), and Mária Rapács, Greek Catholic, 24; witnesses András Szincsák, János Dvonyik and Anna Szincsák; of Szenna. This is the second marriage of György Duska of house 6 (born about 1803, died December 1873), whose first wife Mária Béres died in 184[5 or 7]. Their son György was born on 29 January 1848 (D-023-08)."
+   }
+  ]
+ },
+ {
+  "id": "D-023-04",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-616",
+  "file": "Marriage_of_Gyorgy_Duska_and_Maria_Kozsej_1877.png",
+  "sha256": "00ff3829961bafb3817cdc65bb9c907aab5abb3dbebb83e5cc890c20dc6b8cfc",
+  "wide": true,
+  "title": "Marriage of György Duska, widower, aged 40, and Mária Kozej of Solymos, 21 March 1877",
+  "span": "21 March 1877",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Gyorgy Duska and Maria Kozsej 1877",
+  "family": "FG-47",
+  "route": "duska",
+  "part": "Inacovce GK, part 1",
+  "provenance": {
+   "archive": "Not stated on the strip; by the owner's folder names, FamilySearch images of the parish books",
+   "fond_or_film": null,
+   "book": "Greek Catholic marriage register of Solymos (Iňačovce), which married the Greek Catholic brides of Szenna",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Inacovce GK', part 1, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "4",
+    "date": "21 March 1877",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 4 of 1877, 21 March: György Duska, of Szenna, Roman Catholic, 40, widower; Mária Kozej, of Solymos, Greek Catholic, [32]; witnesses János Ráskovszky, János Mihalyov and Anna Szincsák; married by András Szaniczky, assistant priest. The second marriage of György Duska the elder (Ahn 32), whose first wife Anna Krak bore her last child in August 1875: H-052 settled. His age gives a birth about 1837, as the marriage of 1862 does.",
+    "reading": "high; low for the bride's age"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "4. | 1877 Márcz. 21. | Duska György; Kozej Mária | Szenne; Solymos | R.C. 40; G.C. [32] | özv. | Ráskovszky János; Mihalyov János; Szincsák Anna | Szaniczky András segéd lelkész",
+    "english": "Entry 4 of 1877, 21 March: György Duska, of Szenna, Roman Catholic, 40, widower; Mária Kozej, of Solymos, Greek Catholic, [32]; witnesses János Ráskovszky, János Mihalyov and Anna Szincsák; married by András Szaniczky, assistant priest. The second marriage of György Duska the elder (Ahn 32), whose first wife Anna Krak bore her last child in August 1875: H-052 settled. His age gives a birth about 1837, as the marriage of 1862 does."
+   }
+  ]
+ },
+ {
+  "id": "D-023-05",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-617",
+  "file": "Marriage_of_Johannes_Duska_and_Anna_Horncyak_1811.png",
+  "sha256": "1f64cbbf66ef089edca3ebda4e2590aebcaca0b96fc97afe9c7212228cb49657",
+  "wide": true,
+  "title": "Marriage of the widower Joannes Duska of Szenna and the widow Anna Hornyák, [1811]",
+  "span": "[1811]",
+  "language": "Latin",
+  "collector_label": "Marriage of Johannes Duska and Anna Horncyak 1811",
+  "family": "FG-64",
+  "route": "duska",
+  "part": "Inacovce GK, part 2 (final)",
+  "provenance": {
+   "archive": "Not stated on the strip; by the owner's folder names, FamilySearch images of the parish books",
+   "fond_or_film": null,
+   "book": "Greek Catholic marriage register of Solymos (Iňačovce), which married the Greek Catholic brides of Szenna",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Inacovce GK', part 2 (final), sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": null,
+    "date": "[1811]",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Running Latin text: 'On the same day were married the widower Joannes Duska of Szenna and the widow Anna Hornyák. Witnesses Joannes Petrik, cantor, and his wife Anna, and Georgius Bili, bell-ringer of Solymos.' The year is from the owner's label only. Joannes Duska, who died at Szenna in 1830 aged about 61 with Anna Hornyák beside his name, was a widower when he married her, so the Maria, wife of a Joannes Duska, who died in December 1829 cannot have been his wife then (H-081). The Dusko and Hornyák pair listed by a DNA match of Štefan's (H-100) has a marriage now; it is one of two such pairs in this archive.",
+    "reading": "high for the text; the year from the label"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "Anno [1811] die eodem copulatus viduus Joannes Duska ex Szenna cum vidua Anna Hornyak. Testes Joannes Petrik cantor et ejus uxor Anna, et Georgius Bili pulsator Solymosiensis.",
+    "english": "Running Latin text: 'On the same day were married the widower Joannes Duska of Szenna and the widow Anna Hornyák. Witnesses Joannes Petrik, cantor, and his wife Anna, and Georgius Bili, bell-ringer of Solymos.' The year is from the owner's label only. Joannes Duska, who died at Szenna in 1830 aged about 61 with Anna Hornyák beside his name, was a widower when he married her, so the Maria, wife of a Joannes Duska, who died in December 1829 cannot have been his wife then (H-081). The Dusko and Hornyák pair listed by a DNA match of Štefan's (H-100) has a marriage now; it is one of two such pairs in this archive."
+   }
+  ]
+ },
+ {
+  "id": "D-023-06",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-618",
+  "file": "Marriage_of_Anna_Duska_maybe_1846.png",
+  "sha256": "ca92a310c950142b42c6930eb6a492278d24ce914e7fae8622a545d48bc2422d",
+  "wide": true,
+  "title": "Marriage of Pál Drabo and Anna [D]uska, Kis Szeretva, 5 March [1846]",
+  "span": "5 March [1846]",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Anna Duska maybe 1846",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce GK, part 1",
+  "provenance": {
+   "archive": "Not stated on the strip; by the owner's folder names, FamilySearch images of the parish books",
+   "fond_or_film": null,
+   "book": "Greek Catholic marriage register of Solymos (Iňačovce), which married the Greek Catholic brides of Szenna",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Inacovce GK', part 1, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "2",
+    "date": "5 March [1846]",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 2, 5 March: Pál Drabo, Greek Catholic, 24, cottar; Anna [D]uska, Greek Catholic, 19; witnesses György Kovacsik, Mihály Buka[?] and Anna Korak[?]; Kis Szeretva. The bride's initial could be read D or B: the owner marks it 'maybe'. Not attached.",
+    "reading": "medium; low for the bride's initial"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "2. | Mar. 5. | Drabo Pál G.C. 24 zsell. | Anna [D]uska G.C. 19 | Kovacsik György; Buka[?] Mihály; N. Anna Korak[?] | Kis Szeretva",
+    "english": "Entry 2, 5 March: Pál Drabo, Greek Catholic, 24, cottar; Anna [D]uska, Greek Catholic, 19; witnesses György Kovacsik, Mihály Buka[?] and Anna Korak[?]; Kis Szeretva. The bride's initial could be read D or B: the owner marks it 'maybe'. Not attached."
+   }
+  ]
+ },
+ {
+  "id": "D-023-07",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-619",
+  "file": "Marriage_of_Gyorgy_Duska_and_Erzebeth_Schwarz_1910.png",
+  "sha256": "d2d90ef0e6a0d99a0bde995b39e6752573aa0bea8f7113d6f18fe19ced663b4c",
+  "wide": true,
+  "title": "Marriage of György Duska, widower of Erzsébet Schwarcz, born 29 January 1848, son of György Duska and Mária Rapács, and Mária Feigerle, widow, Ungszenna, 8 June 1910",
+  "span": "8 June 1910",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Gyorgy Duska and Erzebeth Schwarz 1910",
+  "family": "FG-48",
+  "route": "duska",
+  "part": "Senne RC, part 1",
+  "provenance": {
+   "archive": "Senné Roman Catholic marriage books (1863 to 1886 and 1887 to 1926 are both in the owner's 2022 index, D-018-35)",
+   "fond_or_film": null,
+   "book": "Roman Catholic marriage register of Senné",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Senne RC', part 1, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "6",
+    "date": "8 June 1910",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 6 of 1910, 8 June: György Duska, the former husband of Erzsébet Schwarcz, of Ungszenna 8, Roman Catholic, born 29 January 1848, widower; son of György Duska, Roman Catholic cottar, and Mária Rapács. Bride Mária Feigerle, widow of the late Mihály Halász, of Ungszenna 12, Roman Catholic, born 24 December 1869; daughter of Gyula[?] Feigerle, Roman Catholic farmer, and Teréz Gojdics. Witnesses Mihály Szincsák, Roman Catholic farmer, and Mihály Dobos, Greek Catholic farmer, of Ungszenna; married by János Barna, parish priest; banns three times. This names the parents of György Duska the younger: he is the son of the old György of house 6 and his second wife Mária Rapács (FG-65). The two Györgys of house 6, 'the elder' and 'the younger', are therefore not father and son.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "6. | 1910 június 8. | Duska György, Schvarcz Erzsébet volt férje | Ungszenna | Ungszenna 8. | róm. k. | sz. 1848 jan. 29. | özvegy | Duska György r.k. zsellér; Rapács Mária || Feigerle Mária, elhalt Halász Mihály özvegye | Ungszenna 12. | róm. k. | sz. 1869 decz. 24. | özvegy | Feigerle Gy[ula] r.k. gazda; Gojdics Teréz r.k. Ungszenna | Szincsák Mihály r.k. gazda; Dobos Mihály g.k. gazda Ungszenna | Barna János plébános | Háromszor kihirdettetett",
+    "english": "Entry 6 of 1910, 8 June: György Duska, the former husband of Erzsébet Schwarcz, of Ungszenna 8, Roman Catholic, born 29 January 1848, widower; son of György Duska, Roman Catholic cottar, and Mária Rapács. Bride Mária Feigerle, widow of the late Mihály Halász, of Ungszenna 12, Roman Catholic, born 24 December 1869; daughter of Gyula[?] Feigerle, Roman Catholic farmer, and Teréz Gojdics. Witnesses Mihály Szincsák, Roman Catholic farmer, and Mihály Dobos, Greek Catholic farmer, of Ungszenna; married by János Barna, parish priest; banns three times. This names the parents of György Duska the younger: he is the son of the old György of house 6 and his second wife Mária Rapács (FG-65). The two Györgys of house 6, 'the elder' and 'the younger', are therefore not father and son."
+   }
+  ]
+ },
+ {
+  "id": "D-023-08",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-620",
+  "file": "Marriage_of_Miklos_Duska_1913.png",
+  "sha256": "14480219b26d62a1f25b73cbaed11d00414560f21b8dd6005610a8d6fd8f89a6",
+  "wide": true,
+  "title": "Marriage of Miklós Duska, son of György Duska and Erzsébet Schwarcz, and Mária Hankuscsák, Ungszenna, 29 January 1913",
+  "span": "29 January 1913",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Miklos Duska 1913",
+  "family": "FG-69",
+  "route": "duska",
+  "part": "Senne RC, part 3",
+  "provenance": {
+   "archive": "Senné Roman Catholic marriage books (1863 to 1886 and 1887 to 1926 are both in the owner's 2022 index, D-018-35)",
+   "fond_or_film": null,
+   "book": "Roman Catholic marriage register of Senné",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Senne RC', part 3, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "2",
+    "date": "29 January 1913",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 2 of 1913, 29 January: Miklós Duska, cottar, of Ungszenna, Roman Catholic, born 28 November 1890, bachelor; son of György Duska, Roman Catholic cottar, and Erzsébet Schwarcz. Mária Hankuscsák, of Ungszenna, Roman Catholic, born 18 April 1892, spinster; daughter of András Hankuscsák, farmer, and Mária Nyemcsik. Witnesses Mihály Muranyik, farmer, and János Muha, Roman Catholic farmer, of Ungszenna; married by János Barna, parish priest; banns three times. The census of 1930 gave 22 January; the register has 29. This is the Mikuláš, 39, married, who left Hamburg with Michal Duska on 6 March 1930 (H-090), and the 'Mikalis Duska, husband of Anna Hancosek' buried at Montréal in 1965.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "2. | 1913 január 29. | Duska Miklós zsellér | Ungszenna | róm. k. | szül. 1890 nov. 28. | nőtlen | Duska György r.k. zsellér; Schvarcz Erzsébet r.k. Ungszenna || Hankuscsák Mária | Ungszenna | róm. k. | szül. 1892 április 18. | hajadon | Hankuscsák András r.k. gazda; Nyemcsik Mária | Muranyik Mihály r.k. gazda; Muha János r.k. gazda Ungszenna | Barna János plébános | Háromszor kihirdettettek",
+    "english": "Entry 2 of 1913, 29 January: Miklós Duska, cottar, of Ungszenna, Roman Catholic, born 28 November 1890, bachelor; son of György Duska, Roman Catholic cottar, and Erzsébet Schwarcz. Mária Hankuscsák, of Ungszenna, Roman Catholic, born 18 April 1892, spinster; daughter of András Hankuscsák, farmer, and Mária Nyemcsik. Witnesses Mihály Muranyik, farmer, and János Muha, Roman Catholic farmer, of Ungszenna; married by János Barna, parish priest; banns three times. The census of 1930 gave 22 January; the register has 29. This is the Mikuláš, 39, married, who left Hamburg with Michal Duska on 6 March 1930 (H-090), and the 'Mikalis Duska, husband of Anna Hancosek' buried at Montréal in 1965."
+   }
+  ]
+ },
+ {
+  "id": "D-023-09",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-621",
+  "file": "Marriage_of_Anna_Duska_1874.png",
+  "sha256": "a4b15126efa165958e548272b65c690e65de6a0c92f11081614f0d3731e60d19",
+  "wide": true,
+  "title": "Marriage of János Marczinyik, Reformed, of Solymos, and Anna Duska, daughter of György Duska and Mária Rapács, Szenna 6, [29 January 1874]",
+  "span": "[29 January 1874]",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Anna Duska 1874",
+  "family": "FG-55",
+  "route": "duska",
+  "part": "Senne RC, part 1",
+  "provenance": {
+   "archive": "Senné Roman Catholic marriage books (1863 to 1886 and 1887 to 1926 are both in the owner's 2022 index, D-018-35)",
+   "fond_or_film": null,
+   "book": "Roman Catholic marriage register of Senné",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Senne RC', part 1, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "12",
+    "date": "[29 January 1874]",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 12, the day 'ditto' after an entry of 29 January [1874]: János Marczinyik, son of János Marczinyik and Borbála Knyezső, Solymos, Reformed, 25, bachelor; Anna Duska, cottar's daughter, daughter of György Duska and Mária Rapács, Szenna 6, Roman Catholic, 20, spinster. Witnesses János Szcsurák[?] and János Dusko. This gives the parents of Anna Duska of FG-55 (died 1879 aged 24): she is a daughter of the old György of house 6 and Mária Rapács, and a sister of György the younger.",
+    "reading": "high; the year from the label"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "12. | dtto [Jan. 29.] | Marczinyik János; Marczinyik János, Knyezső Borb. | Solymos | Hv. | 25 | nőtlen || Duska Anna zsellér leány; Duska György, Rapács Mária | Szenna 6. | Rk. | 20 | hajadon | Szcsurák[?] János; Dusko János",
+    "english": "Entry 12, the day 'ditto' after an entry of 29 January [1874]: János Marczinyik, son of János Marczinyik and Borbála Knyezső, Solymos, Reformed, 25, bachelor; Anna Duska, cottar's daughter, daughter of György Duska and Mária Rapács, Szenna 6, Roman Catholic, 20, spinster. Witnesses János Szcsurák[?] and János Dusko. This gives the parents of Anna Duska of FG-55 (died 1879 aged 24): she is a daughter of the old György of house 6 and Mária Rapács, and a sister of György the younger."
+   }
+  ]
+ },
+ {
+  "id": "D-023-10",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-622",
+  "file": "Marriage_of_Borbala_Duska_1884.png",
+  "sha256": "07ccfc390da32f95a976346d7478e3ceabe37edb1af58e57f734435050150bb8",
+  "wide": true,
+  "title": "Marriage of János [Tomko] of Kráska and Borbála Duska, daughter of György Duska and [Mária] Rapács, Senné, 26 October 1884",
+  "span": "26 October 1884",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Borbala Duska 1884",
+  "family": "FG-65",
+  "route": "duska",
+  "part": "Senne RC, part 1",
+  "provenance": {
+   "archive": "Senné Roman Catholic marriage books (1863 to 1886 and 1887 to 1926 are both in the owner's 2022 index, D-018-35)",
+   "fond_or_film": null,
+   "book": "Roman Catholic marriage register of Senné",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Senne RC', part 1, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "16",
+    "date": "26 October 1884",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 16 of 1884, 26 October: János [Tomko or Gonko], of Kráska 8, Greek Catholic, 24, bachelor; Borbála Duska, of Szenna, Roman Catholic, 20, spinster; both 'szolga cselédek', servants. Parents column: 'Duska György, Rajács [Rapács]'. Witnesses János Holis and András Polyák; married by György Balás, parish priest; banns. Borbála, born about 1864, is a daughter of the old György and Mária Rapács, ten years after her sister Anna.",
+    "reading": "high; low for the groom's surname"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "16. | 1884 Októb. 26. | [Tomko] János; Duska Borbála szolga cselédek | Kráska 8; Szenna | Gk.; Rk. | 24; 20 | nőtlen; hajadon | Duska György, Ra[p]ács | Holis János; Polyák András | Balás György plébános | hirdettettek",
+    "english": "Entry 16 of 1884, 26 October: János [Tomko or Gonko], of Kráska 8, Greek Catholic, 24, bachelor; Borbála Duska, of Szenna, Roman Catholic, 20, spinster; both 'szolga cselédek', servants. Parents column: 'Duska György, Rajács [Rapács]'. Witnesses János Holis and András Polyák; married by György Balás, parish priest; banns. Borbála, born about 1864, is a daughter of the old György and Mária Rapács, ten years after her sister Anna."
+   }
+  ]
+ },
+ {
+  "id": "D-023-11",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-623",
+  "file": "Marriage_of_Demko_and_Maya_Mihaily_1890_-_gyorgy_duska_as_witness.png",
+  "sha256": "b6f25428940b16e8f1dceafb8ff05f088a6677161cde6e74730b392a2ba42da0",
+  "wide": true,
+  "title": "Marriage of János Demko, born in Poland, and Ilona Mihalyo, Szenna 25, 3 March 1890: another image, with György Duska as witness",
+  "span": "3 March 1890",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Demko and Maya Mihaily 1890 - gyorgy duska as witness",
+  "family": null,
+  "route": "demko",
+  "part": "Senne RC, part 1",
+  "provenance": {
+   "archive": "Senné Roman Catholic marriage books (1863 to 1886 and 1887 to 1926 are both in the owner's 2022 index, D-018-35)",
+   "fond_or_film": null,
+   "book": "Roman Catholic marriage register of Senné",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Senne RC', part 1, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "7",
+    "date": "3 March 1890",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 7 of 1890, 3 March: János Demko, lodger, born in Poland, of Szenna 25, Roman Catholic, 55, bachelor, 'his parents unknown'; Ilona Mihalyo, of Klokocsó, Szenna 25, Roman Catholic, 50, spinster, daughter of Anna Mihalyo; witnesses György Duska, Roman Catholic cottar, and András Polyák, of Szenna; married by István Rusznák, dean; a note of a dispensation of 22 February 1890. The entry already held as D-018-12, cut differently.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "7. | 1890 Martius 3. | Demko János lakó; Mihalyo Ilona | Lengyelország; Klokocsó | Szenna 25 | r.k. | 55; 50 | nőtlen; hajadon | szülei ismeretlenek; Mihalyo Anna r.k. zsellér | Duska György r.k. zsellér Szenna; Polyák András r.k. zsellér",
+    "english": "Entry 7 of 1890, 3 March: János Demko, lodger, born in Poland, of Szenna 25, Roman Catholic, 55, bachelor, 'his parents unknown'; Ilona Mihalyo, of Klokocsó, Szenna 25, Roman Catholic, 50, spinster, daughter of Anna Mihalyo; witnesses György Duska, Roman Catholic cottar, and András Polyák, of Szenna; married by István Rusznák, dean; a note of a dispensation of 22 February 1890. The entry already held as D-018-12, cut differently."
+   }
+  ]
+ },
+ {
+  "id": "D-023-12",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-624",
+  "file": "Marriage_of_Maria_Duska_1892.png",
+  "sha256": "3518d9a8af24939088b24707325ca685af40614fd043e3efc2cda398e421f62f",
+  "wide": true,
+  "title": "Marriage of Mihály Kucseravecz of Solymos and Mária Duska of Jesztreb, daughter of András Duska and Anna Jafurics, 17 November 1892",
+  "span": "17 November 1892",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Maria Duska 1892",
+  "family": "FG-51",
+  "route": "duska",
+  "part": "Senne RC, part 2",
+  "provenance": {
+   "archive": "Senné Roman Catholic marriage books (1863 to 1886 and 1887 to 1926 are both in the owner's 2022 index, D-018-35)",
+   "fond_or_film": null,
+   "book": "Roman Catholic marriage register of Senné",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Senne RC', part 2, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "23",
+    "date": "17 November 1892",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 23 of 1892, 17 November: Mihály Kucseravecz, cottar, of Solymos, Greek Catholic, 25, bachelor; Mária Duska, of Jesztreb, Roman Catholic, 17, spinster; her parents András Duska, Roman Catholic cottar of Jesztreb, and Anna Jafurics, Greek Catholic. Witnesses János Dzvonyik and György Kenderes, Roman Catholic farmers of Solymos; married by Gyula Buzinkay; banns three times, the groom released by his parish. A daughter of FG-51, born about 1875, eleven months after her father's death.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "23. | 1892 november 17. | Kucseravecz Mihály zsellér; Duska Mária | Solymos; Jesztreb | gk.; rk. | 25 év; 17 év | nőtlen; hajadon | [...] gk. zsellér Solymos, Oravecz Zsuzsánna gk.; Duska András rk. zsellér Jesztreb, Jafurics Anna gk. | Dzvonyik János rk. földm. Solymos; Kenderes György rk. földm. Solymos | Buzinkay Gyula lelkész | Háromszor kihirdettettek, a vőlegény elbocsáttatott",
+    "english": "Entry 23 of 1892, 17 November: Mihály Kucseravecz, cottar, of Solymos, Greek Catholic, 25, bachelor; Mária Duska, of Jesztreb, Roman Catholic, 17, spinster; her parents András Duska, Roman Catholic cottar of Jesztreb, and Anna Jafurics, Greek Catholic. Witnesses János Dzvonyik and György Kenderes, Roman Catholic farmers of Solymos; married by Gyula Buzinkay; banns three times, the groom released by his parish. A daughter of FG-51, born about 1875, eleven months after her father's death."
+   }
+  ]
+ },
+ {
+  "id": "D-023-13",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-625",
+  "file": "Marriage_of_Gyorgy_Nyemcsik_1873.png",
+  "sha256": "19db2222007ed74753eff81c9920f34ec787ad261f671987dec3d3967644169e",
+  "wide": true,
+  "title": "Marriage of György Nyemcsik, widower, son of János Nyemcsik and Borbála Szokács, and Borbála Tomás, widow, Szenna 89, 24 February 1873",
+  "span": "24 February 1873",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Gyorgy Nyemcsik 1873",
+  "family": "FG-78",
+  "route": "duska",
+  "part": "Senne RC, part 1",
+  "provenance": {
+   "archive": "Senné Roman Catholic marriage books (1863 to 1886 and 1887 to 1926 are both in the owner's 2022 index, D-018-35)",
+   "fond_or_film": null,
+   "book": "Roman Catholic marriage register of Senné",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Senne RC', part 1, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "6",
+    "date": "24 February 1873",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 6 of 1873, 24 February: György Nyemcsik, son of János Nyemcsik and Borbála Szokács, of Szenna 89, Roman Catholic, 60, widower; Borbála Tomás, daughter of András Tomás and Mária Cservenák, of Csecsehó, Roman Catholic, 60, widow. Witnesses Mihály Thur and György Danko; married by György Balás, parish priest; banns. He died in [1882] aged 70 as husband of Borbála Tomas (D-013-142). His daughter Mária by an earlier wife whose name begins Minar- married in 1878 (D-018-06, D-023-14). A Nyemcsik of Szenna born about 1813, ten years before Ahn 34, with a Minarcsin wife (H-106).",
+    "reading": "high; medium for Szokács"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "6. | 1873 Februar 24. | Nyemcsik György, Nyemcsik János és Szokács Borbála fia — Tomás Borbála, Tomás András és Cservenák Mária leánya | Szenna 89; Csecsehó | Rk. 60; Rk. 60 | özv.; özv. | Thur Mihály; Danko György | Balás György plébános | hirdettettek",
+    "english": "Entry 6 of 1873, 24 February: György Nyemcsik, son of János Nyemcsik and Borbála Szokács, of Szenna 89, Roman Catholic, 60, widower; Borbála Tomás, daughter of András Tomás and Mária Cservenák, of Csecsehó, Roman Catholic, 60, widow. Witnesses Mihály Thur and György Danko; married by György Balás, parish priest; banns. He died in [1882] aged 70 as husband of Borbála Tomas (D-013-142). His daughter Mária by an earlier wife whose name begins Minar- married in 1878 (D-018-06, D-023-14). A Nyemcsik of Szenna born about 1813, ten years before Ahn 34, with a Minarcsin wife (H-106)."
+   }
+  ]
+ },
+ {
+  "id": "D-023-14",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-626",
+  "file": "Marriage_of_Unknown_Female_Nyemcsik_1878.png",
+  "sha256": "509b95c9287bfe10949497140fdbeeb213a78cc5f344971d5fa8b011f71c5d17",
+  "wide": true,
+  "title": "Marriage of Mihály Thur and Mária Nyemcsik, daughter of György Nyemcsik and a Minarcsik, Szenna, 13 February [1878]: another image",
+  "span": "13 February [1878]",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Unknown Female Nyemcsik 1878",
+  "family": "FG-78",
+  "route": "duska",
+  "part": "Senne RC, part final",
+  "provenance": {
+   "archive": "Senné Roman Catholic marriage books (1863 to 1886 and 1887 to 1926 are both in the owner's 2022 index, D-018-35)",
+   "fond_or_film": null,
+   "book": "Roman Catholic marriage register of Senné",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Senne RC', part final, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "6",
+    "date": "13 February [1878]",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 6, 13 February: Mihály Thur, son of an urbarial farmer, son of Mihály Thur and Mária Sztricskó, Szenna 90, Roman Catholic, 24, bachelor; Mária Nyemcsik, daughter of an urbarial farmer, daughter of György Nyemcsik and [Erzsébet?] Minarcsik, Szenna 89, Roman Catholic, 20, spinster; witnesses György Harbulyák and János Cservenák, tillers. The mother's surname, begun 'Minar[..]' on the smaller image, reads Minarcsik here; her given name is not on the strip. The groom's mother is Sztricskó, where the earlier reading had Kosztr[u]cs[ka]. The entry already held as D-018-06, cut differently.",
+    "reading": "high; medium for Sztricskó"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "6. | Febr. 13. | Thur Mihály urb. gazda fia; Thur Mihály, Sztricskó Mária földmívelők | Szenna 90 | Rk. 24 | nőtlen || Nyemcsik Mária urb. gazda leány; Nyemcsik György, Minarcsik | Szenna 89 | Rk. 20 | hajadon | Harbulyák György; Cservenák János földmívelők",
+    "english": "Entry 6, 13 February: Mihály Thur, son of an urbarial farmer, son of Mihály Thur and Mária Sztricskó, Szenna 90, Roman Catholic, 24, bachelor; Mária Nyemcsik, daughter of an urbarial farmer, daughter of György Nyemcsik and [Erzsébet?] Minarcsik, Szenna 89, Roman Catholic, 20, spinster; witnesses György Harbulyák and János Cservenák, tillers. The mother's surname, begun 'Minar[..]' on the smaller image, reads Minarcsik here; her given name is not on the strip. The groom's mother is Sztricskó, where the earlier reading had Kosztr[u]cs[ka]. The entry already held as D-018-06, cut differently."
+   }
+  ]
+ },
+ {
+  "id": "D-023-15",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-627",
+  "file": "Marriage_of_Janos_Duska_1894.png",
+  "sha256": "7f4bc17696290a87a9b8eef6bd857113b46c9bcc181b6c786e43e521b3ec7a4e",
+  "wide": true,
+  "title": "Marriage of János Duska and Anna Opsitnyik, 12 September 1898: another image, labelled by the owner 1894",
+  "span": "12 September 1898",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Janos Duska 1894",
+  "family": "FG-54",
+  "route": "duska",
+  "part": "Senne RC, part 2",
+  "provenance": {
+   "archive": "Senné Roman Catholic marriage books (1863 to 1886 and 1887 to 1926 are both in the owner's 2022 index, D-018-35)",
+   "fond_or_film": null,
+   "book": "Roman Catholic marriage register of Senné",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Senne RC', part 2, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "5",
+    "date": "12 September 1898",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "The entry of 12 September 1898 (FG-54), the owner's label giving 1894. The entry already held as D-018-24, cut differently.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "5. | 1898 szeptember 12. | Duska János zsellér | Szenna 39 | rk. | 1877 aug. 4. | nőtlen | Duska György rk. zsellér, Schwarcz Erzsébet rk. sz. Ribnyicze || Opsitnyik Anna | Szenna 75 | 1879 nov. 1. | hajadon",
+    "english": "The entry of 12 September 1898 (FG-54), the owner's label giving 1894. The entry already held as D-018-24, cut differently."
+   }
+  ]
+ },
+ {
+  "id": "D-023-16",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-628",
+  "file": "Marriage_of_Maria_Duska_and_Michael_Unknown_1866.png",
+  "sha256": "64b94fa971fbd6cc5954afbe7d94ae42cf384b7e41dd5f6c65d9257f5f24b950",
+  "wide": true,
+  "title": "Marriage of Michael Varovszki, widower, and Maria Duska, Csecsehó, [1866]",
+  "span": "[1866]",
+  "language": "Latin",
+  "collector_label": "Marriage of Maria Duska and Michael Unknown 1866",
+  "family": null,
+  "route": "duska",
+  "part": "Senne RC, part 3",
+  "provenance": {
+   "archive": "Senné Roman Catholic marriage books (1863 to 1886 and 1887 to 1926 are both in the owner's 2022 index, D-018-35)",
+   "fond_or_film": null,
+   "book": "Roman Catholic marriage register of Senné",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Senne RC', part 3, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "5",
+    "date": "[1866]",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 5, the date 'ditto': Michael Varovszki, widower, 32, and Maria Duska, 25, unmarried, both Roman Catholic, of Csecsehó (Szenna) 47; witnesses Paulus Butkovszki and Michael Jenak; 'dimissus et promulgati'. Maria Duska was born about 1841. Not attached; a daughter of one of the two old men of house 6 would fit her age.",
+    "reading": "high; the year from the label"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "5. | dtto | Michael Varovszki; Maria Duska | Csecseho Szenna Csecseho 47 | R.C. | 32; 25 | viduus; coelebs | Paulus Butkovszki; Michael Jenak | dtto | dimissus et promulg.",
+    "english": "Entry 5, the date 'ditto': Michael Varovszki, widower, 32, and Maria Duska, 25, unmarried, both Roman Catholic, of Csecsehó (Szenna) 47; witnesses Paulus Butkovszki and Michael Jenak; 'dimissus et promulgati'. Maria Duska was born about 1841. Not attached; a daughter of one of the two old men of house 6 would fit her age."
+   }
+  ]
+ },
+ {
+  "id": "D-023-17",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-629",
+  "file": "Marriage_of_Maria_Duska_1925.png",
+  "sha256": "9e301e2844b66ca6dd0a020fbf0acc283ff7ea96512e2475dc25cf85cccdb7cf",
+  "wide": true,
+  "title": "Marriage of András Ihnát and Mária Buska of Jesztreb, 22 September 1925: filed by the owner as Maria Duska",
+  "span": "22 September 1925",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Maria Duska 1925",
+  "family": null,
+  "route": "duska",
+  "part": "Senne RC, part 3",
+  "provenance": {
+   "archive": "Senné Roman Catholic marriage books (1863 to 1886 and 1887 to 1926 are both in the owner's 2022 index, D-018-35)",
+   "fond_or_film": null,
+   "book": "Roman Catholic marriage register of Senné",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Senne RC', part 3, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "18",
+    "date": "22 September 1925",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 18 of 1925, 22 September: András Ihnát, farmer, of Jesztreb, Greek Catholic, born 18 January 1903, son of György Ihnát and Anna Farkas; Mária Buska, of Jesztreb, Roman Catholic, born 3 December 1902, daughter of János Buska, farmer, and Mária Kolyibás. The surname is written Buska, with a clear B, as the Demko agent also reads it. A Jesztreb family; whether Buska is a form of Duska is not shown.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "18. | 1925 szeptember 22. | Ihnát András földmíves; Buska Mária | Jesztreb | gör. k.; róm. k. | sz. 1903 jan. 18.; sz. 1902 decz. 3. | Ihnát György, Farkas Anna; Buska János gazda, Kolyibás Mária | Kolyibás Mihály; Safin[?] János",
+    "english": "Entry 18 of 1925, 22 September: András Ihnát, farmer, of Jesztreb, Greek Catholic, born 18 January 1903, son of György Ihnát and Anna Farkas; Mária Buska, of Jesztreb, Roman Catholic, born 3 December 1902, daughter of János Buska, farmer, and Mária Kolyibás. The surname is written Buska, with a clear B, as the Demko agent also reads it. A Jesztreb family; whether Buska is a form of Duska is not shown."
+   }
+  ]
+ },
+ {
+  "id": "D-023-18",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-630",
+  "file": "Marriage_of_Gyorgy_Duska_MAYBE_1874.png",
+  "sha256": "6690bb2e1bc01ab144907fd5285cde841e7f207ea4d703a2f14c821ff52bb55a",
+  "wide": true,
+  "title": "Marriage of György Szi[k]sza and Zsuzsanna Kecskemár[?], widow, Palin, 25 May [1874]: filed by the owner as 'Gyorgy Duska MAYBE'",
+  "span": "25 May [1874]",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Gyorgy Duska MAYBE 1874",
+  "family": null,
+  "route": "duska",
+  "part": "Senne RC, part 1",
+  "provenance": {
+   "archive": "Senné Roman Catholic marriage books (1863 to 1886 and 1887 to 1926 are both in the owner's 2022 index, D-018-35)",
+   "fond_or_film": null,
+   "book": "Roman Catholic marriage register of Senné",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Senne RC', part 1, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "7",
+    "date": "25 May [1874]",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 7, 25 May: György Szi[k]sza, son of György Szi[k]sza and Anna Oláh, of Palin 107, Roman Catholic, 25; Zsuzsanna Kecskemár[?], widow of a Palinszki, of [Kis] Kereva[?], Roman Catholic, 19; witnesses György Kocsely and Mihály Bobik. No Duska in the entry; the owner's 'MAYBE' is answered no.",
+    "reading": "low"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "7. | Majus 25. | Szi[k]sza György, Szi[k]sza György Oláh Anna fia; Kecskemár[?] Zsuzsanna özvegy Palinszki[...] | Palin 107 | Rk. 25; Rk. 19 | hajadon | Kocsely György; Bobik Mihály",
+    "english": "Entry 7, 25 May: György Szi[k]sza, son of György Szi[k]sza and Anna Oláh, of Palin 107, Roman Catholic, 25; Zsuzsanna Kecskemár[?], widow of a Palinszki, of [Kis] Kereva[?], Roman Catholic, 19; witnesses György Kocsely and Mihály Bobik. No Duska in the entry; the owner's 'MAYBE' is answered no."
+   }
+  ]
+ },
+ {
+  "id": "D-023-19",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-631",
+  "file": "Marriage_of_Unknown_Nyemcsik_Female_1886.png",
+  "sha256": "b42eb2567e24f9307b095afca793f9495cbfbed86fc6e2d5a31608ec90de6fcf",
+  "wide": true,
+  "title": "Marriage of András Tkács and Anna Nyemcsik, daughter of János Nyemcsik of Barkó, Szenna, 22 February 1886",
+  "span": "22 February 1886",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Unknown Nyemcsik Female 1886",
+  "family": "FG-57",
+  "route": "duska",
+  "part": "Senne RC, part final",
+  "provenance": {
+   "archive": "Senné Roman Catholic marriage books (1863 to 1886 and 1887 to 1926 are both in the owner's 2022 index, D-018-35)",
+   "fond_or_film": null,
+   "book": "Roman Catholic marriage register of Senné",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Senne RC', part final, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "7",
+    "date": "22 February 1886",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 7 of 1886, 22 February: András Tkács, cottar, of Kis Szeretva 18, Szenna 31, Roman Catholic, 23, bachelor; son of András Tkács, cottar of Dubróka, and Zsuzsanna Bajurcsik, Greek Catholic. Anna Nyemcsik, cottar's daughter, of Szenna 116, Roman Catholic, 20, spinster; daughter of János Nyemcsik, Roman Catholic cottar of Barkó, and Mária Józsa[?], Roman Catholic, of Szenna. Witnesses János Holyis and János Macko; married by Lajos Schmidt, chaplain. The János Nyemcsik of Barkó (D-018-21) is a different man from Ahn 34, who died in 1878.",
+    "reading": "high; low for the bride's mother"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "7. | 1886 Febr. 22. | Tkács András zsellér; Nyemcsik Anna zsellérleány | Kis Szeretva 18; Szenna 116 | Szenna 31 | Rk. 23; Rk. 20 | nőtlen; hajadon | Tkács András rk. zsellér Dubróka, Bajurcsik Zsuzsanna gk.; Nyemcsik János rk. zsellér Barkó, Józsa[?] Mária rk. Szenna | Holyis János rk. gazda; Macko János gk. gazda | Schmidt Lajos káplán",
+    "english": "Entry 7 of 1886, 22 February: András Tkács, cottar, of Kis Szeretva 18, Szenna 31, Roman Catholic, 23, bachelor; son of András Tkács, cottar of Dubróka, and Zsuzsanna Bajurcsik, Greek Catholic. Anna Nyemcsik, cottar's daughter, of Szenna 116, Roman Catholic, 20, spinster; daughter of János Nyemcsik, Roman Catholic cottar of Barkó, and Mária Józsa[?], Roman Catholic, of Szenna. Witnesses János Holyis and János Macko; married by Lajos Schmidt, chaplain. The János Nyemcsik of Barkó (D-018-21) is a different man from Ahn 34, who died in 1878."
+   }
+  ]
+ },
+ {
+  "id": "D-023-20",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-632",
+  "file": "Marriage_of_Maria_Nyemcsik_1891.png",
+  "sha256": "e2a5e9f8c624358b344367ea5a83f9ce986d6a98f485361118279aecfd4a498d",
+  "wide": true,
+  "title": "Marriage of András Hankoscsák and Mária Nyemcsik, 25 May 1891: another image",
+  "span": "25 May 1891",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Maria Nyemcsik 1891",
+  "family": "FG-75",
+  "route": "duska",
+  "part": "Senne RC, part 3",
+  "provenance": {
+   "archive": "Senné Roman Catholic marriage books (1863 to 1886 and 1887 to 1926 are both in the owner's 2022 index, D-018-35)",
+   "fond_or_film": null,
+   "book": "Roman Catholic marriage register of Senné",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Senne RC', part 3, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "9",
+    "date": "25 May 1891",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "The marriage of 25 May 1891: András Hankoscsák, born 25 August 1868, and Mária Nyemcsik, born 12 August 1872, daughter of Mihály Nyemcsik and Anna Obsitnyik; the witness György Duska, Roman Catholic cottar. The entry already held as D-018-17, cut differently.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "9. | 1891 Május 25. | Hankoscsák András gazdafiu; Nyemcsik Mária zsellér leány | Szenna 47; Szenna 34 | r.k. | 1868 aug. 25.; 1872 aug. 12. | Hankoscsák János, Gdovicsin Mária; Nyemcsik Mihály, Obsitnyik Anna | Duska György r.k. zsellér; ifj. Hankoscsák József | Rusznák István",
+    "english": "The marriage of 25 May 1891: András Hankoscsák, born 25 August 1868, and Mária Nyemcsik, born 12 August 1872, daughter of Mihály Nyemcsik and Anna Obsitnyik; the witness György Duska, Roman Catholic cottar. The entry already held as D-018-17, cut differently."
+   }
+  ]
+ },
+ {
+  "id": "D-023-21",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-633",
+  "file": "Marriage_of_Andras_Duska_and_Borbala_Plyuchta__-likely__1827.png",
+  "sha256": "0a8352bebf4f25ff455d0400e5c6379c431ca53b36a59035931e7f5b0fc2286f",
+  "wide": true,
+  "title": "Reformed marriage of András Duska, son of Pál Duska, and Borbála Plyuchta, 14 February [1827]",
+  "span": "14 February [1827]",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Andras Duska and Borbala Plyuchta  -likely  1827",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce RC, part full",
+  "provenance": {
+   "archive": "Not stated on the strip; by the owner's folder names, FamilySearch images of the parish books",
+   "fond_or_film": null,
+   "book": "Reformed marriage register of Solymos (Iňačovce): the owner's 'RC' is the Reformed church here, as the entries show (Helv. V.)",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Inacovce RC', part full, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "2",
+    "date": "14 February [1827]",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 2, 14 February, in running Hungarian: Pál Duska's son, the young man András Duska, of the Helvetic confession, took to wife Borbála Plyuchta, daughter of András Plyuchta, after the three lawful banns; the priest issued the certificate. Witness András Kállai. A Reformed Duska of Solymos (rule 30): not attached. Borbála Plyuchta died at Solymos in January 1847 aged 43 (D-013-79).",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "2. | 14 Februarij | Duska Pál fiának, Duska András ifjú legénynek Helv. V. ... Plyuhta András ... leányát Plyuhta Borbálát vette feleségül ... a háromszori törvényes kihirdetés után kiadtam a bizonyság levelet | Kállai András",
+    "english": "Entry 2, 14 February, in running Hungarian: Pál Duska's son, the young man András Duska, of the Helvetic confession, took to wife Borbála Plyuchta, daughter of András Plyuchta, after the three lawful banns; the priest issued the certificate. Witness András Kállai. A Reformed Duska of Solymos (rule 30): not attached. Borbála Plyuchta died at Solymos in January 1847 aged 43 (D-013-79)."
+   }
+  ]
+ },
+ {
+  "id": "D-023-22",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-634",
+  "file": "Marriage_of_Gyorgy_Duska_1830.png",
+  "sha256": "627b52e12eaa09491e0035f4569bf5f02687c97cb755a98185676d1b0731c0f1",
+  "wide": true,
+  "title": "Reformed marriage of György Duska and Anna [Kozári?], 9 June [1830]",
+  "span": "9 June [1830]",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Gyorgy Duska 1830",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce RC, part full",
+  "provenance": {
+   "archive": "Not stated on the strip; by the owner's folder names, FamilySearch images of the parish books",
+   "fond_or_film": null,
+   "book": "Reformed marriage register of Solymos (Iňačovce): the owner's 'RC' is the Reformed church here, as the entries show (Helv. V.)",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Inacovce RC', part full, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "2",
+    "date": "9 June [1830]",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry 2, 9 June, in running Hungarian: the bachelor György Duska, of the Helvetic confession, took Anna, the maiden daughter of György [Kozári?] of Kis Szennaska[?], after three banns. Witness András Kállai. A Reformed Duska: not attached.",
+    "reading": "low for the bride's surname"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "2. | 9. Junij | Duska György nőtelen legénynek Helv. V. ... [Kozári] György hajadon leányát Annát ...",
+    "english": "Entry 2, 9 June, in running Hungarian: the bachelor György Duska, of the Helvetic confession, took Anna, the maiden daughter of György [Kozári?] of Kis Szennaska[?], after three banns. Witness András Kállai. A Reformed Duska: not attached."
+   }
+  ]
+ },
+ {
+  "id": "D-023-23",
+  "folder": "F-023",
+  "batch": "B-083",
+  "source": "S-635",
+  "file": "Marriage_of_Anna_Duska_1865.png",
+  "sha256": "c76ff3e7d2924a31ceb30e7d2d66910cdf3de711b998e2716c6b7965b2927441",
+  "wide": true,
+  "title": "Reformed marriage of János [Szereplya?] and Anna Duska, daughter of János, Solymos, 4 February [1865]",
+  "span": "4 February [1865]",
+  "language": "Hungarian",
+  "collector_label": "Marriage of Anna Duska 1865",
+  "family": null,
+  "route": "duska",
+  "part": "Inacovce RC, part full",
+  "provenance": {
+   "archive": "Not stated on the strip; by the owner's folder names, FamilySearch images of the parish books",
+   "fond_or_film": null,
+   "book": "Reformed marriage register of Solymos (Iňačovce): the owner's 'RC' is the Reformed church here, as the entries show (Helv. V.)",
+   "page_or_image": "the strip's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Marriages', sub-folder 'Inacovce RC', part full, sent through chat on 15 Nov 2026. A cropped strip."
+  },
+  "entries": [
+   {
+    "no": "2",
+    "date": "4 February [1865]",
+    "from": "Church marriage register (original record, cropped strip)",
+    "abstract": "Entry of 4 February: János [Szereplya?], son of Mihály, tiller, of [S. Keresztes?] 16, Reformed, 26, bachelor; Anna Duska, daughter of János, tiller, of Solymos 33, Reformed, 23, spinster. A Reformed Duska of Solymos 33, the house where a János Duska died in 1877 (D-013-89). Not attached.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, column by column. Square brackets mark doubtful readings; a year in brackets is from the owner's file name only.",
+    "original": "Febr. 4. | [Szereplya] János Mihály fia földmívelő | Helv. 26 nőtlen || Duska Anna János leánya földmívelő | Solymos 33 | Helv. 23 hajadon | Dzurina András; Kozák Pál",
+    "english": "Entry of 4 February: János [Szereplya?], son of Mihály, tiller, of [S. Keresztes?] 16, Reformed, 26, bachelor; Anna Duska, daughter of János, tiller, of Solymos 33, Reformed, 23, spinster. A Reformed Duska of Solymos 33, the house where a János Duska died in 1877 (D-013-89). Not attached."
    }
   ]
  }
