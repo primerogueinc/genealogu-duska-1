@@ -385,5 +385,21 @@
   ],
   "proof": "lead",
   "kind": "outside"
+ },
+ {
+  "id": "L-039",
+  "kind": "outside",
+  "title": "Fifty-nine strips of the Senné Roman Catholic book, 1901 to 1925, routed to this line, held in the Demko agent's repository",
+  "bears_on": [
+   "H-103",
+   "H-090",
+   "FG-48",
+   "FG-49",
+   "FG-50",
+   "FG-54"
+  ],
+  "url": "https://github.com/primerogueinc/genealogy-demko-1/tree/main/archive/senne-roman-catholic-1901-1925",
+  "note": "Given by the owner to the Demko agent in chat (DM-B-028). Not in this repository. To be read here from the images, without the Demko agent's readings in view.",
+  "batch": "B-081"
  }
 ]

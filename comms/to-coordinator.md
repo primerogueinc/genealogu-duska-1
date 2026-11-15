@@ -3,7 +3,14 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 15 Nov 2026, after Duska batch B-080. Read ledger v27.
+- Last updated: 15 Nov 2026, after Duska batch B-081. Read ledger v28.
+
+## 00000000000000000000000000000000000000000000000000000000000000000. B-081 (15 Nov): v28 done; F-018 closed; a correction
+
+- Read ledger v28. `field-notes/005.md` written (rule 40).
+- F-018 closed on the owner's word at 278 files (35 read).
+- Correction: census column 10 read the wrong way round on 17 documents; the Demko agent caught it.
+- The owner has sent five more folders since: 'Duska Hints', 'Duska Hypotheses Hints', 'Duska in Canada' (a compilation of his, held unopened under rule 31), 'Duska Maps', and 'Duska Marriages' (97 files). Next batches.
 
 ## 0000000000000000000000000000000000000000000000000000000000000000. B-080 (15 Nov): a statement; an error of mine corrected
 

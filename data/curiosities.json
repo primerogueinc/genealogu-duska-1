@@ -1524,5 +1524,16 @@
   "translation": "The owner's own words, in the folder's name.",
   "why": "An archive that contains an unlabelled improved edition of itself.",
   "tone": "funny"
+ },
+ {
+  "id": "C-155",
+  "doc": "D-018-35",
+  "source": "S-593",
+  "title": "Examinjaton",
+  "text": "The owner's guide to the FamilySearch images he had not yet worked through, 2022, is titled in its own file name 'Index for Examinjaton of Unindexed FamilySearch Documents'. It is a careful document: fourteen image groups, each with a count, a span, a rite and a link, two of them flagged in capitals 'NOT SENNE'. The only thing in it not examined is the word 'examination'.",
+  "original": "Index_for_Examinjaton_of_Unindexed_FamilySearch_Documents.docx",
+  "translation": "The owner's own file name.",
+  "why": "A meticulous index with a typo in its own title.",
+  "tone": "wry"
  }
 ]

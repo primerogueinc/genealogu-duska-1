@@ -3328,7 +3328,18 @@
       "document": "D-018-34"
     }
   ],
-  "held": [],
+  "held": [
+    {
+      "file": "Index_for_Examinjaton_of_Unindexed_FamilySearch_Documents.docx",
+      "sha256": "94cc486e2d2b1ecc313721a1a1f4ebc0e625b5e7e724ca5d6f50e3a067ba426a",
+      "bytes": 16144,
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "sub_folder": "(folder root)",
+      "document": "D-018-35",
+      "why_held": "A Word file whose properties carry an account name. Its text, 34 paragraphs, is published as text/Index_for_Examinjaton_of_Unindexed_FamilySearch_Documents.txt; the file itself is kept out of the public repository."
+    }
+  ],
   "copies": [
     {
       "file": "1896_-_Baptism_of_Anna_Duska_daughter_of_Gyorgy_and_Anna_Halasz.png",
@@ -3429,5 +3440,6 @@
       "part": "17",
       "note": "Sent twice by the owner within a minute, once as '18' and once as '17'; byte for byte the same file."
     }
-  ]
+  ],
+  "status": "complete"
 }

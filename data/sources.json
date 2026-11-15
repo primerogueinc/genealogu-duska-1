@@ -672,6 +672,14 @@
   "reliability": "The owner sends five more parts. The first message marked '18' and the one marked '17' carry the same eleven files; they are taken as part 17 sent twice. He does not say whether 20 is the last."
  },
  {
+  "id": "S-000-48",
+  "batch": "B-081",
+  "type": "Statement by the subject",
+  "title": "Kevin J.S. Duska Jr., Duska chat, 15 Nov 2026 (UTC): the folder 'found outside of collection' closed",
+  "extract": "\"folder done\"; then, with one Word file: \"random file in full folder closed\".",
+  "reliability": "The owner closes F-018 and adds its last file, his index of unindexed FamilySearch image groups."
+ },
+ {
   "id": "S-038",
   "batch": "B-011",
   "type": "Parish baptism register, single entry (image strip)",
@@ -2452,7 +2460,7 @@
   "batch": "B-033",
   "type": "Census household sheet (original record, screen capture)",
   "title": "Census of 1930, Senné, house 145: Andrej Duška, his wife Anna, their daughter-in-law Maria and grandson Štefan",
-  "extract": "House 145, owner Andrej Duška, on the night of 1 to 2 December 1930. Andrej Duška, head, born 24 November 1868 at Senné, married, a farm day-labourer who can neither read nor write. Anna, his wife, born 24 August 1872 at Senné, married on 18 January 1892, mother of twelve children of whom nine are living; she can read. Juraj, their son, born 2 March 1910, single, a day-labourer. Maria Dušková, 'daughter-in-law of the head', born 15 August 1907 at Iňačovce, Greek Catholic, married on 30 January 1927 and living in Senné since that day. Štefan Duška, 'grandson', born 23 October 1929 at Senné, Roman Catholic. Maria's husband is not in the house. This is the record that names Michal Duska's parents. Štefan, born 23 October 1929, son of a Greek Catholic Maria from Iňačovce, is the Štefan of the 1937 passport and court consent, whose father was Michal. He is entered as the grandson, and his mother as the daughter-in-law, of Andrej and Anna, married 18 January 1892: the András Duska and Anna Nyemcsik of the marriage entry D-006-03, whose son Mihály was baptised on 3 July 1903 (D-009-79). Maria's date of birth here, 15 August 1907, differs from her passport's 22 August 1906; her father-in-law, who could not read, was probably the informant.",
+  "extract": "House 145, owner Andrej Duška, on the night of 1 to 2 December 1930. Andrej Duška, head, born 24 November 1868 at Senné, married, a farm day-labourer who can neither read nor write. Anna, his wife, born 24 August 1872 at Senné, married on 18 January 1892, mother of twelve children born alive, of whom nine had died [corrected at B-081: the column is 'of them died']; she can read. Juraj, their son, born 2 March 1910, single, a day-labourer. Maria Dušková, 'daughter-in-law of the head', born 15 August 1907 at Iňačovce, Greek Catholic, married on 30 January 1927 and living in Senné since that day. Štefan Duška, 'grandson', born 23 October 1929 at Senné, Roman Catholic. Maria's husband is not in the house. This is the record that names Michal Duska's parents. Štefan, born 23 October 1929, son of a Greek Catholic Maria from Iňačovce, is the Štefan of the 1937 passport and court consent, whose father was Michal. He is entered as the grandson, and his mother as the daughter-in-law, of Andrej and Anna, married 18 January 1892: the András Duska and Anna Nyemcsik of the marriage entry D-006-03, whose son Mihály was baptised on 3 July 1903 (D-009-79). Maria's date of birth here, 15 August 1907, differs from her passport's 22 August 1906; her father-in-law, who could not read, was probably the informant.",
   "reliability": "Dates as the household told the enumerator; a head who could not read may be a year out on a daughter-in-law. Reading level: medium. The owner's file name is a label and is not evidence."
  },
  {
@@ -5110,5 +5118,13 @@
   "title": "Burial of András Duska, cottar, husband of Anna Ja[f]urics, aged 60, Jesztreb, 24 December 1891: a second image; the owner's label says 1901",
   "extract": "Entry 35 of 1891, 24 December: András Duska, husband of Anna Ja[f]urics, cottar; Jesztreb; male; 60 years old; cause, pneumonia; sacraments: 'no; the illness was not thought serious'; buried at Jesztreb on 26 December by István Rusznák, dean and parish priest. The entry already held as D-013-104. The owner's file name here gives 1901; the year in the entry is 1891.",
   "reliability": "A register entry made by the parish at the event. Reading level: high. The year is in the entry."
+ },
+ {
+  "id": "S-593",
+  "batch": "B-081",
+  "type": "The owner's working file (a guide to collections)",
+  "title": "Index for Examinjaton of Unindexed FamilySearch Documents (Word file, 2022)",
+  "extract": "The owner's own guide, made in March and April 2022, to the FamilySearch image groups he had not yet worked into his collection: headed 'Family Search Images – Not yet Integrated into Collection'. Fourteen entries, each a place, a span, a rite and a link with an image count: for Senné, Roman Catholic deaths 1831 to 1877 (118 images), Greek Catholic baptisms, deaths and marriages 1882 to 1895 (68), Roman Catholic marriages 1863 to 1886 (45), Greek Catholic deaths 1859 to 1867 (20), Greek Catholic baptisms, deaths and marriages 1868 to 1899 (96), Roman Catholic baptisms 1866 to 1912 (174), Roman Catholic deaths 1887 to 1925 (165), Roman Catholic marriages 1887 to 1926 (98), Roman Catholic deaths 1877 to 1886 (24); two groups he marks 'NOT SENNE' (Roman Catholic baptisms 1818 to 1881, 195 images, and a set of 46); and for Iňačovce, Reformed baptisms from 1819 (43 images), with the headings 'SOLYMOS, UNG, HUNGARY' and 'UNG, HUNGARY'. It names no person. It explains the folder: this is his second pass, in 2022, over unindexed image groups, which is why the strips repeat entries from his earlier folders. A guide to collections, so read under rule 31.",
+  "reliability": "Made by the owner in 2022 from FamilySearch's browsable images. Names no person. Read under rule 31."
  }
 ]

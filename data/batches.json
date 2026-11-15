@@ -2875,6 +2875,23 @@
    "S-591",
    "S-592"
   ],
+  "committed_utc": "2026-11-15T10:41:26Z"
+ },
+ {
+  "id": "B-081",
+  "date": "2026-11-15",
+  "title": "Ledger v28; the folder 'found outside of collection' closed; the census read the wrong way round",
+  "folder": "F-018",
+  "files": 1,
+  "blurb": "The owner closed the folder found outside his collection and sent its last file: his own index, from 2022, of the FamilySearch image groups he had not yet worked into his archive. It names nobody, and it explains the folder: a second pass over unindexed images, which is why so many strips repeat what he had sent before. The folder is closed at 278 files; 243 strips are archived and still unread, and I say so plainly. Ledger v28 asked each agent for a fifth set of field notes, a roast of the owner at his own request; it is written. And a correction against me: on the 1930 census sheets I read the column 'of them died' as children living, on 17 documents. The Demko agent caught it; the burials agree with him. Turned round. Curiosities: 1.",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-48",
+   "S-593"
+  ],
   "committed_utc": null
  }
 ]

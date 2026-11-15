@@ -11455,8 +11455,15 @@
   "transcriptions": [
    {
     "label": "As written. Square brackets mark doubtful or supplied readings.",
-    "original": "Československá republika. · Csehszlovák köztársaság. | Sčítanie ľudu 1930. · Népszámlálás 1930. | Popisný hárok / Összeírási ív || Politický okres: Veľké Kapušany | Obec: Beša | Číslo domu: 1[0]4 | [house owner] Schwarcz Ignác || A. Osoby v dome prítomné v noci z 1. na 2. decembra 1930 || 1 | 1 | Schwarcz | Ignác | háztulajd[onos] | férfi | 1865 márc. 2 | nős | [born] [...], V. Kapušany, Slovensko | [in the commune since] 1870 jan. | csszl. | Beša, V. Kapušany, Slovensko | zsidó | izr. | olvas és ír | kereskedő | önálló || 2 | Schwarcz | Fanny | házastársa | nő | 1868 aug. 8 | férjes | [married] 1886 szept. | [children] 8, [living] 2 | Beša || 3 | Schwarcz | Lipót | gyermeke | férfi | 1888 jan. 1 | nős | Beša | kereskedő || 4 | Schwarcz | Hermin | menye | nő | 1894 szept. 21 | férjes | [married] 1920 jan. 6 | [children] 3, 1 [?] | [born] [V]aján[y] [?] | [in the commune since] 1920 jan. 6 || 5 | Schwarcz | Vilmos | unokája | férfi | 1921 márc. 8 | nőtlen | Beša || 6 | Schwarcz | Edit | unokája | nő | 192[3] dec. 6 | hajadon | Beša || 7 | Schwarcz | Tibor | unokája | férfi | 1926 okt. 6 | nőtlen | Beša || [every person] csszl. | Beša, V. Kapušany, Slovensko | zsidó | izr. || [green pencil figures over many cells: the statistical office's coding]",
+    "original": "Československá republika. · Csehszlovák köztársaság. | Sčítanie ľudu 1930. · Népszámlálás 1930. | Popisný hárok / Összeírási ív || Politický okres: Veľké Kapušany | Obec: Beša | Číslo domu: 1[0]4 | [house owner] Schwarcz Ignác || A. Osoby v dome prítomné v noci z 1. na 2. decembra 1930 || 1 | 1 | Schwarcz | Ignác | háztulajd[onos] | férfi | 1865 márc. 2 | nős | [born] [...], V. Kapušany, Slovensko | [in the commune since] 1870 jan. | csszl. | Beša, V. Kapušany, Slovensko | zsidó | izr. | olvas és ír | kereskedő | önálló || 2 | Schwarcz | Fanny | házastársa | nő | 1868 aug. 8 | férjes | [married] 1886 szept. | [born alive] 8, [of them dead] 2 | Beša || 3 | Schwarcz | Lipót | gyermeke | férfi | 1888 jan. 1 | nős | Beša | kereskedő || 4 | Schwarcz | Hermin | menye | nő | 1894 szept. 21 | férjes | [married] 1920 jan. 6 | [children] 3, 1 [?] | [born] [V]aján[y] [?] | [in the commune since] 1920 jan. 6 || 5 | Schwarcz | Vilmos | unokája | férfi | 1921 márc. 8 | nőtlen | Beša || 6 | Schwarcz | Edit | unokája | nő | 192[3] dec. 6 | hajadon | Beša || 7 | Schwarcz | Tibor | unokája | férfi | 1926 okt. 6 | nőtlen | Beša || [every person] csszl. | Beša, V. Kapušany, Slovensko | zsidó | izr. || [green pencil figures over many cells: the statistical office's coding]",
     "english": "A household sheet of the Czechoslovak census of 1930, printed in Slovak and Hungarian and filled in in Hungarian: Beša, district of Veľké Kapušany, house 1[0]4, owner Ignác Schwarcz, for the night of 1 to 2 December 1930. Seven people, three generations. Ignác Schwarcz, house owner, born 2 March 1865, married, a merchant on his own account, in the village since January 1870. Fanny, his wife, born 8 August 1868, married in September 1886, mother of eight children of whom two are entered beside it. Lipót, their son, born 1 January 1888, married, a merchant. Hermin, their daughter-in-law, born 21 September 1894, married on 6 January 1920 and in the village from that day. The grandchildren Vilmos (8 March 1921), Edit (6 December 192[3]) and Tibor (6 October 1926). All are Czechoslovak citizens with their home commune at Beša; nationality is entered as Jewish and religion as Israelite; the adults read and write. There is no Duska and no Demko on the sheet. The owner's file is numbered 1 and his folder is called 'whole', so this is all he kept from Beša. The only Schwarz in this archive is Erzsébet Schwarz of Alsó-Ribnicze, the Catholic wife of György Duska the younger of Senné; nothing on this sheet connects the two."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -11643,7 +11650,7 @@
     "no": "house 145",
     "date": "1 to 2 Dec 1930",
     "from": "Census household sheet (original record, screen capture)",
-    "abstract": "House 145, owner Andrej Duška, on the night of 1 to 2 December 1930. Andrej Duška, head, born 24 November 1868 at Senné, married, a farm day-labourer who can neither read nor write. Anna, his wife, born 24 August 1872 at Senné, married on 18 January 1892, mother of twelve children of whom nine are living; she can read. Juraj, their son, born 2 March 1910, single, a day-labourer. Maria Dušková, 'daughter-in-law of the head', born 15 August 1907 at Iňačovce, Greek Catholic, married on 30 January 1927 and living in Senné since that day. Štefan Duška, 'grandson', born 23 October 1929 at Senné, Roman Catholic. Maria's husband is not in the house. This is the record that names Michal Duska's parents. Štefan, born 23 October 1929, son of a Greek Catholic Maria from Iňačovce, is the Štefan of the 1937 passport and court consent, whose father was Michal. He is entered as the grandson, and his mother as the daughter-in-law, of Andrej and Anna, married 18 January 1892: the András Duska and Anna Nyemcsik of the marriage entry D-006-03, whose son Mihály was baptised on 3 July 1903 (D-009-79). Maria's date of birth here, 15 August 1907, differs from her passport's 22 August 1906; her father-in-law, who could not read, was probably the informant. [B-050: the burial book shows thirteen children and eight burials by 1918; 'twelve, of whom nine living' is to be read again from the sheet.]",
+    "abstract": "House 145, owner Andrej Duška, on the night of 1 to 2 December 1930. Andrej Duška, head, born 24 November 1868 at Senné, married, a farm day-labourer who can neither read nor write. Anna, his wife, born 24 August 1872 at Senné, married on 18 January 1892, mother of twelve children of whom nine had died; she can read. Juraj, their son, born 2 March 1910, single, a day-labourer. Maria Dušková, 'daughter-in-law of the head', born 15 August 1907 at Iňačovce, Greek Catholic, married on 30 January 1927 and living in Senné since that day. Štefan Duška, 'grandson', born 23 October 1929 at Senné, Roman Catholic. Maria's husband is not in the house. This is the record that names Michal Duska's parents. Štefan, born 23 October 1929, son of a Greek Catholic Maria from Iňačovce, is the Štefan of the 1937 passport and court consent, whose father was Michal. He is entered as the grandson, and his mother as the daughter-in-law, of Andrej and Anna, married 18 January 1892: the András Duska and Anna Nyemcsik of the marriage entry D-006-03, whose son Mihály was baptised on 3 July 1903 (D-009-79). Maria's date of birth here, 15 August 1907, differs from her passport's 22 August 1906; her father-in-law, who could not read, was probably the informant. [B-050: the burial book shows thirteen children and eight burials by 1918; 'twelve, of whom nine dead' (corrected at B-081).]",
     "reading": "medium"
    }
   ],
@@ -11651,7 +11658,7 @@
    {
     "label": "The filled columns, as written. Square brackets mark doubtful or supplied readings.",
     "original": "Politický okres: Veľ. Kapušany | Obec: Senné | Číslo domové 145 | Meno majiteľa domu: Andrej Duška || 1 | 1 Duška Andrej | majiteľ bytu | mužské | 24. nov. 1868 | ženatý | [born] Senné, V. Kapušany, Slovensko | čsl., Senné | slovenská | rím. kat. | ani čítať ani písať | roľnícky robotník, nádenník | trvale || 2 Dušková Anna | manželka | ženské | 24. aug. 1872 | vydatá | 18. jan. 1892 | 12, 9 | Senné | rím. kat. | len čítať || 3 Duška Juraj | syn | 2. mar. 1910 | slobodný | roľnícky robotník, nádenník || 4 Dušková Maria | nevesta majiteľa bytu | ženské | 15. aug. 1907 | vydatá | 30. jan. 1927 | 1 | [born] Iňačovce, Michalovce, Slovensko | [in the commune since] 30. jan. 1927, [from] Iňačovce, Michalovce | gr. kat. | čítať a písať || 5 Duška Štefan | vnuk | mužské | 23. okt. 1929 | slobodný | Senné | rím. kat.",
-    "english": "House 145, owner Andrej Duška, on the night of 1 to 2 December 1930. Andrej Duška, head, born 24 November 1868 at Senné, married, a farm day-labourer who can neither read nor write. Anna, his wife, born 24 August 1872 at Senné, married on 18 January 1892, mother of twelve children of whom nine are living; she can read. Juraj, their son, born 2 March 1910, single, a day-labourer. Maria Dušková, 'daughter-in-law of the head', born 15 August 1907 at Iňačovce, Greek Catholic, married on 30 January 1927 and living in Senné since that day. Štefan Duška, 'grandson', born 23 October 1929 at Senné, Roman Catholic. Maria's husband is not in the house. This is the record that names Michal Duska's parents. Štefan, born 23 October 1929, son of a Greek Catholic Maria from Iňačovce, is the Štefan of the 1937 passport and court consent, whose father was Michal. He is entered as the grandson, and his mother as the daughter-in-law, of Andrej and Anna, married 18 January 1892: the András Duska and Anna Nyemcsik of the marriage entry D-006-03, whose son Mihály was baptised on 3 July 1903 (D-009-79). Maria's date of birth here, 15 August 1907, differs from her passport's 22 August 1906; her father-in-law, who could not read, was probably the informant."
+    "english": "House 145, owner Andrej Duška, on the night of 1 to 2 December 1930. Andrej Duška, head, born 24 November 1868 at Senné, married, a farm day-labourer who can neither read nor write. Anna, his wife, born 24 August 1872 at Senné, married on 18 January 1892, mother of twelve children of whom nine had died; she can read. Juraj, their son, born 2 March 1910, single, a day-labourer. Maria Dušková, 'daughter-in-law of the head', born 15 August 1907 at Iňačovce, Greek Catholic, married on 30 January 1927 and living in Senné since that day. Štefan Duška, 'grandson', born 23 October 1929 at Senné, Roman Catholic. Maria's husband is not in the house. This is the record that names Michal Duska's parents. Štefan, born 23 October 1929, son of a Greek Catholic Maria from Iňačovce, is the Štefan of the 1937 passport and court consent, whose father was Michal. He is entered as the grandson, and his mother as the daughter-in-law, of Andrej and Anna, married 18 January 1892: the András Duska and Anna Nyemcsik of the marriage entry D-006-03, whose son Mihály was baptised on 3 July 1903 (D-009-79). Maria's date of birth here, 15 August 1907, differs from her passport's 22 August 1906; her father-in-law, who could not read, was probably the informant."
    }
   ],
   "x_s": "X-S-011",
@@ -11664,7 +11671,14 @@
    "compared": [
     "D-011-41, the archive portal's own catalogue record for a sheet of the same box"
    ]
-  }
+  },
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
+   }
+  ]
  },
  {
   "id": "D-011-25",
@@ -12239,7 +12253,7 @@
     "no": "n/a",
     "date": "Dec 1930",
     "from": "Census sheet or list (screen capture)",
-    "abstract": "Enlargement: house 73, row 6, left half: 'vd. Chalahánová (Pošíková) Anna, matka', born 9 December 1858, married 14 November 1887, widowed 4 December 1896, four children, one living.",
+    "abstract": "Enlargement: house 73, row 6, left half: 'vd. Chalahánová (Pošíková) Anna, matka', born 9 December 1858, married 14 November 1887, widowed 4 December 1896, four children born alive, one of them dead.",
     "reading": "high"
    }
   ],
@@ -12247,7 +12261,14 @@
    {
     "label": "Summary.",
     "original": "[see the abstract]",
-    "english": "Enlargement: house 73, row 6, left half: 'vd. Chalahánová (Pošíková) Anna, matka', born 9 December 1858, married 14 November 1887, widowed 4 December 1896, four children, one living."
+    "english": "Enlargement: house 73, row 6, left half: 'vd. Chalahánová (Pošíková) Anna, matka', born 9 December 1858, married 14 November 1887, widowed 4 December 1896, four children born alive, one of them dead."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -13937,7 +13958,7 @@
     "no": "house 14",
     "date": "1 to 2 Dec 1930",
     "from": "Census household sheet (original record, screen capture)",
-    "abstract": "Juraj Kniežo, Reformed, born 3 April 1856; his wife Anna, Greek Catholic, born 15 August 1860, married 15 January 1878, six children, five living; a daughter-in-law Anna, born 13 December 1888, married 14 November 1907; a granddaughter Anna Onderko, born 31 October 1910, married 1927.",
+    "abstract": "Juraj Kniežo, Reformed, born 3 April 1856; his wife Anna, Greek Catholic, born 15 August 1860, married 15 January 1878, six children born alive, five of them dead; a daughter-in-law Anna, born 13 December 1888, married 14 November 1907; a granddaughter Anna Onderko, born 31 October 1910, married 1927.",
     "reading": "medium"
    }
   ],
@@ -13945,7 +13966,14 @@
    {
     "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
     "original": "[not transcribed line by line in this pass]",
-    "english": "Juraj Kniežo, Reformed, born 3 April 1856; his wife Anna, Greek Catholic, born 15 August 1860, married 15 January 1878, six children, five living; a daughter-in-law Anna, born 13 December 1888, married 14 November 1907; a granddaughter Anna Onderko, born 31 October 1910, married 1927."
+    "english": "Juraj Kniežo, Reformed, born 3 April 1856; his wife Anna, Greek Catholic, born 15 August 1860, married 15 January 1878, six children born alive, five of them dead; a daughter-in-law Anna, born 13 December 1888, married 14 November 1907; a granddaughter Anna Onderko, born 31 October 1910, married 1927."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -14132,7 +14160,7 @@
     "no": "house 165",
     "date": "1 to 2 Dec 1930",
     "from": "Census household sheet (original record, screen capture)",
-    "abstract": "Ján Kňežo, Reformed, born 5 December 1900; his wife Anna, born 24 December 1904 at Blatné Remety, married 8 September 1919; daughters Anna (10 May 1924) and Maria (16 May 1926); his mother Anna, widow, born 25 December 1870 at Hažín, married 10 June 1890, widowed 17 November 1922, ten children, eight living. A sixth row was not read.",
+    "abstract": "Ján Kňežo, Reformed, born 5 December 1900; his wife Anna, born 24 December 1904 at Blatné Remety, married 8 September 1919; daughters Anna (10 May 1924) and Maria (16 May 1926); his mother Anna, widow, born 25 December 1870 at Hažín, married 10 June 1890, widowed 17 November 1922, ten children born alive, eight of them dead. A sixth row was not read.",
     "reading": "medium"
    }
   ],
@@ -14140,7 +14168,14 @@
    {
     "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
     "original": "[not transcribed line by line in this pass]",
-    "english": "Ján Kňežo, Reformed, born 5 December 1900; his wife Anna, born 24 December 1904 at Blatné Remety, married 8 September 1919; daughters Anna (10 May 1924) and Maria (16 May 1926); his mother Anna, widow, born 25 December 1870 at Hažín, married 10 June 1890, widowed 17 November 1922, ten children, eight living. A sixth row was not read."
+    "english": "Ján Kňežo, Reformed, born 5 December 1900; his wife Anna, born 24 December 1904 at Blatné Remety, married 8 September 1919; daughters Anna (10 May 1924) and Maria (16 May 1926); his mother Anna, widow, born 25 December 1870 at Hažín, married 10 June 1890, widowed 17 November 1922, ten children born alive, eight of them dead. A sixth row was not read."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -14249,7 +14284,7 @@
     "no": "house 108",
     "date": "1 to 2 Dec 1930",
     "from": "Census household sheet (original record, screen capture)",
-    "abstract": "Juraj Kočiš, Greek Catholic, born 8 February 1882; his wife Barbora, Roman Catholic, born 6 October 1888, married 20 February 1905, five children, two living; Michal (7 October 1909), Anna (25 October 1920), Maria (6 December 1924).",
+    "abstract": "Juraj Kočiš, Greek Catholic, born 8 February 1882; his wife Barbora, Roman Catholic, born 6 October 1888, married 20 February 1905, five children born alive, two of them dead; Michal (7 October 1909), Anna (25 October 1920), Maria (6 December 1924).",
     "reading": "medium"
    }
   ],
@@ -14257,7 +14292,14 @@
    {
     "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
     "original": "[not transcribed line by line in this pass]",
-    "english": "Juraj Kočiš, Greek Catholic, born 8 February 1882; his wife Barbora, Roman Catholic, born 6 October 1888, married 20 February 1905, five children, two living; Michal (7 October 1909), Anna (25 October 1920), Maria (6 December 1924)."
+    "english": "Juraj Kočiš, Greek Catholic, born 8 February 1882; his wife Barbora, Roman Catholic, born 6 October 1888, married 20 February 1905, five children born alive, two of them dead; Michal (7 October 1909), Anna (25 October 1920), Maria (6 December 1924)."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -14288,7 +14330,7 @@
     "no": "house 117",
     "date": "1 to 2 Dec 1930",
     "from": "Census household sheet (original record, screen capture)",
-    "abstract": "Michal Demko, head and owner, Greek Catholic, born 28 August 1882 at Vysoká in the Veľké Kapušany district, living in Iňačovce since 19[0.]; his wife Zuzanna, born 28 April 1901 at Iňačovce, married on 3 February 1919, two children; Juraj Demko, son, born 17 September 1911; Anna Demková, daughter, born 12 November 1924; and Maria Kočišová, entered as mother-in-law, Roman Catholic, a widow, born 15 August 1863, married on 10 November 1879, three children, two living. This is the father of Maria Demko, Ahn 18: Mihály Demkó, baptised at Viszoka in August 1882. The sheet shows him with a second wife, married in 1919, when his daughter Maria was twelve, and with a son of 1911 by the first. The widow Maria Kočišová, born 1863 and married 1879, is of the right age to be Mária Knyezső, wife of Mihály Kocsis of Solymos 19 and mother of the Mária Kocsis born in 1887: his first wife's mother. Whether Zuzanna is her daughter too is not said. All of this is the Demko agent's to rule on.",
+    "abstract": "Michal Demko, head and owner, Greek Catholic, born 28 August 1882 at Vysoká in the Veľké Kapušany district, living in Iňačovce since 19[0.]; his wife Zuzanna, born 28 April 1901 at Iňačovce, married on 3 February 1919, two children; Juraj Demko, son, born 17 September 1911; Anna Demková, daughter, born 12 November 1924; and Maria Kočišová, entered as mother-in-law, Roman Catholic, a widow, born 15 August 1863, married on 10 November 1879, three children born alive, two of them dead. This is the father of Maria Demko, Ahn 18: Mihály Demkó, baptised at Viszoka in August 1882. The sheet shows him with a second wife, married in 1919, when his daughter Maria was twelve, and with a son of 1911 by the first. The widow Maria Kočišová, born 1863 and married 1879, is of the right age to be Mária Knyezső, wife of Mihály Kocsis of Solymos 19 and mother of the Mária Kocsis born in 1887: his first wife's mother. Whether Zuzanna is her daughter too is not said. All of this is the Demko agent's to rule on.",
     "reading": "medium"
    }
   ],
@@ -14296,7 +14338,14 @@
    {
     "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
     "original": "[not transcribed line by line in this pass]",
-    "english": "Michal Demko, head and owner, Greek Catholic, born 28 August 1882 at Vysoká in the Veľké Kapušany district, living in Iňačovce since 19[0.]; his wife Zuzanna, born 28 April 1901 at Iňačovce, married on 3 February 1919, two children; Juraj Demko, son, born 17 September 1911; Anna Demková, daughter, born 12 November 1924; and Maria Kočišová, entered as mother-in-law, Roman Catholic, a widow, born 15 August 1863, married on 10 November 1879, three children, two living. This is the father of Maria Demko, Ahn 18: Mihály Demkó, baptised at Viszoka in August 1882. The sheet shows him with a second wife, married in 1919, when his daughter Maria was twelve, and with a son of 1911 by the first. The widow Maria Kočišová, born 1863 and married 1879, is of the right age to be Mária Knyezső, wife of Mihály Kocsis of Solymos 19 and mother of the Mária Kocsis born in 1887: his first wife's mother. Whether Zuzanna is her daughter too is not said. All of this is the Demko agent's to rule on."
+    "english": "Michal Demko, head and owner, Greek Catholic, born 28 August 1882 at Vysoká in the Veľké Kapušany district, living in Iňačovce since 19[0.]; his wife Zuzanna, born 28 April 1901 at Iňačovce, married on 3 February 1919, two children; Juraj Demko, son, born 17 September 1911; Anna Demková, daughter, born 12 November 1924; and Maria Kočišová, entered as mother-in-law, Roman Catholic, a widow, born 15 August 1863, married on 10 November 1879, three children born alive, two of them dead. This is the father of Maria Demko, Ahn 18: Mihály Demkó, baptised at Viszoka in August 1882. The sheet shows him with a second wife, married in 1919, when his daughter Maria was twelve, and with a son of 1911 by the first. The widow Maria Kočišová, born 1863 and married 1879, is of the right age to be Mária Knyezső, wife of Mihály Kocsis of Solymos 19 and mother of the Mária Kocsis born in 1887: his first wife's mother. Whether Zuzanna is her daughter too is not said. All of this is the Demko agent's to rule on."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -14522,7 +14571,7 @@
     "no": "house 112",
     "date": "1 to 2 Dec 1930",
     "from": "Census household sheet (original record, screen capture)",
-    "abstract": "Fülöp Schwarz, house owner, Jewish, born 15 October 1850, in Maťovce since 1 August 1885; his wife Záli Schön, born 31 March 1852, married 15 June 1870, seven children, five living.",
+    "abstract": "Fülöp Schwarz, house owner, Jewish, born 15 October 1850, in Maťovce since 1 August 1885; his wife Záli Schön, born 31 March 1852, married 15 June 1870, seven children born alive, five of them dead.",
     "reading": "low"
    }
   ],
@@ -14530,7 +14579,14 @@
    {
     "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
     "original": "[not transcribed line by line in this pass]",
-    "english": "Fülöp Schwarz, house owner, Jewish, born 15 October 1850, in Maťovce since 1 August 1885; his wife Záli Schön, born 31 March 1852, married 15 June 1870, seven children, five living."
+    "english": "Fülöp Schwarz, house owner, Jewish, born 15 October 1850, in Maťovce since 1 August 1885; his wife Záli Schön, born 31 March 1852, married 15 June 1870, seven children born alive, five of them dead."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -14561,7 +14617,7 @@
     "no": "house 2[.]",
     "date": "1 to 2 Dec 1930",
     "from": "Census household sheet (original record, screen capture)",
-    "abstract": "István Čáp, house owner, Roman Catholic, Hungarian, born 28 February 1871 at Maťovce; his wife Anna Kocsis, born 7 January 1866, married 18 March 1895, ten children, six living; their son István, born 24 October 1903; his wife Mária, born 12 January 1912, married 14 September 1930.",
+    "abstract": "István Čáp, house owner, Roman Catholic, Hungarian, born 28 February 1871 at Maťovce; his wife Anna Kocsis, born 7 January 1866, married 18 March 1895, ten children born alive, six of them dead; their son István, born 24 October 1903; his wife Mária, born 12 January 1912, married 14 September 1930.",
     "reading": "low"
    }
   ],
@@ -14569,7 +14625,14 @@
    {
     "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
     "original": "[not transcribed line by line in this pass]",
-    "english": "István Čáp, house owner, Roman Catholic, Hungarian, born 28 February 1871 at Maťovce; his wife Anna Kocsis, born 7 January 1866, married 18 March 1895, ten children, six living; their son István, born 24 October 1903; his wife Mária, born 12 January 1912, married 14 September 1930."
+    "english": "István Čáp, house owner, Roman Catholic, Hungarian, born 28 February 1871 at Maťovce; his wife Anna Kocsis, born 7 January 1866, married 18 March 1895, ten children born alive, six of them dead; their son István, born 24 October 1903; his wife Mária, born 12 January 1912, married 14 September 1930."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -14639,7 +14702,7 @@
     "no": "house ?",
     "date": "1 to 2 Dec 1930",
     "from": "Census household sheet (original record, screen capture)",
-    "abstract": "János Kocsis, born 16 June 1888, in the village since January 1928; his wife Barbara, born 2 February 1889, ten children, three living; Albert (1918), Maria (22 September 1920), János (20 November 1922). Any further rows were not read.",
+    "abstract": "János Kocsis, born 16 June 1888, in the village since January 1928; his wife Barbara, born 2 February 1889, ten children born alive, three of them dead; Albert (1918), Maria (22 September 1920), János (20 November 1922). Any further rows were not read.",
     "reading": "low"
    }
   ],
@@ -14647,7 +14710,14 @@
    {
     "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
     "original": "[not transcribed line by line in this pass]",
-    "english": "János Kocsis, born 16 June 1888, in the village since January 1928; his wife Barbara, born 2 February 1889, ten children, three living; Albert (1918), Maria (22 September 1920), János (20 November 1922). Any further rows were not read."
+    "english": "János Kocsis, born 16 June 1888, in the village since January 1928; his wife Barbara, born 2 February 1889, ten children born alive, three of them dead; Albert (1918), Maria (22 September 1920), János (20 November 1922). Any further rows were not read."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -14678,7 +14748,7 @@
     "no": "house 133",
     "date": "1 to 2 Dec 1930",
     "from": "Census household sheet (original record, screen capture)",
-    "abstract": "Zuzana Hrešková née [V]ircíková, widow, Reformed, born 18 January 1876 at Palín, married 23 November 1896, widowed 18 February 1929, eight children, two living; daughters Alžbeta (14 December 1906, divorced in 1928), Barbara Kováčová (23 October 1910, divorced in 1929) and Helena (9 June 1915); a granddaughter Jolana Kováčová, born 1929. A sixth row was not read.",
+    "abstract": "Zuzana Hrešková née [V]ircíková, widow, Reformed, born 18 January 1876 at Palín, married 23 November 1896, widowed 18 February 1929, eight children born alive, two of them dead; daughters Alžbeta (14 December 1906, divorced in 1928), Barbara Kováčová (23 October 1910, divorced in 1929) and Helena (9 June 1915); a granddaughter Jolana Kováčová, born 1929. A sixth row was not read.",
     "reading": "medium"
    }
   ],
@@ -14686,7 +14756,14 @@
    {
     "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
     "original": "[not transcribed line by line in this pass]",
-    "english": "Zuzana Hrešková née [V]ircíková, widow, Reformed, born 18 January 1876 at Palín, married 23 November 1896, widowed 18 February 1929, eight children, two living; daughters Alžbeta (14 December 1906, divorced in 1928), Barbara Kováčová (23 October 1910, divorced in 1929) and Helena (9 June 1915); a granddaughter Jolana Kováčová, born 1929. A sixth row was not read."
+    "english": "Zuzana Hrešková née [V]ircíková, widow, Reformed, born 18 January 1876 at Palín, married 23 November 1896, widowed 18 February 1929, eight children born alive, two of them dead; daughters Alžbeta (14 December 1906, divorced in 1928), Barbara Kováčová (23 October 1910, divorced in 1929) and Helena (9 June 1915); a granddaughter Jolana Kováčová, born 1929. A sixth row was not read."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -14717,7 +14794,7 @@
     "no": "house 347",
     "date": "1 to 2 Dec 1930",
     "from": "Census household sheet (original record, screen capture)",
-    "abstract": "Ján Hreško, Roman Catholic, born 3 April 1877 at Veľké Kapušany, in Pavlovce since March 1901; his wife Maria, born 12 September 1882, married March 1901, six children, one living by the form; Ján (October 1911), Maria (14 May 1915), Andrej (5 December 1917). A sixth row was not read.",
+    "abstract": "Ján Hreško, Roman Catholic, born 3 April 1877 at Veľké Kapušany, in Pavlovce since March 1901; his wife Maria, born 12 September 1882, married March 1901, six children born alive, one of them dead by the form; Ján (October 1911), Maria (14 May 1915), Andrej (5 December 1917). A sixth row was not read.",
     "reading": "medium"
    }
   ],
@@ -14725,7 +14802,14 @@
    {
     "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
     "original": "[not transcribed line by line in this pass]",
-    "english": "Ján Hreško, Roman Catholic, born 3 April 1877 at Veľké Kapušany, in Pavlovce since March 1901; his wife Maria, born 12 September 1882, married March 1901, six children, one living by the form; Ján (October 1911), Maria (14 May 1915), Andrej (5 December 1917). A sixth row was not read."
+    "english": "Ján Hreško, Roman Catholic, born 3 April 1877 at Veľké Kapušany, in Pavlovce since March 1901; his wife Maria, born 12 September 1882, married March 1901, six children born alive, one of them dead by the form; Ján (October 1911), Maria (14 May 1915), Andrej (5 December 1917). A sixth row was not read."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -14873,7 +14957,7 @@
     "no": "house 130",
     "date": "1 to 2 Dec 1930",
     "from": "Census household sheet (original record, screen capture)",
-    "abstract": "Áron Schvarcz, Jewish, born 22 November 1864; his wife Záli, born 15 June 1869, married 1892, four children, two living; daughters Rozália (22 March 1907) and Borbála (18 October 1910). The owner's label reads the head as 'Ann'.",
+    "abstract": "Áron Schvarcz, Jewish, born 22 November 1864; his wife Záli, born 15 June 1869, married 1892, four children born alive, two of them dead; daughters Rozália (22 March 1907) and Borbála (18 October 1910). The owner's label reads the head as 'Ann'.",
     "reading": "low"
    }
   ],
@@ -14881,7 +14965,14 @@
    {
     "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
     "original": "[not transcribed line by line in this pass]",
-    "english": "Áron Schvarcz, Jewish, born 22 November 1864; his wife Záli, born 15 June 1869, married 1892, four children, two living; daughters Rozália (22 March 1907) and Borbála (18 October 1910). The owner's label reads the head as 'Ann'."
+    "english": "Áron Schvarcz, Jewish, born 22 November 1864; his wife Záli, born 15 June 1869, married 1892, four children born alive, two of them dead; daughters Rozália (22 March 1907) and Borbála (18 October 1910). The owner's label reads the head as 'Ann'."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -15029,7 +15120,7 @@
     "no": "house 161",
     "date": "1 to 2 Dec 1930",
     "from": "Census household sheet (original record, screen capture)",
-    "abstract": "Maria Hrešková, alone: born 1 January 1856 at Palín, a widow, married 7 July 1876 and in Vysoká since then, widowed November 1908, seven children, six living; Roman Catholic.",
+    "abstract": "Maria Hrešková, alone: born 1 January 1856 at Palín, a widow, married 7 July 1876 and in Vysoká since then, widowed November 1908, seven children born alive, six of them dead; Roman Catholic.",
     "reading": "low"
    }
   ],
@@ -15037,7 +15128,14 @@
    {
     "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
     "original": "[not transcribed line by line in this pass]",
-    "english": "Maria Hrešková, alone: born 1 January 1856 at Palín, a widow, married 7 July 1876 and in Vysoká since then, widowed November 1908, seven children, six living; Roman Catholic."
+    "english": "Maria Hrešková, alone: born 1 January 1856 at Palín, a widow, married 7 July 1876 and in Vysoká since then, widowed November 1908, seven children born alive, six of them dead; Roman Catholic."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -15146,7 +15244,7 @@
     "no": "house 170",
     "date": "1 to 2 Dec 1930",
     "from": "Census household sheet (original record, screen capture)",
-    "abstract": "Andrej Demko, Greek Catholic, born 20 April 190[9]; his wife Anna, Roman Catholic, born 11 November 1910, married 1928; a son Andrej, born 1929; his mother Maria Demková, widow, born 15 July 1863, married in the 1880s, widowed December 1929, five children, two living.",
+    "abstract": "Andrej Demko, Greek Catholic, born 20 April 190[9]; his wife Anna, Roman Catholic, born 11 November 1910, married 1928; a son Andrej, born 1929; his mother Maria Demková, widow, born 15 July 1863, married in the 1880s, widowed December 1929, five children born alive, two of them dead.",
     "reading": "low"
    }
   ],
@@ -15154,7 +15252,14 @@
    {
     "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
     "original": "[not transcribed line by line in this pass]",
-    "english": "Andrej Demko, Greek Catholic, born 20 April 190[9]; his wife Anna, Roman Catholic, born 11 November 1910, married 1928; a son Andrej, born 1929; his mother Maria Demková, widow, born 15 July 1863, married in the 1880s, widowed December 1929, five children, two living."
+    "english": "Andrej Demko, Greek Catholic, born 20 April 190[9]; his wife Anna, Roman Catholic, born 11 November 1910, married 1928; a son Andrej, born 1929; his mother Maria Demková, widow, born 15 July 1863, married in the 1880s, widowed December 1929, five children born alive, two of them dead."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -15224,7 +15329,7 @@
     "no": "house 166",
     "date": "1 to 2 Dec 1930",
     "from": "Census household sheet (original record, screen capture)",
-    "abstract": "Alžbeta Hrešková, alone: born 18 November 1865, a widow, married 27 July 1884, widowed 15 June 1910, three children, none living.",
+    "abstract": "Alžbeta Hrešková, alone: born 18 November 1865, a widow, married 27 July 1884, widowed 15 June 1910, three children born alive, none of them dead.",
     "reading": "low"
    }
   ],
@@ -15232,7 +15337,14 @@
    {
     "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
     "original": "[not transcribed line by line in this pass]",
-    "english": "Alžbeta Hrešková, alone: born 18 November 1865, a widow, married 27 July 1884, widowed 15 June 1910, three children, none living."
+    "english": "Alžbeta Hrešková, alone: born 18 November 1865, a widow, married 27 July 1884, widowed 15 June 1910, three children born alive, none of them dead."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -15263,7 +15375,7 @@
     "no": "house 165",
     "date": "1 to 2 Dec 1930",
     "from": "Census household sheet (original record, screen capture)",
-    "abstract": "Ján Demko, Greek Catholic, born 15 April 1875 at Vysoká; his wife Maria, Roman Catholic, born 5 July 1878, married 10 February 1897, ten children, six living; their son Juraj, born 18 September 1908, and his wife Maria, born 10 March 1911, married 1 October 1929; sons Michal (16 August 1914), Andrej (11 July 1916) and Ján (20 June 1919). A János Demkó was baptised at Viszoka on 29 March 1875, son of György Demkó and Mária Hreskó (D-004-08): very probably this man, a brother of Maria Demko's father.",
+    "abstract": "Ján Demko, Greek Catholic, born 15 April 1875 at Vysoká; his wife Maria, Roman Catholic, born 5 July 1878, married 10 February 1897, ten children born alive, six of them dead; their son Juraj, born 18 September 1908, and his wife Maria, born 10 March 1911, married 1 October 1929; sons Michal (16 August 1914), Andrej (11 July 1916) and Ján (20 June 1919). A János Demkó was baptised at Viszoka on 29 March 1875, son of György Demkó and Mária Hreskó (D-004-08): very probably this man, a brother of Maria Demko's father.",
     "reading": "low"
    }
   ],
@@ -15271,7 +15383,14 @@
    {
     "label": "Abstract only; the left-hand columns were read (name, relation, birth, marriage, birthplace).",
     "original": "[not transcribed line by line in this pass]",
-    "english": "Ján Demko, Greek Catholic, born 15 April 1875 at Vysoká; his wife Maria, Roman Catholic, born 5 July 1878, married 10 February 1897, ten children, six living; their son Juraj, born 18 September 1908, and his wife Maria, born 10 March 1911, married 1 October 1929; sons Michal (16 August 1914), Andrej (11 July 1916) and Ján (20 June 1919). A János Demkó was baptised at Viszoka on 29 March 1875, son of György Demkó and Mária Hreskó (D-004-08): very probably this man, a brother of Maria Demko's father."
+    "english": "Ján Demko, Greek Catholic, born 15 April 1875 at Vysoká; his wife Maria, Roman Catholic, born 5 July 1878, married 10 February 1897, ten children born alive, six of them dead; their son Juraj, born 18 September 1908, and his wife Maria, born 10 March 1911, married 1 October 1929; sons Michal (16 August 1914), Andrej (11 July 1916) and Ján (20 June 1919). A János Demkó was baptised at Viszoka on 29 March 1875, son of György Demkó and Mária Hreskó (D-004-08): very probably this man, a brother of Maria Demko's father."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-081",
+    "date": "2026-11-15",
+    "text": "Columns 9 and 10 of the 1930 sheet are 'all born alive' and 'of them died' (všetkých živo narodených / z nich zomrelo). I had read the second figure as children living. Turned round here. Pointed out by the Demko agent (DM→DU-022); checked against the burial book for D-011-24, where eight of the twelve children are buried by 1918, which fits nine dead by 1930 and never fitted nine living."
    }
   ]
  },
@@ -30786,5 +30905,45 @@
     "english": "Entry 35 of 1891, 24 December: András Duska, husband of Anna Ja[f]urics, cottar; Jesztreb; male; 60 years old; cause, pneumonia; sacraments: 'no; the illness was not thought serious'; buried at Jesztreb on 26 December by István Rusznák, dean and parish priest. The entry already held as D-013-104. The owner's file name here gives 1901; the year in the entry is 1891."
    }
   ]
+ },
+ {
+  "id": "D-018-35",
+  "folder": "F-018",
+  "batch": "B-081",
+  "source": "S-593",
+  "file": "Index_for_Examinjaton_of_Unindexed_FamilySearch_Documents.docx",
+  "sha256": "94cc486e2d2b1ecc313721a1a1f4ebc0e625b5e7e724ca5d6f50e3a067ba426a",
+  "wide": false,
+  "title": "The owner's index of FamilySearch image groups not yet worked into his collection (2022)",
+  "span": "March to April 2022",
+  "language": "English",
+  "collector_label": "Index for Examinjaton of Unindexed FamilySearch Documents",
+  "family": null,
+  "route": "duska",
+  "part": "folder root",
+  "provenance": {
+   "archive": "The owner's own working file",
+   "fond_or_film": null,
+   "book": null,
+   "page_or_image": "34 paragraphs",
+   "obtained": "Sent through chat on 15 Nov 2026 with 'random file in full folder closed', as the last file of the folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)'. Word file created 2 Mar 2022, last saved 7 Apr 2022."
+  },
+  "entries": [
+   {
+    "no": null,
+    "date": "2022",
+    "from": "The owner's working index",
+    "abstract": "The owner's own guide, made in March and April 2022, to the FamilySearch image groups he had not yet worked into his collection: headed 'Family Search Images – Not yet Integrated into Collection'. Fourteen entries, each a place, a span, a rite and a link with an image count: for Senné, Roman Catholic deaths 1831 to 1877 (118 images), Greek Catholic baptisms, deaths and marriages 1882 to 1895 (68), Roman Catholic marriages 1863 to 1886 (45), Greek Catholic deaths 1859 to 1867 (20), Greek Catholic baptisms, deaths and marriages 1868 to 1899 (96), Roman Catholic baptisms 1866 to 1912 (174), Roman Catholic deaths 1887 to 1925 (165), Roman Catholic marriages 1887 to 1926 (98), Roman Catholic deaths 1877 to 1886 (24); two groups he marks 'NOT SENNE' (Roman Catholic baptisms 1818 to 1881, 195 images, and a set of 46); and for Iňačovce, Reformed baptisms from 1819 (43 images), with the headings 'SOLYMOS, UNG, HUNGARY' and 'UNG, HUNGARY'. It names no person. It explains the folder: this is his second pass, in 2022, over unindexed image groups, which is why the strips repeat entries from his earlier folders. A guide to collections, so read under rule 31.",
+    "reading": "full text extracted"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "Full text, as written (the owner's spellings kept).",
+    "original": "Family Search Images – Not yet Integrated into Collection\nSenne, Michalovce, Kosicky, Slovakia (1831-1912) – 118 images https://www.familysearch.org/records/images/image-details?place=7110356&page=1&rmsId=M9S7-2Q1\nDeaths (1831-1877 with the first page of 1878) – ROMAN CATHOLIC \nSenne, Michalovce, Kosicky, Slovakia (1831-1912) – 68 images https://www.familysearch.org/records/images/image-details?place=7110356&page=1&rmsId=M9S7-2Q5&imageIndex=0&singleView=true\nBaptisms (1882-1895) (Deaths (1882-1895) Marriages (1882-1895) GREEK CATHOLIC\nSenne, Michalovce, Kosicky, Slovakia (1868-1899) – 45 Images\nMarriages (1863-1886 )ROMAN CATHOLIC \nhttps://www.familysearch.org/records/images/image-details?place=7110356&page=1&rmsId=M9S7-2QB&imageIndex=0\nSenne, Michalove, Kosicky, Slovakia – 20 Images\nDeaths (1859-1867) GREEK CATHOLIC)\nv https://www.familysearch.org/records/images/image-details?place=7110356&page=1&rmsId=M9S7-2QG&imageIndex=0\nSenne, Michalovce, Kosicky, Slovakia – 96 Images \nBaptisms (1868-1899) Deaths (1868-1899) Marriages (1868-1899) (GREEK CATHOLIC)\nhttps://www.familysearch.org/records/images/image-details?place=7110356&page=1&rmsId=M9S7-2QP&imageIndex=0\nSenne, Michalovce, Kosicky, Slovakia – 174 Images \nBaptisms (1866-1912) (ROMAN CATHOLIC)\nhttps://www.familysearch.org/records/images/image-details?place=7110356&page=1&rmsId=M9S7-2QT\nSenne, Michalovce, Kosicky, Slovakia – 165 Images\nDeaths (1887-1925) (ROMAN CATHOLIC) \nhttps://www.familysearch.org/records/images/image-details?place=7110356&page=1&rmsId=M9S7-KG2&imageIndex=0\nSenne, Michalovce, Kosicky, Slovakia – 195 Images – NOT SENNE \nBaptism (1818-) (1818-1881) ROMAN CATHOLIC \nhttps://www.familysearch.org/records/images/image-details?place=7110356&page=1&rmsId=M9S7-KG2&imageIndex=0\nSenne, Michalove, Kosicky, Slovakia – 98 images\nMarriages (1887-1926) ROMAN CATHOLIC https://www.familysearch.org/records/images/image-details?page=1&place=7110356&rmsId=M9S7-KGK&imageIndex=0\nSenne, Michalovce, Kosicky, Slovakia – 46 images set \nROMAN CATHOLIC – NOT SENNE https://www.familysearch.org/records/images/image-details?page=1&place=7110356&rmsId=M9S7-KGP&imageIndex=3&singleView=true\nSenne, Michalovce, Kosicky, Slovakia – 24 image set https://www.familysearch.org/records/images/image-details?page=1&place=7110356&rmsId=M9S7-KGV&imageIndex=22&singleView=true\nDeaths (1877-1886) – ROMAN CATHOLIC\nINACOVCE\nInacovce, Michalovce, Slovakia – 43 Images https://www.familysearch.org/records/images/image-details?page=1&place=7126357&rmsId=M9S7-KH2&imageIndex=0\nBaptisms (1819-(REFORMED CATHOLIC)\nSOLYMOS, UNG, HUNGARY\nUNG, HUNGARY\n",
+    "english": "In English already."
+   }
+  ],
+  "held": "No image: a Word file whose properties carry an account name. The text is published in full in the folder's text/ directory."
  }
 ]
