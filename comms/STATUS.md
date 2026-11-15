@@ -1,6 +1,6 @@
 # DUS status
 
-Updated 2026-11-15 after batch B-076 (read ledger v27). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
+Updated 2026-11-15 after batch B-077 (read ledger v27). Requests R-001 to R-011 are with the owner; R-007 (any record of Michal's age or parents) is first. The convention in use is comms/README.md; the files in comms/outbox/ predate it and are kept as sent. Full detail: `PROTOCOL.md`, `data/`, `index.html`.
 
 ## Holds
 
@@ -57,6 +57,7 @@ Updated 2026-11-15 after batch B-076 (read ledger v27). Requests R-001 to R-011 
 - F-016 closed by the owner: 56 files, 43 documents. Next by his order of folders: marriages.
 - Ledger v27 acted on: field notes 3 and 4; requests withdrawn as wishes (X-033); `H-099` to 42; Tiba is Tibava by the Places agent (`L-038`).
 - F-017 `Duska Family Groups` complete (3 files). `H-053` solved: the miller Mihály Duska is the son of György the younger and Erzsébet Schwarz (`D-017-02`).
+- F-018 opened: 145 strips archived and not yet read; reading by sub-folder, Senne GK first.
 
 ## Concluded
 

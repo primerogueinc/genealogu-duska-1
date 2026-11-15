@@ -270,5 +270,17 @@
    "B-076"
   ],
   "archive_path": null
+ },
+ {
+  "id": "F-018",
+  "desktop_path": "Duska Family Search Rcords Found Outside of Collection (No idea?)",
+  "described_as": "Register strips the owner files as found on FamilySearch outside his own collection; he adds '(No idea?)'. Three sub-folders so far. 'Inacovce - Reformed Christ', final: 53 strips, by their names baptisms of 1822 to 1866 at Solymos, thirteen of Duska children and forty of the family he writes Knyerso. 'Senne GK', full: 4 strips of 1872 to 1898. 'Senne Roca', eight parts so far and not yet closed: 88 strips of 1839 to 1878, burials, baptisms and marriages of Nyemcsik, Hresko, Duska, Demko and others. The file names here begin with a year and state who the people are, which the owner's other folders do not. ARCHIVED AND NOT YET READ at B-077; the readings follow by sub-folder.",
+  "status": "open",
+  "first_seen": "2026-11-15",
+  "files_received": 145,
+  "batches": [
+   "B-077"
+  ],
+  "archive_path": null
  }
 ]

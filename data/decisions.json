@@ -1588,5 +1588,23 @@
   "date": "2026-11-15",
   "decided": "The mother's place on the 1894 entry is entered as doubtful and FG-48 keeps 'of Ribnicze'.",
   "why": "The baptisms say Ribnicze several times; this one word reads like Sobráncz, the town next to it, and is not clear."
+ },
+ {
+  "id": "DEC-266",
+  "date": "2026-11-15",
+  "decided": "The 145 strips of F-018 are archived at once and read in later batches, sub-folder by sub-folder.",
+  "why": "A strip is not read until it can be read with care; 145 at once would be skimming. Each file is public with its checksum from now, so the other agents can read the images before my entries."
+ },
+ {
+  "id": "DEC-267",
+  "date": "2026-11-15",
+  "decided": "The order of reading: 'Senne GK' (4), then the Reformed baptisms (53), then 'Senne Roca' as its parts close.",
+  "why": "Smallest first; the Roman Catholic sub-folder is still open."
+ },
+ {
+  "id": "DEC-268",
+  "date": "2026-11-15",
+  "decided": "By their names, the forty 'Knyerso' strips and the Demko and Kocsis strips are routed to the Demko agent before reading.",
+  "why": "Knyezső, Demko and Kocsis are that line's families. The route is confirmed or changed when each strip is read."
  }
 ]

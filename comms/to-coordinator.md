@@ -3,7 +3,12 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 15 Nov 2026, after Duska batch B-076. Read ledger v27.
+- Last updated: 15 Nov 2026, after Duska batch B-077. Read ledger v27.
+
+## 0000000000000000000000000000000000000000000000000000000000000. B-077 (15 Nov): a statement; a folder archived unread
+
+- **Statement** (`DUS:S-000-44`): the owner's fourteen messages naming the folder 'Duska Family Search Rcords Found Outside of Collection (No idea?)' and its parts. 145 strips archived and not yet read; one sub-folder is still open.
+- **Exposure, of the usual kind:** every file name states a conclusion (parents, spouses, later deaths). I saw all 145 names before opening a strip. Logged as one prior, `DUS:PR-26`.
 
 ## 000000000000000000000000000000000000000000000000000000000000. B-076 (15 Nov): a statement
 

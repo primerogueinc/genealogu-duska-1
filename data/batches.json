@@ -2764,6 +2764,22 @@
    "S-557",
    "S-558"
   ],
+  "committed_utc": "2026-11-15T09:42:50Z"
+ },
+ {
+  "id": "B-077",
+  "date": "2026-11-15",
+  "title": "A folder 'found outside of collection': 145 strips archived, not yet read",
+  "folder": "F-018",
+  "files": 145,
+  "blurb": "The owner sent a new folder in fourteen parts: 145 register strips he says he found on FamilySearch outside his own collection, with '(No idea?)' in the folder's name. They are archived here now, each under his file name with its checksum, and none has been read yet. That is said plainly because it breaks this project's habit of reading a strip in the batch it arrives in: 145 at once would be skimming. By the file names alone, 87 are baptisms, 47 burials and 11 marriages, from 1822 to 1898. Fifty-three are Reformed baptisms of Solymos, thirteen of them Duska children and forty of a family the Demko line knows as Knyezső. Four are from a Greek Catholic book. Eighty-eight are from the Roman Catholic books of Senné and name Nyemcsik, Hresko, Duska and Demko people; that sub-folder is not yet closed. The names state relationships and even later deaths, which makes every one a prior to be tested against its image. None is byte for byte a strip already held. Reading starts with the smallest sub-folder. Curiosities: 0",
+  "raised": [],
+  "resolved": [],
+  "revised": [],
+  "people_added": [],
+  "sources_added": [
+   "S-000-44"
+  ],
   "committed_utc": null
  }
 ]
