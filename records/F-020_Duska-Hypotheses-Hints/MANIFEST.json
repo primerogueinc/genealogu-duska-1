@@ -1,0 +1,128 @@
+{
+  "folder_id": "F-020",
+  "desktop_path": "Duska Hypotheses Hints",
+  "note": "",
+  "files": [
+    {
+      "file": "Andras_Duska_1882s_baptism_Michals_father_-maybe.png",
+      "sha256": "08d0a204b3f08dbb3c17739dc22389d4d39d48727dbfbd5ef1d075503181e61b",
+      "bytes": 510676,
+      "pixels": "1801x220",
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "part": "full",
+      "read": true,
+      "document": "D-020-08"
+    },
+    {
+      "file": "Andreas_Duska_1868_Baptism.jpg",
+      "sha256": "3f12a9731ca240e46a8026011df4f4ce4f950c22a9c49134943abeab094ae723",
+      "bytes": 1565774,
+      "pixels": "2576x1974",
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "part": "full",
+      "read": true,
+      "document": "D-020-01"
+    },
+    {
+      "file": "Anna_Duska_1875_Baptism.jpg",
+      "sha256": "8d4c84c98da5137059fddf0079587c7de37ee202f38d1a1858311d1c73b5560e",
+      "bytes": 1469713,
+      "pixels": "2576x1931",
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "part": "full",
+      "read": true,
+      "document": "D-020-03"
+    },
+    {
+      "file": "Erzsebet_Schwrz_1851_baptism_hypothesis.jpg",
+      "sha256": "5acc7caecda34898f9da66ee04607c752568428635fe3fff6e1226103f572b84",
+      "bytes": 1482062,
+      "pixels": "2576x2141",
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "part": "full",
+      "read": true,
+      "document": "D-020-07"
+    },
+    {
+      "file": "Gyorgy_Duska_1872_baptism.jpg",
+      "sha256": "d86e5b053e2e26892402a7d203f2e1c07669a0a8a68ab0d16122e8f49e489a05",
+      "bytes": 1604258,
+      "pixels": "2576x2008",
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "part": "full",
+      "read": true,
+      "document": "D-020-02"
+    },
+    {
+      "file": "gyorgy_duska_baptism_1880.png",
+      "sha256": "33109c493b8a77cd3fde7a7cf3c3fb8cdeeb94108d2994003d4fe111d3eb7e43",
+      "bytes": 194849,
+      "pixels": "1565x101",
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "part": "full",
+      "read": false,
+      "document": null
+    },
+    {
+      "file": "Janos_Duska_1877_baptism.jpg",
+      "sha256": "92c8b0f0b4e9133f7f3623e47476f6699efafee6b47059dfed3f2e92f8a068a0",
+      "bytes": 1720704,
+      "pixels": "2576x2051",
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "part": "full",
+      "read": true,
+      "document": "D-020-04"
+    },
+    {
+      "file": "Jozsef_Duska_1885_baptism.jpg",
+      "sha256": "0e6b2c207149cff39d41e281f57c34c31f093763c763e63c768fc32e7b467edb",
+      "bytes": 1463413,
+      "pixels": "2576x1942",
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "part": "full",
+      "read": true,
+      "document": "D-020-05"
+    },
+    {
+      "file": "pal_duska_1887_-_baptism.png",
+      "sha256": "e1af3ab0d0b066811e3dd9826632c15634783ed32e8224f781b814f267298490",
+      "bytes": 317795,
+      "pixels": "1156x202",
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "part": "full",
+      "read": false,
+      "document": null
+    },
+    {
+      "file": "Pal_Duska_1887_baptism.jpg",
+      "sha256": "e88a030a404391ac553666570908d5931a257d72a6a970bdb4d5b0fe0425877f",
+      "bytes": 1425414,
+      "pixels": "2576x1967",
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "part": "full",
+      "read": true,
+      "document": "D-020-06"
+    }
+  ],
+  "held": [],
+  "copies": [
+    {
+      "file": "Maria_Duska_1875_Baptism.jpg",
+      "sha256": "8d4c84c98da5137059fddf0079587c7de37ee202f38d1a1858311d1c73b5560e",
+      "bytes": 1469713,
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "note": "Byte for byte the same file as Anna_Duska_1875_Baptism.jpg in this folder, under the name of another child on the same page."
+    }
+  ]
+}

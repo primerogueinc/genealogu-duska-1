@@ -165,9 +165,12 @@
    "S-391",
    "S-494",
    "S-502",
-   "S-505"
+   "S-505",
+   "S-594",
+   "S-595",
+   "S-596"
   ],
-  "note": "Born 3 July 1903 at Senné, house 79, son of András Duska, cottar, and Anna Nyemcsik (baptism D-009-79). Identified by the census of 1930: his wife Maria and son Štefan are entered at Senné 145 as the daughter-in-law and grandson of Andrej Duška and Anna, married 18 January 1892 (D-011-24). Married Maria Demko on 30 January 1927 by that census. Roman Catholic cottar of Senné 160 in 1929. Sailed for Canada aged 26, with Mikulas Duska, between November 1929 and July 1930 (D-006-19); naturalised 22 April 1940; at 1196a St. George Street, Montréal, in 1937, when he sent for his family; 'Mike Duska' on his wife's stone; alive in November 1966. Died at the Montreal General Hospital on 31 January 1974, 'age 71'; funeral from the Slovak church of St. Cyril and Method; buried in Côte-des-Neiges cemetery (D-006-20). The notice names two sons, Steve and Mike. The cemetery received him on 4 February 1974, into his wife's plot: Notre-Dame-des-Neiges, section TR, concession 6650 (D-013-101). No burial of the Mihály born in 1903 is in the Senné book to 1924; the Mihály Duska who died there in 1915 aged 3 is a son of János (D-013-182). His baptism is in hand on its full page: Senné Roman Catholic baptisms, page 203, entry 33 of 1903 (D-014-07). The Québec death index has him as Michael, born 2-7-1903, a day before the register's date, widower, died 31-1-1974, with parents 'Joseph' and 'E.', which is an error against three original records (D-015-09, H-093).",
+  "note": "Born 3 July 1903 at Senné, house 79, son of András Duska, cottar, and Anna Nyemcsik (baptism D-009-79). Identified by the census of 1930: his wife Maria and son Štefan are entered at Senné 145 as the daughter-in-law and grandson of Andrej Duška and Anna, married 18 January 1892 (D-011-24). Married Maria Demko on 30 January 1927 by that census. Roman Catholic cottar of Senné 160 in 1929. Sailed for Canada aged 26 with Mikuláš Duska and Andrej Dzvonik: passport issued at Kapušany on 27 February 1930, left Hamburg on 6 March 1930 on the Westphalia, third class, for the Canadian Pacific Railway's Colonization Department at Winnipeg (D-006-19, D-019-01 to -05); his wife at Senné named as next of kin; naturalised 22 April 1940; at 1196a St. George Street, Montréal, in 1937, when he sent for his family; 'Mike Duska' on his wife's stone; alive in November 1966. Died at the Montreal General Hospital on 31 January 1974, 'age 71'; funeral from the Slovak church of St. Cyril and Method; buried in Côte-des-Neiges cemetery (D-006-20). The notice names two sons, Steve and Mike. The cemetery received him on 4 February 1974, into his wife's plot: Notre-Dame-des-Neiges, section TR, concession 6650 (D-013-101). No burial of the Mihály born in 1903 is in the Senné book to 1924; the Mihály Duska who died there in 1915 aged 3 is a son of János (D-013-182). His baptism is in hand on its full page: Senné Roman Catholic baptisms, page 203, entry 33 of 1903 (D-014-07). The Québec death index has him as Michael, born 2-7-1903, a day before the register's date, widower, died 31-1-1974, with parents 'Joseph' and 'E.', which is an error against three original records (D-015-09, H-093).",
   "owner": "Duska",
   "residence": [
    {
@@ -179,8 +182,8 @@
     "place": "Senné, house 160"
    },
    {
-    "date": "1929 or 1930",
-    "place": "to Canada"
+    "date": "6 Mar 1930",
+    "place": "left Hamburg on the Westphalia for Winnipeg (C.P.R. Colonization Department)"
    },
    {
     "date": "Sep 1937",
@@ -355,7 +358,7 @@
    "S-157",
    "S-563"
   ],
-  "note": "Roman Catholic cottar of Senné, house 79 ([1866] to 1872), then 77. Named as the father of the bride in the marriage entry of 1892 and of Anna in her baptism of 24 August 1872. Several men of this name lived at Senné; this one is fixed by his wife. Died suddenly on 25 March [1878] at house 79, aged 54, and was buried on the 27th (D-018-05); the entry names his wife by both her surnames. Born about 1824 by that age. The year of death is from the owner's file name (H-101).",
+  "note": "Roman Catholic cottar of Senné, house 79 ([1866] to 1872), then 77. Named as the father of the bride in the marriage entry of 1892 and of Anna in her baptism of 24 August 1872. Several men of this name lived at Senné; this one is fixed by his wife. Died suddenly on 25 March [1878] at house 79, aged 54, and was buried on the 27th (D-018-05); the entry names his wife by both her surnames. Born about 1824 by that age. The year of death is from the owner's file name (H-101). Godfather, as János Nyemcsik, to Mária, daughter of György Duska the elder, on 7 August 1875 (D-020-03).",
   "owner": "Duska",
   "living_basis": "A father by 1866.",
   "dna": "The match of H-099 lists his surname. Szenna had several Nyemcsik households and one of them came from another county, so the surname alone does not point to his.",

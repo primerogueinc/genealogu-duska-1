@@ -6049,8 +6049,8 @@
   "file": "Baptism_of_Andreas_Duska_1868.png",
   "sha256": "a60e155d5a62d9ee83976d31ebdc5e5f5b613415cd33c7ff41b8cedaff202308",
   "wide": true,
-  "title": "Baptism of Andreas Duska, Szenna 6, [1868]",
-  "span": "date as the entry above (dtto), [1868]",
+  "title": "Baptism of Andreas Duska, Szenna 6, 1868",
+  "span": "date as the entry above (dtto), 1868",
   "language": "Latin",
   "collector_label": "Baptism of Andreas Duska 1868",
   "family": "FG-47",
@@ -6068,7 +6068,7 @@
   "entries": [
    {
     "no": "[3]8",
-    "date": "date as the entry above (dtto), [1868]",
+    "date": "date as the entry above (dtto), 1868",
     "from": "Baptism register, Roman Catholic, Senné",
     "abstract": "Child: Andreas, male, legitimate. Father: Georgius Duska, Roman Catholic, cottar (inquilinus). Mother: Anna Krak, Greek Catholic. Residence: Szenna, house 6. Godparents: Georgius Petricsko; Anna Holis. Officiant: as above (dtto). Remark, in a later hand: died 22 August 1940.",
     "reading": "medium"
@@ -6079,6 +6079,13 @@
     "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
     "original": "[3]8 | dtto | Andreas | m | leg | Georgius Duska, Anna Krak, RC GC inq | Szenna 6. | Georgius Petricsko, Anna Holis | dtto | + 1940. VIII. 22",
     "english": "Child: Andreas, male, legitimate. Father: Georgius Duska, Roman Catholic, cottar (inquilinus). Mother: Anna Krak, Greek Catholic. Residence: Szenna, house 6. Godparents: Georgius Petricsko; Anna Holis. Officiant: as above (dtto). Remark, in a later hand: died 22 August 1940. The year is from the owner's file name."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-082",
+    "date": "2026-11-15",
+    "text": "The year 1868, until now from the owner's label, is on the full page (D-020-01)."
    }
   ]
  },
@@ -6343,8 +6350,8 @@
   "file": "Baptism_of_Anna_Duska_1879.png",
   "sha256": "49cad14c060b4293fdfc8e2ce2d1b689aead9a19f426cfc57ad0717f1f94c6fd",
   "wide": true,
-  "title": "Baptism of Anna Duska, Szenna 5, [1879]",
-  "span": "21 July [1879]",
+  "title": "Baptism of Anna Duska, Szenna 5, 1875",
+  "span": "21 July 1875",
   "language": "Hungarian",
   "collector_label": "Baptism of Anna Duska 1879",
   "family": "FG-48",
@@ -6362,7 +6369,7 @@
   "entries": [
    {
     "no": "[1]7",
-    "date": "21 July [1879]",
+    "date": "21 July 1875",
     "from": "Baptism register, Roman Catholic, Senné",
     "abstract": "Child: Anna, female, legitimate. Father: György Duska the younger (ifj.), Roman Catholic, cottar. Mother: Erzsébet Schwarz, Greek Catholic. Residence: Szenna, house 5. Godparents: János Mucha; Mária Marczinko. Officiant: György Balás, parish priest.",
     "reading": "medium"
@@ -6373,6 +6380,13 @@
     "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
     "original": "[1]7. | Julius 21. | Anna | nő | tnyes | ifj. Duska György, Schwarz Erzsébet, Rk. GK. zsellér | Szenna 5. | Mucha János, Marczinko Mária | Balás György plébános",
     "english": "Child: Anna, female, legitimate. Father: György Duska the younger (ifj.), Roman Catholic, cottar. Mother: Erzsébet Schwarz, Greek Catholic. Residence: Szenna, house 5. Godparents: János Mucha; Mária Marczinko. Officiant: György Balás, parish priest. The year is from the owner's file name."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-082",
+    "date": "2026-11-15",
+    "text": "The year was taken as [1879] from the owner's label. The full page (D-020-03) is headed 1875 and has this entry as no. 27 of 21 July 1875. Corrected."
    }
   ]
  },
@@ -7163,8 +7177,8 @@
   "file": "Baptism_of_Gyorgy_Duska_1872_to_Anna_Krak_and_Gyorgy_Duska.png",
   "sha256": "49d447a314edd154db9b2f9114e0eec6672f7a5a8a786e917b3a1cf9608146dc",
   "wide": true,
-  "title": "Baptism of György Duska, son of György Duska and Anna Krak, Szenna 6, [1872]",
-  "span": "10 February [1872]",
+  "title": "Baptism of György Duska, son of György Duska and Anna Krak, Szenna 6, 1872",
+  "span": "10 February 1872",
   "language": "Latin",
   "collector_label": "Baptism of Gyorgy Duska 1872 to Anna Krak and Gyorgy Duska",
   "family": "FG-47",
@@ -7182,7 +7196,7 @@
   "entries": [
    {
     "no": "8",
-    "date": "10 February [1872]",
+    "date": "10 February 1872",
     "from": "Baptism register, Roman Catholic, Senné",
     "abstract": "Child: György, son of György Duska, Roman Catholic, and Anna Krak, Greek Catholic, of Szenna 6; died 8 July 1875. The word before the father's name is 'id.' (the elder) or 'if.' (the younger); in 1875 the same man is plainly 'idősb', the elder. [B-050: the burial reads 'id.', the elder, and gives house 5 (D-013-124).]",
     "reading": "medium"
@@ -7200,6 +7214,11 @@
     "batch": "B-080",
     "date": "2026-11-15",
     "text": "The doubtful word before the father's name is 'ifj.', the younger, on a second image of the entry (D-018-26)."
+   },
+   {
+    "batch": "B-082",
+    "date": "2026-11-15",
+    "text": "The year 1872, until now from the owner's label, is on the full page (D-020-02)."
    }
   ]
  },
@@ -7949,8 +7968,8 @@
   "file": "Baptism_of_Janos_Nyemcsik_1875.png",
   "sha256": "f98d6979b42069a96d3651f3efbc45972166e4ddeca9ed4aee93dd65962cddf9",
   "wide": true,
-  "title": "Baptism of János Nyemcsik, son of János Nyemcsik and Erzsébet Hresko alias Minarcsin, Szenna 77, [1875]",
-  "span": "22 July [1875]",
+  "title": "Baptism of János Nyemcsik, son of János Nyemcsik and Erzsébet Hresko alias Minarcsin, Szenna 77, 1875",
+  "span": "22 July 1875",
   "language": "Hungarian",
   "collector_label": "Baptism of Janos Nyemcsik 1875",
   "family": "FG-57",
@@ -7968,7 +7987,7 @@
   "entries": [
    {
     "no": "38",
-    "date": "22 July [1875]",
+    "date": "22 July 1875",
     "from": "Baptism register, Roman Catholic, Senné",
     "abstract": "Child: János, son of János Nyemcsik and Erzsébet 'Hresko, otherwise Minarcsin', Roman Catholic cottars, Szenna 77; died 15 April 1879. The mother has two surnames, and the clerk gives both.",
     "reading": "high"
@@ -7979,6 +7998,13 @@
     "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
     "original": "38. | Julius 22. | János | fi | tnyes | Nyemcsik János, Hresko másk. Minarcsin Erzsébet, RK zsel. | Szenna 77. | Samko János, Pajzsik [?] Zuzsanna | dtto | + 1879. áp. 15.",
     "english": "Child: János, son of János Nyemcsik and Erzsébet 'Hresko, otherwise Minarcsin', Roman Catholic cottars, Szenna 77; died 15 April 1879. The mother has two surnames, and the clerk gives both. The year is from the owner's file name."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-082",
+    "date": "2026-11-15",
+    "text": "The year 1875, until now from the owner's label, is on the full page (D-020-03)."
    }
   ]
  },
@@ -8400,8 +8426,8 @@
   "file": "Baptism_of_Maria_Duska_1875.png",
   "sha256": "e006f764dca14fc4578fa6974edc9645be09df46c6f855f38bf6fe4c9131a37e",
   "wide": true,
-  "title": "Baptism of Maria Duska, daughter of György Duska the elder and Anna Krak, Szenna 6, [1875]",
-  "span": "7 August [1875]",
+  "title": "Baptism of Maria Duska, daughter of György Duska the elder and Anna Krak, Szenna 6, 1875",
+  "span": "7 August 1875",
   "language": "Hungarian",
   "collector_label": "Baptism of Maria Duska 1875",
   "family": "FG-47",
@@ -8419,7 +8445,7 @@
   "entries": [
    {
     "no": "36",
-    "date": "7 August [1875]",
+    "date": "7 August 1875",
     "from": "Baptism register, Roman Catholic, Senné",
     "abstract": "Child: Maria, daughter of György Duska 'the elder' (idősb), Roman Catholic, and Anna Krak, Greek Catholic, cottars, Szenna 6. Godfather János Nyemcsik.",
     "reading": "high"
@@ -8430,6 +8456,13 @@
     "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
     "original": "36. | Augustus 7. | Maria | nő | tnyes | idősb Duska György, Krak Anna, Rk. Gk. zsellér | Szenna 6. | Nyemcsik János, Csizmarik Anna | dtto",
     "english": "Child: Maria, daughter of György Duska 'the elder' (idősb), Roman Catholic, and Anna Krak, Greek Catholic, cottars, Szenna 6. Godfather János Nyemcsik. The year is from the owner's file name."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-082",
+    "date": "2026-11-15",
+    "text": "The year 1875, until now from the owner's label, is on the full page (D-020-03)."
    }
   ]
  },
@@ -9637,8 +9670,8 @@
   "file": "Birth_of_Janos_Duska_1877.png",
   "sha256": "05aec63b3cdcc300c26ffae304fb19fc8fb2efeaf7d214fbd886852070dd7e40",
   "wide": true,
-  "title": "Baptism of János Duska, son of György Duska and Erzsébet Schvarcz, Szenna 6, [1877]",
-  "span": "4 August [1877]",
+  "title": "Baptism of János Duska, son of György Duska and Erzsébet Schvarcz, Szenna 6, 1877",
+  "span": "4 August 1877",
   "language": "Hungarian",
   "collector_label": "Birth of Janos Duska 1877",
   "family": "FG-48",
@@ -9656,7 +9689,7 @@
   "entries": [
    {
     "no": "40",
-    "date": "4 August [1877]",
+    "date": "4 August 1877",
     "from": "Baptism register, Roman Catholic, Senné",
     "abstract": "Child: János, son of György Duska, Roman Catholic, of Szenna, and Erzsébet Schvarcz, of Ribnicze, cottars; Szenna 6.",
     "reading": "medium"
@@ -9667,6 +9700,13 @@
     "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings.",
     "original": "40. | August 4. | János | fi | tnyes | Duska György Rk., Schvarcz Erzséb. [G]k., zsellérek, Szenna, Ribnicze | Szenna 6. | Muha János, Halász Mária urb. gazd. Rk. | dtto",
     "english": "Child: János, son of György Duska, Roman Catholic, of Szenna, and Erzsébet Schvarcz, of Ribnicze, cottars; Szenna 6. The year is from the owner's file name."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-082",
+    "date": "2026-11-15",
+    "text": "The year 1877, until now from the owner's label, is on the full page (D-020-04)."
    }
   ]
  },
@@ -30553,8 +30593,8 @@
   "file": "1895_-_Baptism_of_Gyorgy_Duska_son_of_Gyorgy_and_Anna_Krak_-_died_1875.png",
   "sha256": "37ee63b9fe391689d0b4ff91ced42e41c15158dd2c755c34312c7008ce6cada2",
   "wide": true,
-  "title": "Baptism of György Duska, son of György 'the younger' and Anna Krak, Szenna 6, 10 February [1872]; died 8 July 1875: a second image",
-  "span": "10 February [1872]",
+  "title": "Baptism of György Duska, son of György 'the younger' and Anna Krak, Szenna 6, 10 February 1872; died 8 July 1875: a second image",
+  "span": "10 February 1872",
   "language": "Hungarian",
   "collector_label": "1895 - Baptism of Gyorgy Duska son of Gyorgy and Anna Krak - died 1875",
   "family": "FG-47",
@@ -30572,7 +30612,7 @@
   "entries": [
    {
     "no": "8",
-    "date": "10 February [1872]",
+    "date": "10 February 1872",
     "from": "Church baptism register (original record, cropped strip)",
     "abstract": "Entry 8, 10 February: György, boy, legitimate; parents 'ifj. Duska György' and Anna Krak, Roman Catholic and Greek Catholic; house Szenna 6; godparents György Sztricsko and Anna Helis; in the margin a cross and '1875. Jul. 8.' The entry already held as D-009-33, where the word before the father's name could not be settled between 'id.' and 'if.'. On this image it is 'ifj.', the younger. In February [1872] the old György Duska of house 6 was still alive (he died in December [1873]), so Ahn 32 is 'the younger' beside him; by 1875 he is 'the elder' beside the husband of Erzsébet Schwarz. The owner's file name says 1895, a slip; his earlier label for the same entry says 1872.",
     "reading": "high; medium for 'ifj.'"
@@ -30583,6 +30623,13 @@
     "label": "Entry as written, column by column. Square brackets mark doubtful or supplied readings; a year in brackets is from the owner's file name only.",
     "original": "8. | 10. Febr. | György | fi | leg. | ifj. Duska György Krak Anna Rk Gk. | Szenna 6. | Sztricsko György Helis Anna | dtto | † 1875. Jul. 8.",
     "english": "Entry 8, 10 February: György, boy, legitimate; parents 'ifj. Duska György' and Anna Krak, Roman Catholic and Greek Catholic; house Szenna 6; godparents György Sztricsko and Anna Helis; in the margin a cross and '1875. Jul. 8.' The entry already held as D-009-33, where the word before the father's name could not be settled between 'id.' and 'if.'. On this image it is 'ifj.', the younger. In February [1872] the old György Duska of house 6 was still alive (he died in December [1873]), so Ahn 32 is 'the younger' beside him; by 1875 he is 'the elder' beside the husband of Erzsébet Schwarz. The owner's file name says 1895, a slip; his earlier label for the same entry says 1872."
+   }
+  ],
+  "corrections": [
+   {
+    "batch": "B-082",
+    "date": "2026-11-15",
+    "text": "The year 1872, until now from the owner's label, is on the full page (D-020-02)."
    }
   ]
  },
@@ -30945,5 +30992,756 @@
    }
   ],
   "held": "No image: a Word file whose properties carry an account name. The text is published in full in the folder's text/ directory."
+ },
+ {
+  "id": "D-019-01",
+  "folder": "F-019",
+  "batch": "B-082",
+  "source": "S-594",
+  "file": "Michal_Duska_arrival_screenshot_with_two_others_from_Senne_part_1.png",
+  "sha256": "90e29d64553ae517d6ac200741859ff2d13176325902aed16ac7a1d984d73195",
+  "wide": true,
+  "title": "Canadian passenger list, rows 2 to 4: Andrey Dzvunik, Mikulas Duska and Michal Duska, of Senne, 1930",
+  "span": "March 1930",
+  "language": "English",
+  "collector_label": "Michal Duska arrival screenshot with two others from Senne part 1",
+  "family": "FG-49",
+  "route": "duska",
+  "part": "2",
+  "provenance": {
+   "archive": "unknown; a Canadian passenger list by its form and its naturalisation notes",
+   "fond_or_film": "unknown",
+   "book": "Passenger list, ship and date not shown",
+   "page_or_image": "the image's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Hints', part 2, sent through chat on 15 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": "rows 2 to 4",
+    "date": "March 1930",
+    "from": "passenger list",
+    "abstract": "Three consecutive rows of a Canadian passenger manifest: 2, Andrey Dzvunik, 24; 3, Mikulas Duska, 39; 4, Michal Duska, 26; all labourers, of Senne, Slovak. Later hands add naturalisation notes: Dzvunik 'Nat. Jan. 26/40', Mikulas 'Nat. 21/1/46', Michal 'Nat. 22/4/40', with copy-of-record numbers. Beside Michal's row a hand has written 'Brother' with a bracket. Mikuláš (born 28 November 1890, son of György Duska the younger) and Michal (born 3 July 1903, son of András Duska) are not brothers by any record held: the annotation is a clerk's guess or belongs to another column. The rows already held as D-006-19, cut wider.",
+    "reading": "high; medium for the handwritten notes"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "2 DZVUNIK, Andrey | none | 24 | Cal. | Senne | Slov. | Nat. Jan. 26/40 || 3 DUSKA, Mikulas | 39 | Nat: 21/1/46 || 4 [DUSKA,] Michal | 26 | 'Brother' | Nat. 22/4/40",
+    "english": "Three consecutive rows of a Canadian passenger manifest: 2, Andrey Dzvunik, 24; 3, Mikulas Duska, 39; 4, Michal Duska, 26; all labourers, of Senne, Slovak. Later hands add naturalisation notes: Dzvunik 'Nat. Jan. 26/40', Mikulas 'Nat. 21/1/46', Michal 'Nat. 22/4/40', with copy-of-record numbers. Beside Michal's row a hand has written 'Brother' with a bracket. Mikuláš (born 28 November 1890, son of György Duska the younger) and Michal (born 3 July 1903, son of András Duska) are not brothers by any record held: the annotation is a clerk's guess or belongs to another column. The rows already held as D-006-19, cut wider."
+   }
+  ]
+ },
+ {
+  "id": "D-019-02",
+  "folder": "F-019",
+  "batch": "B-082",
+  "source": "S-595",
+  "file": "Michal_Duska_arrival_screenshot_with_two_others_from_Senne_part_2.png",
+  "sha256": "f645024b8698f9babfc3c4fe36bca1da3a67f98fa35572b86f9b0873cf23a53d",
+  "wide": true,
+  "title": "Canadian passenger list, right-hand page for the same three rows: destination, next of kin, passports, 1930",
+  "span": "March 1930",
+  "language": "English",
+  "collector_label": "Michal Duska arrival screenshot with two others from Senne part 2",
+  "family": "FG-49",
+  "route": "duska",
+  "part": "2",
+  "provenance": {
+   "archive": "unknown; a Canadian passenger list by its form and its naturalisation notes",
+   "fond_or_film": "unknown",
+   "book": "Passenger list, ship and date not shown",
+   "page_or_image": "the image's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Hints', part 2, sent through chat on 15 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": "rows 2 to 4",
+    "date": "March 1930",
+    "from": "passenger list",
+    "abstract": "The right-hand page of the same rows. Destination for all three: 'C.P.R. Col. Dept., Winnipeg, Man.' (the Canadian Pacific Railway's Colonization Department). Next of kin left behind: 'wife: Marie Dzvonik, Senne' for the first, and 'wife: Marie Duska, Senne' for each of the two Duskas. Passports issued at Kapušany ('Kapusanoch') on 23 February 1930 and 27 February 1930; each man shows $25. A stamp of 5-3-30 on each row. So both Duskas were married men with wives at Senné. Michal's wife Maria is Maria Demko (P-009); Mikuláš's is Mária Hankuscsák, by his marriage of 1913 (read in the next batch).",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "C.P.R. Col. Dept. Winnipeg, Man. | wife: Marie Dzvonik, Senne | Kapusanoch 23/2/30 | $25 || -- | wife: Marie Duska, Senne | Kapusanoch 27/2/30 | $25 || -- | wife: Marie Duska, Senne | Kapusanoch 27/2/30 | $25",
+    "english": "The right-hand page of the same rows. Destination for all three: 'C.P.R. Col. Dept., Winnipeg, Man.' (the Canadian Pacific Railway's Colonization Department). Next of kin left behind: 'wife: Marie Dzvonik, Senne' for the first, and 'wife: Marie Duska, Senne' for each of the two Duskas. Passports issued at Kapušany ('Kapusanoch') on 23 February 1930 and 27 February 1930; each man shows $25. A stamp of 5-3-30 on each row. So both Duskas were married men with wives at Senné. Michal's wife Maria is Maria Demko (P-009); Mikuláš's is Mária Hankuscsák, by his marriage of 1913 (read in the next batch)."
+   }
+  ]
+ },
+ {
+  "id": "D-019-03",
+  "folder": "F-019",
+  "batch": "B-082",
+  "source": "S-596",
+  "file": "michal_duska_boat_maybe.png",
+  "sha256": "970f16c2745b5799044992523849850bd1ba54b51435a5d436110485ac5d509f",
+  "wide": true,
+  "title": "Hamburg passenger lists, index record: Michal Duska, 26, of Senne, departed Hamburg 6 March 1930 on the Westphalia",
+  "span": "6 March 1930",
+  "language": "German and English",
+  "collector_label": "michal duska boat maybe",
+  "family": "FG-49",
+  "route": "duska",
+  "part": "2",
+  "provenance": {
+   "archive": "unknown; a Canadian passenger list by its form and its naturalisation notes",
+   "fond_or_film": "unknown",
+   "book": "Passenger list, ship and date not shown",
+   "page_or_image": "the image's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Hints', part 2, sent through chat on 15 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": null,
+    "date": "6 March 1930",
+    "from": "passenger list index",
+    "abstract": "A screen of an online index to the Hamburg emigration lists: Michal Duska, 26, residence Senne; departed Hamburg 6 March 1930 on the Westphalia of the Hamburg-Amerika Linie, third class, for Winnipeg; ports of call Cobh, Halifax, New York; source Staatsarchiv Hamburg, 373-7 I, VIII A 1 Band 377. No account name shows. This settles the port and day of his leaving Europe.",
+    "reading": "high (a printed index)"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "Name: Michal Duska | Age: 26 | Residence: Senne | Departure: 6 Mar 1930, Hamburg | Ship: Westphalia | Line: Hamburg-Amerika Linie | Class: 3 | Destination: Winnipeg | Ports: Cobh; Halifax; New York | Staatsarchiv Hamburg 373-7 I, VIII A 1 Band 377",
+    "english": "A screen of an online index to the Hamburg emigration lists: Michal Duska, 26, residence Senne; departed Hamburg 6 March 1930 on the Westphalia of the Hamburg-Amerika Linie, third class, for Winnipeg; ports of call Cobh, Halifax, New York; source Staatsarchiv Hamburg, 373-7 I, VIII A 1 Band 377. No account name shows. This settles the port and day of his leaving Europe."
+   }
+  ]
+ },
+ {
+  "id": "D-019-04",
+  "folder": "F-019",
+  "batch": "B-082",
+  "source": "S-597",
+  "file": "Mikulas_Duska_boat_maybe.png",
+  "sha256": "eee1d63e5b95b62863ee429699503e5ba30d4ad2b5c7b693f68941ddfbac61cd",
+  "wide": true,
+  "title": "Hamburg passenger lists, index record: Mikulas Duska, 39, married, of Senne, departed Hamburg 6 March 1930 on the Westphalia",
+  "span": "6 March 1930",
+  "language": "German and English",
+  "collector_label": "Mikulas Duska boat maybe",
+  "family": "FG-48",
+  "route": "duska",
+  "part": "2",
+  "provenance": {
+   "archive": "unknown; a Canadian passenger list by its form and its naturalisation notes",
+   "fond_or_film": "unknown",
+   "book": "Passenger list, ship and date not shown",
+   "page_or_image": "the image's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Hints', part 2, sent through chat on 15 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": null,
+    "date": "6 March 1930",
+    "from": "passenger list index",
+    "abstract": "The same index for Mikulas Duska, 39, married, residence Senne: the same ship, day, line, class, destination and volume. The two left together.",
+    "reading": "high (a printed index)"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "Name: Mikulas Duska | Age: 39 | Married | Residence: Senne | Departure: 6 Mar 1930, Hamburg | Ship: Westphalia | Class: 3 | Destination: Winnipeg | Staatsarchiv Hamburg 373-7 I, VIII A 1 Band 377",
+    "english": "The same index for Mikulas Duska, 39, married, residence Senne: the same ship, day, line, class, destination and volume. The two left together."
+   }
+  ]
+ },
+ {
+  "id": "D-019-05",
+  "folder": "F-019",
+  "batch": "B-082",
+  "source": "S-598",
+  "file": "Michael_Duska_Arrival_with_Mikulas_Duska.png",
+  "sha256": "329d2d194c7181cd2c186931fa89396c3bd4785d3c1f1014ff255c21368b22d6",
+  "wide": true,
+  "title": "Index to arrivals in Canada: Duska, Mikulas, 39, and Duska, Michal, 26, page 81",
+  "span": "1930",
+  "language": "English",
+  "collector_label": "Michael Duska Arrival with Mikulas Duska",
+  "family": "FG-49",
+  "route": "duska",
+  "part": "2",
+  "provenance": {
+   "archive": "unknown; a Canadian passenger list by its form and its naturalisation notes",
+   "fond_or_film": "unknown",
+   "book": "Passenger list, ship and date not shown",
+   "page_or_image": "page 81",
+   "obtained": "From the owner's desktop folder 'Duska Hints', part 2, sent through chat on 15 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": null,
+    "date": "1930",
+    "from": "arrivals index",
+    "abstract": "Two lines of the index to Canadian arrivals: Duska, Mikulas, 39, and Duska, Michal, 26, both on page 81 of their list. The index to the manifest already held as D-006-19.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "Duska Mikulas 39 ... 81 | Duska Michal 26 ... 81",
+    "english": "Two lines of the index to Canadian arrivals: Duska, Mikulas, 39, and Duska, Michal, 26, both on page 81 of their list. The index to the manifest already held as D-006-19."
+   }
+  ]
+ },
+ {
+  "id": "D-019-06",
+  "folder": "F-019",
+  "batch": "B-082",
+  "source": "S-599",
+  "file": "Mihaily_Duska_Baptism_1903_maybe.png",
+  "sha256": "e8b904c11012c076f9de9e7172992a1ded01bd682793741551aa0fe6e70ac1ca",
+  "wide": true,
+  "title": "Baptism of Mihály Duska (Ahn 8), son of András Duska and Anna Nyemcsik, Szenna 79, 3 and 4 July 1903: another image",
+  "span": "3 July 1903",
+  "language": "Hungarian",
+  "collector_label": "Mihaily Duska Baptism 1903 maybe",
+  "family": "FG-49",
+  "route": "duska",
+  "part": "2",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, church registers catalogue no. 1089 (Senné Roman Catholic births, 1866 to 1912); FamilySearch catalogue 710997. Volume reference from the Places agent's holdings entry PL-R-001 @641ba53; not on the strip.",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic baptism register of Senné (Szenna, Ungszenna), by the owner's folder name and the officiants' titles",
+   "page_or_image": "page 203",
+   "obtained": "From the owner's desktop folder 'Duska Hints', part 2, sent through chat on 15 Nov 2026.",
+   "catalogue_lead": "Places agent, @208af51: Senné Roman Catholic births from 1866 are Prešov state archive catalogue no. 1089 (L-018). The page of this strip is not established.",
+   "collection_lead": "FamilySearch, 'Slovakia Church and Synagogue Books, 1592-1935', Roman Catholic, Veľké Kapušany, Senné, 'Baptisms (Krsty) 1866-191[.] ... Deaths (Úmrtia) 1831-1877', 337 images: read from the viewer's header on the owner's screenshot D-006-04. The image number of this strip is not known."
+  },
+  "entries": [
+   {
+    "no": "33",
+    "date": "3 July 1903",
+    "from": "baptism",
+    "abstract": "Entry 33: born 3 July, baptised 4 July 1903: Mihály, boy, legitimate; parents 'Duska András ifj.', Roman Catholic cottar of Szenna, and Anna Nyemcsik [Nyemecz], Roman Catholic; house Szenna 79; godparents János Hreha [Hreko?], Greek Catholic cottar, and Anna Laskodi, Roman Catholic, of Szenna; baptised by Gyula Buzinkay. The father is 'the younger' here, as the Demko agent also reads it. A second image of the entry already held as D-009-79; the two agree in every field read. The owner filed this same file a second time in his marriages folder as 'Marriage of Andras Duska 1833'.",
+    "reading": "high; medium for 'ifj.'"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "33. | 1903 júl. 3. | 1903 júl. 4. | Mihály | fi | törv. | Duska András ifj. rk. zsellér Szenna; Nyemecz Anna rk. | Szenna 79. | Hreha János gk. zsellér; Laskodi Anna rk. szennaiak | Buzinkay Gyula plébános",
+    "english": "Entry 33: born 3 July, baptised 4 July 1903: Mihály, boy, legitimate; parents 'Duska András ifj.', Roman Catholic cottar of Szenna, and Anna Nyemcsik [Nyemecz], Roman Catholic; house Szenna 79; godparents János Hreha [Hreko?], Greek Catholic cottar, and Anna Laskodi, Roman Catholic, of Szenna; baptised by Gyula Buzinkay. The father is 'the younger' here, as the Demko agent also reads it. A second image of the entry already held as D-009-79; the two agree in every field read. The owner filed this same file a second time in his marriages folder as 'Marriage of Andras Duska 1833'."
+   }
+  ]
+ },
+ {
+  "id": "D-019-07",
+  "folder": "F-019",
+  "batch": "B-082",
+  "source": "S-600",
+  "file": "andras_duska_1868_baptism.png",
+  "sha256": "9e8319b253a7e7e11b0cff89b9a9f0c257ba1f16745f6250d08a4fdc5bec3c58",
+  "wide": true,
+  "title": "Baptism of Andreas Duska (Ahn 16), son of Georgius Duska and Anna Krak, Szenna 6, 24 November 1868: another image",
+  "span": "24 November 1868",
+  "language": "Latin",
+  "collector_label": "andras duska 1868 baptism",
+  "family": "FG-47",
+  "route": "duska",
+  "part": "1",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, church registers catalogue no. 1089 (Senné Roman Catholic births, 1866 to 1912); FamilySearch catalogue 710997. Volume reference from the Places agent's holdings entry PL-R-001 @641ba53; not on the strip.",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic baptism register of Senné (Szenna, Ungszenna), by the owner's folder name and the officiants' titles",
+   "page_or_image": "page 13",
+   "obtained": "From the owner's desktop folder 'Duska Hints', part 1, sent through chat on 15 Nov 2026.",
+   "catalogue_lead": "Places agent, @208af51: Senné Roman Catholic births from 1866 are Prešov state archive catalogue no. 1089 (L-018). The page of this strip is not established.",
+   "collection_lead": "FamilySearch, 'Slovakia Church and Synagogue Books, 1592-1935', Roman Catholic, Veľké Kapušany, Senné, 'Baptisms (Krsty) 1866-191[.] ... Deaths (Úmrtia) 1831-1877', 337 images: read from the viewer's header on the owner's screenshot D-006-04. The image number of this strip is not known."
+  },
+  "entries": [
+   {
+    "no": "78",
+    "date": "24 November 1868",
+    "from": "baptism",
+    "abstract": "Entry 78: Andreas, son of Georgius Duska and Anna Krak, Roman and Greek Catholic inquilini, Szenna 6; godparents Georgius Sztricsko and Anna Holis; in the margin '+ 1940 VIII 22'. The year 1868 and the day are on the full page sent in the next folder (D-020-01). A second image of the entry already held as D-009-06; the two agree in every field read.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "78. | [24 Nov] | Andreas | Georgius Duska, Anna Krak | inquil. | R.C., G.C. | Szenna 6 | Georgius Sztricsko, Anna Holis | + 1940 VIII 22",
+    "english": "Entry 78: Andreas, son of Georgius Duska and Anna Krak, Roman and Greek Catholic inquilini, Szenna 6; godparents Georgius Sztricsko and Anna Holis; in the margin '+ 1940 VIII 22'. The year 1868 and the day are on the full page sent in the next folder (D-020-01). A second image of the entry already held as D-009-06; the two agree in every field read."
+   }
+  ]
+ },
+ {
+  "id": "D-019-08",
+  "folder": "F-019",
+  "batch": "B-082",
+  "source": "S-601",
+  "file": "andrej_-_andras_duska_baptism_1868_Zetos_Dad.png",
+  "sha256": "af3ad2b2ae2d335150f2f6a3b7619b0cfb28263cd9afd2337af1c9cb0c14706a",
+  "wide": true,
+  "title": "Baptism of Andreas Duska (Ahn 16), Szenna 6, 1868: a third image, labelled by the owner 'Zetos Dad'",
+  "span": "24 November 1868",
+  "language": "Latin",
+  "collector_label": "andrej - andras duska baptism 1868 Zetos Dad",
+  "family": "FG-47",
+  "route": "duska",
+  "part": "1",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, church registers catalogue no. 1089 (Senné Roman Catholic births, 1866 to 1912); FamilySearch catalogue 710997. Volume reference from the Places agent's holdings entry PL-R-001 @641ba53; not on the strip.",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic baptism register of Senné (Szenna, Ungszenna), by the owner's folder name and the officiants' titles",
+   "page_or_image": "page 13",
+   "obtained": "From the owner's desktop folder 'Duska Hints', part 1, sent through chat on 15 Nov 2026.",
+   "catalogue_lead": "Places agent, @208af51: Senné Roman Catholic births from 1866 are Prešov state archive catalogue no. 1089 (L-018). The page of this strip is not established.",
+   "collection_lead": "FamilySearch, 'Slovakia Church and Synagogue Books, 1592-1935', Roman Catholic, Veľké Kapušany, Senné, 'Baptisms (Krsty) 1866-191[.] ... Deaths (Úmrtia) 1831-1877', 337 images: read from the viewer's header on the owner's screenshot D-006-04. The image number of this strip is not known."
+  },
+  "entries": [
+   {
+    "no": "78",
+    "date": "24 November 1868",
+    "from": "baptism",
+    "abstract": "The same entry 78, cut again. The owner's label calls the child 'Zetos Dad'. Nothing in the entry explains the name; it is recorded as his label. A second image of the entry already held as D-009-06; the two agree in every field read.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "78. | Andreas | Georgius Duska, Anna Krak | Szenna 6 | Georgius Sztricsko, Anna Holis | + 1940 VIII 22",
+    "english": "The same entry 78, cut again. The owner's label calls the child 'Zetos Dad'. Nothing in the entry explains the name; it is recorded as his label. A second image of the entry already held as D-009-06; the two agree in every field read."
+   }
+  ]
+ },
+ {
+  "id": "D-019-09",
+  "folder": "F-019",
+  "batch": "B-082",
+  "source": "S-602",
+  "file": "JurajGeyorgi_Duska_potential_Michal_brother_baptism.png",
+  "sha256": "6ed0fc9c89b2709b20af231f645b5ebf200f326173ce9948f2d0018a74933596",
+  "wide": true,
+  "title": "Baptism of György Trecsák, son of Mihály Trecsák and Anna Oláh, Solymos 85, 22 and 23 November 1909: filed by the owner as a possible brother of Michal Duska",
+  "span": "22 November 1909",
+  "language": "Hungarian",
+  "collector_label": "JurajGeyorgi Duska potential Michal brother baptism",
+  "family": null,
+  "route": "duska",
+  "part": "1",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, church registers catalogue no. 1089 (Senné Roman Catholic births, 1866 to 1912); FamilySearch catalogue 710997. Volume reference from the Places agent's holdings entry PL-R-001 @641ba53; not on the strip.",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic baptism register of Senné (Szenna, Ungszenna), by the owner's folder name and the officiants' titles",
+   "page_or_image": "the image's own page is not known",
+   "obtained": "From the owner's desktop folder 'Duska Hints', part 1, sent through chat on 15 Nov 2026.",
+   "catalogue_lead": "Places agent, @208af51: Senné Roman Catholic births from 1866 are Prešov state archive catalogue no. 1089 (L-018). The page of this strip is not established.",
+   "collection_lead": "FamilySearch, 'Slovakia Church and Synagogue Books, 1592-1935', Roman Catholic, Veľké Kapušany, Senné, 'Baptisms (Krsty) 1866-191[.] ... Deaths (Úmrtia) 1831-1877', 337 images: read from the viewer's header on the owner's screenshot D-006-04. The image number of this strip is not known."
+  },
+  "entries": [
+   {
+    "no": "59",
+    "date": "22 November 1909",
+    "from": "baptism",
+    "abstract": "Entry 59: born 22 November, baptised 23 November 1909: György, son of Mihály Trecsák and Anna Oláh, Solymos 85. There is no Duska in the entry. The owner's label, 'Juraj/Georgi Duska, potential Michal brother', does not fit it. Michal's brother György, born 17 February 1910, is held already (D-009-38).",
+    "reading": "high for the surname"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "59. | 1909 nov. 22. | nov. 23. | György | Trecsák Mihály; Oláh Anna | Solymos 85",
+    "english": "Entry 59: born 22 November, baptised 23 November 1909: György, son of Mihály Trecsák and Anna Oláh, Solymos 85. There is no Duska in the entry. The owner's label, 'Juraj/Georgi Duska, potential Michal brother', does not fit it. Michal's brother György, born 17 February 1910, is held already (D-009-38)."
+   }
+  ]
+ },
+ {
+  "id": "D-019-10",
+  "folder": "F-019",
+  "batch": "B-082",
+  "source": "S-603",
+  "file": "Amalia_Duska_-_son_of_Michal_Duska_-_age_27_arriving_in_NYC_1923.png",
+  "sha256": "f587e54ee28b1fef0933f590e82fd36cb716b23852e239196f2d8cb1c490b45e",
+  "wide": true,
+  "title": "United States arrival, 1923: Amalia Duska, 27, domestic, of Veľké Leváre, father Michal Duska",
+  "span": "1923",
+  "language": "English",
+  "collector_label": "Amalia Duska - son of Michal Duska - age 27 arriving in NYC 1923",
+  "family": null,
+  "route": "duska",
+  "part": "1",
+  "provenance": {
+   "archive": "unknown; a Canadian passenger list by its form and its naturalisation notes",
+   "fond_or_film": "unknown",
+   "book": "Passenger list, ship and date not shown",
+   "page_or_image": "line 17",
+   "obtained": "From the owner's desktop folder 'Duska Hints', part 1, sent through chat on 15 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": "17",
+    "date": "1923",
+    "from": "passenger list",
+    "abstract": "Line 17 of a New York manifest of 1923: Amalia Duska, 27, female, domestic, of 'Welkelewari'; nearest relative her father Michal Duska, 311 Velké Leváre, Bratislava. Veľké Leváre is in the far west of Slovakia, on the Moravian border, some 450 km from Senné. A different Duska family (rule 30): tracked, not attached. The owner's label calls her a son.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "17 | Duska | Amalia | 27 | F | domestic | Welkelewari | father Michal Duska, 311 Velké Leváre, Bratislava",
+    "english": "Line 17 of a New York manifest of 1923: Amalia Duska, 27, female, domestic, of 'Welkelewari'; nearest relative her father Michal Duska, 311 Velké Leváre, Bratislava. Veľké Leváre is in the far west of Slovakia, on the Moravian border, some 450 km from Senné. A different Duska family (rule 30): tracked, not attached. The owner's label calls her a son."
+   }
+  ]
+ },
+ {
+  "id": "D-019-11",
+  "folder": "F-019",
+  "batch": "B-082",
+  "source": "S-604",
+  "file": "maria_demko_arrival_1937_at_age_31.png",
+  "sha256": "3590a5195dabb7db3bb891ffb269b7a934a6b65ef3b3684037b91ae76a8ca0e0",
+  "wide": true,
+  "title": "Index to arrivals in Canada, 1937: Duska, Maria, 31, and Stephan, 8, page 263: another image",
+  "span": "1937",
+  "language": "English",
+  "collector_label": "maria demko arrival 1937 at age 31",
+  "family": "FG-49",
+  "route": "duska",
+  "part": "2",
+  "provenance": {
+   "archive": "unknown; a Canadian passenger list by its form and its naturalisation notes",
+   "fond_or_film": "unknown",
+   "book": "Passenger list, ship and date not shown",
+   "page_or_image": "page 263",
+   "obtained": "From the owner's desktop folder 'Duska Hints', part 2, sent through chat on 15 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": null,
+    "date": "1937",
+    "from": "arrivals index",
+    "abstract": "The index lines for Maria Duska, 31, and Stephan Duska, 8, page 263. The entry already held as D-015-02, cut differently.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "Duska Maria 31 ... 263 | Duska Stephan 8 ... 263",
+    "english": "The index lines for Maria Duska, 31, and Stephan Duska, 8, page 263. The entry already held as D-015-02, cut differently."
+   }
+  ]
+ },
+ {
+  "id": "D-020-01",
+  "folder": "F-020",
+  "batch": "B-082",
+  "source": "S-605",
+  "file": "Andreas_Duska_1868_Baptism.jpg",
+  "sha256": "3f12a9731ca240e46a8026011df4f4ce4f950c22a9c49134943abeab094ae723",
+  "wide": true,
+  "title": "Senné Roman Catholic baptisms, pages 12 and 13, 1868: the full opening with the baptism of Andreas Duska (Ahn 16) and of Michael Nyemcsik",
+  "span": "1868",
+  "language": "Latin",
+  "collector_label": "Andreas Duska 1868 Baptism",
+  "family": "FG-47",
+  "route": "duska",
+  "part": "full",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent (PL-R-001); filmed, and read here from a frame of the film",
+   "fond_or_film": "Roman Catholic parish of Senné, no. 1089, baptisms",
+   "book": "Baptism register of the Roman Catholic parish of Szenna (Senné): a full opening of the book as filmed. Volume by the Places agent's catalogue reading (PL-R-001): Prešov state archive, Senné Roman Catholic, no. 1089 (births from 1866). The owner's earlier screenshot (D-006-04) places the film in FamilySearch's 'Slovakia Church and Synagogue Books', Roman Catholic, Veľké Kapušany, Senné.",
+   "page_or_image": "pages 12 and 13",
+   "obtained": "From the owner's desktop folder 'Duska Hypotheses Hints', sent through chat on 15 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": "53 to 78",
+    "date": "1868",
+    "from": "baptism register opening",
+    "abstract": "The full two-page opening headed 'Annus Christi 1868'. Entry 78, 24 November: Andreas, son of Georgius Duska and Anna Krak, Szenna 6 (D-009-06). Entry 53, 28 July: Michael, son of Joannes Nyemcsik and Elisabetha Hresko alias Minarcsin, Szenna 79, died 8 August 1868 (D-009-77). The year of Ahn 16's baptism, until now taken from the owner's label, is on the page.",
+    "reading": "high for the heading and the two entries named"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "Annus Christi 1868 | 53. 28 Jul. Michael — Joannes Nyemcsik, Elisab. Hresko a. Minarcsin — Szenna 79 — † 8 Aug. 1868 | ... | 78. 24 Nov. Andreas — Georgius Duska, Anna Krak — Szenna 6",
+    "english": "The full two-page opening headed 'Annus Christi 1868'. Entry 78, 24 November: Andreas, son of Georgius Duska and Anna Krak, Szenna 6 (D-009-06). Entry 53, 28 July: Michael, son of Joannes Nyemcsik and Elisabetha Hresko alias Minarcsin, Szenna 79, died 8 August 1868 (D-009-77). The year of Ahn 16's baptism, until now taken from the owner's label, is on the page."
+   }
+  ]
+ },
+ {
+  "id": "D-020-02",
+  "folder": "F-020",
+  "batch": "B-082",
+  "source": "S-606",
+  "file": "Gyorgy_Duska_1872_baptism.jpg",
+  "sha256": "d86e5b053e2e26892402a7d203f2e1c07669a0a8a68ab0d16122e8f49e489a05",
+  "wide": true,
+  "title": "Senné Roman Catholic baptisms, pages 26 and 27, 1871 and 1872: the full opening with the baptism of György Duska of February 1872",
+  "span": "1871 to 1872",
+  "language": "Hungarian and Latin",
+  "collector_label": "Gyorgy Duska 1872 baptism",
+  "family": "FG-47",
+  "route": "duska",
+  "part": "full",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent (PL-R-001); filmed, and read here from a frame of the film",
+   "fond_or_film": "Roman Catholic parish of Senné, no. 1089, baptisms",
+   "book": "Baptism register of the Roman Catholic parish of Szenna (Senné): a full opening of the book as filmed. Volume by the Places agent's catalogue reading (PL-R-001): Prešov state archive, Senné Roman Catholic, no. 1089 (births from 1866). The owner's earlier screenshot (D-006-04) places the film in FamilySearch's 'Slovakia Church and Synagogue Books', Roman Catholic, Veľké Kapušany, Senné.",
+   "page_or_image": "pages 26 and 27",
+   "obtained": "From the owner's desktop folder 'Duska Hypotheses Hints', sent through chat on 15 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": "8",
+    "date": "1871 to 1872",
+    "from": "baptism register opening",
+    "abstract": "The opening runs from the end of 1871 into 1872, with the heading for 1872 above entry 1. Entry 8, 10 February 1872: György, son of 'ifj.' György Duska and Anna Krak, Szenna 6, died 8 July 1875 (D-009-33, D-018-26). The year is on the page.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "1872 | 8. 10. Febr. György — ifj. Duska György, Krak Anna — Szenna 6 — † 1875. Jul. 8.",
+    "english": "The opening runs from the end of 1871 into 1872, with the heading for 1872 above entry 1. Entry 8, 10 February 1872: György, son of 'ifj.' György Duska and Anna Krak, Szenna 6, died 8 July 1875 (D-009-33, D-018-26). The year is on the page."
+   }
+  ]
+ },
+ {
+  "id": "D-020-03",
+  "folder": "F-020",
+  "batch": "B-082",
+  "source": "S-607",
+  "file": "Anna_Duska_1875_Baptism.jpg",
+  "sha256": "8d4c84c98da5137059fddf0079587c7de37ee202f38d1a1858311d1c73b5560e",
+  "wide": true,
+  "title": "Senné Roman Catholic baptisms, pages 42 and 43, 1875: Anna Duska, János Nyemcsik and Mária Duska",
+  "span": "1875",
+  "language": "Hungarian",
+  "collector_label": "Anna Duska 1875 Baptism",
+  "family": "FG-48",
+  "route": "duska",
+  "part": "full",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent (PL-R-001); filmed, and read here from a frame of the film",
+   "fond_or_film": "Roman Catholic parish of Senné, no. 1089, baptisms",
+   "book": "Baptism register of the Roman Catholic parish of Szenna (Senné): a full opening of the book as filmed. Volume by the Places agent's catalogue reading (PL-R-001): Prešov state archive, Senné Roman Catholic, no. 1089 (births from 1866). The owner's earlier screenshot (D-006-04) places the film in FamilySearch's 'Slovakia Church and Synagogue Books', Roman Catholic, Veľké Kapušany, Senné.",
+   "page_or_image": "pages 42 and 43",
+   "obtained": "From the owner's desktop folder 'Duska Hypotheses Hints', sent through chat on 15 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": "27, 28, 36",
+    "date": "1875",
+    "from": "baptism register opening",
+    "abstract": "The full opening of 1875. Entry 27, 21 July: Anna, daughter of ifj. György Duska and Erzsébet Schwarcz, Szenna 5 (D-009-13). Entry 28, 22 July: János, son of János Nyemcsik and Erzsébet Hresko alias Minarcsin, Szenna 77, died 15 April 1879 (D-009-52). Entry 36, 7 August: Mária, daughter of idősb György Duska and Anna Krak, Szenna 6 (D-009-63), godfather János Nyemcsik. CORRECTION: D-009-13 was dated [1879] from the owner's label; the page shows 1875. Ahn 34 standing godfather to a daughter of Ahn 32 in 1875 is the first tie found between the two families, seventeen years before their children married.",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "1875 | 27. júl. 21. Anna — ifj. Duska György, Schwarcz Erzsébet — Szenna 5 | 28. júl. 22. János — Nyemcsik János, Hresko másk. Minarcsin Erzsébet — Szenna 77 — † 1879 ap. 15 | 36. aug. 7. Mária — idősb Duska György, Krak Anna — Szenna 6 — kereszt.: Nyemcsik János",
+    "english": "The full opening of 1875. Entry 27, 21 July: Anna, daughter of ifj. György Duska and Erzsébet Schwarcz, Szenna 5 (D-009-13). Entry 28, 22 July: János, son of János Nyemcsik and Erzsébet Hresko alias Minarcsin, Szenna 77, died 15 April 1879 (D-009-52). Entry 36, 7 August: Mária, daughter of idősb György Duska and Anna Krak, Szenna 6 (D-009-63), godfather János Nyemcsik. CORRECTION: D-009-13 was dated [1879] from the owner's label; the page shows 1875. Ahn 34 standing godfather to a daughter of Ahn 32 in 1875 is the first tie found between the two families, seventeen years before their children married."
+   }
+  ]
+ },
+ {
+  "id": "D-020-04",
+  "folder": "F-020",
+  "batch": "B-082",
+  "source": "S-608",
+  "file": "Janos_Duska_1877_baptism.jpg",
+  "sha256": "92c8b0f0b4e9133f7f3623e47476f6699efafee6b47059dfed3f2e92f8a068a0",
+  "wide": true,
+  "title": "Senné Roman Catholic baptisms, pages 50 and 51, 1877: the full opening with the baptism of János Duska",
+  "span": "1877",
+  "language": "Hungarian",
+  "collector_label": "Janos Duska 1877 baptism",
+  "family": "FG-48",
+  "route": "duska",
+  "part": "full",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent (PL-R-001); filmed, and read here from a frame of the film",
+   "fond_or_film": "Roman Catholic parish of Senné, no. 1089, baptisms",
+   "book": "Baptism register of the Roman Catholic parish of Szenna (Senné): a full opening of the book as filmed. Volume by the Places agent's catalogue reading (PL-R-001): Prešov state archive, Senné Roman Catholic, no. 1089 (births from 1866). The owner's earlier screenshot (D-006-04) places the film in FamilySearch's 'Slovakia Church and Synagogue Books', Roman Catholic, Veľké Kapušany, Senné.",
+   "page_or_image": "pages 50 and 51",
+   "obtained": "From the owner's desktop folder 'Duska Hypotheses Hints', sent through chat on 15 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": "43",
+    "date": "1877",
+    "from": "baptism register opening",
+    "abstract": "The full opening of 1877. Entry 43, 4 August: János, son of György Duska and Erzsébet Schwarcz, Szenna 6 (D-009-93); a dean's visitation note of 19 June on the page. The year is on the page; his marriage entry of 1898 gives the same birthday (D-018-24).",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "1877 | 43. aug. 4. János — Duska György, Schwarcz Erzsébet — Szenna 6",
+    "english": "The full opening of 1877. Entry 43, 4 August: János, son of György Duska and Erzsébet Schwarcz, Szenna 6 (D-009-93); a dean's visitation note of 19 June on the page. The year is on the page; his marriage entry of 1898 gives the same birthday (D-018-24)."
+   }
+  ]
+ },
+ {
+  "id": "D-020-05",
+  "folder": "F-020",
+  "batch": "B-082",
+  "source": "S-609",
+  "file": "Jozsef_Duska_1885_baptism.jpg",
+  "sha256": "0e6b2c207149cff39d41e281f57c34c31f093763c763e63c768fc32e7b467edb",
+  "wide": true,
+  "title": "Senné Roman Catholic baptisms, pages 76 and 77, 1885: the full opening with the baptism of József Duska",
+  "span": "1885",
+  "language": "Hungarian",
+  "collector_label": "Jozsef Duska 1885 baptism",
+  "family": "FG-48",
+  "route": "duska",
+  "part": "full",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent (PL-R-001); filmed, and read here from a frame of the film",
+   "fond_or_film": "Roman Catholic parish of Senné, no. 1089, baptisms",
+   "book": "Baptism register of the Roman Catholic parish of Szenna (Senné): a full opening of the book as filmed. Volume by the Places agent's catalogue reading (PL-R-001): Prešov state archive, Senné Roman Catholic, no. 1089 (births from 1866). The owner's earlier screenshot (D-006-04) places the film in FamilySearch's 'Slovakia Church and Synagogue Books', Roman Catholic, Veľké Kapušany, Senné.",
+   "page_or_image": "pages 76 and 77",
+   "obtained": "From the owner's desktop folder 'Duska Hypotheses Hints', sent through chat on 15 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": "18",
+    "date": "1885",
+    "from": "baptism register opening",
+    "abstract": "The full opening of 1885. Entry 18, 29 May: József, son of György Duska and Erzsébet Schwarcz, Szenna 6, with a later note of his death on 18 August 1950 (D-009-60).",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "1885 | 18. máj. 29. József — Duska György, Schwarcz Erzsébet — Szenna 6 — † 18.VIII.1950",
+    "english": "The full opening of 1885. Entry 18, 29 May: József, son of György Duska and Erzsébet Schwarcz, Szenna 6, with a later note of his death on 18 August 1950 (D-009-60)."
+   }
+  ]
+ },
+ {
+  "id": "D-020-06",
+  "folder": "F-020",
+  "batch": "B-082",
+  "source": "S-610",
+  "file": "Pal_Duska_1887_baptism.jpg",
+  "sha256": "e88a030a404391ac553666570908d5931a257d72a6a970bdb4d5b0fe0425877f",
+  "wide": true,
+  "title": "Senné Roman Catholic baptisms, pages 92 and 93, 1887: the full opening with the baptism of Pál Duska",
+  "span": "1887",
+  "language": "Hungarian",
+  "collector_label": "Pal Duska 1887 baptism",
+  "family": "FG-48",
+  "route": "duska",
+  "part": "full",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent (PL-R-001); filmed, and read here from a frame of the film",
+   "fond_or_film": "Roman Catholic parish of Senné, no. 1089, baptisms",
+   "book": "Baptism register of the Roman Catholic parish of Szenna (Senné): a full opening of the book as filmed. Volume by the Places agent's catalogue reading (PL-R-001): Prešov state archive, Senné Roman Catholic, no. 1089 (births from 1866). The owner's earlier screenshot (D-006-04) places the film in FamilySearch's 'Slovakia Church and Synagogue Books', Roman Catholic, Veľké Kapušany, Senné.",
+   "page_or_image": "pages 92 and 93",
+   "obtained": "From the owner's desktop folder 'Duska Hypotheses Hints', sent through chat on 15 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": "51",
+    "date": "1887",
+    "from": "baptism register opening",
+    "abstract": "The full opening of 1887. Entry 51, 28 October: Pál, son of György Duska and Erzsébet Schwarcz of Alsó-Ribnicze, Szenna 6 (D-009-36).",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "1887 | 51. okt. 28. Pál — Duska György, Schwarcz Erzsébet (Alsó-Ribnicze) — Szenna 6",
+    "english": "The full opening of 1887. Entry 51, 28 October: Pál, son of György Duska and Erzsébet Schwarcz of Alsó-Ribnicze, Szenna 6 (D-009-36)."
+   }
+  ]
+ },
+ {
+  "id": "D-020-07",
+  "folder": "F-020",
+  "batch": "B-082",
+  "source": "S-611",
+  "file": "Erzsebet_Schwrz_1851_baptism_hypothesis.jpg",
+  "sha256": "5acc7caecda34898f9da66ee04607c752568428635fe3fff6e1226103f572b84",
+  "wide": true,
+  "title": "A Roman Catholic baptism opening of 1852 from another parish (Csúz and Für), filed by the owner as a hypothesis for Erzsébet Schwarz",
+  "span": "1852",
+  "language": "Latin",
+  "collector_label": "Erzsebet Schwrz 1851 baptism hypothesis",
+  "family": null,
+  "route": "duska",
+  "part": "full",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, by the Places agent (PL-R-001); filmed, and read here from a frame of the film",
+   "fond_or_film": "Roman Catholic parish of Senné, no. 1089, baptisms",
+   "book": "Baptism register of the Roman Catholic parish of Szenna (Senné): a full opening of the book as filmed. Volume by the Places agent's catalogue reading (PL-R-001): Prešov state archive, Senné Roman Catholic, no. 1089 (births from 1866). The owner's earlier screenshot (D-006-04) places the film in FamilySearch's 'Slovakia Church and Synagogue Books', Roman Catholic, Veľké Kapušany, Senné.",
+   "page_or_image": "pages 112 and 113",
+   "obtained": "From the owner's desktop folder 'Duska Hypotheses Hints', sent through chat on 15 Nov 2026."
+  },
+  "entries": [
+   {
+    "no": null,
+    "date": "1852",
+    "from": "baptism register opening",
+    "abstract": "A two-page opening of 1852 from a parish far from Senné, with the place names Csúz and Für. On it a stillborn son of Franciscus Schwarz and Catharina Stanczkó, 19 February. No Erzsébet Schwarz is on the opening. The owner's label marks it a hypothesis; it is not followed. Erzsébet Schwarz was 20 at her marriage in January 1872 (born about 1851) and of Ribnicze by her sons' entries.",
+    "reading": "medium"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "1852 | 19 Febr. — [stillborn son] — Franciscus Schwarz, Catharina Stanczkó",
+    "english": "A two-page opening of 1852 from a parish far from Senné, with the place names Csúz and Für. On it a stillborn son of Franciscus Schwarz and Catharina Stanczkó, 19 February. No Erzsébet Schwarz is on the opening. The owner's label marks it a hypothesis; it is not followed. Erzsébet Schwarz was 20 at her marriage in January 1872 (born about 1851) and of Ribnicze by her sons' entries."
+   }
+  ]
+ },
+ {
+  "id": "D-020-08",
+  "folder": "F-020",
+  "batch": "B-082",
+  "source": "S-612",
+  "file": "Andras_Duska_1882s_baptism_Michals_father_-maybe.png",
+  "sha256": "08d0a204b3f08dbb3c17739dc22389d4d39d48727dbfbd5ef1d075503181e61b",
+  "wide": true,
+  "title": "Baptism of András Duska, son of György Duska the younger and Erzsébet Schwarz, Szenna 6, 22 and 23 September 1882: filed by the owner as 'Michal's father - maybe'",
+  "span": "22 September 1882",
+  "language": "Hungarian",
+  "collector_label": "Andras Duska 1882s baptism Michals father -maybe",
+  "family": "FG-48",
+  "route": "duska",
+  "part": "full",
+  "provenance": {
+   "archive": "Štátny archív v Prešove, church registers catalogue no. 1089 (Senné Roman Catholic births, 1866 to 1912); FamilySearch catalogue 710997. Volume reference from the Places agent's holdings entry PL-R-001 @641ba53; not on the strip.",
+   "fond_or_film": "unknown",
+   "book": "Roman Catholic baptism register of Senné (Szenna, Ungszenna), by the owner's folder name and the officiants' titles",
+   "page_or_image": "page 67",
+   "obtained": "From the owner's desktop folder 'Duska Hypotheses Hints', sent through chat on 15 Nov 2026.",
+   "catalogue_lead": "Places agent, @208af51: Senné Roman Catholic births from 1866 are Prešov state archive catalogue no. 1089 (L-018). The page of this strip is not established.",
+   "collection_lead": "FamilySearch, 'Slovakia Church and Synagogue Books, 1592-1935', Roman Catholic, Veľké Kapušany, Senné, 'Baptisms (Krsty) 1866-191[.] ... Deaths (Úmrtia) 1831-1877', 337 images: read from the viewer's header on the owner's screenshot D-006-04. The image number of this strip is not known."
+  },
+  "entries": [
+   {
+    "no": null,
+    "date": "22 September 1882",
+    "from": "baptism",
+    "abstract": "The entry already held as D-009-01 and on its full page as D-014-02. The owner's label proposes this András as the father of Michal (Ahn 8). He is not: Michal's father is the András born in 1868, son of György Duska and Anna Krak, who married Anna Nyemcsik in 1892 (D-006-03) and is Andrej Duška, born 24 November 1868, at the head of the house in 1930 with Michal's wife and son (D-011-24).",
+    "reading": "high"
+   }
+  ],
+  "transcriptions": [
+   {
+    "label": "As written, field by field. Square brackets mark doubtful readings.",
+    "original": "1882 szept. 22./23. | András | ifj. Duska György, Schwarcz Erzsébet (Ribnicze) | Szenna 6",
+    "english": "The entry already held as D-009-01 and on its full page as D-014-02. The owner's label proposes this András as the father of Michal (Ahn 8). He is not: Michal's father is the András born in 1868, son of György Duska and Anna Krak, who married Anna Nyemcsik in 1892 (D-006-03) and is Andrej Duška, born 24 November 1868, at the head of the house in 1930 with Michal's wife and son (D-011-24)."
+   }
+  ]
  }
 ]

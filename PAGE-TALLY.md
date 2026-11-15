@@ -4,10 +4,10 @@ The owner said on 13 November 2026 that he will send the full register pages at 
 
 Nearly every record in this archive is one row cut from a page. A row keeps the names. It loses the page number, often the year, and the entries above and below it. The year on most strips is the one in the owner's file name, and at least eight of those have already proved wrong.
 
-- **44** strips are rank 1: a direct-line entry, or one an open hypothesis rests on.
-- **128** are rank 2: other Duska strips whose year is only in the file name.
-- **252** are rank 3: the rest, most of them routed to the Demko and Places agents, who will rank their own.
-- **13** are already covered by a full page that has arrived.
+- **42** strips are rank 1: a direct-line entry, or one an open hypothesis rests on.
+- **124** are rank 2: other Duska strips whose year is only in the file name.
+- **248** are rank 3: the rest, most of them routed to the Demko and Places agents, who will rank their own.
+- **23** are already covered by a full page that has arrived.
 - **12** pages are needed and have not been seen in any form (last table).
 
 ## Rank 1: what each page would settle
@@ -15,14 +15,12 @@ Nearly every record in this archive is one row cut from a page. A row keeps the 
 | Strip | The owner's file | Date on the strip | Rests on it | Look for |
 |---|---|---|---|---|
 | `D-006-19` | Mihaily_and_Mikulas_Ship_Manifest.png | [between Nov 1929 and Jul 1930, from the ages] | direct line; - | The heading of the passenger list: ship, port and date of sailing and landing. Settles Hamburg and 1930 (H-090) and dates the arrival of Ahn 8 (H-066). |
-| `D-009-06` | Baptism_of_Andreas_Duska_1868.png | date as the entry above (dtto), [1868] | direct line; H-050 | The baptism of Ahn 16. The date is 'as above' on the strip: the entry above gives it. The year, page and entry number. |
 | `D-009-23` | Baptism_of_Anna_Nyemcsik_1872.png | 24 August [1872] | direct line; - | The baptism of Ahn 17. The year (1872 is the owner's), the page number and entry number. |
 | `D-013-138` | Death_of_Gyorgy_Duska_1908.png | 5 January 1908 | direct line; H-052 | The death of Ahn 32. The page number and entry number for the citation; the rows around it for other deaths in house 3. |
 | `D-015-03` | Steve_and_Joan_Duska_Residence_in_1957.png | [1957], by the owner's file name | direct line; - | The heading of the page: the year, the electoral district and the street. All three now rest on the file name and on the house number. |
 | `D-015-04` | Steve_and_Joan_Residence_in_1968.png | [1968], by the owner's file name | direct line; H-092 | The heading of the section the two rows stand in: the street. And the year and district from the top of the page (H-092). |
 | `D-007-08` | Baptism_of_Anna_Nyemcsik_1902.png | 12 and 14 December [1902] | - | The row below the one kept: Mihály Duska, born at 'Bradenville'. The full row and the rows under it (R-010). A Duska born in America and baptised at home. |
 | `D-009-10` | Baptism_of_Anna_Duska_1866.png | 17 March [1866] | H-050 | The first child of Ahn 32 and Anna Krak. The year (1866 is the owner's) bounds their marriage, which is not in hand. |
-| `D-009-33` | Baptism_of_Gyorgy_Duska_1872_to_Anna_Krak_and_Gyorgy_Duska.png | 10 February [1872] | H-085 | A son of Ahn 32 and Anna Krak. The year (1872 is the owner's) fixes the order of their children, who run to August 1875 (H-052). |
 | `D-010-01` | Baptism_of_Anna_Krak.jpg | January 1848 | - | The Sztára baptism of an Anna Krak, January 1848. No longer a likely Ahn 33, who was from Tiba (H-094, H-055 at 6); low priority. |
 | `D-013-15` | Death_of_Gyorgy_Demko_1905.png | 15th of a month; year not on the strip (the owner: 1905) | H-020 | Filed as 1905, on a page layout of the 1830s. The year from the page heading (H-078). Routed to the Demko agent; asked as R-020. |
 | `D-013-26` | Death_of_Mihaly_Demko_1888.png | 3 May; year not on the strip (the owner: 1888) | - | Filed as 1888; house 121 points to the 1870s. The year from the page heading (H-077). Routed to the Demko agent; asked as R-020. |
@@ -41,7 +39,7 @@ Nearly every record in this archive is one row cut from a page. A row keeps the 
 | `D-013-165` | Death_of_Maria_Duska_1847.png | 4 February 184[5 or 7] | H-080, H-085 | The year: the last digit reads 5 or 7. She is the proposed mother of Ahn 32 (H-085); her age of 31 dates her birth from it. |
 | `D-013-169` | Death_of_Maria_Duska_1879.png | 16 June [1879] | H-079 | The year (1879 is the owner's). A Duska born about 1799 who married out; a sister of the men of house 6 if the page says where she was born. |
 | `D-013-180` | Death_of_Maria_Nyemcsik_January_1851.png | 24 December [18]47 (filed by the owner as January 1851) | - | As D-013-161: the year, from the page heading. |
-| `D-014-01` | Mikulas_Duska_1890_Hamburg_Ship_Departure_in_1930.png | [between 28 Nov 1929 and 2 Jul 1930, from the two ages] | H-066, H-090 | The same list as D-006-19, a second crop. One heading serves both. |
+| `D-014-01` | Mikulas_Duska_1890_Hamburg_Ship_Departure_in_1930.png | [between 28 Nov 1929 and 2 Jul 1930, from the two ages] | H-066 | The same list as D-006-19, a second crop. One heading serves both. |
 | `D-013-66` | Death_of_Michael_Duska_1870.png | 11 December [1870] | H-062 | page heading: year and page number; the year as written on the page; the rows above and below |
 | `D-013-75` | Death_of_Andras_Duska_1854.png | 7 April [1854] | H-063 | page heading: year and page number; the year as written on the page; the rows above and below |
 | `D-013-76` | Death_of_Andras_Duska_1873.png | 1 June [1873] | H-063 | page heading: year and page number; the year as written on the page; the rows above and below |
@@ -71,7 +69,7 @@ For each: the page heading with its year and page number, and the rows above and
 
 **Baptisms, Prešov Greek Catholic** (2): `D-008-01` 30 July [1822], `D-008-02` 30 July [1822]
 
-**Baptisms, Senné Roman Catholic** (18): `D-009-07` 22 July [1866], `D-009-11` 17 March [1866], `D-009-13` 21 July [1879], `D-009-22` 29 December [1876], `D-009-24` 14 August [1878], `D-009-31` 21 May [1869], `D-009-52` 22 July [1875], `D-009-53` 24 March [1881], `D-009-56` 20 March [1866], `D-009-57` 2 March [1867], `D-009-63` 7 August [1875], `D-009-73` 23 January [1866], `D-009-74` 12 August [1872], `D-009-75` 9 November [1872], `D-009-80` 29 August [1878], `D-009-85` 17 September [1866], `D-009-86` 17 September [1866], `D-009-93` 4 August [1877]
+**Baptisms, Senné Roman Catholic** (14): `D-009-07` 22 July [1866], `D-009-11` 17 March [1866], `D-009-22` 29 December [1876], `D-009-24` 14 August [1878], `D-009-31` 21 May [1869], `D-009-53` 24 March [1881], `D-009-56` 20 March [1866], `D-009-57` 2 March [1867], `D-009-73` 23 January [1866], `D-009-74` 12 August [1872], `D-009-75` 9 November [1872], `D-009-80` 29 August [1878], `D-009-85` 17 September [1866], `D-009-86` 17 September [1866]
 
 **Burials, Belza Kosice Greek Catholic** (1): `D-013-05` 25 May [1863]
 
@@ -89,7 +87,7 @@ For each: the page heading with its year and page number, and the rows above and
 | Baptisms, Iňačovce Greek Catholic | 32 | demko 26, duska 6 |
 | Baptisms, Iňačovce Reformed | 19 | demko 13, duska 6 |
 | Baptisms, Prešov Greek Catholic | 2 | demko 2 |
-| Baptisms, Senné Roman Catholic | 63 | demko 25, duska 36, places 2 |
+| Baptisms, Senné Roman Catholic | 59 | demko 25, duska 32, places 2 |
 | Baptisms, Čičarovce (Viszoka) | 21 | demko 21 |
 | Burials, Belza Kosice Greek Catholic | 8 | demko 8 |
 | Burials, Cicarovce - Greek Catholic | 16 | demko 16 |
@@ -106,15 +104,25 @@ For each: the page heading with its year and page number, and the rows above and
 | `D-007-15` Baptism of György Dusko, Solymos 44, [1852] | `D-015-05` |
 | `D-007-25` Baptism of János Dusko, Solymos 33, [1852] | `D-015-05` |
 | `D-009-01` Baptism of András Duska, Szenna 6, [1882] | `D-014-02` |
+| `D-009-06` Baptism of Andreas Duska, Szenna 6, 1868 | `D-020-01` |
 | `D-009-08` Baptism of the twins Anna and Susanna Duska, Ungszenna 73, 1907 | `D-014-03` |
 | `D-009-12` Baptism of Anna Duska, Jesztreb, 1879 (filed as 1875) | `D-014-05` |
+| `D-009-13` Baptism of Anna Duska, Szenna 5, 1875 | `D-020-03` |
 | `D-009-16` Baptism of Anna Duska, Szenna 7[1 or 3], 1899 | `D-014-04` |
+| `D-009-33` Baptism of György Duska, son of György Duska and Anna Krak, Szenna 6, 1872 | `D-020-02` |
 | `D-009-34` Baptism of György Duska, son of György Duska the elder and Mária Kozej, Szenna 6, [1880] | `D-014-05` |
 | `D-009-35` Baptism of György Duska, son of György Duska the younger and Erzsébet Schwarz, Szenna 6, [1880] | `D-014-05` |
+| `D-009-36` Baptism of Pál Duska, Szenna 6, 1887 (labelled 'György') | `D-020-06` |
+| `D-009-52` Baptism of János Nyemcsik, son of János Nyemcsik and Erzsébet Hresko alias Minarcsin, Szenna 77, 1875 | `D-020-03` |
+| `D-009-60` Baptism of József Duska, Szenna 6, 1885, with a note of his death in 1950 | `D-020-05` |
+| `D-009-63` Baptism of Maria Duska, daughter of György Duska the elder and Anna Krak, Szenna 6, 1875 | `D-020-03` |
 | `D-009-66` Baptism of Mária Duska, Szenna 98, 1905 | `D-014-06` |
+| `D-009-77` Baptism of Michael Nyemcsik, son of Joannes Nyemcsik and Elisabetha Hresko alias Minarcsin, Szenna 79, 1868 | `D-020-01` |
+| `D-009-78` Baptism of Michael Nyemcsik, Szenna 79, 1868 (second image of the same entry) | `D-020-01` |
 | `D-009-79` Baptism of Mihály Duska, son of András Duska and Anna Nyemecz, Szenna 79, 1903 | `D-014-07` |
 | `D-009-84` Baptism of Miklós Duska, Szenna 6, 1890 | `D-014-09` |
 | `D-009-88` Baptism of the twins Zsuzsanna and Borbála Duska, Ungszenna 53, 1907 (labelled '1807') | `D-014-03` |
+| `D-009-93` Baptism of János Duska, son of György Duska and Erzsébet Schvarcz, Szenna 6, 1877 | `D-020-04` |
 
 ## Never seen in any form
 

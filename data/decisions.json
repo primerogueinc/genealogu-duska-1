@@ -1708,5 +1708,29 @@
   "date": "2026-11-15",
   "decided": "The 59 strips the owner gave the Demko agent are logged as lead L-039 and will be read from the images later.",
   "why": "They are not in this repository and were given to another agent; the Hresko entries it reports are noted on H-103 without a change of figure until seen."
+ },
+ {
+  "id": "DEC-286",
+  "date": "2026-11-15",
+  "decided": "The four folders sent within minutes are one batch.",
+  "why": "Each is small and marked full; one commit keeps the record readable. The fifth, 'Duska Marriages', is the next batch."
+ },
+ {
+  "id": "DEC-287",
+  "date": "2026-11-15",
+  "decided": "The street-directory compilation (F-021) is held unopened.",
+  "why": "Rule 31: a compilation he made about the family is not read until he says so. He is asked once."
+ },
+ {
+  "id": "DEC-288",
+  "date": "2026-11-15",
+  "decided": "The two maps (F-022) are held as checksums and routed to the Places agent.",
+  "why": "Third-party works; not republished."
+ },
+ {
+  "id": "DEC-289",
+  "date": "2026-11-15",
+  "decided": "Of 34 files in F-019 and F-020, 18 are read now: the 1930 crossing, the six full pages, and the strips whose labels state a guess.",
+  "why": "Direct line first; the rest are strips of entries already held, archived unread."
  }
 ]

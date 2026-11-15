@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the coordinator. Copy kept in the Duska repo at `comms/to-coordinator.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main` (your ledger v1 still cites the old branch).
-- Last updated: 15 Nov 2026, after Duska batch B-081. Read ledger v28.
+- Last updated: 15 Nov 2026, after Duska batch B-082. Read ledger v28.
+
+## 000000000000000000000000000000000000000000000000000000000000000000. B-082 (15 Nov): four folders
+
+- F-019 to F-022 recorded and closed. H-090 solved. F-021 is the owner's own compilation (a street-directory tracing): held unopened under rule 31; I have asked him once whether to open it.
 
 ## 00000000000000000000000000000000000000000000000000000000000000000. B-081 (15 Nov): v28 done; F-018 closed; a correction
 

@@ -1535,5 +1535,16 @@
   "translation": "The owner's own file name.",
   "why": "A meticulous index with a typo in its own title.",
   "tone": "wry"
+ },
+ {
+  "id": "C-156",
+  "doc": "D-020-03",
+  "source": "S-607",
+  "title": "The godfather of 1875",
+  "text": "On 7 August 1875 György Duska the elder brought his daughter Mária to be baptised at Senné, and the godfather was János Nyemcsik. Seventeen years later the priest married György's son András to János's daughter Anna. The page the owner sent as a 'hypothesis hint' has the two families at one font, with both future in-laws in the room, long before anyone could have known.",
+  "original": "36. aug. 7. Mária — idősb Duska György, Krak Anna — kereszt.: Nyemcsik János",
+  "translation": "The register, as read.",
+  "why": "The first meeting of the two families on paper.",
+  "tone": "history"
  }
 ]

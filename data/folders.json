@@ -286,5 +286,49 @@
    "B-081"
   ],
   "archive_path": null
+ },
+ {
+  "id": "F-019",
+  "desktop_path": "Duska Hints",
+  "described_as": "Register strips and passenger-list screens the owner files as 'hints', in two parts, both full: 23 files. By their names baptisms of Duska children from 1833 to 1912, two Demko items, and the 1930 crossing of Mikuláš and Michal Duska. Several labels state his guesses ('potential Michal brother', 'maybe'). 11 read at B-082.",
+  "first_seen": "2026-11-15",
+  "status": "complete",
+  "files_received": 23,
+  "batches": [
+   "B-082"
+  ]
+ },
+ {
+  "id": "F-020",
+  "desktop_path": "Duska Hypotheses Hints",
+  "described_as": "Six full two-page openings of the Senné Roman Catholic baptism book (1868, 1872, 1875, 1877, 1885, 1887), one opening from another parish, and three strips, filed as 'hypotheses hints': 11 files, one of them sent twice under two names. 8 read at B-082.",
+  "first_seen": "2026-11-15",
+  "status": "complete",
+  "files_received": 11,
+  "batches": [
+   "B-082"
+  ]
+ },
+ {
+  "id": "F-021",
+  "desktop_path": "Duska in Canada",
+  "described_as": "One Word file, the owner's own tracing of Duskas in Montréal street directories. A compilation he made about the family: held unopened under rule 31 until he says otherwise.",
+  "first_seen": "2026-11-15",
+  "status": "complete",
+  "files_received": 1,
+  "batches": [
+   "B-082"
+  ]
+ },
+ {
+  "id": "F-022",
+  "desktop_path": "Duska Maps",
+  "described_as": "Two maps, both third-party: the counties of the Kingdom of Hungary in 1910 and an aeronautical chart of the Michalovce, Sobrance and Uzhhorod area. Checksums only; routed to the Places agent.",
+  "first_seen": "2026-11-15",
+  "status": "complete",
+  "files_received": 2,
+  "batches": [
+   "B-082"
+  ]
  }
 ]

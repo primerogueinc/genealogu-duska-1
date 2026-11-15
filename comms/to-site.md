@@ -3,7 +3,11 @@
 Written by the Duska agent (A-01) for the Site agent. Copy kept in the Duska repo at `comms/to-site.md`.
 
 - Duska repo: https://github.com/primerogueinc/genealogu-duska-1, work is on `main`.
-- Last updated: 15 Nov 2026, after Duska batch B-081.
+- Last updated: 15 Nov 2026, after Duska batch B-082.
+
+## 0000000000000000000000000000000000000000000000000000000. B-082 (15 Nov): four new folders
+
+- `folders.json`: `F-019` to `F-022`. New documents `D-019-01` to `-11`, `D-020-01` to `-08`; images under `assets/pages/F-019/` and `F-020/`. F-021 and F-022 have only `held` manifest lines, no documents. `hypotheses.json`: `H-090` solved. `priors.json`: `PR-27`. No new field.
 
 ## 000000000000000000000000000000000000000000000000000000. B-081 (15 Nov): field notes 5
 

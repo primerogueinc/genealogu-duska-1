@@ -1,0 +1,27 @@
+{
+  "folder_id": "F-022",
+  "desktop_path": "Duska Maps",
+  "note": "",
+  "files": [],
+  "held": [
+    {
+      "file": "Former_Counties_of_Slovakia_Map.jpg",
+      "sha256": "2c6f2717d448bd55d52d67b483d5816cda548e5a3bdad178a9aedde79d8dc88e",
+      "bytes": 195967,
+      "pixels": "950x628",
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "why_held": "A third-party map; name and checksum only, not republished. Routed to the Places agent."
+    },
+    {
+      "file": "VFR_flight_map_of_Slovakia_Senne_Region.png",
+      "sha256": "cade89c3e357550c472d2b37c95671fa421eb1b07940118832dabbb4fe0ef6b2",
+      "bytes": 1941457,
+      "pixels": "1443x893",
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "why_held": "A third-party map; name and checksum only, not republished. Routed to the Places agent."
+    }
+  ],
+  "copies": []
+}

@@ -1,0 +1,18 @@
+{
+  "folder_id": "F-021",
+  "desktop_path": "Duska in Canada",
+  "note": "",
+  "files": [],
+  "held": [
+    {
+      "file": "DUSKA_STREET_DIRECTORY_TRACING_-_Montreal.docx",
+      "sha256": "bc9dea43c155001681291f5ef44668f5ad01cdf5d4f33f5b214df013dc89f027",
+      "bytes": 749565,
+      "pixels": null,
+      "received": "2026-11-15",
+      "via": "chat upload",
+      "why_held": "A compilation the owner made about the family. Held unopened under rule 31 until he says otherwise; name and checksum only."
+    }
+  ],
+  "copies": []
+}

@@ -2551,21 +2551,21 @@
    "file": "Baptism_of_Andreas_Duska_1868.png",
    "folder": "F-009",
    "register": "Baptisms, Senné Roman Catholic",
-   "date_on_file": "date as the entry above (dtto), [1868]",
-   "title": "Baptism of Andreas Duska, Szenna 6, [1868]",
+   "date_on_file": "date as the entry above (dtto), 1868",
+   "title": "Baptism of Andreas Duska, Szenna 6, 1868",
    "route": "duska",
-   "rank": 1,
-   "status": "wanted",
+   "rank": 0,
+   "status": "in hand",
    "want": [
     "page heading: year and page number",
-    "the year as written on the page",
     "the rows above and below"
    ],
    "direct_line": true,
    "hypotheses": [
     "H-050"
    ],
-   "look_for": "The baptism of Ahn 16. The date is 'as above' on the strip: the entry above gives it. The year, page and entry number."
+   "look_for": "The baptism of Ahn 16. The date is 'as above' on the strip: the entry above gives it. The year, page and entry number.",
+   "in_hand": "D-020-01"
   },
   {
    "id": "D-009-07",
@@ -2688,19 +2688,19 @@
    "file": "Baptism_of_Anna_Duska_1879.png",
    "folder": "F-009",
    "register": "Baptisms, Senné Roman Catholic",
-   "date_on_file": "21 July [1879]",
-   "title": "Baptism of Anna Duska, Szenna 5, [1879]",
+   "date_on_file": "21 July 1875",
+   "title": "Baptism of Anna Duska, Szenna 5, 1875",
    "route": "duska",
-   "rank": 2,
-   "status": "wanted",
+   "rank": 0,
+   "status": "in hand",
    "want": [
     "page heading: year and page number",
-    "the year as written on the page",
     "the rows above and below"
    ],
    "direct_line": false,
    "hypotheses": [],
-   "look_for": null
+   "look_for": null,
+   "in_hand": "D-020-03"
   },
   {
    "id": "D-009-14",
@@ -3054,21 +3054,21 @@
    "file": "Baptism_of_Gyorgy_Duska_1872_to_Anna_Krak_and_Gyorgy_Duska.png",
    "folder": "F-009",
    "register": "Baptisms, Senné Roman Catholic",
-   "date_on_file": "10 February [1872]",
-   "title": "Baptism of György Duska, son of György Duska and Anna Krak, Szenna 6, [1872]",
+   "date_on_file": "10 February 1872",
+   "title": "Baptism of György Duska, son of György Duska and Anna Krak, Szenna 6, 1872",
    "route": "duska",
-   "rank": 1,
-   "status": "wanted",
+   "rank": 0,
+   "status": "in hand",
    "want": [
     "page heading: year and page number",
-    "the year as written on the page",
     "the rows above and below"
    ],
    "direct_line": false,
    "hypotheses": [
     "H-085"
    ],
-   "look_for": "A son of Ahn 32 and Anna Krak. The year (1872 is the owner's) fixes the order of their children, who run to August 1875 (H-052)."
+   "look_for": "A son of Ahn 32 and Anna Krak. The year (1872 is the owner's) fixes the order of their children, who run to August 1875 (H-052).",
+   "in_hand": "D-020-02"
   },
   {
    "id": "D-009-34",
@@ -3118,15 +3118,16 @@
    "date_on_file": "28 October 1887",
    "title": "Baptism of Pál Duska, Szenna 6, 1887 (labelled 'György')",
    "route": "duska",
-   "rank": 3,
-   "status": "wanted",
+   "rank": 0,
+   "status": "in hand",
    "want": [
     "page heading: year and page number",
     "the rows above and below"
    ],
    "direct_line": false,
    "hypotheses": [],
-   "look_for": null
+   "look_for": null,
+   "in_hand": "D-020-06"
   },
   {
    "id": "D-009-37",
@@ -3405,19 +3406,19 @@
    "file": "Baptism_of_Janos_Nyemcsik_1875.png",
    "folder": "F-009",
    "register": "Baptisms, Senné Roman Catholic",
-   "date_on_file": "22 July [1875]",
-   "title": "Baptism of János Nyemcsik, son of János Nyemcsik and Erzsébet Hresko alias Minarcsin, Szenna 77, [1875]",
+   "date_on_file": "22 July 1875",
+   "title": "Baptism of János Nyemcsik, son of János Nyemcsik and Erzsébet Hresko alias Minarcsin, Szenna 77, 1875",
    "route": "duska",
-   "rank": 2,
-   "status": "wanted",
+   "rank": 0,
+   "status": "in hand",
    "want": [
     "page heading: year and page number",
-    "the year as written on the page",
     "the rows above and below"
    ],
    "direct_line": false,
    "hypotheses": [],
-   "look_for": null
+   "look_for": null,
+   "in_hand": "D-020-03"
   },
   {
    "id": "D-009-53",
@@ -3556,15 +3557,16 @@
    "date_on_file": "29 May 1885",
    "title": "Baptism of József Duska, Szenna 6, 1885, with a note of his death in 1950",
    "route": "duska",
-   "rank": 3,
-   "status": "wanted",
+   "rank": 0,
+   "status": "in hand",
    "want": [
     "page heading: year and page number",
     "the rows above and below"
    ],
    "direct_line": false,
    "hypotheses": [],
-   "look_for": null
+   "look_for": null,
+   "in_hand": "D-020-05"
   },
   {
    "id": "D-009-61",
@@ -3607,19 +3609,19 @@
    "file": "Baptism_of_Maria_Duska_1875.png",
    "folder": "F-009",
    "register": "Baptisms, Senné Roman Catholic",
-   "date_on_file": "7 August [1875]",
-   "title": "Baptism of Maria Duska, daughter of György Duska the elder and Anna Krak, Szenna 6, [1875]",
+   "date_on_file": "7 August 1875",
+   "title": "Baptism of Maria Duska, daughter of György Duska the elder and Anna Krak, Szenna 6, 1875",
    "route": "duska",
-   "rank": 2,
-   "status": "wanted",
+   "rank": 0,
+   "status": "in hand",
    "want": [
     "page heading: year and page number",
-    "the year as written on the page",
     "the rows above and below"
    ],
    "direct_line": false,
    "hypotheses": [],
-   "look_for": null
+   "look_for": null,
+   "in_hand": "D-020-03"
   },
   {
    "id": "D-009-64",
@@ -3869,15 +3871,16 @@
    "date_on_file": "28 July 1868",
    "title": "Baptism of Michael Nyemcsik, son of Joannes Nyemcsik and Elisabetha Hresko alias Minarcsin, Szenna 79, 1868",
    "route": "duska",
-   "rank": 3,
-   "status": "wanted",
+   "rank": 0,
+   "status": "in hand",
    "want": [
     "page heading: year and page number",
     "the rows above and below"
    ],
    "direct_line": false,
    "hypotheses": [],
-   "look_for": null
+   "look_for": null,
+   "in_hand": "D-020-01"
   },
   {
    "id": "D-009-78",
@@ -3887,15 +3890,16 @@
    "date_on_file": "28 July 1868",
    "title": "Baptism of Michael Nyemcsik, Szenna 79, 1868 (second image of the same entry)",
    "route": "duska",
-   "rank": 3,
-   "status": "wanted",
+   "rank": 0,
+   "status": "in hand",
    "want": [
     "page heading: year and page number",
     "the rows above and below"
    ],
    "direct_line": false,
    "hypotheses": [],
-   "look_for": null
+   "look_for": null,
+   "in_hand": "D-020-01"
   },
   {
    "id": "D-009-79",
@@ -4165,19 +4169,19 @@
    "file": "Birth_of_Janos_Duska_1877.png",
    "folder": "F-009",
    "register": "Baptisms, Senné Roman Catholic",
-   "date_on_file": "4 August [1877]",
-   "title": "Baptism of János Duska, son of György Duska and Erzsébet Schvarcz, Szenna 6, [1877]",
+   "date_on_file": "4 August 1877",
+   "title": "Baptism of János Duska, son of György Duska and Erzsébet Schvarcz, Szenna 6, 1877",
    "route": "duska",
-   "rank": 2,
-   "status": "wanted",
+   "rank": 0,
+   "status": "in hand",
    "want": [
     "page heading: year and page number",
-    "the year as written on the page",
     "the rows above and below"
    ],
    "direct_line": false,
    "hypotheses": [],
-   "look_for": null
+   "look_for": null,
+   "in_hand": "D-020-04"
   },
   {
    "id": "D-009-94",
@@ -8163,8 +8167,7 @@
    ],
    "direct_line": false,
    "hypotheses": [
-    "H-066",
-    "H-090"
+    "H-066"
    ],
    "look_for": "The same list as D-006-19, a second crop. One heading serves both."
   },

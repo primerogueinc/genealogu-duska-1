@@ -2596,18 +2596,23 @@
  {
   "id": "H-090",
   "statement": "Mikulas and Michal Duska left Europe through Hamburg in the first half of 1930.",
-  "confidence": 55,
+  "confidence": 97,
   "basis": "For: a handwritten list strip with both men and their ages (D-014-01) in the layout of a port-of-departure list; the ages date the voyage to between late November 1929 and early July 1930, and Štefan's birth in October 1929 with his father named at the baptism leans to the later part. Against: the port and the year are in the owner's file name only (PR-17), and Czechoslovak emigrants to Canada also left by Bremen, Antwerp, Cherbourg and Gdynia (recalled). Other port, 30; Hamburg in December 1929, 15.",
   "test": "The heading of the list page: ship, port and date. It is the kind of page header the owner has said will come at the end.",
-  "status": "open",
+  "status": "solved",
   "raised": "B-053",
-  "resolved": null,
-  "resolution": null,
+  "resolved": "B-082",
+  "resolution": "Solved. The Hamburg emigration lists, by their published index, have Mikulas Duska, 39, married, and Michal Duska, 26, both of Senne, leaving Hamburg on 6 March 1930 on the Westphalia for Winnipeg (D-019-03, -04); their passports were issued at Kapušany on 23 and 27 February 1930 (D-019-02).",
   "log": [
    {
     "batch": "B-053",
     "effect": "raised at 55",
     "note": "Raised from a label and a form; the cap of 70 applies until the page is in hand."
+   },
+   {
+    "batch": "B-082",
+    "effect": "solved",
+    "note": "Left Hamburg on 6 March 1930 on the Westphalia, by the index to the Hamburg lists (D-019-03, D-019-04), with passports of late February 1930 (D-019-02)."
    }
   ]
  },
